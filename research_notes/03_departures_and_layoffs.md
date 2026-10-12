@@ -1,5 +1,7 @@
 # Nike senior executive departures, 2019 to Oct 2026
 
+> **Verification update, Oct 12, 2026.** This session could reach sec.gov and about.nike.com, so the claims below were re-checked against SEC filings and opened Nike, WARN and news pages (see `REPORT.md` Section 13 and `data/people_events.csv`). Corrections are marked **[Corrected Oct 12]** inline. The original method note below is kept for the record but no longer describes the evidence.
+
 Compiled 2026-10-12 from search-result summaries. WebFetch could not resolve most hosts (retaildive, wwd, businessoffashion, sec.gov), so details come from search snippets, not full-article reads. Treat every item as "reported" unless marked "official (8-K/press release)". Verify key figures against the primary links before putting them in the report.
 
 Phases: Parker-to-Donahoe (Jan 2020); Donahoe era (2020 to Oct 2024); Hill era (from 14 Oct 2024: "Win Now", "Sport Offense", then "Pace" from Oct 2026).
@@ -9,14 +11,14 @@ Phases: Parker-to-Donahoe (Jan 2020); Donahoe era (2020 to Oct 2024); Hill era (
 | Person | Role | Exit date | Official vs reported reason | Next | Successor | Hill transition / restructuring link |
 |---|---|---|---|---|---|---|
 | Mark Parker | CEO, then Exec Chair | CEO step-down 13 Jan 2020 | Planned succession, official | Stayed as exec chair | John Donahoe | Pre-Donahoe; not a push-out |
-| Eric Sprunk | COO | Retire 2020 (announced 12 Feb 2020) | Retirement, official | Unknown | Andy Campion (COO) | Donahoe-era reshuffle |
+| Eric Sprunk | COO | Retire 2020 (announced 18 Feb 2020 **[Corrected Oct 12; Fortune]**) | Retirement, official | Unknown | Andy Campion (COO) | Donahoe-era reshuffle |
 | Elliott Hill | President, Consumer & Marketplace | Retired 2020 (announced 12 Feb 2020) | Retirement, official | Returned as CEO Oct 2024 | Heidi O'Neill (consumer business) | Boomerang |
 | Ann Hebert | VP/GM North America geography | 1 Mar 2021 | Nike: her decision to resign; reported cause: Bloomberg report tying her son's sneaker resale business to her credit card | Unknown | Sarah Mensah (NA); Amy Montagne (APLA) | Not related to Hill or restructurings |
 | Andy Campion | CFO, then COO (from 2020); later MD of strategic business ventures (Nike Virtual Studios) | 5 Apr 2024 | Separation agreement gave no reason; $2.75M payout | UCLA Anderson, Sports Leadership & Management program director | n/a (moved out of C-suite mid-2023 per one source) | Donahoe era; Virtual Studios was a Donahoe-era bet. Link to cost cuts inferred, not stated |
 | Monique Matheson | EVP, Chief Human Resources Officer (26 yrs at Nike) | Effective 6 Jan 2025 (announced late Nov 2024) | Retirement, official | Unknown | Treasure Heinle | Hill's first months; reported as one of four 26-year veterans retiring after Hill arrived |
 | John Slusher | EVP, Global Sports Marketing (26 yrs) | Retire "later this year" (announced 30 Oct 2024) | Retirement, official | Unknown | Ann Miller (ex-Chief Legal Officer); Rob Leinwand became CLO | Hill-era reshuffle |
-| Daniel Heaf | Chief Strategy & Transformation Officer | ~19 Mar 2025 | Role eliminated (Bloomberg, internal memo); duties moved to finance | Unknown | None; function folded into finance | Hill streamlining |
-| KeJuan Wilkins | Chief Communications Officer (~20 yrs at Nike; promoted 2023) | ~19 Mar 2025 | Reported leaving; no public statement; no reason found | Unknown | None named at time of report | Hill reshuffle |
+| Daniel Heaf | Chief Strategy & Transformation Officer | ~19 Mar 2025 | Role eliminated (Bloomberg, internal memo); duties moved to finance | CEO of Bath & Body Works (May 2025) **[Corrected Oct 12]** | Jennifer Hartley as Chief Strategy Officer (Apr 2025) **[Corrected Oct 12]**; function folded into finance | Hill streamlining |
+| KeJuan Wilkins | Chief Communications Officer (~20 yrs at Nike; promoted 2023) | ~19 Mar 2025 | Reported leaving; no public statement; no reason found | Unknown | Michael Gonda, EVP CCO from July 7, 2025 **[Corrected Oct 12]**; previously none named at time of report | Hill reshuffle |
 | Heidi O'Neill | President, Consumer, Product & Brand (26 yrs); earlier consumer business head from 2020 | Role eliminated May 2025; advisory non-exec until retirement 5 Sep 2025 (one source); Lululemon move announced 23 Apr 2026 | Official: retirement. Reported: role eliminated in shake-up (Business of Fashion headline "out") | CEO of Lululemon, starting 8 Sep 2026 | Duties split into three areas reporting to Hill; Amy Montagne became President, Nike Brand | Direct Hill-era restructuring (Sport Offense structure) |
 | John Hoke | Chief Innovation Officer (33 yrs) | Retire, stay through 31 Oct 2025 | Retirement, official | Unknown | Successor to be named by Phil McCartney; Tony Bignell later held innovation chief role | Announced same May 2025 batch |
 | Jared Carver | President & CEO, Converse (joined 2023) | Jul 2025 | Reported via internal memo (Bloomberg, Reuters); no reason found; Converse sales weak | Unknown | Aaron Cain (Nike veteran) | Hill-era; performance-linked per press, not confirmed |
@@ -24,14 +26,14 @@ Phases: Parker-to-Donahoe (Jan 2020); Donahoe era (2020 to Oct 2024); Hill era (
 | Craig Williams | Chief Commercial Officer; previously Jordan Brand president, then president geographies & marketplace (2023); 6 yrs at Nike, ex-Coca-Cola | Role eliminated 2 Dec 2025; full-time non-exec employee through 6 Apr 2026 | Role eliminated, official | Unknown | Global Sales and Nike Direct report to CFO Matt Friend; four regional heads moved onto leadership team | Win Now layer removal |
 | Carl Grebert | VP/GM EMEA (nearly 30 yrs) | Retire, announced 20 Jan 2026; successor from 2 Feb 2026 | Retirement, official; Hill said succession planning was long underway | Unknown | Cesar Garcia | Part of "remove layers" regional change |
 | Angela Dong | Chair/CEO Greater China (led since 2005) | 31 Mar 2026 (announced 20 Jan 2026) | Stepping down; Bloomberg framed it as "bid to recapture growth"; not officially tied to performance | Unknown | Cathy Sparks (ex-APLA VP/GM) | Hill-era China turnaround |
-| Tony Bignell | Innovation chief (under a year) | Effective 5 Apr 2026 | Spokesperson: to "pursue creative and philanthropic passions"; analyst called it a "real surprise" | Unknown | Andy Caine (reports to Phil McCartney) | Hill-era turnover |
+| Tony Bignell | Innovation chief (under a year) | Replaced by Andy Caine 12 Apr 2026 **[Corrected Oct 12; Retail Dive 817310]** | Spokesperson: to "pursue creative and philanthropic passions"; analyst called it a "real surprise" | Unknown | Andy Caine (reports to Phil McCartney) | Hill-era turnover |
 | Matthew Friend | EVP & CFO (6 yrs as CFO, 17+ yrs at Nike) | Handoff 17 Aug 2026; separated 4 Sep 2026 (announced 23 Jun 2026) | Official: not due to disagreement with management or board. Analysts called it a surprise; no real reason given | Unknown | David Denton (ex-Pfizer, Lowe's CFO) | Hill-era; speculation only on guidance link |
 
 ## Notes per executive
 
 ### Pre-Hill (2019 to Oct 2024)
 - **Parker to Donahoe.** Parker stepped down as CEO 13 Jan 2020, became executive chairman; Donahoe became CEO. https://www.cnn.com/2019/10/22/tech/mark-parker-nike-ceo
-- **Feb 2020 reshuffle.** Sprunk (COO) and Hill (President, Consumer & Marketplace) announced retirements 12 Feb 2020. Campion took the COO job (1 Apr 2020), Friend became CFO, O'Neill was promoted. https://www.foxbusiness.com/markets/nikes-new-ceo-shuffles-executive-ranks and https://fortune.com/2020/02/18/nike-executive-job-reshuffling
+- **Feb 2020 reshuffle.** Sprunk (COO) and Hill (President, Consumer & Marketplace) announced retirements 18 Feb 2020 **[Corrected Oct 12]**. Campion took the COO job (1 Apr 2020), Friend became CFO, O'Neill was promoted. https://www.foxbusiness.com/markets/nikes-new-ceo-shuffles-executive-ranks and https://fortune.com/2020/02/18/nike-executive-job-reshuffling
 - **Ann Hebert.** Named VP/GM North America in Apr 2020 (replacing retiring Tom Peddie), resigned 1 Mar 2021 after the resale report. Nike called it her decision; O'Neill later said "together with Ann, we decided that it was best for her to resign," so official and reported accounts diverge. Replacements: Sarah Mensah (NA), Amy Montagne (APLA). https://www.cnbc.com/2021/03/01/nikes-general-manager-of-north-america-ann-hebert-departs.html and https://www.complex.com/sneakers/nike-vp-ann-hebert-replacement-announced-sarah-mensah-amy-montagne
 - **Andy Campion.** Left 5 Apr 2024; $2.75M; joined UCLA Anderson. Sources conflict on when he left the C-suite (one says 1 Jun 2023). https://www.retaildive.com/news/nike-executive-andrew-campion-exits/704328/ and https://www.sgieurope.com/campion-to-leave-nike-after-17-years-joins-ucla/106646.article
 - **Nigel Powell (CCO) retired Apr 2023**, replaced by KeJuan Wilkins. Found via https://www.retaildive.com/news/nike-chief-communications-officer-nigel-powell-retires/647134/ (details not read; minor).
@@ -62,18 +64,18 @@ Phases: Parker-to-Donahoe (Jan 2020); Donahoe era (2020 to Oct 2024); Hill era (
 - **"Tim Hardaway-era" people:** not understood; nothing searched with confidence. Unverified.
 - **Larry Miller (Jordan Brand):** no retirement found.
 - **Current Jordan Brand leadership exits:** none found beyond Williams's earlier Jordan stint.
-- **Successor to Wilkins (CCO), and where Dogan, Williams, Heaf, Wilkins, Hoke, Matheson, Slusher went next:** not found.
+- **Successor to Wilkins (CCO), and where Dogan, Williams, Heaf, Wilkins, Hoke, Matheson, Slusher went next:** Wilkins was succeeded by Michael Gonda (July 7, 2025) and Heaf became CEO of Bath & Body Works (May 2025) **[Corrected Oct 12]**; the others were not found.
 
 ## Layoff rounds
 | Date | Size | Notes / source |
 |---|---|---|
-| Dec 2023 announced, Feb 2024 executed | ~2% of global headcount, more than 1,600 (secondary summary; Fortune headline says "more than 1,500") | Part of up to $2B savings over three years under Donahoe. https://fortune.com/2024/02/16/nike-lays-off-more-than-1500-people-ceo-john-donahoe/amp/ |
+| Dec 2023 announced, Feb 2024 executed | ~2% of global headcount, "more than 1,500" (Fortune, Feb 16, 2024; the 1,600 figure appears only in secondary summaries) **[Corrected Oct 12]** | Part of up to $2B savings over three years under Donahoe. https://fortune.com/2024/02/16/nike-lays-off-more-than-1500-people-ceo-john-donahoe/amp/ |
 | Apr 2024 | "Hundreds" of staff | https://fortune.com/2024/04/19/hundreds-of-staffers-laid-off-at-nike (not read; may overlap Feb 2024) |
-| Aug 2024 | Under 1% of corporate staff (secondary summary) | Donahoe era, pre-Hill |
-| 2025 | No distinct round found | Headcount fell from ~77,800 (May 2025) to ~73,000 (May 2026); ~79,400 in 2024 (secondary) |
-| Jan 2026 | ~775, mostly US distribution centers | Automation. https://www.cnbc.com/2026/04/23/nike-job-cuts-layoffs.html |
-| Mar 2026 plan | ~$0.3B severance booked in FY2026 (8-K, per search summary) | Under Win Now |
-| 23 Apr 2026 | ~1,400 (<2% of workforce), mostly technology | COO Alagirisamy memo: consolidate tech in Beaverton and Nike India Technology Center. https://www.cnbc.com/2026/04/23/nike-job-cuts-layoffs.html , https://qz.com/nike-layoffs-1400-jobs-technology-global-operations-042426 |
+| Aug 28, 2025 **[Corrected Oct 12: not Aug 2024]** | Under 1% of corporate staff (Complex; Retail Dive) | Hill era, sport-team reorganization |
+| 2025 | See the Aug 28, 2025 row above | Headcount: ~79,400 (May 2024), ~77,800 (May 2025), ~73,000 (May 2026) (FY24, FY25, FY26 10-Ks, p. 6 each) **[Confirmed Oct 12]** |
+| Jan 2026 | ~775, Tennessee and Mississippi distribution centers (Retail Dive 810593); the Tennessee WARN notice lists 583 Memphis workers, layoff effective Apr 3, 2026 **[Confirmed Oct 12]** | Automation and consolidation. https://www.tn.gov/content/dam/tn/workforce/documents/warn/NIKE-Retail-Services.pdf |
+| Mar 2026 plan | About $300M pre-tax charges, primarily severance, substantially all in Q3 FY2026; no headcount (8-K filed Mar 5, 2026, Item 2.05, p. 2) **[Confirmed Oct 12]** | Under Win Now |
+| 23 Apr 2026 | ~1,400 (<2% of workforce), mostly technology (confirmed on Fox / AP and Daily Tidings pages; no 2026 Oregon WARN notice found) | COO Alagirisamy memo: consolidate tech in Beaverton and Nike India Technology Center. https://www.cnbc.com/2026/04/23/nike-job-cuts-layoffs.html , https://qz.com/nike-layoffs-1400-jobs-technology-global-operations-042426 |
 | 1 Oct 2026 "Pace" | No headcount given; role decisions start 2027 | ~$1.0B pre-tax charges (~$0.3B in FY2027), ~$2.5B savings through FY2031; four geographies become three (Americas, APGC, EMEA) from FY2028; APGC leadership based in Singapore; new Bengaluru campus; Investor Day 16 to 17 Nov 2026. https://www.sec.gov/Archives/edgar/data/0000320187/000032018726000184/nke-20261001.htm , https://www.cnbc.com/2026/10/02/nike-nke-stock-q1-earnings-layoffs.html , https://www.retaildive.com/news/nike-turnaround-visibility-very-low-layoffs-sales-declines-q1-earnings/832015/ |
 
 BNP Paribas called Pace the third restructuring since fiscal 2024 with "no operating leverage" so far (via Retail Dive snippet).
