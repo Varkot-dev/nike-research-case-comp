@@ -238,7 +238,7 @@ Nike beat on EPS ($0.48 vs about $0.43 expected) but missed on revenue ($11.21 b
 - **Signal:** a supply-chain operator now runs both operations and technology, which is consistent with Pace's operational focus.
 
 ### Jane Ewing, EVP and Chief Commercial Officer (started Sept 7, 2026; outside hire by Hill)
-- **Career:** about 14 years at **Walmart** (merchandising, digital, international; most recently interim CEO of **Sam's Club China**); earlier at Diageo (one source, MED). Her first job was selling Nike product in a sporting-goods store (per Nike's bio).
+- **Career:** about 14 years at **Walmart** (joined 2012; roles in international operations, international people/HR, sustainability, and Walmart China; most recently interim CEO of **Sam's Club China**); earlier at **Diageo** (Middle East, South Africa, global travel retail; tenure conflicts between 9 and 20 years). Her first job was selling Nike product in a sporting-goods store (per Nike's bio). *Corrected Oct 12: an earlier version listed merchandising and digital roles that the sources do not support.* Full profile: `DEEP_DIVE_DENTON_EWING.md`.
 - **What she owns:** global Marketplace (Sales and Nike Direct). Predecessor role (Craig Williams) was eliminated in Dec 2025, so this is a **re-created** role under a new person.
 - **Signal (my inference):** a China-experienced retailer, hired into the channel that is declining fastest. The hire follows the Greater China head's departure.
 
@@ -469,4 +469,5 @@ All links below were surfaced by web search. Most primary pages could not be ope
 | `REPORT.md` | This report |
 | `charts/` | The 10 chart images used above |
 | `scripts/make_charts.py` | Reproduces every chart; data and quality flags are inside the script (`pip install matplotlib`, then `python3 scripts/make_charts.py`) |
+| `DEEP_DIVE_DENTON_EWING.md` | Deep dive on the two outside hires: CFO David Denton and CCO Jane Ewing |
 | `research_notes/` | Raw research notes from four parallel research passes, with inline source URLs and confidence tags |
