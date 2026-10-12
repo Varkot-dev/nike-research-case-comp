@@ -2,7 +2,11 @@
 
 **Prepared:** October 12, 2026 | **Purpose:** Case competition research | **Status:** Working draft, not investment advice
 
-> **How to read this report.** It is written for someone new to finance. Every concept is explained the first time it appears (see also the glossary in Section 14). Every chart carries a data-quality note. Facts are labelled **checked** (matched against search summaries that cite SEC or Nike releases), **approximate** (from memory, not verified), **secondary** (news or aggregator sites), or **my inference** (my own reasoning, not a sourced fact). **Read Section 13 before relying on any number.** None of the SEC pages could be opened directly in this environment, so every figure should be confirmed against the filings before it goes into a final submission.
+> **How to read this report.** It is written for someone new to finance. Every concept is explained the first time it appears (see the glossary in Section 14).
+>
+> **Every financial number in this version comes from Nike's SEC filings**, which were downloaded from sec.gov and read in full: the FY2019 to FY2026 10-Ks, the 10-Qs from Q1 FY2024 to Q1 FY2027, every quarterly earnings release (8-K Exhibit 99.1) from Q4 FY2019 to Q1 FY2027, the 2026 proxy statement, and the 2024 to 2026 leadership and restructuring 8-Ks. Each number carries a citation in the form **(FY26 10-K p. 32)**, where the page is the printed page number in the filing. Earnings releases have no printed page numbers, so their pages are counted from the first page of the press release. Every value was machine-checked to appear on the cited page. The cell-level record (filing, page, URL and a verbatim quote) is `data/nike_filing_facts.csv`, and the tables are in `research_notes/04_financial_data_pack.md`.
+>
+> **Non-filing facts are labelled.** *Market data* (share prices) comes from the Yahoo Finance price feed (`data/nke_daily_prices.csv`). *Nike release* means a page on about.nike.com or investors.nike.com that was opened and read. *Secondary* means a news or aggregator page that was opened and read. *My arithmetic* and *my inference* mark my own calculations and reasoning. Section 13 lists what changed from the previous draft.
 
 ---
 
@@ -20,7 +24,7 @@
 10. [Patterns in the people data](#10-patterns-in-the-people-data)
 11. [Scenario framework (illustrative)](#11-scenario-framework-illustrative)
 12. [What else to investigate](#12-what-else-to-investigate)
-13. [Data quality and open questions](#13-data-quality-and-open-questions)
+13. [Data quality and what changed in this version](#13-data-quality-and-what-changed-in-this-version)
 14. [Glossary](#14-glossary)
 15. [Sources](#15-sources)
 
@@ -28,57 +32,60 @@
 
 ## 1. Executive summary
 
-- **The situation.** Nike is the world's largest sportswear company, and it is shrinking. Revenue peaked at $51.4 billion in FY2024 (approximate) and was **$46.4 billion in FY2026** (checked). Diluted earnings per share (EPS) fell from about $3.73 (approximate) to **$2.10**, and management guided to adjusted EPS of **$1.15 to $1.35** for FY2027 with revenue falling by a **high single digit percentage**.
-- **The stock.** About **$34.71** (Oct 9 close, secondary), roughly **80% below** its 2021 intraday high near $179, and near a 13-year low. Analyst consensus is Hold, with targets ranging from $19 to $94.
-- **The turnaround.** CEO Elliott Hill (a 32-year Nike veteran who retired in 2020 and returned in October 2024) is running a three-stage plan: **Win Now** (repair retailer relationships, refocus on sport), **Sport Offense** (reorganize around sports), and **Pace** (announced Oct 1, 2026: about $2.5 billion in savings through FY2031 at about $1.0 billion of restructuring cost).
-- **The people angle (your thesis idea).** I counted **19 named senior exits since 2020, and 14 of them came after Hill started** (Section 9). Four were roles that Nike eliminated outright. In the same window Nike changed its CFO and its Chief Commercial Officer, and its chief accounting officer also resigned. Hill's outside hires are only in finance and commercial (David Denton, Jane Ewing) and both come from outside sportswear. Everyone else he promoted is a Nike insider or returnee. Section 10 explains why this matters and what it does and does not prove.
-- **What to watch next:** Nike Investor Day (**Nov 16 to 17, 2026**) and Q2 FY2027 earnings (about **Dec 17, 2026**).
+- **The situation.** Nike is the world's largest sportswear company, and it is shrinking. Revenue peaked at **$51,362 million in FY2024** (FY24 10-K p. 57) and was **$46,398 million in FY2026** (FY26 10-K p. 55). Diluted earnings per share (EPS) fell from **$3.73** to **$2.10** over the same two years (FY24 10-K p. 57; FY26 10-K p. 55), and FY2026 included a one-time **$0.52** per share tariff-refund benefit in the fourth quarter (Q4 FY26 release p. 1). For FY2027, Nike expects revenue to "decline high-single digits" and adjusted EPS of **$1.15 to $1.35** (Q1 FY27 release p. 1).
+- **The stock.** NKE closed at **$35.35 on October 12, 2026**, which is **80% below** its record close of $177.51 on November 5, 2021 and down 44.5% since the end of 2025 (market data; my arithmetic). The October 2, 2026 close of $33.87 was the lowest since September 2013 (market data). The proxy's own shareholder-return measure says $100 invested at the end of FY2021 was worth **$36.47** at the end of FY2026, against $48.36 for the Dow Jones U.S. Footwear index (2026 proxy p. 56).
+- **The turnaround.** CEO Elliott Hill, a 32-year Nike veteran who retired in 2020, returned on October 14, 2024 (8-K filed Sept 19, 2024, p. 2). His plan has three stages: **Win Now**, **Sport Offense**, and **Pace**. Pace was announced October 1, 2026 and targets "approximately $2.5 billion in cumulative savings through fiscal 2031" at "approximately $1.0 billion of pre-tax charges" (8-K filed Oct 1, 2026, Item 2.05, p. 2).
+- **The people angle (the thesis idea).** I count **19 named senior exits since 2020, 14 of them after Hill started** (Section 9). Four were roles Nike said it eliminated. Within a single quarter Nike also changed its CFO (8-K filed June 23, 2026) and its chief accounting officer resigned (8-K filed Aug 10, 2026). Hill's senior outside hires are **three**: Michael Gonda (communications, from McDonald's), David Denton (CFO, from Pfizer) and Jane Ewing (commercial, from Walmart). Nearly everyone else he promoted is a Nike insider or returnee.
+- **Shareholders are pushing back.** Support for executive pay fell to about **67.8%** at the September 2026 annual meeting, from about 94% in 2025 (8-K filed Sept 10, 2026, p. 2; 2026 proxy p. 23; my arithmetic on votes for versus against).
+- **What to watch next:** Nike Investor Day on **Nov 16 to 17, 2026** (Nike release, Oct 1, 2026 employee memo) and Q2 FY2027 results (expected in December; Nike had not announced the date as of Oct 12).
 
-**Suggested thesis question for your case:** *Is Nike's decline a leadership-and-execution problem that a returning insider team can fix, or a structural problem (competition, China, tariffs, brand fatigue) that leadership changes cannot fix?* The people data (Sections 7 to 10) is the strongest evidence for the first half of that question. The competitor and product evidence (Section 12) is what is still missing for the second half.
+**Suggested thesis question:** *Is Nike's decline a leadership-and-execution problem that a returning insider team can fix, or a structural problem (competition, China, tariffs, brand fatigue) that leadership changes cannot fix?* The people data (Sections 7 to 10) is the strongest evidence for the first half. Section 12 lists the competitor and product evidence still needed for the second half.
 
 ---
 
 ## 2. Finance primer for beginners
 
-Skip this if you know it. If you do not, read it once, because the rest builds on it.
+Skip this if you know it. If you don't, read it once, because the rest builds on it.
 
-**A stock** is a small slice of ownership in a company. If Nike has about 1.48 billion shares (approximate, not verified) and each costs $34.71, the market values Nike at roughly **$51 billion** (my arithmetic). That total is called **market capitalization**.
+**A stock** is a small slice of ownership in a company. Nike had **1,485,308,829 shares** outstanding on September 28, 2026: 281,387,752 Class A and 1,203,921,077 Class B (Q1 FY27 10-Q cover). At $35.35 a share, the market values Nike at about **$52.5 billion** (my arithmetic). That total is called **market capitalization**.
 
-**A stock price is a bet on the future,** not a report on the past. When Nike beats its earnings estimate but guides to falling sales, the stock can still drop, because investors care more about where profits are going than where they have been.
+**Two share classes.** Class A shareholders elect about three-quarters of the board, and Swoosh, LLC (Phil Knight's holding entity) owns 78.8% of Class A (2026 proxy p. 70). Ordinary investors hold the listed Class B shares. Founder control matters when judging how much outside shareholders can force change.
+
+**A stock price is a bet on the future,** not a report on the past. When Nike reports a decent quarter but guides to falling sales, the stock can still drop, because investors care more about where profits are going than where they have been.
 
 **The income statement in four lines:**
 1. **Revenue** (sales): all money from customers.
-2. **Gross profit:** revenue minus the direct cost of making and shipping products. **Gross margin** is that as a percent of revenue. Nike's 42.8% means about 43 cents of each sales dollar is left to pay for marketing, salaries, stores, and profit.
-3. **Operating profit (EBIT):** gross profit minus selling, marketing, and overhead costs.
+2. **Gross profit:** revenue minus the direct cost of making and shipping products. **Gross margin** is that as a percent of revenue. Nike's Q1 FY2027 gross margin of 42.8% (Q1 FY27 10-Q p. 22) means about 43 cents of each sales dollar is left to pay for marketing, salaries, stores and profit.
+3. **Operating profit (EBIT):** gross profit minus selling, marketing and overhead costs. Nike calls its marketing spend **demand creation**.
 4. **Net income:** what remains after interest and taxes. Divided by shares, it becomes **EPS**.
 
-**P/E ratio** is price divided by EPS. It says how many years of current profit you pay for. A *forward* P/E uses next year's expected EPS. High P/Es mean investors expect growth; low P/Es mean they are skeptical or the business is in decline. A P/E can also look high simply because profit is temporarily depressed.
+**P/E ratio** is price divided by EPS: how many years of current profit you pay for. A *forward* P/E uses next year's expected EPS. A P/E can look high simply because profit is temporarily depressed.
 
-**Dividend yield** is the yearly dividend divided by the price. Nike pays $0.41 per quarter ($1.64 per year), so the yield is about **4.7%** at today's price. The **payout ratio** is dividends divided by earnings. Above 100% means the company pays out more than it earns, which cannot last forever without drawing on cash or borrowing.
+**Dividend yield** is the yearly dividend divided by the price. Nike pays **$0.41 per quarter** (Q1 FY27 10-Q p. 5), which is **$1.64 a year** if held, a yield of about **4.6%** at $35.35 (my arithmetic). The **payout ratio** is dividends divided by earnings. Above 100% means the company pays out more than it earns, which cannot last forever without drawing on cash or borrowing.
 
 **Fiscal year.** Nike's year ends May 31. "FY2026" is June 2025 to May 2026. "Q1 FY2027" is June to August 2026, reported October 1, 2026.
 
 **Basis points (bps):** 100 bps = 1 percentage point. **Currency-neutral** growth strips out exchange-rate effects.
 
-**Guidance** is the company's own forecast. Markets move on guidance more than on past results.
+**Guidance** is the company's own forecast. **Adjusted** (non-GAAP) figures exclude items management considers unusual, such as restructuring costs, so they are not directly comparable to reported (GAAP) figures.
 
-**One-time items.** A good number that will not repeat is not a trend. Example in this report: Nike's Q4 FY2026 margin of 49.2% included a one-time $986 million tariff refund (Section 5).
+**One-time items.** A good number that will not repeat is not a trend. Example: Nike's Q4 FY2026 gross margin of 49.2% included about 900 bps from an expected tariff refund (Q4 FY26 release p. 1).
 
 ---
 
 ## 3. What Nike is and what went wrong
 
-Nike designs and sells athletic shoes, apparel and equipment under the **Nike**, **Jordan** and **Converse** brands. It sells through two main channels: **wholesale** (retailers such as Foot Locker, Dick's, JD Sports) and **Nike Direct** (its own stores, app and website). Its four geographic regions are North America, EMEA (Europe, Middle East, Africa), Greater China, and APLA (Asia Pacific and Latin America).
+Nike designs and sells athletic footwear, apparel and equipment under the **Nike**, **Jordan** and **Converse** brands. It sells through two channels: **wholesale** (retailers such as Foot Locker, Dick's and JD Sports) and **NIKE Direct** (its own stores, app and website). The NIKE Brand has four geographic segments: North America, EMEA (Europe, Middle East and Africa), Greater China, and APLA (Asia Pacific and Latin America). Converse is reported separately.
 
-**How the decline happened (narrative from the research; ordering of causes is my interpretation):**
+**How the decline happened.** The facts are from filings; the ordering of causes is my interpretation.
 
-1. **The direct-to-consumer bet (2020 to 2023).** Under then-CEO John Donahoe, a technology executive from eBay, PayPal and ServiceNow, Nike pushed its "Consumer Direct Acceleration" plan: more sales through its own channels and fewer through retailers. Revenue grew at first. But Nike pulled back from retail partners, and competitors took the shelf space.
-2. **Product fatigue.** Nike leaned heavily on classic franchises (Air Force 1, Dunk, Jordan retros). New innovation slowed. Newer brands such as On and Hoka won running customers.
-3. **Donahoe acknowledged the problem.** In early 2024 he publicly said Nike had gone too far from wholesale partners. He announced a roughly $2 billion cost-cutting plan in December 2023.
-4. **The break point.** On September 19, 2024, Nike announced Donahoe's retirement after weak guidance. The board brought in Elliott Hill, effective October 14, 2024.
-5. **Since then:** the revenue decline continued. Tariffs added cost pressure (estimated at about $1.5 billion annualized at the peak). Greater China weakened sharply. Converse shrank.
+1. **The direct-to-consumer bet (2020 to 2023).** Under CEO John Donahoe (an outsider from Bain, eBay, PayPal and ServiceNow), Nike pushed sales through its own channels. NIKE Direct revenue grew from **$11,753 million in FY2019 to $21,519 million in FY2024** (FY19 10-K p. 27; FY24 10-K p. 34), while wholesale was roughly flat ($25,423 million to $27,758 million, same pages). Retail partners lost Nike shelf space, and competitors took it.
+2. **Product fatigue.** Nike leaned on classic franchises and newer running brands gained share (secondary; product evidence is an open item in Section 12).
+3. **Cost cuts began under Donahoe.** In December 2023 Nike said it was "identifying opportunities to deliver up to $2 billion in cumulative cost savings over the next three years," with pre-tax restructuring charges of "approximately $400 million to $450 million primarily associated with employee severance" (8-K filed Dec 21, 2023, Item 2.05, p. 2; Q2 FY24 10-Q p. 22). FY2024 restructuring charges came to **$443 million**, including $392 million of severance (FY24 10-K p. 91).
+4. **The break point.** On September 19, 2024 Nike announced Donahoe's retirement and Hill's appointment, effective October 14, 2024 (8-K filed Sept 19, 2024, p. 2).
+5. **Since then:** revenue fell 10% in FY2025 (Q4 FY25 release p. 1), Greater China has declined for nine straight quarters (Section 5.4), and tariffs added cost. In September 2025 Nike said: "As a result of new tariffs, we expect a gross incremental cost of approximately $1.5 billion on an annualized basis" (Q1 FY26 10-Q p. 19).
 
-**A note on cause and effect.** The sources show correlation in time between strategy changes and results. They do not prove the DTC shift caused the decline; competition and consumer trends played a role. Treat the neat narrative above as a hypothesis the evidence supports, not a proven fact.
+**A note on cause and effect.** The filings show the timing of strategy changes and results. They do not prove the direct-to-consumer shift caused the decline; competition and consumer trends played a role. Treat the narrative as a hypothesis the evidence supports, not a proven fact.
 
 ---
 
@@ -86,17 +93,23 @@ Nike designs and sells athletic shoes, apparel and equipment under the **Nike**,
 
 | Stage | Date | What it is | Evidence of progress |
 |---|---|---|---|
-| **Win Now** | From Oct 2024 | Rebuild retailer ties, refocus on performance sport (especially running), shrink the Classics business, flatten management | Wholesale revenue growing; running reported as a bright spot (one source: five quarters of double-digit growth, unverified) |
-| **Sport Offense** | 2025 | Reorganize about 8,000 staff into teams by sport instead of by product type/channel. Consumer/Product/Brand division split into Consumer and Sport, Marketing, and Product Creation (May 2025) | Too early to isolate its effect |
-| **Pace** | Announced Oct 1, 2026 | Supply chain and organization overhaul. About **$2.5 billion cumulative savings** through FY2031 (before charges and reinvestment), about **$1.0 billion** pre-tax charges (about $0.3 billion in FY2027). Moves from four to three geographies (Americas; EMEA; Asia Pacific and Greater China, led from Singapore) from FY2028. New technology campus in Bengaluru, India. Role decisions begin in 2027. | Savings land mostly in FY2029 and FY2030, so no near-term proof |
+| **Win Now** | From Oct 2024 | Rebuild retailer ties, refocus on performance sport, shrink the classic franchises, flatten management | Wholesale revenue rose 6% in FY2026 to $27,453 million (FY26 10-K p. 32) |
+| **Sport Offense** | 2025 | Reorganize teams by sport. In May 2025 the Consumer, Product and Brand organization was split into "Consumer and Sport, Marketing, and Product Creation" (Nike release, May 5, 2025; 8-K filed May 5, 2025) | Too early to isolate its effect |
+| **Pace** | Announced Oct 1, 2026 | "An operating model transformation" that "includes and builds upon the previous cost realignment plan announced in March 2026": a modernized supply chain, "a new campus in India" and a realigned organization (Q1 FY27 release p. 1). About **$2.5 billion** of cumulative savings through FY2031, stated before charges and reinvestment; about **$1.0 billion** of pre-tax charges, mostly employee-related, of which about **$0.3 billion** in FY2027. This is on top of about $0.3 billion of severance already booked in FY2026 (8-K filed Oct 1, 2026, p. 2; Q1 FY27 release p. 1). Nike "plans to organize into three geographies in fiscal 2028" (Q1 FY27 10-Q), down from the "four Geographies" it has today (8-K filed Dec 2, 2025, Ex. 99.1). Nike's employee memo names the geographies as the Americas, EMEA and APGC (Asia Pacific and Greater China, led from Singapore) and the campus as Bengaluru (Nike release, Oct 1, 2026). | Savings are back-loaded to FY2031, so there is no near-term proof |
 
-**Other structural changes (Dec 2025):** a **Chief Operating Officer** role was created for Venkatesh Alagirisamy and absorbed technology; the CTO and Chief Commercial Officer roles were eliminated; Global Sales and Nike Direct moved under the CFO; the four geography heads joined the senior leadership team reporting directly to Hill. In **August to September 2026**, a new CFO (David Denton) and a new Chief Commercial Officer (Jane Ewing) arrived (details in Section 8).
+**Other structural changes.** On December 2, 2025 Nike created a Chief Operating Officer role for Venkatesh Alagirisamy, effective December 8, and eliminated the Chief Technology Officer and Chief Commercial Officer roles (8-K filed Dec 2, 2025, p. 2). Global Sales and NIKE Direct moved under the CFO, and the four geography heads joined the senior leadership team reporting directly to Hill (Nike release, Dec 3, 2025). In August and September 2026 a new CFO (Denton) and a new Chief Commercial Officer (Ewing) arrived (Section 8).
 
-**Layoffs:** about 1,600 (Feb 2024, Donahoe era), about 775 (Jan 2026, distribution centers, citing automation), about 1,400 (Apr 2026, mostly technology). Pace gave no headcount; role decisions start in 2027. Analysts at BNP Paribas called Pace the third restructuring since FY2024 with "no operating leverage" so far (via a Retail Dive snippet, secondary).
+**Workforce.** Nike's employee count fell from about **83,700 at May 31, 2023 to about 73,000 at May 31, 2026** (FY23 10-K p. 6; FY26 10-K p. 6). The filings describe "a net reduction in the Company's global workforce" and the charges (Q3 FY24 10-Q), but **never a layoff headcount**. The headcounts below come from the sources named:
+- Feb 2024: "more than 1,500" people, a 2% cut (secondary: Fortune, Feb 16, 2024). An April 2024 Oregon filing of about 740 headquarters jobs was the "second phase" of the same plan (secondary: Fortune, Apr 19, 2024).
+- Aug 2025: "less than one percent" of the corporate workforce (secondary: Complex; Retail Dive). *The previous draft dated this August 2024, which was wrong.*
+- Jan 2026: "around 775" distribution-center jobs in Tennessee and Mississippi (secondary: Retail Dive). The Tennessee WARN notice lists **583** workers at two Memphis sites (Tennessee Department of Labor WARN notice, opened).
+- Mar 2026: a cost plan with about $300 million of pre-tax charges, mainly severance (8-K filed Mar 5, 2026, Item 2.05, p. 2). No headcount was given.
+- Apr 2026: about 1,400 jobs, mostly in technology (secondary: Fox / Associated Press).
+- Pace: no headcount. Nike says it does "not yet know the number of roles," and role decisions "will begin in calendar year 2027" (Nike release, Oct 1, 2026).
 
-![Layoff rounds](charts/08_layoffs.png)
+![Headcount](charts/08_workforce.png)
 
-**Why Pace matters for a skeptical reader:** analysts read it as extending the turnaround timeline. Management itself says savings arrive in FY2029 to FY2030. A turnaround that needs four more years of cost-cutting before benefits show is a different investment from one that is nearly over.
+**Why Pace matters to a skeptical reader:** BNP Paribas called Pace "the third restructuring program since fiscal 2024" with "no operating leverage" from any so far (secondary: Retail Dive, Oct 2026). A turnaround that needs five more years of savings is a different investment from one that is nearly over.
 
 ---
 
@@ -106,53 +119,100 @@ Nike designs and sells athletic shoes, apparel and equipment under the **Nike**,
 
 ![Annual revenue and gross margin](charts/01_annual_revenue_margin.png)
 
-**What it shows:** revenue rose to $51.4 billion in FY2024 (approximate), then dropped about 10% to $46.3 billion in FY2025 and was flat in FY2026. Gross margin fell from about 44.6% (FY2024) to 42.7% to 42.9%.
+| | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | FY26 |
+|---|---|---|---|---|---|---|---|---|
+| Revenue ($M) | 39,117 | 37,403 | 44,538 | 46,710 | 51,217 | 51,362 | 46,309 | 46,398 |
+| Gross margin | 44.7% | 43.4% | 44.8% | 46.0% | 43.5% | 44.6% | 42.7% | 42.9% |
+| Net income ($M) | 4,029 | 2,539 | 5,727 | 6,046 | 5,070 | 5,700 | 3,219 | 3,108 |
+| Diluted EPS | $2.49 | $1.60 | $3.56 | $3.75 | $3.23 | $3.73 | $2.16 | $2.10 |
 
-**Teaching point:** the *hatched* bars (FY19 to FY24) come from memory and are not verified. The solid bars (FY25, FY26) were matched to search summaries of Nike filings.
+*Source: each year's own 10-K, income statement and MD&A: FY19 10-K pp. 22, 26, 50; FY20 pp. 25, 30; FY21 pp. 31, 57; FY22 pp. 31, 56; FY23 pp. 31, 55; FY24 pp. 33, 57; FY25 pp. 32, 56; FY26 pp. 32, 55.*
+
+**What it shows:** revenue peaked in FY2024, dropped 10% in FY2025 and was flat in FY2026. Gross margin fell from 44.6% to 42.7% to 42.9%. FY2026's margin was held up by the tariff refund: Nike says the Q4 benefit "largely offsets the impact of the IEEPA tariffs recognized during fiscal 2026" (Q4 FY26 release pp. 4 to 5, footnote 2).
 
 ### 5.2 Earnings per share
 
 ![EPS and FY27 guidance](charts/02_eps_and_guidance.png)
 
-- EPS fell from about $3.73 (FY24, approximate) to **$2.10** (FY26, checked), about **44% lower**.
-- FY2026 EPS includes **$0.52 per share** from the one-time tariff recovery in Q4. One third-party summary puts underlying FY26 EPS near **$1.58** (unverified).
-- FY2027 guidance midpoint is **$1.25** (adjusted, excluding about $0.15 of Pace cost). That is about **40% below FY26 reported EPS**, partly because FY26 was boosted by the one-time item.
+- EPS fell from **$3.73 (FY24) to $2.10 (FY26)**, a **44%** decline (my arithmetic).
+- FY2026 EPS includes a **$0.52 per share** Q4 benefit from the expected recovery of IEEPA tariffs (Q4 FY26 release p. 1). Subtracting it gives $1.58 (my arithmetic). That is *not* a clean "underlying" figure, because the same year also bore the tariffs the refund offset.
+- FY2027 guidance is **adjusted** EPS of $1.15 to $1.35, which "excludes approximately $0.15 of restructuring expenses related to Pace" (Q1 FY27 release p. 1). The midpoint, $1.25, is about 40% below FY2026's reported $2.10 (my arithmetic).
 
 ### 5.3 Quarterly view
 
 ![Quarterly revenue and gross margin](charts/03_quarterly.png)
 
+| Quarter | Revenue ($M) | Gross margin | Net income ($M) | Diluted EPS | Source |
+|---|---|---|---|---|---|
+| Q1 FY24 | 12,939 | 44.2% | 1,450 | $0.94 | Q1 FY24 10-Q p. 1 |
+| Q2 FY24 | 13,388 | 44.6% | 1,578 | $1.03 | Q2 FY24 10-Q p. 1 |
+| Q3 FY24 | 12,429 | 44.8% | 1,172 | $0.77 | Q3 FY24 10-Q p. 1 |
+| Q4 FY24 | 12,606 | 44.7% | 1,500 | $0.99 | Q4 FY24 release p. 2 |
+| Q1 FY25 | 11,589 | 45.4% | 1,051 | $0.70 | Q1 FY25 10-Q p. 1 |
+| Q2 FY25 | 12,354 | 43.6% | 1,163 | $0.78 | Q2 FY25 10-Q p. 1 |
+| Q3 FY25 | 11,269 | 41.5% | 794 | $0.54 | Q3 FY25 10-Q p. 1 |
+| Q4 FY25 | 11,097 | 40.3% | 211 | $0.14 | Q4 FY25 release p. 2 |
+| Q1 FY26 | 11,720 | 42.2% | 727 | $0.49 | Q1 FY26 10-Q p. 1 |
+| Q2 FY26 | 12,427 | 40.6% | 792 | $0.53 | Q2 FY26 10-Q p. 1 |
+| Q3 FY26 | 11,279 | 40.2% | 520 | $0.35 | Q3 FY26 10-Q p. 1 |
+| Q4 FY26 | 10,972 | 49.2% | 1,069 | $0.72 | Q4 FY26 release p. 2 |
+| Q1 FY27 | 11,213 | 42.8% | 712 | $0.48 | Q1 FY27 10-Q p. 1 |
+
+*Gross margin percentages are from each filing's MD&A or release summary, on the same filing as the revenue.*
+
 **Reading the chart:**
-- Revenue has hovered around $11 to $12.5 billion per quarter for two years, with no clear upturn.
-- **Gross margin has dropped from about 44.7% to the 40% to 43% range.** The spike to 49.2% in Q4 FY26 is the tariff refund. Subtracting the reported 900 bps gives about **40.2%** (my arithmetic), which is the real underlying level.
-- The 60 bps margin improvement in Q1 FY27 (to 42.8%) came mostly from lower warehousing and logistics costs, which is the kind of cost-based improvement (not a pricing or demand improvement) that can run out.
+- Revenue has held between about $11.0 billion and $12.4 billion a quarter since FY2025, with no clear upturn.
+- **Gross margin has fallen from the mid-44s to the low 40s.** The 49.2% in Q4 FY2026 included about 900 bps from the $986 million expected IEEPA refund (Q4 FY26 release p. 1). Without it, Q4 margin was about **40.2%**: gross profit of $5,393 million minus $986 million, divided by revenue of $10,972 million (my arithmetic on Q4 FY26 release p. 2).
+- The 60 bps margin gain in Q1 FY2027 (to 42.8%) included about 90 bps from "lower warehousing and logistics costs" (Q1 FY27 10-Q pp. 19, 23). Cost-driven improvement like this can run out; price and demand improvement would be stronger evidence.
+
+**About the tariff refund.** On February 20, 2026 the U.S. Supreme Court ruled the IEEPA tariffs unauthorized. As of April 1, 2026 Nike had paid about $1.0 billion of them and judged recovery "not probable" (Q3 FY26 10-Q p. 26). In Q4 it deemed recovery "probable" and booked $986 million: $965 million in North America and $21 million in Converse (FY26 10-K p. 30; Q4 FY26 release pp. 4 to 5). About $0.3 billion was received in FY2026 (Q4 FY26 release p. 1). The rest was collected in Q1 FY2027, which is why receivables fell from $5,931 million to $5,242 million (Q1 FY27 10-Q p. 3).
 
 ### 5.4 Where revenue is shrinking
 
 ![Revenue by geography](charts/04_geography.png)
 
+| Segment ($M) | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | FY26 |
+|---|---|---|---|---|---|---|---|---|
+| North America | 15,902 | 14,484 | 17,179 | 18,353 | 21,608 | 21,396 | 19,572 | 20,511 |
+| EMEA | 9,812 | 9,347 | 11,456 | 12,479 | 13,418 | 13,607 | 12,257 | 12,572 |
+| Greater China | 6,208 | 6,679 | 8,290 | 7,547 | 7,248 | 7,545 | 6,586 | 5,847 |
+| APLA | 5,254 | 5,028 | 5,343 | 5,955 | 6,431 | 6,729 | 6,251 | 6,243 |
+| Converse | 1,906 | 1,846 | 2,205 | 2,346 | 2,427 | 2,082 | 1,692 | 1,174 |
+
+*Source: each year's 10-K segment tables: FY19 p. 27; FY20 p. 31; FY21 p. 36; FY22 p. 36; FY23 p. 32; FY24 p. 38; FY25 p. 33; FY26 p. 32.*
+
+![Greater China quarterly growth](charts/12_greater_china_quarterly.png)
+
 ![Q1 FY27 segment growth](charts/09_q1fy27_segments.png)
 
-- **Greater China** fell about 22% in Q1 FY27 (26% currency-neutral). Nike's own filing says China and Converse will keep hurting results throughout FY2027.
-- **Converse** fell about 28% in Q1 FY27 and 32% in Q4 FY26. Nike calls this a "strategic reset."
-- **Only North America grew** (about +2%), consistent with the wholesale recovery.
-- **Nike Direct fell about 8%** while wholesale fell about 1%. This reverses the Donahoe strategy: Nike Direct revenue peaked near $21.5 billion in FY24 (approximate) and was $17.7 billion in FY26.
-- **Data caution:** FY26 and Q1 FY27 regional figures come from aggregators and disagree (for example, APLA flat versus down 2%).
+- **Greater China** revenue fell **22%** in Q1 FY2027 (26% currency-neutral) to $1,180 million, and its EBIT fell 34% to $248 million (Q1 FY27 10-Q p. 25). It has now declined for **nine consecutive quarters**, from Q1 FY2025 to Q1 FY2027 (quarterly releases and 10-Qs; chart 12). FY2026 Greater China revenue of $5,847 million was below FY2019's $6,208 million.
+- Nike's outlook: "The actions related to Converse are expected to continue throughout fiscal 2027 and for Greater China to extend beyond fiscal 2027" (Q1 FY27 10-Q p. 20). From January 2027 Nike plans to sell online in China only through its own app and site plus official Tmall, JD.com and Douyin stores (secondary: Just Style, July 2026).
+- **Converse** fell 28% in Q1 FY2027 to $263 million (Q1 FY27 10-Q p. 25), after falling 32% in Q4 FY2026 (Q4 FY26 release p. 4) and 31% for FY2026 (FY26 10-K p. 32). Revenue has more than halved since FY2023 ($2,427 million to $1,174 million).
+- **North America was the only region that grew** in Q1 FY2027, up 2% to $5,127 million (Q1 FY27 10-Q p. 25). EMEA fell 5% and APLA fell 2% reported (flat currency-neutral, which settles the conflict in the previous draft).
 
-### 5.5 Balance sheet snapshot (Aug 31, 2026; checked via search summaries)
+### 5.5 Channel mix: the direct-to-consumer reversal
 
-| Item | Amount |
-|---|---|
-| Cash and equivalents | $6.9 billion |
-| Short-term investments | $1.5 billion |
-| Long-term debt (non-current) | $5.9 billion |
-| Current portion of long-term debt | $2.0 billion |
-| Shareholders' equity | $15.2 billion |
-| Inventories | about $7.8 billion (-3% year over year, +5% since May 31) |
+![Channel mix](charts/11_channel_mix.png)
 
-My arithmetic: cash plus short-term investments of about $8.4 billion against long-term debt (current plus non-current) of about $7.9 billion is roughly balanced, before notes payable (not found). Nike paid about **$2.4 billion** in dividends in FY2026 (checked).
+- NIKE Direct revenue peaked at **$21,519 million in FY2024** (FY24 10-K p. 34) and was **$17,720 million in FY2026** (FY26 10-K p. 32), down 18% (my arithmetic). Sales to wholesale customers rose to $27,453 million in FY2026 (FY26 10-K p. 32).
+- In Q1 FY2027, NIKE Direct fell 8% to $4,142 million and wholesale fell 1% to $6,804 million (Q1 FY27 10-Q p. 22). Within NIKE Direct, NIKE Brand Digital fell 13% and Nike-owned stores fell 5% (Q1 FY27 release p. 1).
 
-**Why inventory matters:** if Nike has more product than customers want, it must discount it, which cuts margin. Morgan Stanley's note (secondary) said that risk is not yet priced in. Inventory is up since May even while sales are down, which is worth monitoring.
+### 5.6 Balance sheet and cash
+
+| Item ($M) | May 31, 2026 | Aug 31, 2026 | Source |
+|---|---|---|---|
+| Cash and equivalents | 7,563 | 6,903 | FY26 10-K p. 57; Q1 FY27 10-Q p. 3 |
+| Short-term investments | 1,464 | 1,465 | same |
+| Inventories | 7,501 | 7,846 | same |
+| Current portion of long-term debt | 2,000 | 2,000 | same |
+| Long-term debt | 5,942 | 5,893 | same |
+| Shareholders' equity | 14,865 | 15,220 | same |
+
+My arithmetic: cash plus short-term investments of $8,368 million at Aug 31, 2026 slightly exceeds total debt of $7,893 million (the balance sheet shows no notes payable). Inventories were down 3% from a year earlier ($8,114 million at Aug 31, 2025; Q1 FY26 10-Q p. 3) but up about 5% since May 31 while sales fell. That is worth watching, because excess inventory forces discounting and hurts margin.
+
+![Cash generation vs payouts](charts/14_cash_returns.png)
+
+**Cash flow.** FY2026 cash from operations was $2,868 million and capital expenditure $684 million, while dividends paid were $2,407 million and buybacks only $146 million (FY26 10-K p. 58). Cash from operations minus capex was $2,184 million, less than the dividend (my arithmetic). In FY2024 the same measure was $6,617 million (FY24 10-K p. 60; my arithmetic).
 
 ---
 
@@ -160,130 +220,133 @@ My arithmetic: cash plus short-term investments of about $8.4 billion against lo
 
 ![Stock price](charts/05_stock_price.png)
 
-### Price facts
-- **Last close:** $34.71 on Friday, October 9, 2026 (secondary; October 11 was a Sunday).
-- **52-week range:** about $31.97 to $70.44. **All-time high:** about $179 (Nov 5, 2021, intraday).
-- Down about **45% in 2026** and about **80% from the high** (my arithmetic: 34.71 / 179.10 = 19.4% of the peak).
-- Nike left the **S&P 100** index effective Sept 21, 2026. Index changes can force fund selling and are symbolic.
-- **Data caution:** year-end prices before 2025 are from memory; the Dec 2025 price is derived from a reported "-46% year to date" figure.
-
-### What happened on October 1 to 2, 2026
-Nike beat on EPS ($0.48 vs about $0.43 expected) but missed on revenue ($11.21 billion vs $11.32 billion) and guided to a high-single-digit revenue decline for FY27. Shares hit a 13-year low. Sources disagree on the size of the move (about 2% to 9% depending on timing). Morgan Stanley cut its target to **$27** (Underweight), saying revenue quality was low. J.P. Morgan and Bank of America also have sell-equivalent ratings. Jefferies stayed at Buy with a $60 target.
+### Price facts (market data unless noted)
+- **Last close:** **$35.35 on Monday, October 12, 2026.** The previous close was $34.71 on October 9.
+- **52-week range:** $33.87 to $69.68 on closing prices; $31.97 to $70.44 intraday.
+- **Record:** close of $177.51 and intraday high of $179.10, both November 5, 2021. Today's price is **80.1% below** the record close (my arithmetic).
+- **2026 to date:** down **44.5%** from the 2025 year-end close of $63.71 (my arithmetic).
+- **13-year low:** the October 2, 2026 close of $33.87 was the lowest since September 2013. The stock fell 3.6% that day, the session after Q1 FY2027 results (my arithmetic).
+- **Filing-based return measure:** the proxy's pay-versus-performance table values $100 invested in NKE at the end of FY2021 at **$36.47** at the end of FY2026, against **$48.36** for the Dow Jones U.S. Footwear index. The NKE values by year are $122.26 (FY22), $109.51 (FY23), $100.23 (FY24) and $65.09 (FY25) (2026 proxy p. 56).
+- **Index exit:** Nike left the S&P 100 before trading on September 21, 2026, announced September 4. It remains in the S&P 500 (secondary: Daily Tidings / Associated Press; S&P's own site was blocked).
 
 ### Valuation arithmetic (mine, so check it)
 | Measure | Calculation | Result |
 |---|---|---|
-| Forward P/E on guidance midpoint | $34.71 / $1.25 | about **28x** |
-| Dividend yield | $1.64 / $34.71 | about **4.7%** |
-| Payout vs. guided EPS | $1.64 / $1.25 | about **131%** |
-| Payout vs. FY26 reported EPS | about $1.62 / $2.10 | about 77% |
-| Approx. market cap | 1.48B shares x $34.71 | about **$51 billion** (share count unverified) |
+| Market capitalization | 1,485,308,829 shares (Q1 FY27 10-Q cover) x $35.35 | about **$52.5 billion** |
+| Forward P/E on guidance midpoint | $35.35 / $1.25 | about **28x** |
+| Dividend yield | $1.64 / $35.35 | about **4.6%** |
+| Dividend vs guided EPS | $1.64 / $1.25 | about **131%** |
+| FY2026 payout ratio | $1.63 declared (FY26 10-K) / $2.10 diluted EPS | about **78%** |
 
-**Teaching point:** a 28x P/E is expensive for a shrinking company. It looks that way because profit is temporarily depressed. The bull case needs earnings to recover substantially. The bear case says they might not.
+**Teaching point:** a 28x P/E is expensive for a shrinking company. It looks that way because profit is depressed. The bull case needs earnings to recover substantially; the bear case says they might not.
 
-**Dividend risk:** if FY27 EPS lands near $1.25, the $1.64 dividend exceeds earnings. Nike has raised its dividend for 24 consecutive years (secondary), so cutting it would be a significant signal. No cut has been announced; this is a risk, not a prediction.
+![Dividends vs EPS](charts/13_dividends_vs_eps.png)
 
-### Analyst views
-- Consensus **Hold**; 12-month targets average about **$38** to **$41**, ranging from **$19 to $94** (secondary). A spread this wide means analysts disagree on what the business is worth.
-- Rating split from one aggregator (27 analysts): 19% Strong Buy, 15% Buy, 48% Hold, 19% Sell.
+**Dividend.** Dividends declared per share rose every year: $0.86 (FY19), $0.955, $1.07, $1.19, $1.325, $1.45, $1.57 and $1.63 (FY26) (each year's 10-K). The November 2025 raise to $0.41 a quarter marked "the 24th consecutive year that NIKE has increased its quarterly dividend" (Nike release, Nov 2025). If FY2027 EPS lands near $1.25, the $1.64 annual dividend exceeds earnings. No cut has been announced; this is a risk, not a prediction.
+
+### Analyst views (secondary, as of Oct 12, 2026)
+- stockanalysis.com (S&P Global data, 42 analysts): consensus **Hold**, average target **$38.04**, low **$19**, high **$94**. MarketBeat (39 analysts): consensus **"Reduce"**, average **$41.07**. Ratings from the two aggregators differ, and the 27-analyst split quoted in the previous draft matched neither, so it is removed.
+- After the Oct 1 results: Morgan Stanley cut its target to **$27** from $31 (Underweight); J.P. Morgan to $33 from $40 (Underweight); Bank of America to $24 from $30 (Underperform); Jefferies to **$60** from $75. Jefferies' Buy rating comes from its Sept 28 note (MarketBeat; stockanalysis).
+- The previous draft's "EPS beat / revenue miss versus consensus" figures could not be verified on an opened page, so they are removed.
 
 ### Upcoming catalysts
-- **Investor Day: Nov 16 to 17, 2026** (Pace details and long-term targets are likely).
-- **Q2 FY27 earnings: about Dec 17, 2026** (watch the 400 bps headwind from last year's Cyber Week promotions and higher North America retailer stocking).
+- **Investor Day: Nov 16 to 17, 2026.** "At our Investor Day on Nov. 16-17, we'll share more details" (Nike release, Oct 1, 2026 memo).
+- **Q2 FY2027 results:** expected mid to late December. Nike had not announced a date by Oct 12; Dec 17 is an aggregator estimate.
 
 ---
 
 ## 7. People: the leadership thesis
 
-**Why people are a useful indicator.** In a turnaround, financial results lag. Leadership decisions (who is hired, who is promoted, who is removed, who leaves voluntarily) show what management believes and what the board thinks of it. They are also easier to observe in real time than product success. This section treats people as a *leading indicator*, with the caveat that **leadership changes can signal either decisive repair or instability, and the facts alone cannot tell the two apart.**
+**Why people are a useful indicator.** In a turnaround, financial results lag. Leadership decisions (who is hired, promoted, removed or leaves voluntarily) show what management believes and what the board thinks of it, and they can be observed in real time. This section treats people as a *leading indicator*, with one caveat: **leadership changes can signal either decisive repair or instability, and the facts alone cannot tell the two apart.**
 
 **Three questions to ask of every executive move:**
 1. Was it **planned** (a retirement with a named successor) or **abrupt** (a role eliminated, no stated reason)?
 2. Does the **replacement** come from inside Nike or outside, and does the background fit the problem being solved?
 3. Does it **reduce** layers of management (faster decisions) or **create** new ones?
 
-**Leadership eras (checked unless noted):**
+**Leadership eras:**
 
 | Era | CEO | Background | Philosophy |
 |---|---|---|---|
-| 2006 to Jan 2020 | **Mark Parker** | Joined 1979 as a footwear designer | Product-led |
-| Jan 2020 to Oct 2024 | **John Donahoe** | Outsider (Bain, eBay, PayPal, ServiceNow); joined Nike's board in 2014 | Digital/direct-to-consumer, data, membership |
-| Oct 2024 to now | **Elliott Hill** | Nike lifer (1988 to 2020), retired, then returned | Sport-first, wholesale partnerships, veteran team |
+| 2006 to Jan 2020 | **Mark Parker** | Joined 1979 as a footwear designer; now Executive Chairman (2026 proxy p. 9) | Product-led |
+| Jan 2020 to Oct 2024 | **John Donahoe** | Outsider (Bain, eBay, PayPal, ServiceNow) | Digital and direct-to-consumer, data, membership |
+| Oct 14, 2024 to now | **Elliott Hill** | Nike from 1988 to 2020, retired, then returned (8-K filed Sept 19, 2024) | Sport-first, wholesale partnerships, veteran team |
+
+**How the board has judged it.** Hill's FY2026 summary-compensation total was **$36,340,876**, and the CEO pay ratio was **746 to 1** (2026 proxy pp. 41, 55). The board cut the FY2026 annual bonus to **74%** of target through "negative discretion" (2026 proxy pp. 25, 30). The FY2024 to FY2026 performance shares paid **0%**: Nike's relative shareholder return was "at the 1st percentile" (2026 proxy pp. 25, 34). At the September 8, 2026 meeting, say-on-pay received 736,936,017 votes for and 349,508,277 against, about 67.8% support, down from about 94% in 2025 (8-K filed Sept 10, 2026, p. 2; 2026 proxy p. 23). Director Thasunda Duckett had 310,517,784 votes withheld against 496,775,961 for (same 8-K).
 
 ---
 
 ## 8. Executive deep dives: current leadership
 
-**Confidence tags:** HIGH = multiple consistent sources; MED = single or partly conflicting source; LOW = inferred. No official full leadership roster was found, so this list is assembled from announcements. Full sources are in `research_notes/02_current_exec_team.md` and `research_notes/01_ceo_and_board.md`.
+**Confidence tags:** HIGH = an SEC filing or an opened Nike page; MED = an opened news page; LOW = inferred. Nike publishes an official leadership roster at about.nike.com/en/company. As of Oct 12, 2026 it lists 21 people, and this section follows it. Full sources: `research_notes/02_current_exec_team.md`, `research_notes/01_ceo_and_board.md`, and the web-verification notes summarized in Section 13.
 
 ### Elliott Hill, President and CEO (since Oct 14, 2024)
-- **Career:** joined Nike June 1, 1988 (campus recruiting at Ohio University; early sports-graphics sales role in 1989, team sales in 1991, director of the Team Sports Division in 1998). Rose to **President of Consumer and Marketplace in 2018**, overseeing all commercial and marketing operations for Nike and Jordan. Mid-career titles (EMEA role around 2000, "President, Geographies" around 2016) come from one aggregator and are **unverified**.
-- **Leaving:** retired in June 2020, a few months after Donahoe arrived. Hill has said it was not because he was passed over; he cited needing a break. (HIGH on the date; the stated reason is Hill's own account.)
-- **Interlude (2020 to 2024):** board seats (Weber, TCU), senior advisor roles at merchant banks (BDT & MSD Partners), and his own firm (MED, aggregator sources).
-- **Return:** In summer 2024 Parker phoned him; conversations "went from light to a lot heavier very quickly." The board had weighed other internal and external candidates first, partly unsure Hill was interested. Announced Sept 19, 2024.
-- **What changed in his career:** from commercial executive to CEO; from retiree back to the top job after four years away.
-- **What he did on arrival:** reversed Donahoe's structure (sport-based teams instead of gender-based), rebuilt wholesale ties, brought back veterans, and reshuffled the senior team repeatedly (Section 9).
-- **Signal (my inference):** Hill's playbook is "put the band back together." Of the senior people named in Section 8, only two are outside hires.
+- **Career (HIGH):** joined Nike in 1988; "Before retiring in 2020, he was President - Consumer and Marketplace, leading all commercial and marketing operations for Nike and Jordan Brand" (Nike profile). His retirement was announced Feb 18, 2020, and Heidi O'Neill took over his job on April 1, 2020 (secondary: Fortune, Feb 18, 2020). Earlier mid-career titles in the previous draft could not be verified on an opened page and are removed.
+- **Return (HIGH):** appointed President and CEO effective Oct 14, 2024. Donahoe stayed as an adviser and non-executive employee until retiring January 31, 2025 (8-K filed Sept 19, 2024, pp. 2 to 3).
+- **Pay terms (HIGH):** $1.5 million base salary, 200% target bonus, $15.5 million annual long-term incentive target, plus one-time awards of $3 million in RSUs and $4 million in cash (8-K filed Sept 19, 2024).
+- **What he did on arrival:** reorganized teams around sport, rebuilt wholesale ties and brought back veterans. By June 2025 he "had made changes to 11 of his 15 direct reports" (secondary: Retail Dive).
+- **Signal (my inference):** Hill's playbook is "put the band back together." Only three senior hires came from outside Nike.
 
-### David Denton, EVP and Chief Financial Officer (started Aug 17, 2026; outside hire by Hill)
-- **Career:** CFO of **Pfizer** (May 2022 to 2026); CFO of **Lowe's** (2018 to 2022); about two decades at **CVS Health** including EVP and CFO; earlier Deloitte (one LinkedIn-based source, MED). Boards: Tapestry (2014 to 2023), Haleon (2023 to 2024). Education: Kansas State and Wake Forest MBA (MED).
-- **Why hired:** Hill called him a proven public-company CFO who can help consumer brands "operate with discipline and invest to win."
-- **Also:** interim corporate controller and principal accounting officer after Johanna Nielsen resigned as chief accounting officer effective Sept 4, 2026 (8-K dated Aug 4, 2026).
-- **What is notable:** his whole career is outside sporting goods (healthcare, pharmacy retail, home improvement). He arrived six weeks before Pace was announced.
-- **Open question:** Marketplace (Sales and Nike Direct) moved under the CFO in Dec 2025, then reportedly under the new CCO. Whether it left his remit is my inference (LOW).
+### David Denton, EVP and CFO (since Aug 17, 2026; outside hire)
+- **Career (HIGH):** CFO of Pfizer from May 2022, CFO of Lowe's from 2018 to 2022, and "two decades at CVS Health," where he was CFO from 2010 (Nike release, June 23, 2026; Lowe's release, 2018). Board seats: Tapestry and Haleon in the past; "Dave serves on the Board of Honeywell Aerospace" (Nike profile).
+- **Start date:** August 17, 2026 (Aug 10, 2026 8-K; 2026 proxy p. 27; Nike release). The June 23, 2026 8-K says "effective as of August 16, 2026"; Friend's transition letter has Friend as CFO "through August 16" (8-K filed June 23, 2026). August 17 is the better-supported date.
+- **Pay (HIGH):** $1.45 million base, 120% target bonus, $11.5 million FY2027 long-term incentive target, a $7.25 million one-time cash award and a $4 million performance-based cash award (2026 proxy; 8-K filed June 23, 2026).
+- **Also:** interim Corporate Controller and principal accounting officer after Johanna Nielsen resigned effective Sept 4, 2026 "to pursue another opportunity" (8-K filed Aug 10, 2026, p. 2).
+- **Notable:** his whole career is outside sporting goods, and he arrived six weeks before Pace was announced. Pfizer said he left "for a professional opportunity outside of the pharmaceutical industry in consumer goods" (secondary copy of Pfizer release). Full profile: `DEEP_DIVE_DENTON_EWING.md`.
 
-### Venkatesh Alagirisamy, EVP and Chief Operating Officer (since Dec 8, 2025; insider promoted by Hill)
-- **Career:** i2 Technologies consultant; joined Nike in **2006** as a process manager in supply chain; demand planning, inventory, global operations; VP Global Operations; **COO of Converse**; **Chief Supply Chain Officer** (from about 2020); COO in Dec 2025, absorbing technology after the CTO role was eliminated. Education: Purdue MS, Duke MBA, BITS Pilani BE.
-- **What he owns:** supply chain, planning, operations, sustainability, technology. He authored the April 2026 memo on consolidating technology teams in Beaverton and India.
-- **Signal:** a supply-chain operator now runs both operations and technology, which is consistent with Pace's operational focus.
+### Venkatesh Alagirisamy, EVP and COO (since Dec 8, 2025; insider)
+- **Career (HIGH):** a "nearly 20-year Nike veteran" who joined in 2006 in supply chain; later COO of Converse and Chief Supply Chain Officer (Nike release, Dec 3, 2025; Nike profile). Purdue MS, Duke MBA, BITS Pilani BE.
+- **Remit (HIGH):** "Technology, in addition to his existing responsibilities leading Supply Chain, Planning, Operations, Manufacturing and Sustainability" (Nike release, Dec 3, 2025). He signed the April 2026 memo on technology job cuts (secondary: Fox).
+- **Signal:** a supply-chain operator now runs operations and technology, consistent with Pace's operational focus.
 
-### Jane Ewing, EVP and Chief Commercial Officer (started Sept 7, 2026; outside hire by Hill)
-- **Career:** about 14 years at **Walmart** (joined 2012; roles in international operations, international people/HR, sustainability, and Walmart China; most recently interim CEO of **Sam's Club China**); earlier at **Diageo** (Middle East, South Africa, global travel retail; tenure conflicts between 9 and 20 years). Her first job was selling Nike product in a sporting-goods store (per Nike's bio). *Corrected Oct 12: an earlier version listed merchandising and digital roles that the sources do not support.* Full profile: `DEEP_DIVE_DENTON_EWING.md`.
-- **What she owns:** global Marketplace (Sales and Nike Direct). Predecessor role (Craig Williams) was eliminated in Dec 2025, so this is a **re-created** role under a new person.
-- **Signal (my inference):** a China-experienced retailer, hired into the channel that is declining fastest. The hire follows the Greater China head's departure.
+### Jane Ewing, EVP and Chief Commercial Officer (since Sept 7, 2026; outside hire)
+- **Career (HIGH):** "almost 14 years at Walmart," where she "held senior leadership roles spanning merchandising, digital acceleration and international operations." Before that she led one of Diageo's largest global divisions "for nearly nine years" (Nike release, Aug 27, 2026; WWD). She was interim CEO of Sam's Club China from February 2025 to January 2026, and in her final Walmart role led ethics and compliance for Walmart China (secondary: Talk Business). *Correction: the previous draft "corrected" away her merchandising and digital roles. Nike's own release lists them, so they are restored.*
+- **Remit (HIGH):** Marketplace (Sales and NIKE Direct). "The geographies will continue to report directly to Hill" (WWD). Her role is therefore narrower than the eliminated CCO role held by Craig Williams, which included the geographies.
+- **Signal (my inference):** a China-experienced retail operator hired into the channel that is declining fastest.
 
-### Amy Montagne, President, Nike Brand (promoted May 2025)
-- **Career:** about 20 years at Nike; most recently VP/GM Global Women's; earlier VP/GM roles in APLA, Global Men's, Global Categories, and Global Merchandising. Before Nike: planning and merchandising at Gap, Mervyn's, and Walmart (MED).
-- **Context:** took on part of the portfolio of Heidi O'Neill after the three-way split.
+### Michael Gonda, EVP and Chief Communications and Strategy Officer (since July 7, 2025; outside hire)
+- **Career (HIGH):** joined from McDonald's, replacing KeJuan Wilkins (Nike IR release; secondary: Retail Dive). His title on the roster now includes Strategy (Nike roster). *He was missing from the previous draft, which wrongly said Hill had made only two outside hires.*
 
-### Phil McCartney, EVP, Chief Innovation, Design and Product Officer (May 2025)
-- **Career:** joined Nike about 1997 to 1998 in the UK; Key Account Director at JD Sports (1999 to 2002, a retail customer); product director for Global Running (2005 to 2010); VP Global Footwear Football; VP/GM Nike Footwear (2016 to 2020); VP Global Footwear, Product and Merchandising (2020 to 2025). Timeline from an aggregator (MED), promotion date HIGH.
-- **Signal (my inference):** a product person with running and football backgrounds heads product, matching the sport-first plan. He took over the innovation remit of retiring John Hoke; his deputy, Andy Caine, replaced Tony Bignell (who left April 2026 after under a year).
+### Amy Montagne, President, Nike (since May 5, 2025)
+- About 20 years at Nike, most recently VP/GM Global Women's. "Before joining Nike, Montagne worked in allocation, planning, and merchandising at Gap Inc., Mervyn's, and Walmart" (Nike IR release, May 5, 2025). HIGH.
+
+### Phil McCartney, EVP, Chief Innovation, Design and Product Officer (since May 2025)
+- "A seasoned professional with 27 years of experience at Nike," VP of Nike Footwear since 2016 (Nike IR release, May 5, 2025). He took over the innovation remit of retiring John Hoke. Tony Bignell kept the separate Chief Innovation Officer title under him until leaving in April 2026, when Andy Caine replaced him on April 12, 2026 (secondary: Retail Dive).
 
 ### Nicole Hubbard Graham, EVP and Chief Marketing Officer
-- **Career:** about 18 years at Nike; left in 2021 to co-found creative agency Adopt; **returned as CMO in late 2023**, so this was **not a Hill hire** (Donahoe era). Hill kept and elevated her to EVP in May 2025. Return date varies by source (late 2023 vs January 2024).
+- 18 years at Nike, co-founded the agency Adopt in 2020, and rejoined as CMO in 2023 (Nike profile). That makes her a Donahoe-era hire whom Hill kept and promoted to EVP in May 2025.
 
-### Tom Clarke, Chief Growth Initiatives Officer (role created May 2025)
-- **Career:** joined Nike in **1980** as Director of Biomechanics Research; President and COO 1994 to 2000; President of Innovation for about 11 years; strategic advisor to the CEO. **Current status in Oct 2026 not verified (LOW).**
+### Tom Clarke, Chief Growth Initiatives Officer (since May 2025)
+- Joined in 1980; President and COO from 1994 to 2000; President of Innovation for 11 years; strategic adviser to the CEO from 2023 (Nike profile). Still on the roster in October 2026 (HIGH).
 
 ### Regional heads (on the senior leadership team since Dec 2025)
 | Region | Leader | Background | Hill link |
 |---|---|---|---|
-| North America | **Tom Peddie** (VP/GM) | About 30 years at Nike, retired 2020, **rehired June 2024** to repair retailer relationships, named GM Oct 21, 2024 replacing Scott Uzzell | Returnee; attribution to Hill is MED |
-| Greater China | **Cathy Sparks** (VP/GM, Jan 2026) | 25-year veteran; started in retail at Niketown Portland; previously VP/GM APLA | Hill-era; replaced **Angela Dong** (led China since 2005; left Mar 31, 2026) |
-| EMEA | **César Garcia** (VP/GM, Feb 2, 2026) | About 25 years; started in Spain; ran APLA, Global Running, Western Europe | Replaced retiring **Carl Grebert** (about 30 years) |
-| APLA | **Cristin (Crissy) Campbell** (interim) | About 15 years; began as a graduate intern | Interim; permanent status unverified |
+| North America | **Tom Peddie** (VP/GM) | About 30 years at Nike, retired 2020. **Rehired July 2024 under Donahoe**; named NA GM Oct 10, 2024, before Hill started (secondary: Retail Dive) | *Not a Hill hire (corrected)* |
+| Greater China | **Cathy Sparks** (VP/GM) | Joined 1996 at Niketown Portland; VP/GM APLA from 2023; announced Jan 20, 2026 (Nike release) | Hill-era; replaced **Angela Dong** (joined 2005; left Mar 31, 2026) |
+| EMEA | **César García** (VP/GM, Feb 2, 2026) | Started "nearly 25 years ago as an EKIN in Spain"; ran APLA, Global Running and Western Europe (Nike release, Jan 20, 2026) | Replaced retiring **Carl Grebert** (joined 1997) |
+| APLA | **Cristin (Crissy) Campbell** (interim) | About 15 years; began as a graduate intern (Nike profile) | Still interim in Oct 2026 |
 
 ### Brand and functional leaders
-- **Sarah Mensah, President, Jordan Brand** (since May 2023; **not Hill's hire**). Former VP/GM North America; spent 19 years with the NBA's Trail Blazers (SVP and COO) before Nike. Albertsons director since Dec 2023. Hill said Jordan oversupplied retro product and that volume would be cut (Q1 FY27 call). Status in Oct 2026 appears unchanged but absence of news is not proof (MED).
-- **Aaron Cain, CEO, Converse** (since July 2025, replacing Jared Carver after about two years). Joined Nike in 2004 as director of global apparel strategy; held GM roles including Greater China Sportswear and Global Men's. Converse revenue was $1.7 billion in FY25 (down 19%) and kept falling.
-- **Treasure Heinle, EVP and Chief People Officer** (Jan 6, 2025, succeeding Monique Matheson). Joined 2012; was Chief Talent Officer from 2022. Prior HR roles at Danaher, Tektronix, InFocus (MED).
-- **Rob Leinwand, EVP and Chief Legal Officer** (late 2024, succeeding Ann Miller). Joined 2004; earlier at the law firm Littler Mendelson; Cornell degrees.
-- **Ann Miller, EVP, Global Sports Marketing** (moved from legal in Oct 2024 to succeed John Slusher). Current status unverified (LOW).
-- **Running and sport leaders:** no named running or sport leads found at person level. This is a gap. Given that running is the core of the turnaround story, naming these people should be a priority.
+- **Sarah Mensah, President, Jordan Brand** (since May 2023; not a Hill hire). Joined Nike in 2013 after 19 years with the Portland Trail Blazers; Albertsons director (Nike profile). Jordan revenue was $7,034 million in FY2026, down 3% (FY26 10-K p. 32).
+- **Aaron Cain, President and CEO, Converse** (since July 2025), a 21-year Nike veteran. Hill called Jared Carver's exit "a joint decision" (secondary: Retail Dive). Converse revenue was $1,692 million in FY2025, down 19% (FY25 10-K p. 33), and $1,174 million in FY2026.
+- **Treasure Heinle, EVP and Chief People Officer** (Jan 2025, succeeding Monique Matheson; announced Nov 25, 2024). Joined 2012; HR roles at Danaher, Tektronix and InFocus (Nike profile).
+- **Rob Leinwand, EVP and Chief Legal Officer** (from late 2024, succeeding Ann Miller). Joined 2004; earlier at Littler Mendelson (Nike profile).
+- **Ann Miller, EVP, Global Sports Marketing** (from Oct 2024, succeeding John Slusher). Joined 2007 (Nike profile).
+- **Jennifer Hartley, VP, Chief Strategy Officer** (since April 2025). Ex-McKinsey, at Nike since 2011, replacing Daniel Heaf (Nike profile; secondary: Retail Dive).
+- **Running and sport leaders:** no person-level running or sport leads were found. This is a gap, given that running is central to the turnaround story.
 
-### Board of directors (not executives, but key decision-makers)
-- **Mark Parker, Executive Chairman** (CEO 2006 to Jan 2020; joined 1979 as a footwear designer). Picked Donahoe (2019) and then Hill (2024); in my judgment accountability for both choices sits with him. That is inference, not a sourced claim.
-- **Board changes:** Jorgen Vig Knudstorp (former LEGO CEO) joined in 2025 as Cathleen Benko retired; **Alexandre Arnault** (Deputy CEO of Moet Hennessy, LVMH board) was appointed Sept 16, 2026; John Rogers Jr. (Ariel Investments) retires from the board at the Sept 2026 meeting and becomes a strategic advisor.
-- **Unverified:** the full roster, who is lead independent director (Tim Cook held the role in 2016; his current status is unconfirmed), and Phil Knight's founder-control details.
-- **Signal (my inference):** two recent additions come from consumer brands and luxury (LEGO, LVMH), which suggests the board wants brand-building expertise.
+### Board of directors
+- **Mark Parker, Executive Chairman** (2026 proxy p. 9). He picked Donahoe in 2019 and Hill in 2024; in my judgment accountability for both choices sits with him (inference).
+- **Tim Cook is Lead Independent Director**: "In June 2025, the Board re-appointed Mr. Timothy Cook to serve as Lead Independent Director for a term of three years" (2026 proxy p. 15). This was unverified in the previous draft.
+- **Changes:** Cathleen Benko retired and Jørgen Vig Knudstorp (former LEGO CEO) was elected, both effective Sept 9, 2025 (8-K filed June 18, 2025, p. 2). John Rogers Jr. left the board at the Sept 8, 2026 meeting and stays as an adviser (8-K filed June 18, 2026, p. 2). **Alexandre Arnault**, Deputy CEO of Moët Hennessy, was appointed on **Sept 15, 2026**, effective immediately, raising the board to 12; the announcement came Sept 16 (8-K filed Sept 16, 2026, p. 2).
+- **Founder control:** Swoosh, LLC holds 78.8% of Class A shares (2026 proxy p. 70).
+- **Signal (my inference):** the two newest directors come from consumer brands and luxury (LEGO, LVMH), suggesting the board wants brand-building expertise.
 
 ### Past CEO: John Donahoe (CEO Jan 2020 to Oct 2024)
-- **Career:** Bain & Company (20+ years; CEO of Bain 1999 to 2005); eBay (president of eBay Marketplaces 2005; CEO 2008 to 2015); chair of PayPal's board (2015 to 2024); CEO of ServiceNow (2017 to 2020). Joined Nike's board in 2014. Named CEO in Oct 2019 through a succession process led by board member Tim Cook.
-- **At Nike:** Consumer Direct Acceleration (June 2020), shuffled leadership multiple times (July 2020, May 2023), announced a $2 billion cost-cutting plan (Dec 2023), and in early 2024 conceded Nike had gone too far from wholesale.
-- **Exit:** retirement announced Sept 19, 2024, after weak guidance and a sharp stock drop. Nike said it was not due to disagreement; he served as an advisor into January 2025. A class action alleged Donahoe and Friend misled investors on direct-to-consumer success (allegation, not a finding).
-- **Afterwards:** named **Stanford athletics director** (July 31, 2025).
-- **Hires:** specific Donahoe hires were **not verified** in this research. Several executives (Friend, O'Neill, Williams, Mensah, Graham, Dogan) were in senior roles in his era, but who personally hired whom was not confirmed.
+- Bain (CEO from 1999), eBay CEO, PayPal chair, and ServiceNow CEO from February 2017 (secondary: Wikipedia). He joined Nike's board in 2014.
+- At Nike: the direct-to-consumer push; the Dec 2023 plan for "up to $2 billion in cumulative cost savings" (8-K filed Dec 21, 2023). His retirement was announced Sept 19, 2024; he was an adviser until Jan 31, 2025 (8-K filed Sept 19, 2024).
+- Afterwards: named Stanford athletic director on July 31, 2025 (secondary: ABC7, Fortune).
 
 ---
 
@@ -293,35 +356,33 @@ Nike beat on EPS ($0.48 vs about $0.43 expected) but missed on revenue ($11.21 b
 
 ![Exits per year](charts/07_exits_per_year.png)
 
-*Counts people named in this research, not a complete census. Dates are announcement or effective months and vary by source. Official reasons are separated from reported reasons below.*
+*Counts the people named in this research, not a complete census. Each row's source is in `data/people_events.csv`. Official reasons are separated from reported reasons.*
 
-| Person | Role and tenure | Date | Official reason | Reported/other | Next | Successor |
+| Person | Role | Date | Official reason | Reported or other | Next | Successor |
 |---|---|---|---|---|---|---|
-| **Eric Sprunk** | COO | Retire (announced Feb 12, 2020) | Retirement | n/a | Unknown | Andy Campion |
-| **Elliott Hill** | President, Consumer & Marketplace | Retired 2020 | Retirement | His own account: needed a break | Returned as CEO Oct 2024 | Heidi O'Neill (consumer business) |
-| **Ann Hebert** | VP/GM North America | Mar 1, 2021 | Nike: her decision | Bloomberg report tied her son's sneaker resale business to her credit card; O'Neill later said "together with Ann, we decided" | Unknown | Sarah Mensah (NA), Amy Montagne (APLA) |
-| **Andy Campion** | CFO then COO, later strategic ventures | Apr 5, 2024 | No reason given; $2.75M separation payment | Link to cost cuts is inferred only | Program director, UCLA Anderson (sports leadership) | n/a |
-| **John Donahoe** | CEO | Announced Sept 19, 2024 | "No disagreement" | Followed weak guidance and a record-bad trading day | Stanford athletics director | Elliott Hill |
-| **John Slusher** | Global Sports Marketing (26 years) | Announced Oct 30, 2024 | Retirement | One of four 26-plus-year veterans leaving after Hill arrived | Unknown | Ann Miller |
-| **Monique Matheson** | CHRO (26 years) | Jan 6, 2025 | Retirement | Same cluster | Unknown | Treasure Heinle |
-| **Daniel Heaf** | Chief Strategy & Transformation Officer | About Mar 19, 2025 | Role eliminated (per internal memo reported by Bloomberg) | Functions folded into finance | Unknown | None |
-| **KeJuan Wilkins** | Chief Communications Officer (about 20 years) | About Mar 19, 2025 | No public statement | Reason not found | Unknown | None named |
-| **Heidi O'Neill** | President, Consumer, Product & Brand (26 years) | Role eliminated May 2025; retired Sept 2025 (one source) | Retirement | Role split into three parts. Business of Fashion headline said "out" | **CEO of Lululemon** (announced Apr 23, 2026; starts Sept 8, 2026) | Role split; Amy Montagne became Nike Brand president |
-| **Jared Carver** | CEO, Converse (joined 2023) | July 2025 | No reason found | Converse sales weak | Unknown | Aaron Cain |
-| **John Hoke** | Chief Innovation Officer (33 years) | Stay through Oct 31, 2025 | Retirement | Same May 2025 batch | Unknown | Phil McCartney (took remit) |
-| **Muge Dogan** | Chief Technology Officer (joined 2023 from Amazon) | Dec 2, 2025 | Role eliminated | Hill: remove layers, integrate tech into Sport Offense | Unknown | COO took technology |
-| **Craig Williams** | Chief Commercial Officer (ex-Coca-Cola; ex-Jordan Brand president) | Role eliminated Dec 2, 2025; separated Apr 6, 2026 | Role eliminated | Sales and Direct moved to CFO | Unknown | Jane Ewing (new CCO, Sept 2026) |
-| **Carl Grebert** | EMEA head (about 30 years) | Announced Jan 20, 2026 | Retirement | "Long-underway succession planning" | Unknown | César Garcia |
-| **Angela Dong** | Greater China head (since 2005) | Mar 31, 2026 | Stepping down | Bloomberg: "bid to recapture growth" | Unknown | Cathy Sparks |
-| **Tony Bignell** | Innovation chief (under a year) | Effective Apr 5, 2026 | "To pursue creative and philanthropic passions" | Analyst called it a "real surprise" | Unknown | Andy Caine |
-| **Matthew Friend** | EVP and CFO (CFO since Mar 2020; 17+ years at Nike) | Handoff Aug 17, 2026; separated Sept 4, 2026 | Not due to disagreement with management or board | Analysts called it a surprise; no reason given | Unknown | David Denton |
-| **Johanna Nielsen** | Chief Accounting Officer | Effective Sept 4, 2026 | Resigned (8-K Aug 4, 2026) | Reason not found in sources | Unknown | David Denton as interim controller |
+| **Eric Sprunk** | COO | Announced Feb 18, 2020 | Retirement | n/a | Unknown | Andy Campion |
+| **Elliott Hill** | President, Consumer and Marketplace | Announced Feb 18, 2020 | Retirement | His own account: needed a break | Returned as CEO Oct 2024 | Heidi O'Neill (Apr 1, 2020) |
+| **Ann Hebert** | VP/GM North America | Mar 2021 | Resigned | Followed reports about a family member's sneaker resale business (secondary; snippet only) | Unknown | n/a |
+| **Andy Campion** | COO, later strategic ventures | Apr 2024 | Separation; "one-time cash compensation amount of $2,750,000" (Q2 FY24 10-Q p. 47) | Link to cost cuts is inference only | UCLA Anderson program (secondary) | n/a |
+| **John Donahoe** | CEO | Announced Sept 19, 2024 | Retirement (8-K filed Sept 19, 2024) | Followed weak guidance | Stanford athletic director | Elliott Hill |
+| **John Slusher** | EVP Global Sports Marketing (since 1998) | Announced Oct 30, 2024 | Retirement | One of several 25-plus-year veterans leaving after Hill arrived | Unknown | Ann Miller |
+| **Monique Matheson** | Chief Human Resources Officer (26 years) | Jan 2025 | Retirement | Same cluster | Unknown | Treasure Heinle |
+| **Daniel Heaf** | Chief Strategy and Transformation Officer | About Mar 2025 | Not stated by Nike | Role reported as eliminated | **CEO of Bath & Body Works** (May 2025) | **Jennifer Hartley** (Apr 2025) |
+| **KeJuan Wilkins** | Chief Communications Officer | About Mar 2025 | No public statement | n/a | Unknown | **Michael Gonda** (July 7, 2025) |
+| **Heidi O'Neill** | President, Consumer, Product and Brand (26 years) | Ceased May 2, 2025; separated Sept 5, 2025 | 8-K: role eliminated, treated as an involuntary termination without cause; Nike release: "decided to retire" (8-K filed May 5, 2025, p. 2) | Both framings are official | **CEO of Lululemon** (from Sept 8, 2026) | Role split three ways |
+| **Jared Carver** | CEO, Converse | July 2025 | "A joint decision" (Hill memo) | Converse sales weak | Unknown | Aaron Cain |
+| **John Hoke** | Chief Innovation Officer (joined 1995) | Through Oct 31, 2025 | Retirement | Same May 2025 batch | Unknown | Tony Bignell, reporting to McCartney |
+| **Muge Dogan** | Chief Technology Officer (joined 2023 from Amazon) | Announced Dec 2, 2025 | Role eliminated; "will leave the company" (8-K filed Dec 2, 2025) | Hill: remove layers | Unknown | COO took technology |
+| **Craig Williams** | Chief Commercial Officer | Stopped Dec 5, 2025; separated Apr 6, 2026 | Role eliminated (8-K filed Dec 2, 2025, p. 2) | Sales and Direct moved to the CFO | Unknown | Jane Ewing (narrower role, Sept 2026) |
+| **Carl Grebert** | VP/GM EMEA (joined 1997) | Announced Jan 20, 2026 | Retirement (Nike release) | "Carl shared his thinking with me some time ago" (Hill) | Unknown | César García |
+| **Angela Dong** | VP/GM Greater China (joined 2005) | Effective Mar 31, 2026 | "Decided to pass the baton" (Nike release) | Greater China declining | Unknown | Cathy Sparks |
+| **Tony Bignell** | Chief Innovation Officer (under a year) | Replaced Apr 12, 2026 | "To pursue creative and philanthropic passions" (secondary) | BNP analyst called it a "real surprise" | Unknown | Andy Caine |
+| **Matthew Friend** | EVP and CFO | CFO through Aug 16, 2026; adviser until Sept 4, 2026 | "Not the result of any disagreement with Company management or the Company's board of directors"; $2,000,000 transition benefit plus severance plan benefits (8-K filed June 23, 2026, pp. 2 to 3) | Analysts called it a surprise | Unknown | David Denton |
+| **Johanna Nielsen** | VP, Chief Accounting Officer and Corporate Controller | Effective Sept 4, 2026 | Resigned "to pursue another opportunity" (8-K filed Aug 10, 2026, p. 2) | n/a | Unknown | Denton (interim) |
 
-**Friend's career (since the CFO exit matters):** about a decade in investment banking and M&A (Goldman Sachs, Morgan Stanley), then joined Nike in 2009 in corporate strategy; CFO of Emerging Markets, then Global Categories/Product/Functions, then Nike Brand, then Nike CFO. Sits on the board of United Airlines. Reason for leaving was not stated in any source seen.
+**Friend's career:** joined Nike in 2009 and spent "more than 15 years at Nike" (Nike release, Dec 2025), becoming CFO in the February 2020 reshuffle (secondary: Fortune, Feb 18, 2020). The reason for his exit was not stated beyond "not the result of any disagreement."
 
-**Names checked that did not turn out to be departures:** Tom Clarke (appointed Chief Growth Initiatives Officer May 2025), Cathy Sparks (promoted), Larry Miller (Jordan; no retirement found). **Not found:** Kellie Leonard; the "Tim Hardaway-era" reference from the research brief could not be matched to anyone.
-
-**2018 context (outside the window):** Trevor Edwards and Jayme Martin left in 2018 during a workplace-conduct probe, which is part of why Nike's culture and senior bench have been scrutinized.
+**2018 context (outside the window):** Trevor Edwards and Jayme Martin left in 2018 during a workplace-conduct probe, which is part of why Nike's culture and senior bench have been scrutinized (from the previous draft; not re-verified).
 
 ---
 
@@ -329,23 +390,25 @@ Nike beat on EPS ($0.48 vs about $0.43 expected) but missed on revenue ($11.21 b
 
 **These are my observations from the evidence. Each is labelled with how strong it is.**
 
-1. **The exits accelerate after the CEO change (strong, counts are checked).** 5 of the 19 named exits happened before Hill took over (2020 to Sept 2024); 14 happened after. In calendar 2025 alone there were eight named exits. *Caution:* a new CEO normally reshapes the team, and many exits were announced retirements of 26-year to 33-year veterans. A "retirement wave" is a healthy handover in some reading and a purge in another.
+1. **The exits accelerate after the CEO change (strong).** 5 of the 19 named exits came before Hill took over (2020 to Sept 2024) and 14 after. Calendar 2025 alone had eight. *Caution:* a new CEO normally reshapes the team, and many exits were announced retirements of 25-year to 30-year veterans. Hill himself said he "made changes to 11 of his 15 direct reports" by June 2025 (secondary: Retail Dive).
 
-2. **"Role eliminated" is a distinct signal (strong).** Four exits were flagged as eliminated roles (Heaf, O'Neill, Dogan, Williams). Their functions (strategy, consumer/product/brand president, CTO, chief commercial officer) were merged into others, then partly re-created (Ewing's CCO job in Sept 2026 is close to Williams's old one). That suggests the Dec 2025 restructuring needed adjusting within nine months. *My inference:* this may reflect learning (a layer was removed, then a needed capability restored) or indecision.
+2. **"Role eliminated" is a distinct signal (strong).** O'Neill, Dogan and Williams were removed through role eliminations disclosed in 8-Ks; Heaf's role was reported as eliminated. Two of those functions were then partly re-created: a Chief Strategy Officer (Hartley, Apr 2025) and a Chief Commercial Officer (Ewing, Sept 2026, with a narrower remit than Williams had). *My inference:* this may reflect learning (a layer removed, then a needed capability restored) or indecision.
 
-3. **Hill promotes insiders and veterans (strong).** Montagne, McCartney, Alagirisamy, Sparks, Garcia, Campbell, Cain, Heinle, Leinwand, and rehired Peddie are all long-tenured Nike people. This is consistent with the "put the band back together" approach and the Win Now idea that Nike lost its way by moving away from product and sport. *The risk:* the people who ran Nike while it declined are among those now fixing it, and Greater China's new head is a 25-year insider following a head who led China for 20 years.
+3. **Hill promotes insiders and veterans (strong).** Montagne, McCartney, Alagirisamy, Sparks, García, Campbell, Cain, Heinle, Leinwand and Hartley are long-tenured Nike people. *Correction:* Peddie was rehired under Donahoe in July 2024, not by Hill. *The risk:* the people who ran Nike while it declined are among those now fixing it.
 
-4. **Outside hires are in finance and commercial, both from non-sport sectors (strong).** Denton (pharma, retail) and Ewing (Walmart) are imports from big-operations, discipline-focused backgrounds. *My inference:* management believes it needs retail and cost discipline from outside, while believing product and brand knowledge must come from inside.
+4. **Outside hires sit in communications, finance and commercial (strong).** Gonda (McDonald's), Denton (Pfizer, Lowe's, CVS) and Ewing (Walmart, Diageo) all come from outside sportswear. *My inference:* management believes it needs operating and communications discipline from outside, while product and brand knowledge must come from inside.
 
-5. **Finance turned over in a single quarter (strong on facts, unknown cause).** In June 2026 Nike announced the CFO transition. By Aug 17 Denton was CFO, and Friend left Sept 4. A separate 8-K reported the chief accounting officer's resignation effective the same day. Nike said Friend's exit was not due to a disagreement. **I found no evidence of any accounting problem, and I am not suggesting one.** But a two-person turnover at the top of finance just before a $2.5 billion restructuring announcement is a pattern a diligent analyst would flag and ask about at Investor Day.
+5. **Finance turned over within one quarter (strong on facts, cause unknown).** The CFO change was announced June 23, 2026; Denton started Aug 17; Friend left Sept 4. A separate 8-K reported the chief accounting officer's resignation effective the same day (8-Ks filed June 23 and Aug 10, 2026). Nike said Friend's exit was not due to a disagreement. **I found no evidence of any accounting problem, and I am not suggesting one.** But two departures at the top of finance just before a $2.5 billion restructuring is a pattern a diligent analyst would ask about at Investor Day.
 
-6. **Talent moving to other consumer brands (medium).** Heidi O'Neill, a 26-year Nike executive who had been President of Consumer, Product and Brand, became CEO of Lululemon (starts Sept 2026). One source mentions another ex-Nike VP becoming Lululemon's chief product officer (Oct 2026, LOW). *My inference:* strong Nike alumni are valued elsewhere, but Nike lost the senior talent it was trying to keep.
+6. **Shareholders are signalling dissatisfaction (strong).** Say-on-pay support fell from about 94% to about 67.8% in one year, and the FY2024 to FY2026 performance shares paid nothing (8-K filed Sept 10, 2026; 2026 proxy pp. 23, 25). Shareholders can hold the board to account even under founder control.
 
-7. **Greater China leadership change after revenue declines (medium).** The head of China for about 20 years left; a retail veteran from Walmart's China business now leads the channel side; the Chinese partner-run online channel will be shut in January 2027. This is a restructuring of the weakest region with a mix of insider and outsider leaders.
+7. **Nike talent is valued elsewhere (medium).** Heidi O'Neill became CEO of Lululemon (from Sept 8, 2026) and Daniel Heaf became CEO of Bath & Body Works. Maggie Gauger, who spent two decades at Nike before running Athleta, was named Lululemon's President and Chief Product Officer in October 2026 (secondary: FashionUnited).
 
-8. **The board chose both CEOs (strong).** Parker and the board picked an outsider in 2019 and an insider in 2024. The board's own track record matters when judging whether the current plan will hold. New board members from LEGO and LVMH point toward brand expertise.
+8. **Greater China leadership changed after the revenue decline (medium).** The China head of two decades left, a 30-year insider replaced her, and partner-run online storefronts end in January 2027.
 
-**What the people data does *not* tell you:** it does not show whether the products are better, whether customers are returning, or whether Nike will regain share against On, Hoka, Adidas, and local Chinese brands. For that you need the evidence in Section 12.
+9. **The board chose both CEOs (strong).** Parker and the board picked an outsider in 2019 and an insider in 2024. The newest directors come from LEGO and LVMH.
+
+**What the people data does *not* tell you:** whether the products are better, whether customers are returning, or whether Nike will regain share against On, Hoka, Adidas and local Chinese brands. Section 12 covers that.
 
 ---
 
@@ -353,54 +416,66 @@ Nike beat on EPS ($0.48 vs about $0.43 expected) but missed on revenue ($11.21 b
 
 ![Illustrative scenarios](charts/10_scenarios_illustrative.png)
 
-**This chart is a demonstration of method only. The EPS and P/E inputs are placeholder assumptions I chose, not forecasts and not sourced.** Replace them before using any of this in a recommendation.
+**This chart demonstrates a method only. The EPS and P/E inputs are placeholder assumptions I chose, not forecasts and not sourced.** The only sourced reference points are the FY2027 adjusted EPS outlook of $1.15 to $1.35 (Q1 FY27 release p. 1) and the $35.35 close (market data).
 
-**How the method works:** a stock price roughly equals the **EPS** investors expect in the future times the **P/E multiple** they will pay. Bear, base and bull cases choose different EPS and P/E combinations.
+**How the method works:** a share price roughly equals the **EPS** investors expect times the **P/E multiple** they will pay. Bear, base and bull cases choose different combinations.
 
 | Case | FY28 EPS (placeholder) | P/E (placeholder) | Implied price | What would have to be true |
 |---|---|---|---|---|
 | Bear | $0.95 | 22x | about $21 | Revenue keeps falling; discounting hurts margin; dividend cut |
 | Base | $1.90 | 19x | about $36 | Revenue stabilizes; Pace savings begin; China bottoms |
-| Bull | $2.80 | 18x | about $50 | Running and wholesale rebound; margins recover toward 44%; Converse and China stabilize |
+| Bull | $2.80 | 18x | about $50 | Running and wholesale rebound; margin recovers toward the 44% to 45% of FY2024 (FY24 10-K p. 33); Converse and China stabilize |
 
-**To make this defensible** you need sourced assumptions for revenue growth by region, gross margin, operating expenses after Pace savings, share count, and a justified P/E range based on comparable companies.
+**To make this defensible** you need sourced assumptions for revenue by region, gross margin, operating expenses after Pace savings, share count and a P/E range justified by comparable companies.
 
 ---
 
 ## 12. What else to investigate
 
-Ordered by value for a case competition built on the leadership thesis:
+Ordered by value for a case built on the leadership thesis:
 
-1. **Product and innovation evidence.** Running share versus On, Hoka, and Adidas; new franchise launches; share of revenue from products under 12 months old; reviews and sell-through.
-2. **Competitor benchmarks.** Adidas ran a similar turnaround (a useful timeline benchmark). Also Puma, Lululemon, New Balance, Asics, Deckers (Hoka), On, and Anta/Li-Ning in China.
-3. **Retailer signals.** What Foot Locker, Dick's, and JD Sports say on their own earnings calls (retailers see demand before Nike reports it).
-4. **Consumer and brand health.** Web traffic, app downloads, search trends, resale prices (StockX, GOAT), and social sentiment.
-5. **Inventory and discounting.** Inventory days, Nike.com and outlet promotions.
-6. **China.** Local brand competition, the January 2027 change to partner online channels (Topsports says online Nike is about 22% of its revenue, Pou Sheng about 15%), and consumer sentiment.
-7. **People gaps to close.** Running and sport leaders at person level; Tom Clarke's and Ann Miller's current roles; Donahoe's specific hires; the full board and lead independent director; where departed executives went; employee sentiment and retention trends.
-8. **Primary documents.** FY2026 10-K ("Information about our Executive Officers"), 2026 proxy statement (DEF 14A), the Oct 1, 2026 8-K and 10-Q, the Aug 27, 2026 leadership release, and the Investor Day materials (Nov 16 to 17).
+1. **Product and innovation evidence.** Running share against On, Hoka and Adidas; new franchise launches; sell-through.
+2. **Competitor benchmarks.** Adidas ran a similar turnaround, which gives a useful timeline. Also Puma, Lululemon, New Balance, Asics, Deckers (Hoka), On, and Anta and Li-Ning in China.
+3. **Retailer signals.** What Foot Locker, Dick's and JD Sports say on their own earnings calls; retailers see demand before Nike reports it.
+4. **Consumer and brand health.** Web traffic, app downloads, search trends, resale prices and social sentiment.
+5. **Inventory and discounting.** Inventory rose about 5% from May to August 2026 while revenue fell (Section 5.6).
+6. **China.** Local brand competition and the January 2027 online channel change.
+7. **People gaps.** Running and sport leaders at person level; Donahoe's specific hires; where departed executives went; employee sentiment.
+8. **Primary documents still to read:** the Investor Day materials (Nov 16 to 17) and the Q2 FY2027 10-Q and release.
 
 ---
 
-## 13. Data quality and open questions
+## 13. Data quality and what changed in this version
 
-**Read this before using any number.**
+**Method.** 102 SEC documents were downloaded from sec.gov (with a User-Agent identifying the requester) and read in full by nine readers working in parallel, each covering every page of its assigned filings. They extracted about 9,300 data points, each with a page and a verbatim quote. A script then checked that every value appears on the cited page of the cited filing, and every number printed in a filing passed. The remaining flags were derived values the readers had labelled as their own arithmetic. Values were cross-checked across filings (each 10-K repeats prior years) and against SEC XBRL data. Where filings disagree because of later reclassification (for example, Jordan Brand revenue and FY2023 digital revenue), the table uses the figure as first reported and notes the restatement.
 
-- **No SEC filing was opened.** All agents and my own searches could not reach sec.gov, nike.com, bloomberg.com, retaildive.com, and several others (DNS or proxy blocks). Everything comes from search-result summaries that cite those pages.
-- **Verification levels** (also in `research_notes/04_financial_data_pack.md`):
-  - *Checked against search summaries:* FY2025 and FY2026 annual results; quarters from Q3 FY25 through Q1 FY27; Aug 31, 2026 cash, debt, and equity.
-  - *From model memory, not verified:* FY2019 to FY2024 annual figures; Q1 FY24 through Q2 FY25; FY23 to FY24 geography; most year-end stock prices; FY19 to FY22 dividends.
-  - *Derived by me:* Dec 2025 stock price (about $63.6), ex-tariff Q4 margin (about 40.2%), P/E, payout ratio, market cap.
-  - *Not found:* shares outstanding, notes payable, several dividend years, and wholesale revenue for FY25 and FY26.
-- **Conflicts between sources:**
-  - Greater China decline in Q1 FY27: 22% (reported) versus 26% (currency-neutral); Q4 FY26 cited as -12% or -17%.
-  - APLA Q1 FY27: flat versus -2%.
-  - Stock reaction to the Oct 1 earnings: from about -2% to -9%.
-  - Dates of exits (announced versus effective); layoff counts (about 1,400 comes from a single-outlet figure in one source and CNBC in another); Friend's effective date (Aug 16 versus Aug 17; Nike says Aug 17).
-  - Analyst consensus EPS and forward P/E (16.6 vs 25.7 depending on source and estimate).
-- **People-research limits:** no named running or sport leaders; destinations of most departed executives unknown; Donahoe's hires unverified; several reasons for exits are simply not stated.
-- **One agent reported a "Hartley as chief strategy officer (Apr 2025)" item that conflicts with Heaf's role elimination date. I left Hartley out because the dates did not reconcile.**
-- **Nothing in this report is investment advice.** The scenario chart is a method illustration only.
+**Corrections to the previous draft (all verified against the filings unless noted):**
+- FY2020 diluted EPS was **$1.60**, not $1.62 (FY20 10-K).
+- Q2 FY2024 diluted EPS was **$1.03**, not $1.07; Q3 FY2024 was **$0.77**, not $0.99; Q4 FY2024 was **$0.99**, not $0.98; Q1 FY2025 gross margin was **45.4%**, not 44.7%.
+- FY2024 segment revenue: North America **21,396** (not 21,369), EMEA **13,607** (not 13,695), Greater China **7,545** (not 7,547), APLA **6,729** (not 6,543). FY2024 wholesale was **27,758** (the old ~27,400 was the FY2023 figure).
+- FY2026 segments replaced aggregator estimates: North America **20,511**, EMEA **12,572**, Greater China **5,847**, APLA **6,243**, Converse **1,174** (FY26 10-K p. 32).
+- Q1 FY2027 revenue was **$11,213 million**, not $11,210 million; APLA was -2% reported and 0% currency-neutral.
+- Dividends declared per share: FY20 **$0.955** (not 0.98), FY21 **$1.07** (not 1.10), FY22 **$1.19** (not 1.22). FY23 to FY26 are now filled in.
+- Greater China has declined for **nine** straight quarters, not eight. Nike says Greater China actions "extend beyond fiscal 2027," not "throughout" it.
+- Shares outstanding (1.485 billion), Tim Cook as lead independent director, the $1.5 billion annualized tariff estimate, and the $2 billion Dec 2023 savings target are now confirmed in filings.
+- Arnault's appointment date is Sept 15, 2026 (announced Sept 16).
+- People (opened Nike and news pages): Hill made **three** outside hires, not two (Gonda added); Heaf's successor was Jennifer Hartley and he became CEO of Bath & Body Works; Wilkins's successor was Gonda; Peddie was rehired under Donahoe in July 2024; Ewing's merchandising and digital roles are restored; Sprunk's and Hill's retirements were announced Feb 18, 2020; Bignell's successor started Apr 12, 2026; the "Aug 2024" layoff was Aug 2025; Graham co-founded Adopt in 2020.
+- The stock chart now uses actual daily closes instead of remembered year-end prices. The layoff-count chart was replaced with filing-based headcount, because filings never state layoff numbers.
+
+**Removed because they could not be verified:**
+- The Q1 FY2027 consensus figures ($0.43 EPS, $11.32 billion revenue).
+- The 27-analyst rating split.
+- The "400 bps Cyber Week headwind" for Q2 FY2027.
+- Hill's unverified mid-career titles.
+- The "8,000 staff" Sport Offense figure.
+- The claim that Pace savings land "mostly in FY2029 and FY2030."
+
+**Still open:**
+- **Ann Hebert's exit reason:** seen only in a search snippet.
+- **The Mississippi part of the January 2026 layoffs:** the count is unverified.
+- **Q2 FY2027 report date:** not yet announced by Nike.
+
+**Nothing in this report is investment advice.** The scenario chart illustrates a method only.
 
 ---
 
@@ -408,57 +483,89 @@ Ordered by value for a case competition built on the leadership thesis:
 
 | Term | Meaning |
 |---|---|
-| **8-K** | A filing public companies submit to the SEC to announce material events (e.g., executive changes). |
+| **8-K** | A filing public companies submit to the SEC to announce material events (results, executive changes, restructurings). |
 | **10-K / 10-Q** | Annual and quarterly financial reports filed with the SEC. |
+| **Adjusted (non-GAAP)** | A figure that excludes items management treats as unusual, such as restructuring costs. |
 | **Basis point (bps)** | 1/100 of a percentage point. |
-| **Bull / bear case** | Optimistic / pessimistic scenario. |
+| **Bull / bear case** | Optimistic and pessimistic scenarios. |
 | **Currency-neutral** | Growth excluding exchange-rate effects. |
-| **DTC / Nike Direct** | Selling directly to customers (own stores, app, website). |
+| **Demand creation** | Nike's term for advertising, marketing and athlete endorsement spending. |
+| **DTC / NIKE Direct** | Selling directly to customers through Nike's own stores, app and website. |
 | **EBIT** | Earnings before interest and taxes (operating profit). |
 | **EPS** | Earnings per share. |
 | **Fiscal year (FY)** | Nike's runs June 1 to May 31. |
-| **Gross margin** | (Revenue minus cost of goods) divided by revenue. |
-| **Guidance** | Company forecast of its own results. |
-| **IEEPA tariffs** | Tariffs imposed under an emergency-powers law. Nike booked a $986M expected recovery in Q4 FY26. |
+| **Gross margin** | Revenue minus cost of sales, divided by revenue. |
+| **Guidance** | A company's forecast of its own results. |
+| **IEEPA tariffs** | Tariffs imposed under the International Emergency Economic Powers Act. The Supreme Court ruled them unauthorized on Feb 20, 2026, and Nike booked a $986M expected recovery in Q4 FY2026. |
 | **Market cap** | Share price times shares outstanding. |
 | **P/E ratio** | Price divided by EPS. |
 | **Payout ratio** | Dividends divided by earnings. |
-| **Proxy statement (DEF 14A)** | Annual filing describing the board, executive pay, and shareholder votes. |
-| **Sell-through** | The pace at which retailers sell Nike product to consumers. |
-| **Sell-in** | Nike's shipments to retailers. |
+| **Proxy statement (DEF 14A)** | The annual filing describing the board, executive pay and shareholder votes. |
+| **Say-on-pay** | The advisory shareholder vote on executive pay. |
+| **TSR** | Total shareholder return: price change plus dividends. |
+| **WARN notice** | A state filing employers must make before large layoffs. |
 | **Wholesale** | Selling through other retailers. |
-| **Yield** | Annual dividend divided by price. |
 
 ---
 
 ## 15. Sources
 
-All links below were surfaced by web search. Most primary pages could not be opened directly, so check them before citing. Complete per-claim links are inside `research_notes/`.
+**SEC filings (all downloaded from sec.gov and read in full).** The per-number citations are in `data/nike_filing_facts.csv`; the most-cited filings are:
 
-**Company filings and releases**
-- [Q4 FY26 earnings release (SEC)](https://www.sec.gov/Archives/edgar/data/320187/000032018726000076/q4fy26exhibit991er.htm)
-- [Q1 FY27 earnings release (SEC)](https://www.sec.gov/Archives/edgar/data/0000320187/000032018726000184/q1fy27exhibit991er.htm)
-- [Q1 FY27 10-Q (SEC)](https://www.sec.gov/Archives/edgar/data/0000320187/000032018726000193/nke-20260831.htm)
-- [FY2026 annual report (SEC)](https://www.sec.gov/Archives/edgar/data/0000320187/000130817926000376/nke015577-ars.pdf)
-- [Sept 2024 CEO transition 8-K (SEC)](https://www.sec.gov/Archives/edgar/data/320187/000032018724000053/nke-20240919.htm)
-- [Dec 2025 senior leadership announcement (SEC)](https://www.sec.gov/Archives/edgar/data/320187/000032018725000115/sltannouncement.htm)
-- [CFO transition release (Nike)](https://about.nike.com/en/newsroom/releases/nike-inc-announces-planned-cfo-transition)
-- [Aug 27, 2026 leadership release (Nike)](https://about.nike.com/en/newsroom/releases/nike-inc-august-27-2026-senior-leadership-announcement)
+| Filing | Filed | URL |
+|---|---|---|
+| FY2026 10-K | 2026-07-15 | https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm |
+| FY2025 10-K | 2025-07-17 | https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm |
+| FY2024 10-K | 2024-07-25 | https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm |
+| FY2023 10-K | 2023-07-20 | https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm |
+| FY2022 10-K | 2022-07-21 | https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm |
+| FY2021 10-K | 2021-07-20 | https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm |
+| FY2020 10-K | 2020-07-24 | https://www.sec.gov/Archives/edgar/data/320187/000032018720000047/nke-531202010k.htm |
+| FY2019 10-K | 2019-07-23 | https://www.sec.gov/Archives/edgar/data/320187/000032018719000051/nke-531201910k.htm |
+| Q1 FY2027 10-Q | 2026-10-02 | https://www.sec.gov/Archives/edgar/data/320187/000032018726000193/nke-20260831.htm |
+| Q1 FY2027 release (8-K Ex. 99.1) | 2026-10-01 | https://www.sec.gov/Archives/edgar/data/320187/000032018726000184/q1fy27exhibit991er.htm |
+| Pace 8-K (Item 2.05) | 2026-10-01 | https://www.sec.gov/Archives/edgar/data/320187/000032018726000184/nke-20261001.htm |
+| Q4 FY2026 release (8-K Ex. 99.1) | 2026-06-30 | https://www.sec.gov/Archives/edgar/data/320187/000032018726000076/q4fy26exhibit991er.htm |
+| 2026 proxy (DEF 14A) | 2026-07-15 | https://www.sec.gov/Archives/edgar/data/320187/000032018726000089/nke-20260715.htm |
+| CFO transition 8-K | 2026-06-23 | https://www.sec.gov/Archives/edgar/data/320187/000032018726000070/nke-20260616.htm |
+| Chief accounting officer 8-K | 2026-08-10 | https://www.sec.gov/Archives/edgar/data/320187/000032018726000112/nke-20260804.htm |
+| Annual meeting vote results 8-K | 2026-09-10 | https://www.sec.gov/Archives/edgar/data/320187/000032018726000143/nke-20260908.htm |
+| Arnault appointment 8-K | 2026-09-16 | https://www.sec.gov/Archives/edgar/data/320187/000032018726000170/nke-20260915.htm |
+| Dec 2025 leadership 8-K | 2025-12-02 | https://www.sec.gov/Archives/edgar/data/320187/000032018725000115/nke-20251201.htm |
+| CEO transition 8-K | 2024-09-19 | https://www.sec.gov/Archives/edgar/data/320187/000032018724000053/nke-20240919.htm |
+| Dec 2023 restructuring 8-K | 2023-12-21 | https://www.sec.gov/Archives/edgar/data/320187/000032018723000054/nke-20231221.htm |
 
-**News and analysis**
-- [CNBC: Nike falls to 13-year low](https://www.cnbc.com/2026/10/02/nike-falls-to-13-year-low-analysts-say-the-selling-isnt-over-yet.html)
-- [Forbes: Nike shares hit new 13-year low](https://www.forbes.com/sites/antoniopequenoiv/2026/10/01/nike-shares-hit-new-13-year-low-after-q1-revenue-falls-short-of-expectations/)
-- [WWD: Elliott Hill at annual shareholder meeting](https://wwd.com/footwear-news/shoe-industry-news/nike-annual-shareholder-meeting-ceo-elliott-hill-progress-1239201228/)
-- [Fortune: Elliott Hill turnaround profile](https://fortune.com/article/nike-ceo-veteran-elliott-hill-turnaround-growth/)
-- [CNBC: Nike CEO change, Sept 2024](https://www.cnbc.com/2024/09/19/nike-ceo-john-donahoe-is-out-replaced-by-elliott-hill.html)
+The full list of 102 documents with URLs is in `research_notes/04_financial_data_pack.md` (Section 8) and in `data/nike_filing_facts.csv`.
+
+**Nike pages (opened)**
+- [Nike leadership roster](https://about.nike.com/en/company) and individual profile pages under about.nike.com/en/company/people/
+- [CFO transition release](https://about.nike.com/en/newsroom/releases/nike-inc-announces-planned-cfo-transition)
+- [Aug 27, 2026 leadership announcement](https://about.nike.com/en/newsroom/releases/nike-inc-august-27-2026-senior-leadership-announcement)
+- [Dec 3, 2025 leadership announcement](https://about.nike.com/en/newsroom/releases/nike-inc-december-3-2025-senior-leadership-announcement)
+- [Jan 20, 2026 geography leadership announcement](https://about.nike.com/en/newsroom/releases/nike-inc-january-20-2026-geography-leadership-announcement)
+- [Oct 1, 2026 corporate announcement (Pace memo)](https://about.nike.com/en/newsroom/releases/nike-inc-corporate-announcement-october-1-2026)
+- Nike investor-relations releases: [May 5, 2025 leadership](https://investors.nike.com/news-events/press-releases/detail/547), [Gonda](https://investors.nike.com/news-events/press-releases/detail/549), [Nov 2025 dividend](https://investors.nike.com/news-events/press-releases/detail/556), [Arnault](https://investors.nike.com/news-events/press-releases/detail/574)
+
+**Market data**
+- Yahoo Finance chart API, NKE daily prices from Jan 2, 2019 to Oct 12, 2026 (`data/nke_daily_prices.csv`, `data/nke_dividends_exdate.csv`)
+
+**News and other pages (opened)**
 - [Retail Dive: leadership changes under Hill](https://www.retaildive.com/news/nike-ceo-elliott-hill-leadership-team-turnaround-changes/750495/)
-- [Retail Dive: CTO and CCO roles cut](https://www.retaildive.com/news/nike-cuts-chief-technology-commercial-officer-roles-leadership-overhaul/806913/)
-- [Retail Dive: CFO change](https://www.retaildive.com/news/nike-surprise-cfo-change-david-denton-turnaround-progress/823650)
-- [CNBC: Nike layoffs, Apr 2026](https://www.cnbc.com/2026/04/23/nike-job-cuts-layoffs.html)
-- [SGI Europe: China partner online sales](https://www.sgieurope.com/distribution/nike-to-rejigger-online-sales-in-china-after-all/122359.article)
-- [StockAnalysis: analyst forecasts](https://stockanalysis.com/stocks/nke/forecast/)
-- [Investing.com: NKE price](https://www.investing.com/equities/nike)
-- [Simply Wall St: NKE analysis](https://simplywall.st/stocks/us/consumer-durables/nyse-nke/nike)
+- [Retail Dive: CFO change](https://www.retaildive.com/news/nike-surprise-cfo-change-david-denton-turnaround-progress/823650/)
+- [Retail Dive: Q1 FY27 and Pace, BNP comment](https://www.retaildive.com/news/nike-turnaround-visibility-very-low-layoffs-sales-declines-q1-earnings/832015/)
+- [Retail Dive: distribution-center layoffs](https://www.retaildive.com/news/nike-layoffs-distribution-centers-tennessee-mississippi/810593/)
+- [Retail Dive: Peddie returns (July 2024)](https://www.retaildive.com/news/nike-tom-peddie-returns-vice-president-marketplace-partners-dtc-wholesale/720981/)
+- [Retail Dive: Bignell exits, Caine named](https://www.retaildive.com/news/nike-innovation-chief-tony-bignell-exits-andy-caine-turnaround/817310/)
+- [Retail Dive: Cain named Converse CEO](https://www.retaildive.com/news/nike-names-aaron-cain-ceo-converse-jared-carver-exits/752800/)
+- [Tennessee WARN notice, NIKE Retail Services](https://www.tn.gov/content/dam/tn/workforce/documents/warn/NIKE-Retail-Services.pdf)
+- [Fortune: Feb 2024 layoffs](https://fortune.com/2024/02/16/nike-lays-off-more-than-1500-people-ceo-john-donahoe/)
+- [Fortune: Feb 2020 reshuffle](https://fortune.com/2020/02/18/nike-executive-job-reshuffling/)
+- [WWD: Ewing named CCO](https://wwd.com/footwear-news/shoe-industry-news/nike-chief-commercial-officer-jane-ewing-walmart-1239172832/)
+- [Talk Business: Ewing leaving Walmart](https://talkbusiness.net/2026/09/walmart-senior-advisor-leaving-to-join-nike/)
+- [Daily Tidings: S&P 100 removal](https://www.dailytidings.com/oregon-giant-nike-to-be-dropped-from-sp-100-after-stock-sinks-nearly-80/)
+- [Just Style: China online changes](https://www.just-style.com/news/nike-says-it-will-streamline-online-business-in-china/)
+- [FashionUnited: Heaf to Bath & Body Works](https://fashionunited.com/news/people/daniel-heaf-succeeds-gina-boswell-as-bath-body-works-ceo/2025052066113)
+- [stockanalysis.com: NKE forecast](https://stockanalysis.com/stocks/nke/forecast/) and [MarketBeat: NKE forecast](https://www.marketbeat.com/stocks/NYSE/NKE/forecast/)
 
 ---
 
@@ -467,7 +574,11 @@ All links below were surfaced by web search. Most primary pages could not be ope
 | Path | What it is |
 |---|---|
 | `REPORT.md` | This report |
-| `charts/` | The 10 chart images used above |
-| `scripts/make_charts.py` | Reproduces every chart; data and quality flags are inside the script (`pip install matplotlib`, then `python3 scripts/make_charts.py`) |
-| `DEEP_DIVE_DENTON_EWING.md` | Deep dive on the two outside hires: CFO David Denton and CCO Jane Ewing |
-| `research_notes/` | Raw research notes from four parallel research passes, with inline source URLs and confidence tags |
+| `DEEP_DIVE_DENTON_EWING.md` | Deep dive on CFO David Denton and CCO Jane Ewing |
+| `data/nike_filing_facts.csv` | 6,270 filing facts, one per metric and period, each with filing, printed page, URL and verbatim quote |
+| `data/nke_daily_prices.csv`, `data/nke_dividends_exdate.csv` | Market data (Yahoo Finance), pulled Oct 12, 2026 |
+| `data/people_events.csv` | The named-exit list behind charts 6 and 7, with a source per row |
+| `charts/` | 14 charts, all generated from the files in `data/` |
+| `scripts/make_charts.py` | Rebuilds every chart (`pip install matplotlib numpy`, then `python3 scripts/make_charts.py`) |
+| `scripts/build_data_pack.py` | Rebuilds `research_notes/04_financial_data_pack.md` from the facts file |
+| `research_notes/` | Research notes; `04_financial_data_pack.md` is the cited financial tables |
