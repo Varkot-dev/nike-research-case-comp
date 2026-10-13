@@ -81,16 +81,69 @@ From FY2025 Nike stopped isolating Direct margin. Instead its bridge shows two o
 
 ## Test 3: peer benchmarks
 
-*Pending: peers that report DTC and wholesale margins separately (Skechers, Deckers and others), plus retailer gross margins (Foot Locker, Dick's, JD Sports), are being collected and verified.*
+Full tables, quotes and URLs: `research_notes/10_peer_channel_margins.md`. Peer filings were read from annual report PDFs and company IR documents. Every peer figure below was taken from a printed filing table, and the Skechers FY2024 and Deckers FY2018 to FY2024 segment figures were re-checked against the downloaded PDFs.
 
-## Verdict so far
+**3a. Gross margin: DTC beats wholesale by about 17 to 30 points, and discounting has not closed that gap at any peer.**
 
-1. **Supported by Nike's own numbers.**
-   - When Direct sold at near full price (FY2022), it added 160 bps to company gross margin and its spread over wholesale rose to 43.7% of Direct revenue.
-   - When Direct liquidated inventory (FY2023 to FY2024), the same business subtracted 130 bps and 40 bps, and the spread fell back to 39.5%.
-   - Nike attributes the swing to promotional activity in every disclosure.
-2. **Not yet proven.** Whether Direct beats wholesale *after* its own operating costs. A 39.5% gross spread sounds large, but stores and digital fulfilment must be paid out of it. That threshold is what the peer data (Test 3) is meant to establish.
-3. **Model input for the case.**
-   - Treat the Direct premium as about 39 to 40% of Direct revenue at normal promotion levels, falling about 0.6 to 0.9 points for every point of average markdown (sensitivity table).
-   - The FY2022 peak of 43.7% is the best evidence of what a full-price Direct business earns.
-   - For FY2025 onward, track the warehousing and logistics bridge line as the measurable benefit of the wholesale shift.
+| Skechers (only peer reporting gross margin by channel) | FY2019 | FY2021 (recast) | FY2022 | FY2023 | FY2024 | H1 2025 |
+|---|---|---|---|---|---|---|
+| DTC gross margin | 59.6% | 66.1% | 65.6% | 66.0% | 66.2% | 66.5% |
+| Wholesale gross margin | 42.9% (derived) | 38.2% | 36.0% | 41.0% | 43.3% | 42.8% |
+| Gap (points) | 16.7 | 27.9 | 29.6 | 25.0 | 22.9 | 23.7 |
+
+Sources: Skechers FY2019 10-K pp. 35, 74; FY2022 10-K pp. 19, 43; FY2023 10-K p. 46; FY2024 10-K p. 47; Q2 2025 10-Q segment table.
+
+- **Nike cross-check (derived, with one assumption).** With the same unit cost in both channels, the gross margin gap equals (1 minus wholesale gross margin) times the Direct spread from Test 1. Nike's FY2024 spread was 39.5%. Assuming a Nike wholesale gross margin of 35% to 45%, the implied Nike gap is **21.7 to 25.7 points**, in line with Skechers' 22.9 points in FY2024. Nike's channel economics look like Skechers' at the gross margin line.
+- **Discount effects are single-digit points:**
+  - Skechers DTC gross margin rose 590 bps in FY2021 on "reduced promotional activity" (FY2021 10-K p. 19, original basis).
+  - Under Armour lost about 130 bps of gross margin to "increased promotional activities within our direct-to-consumer channel" (FY2024 10-K) and regained 80 bps from less DTC discounting (FY2025 10-K).
+  - Nike's own swing was +160 bps to -130 bps of company gross margin (Test 2).
+  - None of these comes close to a 17 to 30 point gap.
+
+**3b. Operating margin: DTC loses to wholesale when its costs are not covered.**
+
+| Deckers (UGG, HOKA), segment operating margin | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 |
+|---|---|---|---|---|---|---|---|
+| DTC | 21.9% | 25.9% | 24.8% | 32.8% | 35.9% | 34.7% | 40.3% |
+| Wholesale (five brand segments combined) | 25.7% | 29.7% | 29.8% | 30.6% | 27.1% | 27.1% | 30.3% |
+| Gap (points) | **-3.8** | **-3.8** | **-5.0** | +2.2 | +8.8 | +7.6 | +10.1 |
+
+Sources and notes:
+- Segment net sales and income from operations come from the FY2020 10-K p. F-41, FY2022 10-K pp. F-38 to F-39 and FY2024 10-K p. F-38. All margins are derived.
+- Deckers transfers product to DTC "at the Company's cost," so the DTC segment carries the full brand-plus-retail margin. This is the closest public analogue to a Nike channel P&L.
+- Warehouse and distribution-centre costs are unallocated, so DTC is somewhat overstated.
+
+- **For three years DTC earned *less* than wholesale despite its higher gross margin.** Deckers then credits the turn to "higher-full priced selling driven by less discounting and promotional activity" (FY2019 10-K p. 39), "lower overall retail store operating costs driven by store closures" (p. 40) and later "higher full-price sell through" (FY2024 10-K p. 35). The filings do not separate the price effect from the store-closure and e-commerce-mix effects.
+- **PUMA's CFO describes the mechanism (opinion):** channel mix is "basically a swap between the OpEx and the gross profit margin side on DTC versus Wholesale" (PUMA Q1 2025 aide-memoire p. 3).
+
+**3c. What a wholesale partner keeps (the break-even benchmark).**
+
+| | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
+|---|---|---|---|---|---|---|
+| Foot Locker gross margin | 31.8% | 28.9% | 34.4% | 31.9% | 27.7% | 28.9% |
+| Nike share of Foot Locker purchases | 71% | 75% | 68% | 65% | 65% | 59% |
+
+Source: Foot Locker 10-Ks (detail file). Dick's gross margin was 29.2% to 38.3% from FY2019 to FY2024.
+
+US retailers include store occupancy in cost of sales, so this is a floor on the share of the shelf price a retailer captures.
+
+**Break-even markdown (derived, assumption stated).** Assume NIKE Direct's cost to run stores and digital fulfilment, as a share of its revenue, is similar to what a large sneaker retailer needs to cover. Then Direct beats wholesale only while its spread over wholesale stays above that retailer's gross margin. Using the Test 1 FY2024 ratio of 1.654x, the spread falls to:
+- Foot Locker's FY2024 gross margin (28.9%) at an average Direct markdown of about **15%**.
+- Its FY2023 gross margin (27.7%) at about **16%**.
+- Its FY2021 full-price-year gross margin (34.4%) at about **8%**.
+
+## Verdict
+
+1. **The strong form is wrong.** "Discounting erases the Direct *gross margin* advantage" is contradicted by every data set:
+   - Even in FY2023, its most promotional year, NIKE Direct still sold at 1.67x the wholesale value (Test 1).
+   - Skechers' DTC gross margin stayed 17 to 30 points above wholesale through every promotional cycle.
+2. **The defensible form, which the case should use:** NIKE Direct beats wholesale at the *operating* level only while its spread over wholesale exceeds its own cost to serve, and promotions consume that cushion. The supporting evidence:
+   - **Nike:** the Direct line in Nike's gross margin bridge went from +160 bps to -130 bps of company gross margin, a swing of about $1.05 billion, on promotional activity alone (Test 2).
+   - **Deckers:** DTC earned 3.8 to 5.0 points *less* than wholesale at the operating level until full-price selling returned and stores closed (Test 3b).
+   - **Break-even:** on a Foot Locker-sized cost to serve, the cushion runs out at an average Direct markdown of roughly 8% to 16% (Test 3c).
+3. **Implication for Nike's pivot (data-based, not proven).** Nike moved volume to wholesale while its Direct business was promotional and shrinking:
+   - Digital fell from $12.6 billion to $8.6 billion (`05_channel_split.md` Section 2).
+   - Nike-owned store comparable sales fell 4% in FY2026.
+
+   That is the Deckers FY2018 to FY2020 pattern, where fixed store and fulfilment costs are spread over less full-price revenue. The pivot is consistent with the data if Nike's Direct markdowns were above the 8% to 16% range. Nike does not disclose average markdown depth, so the case should present this as a threshold to monitor, not a fact.
+4. **What would change the conclusion:** a disclosure of Nike's Direct operating costs, or average markdown depth, at the November 2026 Investor Day.

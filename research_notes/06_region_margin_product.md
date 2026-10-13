@@ -60,7 +60,9 @@ FY2026, ranked by Direct share (my arithmetic on FY26 10-K p. 83 and the segment
 - **Tested in `09_channel_margin_test.md`.** Nike's own numbers support the full-price condition at the gross margin level:
   - The Direct line in Nike's gross margin bridge added 160 bps to company gross margin in 9M FY2022, when promotions were low. It subtracted 130 bps in 9M FY2023 when Direct liquidated inventory, a swing of about $1.05 billion of gross profit (Q3 FY22 10-Q p. 30; Q3 FY23 10-Q p. 29).
   - Direct revenue over its internal wholesale-price cost peaked at 1.78x in FY2022 and fell back to 1.65x by FY2024.
-  - Whether Direct beats wholesale after its own store and fulfilment costs is not disclosed. Peer benchmarks are in that note.
+  - **Peer check (that note, Test 3):** discounting does not erase Direct's *gross margin* lead. Skechers' DTC gross margin stays 17 to 30 points above wholesale. What discounting erases is the *operating* lead:
+    - Deckers' DTC earned 3.8 to 5.0 points less than wholesale until full-price selling returned.
+    - On a Foot Locker-sized cost to serve, Nike Direct's cushion runs out at an average markdown of roughly 8% to 16% (derived; Nike does not disclose markdown depth).
 
 ## 4. Product categories
 
