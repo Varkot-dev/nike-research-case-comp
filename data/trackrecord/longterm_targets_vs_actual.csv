@@ -1,0 +1,21 @@
+program,target,metric,window,actual,verdict,source
+Oct 2017 Investor Day,High single-digit revenue growth (avg per year through FY2023),Revenue CAGR,FY2017 to FY2023,"6.9% (34,350 to 51,217); FY17 to FY22 6.3%",miss (below 7%),"my arithmetic on revenues, FY2019 10-K p. 26 and FY2023 10-K"
+Oct 2017 Investor Day,Gross margin expansion of as much as 50 bps per year,Gross margin change,FY2017 to FY2023,-110 bps total (44.6% to 43.5%); peak FY2022 46.0% = +140 bps over 5 yrs = 28 bps/yr,miss,my arithmetic on gross_margin_pct
+Oct 2017 Investor Day,Slight SG&A leverage,SG&A % revenue,FY2017 to FY2023,30.8% to 32.0% (deleverage),miss,my arithmetic
+Oct 2017 Investor Day,Mid-teens EPS growth,Diluted EPS CAGR,FY2017 to FY2023,4.3% (2.51 to 3.23); FY17 to FY22 8.4%,miss,my arithmetic on eps_diluted
+Oct 2017 Investor Day,Low-30s ROIC,ROIC,FY2020 to FY2023,"FY20 21.5%, FY21 48.8%, FY22 46.5%, FY23 31.5% (FY18 and FY19 not in repo)",mixed (met 3 of 4 years shown),FY2021 10-K p. 30; FY2022 10-K p. 30; FY2023 10-K p. 30
+Oct 2017 Investor Day,International to contribute 75% of incremental growth over next five years (Q2 FY18 call p. 7),Non-North America share of revenue growth,FY2017 to FY2022,"75% (NIKE Inc. +12360M, North America +3137M)",met,my arithmetic on revenues and revenue_north_america
+Oct 2017 Investor Day,North America mid-single-digit growth (Q2 FY18 call p. 14),NA revenue CAGR,FY2017 to FY2022,3.8%,miss (low end),my arithmetic
+Oct 2017 Investor Day (reported in Q2 FY19 call p. 6),Owned + partnered digital 30% of business by 2023 (from about 15%),Digital penetration,FY2021,Q1 FY21 call: digital across owned and partner 'now represents over 30% of our total business',met early (pandemic year),"Q1 FY21 call p. 6 ; management claim, partner digital not audited"
+"2015 Investor Day, reaffirmed Oct 2017","$50B revenue by FY2020, then ""within the next five years"" (Parker, Oct 2017, secondary)",Revenue level,FY2020 to FY2023,"FY20 37403, FY22 46710, FY23 51217 (first year above $50B)",late (met in FY2023),Retail Dive Oct 26 2017 (secondary); revenues from facts
+"Jun 2020 (Q4 FY20 call p. 3, 6)",Reach 30% digital penetration this coming year; owned + partnered digital to 50% of business,Digital penetration,FY2021 onward,30% met (Q1 FY21 call). 50% not verifiable: partner digital never disclosed; owned NIKE Brand Digital peaked at 12.6B = 26% of NIKE Brand revenue (FY23),30%: met; 50%: not met on owned basis,"my arithmetic: 12.6/48.763 (FY2023 10-K p. 33, 36)"
+"Jun 2021 (Q4 FY21 call p. 12, 13; IR outlook PDF)",HSD to LDD revenue growth through FY25,Revenue CAGR,FY2021 to FY2025,1.0%,miss,my arithmetic
+Jun 2021,Gross margin high 40s by FY25,Gross margin,FY2025,42.7% (peak 46.0% in FY22),miss,FY2025 10-K
+Jun 2021,EBIT margin high teens by FY25,EBIT margin,FY2025,8.2% (FY21 15.5%),miss,Q4 FY25 release; FY2021 10-K p. 36
+Jun 2021,Mid-to-high-teens EPS growth on average,EPS CAGR,FY2021 to FY2025,-11.7% (3.56 to 2.16),miss,my arithmetic
+Jun 2021,ROIC above low-30% range,ROIC,FY2022 to FY2025,"46.5%, 31.5%, 34.9%, 20.2%","met FY22, FY24; missed FY23 (borderline), FY25",10-K ROIC tables
+Jun 2021,Capex roughly 3% of revenue,Capex % revenue,FY2022 to FY2025,"FY22 1.6%, FY23 1.9%, FY24 1.6%, FY25 0.9%",below target (under-spend),my arithmetic
+Jun 2021,NIKE Direct about 60% of NIKE Brand business in FY25,NIKE Direct share,FY2025,42%,miss,FY2025 10-K p. 29
+Jun 2021,NIKE owned Digital 40% of business in FY25; owned + partnered 50%,Owned digital share of NIKE Brand,FY2025,21.5% (9.6B / 44.7B),miss,"my arithmetic, FY2025 10-K p. 34, 37"
+Jun 2021,Wholesale roughly flat vs FY21,NIKE Brand wholesale,FY2025,25898 to 25883 (-0.1%),in line,FY2021 10-K p. 32; FY2025 10-K p. 33
+Jun 2021 (Q4 FY21 call p. 13),FY22 revenue to grow LDD and surpass $50 billion,FY22 revenue,FY2022,46710 (+4.9%),miss,FY2022 10-K
