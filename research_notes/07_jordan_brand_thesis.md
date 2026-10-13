@@ -77,7 +77,7 @@ Nike does not disclose Jordan by channel. The FY2025 restatement lets us estimat
 
 | Signal | Bull reading | Bear reading | When |
 |---|---|---|---|
-| Nike Investor Day | Jordan revenue or margin targets; restated Jordan history | No Jordan targets | November 2026 (Nike transcript, Q1 FY27 call) |
+| Nike Investor Day | Jordan revenue or margin targets; restated Jordan history | No Jordan targets | Nov 16 to 17, 2026 (Nike release, Oct 1, 2026) |
 | Jordan growth on calls | Decline narrows from mid-teens in Q2 or Q3 FY27 | Decline persists or widens | Q2 FY27 call (December 2026) |
 | North America Direct growth | Turns less negative as retro cuts annualize | Keeps falling 6% or more a quarter | Each quarter (10-Q) |
 | Gross margin commentary | Full-price realization cited for Jordan | Jordan cited for discounting | Each quarter |
