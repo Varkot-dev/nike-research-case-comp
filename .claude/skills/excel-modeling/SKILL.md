@@ -16,7 +16,7 @@ References:
 - `references/modeling_standards.md`: layout, formatting, checks, scenarios, circularity, valuation review.
 - `references/formulas.md`: portable formulas and patterns.
 - `references/fidelity.md`: what each save path destroys, measured, plus the real-model stress test.
-- `references/google_sheets.md`.
+- `references/google_sheets.md`: measured Excel to Sheets conversion (what survives, what breaks, how to test it).
 - `references/prior_art.md`: what other projects do, and what this skill took from them.
 
 In the commands below, `XL` means `python3 .claude/skills/excel-modeling/scripts/xl.py`. Optional second engine: `pip install formulas` enables `XL crosscheck`.

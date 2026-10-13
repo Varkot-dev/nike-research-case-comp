@@ -41,6 +41,7 @@ FMT = {   # unit -> number format. Negatives in parentheses, zero as a dash, uni
     "%": '0.0%_);(0.0%);"-"_)',
     "x": '0.0"x"',
     "yrs": '0.00',
+    "factor": '0.000',
     "#": '#,##0_);(#,##0);"-"_)',
     "flag": '0',
     "date": 'yyyy-mm-dd',

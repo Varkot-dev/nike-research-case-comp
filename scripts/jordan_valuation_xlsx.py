@@ -82,7 +82,7 @@ md.row("nopat", "NOPAT", "$m", "={ebit}*(1-{Inputs.tax})")
 md.row("reinv", "Reinvestment (revenue growth / sales to capital, floored at 0)", "$m",
        "=MAX({rev}-{rev[-1]},0)/{Inputs.s2c}", first="=MAX({rev}-{Inputs.j26},0)/{Inputs.s2c}")
 md.row("fcf", "Free cash flow, period-weighted", "$m", "=({nopat}-{reinv})*{w}", bold=True)
-md.row("df", "Discount factor", "x", "=1/(1+{Inputs.wacc})^{t_mid}")
+md.row("df", "Discount factor", "factor", "=1/(1+{Inputs.wacc})^{t_mid}")
 md.row("pv", "PV of free cash flow", "$m", "={fcf}*{df}")
 
 val = m.list_sheet("Valuation").describe("DCF value, per-share value and terminal share for the active scenario")

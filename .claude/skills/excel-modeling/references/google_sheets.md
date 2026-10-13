@@ -37,5 +37,38 @@ So there is **no in-place edit of a native Google Sheet** from here. Every chang
 4. Compare the headline outputs (master check, valuation per share) between the two files.
 5. Record what changed in this file's "Measured conversions" section below, so the knowledge compounds.
 
-## Measured conversions
-None yet. The first time a model goes to Sheets, run the checks above and log the results here, with the date and the feature list from `xl.py features`.
+## Measured conversions (Oct 13, 2026, Google Drive connector)
+
+Method: upload a small .xlsx with `create_file` (conversion to a native Sheet is the default), then read what Sheets computed with `read_file_content`. Probe workbook: `tests/gsheets_lite.py` (3.8 KB; every probe row carries an expected value). Real model: the Jordan valuation with its charts and comments stripped (10.8 KB).
+
+**Verified: these survive conversion and compute the same numbers**
+
+| Feature | Result |
+|---|---|
+| Defined name (`=B2*(1+Growth)`) | Works: 1,050 |
+| Cross-sheet SUMIFS, INDEX/MATCH, SUMPRODUCT | Match |
+| `_xlfn.XLOOKUP`, `_xlfn.IFS`, `_xlfn.TEXTJOIN`, `_xlfn.MAXIFS` | Match, including XLOOKUP, which LibreOffice 24.2 cannot evaluate |
+| Legacy CSE array `{=SUM(A*2)}` | Matches (200) |
+| EOMONTH and date serials | Same serial, same date (46,053 shows 1/31/2026), so the epochs agree |
+| XNPV(rate, values, dates) | Matches LibreOffice (4.13223) |
+| Number formats `0.0%_);(0.0%);"-"_)`, `0.0"x"`, `$#,##0.00_);($#,##0.00);"-"_)` | Preserved: 5.0%, 12.5x, ($1,234.50) |
+| Text year `FY2027E` | Stays text |
+| Array constant inside MATCH (`MATCH(C5,{"Bear","Base","Bull"},0)`), CHOOSE, MAX, AND-style checks | Match |
+| Jordan model, full chain (scenario switch, margin ramp, DCF, checks, cover) | Matches the local calculation: DCF $5,639m, $3.79 per share, 10.7% of price, terminal share 78.1%, all five checks and the master check pass, the Cover reads "OK: all checks pass" |
+
+**Verified: these break or change silently**
+
+| Feature | Result | What to do |
+|---|---|---|
+| Iterative calculation flag (`calcPr iterate="1"`) | Not carried over: interest on average debt shows `#REF!` (circular dependency) | Turn it on in Sheets (File > Settings > Calculation), or avoid circularity (modeling_standards.md section 6) |
+| Excel What-If data table (`t="dataTable"`) | Flattened to the cached values, with no error and no recalculation: the grid showed its cached zeros | Never ship a data table to Sheets. Use `xl.py sensitivity --write` (static, labelled) or formula grids |
+| Dynamic array stored as `_xlfn._xlws.SORT(...)` | `#NAME?`. Google reads `_xlfn.XLOOKUP` but not the `_xlfn._xlws.` prefix. Caveat: the probe wrote it as a legacy array with no `cm` metadata, so a file saved by real Excel may behave differently | Avoid SORT, FILTER and UNIQUE in files headed for Sheets, or rewrite them as Sheets-native formulas after upload |
+
+**Not verified (the Drive connector cannot see structure)**
+
+Data validation lists, conditional formats, frozen panes, sparklines, charts, cell notes, structured table references, font colours and fills. `read_file_content` returns values only, and `download_file_content` returns the whole export as base64 inside the reply, which cannot be diffed without retyping it. With a Sheets editor connector, `get_spreadsheet` with `includeGridData` would settle all of these.
+
+**Practical limits of uploading**
+- The file travels inside the call as base64 text, and long payloads get corrupted in transit. A 17 KB payload failed ("Invalid conversion requested"), a 6.6 KB one failed ("Request contains an invalid argument"), while 2.1 KB, 5.1 KB and 14.5 KB payloads converted. A rejected upload means a damaged copy, not an unsupported feature. Keep the payload small and retry.
+- To test a model, strip what the connector cannot verify anyway (theme, docProps, comments, charts) and compare the computed values.
+- Every test upload creates a new file in the user's Drive. Link them, say what they are, and offer to trash them. Never trash without being asked.
