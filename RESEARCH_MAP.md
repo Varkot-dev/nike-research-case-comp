@@ -76,6 +76,11 @@ On the default branch: franchise oversupply, DTC and wholesale, the execution vs
 | Consistency audit across the repo | Revenue streams (`claude/gallant-ride-0plbb9`) | (per that session) | Oct 13 |
 
 ## Open topics nobody owns yet (claim one before starting)
+Leads from the Oct 13 scan of every branch are listed in `research_notes/21_leads_scan_oct13.md` (section 3):
+- Q2 FY2027 footwear nowcast from Feng Tay and Pou Chen monthly revenue.
+- FY2027 channel-fill unwind at the top three U.S. accounts.
+- Exit multiple if the sector de-rating is permanent (peer multiple history).
+- Catalyst playbook for Nov 1 to Nov 19 (supplier October revenue, dividend declaration, Investor Day).
 - The pitch itself: thesis decision memo, 10-page report, 15-slide deck (needs every lane's results).
 - The full three-statement Excel model for the submission (use the merged skill in `.claude/skills/excel-modeling/`).
 - Sum-of-the-parts and strategic options (Converse sale, Jordan) beyond the existing Jordan valuation.
