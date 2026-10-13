@@ -1,0 +1,10 @@
+fiscal_year,dps_declared,diluted_eps_gaap,payout_of_eps_pct_my_arithmetic,dividends_pct_of_fcf_my_arithmetic,raise_declared_date,quarterly_rate_change,raise_pct,consecutive_years_of_increase_after_raise
+FY2019,0.86,2.49,35,28,Nov 2018 (release not opened),0.20 to 0.22 (inferred: 0.86 = 0.20 + 3 x 0.22),n/d,17
+FY2020,0.955,1.6,60,104,2019-11-14,0.22 to 0.245,11%,18
+FY2021,1.07,3.56,30,27,2020-11-19,0.245 to 0.275,12%,19
+FY2022,1.19,3.75,32,41,2021-11-18,0.275 to 0.305,11%,20
+FY2023,1.325,3.23,41,41,2022-11-15,0.305 to 0.340,11%,21
+FY2024,1.45,3.73,39,33,2023-11-14,0.340 to 0.370,9%,22
+FY2025,1.57,2.16,73,70,2024-11-14,0.37 to 0.40,8%,23
+FY2026,1.63,2.1,78,110,2025-11-20,0.40 to 0.41,3%,24
+FY2027 guide,1.64 run-rate (0.41 x 4),1.15 to 1.35 adjusted,121 to 143 (adjusted),see forward model,Nov 2026 window (not yet declared),0.41 to ?,?,25 if raised

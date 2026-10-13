@@ -1,5 +1,8 @@
 # Nike research repo: standing instructions
 
+## Check the research map first
+Before researching anything, read `RESEARCH_MAP.md`. Do not research a question another session has done or claimed. Claim new topics there (through a small PR to the default branch) before launching agents, and move them to Done with file paths when finished.
+
 ## Every explanation must be financial and data driven
 This repo supports a stock pitch. Never explain a result with a generic, consumer-sentiment or common-sense statement such as "fewer people want the shoes," "the brand lost its cool," "demand is weak," "it's a bright spot," or "this is the swing factor." Those statements are not acceptable in notes, the report, chart titles or chat replies.
 
@@ -20,4 +23,4 @@ Instead, every "why" must be decomposed into measurable drivers, with a source o
 - Every finding goes into the repo (data, research_notes, and REPORT.md when it changes the pitch), is committed and pushed to GitHub in the same session. Nothing learned stays only in chat or scratch files.
 
 ## Other rules
-Follow `.claude/skills/nike-report-update/SKILL.md` (citations, labels, no em-dashes or en-dashes, regenerate rather than hand-edit) and `.claude/skills/sec-filing-research/SKILL.md`. **Downloads:** fetch Nike filings from the investors.nike.com mirror (see the sec-filing-research skill), not www.sec.gov. Never put the user's email address in an HTTP request (for example a SEC User-Agent) unless the user explicitly provides it for that purpose.
+Follow `.claude/skills/nike-report-update/SKILL.md` (citations, labels, no em-dashes or en-dashes, regenerate rather than hand-edit) and `.claude/skills/sec-filing-research/SKILL.md`. For any spreadsheet model (build, edit, audit, sensitivity, Google Sheets) follow `.claude/skills/excel-modeling/SKILL.md`: patch existing workbooks surgically with its `xl.py`, never rebuild a workbook a person has edited. **Downloads:** fetch Nike filings from the investors.nike.com mirror (see the sec-filing-research skill), not www.sec.gov. Never put the user's email address in an HTTP request (for example a SEC User-Agent) unless the user explicitly provides it for that purpose.
