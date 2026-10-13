@@ -290,4 +290,20 @@ note(fig, "Cash provided by operations, additions to property, plant and equipme
           "cash flows in each year's Form 10-K. 'Operating cash flow minus capex' is my arithmetic, not a Nike-reported measure.")
 save("14_cash_returns.png")
 
+# ---------- 15. EBIT margin by region ----------
+regs = [("north_america", "North America", BLUE), ("greater_china", "Greater China", RED), ("apla", "APLA", AQUA),
+        ("emea", "EMEA", VIOLET), ("converse", "Converse", MUTED)]
+fig, ax = plt.subplots(figsize=(8.8, 4.6))
+for key, lab, col in regs:
+    m = [100 * v(f"ebit_{key}", p) / v(f"revenue_{key}", p) for p in FY]
+    ax.plot(FYL, m, color=col, lw=2, marker="o", ms=4)
+    nudge = {"apla": 0.9, "greater_china": -0.9}.get(key, 0)
+    ax.text(len(FYL) - 1 + 0.12, m[-1] + nudge, f"{lab} {m[-1]:.1f}%", va="center", fontsize=8, color=INK2)
+ax.set_xlim(-0.3, len(FYL) + 1.3); ax.set_ylim(0, 42); ax.set_ylabel("EBIT / segment revenue (%)")
+ax.set_title("Greater China fell from Nike's most profitable region (39% in FY21) to 22%; North America now leads")
+note(fig, "Segment EBIT divided by segment revenue (my arithmetic) from the segment note in each year's Form 10-K; page-level citations in "
+          "data/nike_filing_facts.csv. Segment EBIT excludes Global Brand Divisions and Corporate costs. FY26 North America and Converse include "
+          "$965M and $21M of expected IEEPA tariff recovery (FY26 10-K p. 30), which Nike says largely offsets tariffs recognized in FY26.")
+save("15_region_ebit_margin.png")
+
 print("done", sorted(os.listdir(OUT)))
