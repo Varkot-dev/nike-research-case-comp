@@ -431,3 +431,9 @@ Computations: `scratchpad/rh/tools/na_rev2.py`. The Revision 1 text is saved as 
 
 ## Independent verification log
 - Oct 13, 2026: FY2026 NA wholesale "including expanded distribution, higher shipments to existing partners and fewer marketplace management actions" confirmed verbatim (FY26 10-K p. 37). Foot Locker inventory ranges are derived by the note (exact-total method) and were not independently recomputed.
+
+## Cross-note corrections (from 09_cross_note_critic_review.md)
+- A1: verdict row 11 says concentration rose "because Dick's absorbed Foot Locker." **Wrong.** The merger explains 0 of the FY25 rise and under 1 point in FY26; see 06. The "not an independent cause" verdict stands, but the stated reason does not.
+- A4: channel-shift shares count Direct retail dollars as wholesale dollars. At wholesale-equivalent value (x 0.605), channel shift is about **21.9%** of FY26 NA wholesale growth (not 36%) and **34.1%** of Q1 FY27 growth (not 56%). That leaves about $160M, not $107M, of Q1 FY27 growth for price/mix, World Cup, Foot Locker fill and new doors.
+- A7: the reserve-decline figure should use the FY26 window ($245M, 16.6% of the FY26 NA gain), not May 2025 to Aug 2026 ($346M).
+- Weak inputs: the "mostly Nike" share of the Foot Locker build is an inference, not a measurement.

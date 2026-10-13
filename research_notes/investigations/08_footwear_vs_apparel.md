@@ -419,3 +419,8 @@ Filings (revision 2 additions):
 
 ## Independent verification log
 - Oct 13, 2026: footwear FY2024 $33,427M and FY2026 $29,525M confirmed against the facts CSV (FY24 10-K p. 34; FY26 10-K p. 32). FY2025 NIKE Brand footwear "Unit sales of footwear decreased 8%, while lower average selling price ... reduced footwear revenues by approximately 3 percentage points" confirmed verbatim.
+
+## Cross-note corrections (from 09_cross_note_critic_review.md)
+- A5: the Q1 FY27 "residual about -$16M" is a shipment residual. Sell-through weakness may be masked by Foot Locker fill, and the global Dunk figure overlaps the GC figure. Read row 17 as unresolved.
+- A6: FY25 China-specific footwear is overstated. At the footwear level it is about **-$138M**, not -$253M (GC footwear -13% vs ex-GC -10.5%). The unexplained FY25 non-classic residual therefore grows to about **-$537M**.
+- A7: the reserve balance change is a proxy (direction and upper bound only), not a measured revenue flow.

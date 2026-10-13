@@ -12,8 +12,28 @@ Each question was worked by an investigator agent, attacked by two adversarial r
 | 04 | How deep were NIKE Direct markdowns, compared with the 8% to 16% break-even in note 09? | **Never disclosed.** Bounded from Nike's bridge data, the incremental Direct markdown versus FY2024 was **2.5% to 9.8% in FY2025**, below 15% in every full year.<br>It crossed 7.8% only if most FY2025 discounting sat in Direct. | **Correction to Section 5.8:** the pivot-justification line ("consistent if markdowns were above 8% to 16%") is mostly not supported. Rewrite it. |
 | 05 | Why did North America gross margin rise while other regions fell? | **The reported +120 bps depends on the tariff refund:**<br>- With tariffs kept and the refund excluded, NA margin fell **-350 bps**.<br>- On a no-new-tariffs basis it rose about **+140 bps** (range +100 to +190), driven by lower cost per unit, not price.<br>- Currency worked against NA.<br>- In Q1 FY2027 the premise fails: EMEA and Greater China also rose. | **Correction to Section 5.7:** "North America is the only segment whose FY2026 gross margin is above FY2023" needs both bases shown. |
 | 06 | Why did top-3 U.S. customer concentration rise from 21% to 29%? | **Three pieces:**<br>- About **3.1 points** from NIKE Direct shrinking: a mechanical denominator effect.<br>- About **0.4 points** from the Converse collapse.<br>- About **4.5 points** from top-3 share gains within wholesale, mostly **JD Sports buying Hibbett** (closed July 2024, 3.0 to 4.2 points).<br>The Dick's and Foot Locker merger explains under 1 point. | Section 5.10: add the decomposition. Correct note 05's open question and note 01's line that the rise came from Dick's absorbing Foot Locker. |
-| 07 | Why did EMEA, Greater China, APLA and Converse gross margins fall 400 to 1,000 bps? | *In revision; file added when final.* Interim finding:<br>- Mostly currency through Nike's standard-rate system, with about half of it booked in Corporate rather than the segments.<br>- Plus Nike-specific discounting and obsolescence. adidas faced the same currency headwind and raised margins. | Section 5.7. |
+| 07 | Why did EMEA, Greater China, APLA and Converse gross margins fall 400 to 1,000 bps? | **Final draft in `07_regional_gross_margin_decline.md`.** Finding:<br>- Mostly currency through Nike's standard-rate system, with about half of it booked in Corporate rather than the segments.<br>- Plus Nike-specific discounting and obsolescence. adidas faced the same currency headwind and raised margins. | Section 5.7. |
 | 08 | Why is footwear down 11.7% and apparel only 2.4%? | **Two movements:**<br>- Classics (AF1, AJ1, Dunk) fell at least about $2.9B to $3.4B over two years, the largest identified cause.<br>- Non-classic footwear fell in FY2025 and grew in FY2026, with about $0.5B to $0.9B of underlying growth, consistent with Nike's Running claim.<br>Greater China footwear is a separate FY2026 drag. | Section 5.10: add the decomposition. |
+
+## 09: critic review (`09_cross_note_critic_review.md`)
+
+A completeness critic read all eight notes.
+
+**What it found:**
+- One direct contradiction: 01 versus 06 on concentration.
+- An NA margin benchmark in 02 that still includes the tariff refund.
+- A discounting verdict in 02 that conflicts with Nike's wording.
+- Channel-shift shares in 01 measured at retail rather than wholesale value.
+- A stale cross-reference in 03.
+- An overstated China footwear figure in 08.
+
+Each affected file now ends with a "Cross-note corrections" section.
+
+**The single most important open question for the pitch:** how much of North America's wholesale growth was consumer sell-through, and how much was inventory placed into the top three U.S. accounts, which would have to be worked down in FY2027. The decisive data:
+1. Nike's Q2 FY2027 10-Q (late December 2026).
+2. Dick's Q3 2026 Foot Locker inventory (early December 2026).
+3. The November 2026 Investor Day.
+4. Circana point-of-sale data (paid).
 
 ## Cross-note corrections already identified
 - **Note 01 versus 06:** 01 attributes the concentration rise to Dick's absorbing Foot Locker. 06 shows that explains under 1 point and that JD plus Hibbett is the main driver. 06 is the more detailed analysis.
@@ -29,3 +49,4 @@ Each question was worked by an investigator agent, attacked by two adversarial r
 - **05:** the NA -350 bps ex-refund figure was recomputed and matches.
 - **06:** the Hibbett 73.7% is **not confirmable**. The latest available Hibbett 10-K shows 69.9%, which reduces the JD-Hibbett effect about 5% (conclusion unchanged).
 - **08:** the footwear totals and the FY2025 units and ASP quote are confirmed.
+- **07:** Corporate gross profit -$535M (FY2023) and +$97M (FY2026) confirmed in the 10-K Corporate tables.

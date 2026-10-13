@@ -537,3 +537,7 @@ Revision 1 is kept at `rh/direct_decline.rev1.bak.md`.
 
 ## Independent verification log
 - Oct 13, 2026: recomputed from repo data. Digital -$3.5B ($12.1B to $8.6B), stores -$0.32B, digital 92% of the $3.8B decline. Regional Direct changes confirmed: NA -1,839, EMEA -934, GC -691, APLA -335 ($M; FY24 10-K p. 84, FY26 10-K p. 83).
+
+## Cross-note corrections (from 09_cross_note_critic_review.md)
+- A8: T9 and verdict 11 cite the revision-2 markdown bound ($1,979M). The current figure in 04 is **$2,035M**, so the "19% to 79% of the FY25 digital decline" range needs recomputing.
+- Weak inputs: the "sneaker hype audience" explanation is opinion with no data. Treat it as a hypothesis.

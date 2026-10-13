@@ -453,3 +453,7 @@ Other changes:
 
 ## Independent verification log
 - Oct 13, 2026: GC comparable store sales -7% (FY2025 10-K) and -6% (FY2026 10-K, "Comparable store sales decreased 6%") confirmed verbatim. They compound to -12.6% (my arithmetic, confirmed).
+
+## Cross-note corrections (from 09_cross_note_critic_review.md)
+- A2: the margin benchmark uses NA EBIT margin including the $965M tariff refund (-1.0 pp). Excluding it, NA is **-5.7 pp**, equal to EMEA (-5.7) and APLA (-5.8). GC (-8.75 pp) is still the worst, by about 3 points rather than about 8.
+- A3: verdict row 9 ("discounting supported for margin") conflicts with Nike's GC bullets, which cite FX and obsolescence "partially offset by higher ASP" (FY25 10-K p. 40). It should read: ruled out for Nike's GC gross margin; partner discounting hit partners, not Nike's segment margin directly. See 07 for the FX split.

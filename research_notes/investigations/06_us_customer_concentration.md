@@ -226,3 +226,7 @@ NA and Converse channel values are in data/nike_channel_split.csv (segment note:
 
 ## Independent verification log
 - Oct 13, 2026: **Hibbett's 73.7% Nike share (FY2024 10-K) could not be confirmed.** The FY2024 10-K download was an empty stub and no other copy was reachable. The latest Hibbett 10-K available (FY2023) states "Our largest vendor, Nike, represented 69.9%, 61.0%, and 65.0% of our purchases for Fiscal 2023, Fiscal 2022 and Fiscal 2021." Using 69.9% scales the JD-Hibbett contribution down about 5%, to about 2.9 to 4.0 points. The conclusion (largest identified within-wholesale driver) is unchanged.
+
+## Cross-note corrections (from 09_cross_note_critic_review.md)
+- Weak inputs: "JD was the FY24 #3" rests on Finish Line's FY2018 vendor share (66%, before the JD takeover), so the largest identified driver depends on a stale input. Hibbett's 73.7% could not be confirmed (see verification log).
+- Critic cap: top-3 U.S. dollars rose $772M to $1,173M from FY25 to FY26, so non-top-3 NA wholesale rose only $301M to $702M of the $1,474M.

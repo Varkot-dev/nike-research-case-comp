@@ -357,3 +357,7 @@ Nike filings URL pattern: `https://investors.nike.com/sec-filings/all-sec-filing
 
 ## Independent verification log
 - Oct 13, 2026: recomputed. FY2026 NA gross margin excluding the $965M refund = (20,511 x 45.6% - 965) / 20,511 = 40.9%, -350 bps vs FY2024 44.4% (confirmed).
+
+## Cross-note corrections (from 09_cross_note_critic_review.md)
+- Channel premium: the FY24 ratio of 1.654x overstates FY25 (bounded about 1.49 to 1.56 in 04), so the -3.25% channel-mix price effect is an upper bound and the "+0.8% residual price" is a lower bound.
+- Weak inputs: the no-new-tariff 45.8% uses Q4 tariff guidance, not actuals.
