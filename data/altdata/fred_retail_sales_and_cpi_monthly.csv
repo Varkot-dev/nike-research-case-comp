@@ -1,0 +1,822 @@
+date,value,yoy_pct,series_id,description,source_url
+2019-01-01,21199.000,-0.005,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2019-02-01,21245.000,-2.115,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2019-03-01,21545.000,2.148,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2019-04-01,21497.000,0.849,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2019-05-01,21271.000,-3.533,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2019-06-01,21234.000,-1.187,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2019-07-01,21525.000,-1.103,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2019-08-01,21519.000,1.019,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2019-09-01,21252.000,0.392,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2019-10-01,21295.000,-1.394,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2019-11-01,21254.000,-1.766,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2019-12-01,22017.000,3.347,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2020-01-01,21738.000,2.543,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2020-02-01,21563.000,1.497,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2020-03-01,10790.000,-49.919,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2020-04-01,2631.000,-87.761,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2020-05-01,7773.000,-63.457,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2020-06-01,16211.000,-23.655,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2020-07-01,16785.000,-22.021,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2020-08-01,17088.000,-20.591,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2020-09-01,19384.000,-8.790,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2020-10-01,18922.000,-11.143,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2020-11-01,17919.000,-15.691,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2020-12-01,18708.000,-15.029,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2021-01-01,19432.000,-10.608,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2021-02-01,18526.000,-14.084,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2021-03-01,22747.000,110.816,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2021-04-01,22676.000,761.878,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2021-05-01,23259.000,199.228,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2021-06-01,24125.000,48.819,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2021-07-01,23496.000,39.982,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2021-08-01,23038.000,34.820,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2021-09-01,23344.000,20.429,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2021-10-01,23486.000,24.120,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2021-11-01,24096.000,34.472,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2021-12-01,23050.000,23.209,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2022-01-01,22381.000,15.176,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2022-02-01,22978.000,24.031,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2022-03-01,24014.000,5.570,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2022-04-01,24095.000,6.258,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2022-05-01,23561.000,1.298,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2022-06-01,23649.000,-1.973,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2022-07-01,23071.000,-1.809,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2022-08-01,23376.000,1.467,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2022-09-01,23606.000,1.122,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2022-10-01,23620.000,0.571,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2022-11-01,23416.000,-2.822,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2022-12-01,23016.000,-0.148,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2023-01-01,23967.000,7.086,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2023-02-01,23602.000,2.716,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2023-03-01,23240.000,-3.223,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2023-04-01,23294.000,-3.324,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2023-05-01,23223.000,-1.435,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2023-06-01,23267.000,-1.615,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2023-07-01,23453.000,1.656,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2023-08-01,23734.000,1.531,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2023-09-01,23546.000,-0.254,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2023-10-01,23350.000,-1.143,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2023-11-01,23521.000,0.448,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2023-12-01,23864.000,3.684,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2024-01-01,23607.000,-1.502,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2024-02-01,23737.000,0.572,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2024-03-01,22867.000,-1.605,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2024-04-01,23613.000,1.369,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2024-05-01,23812.000,2.536,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2024-06-01,23883.000,2.648,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2024-07-01,23770.000,1.352,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2024-08-01,23489.000,-1.032,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2024-09-01,23736.000,0.807,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2024-10-01,23867.000,2.214,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2024-11-01,23860.000,1.441,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2024-12-01,24245.000,1.597,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2025-01-01,24313.000,2.991,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2025-02-01,23918.000,0.763,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2025-03-01,24349.000,6.481,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2025-04-01,24534.000,3.900,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2025-05-01,24612.000,3.360,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2025-06-01,24967.000,4.539,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2025-07-01,25254.000,6.243,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2025-08-01,25453.000,8.361,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2025-09-01,25206.000,6.193,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2025-10-01,25533.000,6.980,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2025-11-01,25696.000,7.695,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2025-12-01,25539.000,5.337,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2026-01-01,25344.000,4.241,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2026-02-01,25999.000,8.701,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2026-03-01,26049.000,6.982,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2026-04-01,25864.000,5.421,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2026-05-01,26136.000,6.192,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2026-06-01,25987.000,4.085,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2026-07-01,26311.000,4.185,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2026-08-01,26503.000,4.125,RSCCAS,"Advance retail sales: clothing and clothing accessory stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSCCAS
+2019-01-01,21463.000,1.026,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2019-02-01,21504.000,-1.226,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2019-03-01,21833.000,3.259,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2019-04-01,21771.000,1.459,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2019-05-01,21580.000,-2.670,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2019-06-01,21582.000,-0.213,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2019-07-01,21862.000,-0.387,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2019-08-01,21882.000,1.701,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2019-09-01,21645.000,1.121,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2019-10-01,21693.000,-0.678,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2019-11-01,21674.000,-1.009,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2019-12-01,22475.000,4.220,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2020-01-01,22198.000,3.424,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2020-02-01,22039.000,2.488,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2020-03-01,11074.000,-49.279,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2020-04-01,2733.000,-87.447,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2020-05-01,8051.000,-62.692,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2020-06-01,16725.000,-22.505,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2020-07-01,17379.000,-20.506,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2020-08-01,17692.000,-19.148,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2020-09-01,20047.000,-7.383,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2020-10-01,19565.000,-9.810,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2020-11-01,18596.000,-14.201,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2020-12-01,19382.000,-13.762,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2021-01-01,20099.000,-9.456,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2021-02-01,19154.000,-13.090,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2021-03-01,23506.000,112.263,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2021-04-01,23453.000,758.141,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2021-05-01,24044.000,198.646,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2021-06-01,24979.000,49.351,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2021-07-01,24315.000,39.910,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2021-08-01,23905.000,35.118,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2021-09-01,24228.000,20.856,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2021-10-01,24412.000,24.774,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2021-11-01,25012.000,34.502,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2021-12-01,23938.000,23.506,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2022-01-01,23163.000,15.245,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2022-02-01,23910.000,24.830,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2022-03-01,25056.000,6.594,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2022-04-01,25103.000,7.035,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2022-05-01,24530.000,2.021,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2022-06-01,24674.000,-1.221,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2022-07-01,24136.000,-0.736,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2022-08-01,24499.000,2.485,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2022-09-01,24693.000,1.919,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2022-10-01,24713.000,1.233,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2022-11-01,24512.000,-1.999,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2022-12-01,24019.000,0.338,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2023-01-01,24950.000,7.715,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2023-02-01,24660.000,3.137,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2023-03-01,24410.000,-2.578,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2023-04-01,24368.000,-2.928,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2023-05-01,24290.000,-0.978,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2023-06-01,24402.000,-1.102,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2023-07-01,24718.000,2.411,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2023-08-01,25104.000,2.469,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2023-09-01,24811.000,0.478,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2023-10-01,24683.000,-0.121,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2023-11-01,24838.000,1.330,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2023-12-01,25141.000,4.671,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2024-01-01,24838.000,-0.449,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2024-02-01,25122.000,1.873,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2024-03-01,24241.000,-0.692,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2024-04-01,24923.000,2.278,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2024-05-01,25212.000,3.796,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2024-06-01,25247.000,3.463,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2024-07-01,25279.000,2.270,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2024-08-01,24957.000,-0.586,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2024-09-01,25330.000,2.092,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2024-10-01,25520.000,3.391,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2024-11-01,25483.000,2.597,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2024-12-01,25890.000,2.979,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2025-01-01,25942.000,4.445,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2025-02-01,25599.000,1.899,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2025-03-01,26029.000,7.376,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2025-04-01,26209.000,5.160,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2025-05-01,26307.000,4.343,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2025-06-01,26647.000,5.545,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2025-07-01,26962.000,6.658,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2025-08-01,27195.000,8.967,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2025-09-01,26921.000,6.281,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2025-10-01,27298.000,6.967,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2025-11-01,27393.000,7.495,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2025-12-01,27176.000,4.967,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2026-01-01,27080.000,4.387,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2026-02-01,27797.000,8.586,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2026-03-01,27854.000,7.011,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2026-04-01,27706.000,5.712,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2026-05-01,27986.000,6.382,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2026-06-01,27792.000,4.297,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2026-07-01,28163.000,4.454,MRTSSM448USS,"Retail sales: clothing and clothing accessories stores (NAICS 448), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM448USS
+2019-01-01,6065.000,-5.925,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2019-02-01,6130.000,-9.185,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2019-03-01,6152.000,-9.662,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2019-04-01,6277.000,-6.313,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2019-05-01,6288.000,-6.037,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2019-06-01,6321.000,-2.664,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2019-07-01,6223.000,0.371,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2019-08-01,6271.000,2.150,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2019-09-01,6246.000,3.548,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2019-10-01,6284.000,4.212,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2019-11-01,6069.000,-0.049,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2019-12-01,6248.000,4.920,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2020-01-01,6267.000,3.331,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2020-02-01,6230.000,1.631,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2020-03-01,5153.000,-16.239,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2020-04-01,3459.000,-44.894,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2020-05-01,5991.000,-4.723,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2020-06-01,7566.000,19.696,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2020-07-01,7316.000,17.564,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2020-08-01,6783.000,8.165,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2020-09-01,7243.000,15.962,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2020-10-01,7135.000,13.542,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2020-11-01,7042.000,16.032,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2020-12-01,7069.000,13.140,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2021-01-01,7795.000,24.382,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2021-02-01,7030.000,12.841,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2021-03-01,8528.000,65.496,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2021-04-01,8347.000,141.313,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2021-05-01,8074.000,34.769,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2021-06-01,8025.000,6.067,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2021-07-01,7815.000,6.821,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2021-08-01,7812.000,15.170,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2021-09-01,7765.000,7.207,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2021-10-01,7772.000,8.928,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2021-11-01,8044.000,14.229,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2021-12-01,7761.000,9.789,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2022-01-01,7560.000,-3.015,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2022-02-01,7850.000,11.664,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2022-03-01,7922.000,-7.106,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2022-04-01,7874.000,-5.667,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2022-05-01,7841.000,-2.886,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2022-06-01,7857.000,-2.093,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2022-07-01,7843.000,0.358,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2022-08-01,7946.000,1.715,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2022-09-01,7900.000,1.739,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2022-10-01,7905.000,1.711,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2022-11-01,7800.000,-3.033,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2022-12-01,7896.000,1.739,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2023-01-01,7799.000,3.161,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2023-02-01,7724.000,-1.605,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2023-03-01,7667.000,-3.219,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2023-04-01,7783.000,-1.156,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2023-05-01,7708.000,-1.696,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2023-06-01,7677.000,-2.291,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2023-07-01,7848.000,0.064,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2023-08-01,7672.000,-3.448,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2023-09-01,7649.000,-3.177,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2023-10-01,7665.000,-3.036,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2023-11-01,7731.000,-0.885,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2023-12-01,7508.000,-4.914,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2024-01-01,7680.000,-1.526,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2024-02-01,7832.000,1.398,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2024-03-01,7662.000,-0.065,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2024-04-01,7596.000,-2.403,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2024-05-01,7651.000,-0.739,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2024-06-01,7751.000,0.964,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2024-07-01,7591.000,-3.275,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2024-08-01,7630.000,-0.547,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2024-09-01,7850.000,2.628,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2024-10-01,7765.000,1.305,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2024-11-01,7730.000,-0.013,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2024-12-01,7913.000,5.394,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2025-01-01,7773.000,1.211,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2025-02-01,7723.000,-1.392,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2025-03-01,8066.000,5.273,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2025-04-01,7700.000,1.369,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2025-05-01,7777.000,1.647,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2025-06-01,7752.000,0.013,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2025-07-01,7926.000,4.413,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2025-08-01,7987.000,4.679,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2025-09-01,7882.000,0.408,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2025-10-01,8057.000,3.760,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2025-11-01,8162.000,5.589,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2025-12-01,8182.000,3.399,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2026-01-01,8220.000,5.751,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2026-02-01,8395.000,8.701,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2026-03-01,8447.000,4.724,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2026-04-01,8601.000,11.701,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2026-05-01,8643.000,11.135,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2026-06-01,8680.000,11.971,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2026-07-01,8674.000,9.437,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2026-08-01,8752.000,9.578,RSSGHBMS,"Advance retail sales: sporting goods, hobby, musical instrument and book stores, SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSSGHBMS
+2019-01-01,3098.000,-0.991,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2019-02-01,3054.000,-4.383,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2019-03-01,3112.000,0.810,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2019-04-01,3089.000,-3.979,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2019-05-01,3124.000,-7.134,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2019-06-01,3066.000,-4.545,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2019-07-01,3091.000,-3.617,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2019-08-01,3056.000,-6.027,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2019-09-01,3097.000,-4.590,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2019-10-01,3142.000,-5.589,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2019-11-01,3091.000,-8.981,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2019-12-01,3146.000,0.447,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2020-01-01,3211.000,3.648,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2020-02-01,3175.000,3.962,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2020-03-01,1468.000,-52.828,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2020-04-01,465.000,-84.947,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2020-05-01,966.000,-69.078,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2020-06-01,2120.000,-30.855,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2020-07-01,2510.000,-18.797,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2020-08-01,2595.000,-15.085,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2020-09-01,2782.000,-10.171,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2020-10-01,2704.000,-13.940,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2020-11-01,2524.000,-18.344,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2020-12-01,2611.000,-17.006,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2021-01-01,2804.000,-12.675,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2021-02-01,2613.000,-17.701,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2021-03-01,3037.000,106.880,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2021-04-01,3045.000,554.839,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2021-05-01,3117.000,222.671,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2021-06-01,3411.000,60.896,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2021-07-01,3370.000,34.263,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2021-08-01,3259.000,25.588,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2021-09-01,3287.000,18.152,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2021-10-01,3213.000,18.824,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2021-11-01,3249.000,28.724,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2021-12-01,3125.000,19.686,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2022-01-01,3050.000,8.773,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2022-02-01,3169.000,21.278,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2022-03-01,3326.000,9.516,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2022-04-01,3212.000,5.484,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2022-05-01,3157.000,1.283,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2022-06-01,3156.000,-7.476,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2022-07-01,3033.000,-10.000,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2022-08-01,3168.000,-2.792,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2022-09-01,3147.000,-4.259,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2022-10-01,3111.000,-3.175,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2022-11-01,3037.000,-6.525,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2022-12-01,3026.000,-3.168,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2023-01-01,3013.000,-1.213,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2023-02-01,2982.000,-5.901,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2023-03-01,2898.000,-12.868,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2023-04-01,2914.000,-9.278,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2023-05-01,2947.000,-6.652,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2023-06-01,2912.000,-7.731,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2023-07-01,2986.000,-1.550,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2023-08-01,2989.000,-5.650,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2023-09-01,3038.000,-3.464,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2023-10-01,2997.000,-3.664,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2023-11-01,2932.000,-3.457,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2023-12-01,3007.000,-0.628,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2024-01-01,2808.000,-6.804,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2024-02-01,2960.000,-0.738,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2024-03-01,2842.000,-1.932,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2024-04-01,2875.000,-1.338,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2024-05-01,2886.000,-2.070,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2024-06-01,2824.000,-3.022,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2024-07-01,2859.000,-4.253,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2024-08-01,2833.000,-5.219,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2024-09-01,2748.000,-9.546,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2024-10-01,2823.000,-5.806,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2024-11-01,2873.000,-2.012,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2024-12-01,2828.000,-5.953,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2025-01-01,3000.000,6.838,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2025-02-01,2809.000,-5.101,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2025-03-01,2948.000,3.730,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2025-04-01,2776.000,-3.443,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2025-05-01,2738.000,-5.128,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2025-06-01,2801.000,-0.814,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2025-07-01,2698.000,-5.631,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2025-08-01,2775.000,-2.047,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2025-09-01,2759.000,0.400,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2025-10-01,2663.000,-5.668,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2025-11-01,2672.000,-6.996,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2025-12-01,2622.000,-7.284,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2026-01-01,2677.000,-10.767,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2026-02-01,2682.000,-4.521,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2026-03-01,2701.000,-8.379,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2026-04-01,2693.000,-2.990,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2026-05-01,2648.000,-3.287,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2026-06-01,2609.000,-6.855,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2026-07-01,2656.000,-1.557,MRTSSM44812USS,"Retail sales: womens clothing stores (NAICS 44812), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM44812USS
+2019-01-01,124.466,-0.312,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2019-02-01,124.526,-1.043,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2019-03-01,123.666,-2.232,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2019-04-01,123.901,-2.690,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2019-05-01,123.764,-2.903,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2019-06-01,124.750,-1.293,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2019-07-01,124.731,-0.752,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2019-08-01,124.532,0.876,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2019-09-01,124.795,-0.278,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2019-10-01,123.489,-2.009,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2019-11-01,123.550,-1.238,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2019-12-01,122.859,-1.204,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2020-01-01,122.477,-1.598,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2020-02-01,122.952,-1.264,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2020-03-01,121.558,-1.705,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2020-04-01,117.065,-5.517,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2020-05-01,114.244,-7.692,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2020-06-01,115.665,-7.283,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2020-07-01,116.576,-6.538,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2020-08-01,116.907,-6.123,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2020-09-01,117.157,-6.120,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2020-10-01,117.158,-5.127,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2020-11-01,117.411,-4.969,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2020-12-01,117.967,-3.982,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2021-01-01,119.065,-2.786,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2021-02-01,118.140,-3.914,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2021-03-01,118.484,-2.529,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2021-04-01,119.692,2.244,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2021-05-01,120.794,5.733,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2021-06-01,121.339,4.906,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2021-07-01,121.319,4.069,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2021-08-01,121.505,3.933,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2021-09-01,121.051,3.324,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2021-10-01,122.570,4.619,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2021-11-01,123.610,5.280,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2021-12-01,124.753,5.752,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2022-01-01,125.476,5.384,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2022-02-01,125.997,6.651,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2022-03-01,126.443,6.717,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2022-04-01,126.098,5.352,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2022-05-01,126.693,4.884,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2022-06-01,127.432,5.021,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2022-07-01,127.394,5.007,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2022-08-01,127.422,4.870,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2022-09-01,127.588,5.400,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2022-10-01,127.777,4.248,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2022-11-01,128.338,3.825,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2022-12-01,128.475,2.983,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2023-01-01,129.430,3.151,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2023-02-01,130.239,3.367,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2023-03-01,130.426,3.150,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2023-04-01,130.573,3.549,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2023-05-01,131.003,3.402,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2023-06-01,131.118,2.893,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2023-07-01,131.352,3.107,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2023-08-01,131.160,2.934,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2023-09-01,130.338,2.155,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2023-10-01,131.274,2.737,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2023-11-01,130.099,1.372,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2023-12-01,129.942,1.142,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2024-01-01,129.685,0.197,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2024-02-01,130.309,0.054,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2024-03-01,130.956,0.406,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2024-04-01,132.237,1.274,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2024-05-01,132.027,0.782,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2024-06-01,131.956,0.639,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2024-07-01,131.569,0.165,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2024-08-01,131.415,0.194,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2024-09-01,132.539,1.689,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2024-10-01,131.741,0.356,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2024-11-01,131.692,1.224,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2024-12-01,131.568,1.251,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2025-01-01,130.436,0.579,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2025-02-01,131.095,0.603,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2025-03-01,131.388,0.330,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2025-04-01,131.201,-0.783,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2025-05-01,130.782,-0.943,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2025-06-01,131.214,-0.562,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2025-07-01,131.354,-0.163,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2025-08-01,131.694,0.212,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2025-09-01,132.411,-0.097,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2025-11-01,131.883,0.108,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2025-12-01,132.317,0.475,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2026-01-01,132.723,0.878,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2026-02-01,134.419,3.054,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2026-03-01,135.804,3.592,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2026-04-01,136.670,4.020,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2026-05-01,137.069,4.473,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2026-06-01,136.313,4.229,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2026-07-01,136.434,3.978,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2026-08-01,136.457,3.885,CPIAPPSL,"CPI-U apparel, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAPPSL
+2019-01-01,136.429,2.069,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2019-02-01,136.780,1.248,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2019-03-01,135.672,-1.716,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2019-04-01,135.264,-1.795,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2019-05-01,135.138,-1.417,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2019-06-01,136.472,-0.230,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2019-07-01,136.574,-0.611,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2019-08-01,137.621,0.974,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2019-09-01,138.052,1.860,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2019-10-01,137.587,1.688,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2019-11-01,137.590,1.971,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2019-12-01,137.267,1.724,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2020-01-01,137.088,0.483,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2020-02-01,137.873,0.799,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2020-03-01,135.192,-0.354,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2020-04-01,131.887,-2.497,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2020-05-01,129.276,-4.338,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2020-06-01,130.267,-4.547,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2020-07-01,132.047,-3.315,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2020-08-01,132.096,-4.015,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2020-09-01,131.265,-4.916,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2020-10-01,133.066,-3.286,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2020-11-01,134.236,-2.438,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2020-12-01,134.360,-2.118,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2021-01-01,134.325,-2.015,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2021-02-01,134.073,-2.756,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2021-03-01,134.948,-0.180,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2021-04-01,137.635,4.358,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2021-05-01,138.765,7.340,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2021-06-01,138.693,6.468,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2021-07-01,138.098,4.582,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2021-08-01,138.678,4.983,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2021-09-01,139.661,6.396,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2021-10-01,140.013,5.221,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2021-11-01,140.597,4.739,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2021-12-01,142.415,5.995,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2022-01-01,142.796,6.306,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2022-02-01,143.431,6.980,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2022-03-01,143.935,6.660,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2022-04-01,143.970,4.603,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2022-05-01,144.841,4.379,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2022-06-01,146.436,5.583,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2022-07-01,146.626,6.175,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2022-08-01,145.537,4.946,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2022-09-01,144.969,3.801,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2022-10-01,144.009,2.854,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2022-11-01,144.030,2.442,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2022-12-01,143.700,0.902,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2023-01-01,143.593,0.558,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2023-02-01,144.555,0.784,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2023-03-01,144.273,0.235,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2023-04-01,144.811,0.584,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2023-05-01,144.999,0.109,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2023-06-01,144.920,-1.035,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2023-07-01,144.152,-1.687,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2023-08-01,145.436,-0.069,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2023-09-01,145.660,0.477,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2023-10-01,145.644,1.135,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2023-11-01,145.263,0.856,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2023-12-01,144.848,0.799,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2024-01-01,143.856,0.183,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2024-02-01,145.668,0.770,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2024-03-01,146.376,1.458,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2024-04-01,146.747,1.337,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2024-05-01,146.571,1.084,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2024-06-01,145.966,0.722,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2024-07-01,145.624,1.021,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2024-08-01,144.181,-0.863,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2024-09-01,145.521,-0.095,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2024-10-01,146.753,0.761,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2024-11-01,146.394,0.779,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2024-12-01,145.821,0.672,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2025-01-01,145.336,1.029,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2025-02-01,145.325,-0.235,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2025-03-01,145.202,-0.802,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2025-04-01,144.751,-1.360,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2025-05-01,144.288,-1.558,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2025-06-01,145.244,-0.495,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2025-07-01,146.911,0.884,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2025-08-01,146.261,1.443,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2025-09-01,147.387,1.282,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2025-11-01,146.205,-0.373,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2025-12-01,147.385,0.677,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2026-01-01,148.176,1.615,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2026-02-01,147.479,1.475,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2026-03-01,148.731,2.344,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2026-04-01,150.800,3.855,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2026-05-01,151.740,4.828,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2026-06-01,151.231,4.812,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2026-07-01,151.944,4.613,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2026-08-01,151.550,3.158,CUSR0000SEAE,"CPI-U footwear, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CUSR0000SEAE
+2019-01-01,6166.000,-5.095,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2019-02-01,6230.000,-8.301,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2019-03-01,6265.000,-8.473,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2019-04-01,6385.000,-5.729,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2019-05-01,6408.000,-5.207,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2019-06-01,6452.000,-1.631,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2019-07-01,6344.000,1.245,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2019-08-01,6405.000,3.240,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2019-09-01,6377.000,4.319,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2019-10-01,6427.000,5.171,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2019-11-01,6203.000,0.682,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2019-12-01,6404.000,5.764,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2020-01-01,6419.000,4.103,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2020-02-01,6385.000,2.488,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2020-03-01,5271.000,-15.866,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2020-04-01,3536.000,-44.620,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2020-05-01,6165.000,-3.792,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2020-06-01,7783.000,20.629,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2020-07-01,7532.000,18.726,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2020-08-01,7007.000,9.399,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2020-09-01,7469.000,17.124,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2020-10-01,7372.000,14.704,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2020-11-01,7255.000,16.960,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2020-12-01,7320.000,14.304,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2021-01-01,8078.000,25.845,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2021-02-01,7288.000,14.143,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2021-03-01,8825.000,67.426,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2021-04-01,8677.000,145.390,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2021-05-01,8382.000,35.961,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2021-06-01,8319.000,6.887,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2021-07-01,8103.000,7.581,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2021-08-01,8120.000,15.884,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2021-09-01,8072.000,8.073,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2021-10-01,8085.000,9.672,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2021-11-01,8318.000,14.652,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2021-12-01,8085.000,10.451,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2022-01-01,7891.000,-2.315,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2022-02-01,8192.000,12.404,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2022-03-01,8265.000,-6.346,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2022-04-01,8215.000,-5.324,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2022-05-01,8181.000,-2.398,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2022-06-01,8213.000,-1.274,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2022-07-01,8257.000,1.901,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2022-08-01,8315.000,2.401,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2022-09-01,8301.000,2.837,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2022-10-01,8342.000,3.179,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2022-11-01,8221.000,-1.166,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2022-12-01,8351.000,3.290,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2023-01-01,8283.000,4.968,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2023-02-01,8209.000,0.208,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2023-03-01,8175.000,-1.089,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2023-04-01,8303.000,1.071,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2023-05-01,8218.000,0.452,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2023-06-01,8200.000,-0.158,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2023-07-01,8429.000,2.083,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2023-08-01,8182.000,-1.600,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2023-09-01,8136.000,-1.988,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2023-10-01,8124.000,-2.613,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2023-11-01,8173.000,-0.584,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2023-12-01,7979.000,-4.455,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2024-01-01,8043.000,-2.898,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2024-02-01,8151.000,-0.707,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2024-03-01,7896.000,-3.413,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2024-04-01,7857.000,-5.372,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2024-05-01,7876.000,-4.162,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2024-06-01,7917.000,-3.451,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2024-07-01,7757.000,-7.972,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2024-08-01,7801.000,-4.657,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2024-09-01,7973.000,-2.003,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2024-10-01,7875.000,-3.065,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2024-11-01,7845.000,-4.013,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2024-12-01,7950.000,-0.363,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2025-01-01,7872.000,-2.126,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2025-02-01,7689.000,-5.668,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2025-03-01,8179.000,3.584,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2025-04-01,7836.000,-0.267,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2025-05-01,7948.000,0.914,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2025-06-01,7940.000,0.291,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2025-07-01,8138.000,4.912,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2025-08-01,8182.000,4.884,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2025-09-01,8102.000,1.618,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2025-10-01,8274.000,5.067,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2025-11-01,8311.000,5.940,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2025-12-01,8431.000,6.050,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2026-01-01,8394.000,6.631,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2026-02-01,8634.000,12.290,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2026-03-01,8659.000,5.869,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2026-04-01,8885.000,13.387,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2026-05-01,8897.000,11.940,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2026-06-01,8934.000,12.519,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2026-07-01,8951.000,9.990,MRTSSM451USS,"Retail sales: sporting goods, hobby, musical instrument and book stores (NAICS 451), SA, $mn, MARTS revised",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM451USS
+2019-01-01,252.561,1.488,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2019-02-01,253.319,1.519,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2019-03-01,254.277,1.883,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2019-04-01,255.233,2.001,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2019-05-01,255.296,1.796,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2019-06-01,255.213,1.671,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2019-07-01,255.802,1.826,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2019-08-01,256.036,1.738,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2019-09-01,256.430,1.684,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2019-10-01,257.155,1.734,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2019-11-01,257.879,2.092,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2019-12-01,258.630,2.320,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2020-01-01,259.127,2.600,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2020-02-01,259.250,2.341,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2020-03-01,258.076,1.494,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2020-04-01,256.032,0.313,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2020-05-01,255.802,0.198,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2020-06-01,257.042,0.717,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2020-07-01,258.352,0.997,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2020-08-01,259.316,1.281,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2020-09-01,259.997,1.391,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2020-10-01,260.319,1.230,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2020-11-01,260.911,1.176,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2020-12-01,262.045,1.320,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2021-01-01,262.687,1.374,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2021-02-01,263.579,1.670,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2021-03-01,264.961,2.668,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2021-04-01,266.614,4.133,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2021-05-01,268.383,4.918,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2021-06-01,270.654,5.296,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2021-07-01,271.903,5.245,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2021-08-01,272.676,5.152,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2021-09-01,273.910,5.351,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2021-10-01,276.550,6.235,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2021-11-01,278.919,6.902,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2021-12-01,280.845,7.174,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2022-01-01,282.543,7.559,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2022-02-01,284.500,7.937,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2022-03-01,287.674,8.572,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2022-04-01,288.561,8.232,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2022-05-01,291.298,8.538,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2022-06-01,294.957,8.979,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2022-07-01,294.913,8.463,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2022-08-01,295.097,8.223,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2022-09-01,296.349,8.192,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2022-10-01,298.007,7.759,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2022-11-01,298.786,7.123,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2022-12-01,298.832,6.405,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2023-01-01,300.420,6.327,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2023-02-01,301.450,5.958,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2023-03-01,301.821,4.918,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2023-04-01,302.845,4.950,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2023-05-01,303.334,4.132,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2023-06-01,304.014,3.071,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2023-07-01,304.609,3.288,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2023-08-01,306.082,3.723,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2023-09-01,307.276,3.687,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2023-10-01,307.696,3.251,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2023-11-01,308.148,3.133,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2023-12-01,308.741,3.316,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2024-01-01,309.698,3.088,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2024-02-01,310.967,3.157,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2024-03-01,312.345,3.487,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2024-04-01,313.023,3.361,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2024-05-01,313.175,3.244,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2024-06-01,313.044,2.970,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2024-07-01,313.569,2.941,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2024-08-01,314.062,2.607,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2024-09-01,314.732,2.426,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2024-10-01,315.631,2.579,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2024-11-01,316.528,2.719,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2024-12-01,317.604,2.871,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2025-01-01,318.961,2.991,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2025-02-01,319.679,2.802,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2025-03-01,319.785,2.382,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2025-04-01,320.302,2.325,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2025-05-01,320.620,2.377,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2025-06-01,321.435,2.680,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2025-07-01,322.169,2.743,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2025-08-01,323.291,2.939,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2025-09-01,324.245,3.023,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2025-11-01,325.063,2.988,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2025-12-01,326.031,3.002,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2026-01-01,326.588,2.829,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2026-02-01,327.460,2.665,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2026-03-01,330.293,3.320,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2026-04-01,332.407,3.947,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2026-05-01,333.979,4.270,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2026-06-01,332.568,3.727,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2026-07-01,332.813,3.540,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2026-08-01,334.131,3.713,CPIAUCSL,"CPI-U all items, SA, index 1982-84=100",https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL
+2019-01-01,3142.000,6.113,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2019-02-01,3163.000,4.562,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2019-03-01,3201.000,9.887,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2019-04-01,3116.000,2.567,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2019-05-01,3042.000,-1.585,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2019-06-01,3062.000,-0.065,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2019-07-01,3080.000,-3.720,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2019-08-01,3094.000,4.280,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2019-09-01,3010.000,-0.066,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2019-10-01,3026.000,-2.888,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2019-11-01,3007.000,-4.418,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2019-12-01,3029.000,-2.385,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2020-01-01,3099.000,-1.369,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2020-02-01,3104.000,-1.865,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2020-03-01,1655.000,-48.297,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2020-04-01,480.000,-84.596,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2020-05-01,1636.000,-46.220,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2020-06-01,3004.000,-1.894,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2020-07-01,2676.000,-13.117,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2020-08-01,2265.000,-26.794,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2020-09-01,2985.000,-0.831,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2020-10-01,2889.000,-4.527,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2020-11-01,2644.000,-12.072,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2020-12-01,2836.000,-6.372,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2021-01-01,3165.000,2.130,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2021-02-01,2603.000,-16.140,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2021-03-01,3494.000,111.118,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2021-04-01,3478.000,624.583,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2021-05-01,3521.000,115.220,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2021-06-01,3554.000,18.309,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2021-07-01,3212.000,20.030,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2021-08-01,3082.000,36.071,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2021-09-01,3192.000,6.935,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2021-10-01,3201.000,10.800,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2021-11-01,3208.000,21.331,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2021-12-01,3190.000,12.482,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2022-01-01,3082.000,-2.622,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2022-02-01,3145.000,20.822,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2022-03-01,3272.000,-6.354,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2022-04-01,3319.000,-4.572,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2022-05-01,3382.000,-3.948,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2022-06-01,3346.000,-5.853,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2022-07-01,3181.000,-0.965,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2022-08-01,3351.000,8.728,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2022-09-01,3433.000,7.550,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2022-10-01,3414.000,6.654,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2022-11-01,3369.000,5.019,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2022-12-01,3203.000,0.408,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2023-01-01,3432.000,11.356,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2023-02-01,3339.000,6.169,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2023-03-01,3262.000,-0.306,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2023-04-01,3293.000,-0.783,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2023-05-01,3309.000,-2.158,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2023-06-01,3341.000,-0.149,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2023-07-01,3302.000,3.804,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2023-08-01,3385.000,1.015,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2023-09-01,3361.000,-2.097,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2023-10-01,3337.000,-2.255,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2023-11-01,3289.000,-2.375,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2023-12-01,3309.000,3.309,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2024-01-01,3300.000,-3.846,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2024-02-01,3340.000,0.030,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2024-03-01,3021.000,-7.388,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2024-04-01,3206.000,-2.642,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2024-05-01,3182.000,-3.838,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2024-06-01,3179.000,-4.849,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2024-07-01,3321.000,0.575,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2024-08-01,3123.000,-7.740,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2024-09-01,3146.000,-6.397,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2024-10-01,3134.000,-6.083,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2024-11-01,3170.000,-3.618,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2024-12-01,3241.000,-2.055,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2025-01-01,3139.000,-4.879,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2025-02-01,3036.000,-9.102,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2025-03-01,3212.000,6.322,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2025-04-01,3183.000,-0.717,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2025-05-01,3245.000,1.980,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2025-06-01,3253.000,2.328,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2025-07-01,3311.000,-0.301,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2025-08-01,3320.000,6.308,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2025-09-01,3129.000,-0.540,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2025-10-01,3238.000,3.318,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2025-11-01,3276.000,3.344,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2025-12-01,3253.000,0.370,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2026-01-01,3287.000,4.715,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2026-02-01,3344.000,10.145,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2026-03-01,3292.000,2.491,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2026-04-01,3280.000,3.047,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2026-05-01,3272.000,0.832,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2026-06-01,3297.000,1.353,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
+2026-07-01,3312.000,0.030,MRTSSM4482USS,"Retail sales: shoe stores (NAICS 4482), SA, $mn",https://fred.stlouisfed.org/graph/fredgraph.csv?id=MRTSSM4482USS
