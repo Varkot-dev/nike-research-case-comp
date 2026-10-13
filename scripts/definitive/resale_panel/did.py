@@ -34,9 +34,13 @@ def didA(sample,stat=S.mean):
     c1=[r[VAR] for r in sample if grp(r['line'])=='AJ3/4' and r['release_date']<'2024']; c2=[r[VAR] for r in sample if grp(r['line'])=='AJ3/4' and r['release_date']>='2024']
     return (stat(a2)-stat(a1))-(stat(c2)-stat(c1))
 E=[r for r in early.values() if grp(r['line']) in('AJ1H','AJ3/4')]
-dA=didA(E); dAm=didA(E,S.median); ci=boot(lambda s:didA(s),E)
-print(f"DiD A (mean) = {dA:+.3f}  95% bootstrap CI {ci}; DiD A (median) = {dAm:+.3f}")
-out.append(dict(design='A_early_premium_cohort',estimate_mean=round(dA,4),ci95=str(ci),estimate_median=round(dAm,4),n=len(E)))
+cn={k:sum(1 for r in E if grp(r['line'])==k[0] and (r['release_date']>='2024')==k[1]) for k in [('AJ1H',False),('AJ1H',True),('AJ3/4',False),('AJ3/4',True)]}
+print('A cell n (group, post):',cn)
+try:
+    dA=didA(E); dAm=didA(E,S.median); ci=boot(lambda s:didA(s),E)
+    print(f"DiD A (mean) = {dA:+.3f}  95% bootstrap CI {ci}; DiD A (median) = {dAm:+.3f}")
+    out.append(dict(design='A_early_premium_cohort',estimate_mean=round(dA,4),ci95=str(ci),estimate_median=round(dAm,4),n=str(cn)))
+except Exception as e: print('DiD A not estimable',e)
 # C: half-year two-way FE panel
 def hy(d): return d[:4]+('H1' if d[5:7]<='06' else 'H2')
 cellv=collections.defaultdict(list)
@@ -67,6 +71,7 @@ for g in {g for g,_,_ in pan}:
     if min(ps)<'2024H1' and max(ps)>='2024H1': pre_post[lineof[g]]+=1
 print('shoes observed both pre (<2024) and post:',dict(pre_post))
 est=twfe(pan)
+print('obs by group x post:',dict(collections.Counter((lineof[g],p>='2024H1') for g,p,_ in pan)))
 shoes=sorted({g for g,_,_ in pan}); random.seed(2); bs=[]
 for _ in range(1000):
     s=[random.choice(shoes) for _ in shoes]; pp=[]

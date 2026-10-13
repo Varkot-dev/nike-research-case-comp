@@ -17,10 +17,17 @@ def cdx(prefix):
         if code=='200':
             try: return json.loads(body)[1:] if body.strip() else []
             except Exception: return []
-        print('retry',prefix,code,flush=True); time.sleep(12*(att+1))
+        print('retry',prefix,code,flush=True); time.sleep(30*(att+1))
     return None
 kid=re.compile(r'-(gs|ps|td|td9|td9a|bt|bp)$')
-for s in shoes:
+
+def prio(s):
+    l=s['line']; y=s['release_date'][:4]
+    if l in('AJ4','AJ3') and y<='2025': return (0, 0 if l=='AJ4' else 1, s['release_date'])
+    if l=='AJ1 High OG' and y>='2024': return (1,0,s['release_date'])
+    if l in('AJ4','AJ3'): return (2,0,s['release_date'])
+    return (3,0,s['release_date'])
+for s in sorted(shoes,key=prio):
     k=s['goat_id']
     if k in res: continue
     m=re.findall(r"'([^']+)'",s['name']); nick=sl(m[-1]) if m else ''

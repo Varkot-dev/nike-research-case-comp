@@ -11,8 +11,8 @@ res=json.load(open(outf)) if os.path.exists(outf) else {}
 RAW=P+'/dl/wb'; os.makedirs(RAW,exist_ok=True)
 kid=re.compile(r'-(gs|ps|td|td9|td9a|bt|bp|golf)(-|$)|golf')
 def D(s): return dt.date(int(s[:4]),int(s[4:6]),int(s[6:8])) if len(s)>=8 and s[4]!='-' else dt.date.fromisoformat(s[:10])
-targets_rel=[('d30',30,15,60),('d90',90,61,135),('d180',180,136,270),('d365',365,271,500)]
-cal=['2024-04-15','2024-10-15','2025-04-15','2025-10-15','2026-04-15']
+targets_rel=[('d90',90,14,200),('d365',365,271,500)]
+cal=['2024-10-15','2025-10-15']
 def fetch(ts,orig):
     u=f"https://web.archive.org/web/{ts}id_/{orig}"
     fn=f"{RAW}/{re.sub(r'[^A-Za-z0-9]+','_',orig.split('stockx.com/')[1])[:80]}_{ts}.html"
@@ -24,10 +24,17 @@ def fetch(ts,orig):
         print('  http',r.stdout,r.stderr[:80],flush=True); time.sleep(30*(att+1) if r.stdout in('429','000','503') else 6)
         if r.stdout in('404','403'): return u,fn,None
     return u,fn,None
+
+def prio(s):
+    l=s['line']; y=s['release_date'][:4]
+    if l in('AJ4','AJ3') and y<='2025': return (0, 0 if l=='AJ4' else 1, s['release_date'])
+    if l=='AJ1 High OG' and y>='2024': return (1,0,s['release_date'])
+    if l in('AJ4','AJ3'): return (2,0,s['release_date'])
+    return (3,0,s['release_date'])
 def run(cdxf):
     cdx=json.load(open(cdxf))
-    for gid,c in cdx.items():
-        if gid in res: continue
+    for gid,c in sorted(cdx.items(),key=lambda kv:prio(shoes[kv[0]])):
+        if gid in res or prio(shoes[gid])[0]>=3: continue
         s=shoes[gid]; rel=D(s['release_date'])
         rows=[(o,t) for o,t,st,mt in c['rows'] if 'html' in mt]
         if not rows: res[gid]={'slug':None,'caps':[]}; continue

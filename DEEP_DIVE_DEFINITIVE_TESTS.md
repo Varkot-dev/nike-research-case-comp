@@ -95,7 +95,21 @@ Labels follow the house rules (`CLAUDE.md`): filing citations with printed pages
 - **Treated vs control:** AJ1 High (supply cut from 2024) vs AJ3 and AJ4 (supply raised): difference in differences.
 - **Would disprove "scarcity works":** AJ1 premiums do not improve relative to AJ3 and AJ4 after the cut.
 
-*(Pending.)*
+**Directional result (Oct 13, 2026; coverage too thin to decide).** Historical prices come from StockX product pages captured by the Wayback Machine, accepted only when StockX's style code matches the baseline (`data/definitive/resale_panel/resale_panel_stockx_wayback.csv`, each row with capture URL and timestamp; estimates in `did_results.csv` and `did_cells.csv`; scripts in `scripts/definitive/resale_panel/`). Measure: median lowest ask across US sizes 7 to 13 against retail (my arithmetic). Coverage: 19 shoes and 46 dated points (14 AJ1 High OG, 5 AJ3, **no AJ4**), because web.archive.org kept dropping connections.
+
+| Half-year | AJ1 High OG, mean premium (shoes) | AJ3, mean premium (shoes) |
+|---|---|---|
+| 2023 H2 | +18% (4) | +3% (2) |
+| 2024 H1 | -16% (6) | -7% (2) |
+| 2024 H2 | -30% (6) | +7% (3) |
+| 2025 H1 | -28% (4) | +11% (3) |
+| 2025 H2 | -20% (7) | +8% (1) |
+
+- **Difference in differences, shoe and half-year effects:** AJ1 High after 2024 relative to AJ3 = **-22.7 points**, shoe-clustered bootstrap 95% interval -48.3 to +3.5 points (42 observations, 18 shoes; only 6 AJ1 and 2 AJ3 shoes are seen both before and after). Moving the cut date to 2025 H1 gives -20.6 points. Every estimate has AJ1 doing *worse* relative to AJ3 after its supply cut, which is the direction of the disproof, but the interval includes zero and there is no AJ4 control, so the test is **not decided**.
+- **Same-shoe example:** AJ1 High OG "Mauve" ($180 retail) had a median StockX ask 41% below retail on Jan 6, 2024 and 56% below on Jul 29, 2025 (https://web.archive.org/web/20240106094451id_/https://stockx.com/air-jordan-1-retro-high-og-sky-j-mauve). The two post-cut AJ1 releases covered trade 38% to 40% below retail after about a year.
+- **Overhang:** StockX ask counts per shoe fall as shoes age (AJ1 High median 1,759 asks in 2023 H1 to 396 in 2025 H2), so listings are clearing over time rather than growing. On GOAT today, 86% of AJ1 High sizes have a lowest ask below retail, against 53% for AJ3 and 43% for AJ4 (`goat_depth_20261013.csv`; my arithmetic).
+- **Baseline stability:** re-pulling 40 baseline shoes two hours later moved the median last sale by 0.0% (largest change 5.1%; `goat_drift_recheck_20261013.csv`).
+- **To finish:** re-run `cdx_shoe.py` and `fetchcaps.py` (they resume, AJ4 and AJ3 first), then `panel.py` and `did.py`, at a time when no other job is using web.archive.org.
 
 ## Test 5. Units vs price from Nike's own filings
 
@@ -136,4 +150,4 @@ What this test cannot separate: units falling with flat or rising ASP is consist
 | 2026-10-13 | Test 1 (factory orders) reported: Feng Tay, Pou Chen, Yue Yuen series 2013 to 2026; chart 20. |
 | 2026-10-13 | Test 3 (size runs) reported: 83 shoes at three retailers, tracker script committed; decisive re-runs on Oct 24 and Nov 7. |
 | 2026-10-13 | Test 2 (time to markdown) partial: nike.com prices for 652 colourways; first-markdown history still running. |
-| 2026-10-13 | Session paused with Tests 2, 3 and 4 still running; their partial, unverified outputs are saved in `data/definitive/interim/` (see its README). |
+| 2026-10-13 | Test 4 (resale panel) directional: AJ1 vs AJ3 difference -22.7 points (95% interval -48.3 to +3.5), no AJ4 yet; interim folder retired. |
