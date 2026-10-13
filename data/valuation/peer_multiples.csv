@@ -1,0 +1,11 @@
+ticker,name,price,price_ccy,fin_ccy,fy1_end,mcap_fin_ccy_m,ev_fin_ccy_m,pe_fy1,pe_fy2,pe_ntm,ev_ebitda_ttm,ev_sales_ttm,rev_growth_lastq_yoy,rev_growth_fy1,rev_growth_fy2,ebitda_margin_ttm,eps_fy1,eps_fy2,analysts_fy1,note
+NKE,Nike,35.35,USD,USD,2027-05-31,52506,55263,27.4,21.5,24.9,11.3,1.2,-0.043,-0.07,0.011,0.107,1.28806,1.64603,35,
+ADS.DE,adidas,149.6,EUR,EUR,2026-12-31,26189,30605,16.4,12.9,13.5,11.5,1.18,0.133,0.093,0.065,0.102,9.13866,11.62346,25,
+PUM.DE,Puma,23.18,EUR,EUR,2026-12-31,3379,5664,NM,87.2,NM,NM,0.81,-0.097,-0.053,0.053,-0.002,-1.41706,0.2658,15,shares implied from Yahoo EV less debt plus cash (Yahoo shows no market cap);
+DECK,Deckers,84.27,USD,USD,2027-03-31,11476,10346,11.2,10.1,10.6,7.8,1.87,0.057,0.075,0.073,0.24,7.52756,8.37488,22,
+ONON,On Holding,35.35,USD,CHF,2026-12-31,9836,9159,20.6,17.2,17.9,18.7,2.84,0.135,0.166,0.19,0.152,1.43105,1.70842,23,price USD converted to CHF at 0.83251;
+LULU,Lululemon,94.66,USD,USD,2027-01-31,10964,11715,9.8,11.0,10.6,4.9,1.06,-0.043,-0.058,-0.012,0.215,9.6299,8.63608,23,
+UAA,Under Armour (A),4.93,USD,USD,2027-03-31,2118,3098,45.5,25.5,32.0,17.9,0.63,-0.032,-0.048,0.022,0.035,0.10828,0.19367,25,
+7936.T,ASICS,4474.0,JPY,JPY,2026-12-31,3171667,3131267,24.7,21.3,22.0,14.7,3.32,0.359,,0.113,0.225,181.18695,210.04695,13,"Yahoo year-ago revenue for ASICS is corrupt (47,982M JPY), FY1 growth omitted;"
+2020.HK,Anta Sports,71.1,HKD,CNY,2026-12-31,167967,154641,11.7,10.7,10.9,6.9,1.82,0.129,0.1,0.087,0.262,5.1755,5.67375,22,price HKD converted to CNY at 0.8527;
+VFC,VF Corp,15.79,USD,USD,2027-03-31,6208,10491,14.5,11.8,12.9,11.7,1.1,-0.052,-0.012,0.031,0.094,1.0914,1.3425,23,
