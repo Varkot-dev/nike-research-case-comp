@@ -60,6 +60,11 @@ On the default branch: franchise oversupply, DTC and wholesale, the execution vs
 ### Investigations (`research_notes/investigations/`, on `claude/zealous-mccarthy-rj0t2h`, not yet merged)
 01 NA sell-in vs sell-through; 02 Greater China collapse; 03 NIKE Direct decline; 04 Direct markdown depth; 05 NA gross margin; 06 U.S. customer concentration; 07 segment gross margins (in revision); 08 footwear vs apparel. Owner: DTC/Retail session.
 
+### Capital and dividend
+| Question | Files | One-line result | Owner |
+|---|---|---|---|
+| Is the dividend covered; debt, ratings, buybacks, cut precedents | `research_notes/18_capital_and_dividend.md`, `data/capital/`, `scripts/capital/` | FCF covered 0.91x of dividends in FY2026 and is negative in Q1 FY2027; net cash only about $0.5B; streak language dropped from the last two releases | SEC filings session |
+
 ## In progress
 
 | Topic and exact question | Owner session (branch) | Planned output | Started |
@@ -67,7 +72,6 @@ On the default branch: franchise oversupply, DTC and wholesale, the execution vs
 | Definitive tests: supplier monthly output, time to markdown, size runs, resale panel, units vs price | Revenue streams (`claude/gallant-ride-0plbb9`) | `DEEP_DIVE_DEFINITIVE_TESTS.md` | Oct 13 |
 | Consistency audit across the repo | Revenue streams (`claude/gallant-ride-0plbb9`) | (per that session) | Oct 13 |
 | Insiders, Knight/Swoosh, 13F institutional changes, short interest history, options-implied moves | SEC filings (`claude/eloquent-feynman-cnpk76`) | `research_notes/17_insider_and_institutional_flows.md` | Oct 13 |
-| Cash flow, dividend sustainability, debt schedule and ratings, buyback status, dividend-cut precedents | SEC filings (`claude/eloquent-feynman-cnpk76`) | `research_notes/18_capital_and_dividend.md` | Oct 13 |
 | Management track record: guidance vs actuals FY2023 to FY2027, 2017 and 2020 targets, audit of the Dec 2023 $2B savings plan, Pace credibility, Investor Day scenarios | SEC filings (`claude/eloquent-feynman-cnpk76`) | `research_notes/19_management_track_record.md` | Oct 13 |
 | Base rates: forward returns after 70%+ drawdowns in large consumer brands; recovery vs value-trap features | SEC filings (`claude/eloquent-feynman-cnpk76`) | `research_notes/20_base_rates.md` | Oct 13 |
 
