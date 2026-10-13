@@ -1,10 +1,10 @@
 # Nike, Inc. (NYSE: NKE): Turnaround, Leadership and Stock Research
 
-**Prepared:** October 12, 2026 | **Purpose:** Case competition research | **Status:** Working draft, not investment advice
+**Prepared:** October 12, 2026; updated October 13, 2026 | **Purpose:** Case competition research | **Status:** Working draft, not investment advice
 
 > **How to read this report.** It is written for someone new to finance. Every concept is explained the first time it appears (see the glossary in Section 14).
 >
-> **Every financial number in this version comes from Nike's SEC filings**, which were downloaded from sec.gov and read in full: the FY2019 to FY2026 10-Ks, the 10-Qs from Q1 FY2024 to Q1 FY2027, every quarterly earnings release (8-K Exhibit 99.1) from Q4 FY2019 to Q1 FY2027, the 2026 proxy statement, and the 2024 to 2026 leadership and restructuring 8-Ks. Each number carries a citation in the form **(FY26 10-K p. 32)**, where the page is the printed page number in the filing. Earnings releases have no printed page numbers, so their pages are counted from the first page of the press release. Every value was machine-checked to appear on the cited page. The cell-level record (filing, page, URL and a verbatim quote) is `data/nike_filing_facts.csv`, and the tables are in `research_notes/04_financial_data_pack.md`.
+> **Every financial number in this version comes from Nike's SEC filings**, which were downloaded from sec.gov (and, from October 13, 2026, from Nike's investor-site copy of the same EDGAR filings) and read in full: the FY2019 to FY2026 10-Ks, the 10-Qs from Q1 FY2024 to Q1 FY2027, every quarterly earnings release (8-K Exhibit 99.1) from Q4 FY2019 to Q1 FY2027, the 2026 proxy statement, and the 2024 to 2026 leadership and restructuring 8-Ks. Each number carries a citation in the form **(FY26 10-K p. 32)**, where the page is the printed page number in the filing. Earnings releases have no printed page numbers, so their pages are counted from the first page of the press release. Every value was machine-checked to appear on the cited page. The cell-level record (filing, page, URL and a verbatim quote) is `data/nike_filing_facts.csv`, and the tables are in `research_notes/04_financial_data_pack.md`.
 >
 > **Non-filing facts are labelled.** *Market data* (share prices) comes from the Yahoo Finance price feed (`data/nke_daily_prices.csv`). *Nike release* means a page on about.nike.com or investors.nike.com that was opened and read. *Secondary* means a news or aggregator page that was opened and read. *My arithmetic* and *my inference* mark my own calculations and reasoning. Section 13 lists what changed from the previous draft.
 
@@ -37,6 +37,11 @@
 - **The turnaround.** CEO Elliott Hill, a 32-year Nike veteran who retired in 2020, returned on October 14, 2024 (8-K filed Sept 19, 2024, p. 2). His plan has three stages: **Win Now**, **Sport Offense**, and **Pace**. Pace was announced October 1, 2026 and targets "approximately $2.5 billion in cumulative savings through fiscal 2031" at "approximately $1.0 billion of pre-tax charges" (8-K filed Oct 1, 2026, Item 2.05, p. 2).
 - **The people angle (the thesis idea).** I count **19 named senior exits since 2020, 14 of them after Hill started** (Section 9). Four were roles Nike said it eliminated. Within a single quarter Nike also changed its CFO (8-K filed June 23, 2026) and its chief accounting officer resigned (8-K filed Aug 10, 2026). Hill's senior outside hires are **three**: Michael Gonda (communications, from McDonald's), David Denton (CFO, from Pfizer) and Jane Ewing (commercial, from Walmart). Nearly everyone else he promoted is a Nike insider or returnee.
 - **Shareholders are pushing back.** Support for executive pay fell to about **67.8%** at the September 2026 annual meeting, from about 94% in 2025 (8-K filed Sept 10, 2026, p. 2; 2026 proxy p. 23; my arithmetic on votes for versus against).
+- **Where the money is made (new, Sections 5.7 to 5.10).**
+  - **Greater China:** its EBIT margin fell from 39.1% in FY2021 to 21.9% in FY2026, and it had the largest reported EBIT decline of any segment from FY2024 to FY2026 (-$1,031 million).
+  - **North America:** now the most profitable region, at 26.2% EBIT margin. Excluding the $965 million tariff refund it was 21.5%, and its EBIT decline would be the largest (-$1,411 million).
+  - **Converse:** EBIT fell from $676 million to $18 million, about -$3 million before the refund. About 85% of its revenue loss is fewer units sold.
+  - **Direct versus wholesale:** testing whether selling direct pays shows that NIKE Direct keeps a large *gross margin* lead over wholesale through discount cycles, but its *operating* lead depends on full-price selling. On a retailer-sized cost to serve, it runs out at an average markdown of roughly 8% to 16% (my arithmetic; Section 5.8).
 - **What to watch next:** Nike Investor Day on **Nov 16 to 17, 2026** (Nike release, Oct 1, 2026 employee memo) and Q2 FY2027 results (expected in December; Nike had not announced the date as of Oct 12).
 
 **Suggested thesis question:** *Is Nike's decline a leadership-and-execution problem that a returning insider team can fix, or a structural problem (competition, China, tariffs, brand fatigue) that leadership changes cannot fix?* The people data (Sections 7 to 10) is the strongest evidence for the first half. Section 12 lists the competitor and product evidence still needed for the second half.
@@ -213,6 +218,139 @@ My arithmetic: cash plus short-term investments of $8,368 million at Aug 31, 202
 ![Cash generation vs payouts](charts/14_cash_returns.png)
 
 **Cash flow.** FY2026 cash from operations was $2,868 million and capital expenditure $684 million, while dividends paid were $2,407 million and buybacks only $146 million (FY26 10-K p. 58). Cash from operations minus capex was $2,184 million, less than the dividend (my arithmetic). In FY2024 the same measure was $6,617 million (FY24 10-K p. 60; my arithmetic).
+
+### 5.7 Profit by region: the ranking has flipped
+
+![EBIT margin by region](charts/15_region_ebit_margin.png)
+
+Segment EBIT divided by segment revenue (my arithmetic on the segment note of each 10-K; full citations in `data/nike_region_profitability.csv`):
+
+| Segment | FY2019 | FY2021 | FY2024 | FY2026 | Q1 FY2026 | Q1 FY2027 |
+|---|---|---|---|---|---|---|
+| North America | 24.7% | 29.6% | 27.2% | 26.2% (21.5% ex refund) | 22.6% | 22.8% |
+| EMEA | 20.3% | 21.3% | 24.9% | 19.2% | 22.1% | 22.9% |
+| Greater China | 38.3% | 39.1% | 30.6% | 21.9% | 24.9% | 21.0% |
+| APLA | 25.2% | 28.6% | 28.0% | 22.2% | 23.5% | 22.1% |
+| Converse | 15.9% | 24.6% | 22.8% | 1.5% | 10.7% | 9.5% |
+
+| Segment gross margin | FY2023 | FY2024 | FY2025 | FY2026 | Source |
+|---|---|---|---|---|---|
+| North America | 42.2% | 44.4% | 43.5% | 45.6% | FY25 10-K p. 38; FY26 10-K p. 37 |
+| EMEA | 45.3% | 44.2% | 43.2% | 41.8% | FY25 10-K p. 39; FY26 10-K p. 38 |
+| Greater China | 51.0% | 50.2% | 46.0% | 45.7% | FY25 10-K p. 40; FY26 10-K p. 39 |
+| APLA | 48.1% | 45.9% | 44.0% | 42.0% | FY25 10-K p. 41; FY26 10-K p. 40 |
+| Converse | 53.8% | 52.5% | 48.7% | 43.8% | FY25 10-K p. 42; FY26 10-K p. 41 |
+
+- **Change in EBIT, FY2024 to FY2026, by segment** (FY24 and FY26 10-Ks; my arithmetic):
+
+  | Segment | Change in EBIT |
+  |---|---|
+  | Greater China | -$1,031 million |
+  | EMEA | -$971 million |
+  | APLA | -$498 million |
+  | Converse | -$456 million |
+  | North America, reported | -$446 million |
+  | North America, excluding the $965 million IEEPA refund booked there (FY26 10-K p. 30) | -$1,411 million |
+
+  Nike says the refund "largely offsets the impact of the IEEPA tariffs recognized during fiscal 2026" (Q4 FY26 release pp. 4 to 5), so the reported figure is the no-tariff view and the ex-refund figure is the with-tariff view.
+- **Sensitivity:** if Greater China's EBIT margin returned to its FY2024 level of 30.6% on FY2026 revenue, segment EBIT would be about **$511 million higher**, 13% of FY2026 total EBIT of $3,850 million (my arithmetic).
+- **North America is the only segment whose FY2026 gross margin is above FY2023.** It is also the segment that moved furthest toward wholesale: its Direct share fell from 48.6% to 41.7% between FY2024 and FY2026 (FY24 10-K p. 84; FY26 10-K p. 83). Its gross margin gain did not reach EBIT on a with-tariff basis (27.2% to 21.5%). Why North America diverged is being tested in the current research round (Section 12).
+- **Higher Direct share does not line up with better margins across regions.** In FY2026 the two most Direct-heavy segments, Greater China (44.3%) and Converse (44.1%), had the steepest profit declines.
+- Detail: `research_notes/06_region_margin_product.md`.
+
+### 5.8 Does selling direct pay? Testing it with Nike's own numbers and peers
+
+Nike does not report profit by channel. Four indirect tests (detail and every source in `research_notes/09_channel_margin_test.md` and `10_peer_channel_margins.md`):
+
+1. **What Direct earns above a wholesale sale.** Until FY2024 Nike disclosed internal sales to NIKE Direct "charged at prices comparable to those charged to external wholesale customers" (FY24 10-K p. 32).
+   - NIKE Direct revenue was 1.62x to 1.66x that internal cost from FY2017 to FY2021.
+   - It reached **1.78x in FY2022**, a year of low promotions and tight supply, then fell to 1.67x in FY2023 and 1.65x in FY2024 (my arithmetic on FY19 to FY24 10-Ks).
+   - In FY2024 the spread was $8.5 billion, or 39.5% of Direct revenue.
+   - FY2022 is partly flattered by inventory timing, but the FY2022 to FY2023 average (1.72x) is still above the years before and after.
+2. **Nike's gross margin bridge isolates Direct.**
+   - "Margin in our NIKE Direct business" added **+160 bps** to company gross margin in the first nine months of FY2022, on "lower promotional activity" (Q3 FY22 10-Q p. 30).
+   - It subtracted **-130 bps** in the first nine months of FY2023, on "higher promotional activity to liquidate inventory" (Q3 FY23 10-Q p. 29), and -40 bps in FY2024 (FY24 10-K p. 36).
+   - That is about +$552 million, then -$499 million, then -$205 million of gross profit (my arithmetic). Full-price list prices were rising at the same time (+200 to +410 bps per quarter in FY2023).
+3. **Peers at gross margin.** Skechers, the only peer reporting gross margin by channel, earned 16.7 to 29.6 points more in DTC than in wholesale every year from FY2019 to H1 2025 (66.2% vs 43.3% in FY2024; Skechers FY24 10-K p. 47). With one stated assumption (a Nike wholesale gross margin of 35% to 45%), Nike's own data implies a similar gap of 21.7 to 25.7 points (my arithmetic).
+4. **Peers at operating margin.**
+   - Deckers (UGG, HOKA) reported segment operating income with transfers to DTC at cost. Its DTC segment earned **3.8 to 5.0 points less** than wholesale in FY2018 to FY2020, then 2.2 to 10.1 points more in FY2021 to FY2024 (Deckers FY20 10-K p. F-41; FY24 10-K p. F-38; my arithmetic).
+   - Deckers credits "less discounting and promotional activity" and store closures for the turn (FY19 10-K pp. 39 to 40).
+   - Foot Locker, the retailer that keeps the shelf margin on a wholesale sale, earned a gross margin of 27.7% to 34.4% from 2019 to 2024.
+
+**Verdict.**
+- **Gross margin:** selling direct keeps a large gross margin lead even through discount cycles.
+- **Operating level:** Direct beats wholesale only while its spread over wholesale exceeds its own store and fulfilment costs, and promotions use up that cushion.
+- **Break-even (assumption: Nike's Direct cost to serve, as a share of revenue, is close to Foot Locker's gross margin):** the cushion runs out at an average Direct markdown of roughly **8% to 16%** (my arithmetic).
+- **Unknown:** Nike does not disclose markdown depth, so whether Direct was below break-even in FY2025 and FY2026 is the open question (Section 12).
+- **From FY2025, Nike's bridge shows the trade directly.** A wholesale sale lowers ASP but cuts "warehousing and logistics costs ... primarily due to channel mix" (+20 bps in FY2026, FY26 10-K p. 34; +90 bps in Q1 FY2027 against a -30 bps ASP effect, Q1 FY27 10-Q p. 23).
+
+### 5.9 Converse: a decline driven by unit volume, now a deliberate reset
+
+| | FY2023 | FY2024 | FY2025 | FY2026 | Q1 FY2027 |
+|---|---|---|---|---|---|
+| Revenue ($M) | 2,427 | 2,082 | 1,692 | 1,174 | 263 (-28%) |
+| Units sold, change | n/a | -12% | -12% | -31% | -34% |
+| Gross margin | 53.8% | 52.5% | 48.7% | 43.8% | 45.2% |
+| EBIT ($M) | 676 | 474 | 240 | 18 | 25 |
+| U.S. Converse stores (May 31) | 82 | 81 | 78 | 60 | n/a |
+
+Sources:
+- Revenue and EBIT: FY23 to FY26 10-K segment tables; Q1 FY27 10-Q p. 25.
+- Units: FY24 10-K p. 43; FY25 10-K p. 43; FY26 10-K p. 42; Q1 FY27 10-Q p. 31.
+- Gross margin: FY25 10-K p. 42; FY26 10-K p. 41; Q1 FY27 10-Q p. 30.
+- U.S. stores: 10-Ks pp. 2 to 3.
+
+**The bridge (my arithmetic):**
+- **About 85% of the $1,253 million revenue decline is volume.** Units fell to a cumulative index of about 0.53, and price to about 0.90.
+- **Gross profit fell about $792 million:**
+  - about $674 million from lost volume;
+  - about $117 million from the 10-point margin decline, which Nike attributes to "higher discounts" in FY2024 and FY2025, and to discounts plus "inventory obsolescence reserves and employee severance costs" in FY2026 (FY26 10-K p. 42).
+- **Costs below gross profit fell only 21% against a 52% revenue decline**, rising from 25.9% to 42.3% of revenue. That deleverage took EBIT from $676 million to $18 million, or about -$3 million excluding a $21 million tariff refund (FY26 10-K p. 30).
+
+**Phases and management statements:**
+- **Where the decline started.** FY2024 declines were "in North America and Western Europe" (FY24 10-K p. 43); from FY2025 they were in "all territories."
+- **The reset.** Since Q2 FY2026, "Converse is in the midst of a strategic reset of the brand and marketplace" (FY26 10-K p. 30). Brand marketing was cut 39% in FY2026 and 58% in Q1 FY2027 (FY26 10-K p. 42; Q1 FY27 10-Q p. 31), and actions "are expected to continue throughout fiscal 2027" (Q1 FY27 10-Q p. 20).
+- **First price gain.** Q1 FY2027 is the first period in this run where price rose ("higher ASP contributed approximately 6 percentage points ... product mix and lower discounts," Q1 FY27 10-Q p. 31).
+- **Leadership.** Aaron Cain replaced Jared Carver as CEO in July 2025 (secondary: Retail Dive, Jul 11, 2025).
+- **Sale interest.** Authentic Brands Group reportedly expressed interest in buying Converse "if it's put up for sale"; Hill said "we're committed to the Converse brand" (secondary: Boston Globe, Mar 31, 2026).
+
+**What the filings cannot separate:** how much of the FY2026 unit decline was supply Nike withheld during the reset, and how much was lower retail sell-through.
+
+**Fix-or-exit arithmetic:** at FY2026 costs below gross profit (about $496 million), returning to FY2024 EBIT of $474 million needs about $1.80 billion of revenue at FY2023 gross margin, or about $2.21 billion at FY2026 gross margin. That is 54% to 89% above FY2026 revenue (my arithmetic).
+
+Detail: `research_notes/06_region_margin_product.md` Section 5 and `08_converse_detail.md`.
+
+### 5.10 Product: what is new, what is being cut, and where it is sold
+
+| | FY2024 | FY2026 | Change | Q1 FY2027 vs Q1 FY2026 |
+|---|---|---|---|---|
+| Footwear ($M) | 33,427 | 29,525 | -11.7% | -6.2% |
+| Apparel ($M) | 13,775 | 13,449 | -2.4% | +2.1% |
+| Equipment ($M) | 2,075 | 2,199 | +6.0% | -3.0% |
+
+Sources: FY24 10-K p. 34; FY26 10-K p. 32; Q1 FY27 10-Q p. 22. Changes are my arithmetic.
+
+The revenue decline is concentrated in footwear. On the cut side, Nike "reduced revenue from the Dunk by nearly 50% in the quarter," a roughly $200 million headwind, and is reducing Jordan retro launches (Q1 FY27 call remarks). The 10-Q says NIKE Sportswear and Jordan actions "are expected to extend beyond fiscal 2027" (Q1 FY27 10-Q p. 20).
+
+New product, as described by Nike management. These are company statements, not reported revenue:
+- **Running is the lead category.**
+  - The Vomero 18 became "a $100 million dollar plus franchise" in about 90 days (Q4 FY25 call).
+  - Running posted "five consecutive quarters of double-digit growth" (Q1 FY27 call).
+- **Women's basketball and new platforms:**
+  - The Caitlin 1 is "the largest women's signature shoe launch in Nike's history" (Q1 FY27 call).
+  - Nike Mind "sold out in all geographies" (Q3 FY26 call).
+- **Wholesale-first launches:**
+  - Structure Plus launched "exclusively at running specialty stores worldwide" four weeks before nike.com (Nike release).
+  - Vomero Premium reached "select retail partners" two weeks before its global release (Nike release).
+- **New and partner-specific wholesale:**
+  - A brand store on Amazon in the U.S. from fall 2025.
+  - Dick's (24.7 training) and JD (Air Max 95) were named as partnership examples (Q4 FY25 call).
+- **China first:** LeBron XXIII, Nike Hybrid RN and Caitlin 1 released in China one to two weeks before their global dates (Nike releases).
+- **Channel strategy, in Nike's words:** "For years, we were running a Nike direct-first offense. Now, we are rebalancing our offense through an integrated, elevated marketplace" (Q3 FY26 call).
+
+The full list of 40 launches, with channel, geography and sources, is in `research_notes/07_new_products_detail.md`.
+
+**Wholesale is getting more concentrated.** Nike's top three U.S. customers rose from 21% of U.S. sales in FY2024 to 29% in FY2026 (FY24 and FY26 10-Ks pp. 2 to 3). Nike's share of Foot Locker's purchases fell from 75% (2020) to 59% (2024), while its share of Dick's purchases rose from 17% (FY2021) to 25% (FY2024) (retailer 10-Ks; `research_notes/10_peer_channel_margins.md`).
 
 ---
 
@@ -434,6 +572,16 @@ My arithmetic: cash plus short-term investments of $8,368 million at Aug 31, 202
 
 Ordered by value for a case built on the leadership thesis:
 
+**In progress (October 13, 2026 research round).** Each question is being tested by listing every plausible explanation and ruling each in or out with data. Results will be added to Sections 5.7 to 5.10 and `research_notes/`.
+- Is North America wholesale growth real sell-through or channel fill?
+- Why did Greater China collapse?
+- Why did NIKE Direct shrink?
+- What is NIKE Direct's average markdown depth, measured against the 8% to 16% break-even range?
+- Why did North America's gross margin rise while every other region's fell?
+- Why did U.S. customer concentration jump?
+- Why did the other regions' gross margins fall?
+- Why is footwear falling faster than apparel?
+
 1. **Product and innovation evidence.** Running share against On, Hoka and Adidas; new franchise launches; sell-through.
 2. **Competitor benchmarks.** Adidas ran a similar turnaround, which gives a useful timeline. Also Puma, Lululemon, New Balance, Asics, Deckers (Hoka), On, and Anta and Li-Ning in China.
 3. **Retailer signals.** What Foot Locker, Dick's and JD Sports say on their own earnings calls; retailers see demand before Nike reports it.
@@ -448,6 +596,16 @@ Ordered by value for a case built on the leadership thesis:
 ## 13. Data quality and what changed in this version
 
 **Method.** 102 SEC documents were downloaded from sec.gov (with a User-Agent identifying the requester) and read in full by nine readers working in parallel, each covering every page of its assigned filings. They extracted about 9,300 data points, each with a page and a verbatim quote. A script then checked that every value appears on the cited page of the cited filing, and every number printed in a filing passed. The remaining flags were derived values the readers had labelled as their own arithmetic. Values were cross-checked across filings (each 10-K repeats prior years) and against SEC XBRL data. Where filings disagree because of later reclassification (for example, Jordan Brand revenue and FY2023 digital revenue), the table uses the figure as first reported and notes the restatement.
+
+**Added on October 13, 2026:**
+- New Sections 5.7 to 5.10 on regional profitability, channel economics, Converse and product.
+- Chart 15.
+- `data/nike_region_profitability.csv`.
+- Seven new filing facts: the FY2022 and FY2023 NIKE Direct gross margin bridge values.
+- Research notes 06 to 10.
+- Two filing dates were corrected against the SEC filing index before entry.
+- Filings are now downloaded from Nike's investor-site copy of EDGAR, with no personal contact information sent.
+- Peer data comes from annual report PDFs and company IR documents. A few Under Armour quotes were read through a web tool and not checked against a downloaded copy; `10_peer_channel_margins.md` marks them.
 
 **Corrections to the previous draft (all verified against the filings unless noted):**
 - FY2020 diluted EPS was **$1.60**, not $1.62 (FY20 10-K).
@@ -575,10 +733,11 @@ The full list of 102 documents with URLs is in `research_notes/04_financial_data
 |---|---|
 | `REPORT.md` | This report |
 | `DEEP_DIVE_DENTON_EWING.md` | Deep dive on CFO David Denton and CCO Jane Ewing |
-| `data/nike_filing_facts.csv` | 6,270 filing facts, one per metric and period, each with filing, printed page, URL and verbatim quote |
+| `data/nike_filing_facts.csv` | 6,277 filing facts, one per metric and period, each with filing, printed page, URL and verbatim quote |
 | `data/nke_daily_prices.csv`, `data/nke_dividends_exdate.csv` | Market data (Yahoo Finance), pulled Oct 12, 2026 |
 | `data/people_events.csv` | The named-exit list behind charts 6 and 7, with a source per row |
-| `charts/` | 14 charts, all generated from the files in `data/` |
+| `data/nike_channel_split.csv`, `data/nike_region_profitability.csv` | Revenue by segment and channel; region-by-year revenue, Direct share, EBIT and gross margin (built by `scripts/build_region_channel.py`) |
+| `charts/` | 15 charts, all generated from the files in `data/` |
 | `scripts/make_charts.py` | Rebuilds every chart (`pip install matplotlib numpy`, then `python3 scripts/make_charts.py`) |
 | `scripts/build_data_pack.py` | Rebuilds `research_notes/04_financial_data_pack.md` from the facts file |
 | `research_notes/` | Research notes; `04_financial_data_pack.md` is the cited financial tables |
