@@ -1,0 +1,37 @@
+company,fiscal_year,marketing_m,revenue_m,marketing_pct_rev,operating_income_m,op_margin_pct,currency,metric_definition,source
+adidas,2022,2763,22511,12.27,669,2.97,EUR,Marketing and point-of-sale expenses,adidas Annual Report 2023 consolidated income statement (report.adidas-group.com)
+adidas,2023,2528,21427,11.8,268,1.25,EUR,Marketing and point-of-sale expenses,adidas Annual Report 2023 consolidated income statement (report.adidas-group.com)
+adidas,2024,2841,23683,12.0,1337,5.65,EUR,Marketing and point-of-sale expenses,adidas Annual Report 2025 consolidated income statement (report.adidas-group.com)
+adidas,2025,3079,24811,12.41,2056,8.29,EUR,Marketing and point-of-sale expenses,adidas Annual Report 2025 consolidated income statement (report.adidas-group.com)
+Under Armour,CY2015,417.8,3963.3,10.54,408.5,10.31,USD,Marketing and advertising costs (10-K note),SEC XBRL companyfacts CIK0001336917 (AdvertisingExpense / MarketingAndAdvertisingExpense; revenue)
+Under Armour,CY2016,477.5,4825.3,9.9,417.5,8.65,USD,Marketing and advertising costs (10-K note),SEC XBRL companyfacts CIK0001336917 (AdvertisingExpense / MarketingAndAdvertisingExpense; revenue)
+Under Armour,CY2017,565.1,4976.6,11.36,27.8,0.56,USD,Marketing and advertising costs (10-K note),SEC XBRL companyfacts CIK0001336917 (AdvertisingExpense / MarketingAndAdvertisingExpense; revenue)
+Under Armour,CY2018,543.8,5193.2,10.47,-25.0,-0.48,USD,Marketing and advertising costs (10-K note),SEC XBRL companyfacts CIK0001336917 (AdvertisingExpense / MarketingAndAdvertisingExpense; revenue)
+Under Armour,CY2019,578.9,5267.1,10.99,236.8,4.5,USD,Marketing and advertising costs (10-K note),SEC XBRL companyfacts CIK0001336917 (AdvertisingExpense / MarketingAndAdvertisingExpense; revenue)
+Under Armour,CY2020,550.4,4474.7,12.3,-613.4,-13.71,USD,Marketing and advertising costs (10-K note),SEC XBRL companyfacts CIK0001336917 (AdvertisingExpense / MarketingAndAdvertisingExpense; revenue)
+Under Armour,CY2021,649.2,5682.6,11.42,475.2,8.36,USD,Marketing and advertising costs (10-K note),SEC XBRL companyfacts CIK0001336917 (AdvertisingExpense / MarketingAndAdvertisingExpense; revenue)
+Under Armour,FY2023(Mar23),620.3,5903.2,10.51,263.6,4.47,USD,Marketing and advertising costs (10-K note),SEC XBRL companyfacts CIK0001336917 (AdvertisingExpense / MarketingAndAdvertisingExpense; revenue)
+Under Armour,FY2024(Mar24),568.5,5701.9,9.97,229.8,4.03,USD,Marketing and advertising costs (10-K note),SEC XBRL companyfacts CIK0001336917 (AdvertisingExpense / MarketingAndAdvertisingExpense; revenue)
+Under Armour,FY2025(Mar25),549.9,5164.3,10.65,-185.2,-3.59,USD,Marketing and advertising costs (10-K note),SEC XBRL companyfacts CIK0001336917 (AdvertisingExpense / MarketingAndAdvertisingExpense; revenue)
+Under Armour,FY2026(Mar26),502.3,4966.4,10.11,-163.1,-3.28,USD,Marketing and advertising costs (10-K note),SEC XBRL companyfacts CIK0001336917 (AdvertisingExpense / MarketingAndAdvertisingExpense; revenue)
+Deckers (HOKA+UGG),FY2017(Mar17),109.6,1790.1,6.12,-1.9,-0.11,USD,"Advertising, marketing and promotion expense (company total)",SEC XBRL companyfacts CIK0000910521
+Deckers (HOKA+UGG),FY2018(Mar18),111.7,1903.3,5.87,222.6,11.7,USD,"Advertising, marketing and promotion expense (company total)",SEC XBRL companyfacts CIK0000910521
+Deckers (HOKA+UGG),FY2019(Mar19),118.3,2020.4,5.86,327.3,16.2,USD,"Advertising, marketing and promotion expense (company total)",SEC XBRL companyfacts CIK0000910521
+Deckers (HOKA+UGG),FY2020(Mar20),144.9,2132.7,6.79,338.1,15.85,USD,"Advertising, marketing and promotion expense (company total)",SEC XBRL companyfacts CIK0000910521
+Deckers (HOKA+UGG),FY2021(Mar21),188.3,2545.6,7.4,504.2,19.81,USD,"Advertising, marketing and promotion expense (company total)",SEC XBRL companyfacts CIK0000910521
+Deckers (HOKA+UGG),FY2022(Mar22),255.9,3150.3,8.12,564.7,17.93,USD,"Advertising, marketing and promotion expense (company total)",SEC XBRL companyfacts CIK0000910521
+Deckers (HOKA+UGG),FY2023(Mar23),271.1,3627.3,7.47,652.8,18.0,USD,"Advertising, marketing and promotion expense (company total)",SEC XBRL companyfacts CIK0000910521
+Deckers (HOKA+UGG),FY2024(Mar24),348.9,4287.8,8.14,927.5,21.63,USD,"Advertising, marketing and promotion expense (company total)",SEC XBRL companyfacts CIK0000910521
+Deckers (HOKA+UGG),FY2025(Mar25),432.2,4985.6,8.67,1179.1,23.65,USD,"Advertising, marketing and promotion expense (company total)",SEC XBRL companyfacts CIK0000910521
+Deckers (HOKA+UGG),FY2026(Mar26),495.8,5472.3,9.06,1262.9,23.08,USD,"Advertising, marketing and promotion expense (company total)",SEC XBRL companyfacts CIK0000910521
+lululemon,FY2020(Jan21),216.0,4401.9,4.91,820.0,18.63,USD,Advertising expense (10-K note),SEC XBRL companyfacts CIK0001397187
+lululemon,FY2021(Jan22),297.5,6256.6,4.75,1333.4,21.31,USD,Advertising expense (10-K note),SEC XBRL companyfacts CIK0001397187
+lululemon,FY2022(Jan23),328.6,8110.5,4.05,1328.4,16.38,USD,Advertising expense (10-K note),SEC XBRL companyfacts CIK0001397187
+lululemon,FY2023(Jan24),429.7,9619.3,4.47,2132.7,22.17,USD,Advertising expense (10-K note),SEC XBRL companyfacts CIK0001397187
+lululemon,FY2024(Feb25),541.5,10588.1,5.11,2505.7,23.67,USD,Advertising expense (10-K note),SEC XBRL companyfacts CIK0001397187
+lululemon,FY2025(Feb26),617.5,11102.6,5.56,2210.6,19.91,USD,Advertising expense (10-K note),SEC XBRL companyfacts CIK0001397187
+On Holding,2021,100.5,724.6,13.87,,,CHF,Advertising expense (IFRS tag); op income not pulled,SEC XBRL companyfacts CIK0001858985 (ifrs-full AdvertisingExpense; 20-F)
+On Holding,2022,130.2,1222.1,10.65,,,CHF,Advertising expense (IFRS tag); op income not pulled,SEC XBRL companyfacts CIK0001858985 (ifrs-full AdvertisingExpense; 20-F)
+On Holding,2023,195.8,1792.1,10.93,,,CHF,Advertising expense (IFRS tag); op income not pulled,SEC XBRL companyfacts CIK0001858985 (ifrs-full AdvertisingExpense; 20-F)
+On Holding,2024,276.6,2318.3,11.93,,,CHF,Advertising expense (IFRS tag); op income not pulled,SEC XBRL companyfacts CIK0001858985 (ifrs-full AdvertisingExpense; 20-F)
+On Holding,2025,376.5,3014.0,12.49,,,CHF,Advertising expense (IFRS tag); op income not pulled,SEC XBRL companyfacts CIK0001858985 (ifrs-full AdvertisingExpense; 20-F)
