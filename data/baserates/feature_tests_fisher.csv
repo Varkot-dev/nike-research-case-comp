@@ -1,0 +1,17 @@
+test,true_recovered,true_n,false_recovered,false_n,fisher_p
+market-wide regime (S&P 500 down >=15% at entry),33,53,10,27,0.0367
+EV/sales <= 1.0x [all],11,16,6,22,0.0201
+EV/sales <= 1.0x [idiosyncratic],6,11,0,9,0.0141
+EV/EBITDA <= 8x [all],11,19,4,12,0.2734
+EV/EBITDA <= 8x [idiosyncratic],5,10,0,5,0.1009
+revenue growth > 0 [all],13,26,1,8,0.1021
+gross margin up y/y [all],9,16,5,17,0.1663
+net cash [all],11,17,10,26,0.1243
+net cash [idiosyncratic],5,8,1,12,0.0181
+positive FCF [all],15,31,6,12,1.0
+dividend cut by entry (payers) [all],3,13,18,31,0.0492
+peak to E75 within 2 years [all],32,51,11,29,0.0385
+peak to E75 within 2 years [idiosyncratic],6,13,4,14,0.4401
+"CEO change in 24m before entry [manual, idiosyncratic]",3,8,7,18,1.0
+"founder/family/sponsor control [manual, idiosyncratic]",4,12,6,15,1.0
+"activist by entry+12m [manual, idiosyncratic]",1,5,9,22,0.621

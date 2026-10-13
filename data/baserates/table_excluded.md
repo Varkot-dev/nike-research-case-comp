@@ -1,0 +1,5 @@
+- max drawdown 70-75%: never reached 75% entry (22): ADS.DE 1998 (-71%), ADS.DE 2021 (-72%), PUM.DE 2007 (-71%), CROX 2021 (-74%), GIL 2019 (-75%), 7936.T 2007 (-74%), URBN 2018 (-74%), BBY 2000 (-74%), DKS 2007 (-73%), DKS 2016 (-73%), WSM 1999 (-73%), DG 2022 (-74%), CMG 2007 (-75%), MCD 1999 (-74%), TAP 2016 (-71%), BUD 2016 (-74%), CPB 2016 (-72%), WHR 2015 (-70%), EPC 2007 (-74%), TSLA 2021 (-74%), CCL 2004 (-74%), EXPE 2017 (-71%)
+- peak market cap below $3bn (approx) (21): PVH 1994 (-86%), DECK 1993 (-94%), FOSL 1994 (-77%), WWW 1998 (-72%), SHOO 1993 (-77%), SHOO 2000 (-71%), AEO 1994 (-81%), AEO 1999 (-79%), AEO 2001 (-75%), URBN 1999 (-77%), BBY 1994 (-81%), ULTA 2007 (-88%), ETSY 2015 (-79%), DPZ 2007 (-92%), SAM 1995 (-79%), HAIN 2000 (-72%), CELH 2007 (-100%), ELF 2016 (-77%), NUS 1997 (-86%), NFLX 2002 (-71%), NFLX 2004 (-77%)
+- Yahoo ticker PARA now maps to Banzai International (reassigned symbol); not Paramount (1): PARA 2023 (-100%)
+- non-consumer control (2): BA 2007 (-73%), BA 2019 (-78%)
+- non-consumer; Yahoo history affected by 2023-2024 spin-offs; control only (1): GE 2000 (-90%)
