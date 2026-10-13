@@ -1,0 +1,10 @@
+snapshot_date,wall,total_reported,pages_fetched,products_parsed,colorways_parsed,share_products_discounted_pct,avg_discount_all_products_pct,avg_discount_discounted_products_pct,median_discount_discounted_pct,avg_discount_all_colorways_pct,share_colorways_discounted_pct
+2026-10-13,sale-3yaep,5102,1,24,167,58.3,17.7,30.3,32.2,27.2,83.2
+2026-10-13,shoes-y7ok,6363,1,24,24,4.2,0.8,19.6,19.6,0.8,4.2
+2026-10-13,sale-shoes-3yaepzy7ok,858,1,24,228,75.0,24.4,32.5,38.4,29.9,91.2
+2026-10-13,mens-shoes-nik1zy7ok,762,32,760,2794,35.3,10.5,29.8,29.7,11.5,38.4
+2026-10-13,womens-shoes-5e1x6zy7ok,598,25,596,2606,46.1,14.1,30.5,29.6,13.3,43.0
+2026-10-13,mens-sale-shoes-3yaepznik1zy7ok,348,15,348,1208,88.2,26.3,29.8,29.7,26.4,88.3
+2026-10-13,womens-sale-shoes-3yaepz5e1x6zy7ok,335,14,335,1231,90.7,27.5,30.3,29.6,28.0,90.3
+2026-10-13,mens-running-shoes-37v7jznik1zy7ok,142,6,140,473,21.4,5.7,26.4,24.9,6.8,28.5
+2026-10-13,womens-running-shoes-37v7jz5e1x6zy7ok,93,4,91,408,35.2,10.0,28.3,27.5,9.3,35.4
