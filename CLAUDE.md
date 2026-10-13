@@ -1,5 +1,8 @@
 # Nike research repo: standing instructions
 
+## Check the research map first
+Before researching anything, read `RESEARCH_MAP.md`. Do not research a question another session has done or claimed. Claim new topics there (through a small PR to the default branch) before launching agents, and move them to Done with file paths when finished.
+
 ## Every explanation must be financial and data driven
 This repo supports a stock pitch. Never explain a result with a generic, consumer-sentiment or common-sense statement such as "fewer people want the shoes," "the brand lost its cool," "demand is weak," "it's a bright spot," or "this is the swing factor." Those statements are not acceptable in notes, the report, chart titles or chat replies.
 
