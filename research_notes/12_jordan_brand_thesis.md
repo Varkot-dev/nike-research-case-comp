@@ -1,6 +1,6 @@
 # Jordan Brand: oversupply, a demand reset, and a supply cut that has not yet worked
 
-**Prepared:** October 13, 2026. **Sources:** Nike 10-Ks FY2017 to FY2026, the Q1 FY2027 10-Q, earnings releases, and Nike's official earnings call transcripts (Q4 FY23, Q4 FY24, Q1 FY25 to Q1 FY27), plus opened secondary pages. Full extracts with verbatim quotes, URLs and verification status: `research_notes/jordan_extracts/JORDAN_SEC_FINDINGS.md` and `research_notes/jordan_extracts/JORDAN_MARKET_FINDINGS.md`. Charts: `charts/16_jordan_resets.png`, `charts/17_jordan_demand_tests.png`. The ten-way evidence test of October 13, 2026 is in `research_notes/jordan_extracts/rabbit_hole/`. Labels follow the house rules: filing citations, *Nike transcript*, *secondary*, *my arithmetic*, *my inference*.
+**Prepared:** October 13, 2026. **Sources:** Nike 10-Ks FY2017 to FY2026, the Q1 FY2027 10-Q, earnings releases, and Nike's official earnings call transcripts (Q4 FY23, Q4 FY24, Q1 FY25 to Q1 FY27), plus opened secondary pages. Full extracts with verbatim quotes, URLs and verification status: `research_notes/jordan_extracts/JORDAN_SEC_FINDINGS.md` and `research_notes/jordan_extracts/JORDAN_MARKET_FINDINGS.md`. Charts: `charts/17_jordan_resets.png`, `charts/18_jordan_demand_tests.png`. The ten-way evidence test of October 13, 2026 is in `research_notes/jordan_extracts/rabbit_hole/`. Labels follow the house rules: filing citations, *Nike transcript*, *secondary*, *my arithmetic*, *my inference*.
 
 ## 1. The thesis in one paragraph
 
@@ -31,7 +31,7 @@ Jordan is Nike's only disclosed sub-brand and about 15% of revenue. It is **19% 
 | FY2026 | -3% | FY26 10-K p. 32 |
 
 - Nike's own account: "Back in Fiscal 18, we recalibrated the supply of select Jordan Brand franchises ... we turned the page from double-digit declines in the Brand to the start of multiple consecutive years of strong double-digit growth" (Nike transcript, Q4 FY24 call, June 2024).
-- On a like-for-like chain, Jordan was back above its FY2017 level within two years of the FY2018 reset and was about 2.3x its FY2018 trough by FY2024 (my arithmetic; chart 16).
+- On a like-for-like chain, Jordan was back above its FY2017 level within two years of the FY2018 reset and was about 2.3x its FY2018 trough by FY2024 (my arithmetic; chart 17).
 - **The same playbook, stated explicitly in October 2026:** "we're going to get back to leading the scarcity model that we created. Simply put, we've been oversupplying our iconic retro product ... as we've done with the Air Jordan 1, we will deliberately reduce the volume and frequency of specific Jordan Retro launches. We've discussed it with our wholesale partners ... In the near term, North America will feel the biggest impact" (Nike transcript, Q1 FY27 call).
 - **What is different this time (my inference):** the FY2018 reset was one year at -8%. This one is already two years and about -19%, with a further mid-teens drop in Q1 FY2027 and a second round of cuts. The 10-Q says "additional actions related to NIKE Sportswear and Jordan Brand are expected to extend beyond fiscal 2027," reflecting "higher levels of discounting and broader marketplace pressure" (Q1 FY27 10-Q p. 20). A deeper reset means a bigger rebound if the model holds, and a longer wait.
 
@@ -65,7 +65,7 @@ Question: is the Jordan decline mainly a supply decision by Nike, or weaker dema
 | Market and category | US footwear flat in 2025 and +1% in H1 2026 (Circana, secondary); Nike North America footwear units +6% in FY2026 (FY26 10-K); Nike Basketball in North America "up double digits" (Nike transcript, Q1 FY27). adidas basketball -20% and -21% in Q1 and Q2 2026 (adidas investor decks), but adidas calls the business small | Market decline ruled out |
 | Was the cut planned? | "The Jordan brand was planned down double digits this quarter, and we expect Jordan to be down at the same rate for fiscal '25" (Nike transcript, Q1 FY25 call); FY2025 came in at -16% (FY26 10-K p. 32) | Supply, for FY2025 |
 | Release counts (Sole Retriever archive, 3,273 listings) | Core adult retro releases 98 (2023), 96 (2024), 113 (2025), about 91 (2026 incl. scheduled). AJ1 High fell from 20 to about 10 a year; AJ4 rose from 7 to 33 (2025) and AJ3 from 8 to 13 to 15 | Supply shifted between models, not cut in total; any cut was in pairs per release, which public data cannot show |
-| Search interest (Google Trends, US, July to September) | "Jordan 1" fell 59% and "Air Jordan" 41% from 2021 to 2024, while Jordan revenue rose 32% from FY2022 to FY2024 (chart 17). Since the cuts, "Air Jordan" is flat; "Jordan 1" and "Jordan 4" are still falling; Samba, On and New Balance rose | Demand fell first, during oversupply |
+| Search interest (Google Trends, US, July to September) | "Jordan 1" fell 59% and "Air Jordan" 41% from 2021 to 2024, while Jordan revenue rose 32% from FY2022 to FY2024 (chart 18). Since the cuts, "Air Jordan" is flat; "Jordan 1" and "Jordan 4" are still falling; Samba, On and New Balance rose | Demand fell first, during oversupply |
 | SNKRS app | Weekly US downloads fell from 101K to 32K in Q2 2023 (Sensor Tower, secondary) | Demand fell before the cuts |
 | Resale premiums (GOAT, 247 general releases, Oct 13, 2026) | Median premium by release year: all retros +13% (2023), +6%, -5%, -19% (2026). AJ1 High OG -26%, -28%, -35%, -30%: 40 of 41 below retail, no recovery after its cut. AJ4 +18%, +24%, +4%, -20%; AJ3 +24%, +10%, -17%, -22% (my arithmetic; data/jordan_resale_goat_20261013.csv) | The cut has not restored scarcity; premiums fall wherever volume goes |
 | Independent resale study | SneakerPing (Aug 18, 2026): 605 Jordan items, 70.7% last sold below retail, median -20% (opened). StockX: Jordan average resale price +6% in 2025, "early signs of recovery" (via SGB, opened) | Mostly demand-constrained, one positive signal |
@@ -90,7 +90,7 @@ A rough split of the FY2024 to FY2026 decline is 35% to 50% supply Nike chose to
 
 ## 7. Bear case anchors
 
-1. **Demand fell before the cut.** "Jordan 1" search interest fell 59% from 2021 to 2024 while revenue rose (chart 17).
+1. **Demand fell before the cut.** "Jordan 1" search interest fell 59% from 2021 to 2024 while revenue rose (chart 18).
 2. **The first cut failed the price test.** AJ1 High OG general releases from 2025 and 2026 trade 30% to 35% below retail, no better than 2023 releases; the AJ1 "Royal" released October 10, 2026 was 9% below retail after three days.
 3. **Moving volume between models spreads the problem.** AJ4 and AJ3 premiums fell by about 40 points in two release years once their release counts rose.
 4. **The reset is larger and longer than FY2018.** About 3.2% of Nike revenue lost against 0.7%, no China offset, and management already says pressure will "bleed in a little bit into fiscal '28" (Q1 FY27 call, via rabbit_hole/fy18_analog.md).

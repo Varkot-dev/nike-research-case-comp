@@ -1,6 +1,6 @@
 # Nike revenue streams: is there anything beyond DTC and wholesale?
 
-**Prepared:** October 13, 2026. **Sources:** FY2026 Form 10-K and Q1 FY2027 Form 10-Q, via `data/nike_filing_facts.csv` and `data/nike_channel_split.csv` (page-level citations and verbatim quotes in both files). All shares are my arithmetic on filed figures. Chart: `charts/15_revenue_mix_fy26.png`.
+**Prepared:** October 13, 2026. **Sources:** FY2026 Form 10-K and Q1 FY2027 Form 10-Q, via `data/nike_filing_facts.csv` and `data/nike_channel_split.csv` (page-level citations and verbatim quotes in both files). All shares are my arithmetic on filed figures. Chart: `charts/16_revenue_mix_fy26.png`.
 
 **Short answer:** no. In FY2026, 99.7% of NIKE, Inc. revenue ($46,398M, FY26 10-K p. 55) was product sold either to retailers (wholesale) or directly to consumers (NIKE Direct). Licensing and other income was $143M, or 0.3% (FY26 10-K p. 83). The useful "other" splits are by product, by brand (Jordan) and by region, not by income type.
 
@@ -37,7 +37,7 @@
 
 - Jordan Brand revenue was **$7,034M in FY2026, down 3%**, about 15% of NIKE, Inc. revenue (FY26 10-K p. 32). It is included in the NIKE Brand footwear and apparel lines above, not additional to them.
 - Jordan is the only sub-brand Nike breaks out, which makes it the largest disclosed stream outside the channel and product splits.
-- **Caution:** Jordan figures have been restated. FY2024 Jordan was $6,988M in the FY24 10-K (p. 34) but $8,701M as recast in the Q4 FY25 release. Use one filing's figures for any trend. See `07_jordan_brand_thesis.md` for the Jordan deep dive.
+- **Caution:** Jordan figures have been restated. FY2024 Jordan was $6,988M in the FY24 10-K (p. 34) but $8,701M as recast in the Q4 FY25 release. Use one filing's figures for any trend. See `12_jordan_brand_thesis.md` for the Jordan deep dive.
 
 ## 4. By region (FY2026)
 

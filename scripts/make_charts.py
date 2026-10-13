@@ -290,7 +290,22 @@ note(fig, "Cash provided by operations, additions to property, plant and equipme
           "cash flows in each year's Form 10-K. 'Operating cash flow minus capex' is my arithmetic, not a Nike-reported measure.")
 save("14_cash_returns.png")
 
-# ---------- 15. FY26 revenue mix: channel, product, region ----------
+# ---------- 15. EBIT margin by region ----------
+regs = [("north_america", "North America", BLUE), ("greater_china", "Greater China", RED), ("apla", "APLA", AQUA),
+        ("emea", "EMEA", VIOLET), ("converse", "Converse", MUTED)]
+fig, ax = plt.subplots(figsize=(8.8, 4.6))
+for key, lab, col in regs:
+    m = [100 * v(f"ebit_{key}", p) / v(f"revenue_{key}", p) for p in FY]
+    ax.plot(FYL, m, color=col, lw=2, marker="o", ms=4)
+    nudge = {"apla": 0.9, "greater_china": -0.9}.get(key, 0)
+    ax.text(len(FYL) - 1 + 0.12, m[-1] + nudge, f"{lab} {m[-1]:.1f}%", va="center", fontsize=8, color=INK2)
+ax.set_xlim(-0.3, len(FYL) + 1.3); ax.set_ylim(0, 42); ax.set_ylabel("EBIT / segment revenue (%)")
+ax.set_title("Greater China fell from Nike's most profitable region (39% in FY21) to 22%; North America now leads")
+note(fig, "Segment EBIT divided by segment revenue (my arithmetic) from the segment note in each year's Form 10-K; page-level citations in "
+          "data/nike_filing_facts.csv. Segment EBIT excludes Global Brand Divisions and Corporate costs. FY26 North America and Converse include "
+          "$965M and $21M of expected IEEPA tariff recovery (FY26 10-K p. 30), which Nike says largely offsets tariffs recognized in FY26.")
+save("15_region_ebit_margin.png")
+# ---------- 16. FY26 revenue mix: channel, product, region ----------
 T = v("revenues", "FY2026")
 oth = v("revenue_global_brand_divisions", "FY2026") + v("revenue_corporate", "FY2026")
 panels = [
@@ -321,9 +336,9 @@ fig.suptitle("FY26: wholesale is 60% of revenue, footwear 64%; licensing and oth
              fontweight="bold", fontsize=11, x=0.01, ha="left", y=0.97)
 note(fig, "FY26 Form 10-K: revenues p. 55; product, segment and Jordan p. 32; stores and digital ($9.1B and $8.6B, rounded) p. 33; channel totals "
           "incl. Converse p. 83; Converse DTC and licensing p. 41. 'Other' is Global Brand Divisions ($49M) plus Corporate ($2M). Shares are my arithmetic.")
-save("15_revenue_mix_fy26.png")
+save("16_revenue_mix_fy26.png")
 
-# ---------- 16. Jordan Brand: like-for-like series and the two resets ----------
+# ---------- 17. Jordan Brand: like-for-like series and the two resets ----------
 # Each year-on-year ratio uses two values from the same filing, so the chain crosses the FY2022
 # category change and the FY2025 removal of wholesale equivalent reporting without mixing bases.
 jr = {"FY2018": v("revenue_jordan", "FY2018") / v("revenue_jordan", "FY2017"),
@@ -362,9 +377,9 @@ fig.suptitle("Jordan is 19% below its FY24 peak; the FY18 reset was back above p
 note(fig, "Each year's change uses two values from the same filing (FY19, FY20, FY22, FY23, FY25 and FY26 10-Ks), chained and scaled to the FY26 reported "
           "figure ($7,034M, FY26 10-K p. 32). Earlier years were reported on a wholesale equivalent basis and before the FY22 category change, so the "
           "back-cast dollar levels are my arithmetic, not Nike figures. Q1 FY27: Jordan fell by mid-teens (Q1 FY27 call, Oct 1, 2026); not plotted.", y=-0.04)
-save("16_jordan_resets.png")
+save("17_jordan_resets.png")
 
-# ---------- 17. Jordan: resale premiums and search interest against revenue ----------
+# ---------- 18. Jordan: resale premiums and search interest against revenue ----------
 import statistics
 rs = [r for r in csv.DictReader(open(os.path.join(DATA, "jordan_resale_goat_20261013.csv")))
       if r["collab_or_special"] == "False" and r["premium_primary_DERIVED"]]
@@ -403,7 +418,7 @@ fig.suptitle("Interest in retro Jordans fell before the supply cuts, and resale 
 note(fig, "Left: median of per-size last sales (US 7 to 13) on GOAT divided by retail, general releases only, 247 shoes, observed Oct 13, 2026 "
           "(data/jordan_resale_goat_20261013.csv); one snapshot, so older releases have had longer to drift; my arithmetic. Right: Google Trends US, "
           "July to September average of each calendar year, mapped to the Nike fiscal year it falls in (data/google_trends_jordan_julsep.csv); revenue "
-          "index from chart 16. Search indices are scaled to each term's own peak and are not a measure of units.", y=-0.04)
-save("17_jordan_demand_tests.png")
+          "index from chart 17. Search indices are scaled to each term's own peak and are not a measure of units.", y=-0.04)
+save("18_jordan_demand_tests.png")
 
 print("done", sorted(os.listdir(OUT)))
