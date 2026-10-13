@@ -37,7 +37,7 @@
 
 - Jordan Brand revenue was **$7,034M in FY2026, down 3%**, about 15% of NIKE, Inc. revenue (FY26 10-K p. 32). It is included in the NIKE Brand footwear and apparel lines above, not additional to them.
 - Jordan is the only sub-brand Nike breaks out, which makes it the largest disclosed stream outside the channel and product splits.
-- **Caution:** Jordan figures have been restated. FY2024 Jordan was $6,988M in the FY24 10-K (p. 34) but $8,701M as recast in the Q4 FY25 release. Use one filing's figures for any trend. A Jordan deep dive is in progress.
+- **Caution:** Jordan figures have been restated. FY2024 Jordan was $6,988M in the FY24 10-K (p. 34) but $8,701M as recast in the Q4 FY25 release. Use one filing's figures for any trend. See `07_jordan_brand_thesis.md` for the Jordan deep dive.
 
 ## 4. By region (FY2026)
 
