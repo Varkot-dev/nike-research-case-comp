@@ -176,3 +176,161 @@ Honest central estimate: **tariffs and costs explain none of the revenue decline
 | Sportico, "Nike Sued for Refunds Over Trump's Illegal Tariff Price Hikes" (scratchpad text) | 2026-05 | OPENED | class period Jun 1, 2025 to Feb 24, 2026 |
 | Reuters via Yahoo Finance, "Skechers to go private for $9.42 billion" (scratchpad text) | 2025-05-05 | OPENED | context: Skechers' China sourcing exposure and tariff-driven forecast withdrawal |
 | Companion notes: china.md, macro_covid_cycle.md, franchise_oversupply.md | 2026-10-13 | REPO-NOTE | China timing, lululemon and adidas China growth, peer revenue growth |
+
+---
+
+## Challenge: REFUTER
+
+Date: 2026-10-13. Lens: try to disprove the hypothesis that tariffs, freight and sourcing costs explain Nike's margin and earnings decline, and re-check the investigator's numbers against primary sources. Web search was unavailable in this step (the session's search budget was exhausted), so every check below uses primary filings and transcripts already saved in the session scratchpad, plus repo data. Status labels follow the convention above. All arithmetic is mine.
+
+**Refuter verdict: the hypothesis does not survive. Tariffs are a minor, one-year, mostly refunded gross margin item. I agree with "minor" and would push the central share lower than 30% on the economically relevant (reported, refund-included) basis.**
+
+### R1. Number checks against primary sources (all held)
+
+| Claim in notes | Primary source checked | Result |
+|---|---|---|
+| FY26 bridge: product costs -20 bps, logistics +20, FX +20, other +20, Converse -20; no ASP line | FY26 10-K (nke-20260531.htm), gross margin section, OPENED | Confirmed word for word. |
+| $986M IEEPA recovery, $965M NA, $21M Converse, "largely offsetting" FY26 IEEPA tariffs; $302M received, $684M receivable at May 31, 2026 | FY26 10-K, OPENED | Confirmed. |
+| Refund receivable collected after year end | Q1 FY27 10-Q (nke-20260831.htm), cash flow discussion, OPENED: "decreases in Accounts receivable ... primarily due to receipt of the International Emergency Economic Powers Act tariff receivable" | Confirmed. The refund is cash, not an accrual at risk. |
+| Q4 FY26: 900 bps refund benefit; ex-refund GM 40.2%, -10 bps; FY26 ex-refund GM 40.8%, EPS $1.58 | Q4 FY26 call transcript (Nike IR PDF, scratchpad text), OPENED | Confirmed. |
+| Q4 FY25 call: $1B gross estimate, about 100 bps Q1 FY26 hit, 75 bps FY26 net | Q4 FY25 call transcript, OPENED | Confirmed. One nuance the notes omit: Q4 FY25 inventory "increased due partially to ... new tariffs", so a small tariff cost was capitalized into inventory before FY26. Immaterial to the conclusion. |
+| 62% of log decline before Apr 2, 2025 | `data/nke_daily_prices.csv` (REPO): close $177.51 (2021-11-05), $64.96 (2025-04-02), $35.35 (2026-10-12) | Recomputed: 62.3%. Confirmed. |
+| Revenue NA -4.1%, ex-NA -13.6% FY24 to FY26 | REPO segment revenue | Recomputed: ex-NA $29,966M to $25,887M. Confirmed. |
+| On GM 62.8% vs 60.6%, sales +30% | On 20-F FY2025 (scratchpad text), OPENED | Confirmed. |
+| Deckers GM 57.7% vs 57.9%, "primarily due to incremental tariffs ... partially offset by cost-sharing arrangements, strategic price increases" | Deckers 10-K FY2026 (deck-20260331), OPENED | Confirmed. |
+
+Small inconsistency found: the notes' "about $2.96B of segment EBIT loss outside NA" uses Converse **reported** FY26 EBIT ($18M, decline $456M) while NA is shown **ex-refund**. On a consistent ex-refund basis Converse is about -$3M in FY26 (18 minus the $21M refund), so its FY24 to FY26 decline is $477M and the non-NA total is about **$2.98B**. This changes nothing material.
+
+### R2. New natural experiment the notes missed: the 2019 Section 301 tariffs (FY2020)
+
+Nike faced an earlier round of incremental US tariffs (the 2019 Section 301 duties on Chinese goods, which covered much footwear and apparel). The FY2020 10-K (filed 2020-07-24, OPENED) says FY20 gross margin fell 130 bps because higher full-price ASP "was more than offset by higher product costs due to incremental tariffs in the U.S., as well as factory cancellation charges, higher inventory obsolescence reserves" and Q4 COVID costs. It also says: "For the first nine months of fiscal 2020, gross margin expanded 30 basis points" before the COVID quarter, and North America's product cost increase was "primarily due to incremental tariffs".
+
+Over the same pre-COVID nine months, revenue rose from $28,933M to $31,090M (+7.5%, REPO, Q3 FY20 release).
+
+**What this shows:** the same kind of cost shock, hitting the same segment, was absorbed by full-price ASP when the brand was healthy. Gross margin *rose* and revenue grew. The hypothesis predicts that tariffs mechanically compress margin. The 2019 episode shows the damage depends on pricing power, which is the upstream variable. Tariffs amplify a weak-demand problem; they do not cause one. This supports the investigator's "symptom" paragraph with a within-company control, not just peer comparisons.
+
+### R3. Even in FY2026, segments with no tariff exposure fell by about as much as the whole company
+
+Ex-refund segment EBIT FY25 to FY26 (REPO; NA and Converse ex-refund):
+
+| Segment | FY25 | FY26 ex-refund | Change |
+|---|---|---|---|
+| North America | 4,735 | 4,411 | -324 |
+| EMEA | 2,575 | 2,417 | -158 |
+| Greater China | 1,602 | 1,278 | -324 |
+| APLA | 1,527 | 1,387 | -140 |
+| Converse | 240 | -3 | -243 |
+| Corporate plus Global Brand Divisions | -6,901 | -6,626 | +275 |
+| **Total EBIT** | **3,778** | **2,864** | **-914** |
+
+- Segments with no US tariff exposure (EMEA, Greater China, APLA) plus Converse lost **about $865M**, which is **95%** of the -$914M total. Converse does carry some US tariff exposure, but its refund was only $21M, and Nike blames its FY26 margin on discounts, obsolescence and reset costs (FY26 10-K: Converse "Gross margin contraction of 490 basis points primarily due to lower ASP, as well as the brand and marketplace reset costs", OPENED).
+- North America, which absorbed roughly $1B of gross tariffs, fell only $324M ex-refund. So NA's *underlying* EBIT rose by roughly $0.65B to $0.7B before tariffs.
+- So the "without tariffs FY26 EBIT would have risen" argument is true only in arithmetic. The underlying pattern is an NA recovery offset by deterioration everywhere else. Tariffs hid an NA improvement. They did not cause the company-wide earnings fall. The weakness outside NA would have produced almost the same consolidated decline on its own.
+
+### R4. Revenue: the tariff-exposed segment gained units in the tariff year
+
+FY26 10-K North America (OPENED): "Unit sales of footwear increased 6%" and "Wholesale revenues increased 14%" while "Lower ASP per pair ... primarily due to channel mix, partially offset by ... strategic pricing." A tariff-driven price response would show up as fewer units in the tariff-exposed market. The opposite happened. This adds a units test to the investigator's revenue finding, and the revenue share of about 0% holds.
+
+### R5. Q4 FY26 shows the margin swing came from discounts, not costs
+
+Q4 FY26 call (OPENED): ex-refund gross margin was down only 10 bps against guidance of down 25 to 75, and "the biggest driver was discount improvement that we're seeing in North America." North America ex-refund EBIT was "down 1%." The margin line that moves the most and shows up as a surprise is discounting, the same driver as in FY25 (ASP -180 bps). Tariffs were a known, guided and stable cost.
+
+### R6. Where the notes may *overstate* the tariff share
+
+1. **Ex-refund framing.** The 24% to 41% EBIT share is calculated on an ex-refund basis. The refund is real and collected (R1), so the economic, reported-basis share is the investigator's own **4% to 7%**. An earnings decline that is 93% to 96% unexplained after counting the refund cannot be "explained" by tariffs.
+2. **Gross vs incremental.** The $1.5B "annualized" figure assumes a full year at peak rates. FY26 recognized only about $1.0B (Q3 FY26 10-Q: about $1.0B paid by Apr 1, 2026, REPO; the refund was booked as "largely offsetting" FY26 IEEPA tariffs). The 41% upper bound should therefore be dropped. A range of about 27% to 31% ex-refund ($1.0B to $1.14B) fits the filings better.
+3. **Mitigation counterfactual.** Gross tariffs overstate the true cost, because some of the price and supplier cost-sharing actions would not have been taken without tariffs. Mixing gross cost with a net-of-actions P&L biases the share upward.
+
+### R7. Where the hypothesis has a fair point (honest limits)
+
+- FY26 product costs were the largest negative gross margin line in all three quarterly 10-Qs. In a narrow, single-year, ex-refund sense, tariffs were the biggest FY26 margin item. I could not refute that.
+- Deckers' domestic net sales rose only 0.2% in its FY26 while its international sales rose 26.8% (Deckers 10-K FY2026, OPENED). This is consistent with some US demand softness among tariff-exposed brands. But Nike NA *grew* 5% in the same window, so it does not transfer to Nike.
+- I could not open fresh lululemon, Under Armour or Puma 2025 to 2026 filings in this step (no search budget). Brands with weaker pricing power may have taken larger tariff hits. The peer test therefore rests on On, Deckers and adidas plus Nike's own 2019 history (R2).
+
+### R8. Refuter sizing
+
+| Measure | Notes | Refuter |
+|---|---|---|
+| Revenue FY24 to FY26 and FY27 guide | about 0% | about 0% (confirmed by NA footwear units +6% in FY26) |
+| FY25 margin and EBIT | about 0% | about 0% (costs were a tailwind) |
+| FY24 to FY26 EBIT, reported (refund counted) | 4% to 7% | 4% to 7%, **the relevant measure** |
+| FY24 to FY26 EBIT, ex-refund | 24% to 41%, central 30% | about 27% to 31%; drop the $1.5B upper bound |
+| FY26 alone, ex-refund | tariffs exceed the -$914M decline | arithmetically yes, but non-tariff segments fell by $865M (95% of the decline) |
+| Freight and sourcing | net 0% in the window | agree |
+
+### R9. Sources used in this challenge
+
+| Source | Date | Status |
+|---|---|---|
+| Nike FY2026 Form 10-K, nke-20260531.htm (sec.gov, scratchpad text) | 2026-07-15 | OPENED |
+| Nike Q1 FY2027 Form 10-Q, nke-20260831.htm (sec.gov, scratchpad text) | 2026-10-02 | OPENED |
+| Nike FY2020 Form 10-K, nke-531202010k.htm (sec.gov, scratchpad text) | 2020-07-24 | OPENED |
+| Nike FY2019 Form 10-K (risk factor text on the 2018 to 2019 tariffs) | 2019-07-23 | OPENED |
+| Nike Q4 FY2025 earnings call transcript (Nike IR, scratchpad text) | 2025-06-26 | OPENED |
+| Nike Q4 FY2026 earnings call transcript (Nike IR, scratchpad text) | 2026-06-30 | OPENED |
+| On Holding 20-F FY2025 (sec.gov, scratchpad text) | 2026 | OPENED |
+| Deckers Brands 10-K FY2026, deck-20260331 (sec.gov, scratchpad text) | 2026-05 | OPENED |
+| `data/nike_filing_facts.csv` (segment EBIT, revenue, Q3 FY20 9M revenue) and `data/nke_daily_prices.csv` | through 2026-10-12 | REPO |
+
+---
+
+## Challenge: ROOT-CAUSE
+
+Challenger date: 2026-10-13. Lens: assume the tariff margin hit is real, then ask whether it is a downstream effect of a different cause, and whether another explanation fits the same data better. Research limits: the shared web-search budget for this run was exhausted before this challenge began, so no new web searches were possible. Everything below comes from primary documents already downloaded to the session scratchpad (Nike 10-Qs, 10-K and call transcripts, adidas FY2025 release and investor-call slides, Deckers FY2026 10-K), which I re-read myself (OPENED), plus REPO numbers. All arithmetic is mine and labelled.
+
+### C1. Verdict of the challenge
+
+**The hypothesis as stated does not survive. The investigator's "minor" rating does survive, and the root-cause lens sharpens it.** Tariffs are an exogenous, one-year, mostly refunded overlay on a margin and earnings decline whose upstream cause is oversupply of aging franchises, the discounting needed to clear them, the channel-mix cost of the wholesale rebuild, and fixed-cost deleverage on lower volume. The tariff cost itself is not a symptom. But the part of it that stuck to Nike's margin, and why Nike's margin looked worse than peers' in the tariff year, is a symptom of that upstream cause. Peers with similar tariff intensity offset it with full-price selling. Nike could not.
+
+### C2. New evidence the original notes did not use
+
+1. **Nike's net tariff intensity is about the same as adidas'. What differs is the underlying margin.**
+   - adidas FY2025 investor-call gross margin bridge: "NET EFFECT US TARIFFS -0.5PP", within a total change of +0.8pp to 51.6% (adidas Investor Call FY2025 slides, pp. 58 to 59, published 2026-03-04, OPENED). The FY2025 release credits "lower product and freight costs, a better business mix, as well as a healthy level of full-price sales, which more than offset the significant negative impacts from currencies and higher US tariffs" (adidas FY2025 results release, 2026-03-04, OPENED). adidas North America net sales were EUR 5,087M of EUR 24,811M (same release, OPENED), so 20.5%.
+   - My arithmetic: 50 bps of group sales is about 244 bps of adidas North America sales, for roughly nine months of 2025 tariffs. Nike's own planned net FY26 tariff effect was "approximately 120 basis points" of group gross margin (Q2 FY26 call, 2025-12-18, OPENED). With North America at $20,511M of $46,398M (44.2%, REPO), that is about 271 bps of Nike North America sales.
+   - Reading: net of mitigation, the two companies took a similar tariff bite per dollar of US sales. adidas' underlying margin rose about 1.3pp (0.8 + 0.5) in the same year. Nike's FY26 margin ex-refund and ex-gross-tariffs was about 43.1% (40.8% + about 230 bps), only about 40 bps above FY25's 42.7% and still about 150 bps below FY24's 44.6% (REPO, my arithmetic). The gap between Nike and its peers in the tariff year is the underlying business, not the tariff.
+2. **Nike's planned pricing mitigation was eaten by discounting and channel mix, which is the upstream cause showing through.**
+   - Management planned to cut a gross headwind of "approximately 320 basis points" to a net "approximately 120 basis points" partly through "a surgical price increase in the United States" and cost sharing with suppliers and retail partners (Q4 FY25 call, 2025-06-26; Q2 FY26 call, 2025-12-18; both OPENED).
+   - The 10-Qs show where the price increase went. Q2 FY26: "Lower NIKE Brand ASP (decreasing gross margin approximately 50 basis points), primarily due to channel mix and higher discounts, partially offset by strategic pricing." H1 FY26: ASP -150 bps on the same wording. North America Q2 FY26: "ASP was flat as product mix and strategic pricing were offset primarily by channel mix" (Q2 FY26 10-Q, filed 2025-12-30, OPENED). In the same 10-Q, North America H1 wholesale revenue rose 18% while NIKE Direct fell 6% and digital fell 13%.
+   - Only in Q3 FY26, once obsolescence reserves and discounts eased, did pricing show up: ASP +80 bps "primarily due to strategic pricing and product mix" (Q3 FY26 10-Q, filed 2026-04-01, OPENED).
+   - Reading: the price lever worked when the marketplace was clean and failed while it was being cleared. The tariff cost "stuck" in H1 FY26 because of the clearance and the shift back to wholesale, both decisions rooted in the FY23 to FY25 oversupply and the DTC reversal (companion notes franchise_oversupply.md and dtc_wholesale.md).
+3. **Management's own words in Q1 FY27 name the upstream cause.** CFO Denton: "we're making fairly significant moves in our supply chain and sourcing programs today. That is actually bolstering gross margin. At the same time, we are taking discounts and resetting the marketplace, which is dampening gross margins." EBIT is to "decline by a greater percentage than revenue" on "fixed cost deleverage associated with lower revenue levels" (Q1 FY27 call, 2026-10-01, OPENED). In Q4 FY26: "we are taking actions to tighten buys, reduce future sell-in and manage inventory" (Q4 FY26 call, 2026-06, OPENED). Costs are now a tailwind. Supply and discounts are the drag.
+4. **The tariff hit sits inside a North America segment whose underlying margin was improving.** Q4 FY26 North America: EBIT "excluding the tariff refund benefit ... would have declined 1%" while "underlying gross margin profitability continued to improve year-over-year" (Q4 FY26 call, OPENED). Q1 FY26 North America: "Overall product costs were flat as higher tariffs were offset primarily by product mix" (Q1 FY26 10-Q, filed 2025-10-01, OPENED). The segment that paid the tariffs is the segment where the business stabilized first. The segments that kept deteriorating paid no US tariffs: EMEA FY26 margin -140 bps "primarily due to lower ASP, reflecting higher discounts"; Converse -490 bps "primarily due to lower ASP, as well as the brand and marketplace reset costs, including higher inventory obsolescence reserves" (FY26 10-K, filed 2026-07-15, OPENED).
+5. **Tariff-free counterfactual.** FY26 ex-refund EBIT $2,864M plus gross tariffs of about $1,070M to $1,140M gives about $3.93B to $4.00B. That is still about 39% to 40% below FY24's $6,539M, and only about 4% to 6% above FY25's $3,778M, which had no new tariffs (REPO, my arithmetic). Even if tariffs had never existed, Nike's EBIT would have fallen about 40% from its peak. FY25 EBIT, the low point, owes nothing to tariffs.
+6. **Deckers is a weak "clean peer" for the revenue side, but it confirms the margin mechanism.** Deckers FY2026 domestic net sales grew only 0.2% to $3,191.5M while international grew 26.8% (Deckers 10-K FY2026, OPENED). So US demand was soft for Deckers too. Yet its gross margin fell only 20 bps to 57.7%, "primarily due to incremental tariffs ... partially offset by cost-sharing arrangements, strategic price increases, and favorable product mix" (same, OPENED). A brand with no clearance problem kept its price increases. That is the variable that separates Deckers and adidas from Nike.
+7. **Inventory timing does not change the picture.** Nike inventory was $7,489M at May 31, 2025 and $7,726M at Nov 30, 2025, with the 10-Q attributing the rise to "increased product costs including higher tariffs in North America" (REPO; Q2 FY26 10-Q, OPENED). Units were not built ahead of tariffs (FY25 year-end inventory was flat with FY24's $7,519M, REPO), so Nike neither pre-bought to dodge tariffs nor carried an unusual tariff-laden overhang. The tariff flowed through COGS roughly as paid, in FY26 only.
+
+### C3. Does a different explanation fit the same data better?
+
+| Data pattern | Tariff explanation | Oversupply, discounting and deleverage explanation |
+|---|---|---|
+| FY25 margin -190 bps with product costs +80 and logistics +20 | Fails | Fits: ASP -180 (discounts, channel mix), obsolescence -90 |
+| H1 FY26 price increase invisible in ASP | Silent | Fits: "channel mix and higher discounts, partially offset by strategic pricing" |
+| Q3 FY26 ASP +80 once reserves and discounts eased | Silent | Fits: pricing works when clearance ends |
+| EMEA, China, Converse margins fall with no US tariff exposure | Fails | Fits: every one cites discounts or reset costs |
+| adidas and Deckers absorb similar net tariff intensity and still hold or grow margin | Fails | Fits: full-price sales offset tariffs |
+| FY27 EPS guided about 21% lower with costs a tailwind | Fails | Fits: "fixed cost deleverage associated with lower revenue levels" |
+| FY26 ex-refund EBIT would have risen without tariffs | Fits (narrowly) | Also fits: FY26 was the year the clearance began to lap |
+
+The upstream explanation fits every row. The tariff explanation fits one row, and that row is also consistent with the upstream one.
+
+### C4. Revised attribution (challenger view)
+
+- Revenue: 0% (agree).
+- FY25 margin and EBIT collapse: 0% (agree).
+- FY24 to FY26 ex-refund EBIT decline: gross tariffs about 24% to 41% of the dollars (agree on arithmetic). But about half of that is the net, unavoidable cost that adidas also absorbed (about 120 bps of the 230 bps). The rest is the mitigation that failed because pricing was swallowed by discounting and channel mix, so it belongs to the oversupply cause. Cleanly exogenous tariff share: about 15% of the ex-refund EBIT decline, falling to about 4% to 7% once the $986M refund is counted.
+- Freight and sourcing: 0% in the decline window (agree).
+
+### C5. Sources for this challenge
+
+| Source | Date | Status | Used for |
+|---|---|---|---|
+| adidas FY2025 Investor Call slides (adidas-group.com PDF, scratchpad text) | 2026-03-04 | OPENED | "NET EFFECT US TARIFFS -0.5PP"; GM bridge +0.8pp |
+| adidas FY2025 results release (adidas-group.com PDF, scratchpad text) | 2026-03-04 | OPENED | North America EUR 5,087M of EUR 24,811M; full-price sales offset tariffs |
+| Nike Q1 FY2026 10-Q (nke-20250831) | 2025-10-01 | OPENED | NA "product costs were flat as higher tariffs were offset primarily by product mix" |
+| Nike Q2 FY2026 10-Q (nke-20251130) | 2025-12-30 | OPENED | ASP lines, NA "ASP was flat as product mix and strategic pricing were offset primarily by channel mix", NA wholesale +18%, Direct -6% |
+| Nike Q3 FY2026 10-Q (nke-20260228) | 2026-04-01 | OPENED | ASP +80 bps on strategic pricing |
+| Nike FY2026 10-K (nke-20260531) | 2026-07-15 | OPENED | EMEA and Converse margin drivers |
+| Nike Q1 FY2027 10-Q (nke-20260831) | 2026-10 | OPENED | Q1 FY27 bridge |
+| Nike Q4 FY25, Q2 FY26, Q4 FY26, Q1 FY27 call transcripts (investors.nike.com, scratchpad text) | 2025-06-26 to 2026-10-01 | OPENED | mitigation plan, NA underlying margin, "tighten buys", Denton on sourcing tailwind vs discount drag |
+| Deckers 10-K FY2026 (sec.gov, scratchpad text) | 2026-05 | OPENED | domestic sales +0.2%, GM 57.7% and drivers |
+| `data/nike_filing_facts.csv` | 2026-10-12 | REPO | inventories, EBIT, segment revenue |

@@ -180,3 +180,163 @@ Gross margin: the ASP drag (discounts and mix) was about 180 bps in FY25 (about 
 | Soysal and Krishnamurthi (2012) Marketing Science 31(2):293-316, DOI 10.1287/mksc.1110.0693 | 2012 | SNIPPET | Strategic waiting cuts revenue about 9% |
 | Deckers call summaries (MarketBeat, Nasdaq) | 2023 to 2026 | SNIPPET | Hoka full-price selling (qualitative) |
 | Repo notes reused: `franchise_oversupply.md`, `dtc_wholesale.md`, `marketing_shift.md`, `china.md`, `retailers_and_resale.md`, `adidas_gulden.md`, `under_armour_plank.md`, `nike_standing.md`, `china_market.md` | 2026-10-13 | REPO | Stack "hangover," China discount data, adidas and UA playbooks, Q1 FY27 Denton quotes |
+
+## Challenge: REFUTER
+
+Date: 2026-10-13. Lens: try to disprove the hypothesis and check the investigator's numbers against primary sources. Sources are local text copies of Nike's official IR call transcripts (investors.nike.com PDFs, read in full this session), Nike 10-K and 10-Q filings on SEC EDGAR (local text copies read), FRED, and adidas' and Piper Sandler's own PDFs. All marked OPENED were read this session. Limit: the session's shared WebSearch budget ran out before this check started. So I found no new third-party discount-rate series after early 2024, and I could not re-open the Reuters/Vertical Knowledge article. Its 44% figure stays as the investigator's OPENED citation, not re-verified by me.
+
+### R1. Numbers checked against primary sources
+
+| Claim in the notes | Check | Result |
+|---|---|---|
+| Digital $12.1B (FY24) to $8.6B (FY26); NIKE Brand -$4.1B; about 85% in Digital | REPO `revenue_nike_brand` 49,322 to 45,222 = -4,100; `revenue_nike_brand_digital` 12.1 to 8.6 | Arithmetic correct (85%). But the "wholesale flat" claim only holds as a two-year endpoint. Wholesale fell $1,875M (-7%) in FY25 (27,758 to 25,883) and then recovered. |
+| FY25 footwear ASP -3 pts, units -8%, gross margin ASP drag 180 bps | FY25 10-K MD&A (OPENED) | Correct. But the 10-K attributes the ASP decline to "higher discounts **and changes in channel mix**, partially offset by strategic pricing actions." It does not split the two. |
+| FY26 ASP -1 pt counted as discounting | FY26 10-K MD&A (OPENED): "Lower ASP per pair was primarily due to channel mix, partially offset by product mix and strategic pricing" | **Wrong attribution.** Discounts are not named as a FY26 driver. The about $0.2B net for FY26 should not be counted as discounting. |
+| US CPI footwear +5.8% May 2021 to May 2024 | FRED CUUR0000SEAE fetched 2026-10-13 (OPENED): 138.385 to 146.401 | Correct (+5.79%). |
+| "50% full price and 50% off price" | Q2 FY25 transcript, Dec 19, 2024 (OPENED) | Verbatim, about NIKE Digital profitability. |
+| "Over 30 promotional days to zero" | Q3 FY25 transcript, Mar 20, 2025 (OPENED) | Verbatim, NA Digital, Jan to Feb vs prior year. |
+
+### R2. Leg A ("aggressive price increases") is overstated: ASP is not list price
+- **FY22 ASP was mostly mix and fewer markdowns, not price increases.** FY22 10-K (OPENED): the +7 pt ASP was "primarily due to higher NIKE Direct ASP, the favorable impact of growth in our NIKE Direct business, higher full-price ASP, net of discounts ... and a higher mix of full-price sales." Nike Direct is booked at retail price, so moving to DTC raises ASP mechanically.
+- **So the +17.9% ASP vs +5.8% CPI comparison mixes up two different things.** Nike's own stated list-price actions were:
+  - low single digits in the second half of FY22 (Q1 FY22 and Q3 FY22 calls, OPENED);
+  - mid single digits in FY23 (Q4 FY22 and Q2 FY23 calls, OPENED);
+  - low single digits in FY24 (Q4 FY23 call, OPENED).
+- **In real terms, list prices fell.** Those increases compound to roughly 8% to 10% (my estimate from the stated ranges). That is close to footwear CPI (+5.8%) and well below all-items CPI (+16.7%). "Aggressive" list pricing is not supported. The price-level leg survives only as a price-*architecture* choice (exiting sub-$100). That is a product and distribution decision, not a pricing-and-discounting mechanism.
+- **The FY24 cross-section that the notes use is confounded.**
+  - Greater China units +8% at ASP -2 in FY24 was the post-lockdown reopening year (FY23 included the 2022 lockdowns).
+  - NA footwear units -7% in FY24 lapped +17% in FY23 liquidation volume. The two-year NA unit stack is still positive (my arithmetic: 1.17 x 0.93 = about +9%).
+
+### R3. Time series: the biggest promotion wave was followed by stronger full-price pricing, not weaker
+- **FY23 was Nike's heaviest promotional year.** FY23 10-K (OPENED): Direct margin fell on "higher promotional activity to liquidate inventory."
+- **"Trained to wait" predicts weak full-price realization in FY24. The opposite happened.** FY24 10-K (OPENED): gross margin +110 bps, with "Higher NIKE Brand full-price ASP, net of discounts ... (increasing gross margin approximately 200 basis points), primarily due to strategic pricing actions." Consumers paid more for full-price Nike right after the liquidation year.
+- **Adidas shows the same pattern.** It liquidated Yeezy and excess inventory in 2023, then returned to full-price growth with gross margin at 51.6% in 2025 (adidas FY2025 results PDF, OPENED). Heavy promotion did not durably impair either brand when product heat existed.
+
+### R4. Channel localisation fails on timing and dose-response
+The notes treat the Digital collapse as revenue that existed only because of promotions. The quarterly data does not support that.
+
+- **Digital fell hardest while promotions were rising, not after they were cut.** Global NIKE Digital (calls, OPENED):
+  - Q3 FY24: -4%, during a "heavy level of promotional activity happening across digital."
+  - Q4 FY24: -10%.
+  - Q1 FY25: -20%.
+  - Q2 FY25: NA -22% and EMEA -32%, in the same quarter that "on NIKE Digital, our off-price mix was up high single digits." Friend later called it "a much higher level of digital promotions in EMEA last year in the second quarter" (Q4 FY26 call).
+  - More discounting did not hold Digital volume up.
+- **Cutting promotions did not cause a step down.**
+  - NA Digital went from -22% (Q2 FY25, promotional) to -12% (Q3 FY25, the Jan to Feb window with zero promotional days). Removing promotions coincided with a *smaller* decline.
+  - EMEA Digital: -32% with heavy promotions (Q2 FY25) and -24% with off-price "down over 50%" (Q4 FY26). The rate of decline barely depended on how heavy promotions were.
+- **Nike's own explanation is supply and traffic.**
+  - Q1 FY25 (OPENED): the classic franchises "were down nearly 50% versus the prior year on NIKE Digital while we saw much better sales trends in wholesale." That was a deliberate allocation cut.
+  - Q3 FY25 and Q1 FY26 (OPENED): paid media was cut, "reduced the classic share of business," and "reduced the launch share of business."
+  - FY25 10-K (OPENED): results "reflected a decrease in traffic across NIKE Direct."
+  - Removing promotional days is one of five simultaneous actions. Nothing in the data isolates it.
+- **The investigator's figure for promotion-dependent Digital revenue is a judgment, not a measurement.** The "$0.5B to $1.0B net" comes from "I assign about a third." The dose-response pattern above gives no support for a separate promotion component of that size.
+
+### R5. After the discount drag ended, the decline continued and became pure volume
+- **The ASP drag is now small.** Q1 FY27 10-Q (OPENED): NIKE Brand footwear -6% currency-neutral, units -5%, ASP only -1 pt ("channel mix and higher discounts, partially offset by strategic pricing"). The investigator's own series puts the gross-margin ASP drag at 30 bps.
+- **Greater China is the decisive case.** This is where the notes say the mechanism "holds best."
+  - FY26: footwear units -14%, with lower ASP "partially offset by lower discounts" (FY26 10-K, OPENED).
+  - Q1 FY27: footwear units -26%, ASP flat "as lower discounts were offset primarily by channel mix" (Q1 FY27 10-Q, OPENED).
+  - Discounts are falling, yet the unit decline is getting worse.
+- **The peer test shows the market is not the problem.** In the same market and the same promotional environment, adidas Greater China grew +15% currency-neutral in Q2 2026 and +16% in H1 2026. Adidas described the period as "heightened promotional activity in the marketplace" (adidas Q2 2026 results, Aug 2026, OPENED).
+- **What adidas' growth points to.** It shows that consumers in China still buy foreign sportswear at full price. That is consistent with "Nike consumers were trained to wait" only if the training is Nike-specific. The simpler reading is that Nike lost demand in China for product and competitive reasons, and Nike is now removing the discounts that were masking that loss.
+
+### R6. Value-perception and brand-heat data
+- **Teen mindshare fell, but the fall does not track the discount waves.** Piper Sandler Taking Stock With Teens infographics (Piper Sandler PDFs, OPENED; scratchpad copies): Nike footwear mindshare was 60% (Spring 2022), 61% (Spring 2023), 57% (Fall 2024) and 49% (Spring 2025). Spring 2024 noted a loss of 510 bps among upper-income teens in athletic footwear.
+  - The decline begins in 2024, after the FY23 promotion wave had already been followed by strong full-price FY24.
+  - It lines up with lifestyle-classics fatigue and challenger growth (New Balance gained about 200 bps in Fall 2023).
+  - This is brand heat, not value perception. The YouGov US Value rise (15.4 to 22.5) still contradicts the "eroded value perception" part of the hypothesis.
+
+### R7. Revised quantification (refuter view)
+| Component | Investigator | Refuter | Why |
+|---|---|---|---|
+| Lower realized ASP | about $1.2B | about $0.4B to $0.7B | Only the FY25 discount share of the -3 pts counts. The 10-K pairs discounts with channel mix, and the channel mix follows mechanically from the Digital decline. The FY26 -1 pt is channel mix by the 10-K's own wording. All of it is clearing of oversupplied classics (upstream). |
+| Promotion-dependent Digital revenue | $0.5B to $1.0B net | about $0B to $0.3B | No step down when promotions were cut. The decline was steepest at peak promotion (R4). |
+| Price architecture | $0B to $0.5B | $0B to $0.3B | List prices fell in real terms. The sub-$100 exit is a product and distribution choice, already in `dtc_wholesale.md`. |
+| **Mechanism total** | $1.5B to $2.5B (30% to 50%) | **about $0.5B to $1.2B (10% to 25%)** | |
+| **Independent of other causes** | $0.5B to $1.0B (10% to 20%) | **about $0.2B to $0.5B (5% to 10%)** | Mainly the Greater China and EMEA promotion habit beyond what clearance needed (the Q3 FY26 EMEA relapse). |
+
+The gross-margin effect is real. The 180 bps in FY25 is confirmed (FY25 10-K), but it includes the channel-mix effect, and most of the drag is the cost of clearing upstream oversupply.
+
+### R8. Refuter verdict
+- **As a root cause of the revenue decline, the hypothesis does not survive.** Its specific predictions fail:
+  - List prices did not outrun inflation in real terms.
+  - The heaviest promotion year (FY23) was followed by stronger full-price pricing (FY24).
+  - Digital fell hardest while promotions rose and did not step down when they were cut.
+  - Units kept falling in FY25 when Nike was cheaper.
+  - Units are falling faster in China now that discounts are being cut, while adidas grows in the same market.
+- **What does survive.** Nike discounted more than its peers (Vertical Knowledge, early 2024), and discounting cut FY25 gross margin. Both are consequences of the classics oversupply and of a Digital model that depended on traffic.
+- **Verdict:** symptom of another cause, with a smaller independent share than the investigator estimated (about 5% to 10%).
+
+### R9. Refuter sources
+| Source | Date | Status |
+|---|---|---|
+| Nike call transcripts Q1 FY22, Q3 FY22, Q4 FY22, Q2 FY23, Q4 FY23, Q3 FY24, Q4 FY24, Q1 FY25, Q2 FY25, Q3 FY25, Q4 FY25, Q1 FY26, Q4 FY26, Q1 FY27 (investors.nike.com PDFs; local text) | 2021-09-23 to 2026-10-01 | OPENED |
+| Nike FY2022, FY2023, FY2024, FY2025, FY2026 10-K MD&A and gross margin sections (sec.gov/Archives/edgar/data/320187/..., local text) | 2022-07-21 to 2026-07 | OPENED |
+| Nike Q1 FY2027 10-Q, nke-20260831.htm (sec.gov) | filed 2026-10-02 | OPENED |
+| REPO `data/nike_filing_facts.csv` (revenue_nike_brand, revenue_nike_brand_digital, revenue_wholesale, segment channel lines) | 2026-10-12 | REPO |
+| FRED CUUR0000SEAE, fred.stlouisfed.org/graph/fredgraph.csv?id=CUUR0000SEAE | fetched 2026-10-13 | OPENED |
+| adidas Q2 2026 results PDF (adidas-group.com) | Aug 2026 | OPENED |
+| adidas FY2025 results PDF (adidas-group.com) | Mar 2026 | OPENED |
+| Piper Sandler Taking Stock With Teens infographics, Spring 2022 to Spring 2025 (pipersandler.com PDFs) | 2022 to 2025 | OPENED |
+
+## Challenge: ROOT-CAUSE
+
+Challenge date: 2026-10-13. Lens: accept that the symptom is real (Nike took price, then discounted heavily, and full-price demand fell) and ask whether pricing and discounting is itself the downstream effect of a different cause. Status labels as above. Nike call quotes were re-read by me from the official Nike IR transcript PDFs (full-text copies in the session scratchpad): **OPENED**. Nike, Deckers and adidas filings and results releases were read by me from EDGAR or company IR copies saved in the session scratchpad: **OPENED**. Quarterly Digital growth rates are from `data/nike_filing_facts.csv` (**REPO**, each row cites its 10-Q and page). All arithmetic is mine. Note: the shared web-search budget for this run was exhausted before this pass began, so this challenge rests on primary documents already downloaded plus the repo, and I did not work around the limit.
+
+### Verdict
+**The investigator's "symptom" verdict survives, and the independent share should be cut further.** Each leg of the hypothesis traces upstream to something else: the price increases to COVID-era cost inflation that the whole industry passed through, the discount waves to supply shocks and the classics concentration, the sub-$100 exit to the Consumer Direct Acceleration (CDA) account cuts, and the Digital revenue collapse to the deliberate pull of classics from Digital plus a traffic loss that was already under way while promotions were *rising*. The cleanest new test (RC2) shows Digital fell about 20% a quarter in H1 FY25 while off-price mix on Digital was going *up*, before the North America promotional days were cut. That is the opposite of what "revenue lost when promotions were removed" predicts. A peer natural experiment (RC4) shows adidas ran the same price-up, discount-down sequence in the same years, including a 36% collapse with inventory takebacks in Greater China, and then grew double digits in every region once its product was hot. Consumers were not durably "trained" against a brand whose product they wanted. My estimate of the truly independent share: **about 0% to 5% of the FY24 to FY26 decline (up to about $0.25B)**, versus the investigator's 10% to 20%. As a transmission mechanism (non-additive) the investigator's $1.5B to $2.5B is reasonable for FY25 margin and ASP, but most of its Digital component belongs to the classics and CDA notes.
+
+### RC1. The price increases were cost pass-through, and the industry did the same
+- **FY23 10-K (filed 2023-07-20, OPENED), Overview:** "Inflationary pressures, including higher product input, freight and logistics costs negatively impacted gross margin for fiscal 2023. The strategic pricing actions we have taken partially offset the impacts of these higher costs." Gross margin fell 250 bps to 43.5% *despite* the mid-single-digit increases. In North America, gross margin contraction of 310 bps came from "higher input costs and inbound freight and logistics costs ... partially offset by higher full-price ASP, net of discounts, largely due to strategic pricing actions." [FY23 10-K](https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm)
+- **FY22 10-K (filed 2022-07-21, OPENED):** FY22 margin expansion was "partially offset by elevated freight and logistics costs"; management listed "pricing actions" among mitigation steps for supply-chain disruption. [FY22 10-K](https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm)
+- **adidas FY2022 results (released 2023-03-08, OPENED, adidas IR PDF):** "Broad-based price increases were more than offset by the strong increase in supply chain costs." Q4 2022 gross margin fell 9.9 pts to 39.1% on "significantly higher supply chain costs as well as the strong increase in promotional activity."
+- **Deckers FY2024 10-K (period ended 2024-03-31, filed 2024-05-24, OPENED, accession 0000910521-24-000017):** gross margin rose to 55.6% from 50.3% helped by "selective price increases" and "favorable full-price selling"; HOKA net sales grew 27.9% to $1,806.7M. A peer raised prices in Nike's FY24 window and grew fast.
+- **Reading:** a list-price rise that only partly covered cost inflation, and that peers matched, is not "aggressive pricing" in a causal sense. The upstream cause of leg (A) is the 2021 to 2022 cost and freight shock. The part that is Nike-specific is narrower: FY24 full-price ASP added 200 bps (REPO) once freight normalised, i.e. Nike kept the price after the cost went away. That residual is small and coincided with units -2% in FY24, which lapped FY23 liquidation volume.
+
+### RC2. New timing test: Digital collapsed while promotions were rising, not after they were cut
+- Nike Brand Digital growth (REPO, 10-Qs): Q1 FY24 +2%, Q2 FY24 +1%, Q3 FY24 -4%, **Q1 FY25 -20%, Q2 FY25 -21%**, Q3 FY25 -15%.
+- **Q1 FY25 call (Oct 1, 2024, OPENED), Friend:** "Traffic declines across NIKE Direct were more significant than we anticipated ... particular softness in traffic on NIKE Digital", with marketplace inventories "requiring higher levels of promotional activity in Q1 to drive conversion." On the classics: "we have taken the most aggressive actions in NIKE Direct and especially Digital. In Q1, these franchises were down nearly 50% versus the prior year on NIKE Digital while we saw much better sales trends in wholesale."
+- **Q2 FY25 call (Dec 19, 2024, OPENED), Friend:** "on NIKE Digital, our off-price mix was up high single digits versus the prior year, with performance marketing increasing over the same period."
+- **Q3 FY25 call (Mar 20, 2025, OPENED), Hill:** the North America "over 30 promotional days to zero" comparison is January and February 2025, i.e. *after* the two -20% quarters.
+- **Earlier warning, Q1 FY24 (Sept 2023) and Q2 FY24 (Dec 21, 2023) calls (OPENED):** consumers "shifted from our digital to physical channels"; "softness in digital traffic and higher levels of promotional activity across the marketplace"; and in response, "we are stepping up our plans to reduce marketplace supply of our key franchises." Traffic softened first, then promotions rose, then Nike pulled the classics.
+- **Reading:** the first and largest leg of the Digital decline happened while discounting on Digital was *increasing*. More discounting did not hold revenue, and the decline coincided with a deliberate ~50% cut of classics on Digital. That locates the cause in (1) the classics pull and (2) a traffic loss that preceded the promotional surge. Promotion removal explains at most part of the H2 FY25 and FY26 legs, and in North America that revenue reappeared in wholesale (NA wholesale +14%, NA footwear units +6% in FY26, REPO). The investigator's "$0.5B to $1.0B net of promotion-dependent Digital revenue" should mostly move to `franchise_oversupply.md` and `digital_tech.md`.
+
+### RC3. The sub-$100 exit was a distribution decision, not a pricing decision
+- Friend's "several billion dollars' worth of revenue that we walked away from" (Q1 FY25, OPENED) refers to the "core" below-$100 segment, and in the same answer he says "our partners are very excited about the new product that's coming in this dimension." The sub-$100 business sits mainly in family and value wholesale doors.
+- Those are the doors CDA cut: DSW, Shoe Show, Dunham's, Big 5 and others in 2021, after Belk, Dillard's and others in 2020 (REPO, `dtc_wholesale.md`). DSW and Macy's returned from October 2023, and the Q1 FY27 rebuild of the $65 to $85 "Family Footwear" line runs through the same partners (investigator's section 3.1).
+- **Reading:** the price-architecture gap that the investigator counts as an *independent* pricing element is the downstream product consequence of the CDA channel choice (fewer value doors, a Digital assortment built around $100-plus classics and launches). It belongs with the CDA cause.
+
+### RC4. Peer natural experiment: the same pricing and discount pattern, opposite outcomes
+- adidas took "broad-based price increases" in 2022 and then ran heavy promotions (Q4 2022 gross margin 39.1%); Greater China revenue fell 36% in 2022 with "significant inventory takebacks" (FY2022 release, OPENED). Gulden: "We need to reduce inventories and lower discounts."
+- By 2025, adidas brand revenue grew 10% currency-neutral with growth in Europe (+10%), North America (+10%) and **Greater China (+13%)**, "broad-based ... in both the wholesale and direct-to-consumer (DTC) business", and gross margin of 51.6% (adidas FY2025 results and investor call, OPENED, adidas IR PDFs).
+- **Reading:** if heavy discounting durably trained consumers to wait, adidas, which discounted and took back inventory in the same years and in the same Chinese market, should not have recovered full-price growth within two years. It did, when its product (Terrace, running-look) was in demand. Greater China is where the investigator thinks the "trained to wait" mechanism fits best, yet a peer recovered there under the same industry discount levels. That points the China damage at Nike-specific product and brand heat (`china.md`, `challengers_taste.md`), with discounting as the visible symptom management names.
+
+### RC5. Alternative chain that fits the same data better
+1. **Upstream (2020 to 2022):** CDA plus COVID. Digital targets and scarcity-era demand led Nike to scale classics on Digital and cut value doors; freight and input inflation led to industry-wide price increases.
+2. **Shock:** the 2022 bullwhip glut (inventory +44%) forced the FY23 liquidation wave; adidas and others did the same.
+3. **Demand turn (FY24):** taste rotated away from court classics; Digital traffic softened from mid-2023; Nike stepped up supply cuts (Dec 2023).
+4. **Symptom:** retailers and Nike Digital discounted the classics (44% at eight chains, early 2024; Digital 50/50); off-price mix rose in H1 FY25 *while* Digital fell 20% a quarter.
+5. **Unwind (FY25 to FY26):** promotions removed; in North America volume moved to wholesale and units grew; in EMEA and China, where newness and brand heat were weaker, removing promotions exposed the demand gap.
+
+Every prediction the pricing hypothesis gets right (margin hit, ASP drop, discount depth, Digital localisation) is also predicted by this chain. The predictions only the pricing hypothesis makes (durable waiting, falling perceived value, high-price products suffering most, peers who discounted failing to recover) all fail.
+
+### RC6. Quantification under this lens
+- Mechanism (non-additive, same as investigator): about $1.5B to $2.5B, of which the FY25 ASP drag (-$1.0B footwear) and 180 bps margin hit are the solid parts.
+- Re-allocation: the Digital "promotion-dependent revenue" component goes mostly to the classics pull and traffic loss (RC2); the price-architecture component goes to CDA account cuts (RC3); list-price increases above inflation are largely cost pass-through matched by peers (RC1).
+- **Independent residual: about 0% to 5% (0 to about $0.25B)**, mainly keeping FY24 full-price ASP after freight normalised and the EMEA promotional relapse in Q3 FY26.
+
+### RC7. Weaknesses of this challenge
+- Nike does not disclose classics' share of Digital, so I cannot split the H1 FY25 Digital decline exactly between the classics pull, traffic loss and discount effects.
+- The adidas comparison is brand-level; adidas's China recovery also had local-sourcing and product changes, so it shows discounting was survivable, not that it was harmless.
+- No new web sources: the search budget was used up before this pass, so I relied on primary filings and transcripts already downloaded.
+
+### Sources added in this challenge
+| Source | Date | Status |
+|---|---|---|
+| Nike FY2022 10-K and FY2023 10-K, gross margin and Overview sections (EDGAR links above) | 2022-07-21, 2023-07-20 | OPENED |
+| Nike official call transcripts Q1 FY24, Q2 FY24, Q1 FY25, Q2 FY25, Q3 FY25 (Nike IR PDFs) | 2023-09-28 to 2025-03-20 | OPENED (full text) |
+| `data/nike_filing_facts.csv`, `digital_sales_growth_pct` Q1 FY24 to Q3 FY25 (10-Qs) | various | REPO |
+| Deckers Brands FY2024 10-K, accession 0000910521-24-000017 (HOKA +27.9%, selective price increases) | 2024-05-24 | OPENED |
+| adidas FY2022 results release (price increases, Q4 2022 discounting, Greater China -36%) | 2023-03-08 | OPENED |
+| adidas FY2025 results release and investor call (brand +10% c.n., Greater China +13%, gross margin 51.6%) | 2026-03 | OPENED |
+| `dtc_wholesale.md` (account cuts 2020 to 2021, DSW return Oct 2023) | 2026-10-13 | REPO |

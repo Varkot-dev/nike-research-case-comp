@@ -222,3 +222,143 @@ Decline to explain: FY24 $51,362M to FY26 $46,398M = **-$4,964M** (REPO).
 - No Euromonitor or Circana *brand* share time series was available to test share directly. The NA footwear vs PCE index is a proxy.
 - No income-cohort data on Nike's own customers. The Piper teen survey is the only demographic cut.
 - ASICS, Anta and New Balance 2024 figures were not opened.
+
+---
+
+## Challenge: REFUTER
+
+Challenger date: 2026-10-13. Lens: try to disprove the hypothesis and check the investigator's numbers. Status labels as above. One limit: the shared WebSearch budget for this workflow was used up while I worked, so I used SEC XBRL APIs, cached FRED downloads (pulled today by an earlier step and read by me from disk), HKEX announcements already in the scratchpad (I read the text myself) and Nike and adidas documents already in the scratchpad. I could not check On, ASICS or Puma 2026 interims; those remain gaps.
+
+### R1. Number checks (all reproduce)
+
+| Claim | Check | Result |
+|---|---|---|
+| FY24 to FY26 decline -$4,964M | 51,362 minus 46,398 (REPO) | Correct |
+| US footwear PCE +1.8% (2024), +4.4% (2025) | FRED DFTWRC1A027NBEA cached CSV: 114.021, 116.061, 121.150 | Correct (+1.79%, +4.38%). OPENED |
+| NA footwear +32.6% vs PCE +31.9% (FY19/2019 to FY26/2025) | 10,045 to 13,317; 91.872 to 121.150 | Correct. Caveat: Nike FY26 runs to May 2026, PCE is CY2025 |
+| Converse -52% FY23 to FY26 | 2,427 to 1,174 (REPO) | Correct (-51.6%) |
+| "Hold share" counterfactual about $54B | 51,362 x (121.150 / 114.021) = $54.6B | Arithmetic correct, but it scales global revenue (including apparel, China, EMEA) by a US footwear index. Directionally fine, not precise |
+| Converse-as-Vans cycle about $0.5B | 0.84 x 0.91 = 0.764; 2,082 x 23.6% = $491M | Arithmetic correct; the premise is weak (R3) |
+
+No number I checked was wrong. The problems are in attribution, not arithmetic.
+
+### R2. Natural experiments the notes did not use
+
+**(a) Channel split: the decline sits almost entirely in the channel Nike controls.** FY24 to FY26 (REPO, `nike_filing_facts.csv`, my arithmetic): DTC including Converse $22,351M to $18,197M, **-$4,154M (84% of the whole decline)**. Wholesale including Converse $28,856M to $28,058M, -$798M (16%). Nike Brand Digital $12.1B to $8.6B, about -$3.5B (about 70% of the decline). A demand shock reaches retailers' sell-through and then wholesale orders. Instead, wholesale was nearly flat and grew +4.9% in FY26 (26,758 to 28,058), while Nike's own digital store, where Nike sets prices, markdown days and assortment, fell by a third. That is the signature of a Nike decision (cutting promotional digital volume and moving back to wholesale), not of consumers spending less.
+
+**(b) Sentiment versus Nike North America by fiscal year runs the wrong way, including FY27.** UMich sentiment averaged over Nike fiscal years (FRED UMCSENT cached CSV, OPENED, my arithmetic): FY23 59.3, FY24 70.8, FY25 65.6, **FY26 54.5**, **Q1 FY27 52.1**. Nike North America revenue (REPO): FY23 +18%, FY24 -1.0%, FY25 -8.5%, **FY26 +4.8%** (19,572 to 20,511), **Q1 FY27 +2.1%** (5,020 to 5,127). Nike NA grew in the two worst sentiment periods on record in this data and fell in the best one. Whatever the US consumer is doing, it is not what moved Nike NA.
+
+**(c) Value-channel retailer grew through the 2026 "squeeze".** Academy Sports + Outdoors, a value-oriented sporting goods chain (SEC XBRL company facts, OPENED, filed 10-Qs 2026-06-10 and 2026-09-09): quarter to May 2, 2026 $1,442.0M vs $1,351.4M (+6.7%); quarter to Aug 1, 2026 $1,647.3M vs $1,599.8M (+3.0%). Deckers (HOKA, UGG), quarter to Jun 30, 2026: $1,019.5M vs $964.5M (+5.7%) (XBRL, 10-Q filed 2026-07-30, OPENED). adidas North America +17% c-n in Q2 2026 (adidas Q2 2026 release, 2026-07-30, OPENED). The one US peer I found falling was lululemon, quarter to Aug 2, 2026 $2,415.6M vs $2,525.2M (-4.3%) (XBRL, OPENED), which has its own widely reported US reset. A lower-income squeeze should show first at Academy; it did not.
+
+**(d) Inside Nike, the decline sorts by Nike's own categories, not by consumer income or region.** Q1 FY27 call (2026-10-01, transcript in scratchpad, OPENED): "Running is up double digits again with consistent share gains. Global Football ... strong double-digit growth in all 4 geos ... Basketball was up double digits in North America ... both tennis and golf grew double digits." Against that: "As planned, we reduced revenue from the Dunk by nearly 50% in the quarter. That resulted in roughly $200 million headwind in Sportswear." A discretionary squeeze would hit $160 running shoes too. It did not. Performance up, Nike's oversupplied lifestyle franchises down, is a portfolio story.
+
+**(e) China peers in the same 2026 market (HKEX interims, H1 2026, read from scratchpad text, OPENED):** Anta Group revenue +12.9% to RMB43,507M (main ANTA brand +4.8%, FILA +6.1%) (2026-08-26); Li Ning +2.8% to RMB15,235M (2026-08-20); 361 Degrees +8.0% to RMB6,159.8M (2026-08-18); Xtep RMB6,794.9M vs RMB6,837.6M (-0.6%, my arithmetic) (2026-08-25); adidas Greater China +15% c-n in Q2 2026 (OPENED). Nike Greater China Q1 FY27: -26% c-n. Anta's interim also cites NBS H1 2026 retail sales of "apparel, footwear, hats and textiles ... up 6.7% year-on-year" (OPENED). The investigator leans on NBS "sports and entertainment goods" (-3.7% Jan to Aug 2026), a broad category, while the apparel and footwear line grew (+5.1% Jan to Aug, per `china.md`). Only Topsports, whose revenue is 86.7% Nike and adidas, fell (low-teens decline in Mar to May 2026, HKEX 2026062500529, OPENED), which is what you expect if its largest supplier is shrinking supply.
+
+### R3. The "canvas cycle" control is contaminated
+
+The largest macro/cycle component ($0.7B to $0.9B) rests on Vans as an external control for Converse. VF's own FY2025 10-K (EDGAR, filed 2025-05, scratchpad `refuter/vf25.htm`, OPENED) says: "The decline in Vans ® was also attributed to deliberate strategic actions taken in Fiscal 2025, including reducing wholesale store fronts and inventory in the Asia-Pacific region (specifically in China), exiting value-channel wholesale customers and closing unprofitable owned retail stores in the Americas region, and reducing distressed sales." VF also installed a new Vans president (July 2024) and ran a turnaround. So Vans's FY25 to FY26 trajectory is partly a company-specific reset, not a clean read of the category. Using it as the "pure cycle" counterfactual overstates the external share. Timing also argues against one shared cycle: Vans fell 12% in VF FY23 (CY2022) while Converse grew +3.4% in Nike FY23 (2,346 to 2,427, REPO). The same consumers did not leave both brands at the same time.
+
+Two further definitional points:
+- A rotation from Nike Dunk and AF1 to adidas Samba and terrace, NB retro and Onitsuka Tiger is market share moving to competitors. Counting it as "cycle" rather than as a Nike product and supply failure is generous to the hypothesis. Nike's own Q1 FY27 language ("some aged, higher volume, sportswear footwear sold through below expectations") points at Nike's assortment.
+- The 2026 lifestyle softness is real but category-specific. adidas Q2 2026 (OPENED): "The lifestyle footwear market, especially for him, is currently under pressure due to heavy discounting at many retailers, especially in Europe". Yet adidas Lifestyle still grew 2% and Europe 6%, while Nike EMEA fell 5% c-n in Q1 FY27.
+
+### R4. The FY27 leg (25 to 40%) is too high
+
+- The CFO frames the FY27 high-single-digit decline as chosen: "we are making deliberate choices across portions of the portfolio, particularly in NIKE Sportswear, the Jordan Brand and Greater China ... We will continue to take actions to reduce supply" (Q1 FY27 call, OPENED). Q2 also laps "significant promotional activities in EMEA from Cyber Week and a higher comparison of North America sell-in activities", "approximately 400 basis points" of headwind: Nike's own prior-year actions, not macro.
+- Q1 FY27 c-n decline was about 5% (about $0.5B to $0.6B). Explicitly deliberate items alone: Dunk about $200M, Converse -$103M reported with "actions ... expected to continue throughout fiscal 2027" (10-Q p. 20, REPO), and China "eliminate some online distribution that was unprofitable and brand dilutive" (call, OPENED). North America, the region where the macro data is clearest, grew.
+- My bottom-up for Q1 FY27: China market drag about 4% of Nike's $1.5B base (about $60M); about half of the EMEA decline to a promotional lifestyle market (about $80M); a residual Converse category fade at Vans's FY26 rate (about $30M). Total about $170M, or 15 to 30% depending on how much of EMEA and Converse one grants. I would put FY27 macro and cycle at **15 to 30%**, below the investigator's 25 to 40%.
+
+### R5. Revised share
+
+| Component | Investigator | Refuter | Reason |
+|---|---|---|---|
+| Canvas and classics cycle | $0.7B to $0.9B | $0.3B to $0.7B | Vans control includes VF's deliberate reset; classics rotation went to competitors |
+| China macro | $0.1B to $0.2B | $0.1B to $0.2B | Agree (market grew 2024 to 2025) |
+| EMEA promotions and US lower-income | $0B to $0.4B | $0B to $0.2B | Wholesale flat, Academy grew, NA rose as sentiment fell |
+| Bullwhip and pull-forward | about $0 | about $0 | Agree |
+| **Total FY24 to FY26** | **$0.8B to $1.3B (15 to 25%)** | **$0.4B to $1.1B (about 8 to 22%, central about 13%)** | |
+
+Strictly defined macro (aggregate demand only, excluding a fashion rotation that went to rivals) is about $0.1B to $0.4B, 2 to 8%.
+
+### Verdict
+
+The hypothesis does not survive. Every testable prediction fails on at least one clean natural experiment: channel (84% of the fall in Nike's own DTC, wholesale flat), timing (Nike NA grew in the worst sentiment years), income (value retailer Academy grew in 2026), category (Nike Performance up double digits while Nike lifestyle fell), and geography (China peers and adidas grew in the same market). The investigator's "minor" verdict stands, and if anything the macro share is overstated, mainly because Vans is not a clean external control and because rotation to competitors is counted as cycle.
+
+### Refuter sources
+
+| Source | Date | Status |
+|---|---|---|
+| Nike `data/nike_filing_facts.csv` (revenues, DTC, wholesale, digital, regions, Converse) | filings 2023-07-20 to 2026-10-02 | REPO |
+| Nike Q1 FY27 earnings call transcript (investors.nike.com PDF, scratchpad `tx/Q1FY27.txt`) | 2026-10-01 | OPENED |
+| VF Corp FY2025 Form 10-K, Vans discussion (scratchpad `refuter/vf25.htm`) | filed May 2025 | OPENED |
+| SEC XBRL company facts: Academy (CIK 1817358), Deckers (910521), lululemon (1397187), Dick's (1089063, not used: Foot Locker acquisition breaks comparability) | downloaded 2026-10-13 | OPENED |
+| FRED UMCSENT and DFTWRC1A027NBEA (cached CSVs downloaded 2026-10-13; a fresh download today was refused by the FRED server) | data through Aug 2026 and 2025 | OPENED |
+| adidas Q2 2026 results release | 2026-07-30 | OPENED |
+| HKEX: Anta interim 2026-08-26; Li Ning 2026-08-20; 361 Degrees 2026-08-18; Xtep 2026-08-25; Topsports Q1 FY26/27 update 2026-06-25 | 2026 | OPENED |
+| Not checked (search budget exhausted): On Q2 2026, ASICS H1 2026, Puma Q2 2026, US monthly footwear PCE for 2026 | | GAP |
+
+---
+
+## Challenge: ROOT-CAUSE
+
+Challenger date: 2026-10-13. Lens: accept that the symptoms are real (a 2022 bullwhip, a fading canvas and classics cycle, a softer consumer from mid-2025) and ask which way the causal arrow runs. Two questions: (1) are macro shocks the hidden upstream cause of the "Nike-specific" factors (for example, did the COVID bullwhip create the classics oversupply that later collapsed)? (2) are some items booked as "macro" actually downstream of Nike decisions? Limit: the shared WebSearch budget for this workflow was exhausted before I started, so I used Nike filing data in the repo, adidas results PDFs already in the scratchpad (text read by me), and fresh FRED downloads made today. Status labels as above.
+
+### RC1. The bullwhip was a common shock; it does not explain why Nike, and not adidas, declined
+
+If the bullwhip were the upstream cause of Nike's decline (via forced liquidation, brand damage and a delayed reset), then a peer hit by the same shock at least as hard should show the same full-cycle outcome, perhaps with different timing.
+
+- **Size of the shock.** adidas inventories at Dec 31, 2022: EUR 5,973M, +49% (2021: EUR 4,009M), "mainly driven by higher product and freight costs, a different order pattern as a result of longer transportation lead times, the termination of the Yeezy partnership, as well as lower prior year comparables due to last year's impact from the factory lockdowns in Vietnam" (adidas FY2022 results release, 2023-03-08, OPENED, scratchpad `ads/fy2022.txt`). That is 26.5% of 2022 revenue (EUR 22,511M; my arithmetic). Nike: $8,420M at May 31, 2022 (18.0% of FY22 revenue $46,710M) and $9,662M at Aug 31, 2022 (20.7%), +44% year on year (REPO; my arithmetic). Same causes (transit times, Vietnam lockdowns), same order of magnitude, and adidas was hit slightly harder relative to sales.
+- **Full-cycle outcome, both companies measured through their bullwhip and its aftermath (currency-neutral, compounded, my arithmetic).** adidas 2022 +1% (FY2022 release, OPENED), 2023 0%, 2024 +12%, 2025 +10% (REPO-NOTE `adidas_gulden.md`, from adidas releases): **+24% from 2021 to 2025, after absorbing the loss of Yeezy** (about EUR 650M of revenue still in 2024 and zero in 2025, FY2025 release, OPENED). Nike FY22 +6%, FY23 +16%, FY24 +1%, FY25 -9%, FY26 -2% (REPO, 10-K and 8-K rows in `nike_filing_facts.csv`): **+11% from FY21 to FY26.** Adding the current year widens the gap: adidas H1 2026 +14% c-n (Q2 2026 release, OPENED) versus Nike's FY27 guide of a high-single-digit decline.
+- **Inference.** The "deferred bust" reading (adidas took its bullwhip pain in 2023, Nike took it in FY25 to FY26, same thing at different times) predicts that the two full-cycle paths converge. They do not: a gap of about 13 points by 2025/FY26 and widening in 2026. The bullwhip was a **trigger** that both companies received; the **differential** is how Nike responded to it (liquidating through FY23 to post +16% c-n growth, then running the classics-heavy, promotion-fed digital model into FY24). In root-cause terms the bullwhip is a necessary-but-not-sufficient condition, and the sufficient cause is Nike's operating model. This confirms the investigator's "about $0" for bullwhip and pull-forward, and it also answers `franchise_oversupply.md` RC2 (which argues the FY23 unit surge was a bullwhip): the surge was industry-wide, but only Nike's version became a multi-year revenue decline.
+
+### RC2. The one macro factor large enough to measure, currency, ran in Nike's favour
+
+The notes do not use foreign exchange, which is a pure macro variable. Nike's own filings quantify it: FX translation was a detriment of about **$419M** to FY25 revenue (FY2025 10-K p. 45, REPO) and a benefit of about **$1,023M** to FY26 revenue (FY2026 10-K p. 44, REPO). Net, about **+$604M of macro tailwind** over FY24 to FY26 (my arithmetic). On a currency-neutral basis the underlying decline is therefore about **$5.6B, not $5.0B** (approximation: 4,964 + 604; each year's FX effect is measured against that year's prior-year rates). Two consequences:
+1. The denominator for any attribution grows by about 12%, so the same $0.4B to $1.3B of macro and cycle headwind is a smaller share (7% to 23%).
+2. If "macro" is counted honestly in both directions, macro net of FX is close to zero for FY24 to FY26 (gross headwinds $0.4B to $1.3B minus a $0.6B FX tailwind).
+
+### RC3. The digital collapse is not downstream of a post-COVID e-commerce reversal
+
+A macro root cause for Nike's largest single loss (Nike Brand Digital about $12.1B to $8.6B, FY24 to FY26, per the REFUTER section) would be a general consumer shift from online back to stores after COVID. FRED, Census quarterly e-commerce (ECOMNSA and ECOMPCTSA, downloaded 2026-10-13, OPENED; annual sums and averages my arithmetic): US retail e-commerce $1,087B (2023), $1,170B (2024, +7.6%), $1,234B (2025, +5.4%); e-commerce share of retail 15.3% (2023), 16.1% (2024), 16.35% (2025), 17.05% (H1 2026). There was no channel reversal: online kept gaining share while Nike Digital fell 20% and 21% in Q1 and Q2 FY25 (10-Qs, REPO). adidas e-commerce grew 25% and 27% c-n in Q1 and Q2 2026 (REPO-NOTE `digital_tech.md`). Management planned the digital decline itself: "we expect digital traffic to be down double digits in Fiscal 26" after cutting promotional days and paid media (Q3 FY25 call, REPO-NOTE `digital_tech.md`). Upstream cause: the CDA promotional-digital model and its deliberate unwind, not consumer channel behaviour.
+
+### RC4. The "return to FY19 share of wallet" evidence is an artefact of the denominator
+
+Evidence-for item 2 says Nike NA footwear revenue has returned to its FY19 ratio with US footwear PCE (+32.6% vs +31.9%), implying the FY23 to FY24 peak was cycle inflation now unwound. But PCE footwear is *all* footwear (dress, boots, sandals, kids), and athletic took share of that total over the period. Within athletic footwear, Euromonitor puts Nike's US company share at 34.1% (2019) and 28.9% (2025) (REPO-NOTE `dtc_wholesale.md`, SNIPPET there). So against its own category Nike is about 5 points *below* its pre-COVID position, not back at it. The ratio to all-footwear PCE looks "normal" only because the athletic category grew faster than footwear as a whole. The reversion reading overstates the cycle share; what the data show is a market that grew and a brand that lost share inside it.
+
+### RC5. Where macro genuinely sits upstream, and why it still does not carry the weight
+
+The best case for a macro root cause is psychological, not arithmetic: COVID scarcity (sold-out Dunks, an 80%+ digital surge in FY21, REPO rows `growth_digital_cn_pct` Q1 and Q2 FY21) gave Nike a demand signal it extrapolated into the CDA bet on digital and classics. That chain is real (also argued in `franchise_oversupply.md`). But a cause that works only through a management misreading is, for attribution purposes, a management cause: the same signal reached adidas, Deckers, New Balance and On, and none of them produced a multi-year decline from it. The counterfactual test is clean: hold the shock fixed, vary the response, and the outcome follows the response (RC1).
+
+The canvas cycle remains the only external force with a cross-owner signature (Vans and Converse). I accept the REFUTER's reduction ($0.3B to $0.7B) because the Vans control contains VF's own deliberate reset, and because Converse grew in FY23 (+3.4%, REPO) while Vans was already falling, so the two did not share one cycle clock.
+
+### RC6. Revised attribution
+
+| Component | Investigator | ROOT-CAUSE | Reason |
+|---|---|---|---|
+| Canvas and classics cycle (external part) | $0.7B to $0.9B | $0.3B to $0.7B | Agree with REFUTER (Vans control contaminated) |
+| China macro | $0.1B to $0.2B | $0.1B to $0.2B | Agree; NBS apparel and footwear grew 2024 and 2025 |
+| EMEA promotions and US lower-income | $0B to $0.4B | $0B to $0.2B | E-commerce grew, Nike NA grew in FY26 as sentiment fell |
+| Bullwhip and pull-forward | about $0 | about $0 as a cause; a trigger only | Same shock at adidas, opposite full-cycle outcome (RC1) |
+| FX (not in notes) | not counted | **-$0.6B (tailwind)** | 10-K FX translation, FY25 and FY26 |
+| **Gross headwinds / share of c-n decline (about $5.6B)** | $0.8B to $1.3B (15% to 25% of reported) | **$0.4B to $1.1B, about 7% to 20%** | |
+| **Net of FX** | | **about -$0.2B to +$0.5B, roughly 0% to 10%** | |
+
+FY27 leg: Q1 FY27 North America grew 2.1% while sentiment averaged about 52 (REPO; REFUTER R2b). I side with the REFUTER's 15% to 30% rather than 25% to 40%.
+
+### Verdict
+
+The hypothesis does not survive under the root-cause lens. Macro shocks were real **triggers** (bullwhip, COVID scarcity signal, 2026 sentiment), but each one also hit a peer that did not decline, so the cause of Nike's decline sits downstream of the trigger, in Nike's response: the CDA digital and classics model, its liquidation choices and its newness gap. Three items the notes count as macro or cycle evidence are better explained as Nike-made or as measurement artefacts: the digital collapse (no e-commerce reversal), the FY19 share-of-wallet "reversion" (a denominator effect; athletic share is down 5 points), and the FY24 base "inflation" (the investigator already labels it a symptom). The one macro variable Nike itself quantifies, FX, helped revenue by about $0.6B net. Verdict: **minor**. On a currency-neutral basis macro and cycle explain about 7% to 20% gross and close to zero net of FX.
+
+### ROOT-CAUSE sources
+
+| Source | Date | Status |
+|---|---|---|
+| adidas FY2022 results release (inventories EUR 5,973M, +49%, causes; 2022 c-n +1%; revenue EUR 22,511M), scratchpad `ads/fy2022.txt` | 2023-03-08 | OPENED |
+| adidas FY2025 results release (brand +13% c-n, company +10% c-n, Yeezy about EUR 650M in 2024), scratchpad `ads/fy2025.txt` | 2026-03 | OPENED |
+| adidas Q2 2026 results release (H1 2026 +14% c-n), scratchpad `ads/q2_2026.txt` | 2026-07-30 | OPENED |
+| adidas 2023 and 2024 c-n growth (0%, +12%), `Gulden and Plank turnarounds vs Nike/adidas_gulden.md` | compiled 2026 | REPO-NOTE |
+| Nike FX translation impact FY25 (-$419M, 10-K p. 45) and FY26 (+$1,023M, 10-K p. 44); c-n growth FY22 to FY26; inventories; digital growth rows, `data/nike_filing_facts.csv` | filed 2022-07-21 to 2026-07-15 | REPO |
+| FRED ECOMNSA and ECOMPCTSA (US Census quarterly e-commerce), https://fred.stlouisfed.org/graph/fredgraph.csv?id=ECOMPCTSA | downloaded 2026-10-13, data through Q2 2026 | OPENED |
+| Euromonitor US athletic footwear share (34.1% 2019, 28.9% 2025), via `dtc_wholesale.md` | 2026 | REPO-NOTE (SNIPPET in that note) |
+| `franchise_oversupply.md` RC2, `digital_tech.md` (planned digital traffic decline, adidas e-com 2026) | 2026-10-13 | REPO-NOTE |
+| Not checked (search budget exhausted): adidas 2020 and 2021 c-n rates (so the full-cycle comparison starts at 2021), adidas "Own the Game" DTC target as a second test of the COVID-signal response | | GAP |

@@ -330,3 +330,84 @@ Taste is rotating through comfort and quiet brands as well, which contradicts a 
 | lululemon Q2 FY2026 release, 8-K Ex. 99.1, https://www.sec.gov/Archives/edgar/data/1397187/000139718726000126/lulu-20260802xex991.htm | 2026-09-03 | OPENED (EDGAR curl) |
 | Amer Sports Form 20-F FY2025, https://www.sec.gov/Archives/edgar/data/1988894/000198889426000004/as-20251231.htm | 2026-02-26 | OPENED (EDGAR curl) |
 | `research_notes/04_financial_data_pack.md` (segments, quarterly, footwear) | 2026-10-12 | OPENED (repo) |
+
+---
+
+## Challenge: ROOT-CAUSE
+
+Reviewer lens: assume the symptom (Nike losing footwear share to On, Hoka, New Balance, Asics, Salomon and Adidas terrace) is real, and ask whether it is a downstream effect of a different, upstream cause. Research date 2026-10-13. Status labels as above. Constraint: the shared web-search budget for this run was exhausted before my first query, so all new evidence below comes from primary filings fetched directly from SEC EDGAR with curl (User-Agent header set), plus numbers already verified in this repo. Items I could not reach are listed in RC7.
+
+### RC1. Verdict
+
+**The hypothesis does not survive as a root cause. The share shift is mostly a downstream symptom of Nike's own 2020 to 2023 operating decisions; a smaller exogenous fashion cycle sits underneath it.** The causal chain that fits the timing, geography and peer data best is:
+
+1. **Upstream (2020):** the Consumer Direct Acceleration model and the "consumer construct" reorganization (sport category teams replaced by Men's, Women's and Kids'; about half of retail accounts exited; NIKE Digital fed with Dunk, AF1 and AJ1). Already documented in `innovation_drought.md`, `dtc_wholesale.md` and `franchise_oversupply.md` (OPENED (repo)).
+2. **Mechanisms (2021 to 2024):** (a) a running product gap (Brooks No. 1 in US adult performance running from Q1 2022, Circana via Brooks, OPENED (repo)); (b) a shelf vacuum at Foot Locker, run specialty and European independents that On, Hoka and New Balance filled (Foot Locker Nike share of purchases 75% in 2020 to 59% in 2024, Foot Locker 10-Ks, OPENED (repo)); (c) classics oversupply, which turned a normal silhouette fade into a fast abandonment and cheapened the brand (average Nike sneaker at about $80 vs about $148 for On and Hoka, Reuters/Vertical Knowledge Feb 2024, OPENED (repo) `pricing_discounting.md`).
+3. **Symptom (2022 to 2025):** challengers took share, which this hypothesis reads as a structural taste force.
+
+The exogenous layer is real but small in Nike's FY24 to FY26 revenue: a canvas and court silhouette cycle (Vans, Converse) and a long-run drift toward running looks. Nike historically absorbs such rotations with its own archive and pipeline (it lost 6.4 US share points to Adidas Boost in 2016 to 2019 and recovered on its retro wave), and when it did ship running and running-look product in 2025 the challengers decelerated in exactly Nike's home market. My estimate of the truly exogenous, execution-independent part: **about 10% to 20% of the $4,964M decline (about $0.5B to $1.0B)**, with Converse the largest piece. The remainder of the investigator's 25% to 45% is the same dollars already counted under oversupply, innovation and DTC.
+
+### RC2. New test 1: the North American see-saw (challengers' growth vs Nike's supply state, quarter by quarter)
+
+If an exogenous taste shift drove share loss "regardless of execution", challenger growth in North America should be steady or rising regardless of what Nike does. If the shift is downstream of Nike's product and supply vacuum, challenger growth should peak when Nike is weakest and fall when Nike returns.
+
+| Calendar quarter | Nike North America revenue YoY (my arithmetic on data pack) | On Americas net sales YoY, constant currency | Deckers domestic net sales YoY (Hoka plus UGG) | Hoka global net sales YoY |
+|---|---|---|---|---|
+| Apr to Jun 2024 | Q4 FY24: 5,278 vs 5,355, -1.4% | +25.8% | +23.0% | +29.7% |
+| Jul to Sep 2024 | Q1 FY25 (Jun to Aug): 4,826 vs 5,423, **-11.0%** | **+34.5%** | +14.2% | **+34.7%** |
+| Oct to Dec 2024 | Q2 FY25 (Sep to Nov): 5,179 vs 5,625, **-7.9%** | **+33.9%** | +11.5% | +23.7% |
+| Jan to Mar 2025 | Q3 FY25 (Dec to Feb): 4,864 vs 5,070, -4.1% | +28.6% | about 0% (648.2 vs 647.7; my arithmetic) | +10.0% (586.1M) |
+| Apr to Jun 2025 | Q4 FY25 (Mar to May): 4,703 vs 5,278, -10.9% | +23.6% | **-2.8%** | +19.8% |
+| Jul to Sep 2025 | Q1 FY26: 5,020 vs 4,826, **+4.0%** | +21.0% | **-1.7%** | +11.1% |
+| Oct to Dec 2025 | Q2 FY26: 5,633 vs 5,179, **+8.8%** | +21.3% | +2.7% | +18.5% |
+| Jan to Mar 2026 | Q3 FY26: 5,026 vs 4,864, +3.3% | +17.1% | +0.3% | +14.5% |
+| Apr to Jun 2026 | Q4 FY26: 4,832 vs 4,703, +2.7% | **+13.0%** | +3.2% | **+7.7%** |
+
+Sources: On Holding 6-K MD&A exhibits for Q1 2024 to Q2 2026 and FY2024 and FY2025 press releases (EDGAR CIK 1858985, OPENED via curl; "Americas" rows, reported and constant-currency columns); Deckers 8-K Ex. 99.1 earnings releases Jul 2023 to Jul 2026 (EDGAR CIK 910521, OPENED via curl; "Domestic net sales" and "HOKA brand net sales" bullets); Nike NA revenue from `data/nike_filing_facts.csv` (OPENED (repo)). Nike's fiscal quarters end one month before the calendar quarters shown, so the alignment is approximate.
+
+Reading:
+- On's Americas growth peaked (+34.5% and +33.9% cc) in exactly the two quarters when Nike NA fell hardest (-11.0% and -7.9%), the quarters in which Nike was deliberately cutting classics on NIKE Digital and before its running product (Vomero 18 launched in early 2025, per repo) and wholesale rebuild arrived.
+- Deckers' US business (mostly Hoka outside the UGG holiday quarter) went from +23% to flat or negative in Jan to Sep 2025, as Nike NA turned positive. On Americas decelerated in a straight line from +34.5% to +13.0% over the same period. Hoka's global growth held up only because international grew (Deckers international +49.7% in Apr to Jun 2025, OPENED).
+- **This is a see-saw, not a one-way structural shift.** The challengers' fastest US gains coincided with Nike's self-inflicted supply and product gap, and faded within three to four quarters of Nike's return. A taste force independent of execution predicts no such inverse coupling.
+- Caveats: Deckers domestic includes UGG; US tariffs and a soft consumer in 2025 also hit Deckers and On; On still grew 13% cc, so the challengers did not stall. The see-saw shows coupling to Nike's state, not that the taste drift is zero.
+
+### RC3. New test 2: magnitude of capture in the worst quarters
+
+If challengers were pulling demand away from Nike, their dollar gains should be similar to Nike's loss when Nike fell fastest. In Nike's two worst quarters (Jun to Nov 2024) Nike NA lost $1,042M year on year (597 + 446, my arithmetic on data pack). Over roughly the same months (Jul to Dec 2024), On Americas gained CHF 185.1M (100.6 + 84.5, On 6-K and FY2024 release, OPENED) and Hoka gained $248.5M **globally** (146.9 + 101.6, Deckers releases, OPENED). Together about $0.45B (my arithmetic; CHF at about 1.13 per USD, my assumption), and less than that in the US alone. Most of Nike's lost dollars in its worst stretch were **not** captured by the running challengers. They show up instead as Nike's own deliberate classics cut, lower NIKE Direct promotions and wholesale inventory clean-up (franchise_oversupply.md, pricing_discounting.md), which are supply decisions. The challengers are a partial beneficiary of Nike's contraction, not its engine.
+
+### RC4. Re-reading the investigator's strongest pro evidence through the root-cause lens
+
+1. **Euromonitor 12 to 16 points to challengers (2019 to 2025).** Nike supplied only about 5 of them (refuter R3.9, confirmed table). Bridged with GlobalData's flat ~35% for 2021 to 2023 (repo), Nike's own loss sits in 2024 to 2025, the years of its supply cut and before its running return. That timing points to Nike's decisions, not a gradual exogenous drift.
+2. **"Three owners, one silhouette family."** The fade is real but staggered by owner (Vans from early 2022, Converse from mid-2023, Nike classics from 2024, refuter R3.1), and Converse Q1 FY24 fell in North America "partially offset by an increase in Asia" (Q1 FY24 10-Q, OPENED (repo) `emea_converse_jordan.md`). Each brand's break lines up with its own supply and marketing cycle. The Adidas Samba also faded within about two years of scaling (resale over $500 in 2022 to $75 at Dick's by Oct 2024, Gear Patrol, OPENED (repo)), which shows the upstream mechanism is **saturation**: any brand that scales a lifestyle hit triggers its own fade (Berger and Heath). Saturation is a supply decision. The taste rotation is partly the market's response to it.
+3. **Footwear is 94% of the decline.** Equally predicted by the oversupply cause (classics are footwear) and by the running product gap. Not discriminating.
+4. **Nike had the rising-family product in its own archive.** Its "look of running business, led by Vomero 5, V2K and P-6000 has grown more than 4x over the past year" (Q1 FY25 call, OPENED (repo)), and Q4 FY24 guided to "nearly triple our retro running business". Nike owned the silhouettes the market was rotating toward and under-allocated to them while feeding Dunk and AF1. That is an allocation and franchise-management failure (the category teams that would read the shift had been dissolved), not a force Nike could not meet.
+5. **China and Amer.** Nike China running grew six straight quarters while total China fell (repo), and Amer's China gain is apparel-led (refuter R3.8). In China the taste story is on Nike's side in running; the decline is lifestyle, inventory and price war, covered in `china.md`.
+
+### RC5. What remains genuinely exogenous
+- The canvas and skate silhouette cycle: Vans fell 24% and 16% c-n in FY24 and FY25 under a different owner (VF 10-Ks, OPENED (repo)). Converse tracked it in FY24 and FY25 before diverging in FY26 on its own reset (`emea_converse_jordan.md`). About $0.3B to $0.5B of Converse.
+- A normal post-peak fade of AF1, Dunk and AJ1 that even a disciplined owner would have seen (Samba arc), net of what a timely running-look response would have offset: about $0.2B to $0.4B for NIKE Brand ex-China.
+- A small China premium-outdoor substitution: about $0.0B to $0.2B.
+- The long-run drift toward running and comfort (Circana running +7%, +9%, +13%) is a **category growth opportunity** that Nike is now capturing (+$1B in running, repo), not a net loss in FY24 to FY26.
+
+### RC6. Revised contribution (root-cause view)
+| Layer | Share of the $4,964M decline | $ |
+|---|---|---|
+| Truly exogenous taste cycle (would have happened under good execution) | about 10% to 20% | about $0.5B to $1.0B |
+| Taste-associated loss that is downstream of CDA decisions (shelf vacuum, running gap, classics oversupply, brand cheapening) | about 15% to 25% | already counted in `franchise_oversupply.md`, `innovation_drought.md`, `dtc_wholesale.md`; not additive |
+
+**Upstream root cause:** the 2020 Consumer Direct Acceleration and consumer-construct decisions. The challenger share gain is best classified as a **symptom of another cause**, with a minor exogenous residual.
+
+### RC7. Gaps
+- No WebSearch was available (shared budget exhausted), so I could not pull Hoka US-only sales commentary from Deckers calls, Circana brand-level running share for 2025 to 2026, New Balance quarterly data, Strava or SFIA running participation (which would test whether the running shift is an activity change rather than fashion), or Korea and Japan market data.
+- Deckers does not disclose Hoka by geography in its filings (checked the FY2026 10-K and FY2026 to FY2027 10-Qs, OPENED); the domestic line includes UGG.
+- The see-saw is correlational over nine quarters and confounded by 2025 tariffs and consumer softness, which hit all brands.
+
+### RC8. Sources (this challenge)
+| Source | Date | Status |
+|---|---|---|
+| Deckers 8-K Ex. 99.1 earnings releases, EDGAR CIK 910521 (accessions 0000910521-23-000032, -23-000039, -24-000015, -24-000037, -24-000056, -25-000002, -25-000013, -25-000028, -25-000041, -26-000002, -26-000007, -26-000015), e.g. https://www.sec.gov/Archives/edgar/data/910521/000091052126000015/deckex991pressrelease-6302.htm | 2023-07-27 to 2026-07-23 | OPENED (EDGAR curl) |
+| Deckers 10-Q Q2 FY2026, https://www.sec.gov/Archives/edgar/data/910521/000091052125000044/deck-20250930.htm ; 10-K FY2026 and 10-Qs Q1 and Q3 FY2026, Q1 FY2027 | 2025-10-31 to 2026-07-30 | OPENED (EDGAR curl); no Hoka geographic split |
+| On Holding 6-K MD&A exhibits Q1 2024 to Q2 2026, e.g. https://www.sec.gov/Archives/edgar/data/1858985/000185898526000018/a26q2-exhibit992xmda.htm | 2024-05-14 to 2026-08-11 | OPENED (EDGAR curl) |
+| On Holding FY2024 and FY2025 results releases (6-K Ex. 99.1), https://www.sec.gov/Archives/edgar/data/1858985/000185898525000005/ex991pressreleasedatedmarc.htm and https://www.sec.gov/Archives/edgar/data/1858985/000185898526000010/ex991pressreleasedatedmarc.htm | 2025-03-04, 2026-03-03 | OPENED (EDGAR curl) |
+| `data/nike_filing_facts.csv` (Nike NA quarterly revenue, Q4 FY24 to Q1 FY27) | 2026-10-12 | OPENED (repo) |
+| `innovation_drought.md` (Q1 FY25 and Q4 FY24 call quotes; Brooks No. 1 since Q1 2022), `dtc_wholesale.md` (Foot Locker shares), `franchise_oversupply.md` (Samba arc), `emea_converse_jordan.md` (Converse Q1 FY24 10-Q), `pricing_discounting.md` (Reuters price gap) | 2026-10-13 | OPENED (repo) |
