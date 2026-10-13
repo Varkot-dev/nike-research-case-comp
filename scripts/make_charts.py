@@ -290,4 +290,37 @@ note(fig, "Cash provided by operations, additions to property, plant and equipme
           "cash flows in each year's Form 10-K. 'Operating cash flow minus capex' is my arithmetic, not a Nike-reported measure.")
 save("14_cash_returns.png")
 
+# ---------- 15. FY26 revenue mix: channel, product, region ----------
+T = v("revenues", "FY2026")
+oth = v("revenue_global_brand_divisions", "FY2026") + v("revenue_corporate", "FY2026")
+panels = [
+    ("By channel", [("Wholesale (incl. Converse)", v("revenue_total_wholesale_incl_converse", "FY2026")),
+                    ("Nike-owned stores", v("revenue_nike_stores", "FY2026") * 1000),
+                    ("NIKE Brand Digital", v("revenue_nike_brand_digital", "FY2026") * 1000),
+                    ("Converse direct to consumer", v("revenue_converse_dtc", "FY2026")),
+                    ("Licensing and other", oth + v("revenue_converse_licensing_other", "FY2026"))]),
+    ("By product", [("Footwear", v("revenue_footwear", "FY2026")), ("Apparel", v("revenue_apparel", "FY2026")),
+                    ("Equipment", v("revenue_equipment", "FY2026")), ("Converse", v("revenue_converse", "FY2026")),
+                    ("Other", oth)]),
+    ("By region", [("North America", v("revenue_north_america", "FY2026")), ("EMEA", v("revenue_emea", "FY2026")),
+                   ("APLA", v("revenue_apla", "FY2026")), ("Greater China", v("revenue_greater_china", "FY2026")),
+                   ("Converse", v("revenue_converse", "FY2026")), ("Other", oth)]),
+]
+fig, axes = plt.subplots(3, 1, figsize=(8.4, 7.4), gridspec_kw={"hspace": 0.55})
+for ax, (ttl, rows) in zip(axes, panels):
+    labs = [r[0] for r in rows][::-1]; sh = [r[1] / T * 100 for r in rows][::-1]
+    ax.barh(labs, sh, color=BLUE, height=0.6)
+    for y, (val, pct) in enumerate(zip([r[1] for r in rows][::-1], sh)):
+        ax.text(pct + 0.8, y, f"{pct:.1f}%  (${val / 1000:.1f}B)", va="center", fontsize=8, color=INK2)
+    ax.set_xlim(0, 80); ax.grid(axis="y", visible=False); ax.set_title(ttl, loc="left", fontsize=10)
+axes[-1].set_xlabel("Share of FY26 NIKE, Inc. revenue ($46.4B), %")
+axes[1].text(79, 1.2, f"Jordan Brand ${v('revenue_jordan', 'FY2026') / 1000:.1f}B "
+             f"({v('revenue_jordan', 'FY2026') / T * 100:.0f}%) sits inside\nNIKE Brand footwear and apparel",
+             ha="right", va="center", fontsize=8, color=INK2)
+fig.suptitle("FY26: wholesale is 60% of revenue, footwear 64%; licensing and other is 0.3%",
+             fontweight="bold", fontsize=11, x=0.01, ha="left", y=0.97)
+note(fig, "FY26 Form 10-K: revenues p. 55; product, segment and Jordan p. 32; stores and digital ($9.1B and $8.6B, rounded) p. 33; channel totals "
+          "incl. Converse p. 83; Converse DTC and licensing p. 41. 'Other' is Global Brand Divisions ($49M) plus Corporate ($2M). Shares are my arithmetic.")
+save("15_revenue_mix_fy26.png")
+
 print("done", sorted(os.listdir(OUT)))
