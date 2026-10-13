@@ -1,0 +1,37 @@
+acc,person,relationship,shares,agg_value,approx_sale_date,broker,acquired_via,plan_adoption,sold_past_3m
+0001959173-24-000972,PARKER MARK G,Officer;Director,168378,17679690.00,02/14/2024,Fidelity Brokerage Services LLC,Option Granted - 07/18/2014;Restricted Stock Vesting,11/07/2023,
+0001959173-24-003297,Matheson Monique S.,Officer,45000,4237404.81,05/07/2024,Fidelity Brokerage Services LLC,Option Granted 08/01/2018,,
+0001959173-24-003370,Nielsen Johanna,Officer,282,26406.48,05/09/2024,Fidelity Brokerage Services LLC,Restricted Stock Vesting,02/07/2024,
+0001959173-24-003515,PARKER MARK G,Officer;Director,168378,15682726.92,05/14/2024,Fidelity Brokerage Services LLC,Option Granted - 07/18/2014;Restricted Stock Vesting,11/07/2023,168378
+0001959173-24-004195,Friend Matthew,Officer,9350,889185.00,06/05/2024,Fidelity Brokerage Services LLC,Restricted Stock Vesting,02/14/2024,
+0001959173-24-004975,PARKER MARK G,Officer;Director,110000,8026700.00,07/18/2024,Fidelity Brokerage Services LLC,Option Granted- 07/18/2014,11/07/2023,168378
+0001959173-24-005390,Friend Matthew,Officer,5410,394280.80,08/07/2024,Fidelity Brokerage Services LLC,Restricted Stock Vesting,02/14/2024,9350
+0001959173-24-005594,PARKER MARK G,Officer;Director,52487,4093986.00,08/14/2024,Fidelity Brokerage Services LLC,Restricted Stock Vesting,11/07/2023,168378;110000
+0001959173-24-007832,PARKER MARK G,Officer;Director,45190,3463361.60,11/14/2024,Fidelity Brokerage Services LLC,Restricted Stock Vesting,11/07/2023,52487
+0001959173-25-000890,O'NEILL HEIDI,Officer,14147,1006983.46,02/11/2025,Fidelity Brokerage Services LLC,ESPP Purchase;Restricted Stock Vesting,,
+0001959173-25-000927,Leinwand Robert,Officer,4506,328081.86,02/13/2025,Fidelity Brokerage Services LLC,Restricted Stock Vesting,11/14/2024,
+0001959173-25-000978,PARKER MARK G,Officer;Director,169732,12361581.56,02/14/2025,Fidelity Brokerage Services LLC,Options Granted 07/17/2015;Stock Option Exercise,11/07/2024,45190
+0001959173-25-002685,Nielsen Johanna,Officer,138,7977.78,04/24/2025,Fidelity Brokerage Services LLC,Restricted Stock Vesting,01/23/2025,
+0001959173-25-003160,PARKER MARK G,Officer;Director,152976,9492160.80,05/14/2025,Fidelity Brokerage Services LLC,Option Granted 07/17/2015;Stock Option Exercise,11/07/2024,169732
+0001959173-25-004598,PARKER MARK G,Officer;Director,110000,7951900.00,07/16/2025,Fidelity Brokerage Services LLC,Options Granted -07/17/2015,11/07/2024,152976
+0001959173-25-004946,Leinwand Robert,Officer,1644,123152.04,08/05/2025,Fidelity Brokerage Services LLC,Restricted Stock Vesting,11/14/2024,
+0001959173-25-005157,McCartney Philip,Officer,3162,244144.28,08/13/2025,Fidelity Brokerage Services LLC,Restricted Stock Vesting,,
+0001959173-25-005190,PARKER MARK G,Officer;Director,86078,6535902.54,08/14/2025,Fidelity Brokerage Services LLC,Stock Option Exercise,11/07/2024,152976;110000
+0001959173-25-005793,Leinwand Robert,Officer,1019,76058.16,09/05/2025,Fidelity Brokerage Services LLC,Restricted Stock Vesting,11/14/2024,1644
+0001959173-25-006283,Leinwand Robert,Officer,697,52367.14,10/02/2025,Fidelity Brokerage Services LLC,Restricted Stock Vesting,,1644;1019
+0001959173-25-006352,Heinle Treasure,Officer,4300,306461.50,10/06/2025,Fidelity Brokerage Services LLC,ESPP Purchase;Restricted Stock Vesting,10/06/2025,
+0001959173-25-006359,Heinle Treasure,Officer,4300,306461.50,10/06/2025,Fidelity Brokerage Services LLC,ESPP Purchase;Restricted Stock Vesting,,
+0001959173-25-007000,PARKER MARK G,Director,86078,5577854.40,11/14/2025,Fidelity Brokerage Services LLC,Restricted Stock Vesting,11/07/2024,86078
+0001959173-26-000897,Leinwand Robert,Officer,9065,565021.45,02/12/2026,Fidelity Brokerage Services LLC,Restricted Stock Vesting,11/14/2024,
+0001959173-26-004592,McCartney Philip,Officer,17398,803439.64,06/12/2026,Fidelity Brokerage Services LLC,Restricted Stock Vesting,10/24/2025,
+0001959173-26-005649,Alagirisamy Venkatesh,Officer,890,37024.00,08/05/2026,Fidelity Brokerage Services LLC,Restricted Stock Vesting,02/12/2026,
+0001959173-26-005650,McCartney Philip,Officer,524,21798.40,08/05/2026,Fidelity Brokerage Services LLC,Restricted Stock Vesting,10/24/2025,17398
+0001959173-26-005651,Leinwand Robert,Officer,821,34153.60,08/05/2026,Fidelity Brokerage Services LLC,Restricted Stock Vesting,11/05/2025,
+0001959173-26-005652,Friend Matthew,Officer,2463,102460.80,08/05/2026,Fidelity Brokerage Services LLC,Restricted Stock Vesting,10/08/2025,
+0001959173-26-005752,Montagne Amy,Officer,4867,204671.95,08/07/2026,Fidelity Brokerage Services LLC,Restricted Stock Vesting,,
+0001959173-26-006808,McCartney Philip,Officer,2559,96192.81,09/09/2026,Fidelity Brokerage Services LLC,Restricted Stock Vesting,10/24/2025,17398;524
+0001959173-26-006810,Alagirisamy Venkatesh,Officer,3671,137992.89,09/09/2026,Fidelity Brokerage Services LLC,Restricted Stock Vesting,02/12/2026,890
+0001959173-26-006811,Leinwand Robert,Officer,3646,137053.14,09/09/2026,Fidelity Brokerage Services LLC,Restricted Stock Vesting,11/05/2025,821
+0001959173-26-006812,Friend Matthew,Former Officer,5304,199377.36,09/09/2026,Fidelity Brokerage Services LLC,Restricted Stock Vesting,10/08/2025,2463
+0001959173-26-007147,Friend Matthew,Former Officer,12658,453915.88,09/30/2026,Fidelity Brokerage Services LLC,Restricted Stock Vesting,10/08/2025,2463;5304
+0001959173-26-007262,Friend Matthew,Former Officer,19572,658266.26,10/05/2026,Fidelity Brokerage Services LLC,ESPP Purchase;Restricted Stock Vesting,,2463;5304;12658
