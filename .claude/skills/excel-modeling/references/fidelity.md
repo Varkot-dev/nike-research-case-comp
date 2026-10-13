@@ -50,6 +50,19 @@ Damodaran's `fcffsimpleginzu.xlsx` (https://pages.stern.nyu.edu/~adamodar/pc/fcf
 
 The x14 validations show the gap between the two save paths. `xl.py` shifted them in place (B37 to B38 and so on) and kept them as x14. LibreOffice converted them to the standard form, so its copy is no longer Excel's original structure. LibreOffice also rewrites `FALSE` as `FALSE()` and turns cached `#DIV/0!` results into literal `=#DIV/0!` formulas; the comparison normalises both. `xl.py audit` on the same file found the circular loop (synthetic rating > cost of capital > operating lease converter > synthetic rating) and 51 numbers typed into formulas (for example `=474.8+256.6`).
 
+## Two-engine agreement (`xl.py crosscheck`, formulas 1.3.4 versus LibreOffice 24.2)
+
+| Workbook | Formula cells compared | Agree | Disagreements and their cause |
+|---|---|---|---|
+| data/valuation/jordan_valuation.xlsx | 131 | 131 | none |
+| Damodaran fcffsimpleginzu.xlsx | 1,231 | 1,222 | 2 date cells where `formulas` ignores the workbook's 1904 date system (46,054 versus 44,592, exactly 1,462 days apart); 7 cells of the option-value circularity, where `formulas` returned `#CIRC!` and LibreOffice converged |
+
+Practical rule: in a 1904-system workbook (`xl.py audit` reports DATE_1904), trust LibreOffice's date values over `formulas`.
+
+Another practical rule: run the second engine in a separate process. After a LibreOffice UNO session (`scenarios`, `sensitivity` or `tornado`), UNO's import hook breaks later imports in the same Python process (seen: `No module named 'envwrap'`). `crosscheck` already does this.
+
+The second engine also caught a builder bug that every LibreOffice check had passed. The builder wrote `SUM(Charts!$B$6:Charts!$B$10)`, with the sheet name repeated on both ends of the range. Excel and LibreOffice accept that form; the `formulas` parser rejects it. The builder now writes `Charts!$B$6:$B$10`.
+
 ## Sources for facts not measured here
 
 | Fact | Source |

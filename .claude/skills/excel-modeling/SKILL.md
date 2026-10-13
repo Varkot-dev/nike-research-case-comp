@@ -10,9 +10,26 @@ Three ideas run through this skill:
 2. **Nothing ships unverified.** LibreOffice recalculates a throwaway copy, then the audit, the diff and the checks prove that the change did what was intended and only that.
 3. **Models are consistent by construction.** New models come from a declarative builder where each row has one formula template, so the classic errors (a mid-row plug, a typed number in a formula, a broken copy-across) cannot happen.
 
-Tools: `scripts/xl.py` (CLI), `scripts/xlcore.py` (library), `scripts/model_builder.py` (new models). Tests: `python3 tests/test_xl.py` (about 3 minutes; proves insert and patch against LibreOffice). References: `references/modeling_standards.md` (layout, formatting, checks, scenarios, circularity, valuation review), `references/formulas.md` (portable formulas and patterns), `references/fidelity.md` (what each save path destroys, measured), `references/google_sheets.md`.
+Tools: `scripts/xl.py` (CLI), `scripts/audit.py` (rule-labelled audit), `scripts/xlcore.py` (library), `scripts/model_builder.py` (new models). Tests: `python3 tests/test_xl.py` (about 4 minutes) proves insert, patch and every audit rule against planted defects and LibreOffice; `python3 tests/oracle_compare.py book.xlsx "Sheet" row 12` proves an insert on any real workbook.
 
-In the commands below, `XL` means `python3 .claude/skills/excel-modeling/scripts/xl.py`.
+References:
+- `references/modeling_standards.md`: layout, formatting, checks, scenarios, circularity, valuation review.
+- `references/formulas.md`: portable formulas and patterns.
+- `references/fidelity.md`: what each save path destroys, measured, plus the real-model stress test.
+- `references/google_sheets.md`.
+- `references/prior_art.md`: what other projects do, and what this skill took from them.
+
+In the commands below, `XL` means `python3 .claude/skills/excel-modeling/scripts/xl.py`. Optional second engine: `pip install formulas` enables `XL crosscheck`.
+
+| Command | Use |
+|---|---|
+| `features`, `map`, `read` | Understand a workbook cheaply: risky parts; a row-by-row map with live values; a range with formula, value, input or link tag, format and source note, plus a citation URI |
+| `patch`, `diff` | Surgical edits (set, fill, insert rows or columns, style, names, iterate); prove only intended cells changed |
+| `verify`, `crosscheck` | LibreOffice recalc of a copy (errors and unparsable formulas); second-engine agreement |
+| `audit` | Rule-labelled findings, rating Clean, Minor Issues or Major Issues; `--format md`, `--annotate review.xlsx`, `--suppress`, `--fail-on` |
+| `trace` | Precedents or `--dependents` with live values and row labels |
+| `scenarios`, `sensitivity`, `tornado` | Flip the scenario switch with assertions; verified grids with assertions; one-at-a-time driver ranking |
+| `render` | PNG of every sheet and chart, so layout gets looked at |
 
 ## Step 0: route the request
 
@@ -74,17 +91,40 @@ Then: `XL audit` must be empty, the master check must be 1 in every scenario (lo
 
 ## A: audit and trace
 ```
-XL audit model.xlsx         # JSON: errors, inconsistent rows, plugs, literals in formulas, refs to blanks,
-                            # bare new functions (#NAME? risk), volatile, whole-column, IFERROR, circularity,
-                            # SUM ranges that skip a line item, colour-convention breaks, % stored as 5 not 0.05
+XL audit model.xlsx --format md            # findings table, most severe first, with rule, confidence and fix
+XL audit model.xlsx --annotate review.xlsx # REVIEW copy: comment and fill on each finding cell plus an AUDIT sheet
 XL trace model.xlsx "Valuation!C10" --depth 3          # precedents with live values and row labels
 XL trace model.xlsx "Inputs!C17" --dependents          # what an input drives
-XL verify model.xlsx --cells "Valuation!C10,Checks!D7"
+XL crosscheck model.xlsx                   # do two independent engines agree on every formula?
 ```
-Each audit finding is a claim to check by reading the cell, not an automatic fix. To explain a number, trace it and give the dollar or basis-point decomposition the repo's CLAUDE.md requires, never a narrative.
+Rules: errors (root versus propagated), circularity, inconsistent formulas (row and column neighbours), runs interrupted by data or blanks, ranges stopping short of a like cell, double counts, subtotals inside totals, approximate lookups, literals in formulas (with PerfectXL's exclusion list), refs to blanks or text, numbers stored as text, bare new functions, volatile, whole-column, IFERROR, external links, complexity, nested IF, unused inputs, hidden or invisible content, workbook settings (manual calc, iteration, 1904 dates), the colour convention, and inputs without a source. Each finding is a claim: open the cell and confirm it before calling it an error.
+
+**Report first.** On a user's workbook, show the audit (rating plus table) and change nothing until they approve fixes. To explain a number, trace it and give the dollar or basis-point decomposition the repo's CLAUDE.md requires, never a narrative.
 
 ## S: sensitivities and scenarios
-`XL sensitivity model.xlsx "Valuation!C10" --row "Inputs!C17=0.08,0.09,0.10,0.11" --col "Inputs!E21=0.08,0.11,0.14"` recalculates the full model at every grid point through LibreOffice (about 2 seconds for a 3x3 grid). `--write "Outputs!B30" --out new.xlsx` lays the verified grid into the workbook as a labelled static block. Use it in place of Excel data tables, which LibreOffice cannot evaluate (fidelity.md); if the user specifically wants a live data table, explain that trade-off first.
+```
+XL scenarios model.xlsx --switch "Inputs!C5=Bear,Base,Bull" --outputs "Valuation!C10,Valuation!C11" --check "Checks!D7" --order "Valuation!C10:asc"
+XL sensitivity model.xlsx "Valuation!C11" --row "Inputs!C17=0.09,0.095,0.10,0.105,0.11" --col "Inputs!E22=0.015,0.02,0.025,0.03,0.035"
+XL tornado model.xlsx "Valuation!C11" --inputs "Inputs!C17=0.09,0.11; Inputs!C14; Inputs!C15" --pct 0.10
+```
+- `scenarios` asserts three things: the switch moves the outputs (catches a wrong switch cell, which happened while building this skill), the master check is 1 in every case, and outputs are ordered as stated.
+- `sensitivity` recalculates the full model at every grid point and asserts the conventions from anthropics/financial-services dcf-model: odd dimensions, centre equals the live model, every cell distinct, monotonic along each axis. `--write "Outputs!B30" --out new.xlsx` lays the verified grid in as a labelled static block.
+- Prefer this to Excel data tables, which LibreOffice cannot evaluate (fidelity.md). If the user specifically wants a live data table, explain that trade-off first.
+- `tornado` ranks inputs by swing; `scripts/jordan_valuation_xlsx.py` writes its result to `data/valuation/jordan_tornado.csv`.
+
+## Presentation
+`model_builder` charts (`m.chart_sheet(...)`) are live and portable:
+- `waterfall(title, start, steps)`: stacked columns with an invisible base, plus an automatic check that the bars reconcile.
+- `football_field(title, rows, marker=...)`: stacked bars with a red live marker.
+
+Then run `XL render model.xlsx --out dir` and **look at the PNGs**. Two layout bugs in this skill's first charts (overlapping charts, and a cell-linked axis title LibreOffice shows as "0") were caught only this way.
+
+## Rules of conduct (from the prior art and this skill's own mistakes)
+- Never say "verified" until the saved file has been recalculated (`verify`) and the key cells read back; with `formulas` installed, also `crosscheck`.
+- Edit a copy (`--out`), diff it, then replace. Never overwrite the only copy of a user's file.
+- Builds go section by section (inputs, then operations, then valuation, then checks), with `audit` and `verify` after each. On a large build, show the user each section before starting the next.
+- Quarterly update of a model: produce a variance table (prior estimate | actual | delta | driver) and keep the old estimates in a log row or sheet; never overwrite estimates with actuals in place.
+- Every hard-coded input has a "Source:" comment or note (the builder writes one automatically; the audit flags missing ones).
 
 ## Gotchas that bite (all verified here; details in references/fidelity.md)
 - openpyxl save: drops sparklines and dynamic-array metadata, and blanks **every** cached value. `data_only=True` plus save destroys every formula. Use openpyxl only to read.

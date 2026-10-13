@@ -106,5 +106,17 @@ check(not clean, f"clean fixture has no formula findings ({[(f['id'], f['cell'])
 v = xl.verify(bad)
 check(any("xlookup" in u for u in v["libreoffice_could_not_parse"]), "verify flags formulas LibreOffice could not parse")
 
+# scenarios / sensitivity / tornado / crosscheck on the fixture
+sc = xl.scenarios(FX, "Inputs!B3", [0.0, 0.05, 0.10], ["Model!F9"])
+check(sc[0]["Model!F9"] < sc[1]["Model!F9"] < sc[2]["Model!F9"], "scenarios: net income rises with growth")
+g = xl.sensitivity(FX, "Model!F9", "Inputs!B3", [0.0, 0.05, 0.1], "Inputs!B4", [0.5, 0.55, 0.6])
+ga = xl.grid_assertions(g)
+check(ga["pass"] and abs(g["grid"][0][0] - (1000 * (1 - 0.5 - 0.3) - 10) * 0.79) < 1e-6,
+      f"sensitivity grid matches closed form and passes assertions ({g['grid'][0][0]}, {ga})")
+t = xl.tornado(FX, "Model!F9", [("Inputs!B4", 0.5, 0.6), ("Inputs!B6", 0.2, 0.22)])
+check(t["ranked"][0]["input"] == "Inputs!B4", "tornado ranks COGS above tax for net income")
+cc = xl.crosscheck(FX)
+check(cc["status"] in ("agree", "skipped"), f"second engine agrees with LibreOffice ({cc.get('status')}, {cc.get('compared')})")
+
 print(f"\n{len(fails)} failure(s); work dir {W}")
 sys.exit(1 if fails else 0)

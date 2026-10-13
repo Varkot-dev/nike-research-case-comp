@@ -2,6 +2,7 @@
 """xl: map, audit, patch, verify, diff and trace an .xlsx without rebuilding it.
 
     python3 xl.py map    model.xlsx [--sheet NAME] [--max-rows 80]
+    python3 xl.py read   model.xlsx "Sheet!A1:F20"     (formula, live value, input/link tag, format, note)
     python3 xl.py audit  model.xlsx [--sheet NAME] [--allow 0,1,12,100]
     python3 xl.py patch  model.xlsx ops.json --out new.xlsx [--refresh-cache]
     python3 xl.py verify model.xlsx [--cells "Sheet!B5,Sheet!C9"]
@@ -10,6 +11,7 @@
     python3 xl.py features model.xlsx
     python3 xl.py scenarios model.xlsx --switch "Inputs!C4=Bear,Base,Bull" --outputs "Valuation!C10" --check "Checks!D7" --order "Valuation!C10:asc"
     python3 xl.py tornado model.xlsx "Valuation!C10" --inputs "Inputs!C17; Inputs!C14=0.2,0.25" [--pct 0.1]
+    python3 xl.py crosscheck model.xlsx                 (second engine vs LibreOffice; pip install formulas)
     python3 xl.py render model.xlsx --out pngdir        (look at charts and layout)
     python3 xl.py sensitivity model.xlsx "Model!F9" --row "Inputs!B3=0,0.05,0.1" [--col "Inputs!B4=0.5,0.6"] [--write "Out!B2" --out new.xlsx]
 
@@ -1039,6 +1041,102 @@ def cmd_render(a):
     print(json.dumps({"pdf": str(pdf), "pages": pages}, indent=1))
 
 
+def crosscheck(path, tol=1e-6):
+    """Recalculate with a second, independent engine (the `formulas` package, pure Python)
+    and compare every formula cell with LibreOffice. Agreement from two engines is much
+    stronger evidence than one; disagreements point at engine-specific functions,
+    unsupported syntax or unconverged circularity."""
+    # Run the engine in a clean interpreter: after a LibreOffice UNO session, uno's import
+    # hook breaks later imports in the same process (seen: "No module named 'envwrap'").
+    import subprocess
+    code = r"""
+import json, sys, io, contextlib
+try:
+    import formulas
+except ImportError:
+    print(json.dumps({"_status": "skipped"})); sys.exit()
+try:
+    with contextlib.redirect_stderr(io.StringIO()):
+        sol = formulas.ExcelModel().loads(sys.argv[1]).finish(circular=True).calculate()
+except Exception as e:
+    print(json.dumps({"_status": "engine_failed", "_reason": str(e)[:300]})); sys.exit()
+out = {}
+for k, v in sol.items():
+    try:
+        x = v.value[0, 0]
+    except Exception:
+        x = v
+    x = x.item() if hasattr(x, "item") else x
+    out[k] = x if isinstance(x, (int, float, str, bool)) or x is None else str(x)
+print(json.dumps(out, default=str))
+"""
+    r = subprocess.run([sys.executable, "-c", code, str(path)], capture_output=True, text=True, timeout=1800)
+    try:
+        sol = json.loads(r.stdout.strip().splitlines()[-1])
+    except Exception:
+        return {"status": "engine_failed", "reason": (r.stderr or r.stdout)[-300:]}
+    if "_status" in sol:
+        return {"status": sol["_status"], "reason": sol.get("_reason", "pip install formulas (optional second engine)")}
+    lo = load_workbook(X.lo_recalc_copy(path), data_only=True)
+    wf = load_workbook(path)
+    upper = {s.upper(): s for s in wf.sheetnames}
+    n, dis = 0, []
+    for k, v in sol.items():
+        m = re.match(r"'\[(.+?)\](.+?)'!([A-Z]+\d+)$", k)
+        if not m or m.group(2).upper() not in upper:
+            continue
+        sh, cell = upper[m.group(2).upper()], m.group(3)
+        if not is_formula(wf[sh][cell].value):
+            continue
+        fv = v
+        lv = lo[sh][cell].value
+        if hasattr(lv, "isoformat"):
+            from openpyxl.utils.datetime import to_excel
+            lv = to_excel(lv)
+        n += 1
+        if isinstance(lv, (int, float)) and isinstance(fv, (int, float)) and abs(lv - fv) <= tol * max(1, abs(lv)):
+            continue
+        if str(lv).strip() == str(fv).strip() or (lv in (None, "") and fv in (0, "", None)):
+            continue
+        dis.append({"cell": f"{sh}!{cell}", "libreoffice": lv, "formulas": str(fv), "formula": wf[sh][cell].value[:80]})
+    return {"status": "agree" if not dis else "disagreements", "compared": n, "disagree": len(dis), "cells": dis[:40]}
+
+
+def cmd_read(a):
+    """Read a range compactly: one line per non-empty cell with formula, live value and
+    the style facts that carry meaning (input colour, number format), plus a citation
+    URI (file#Sheet!A1:F18) to quote when the numbers are used elsewhere."""
+    sh, addr = parse_cellspec(a.range)
+    wf = load_workbook(a.file)
+    wv = load_workbook(X.lo_recalc_copy(a.file), data_only=True) if not a.no_recalc else load_workbook(a.file, data_only=True)
+    ws, wsv = wf[sh], wv[sh]
+    cells = expand(addr, a.max_cells)
+    if not cells:
+        raise SystemExit(f"range {addr} is empty or larger than --max-cells {a.max_cells}")
+    print(f"# {Path(a.file).name}#{X.quote_sheet(sh)}!{addr}")
+    for ref in cells:
+        c = ws[ref]
+        if c.value is None:
+            continue
+        v = wsv[ref].value
+        tag = []
+        col = font_rgb(c)
+        if col == "0000FF":
+            tag.append("input")
+        elif col in ("008000", "00B050"):
+            tag.append("link")
+        if c.number_format and c.number_format != "General":
+            tag.append(c.number_format)
+        if c.comment is not None:
+            tag.append("note: " + c.comment.text.strip().replace("\n", " ")[:80])
+        body = f"{c.value} -> {v!r}" if is_formula(c.value) else repr(c.value)
+        print(f"{ref:<7} {label_of(ws, c.row)[:28]:<28} {body}" + (f"  [{'; '.join(tag)}]" if tag else ""))
+
+
+def cmd_crosscheck(a):
+    print(json.dumps(crosscheck(a.file), indent=1, default=str))
+
+
 def cmd_features(a):
     print(json.dumps(features(a.file), indent=1))
 
@@ -1068,6 +1166,9 @@ def main():
     p = sp.add_parser("scenarios"); p.add_argument("file"); p.add_argument("--switch", required=True, help="Inputs!C4=Bear,Base,Bull")
     p.add_argument("--outputs", required=True); p.add_argument("--check", help="master check cell, must be 1")
     p.add_argument("--order", help="Valuation!C10:asc  (strictly increasing in case order)")
+    p = sp.add_parser("crosscheck"); p.add_argument("file")
+    p = sp.add_parser("read"); p.add_argument("file"); p.add_argument("range", help="Sheet!A1:F20")
+    p.add_argument("--max-cells", type=int, default=4000); p.add_argument("--no-recalc", action="store_true")
     p = sp.add_parser("render"); p.add_argument("file"); p.add_argument("--out", required=True); p.add_argument("--dpi", type=int, default=70)
     p = sp.add_parser("tornado"); p.add_argument("file"); p.add_argument("output")
     p.add_argument("--inputs", required=True, help='"Inputs!C17=0.08,0.12; Inputs!C14" (bare cell = base +/- pct)')
@@ -1075,7 +1176,7 @@ def main():
     a = ap.parse_args()
     {"map": cmd_map, "audit": cmd_audit, "patch": cmd_patch, "verify": cmd_verify, "diff": cmd_diff,
      "trace": cmd_trace, "features": cmd_features, "sensitivity": cmd_sensitivity,
-     "scenarios": cmd_scenarios, "tornado": cmd_tornado, "render": cmd_render}[a.cmd](a)
+     "scenarios": cmd_scenarios, "tornado": cmd_tornado, "render": cmd_render, "crosscheck": cmd_crosscheck, "read": cmd_read}[a.cmd](a)
 
 
 if __name__ == "__main__":

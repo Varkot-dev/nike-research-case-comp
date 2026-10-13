@@ -532,5 +532,5 @@ class ChartSheet:
             ws.write(r + 1, 0, note, m.fmt(italic=True))
         # reconciliation check: the bars must add up to the end value
         ref = lambda rr, k: f"{qs(self.name)}!{xl_rowcol_to_cell(rr, k, True, True)}"
-        m.checks.append((f"{title}: bars reconcile", f"={ref(r, 6)}-{ref(r0 + 2, 1)}-SUM({ref(r0 + 3, 1)}:{ref(r - 1, 1)})",
-                         0.001, "zero"))
+        rng = f"{ref(r0 + 3, 1)}:{xl_rowcol_to_cell(r - 1, 1, True, True)}"   # Sheet!$B$6:$B$10, not Sheet!..:Sheet!..
+        m.checks.append((f"{title}: bars reconcile", f"={ref(r, 6)}-{ref(r0 + 2, 1)}-SUM({rng})", 0.001, "zero"))

@@ -47,7 +47,8 @@ Also: Arial or Calibri at one size; no merged cells (use "Center Across Selectio
   1. An Excel Data Table (What-If) stays live in Excel. Its input cells must be on the same sheet as the table, it recalculates single-threaded and slowly, it does not survive a LibreOffice save, and it cannot be verified here (fidelity.md).
   2. Preferred here: `xl.py sensitivity` brute-forces the grid through the full model, then `--write` lays it out as a labelled static block that names the command that produced it.
   3. A formula grid that re-derives the output algebraically is acceptable only for simple closed-form outputs (for example, a TV grid by WACC and g); it silently diverges once the model has non-linearities such as MAX floors or tax shields.
-- Put the base case in the centre of the grid and highlight it; the axis steps must bracket the scenarios.
+- Grid conventions (anthropics/financial-services dcf-model, verified on the source): an odd number of rows and columns (5x5, sometimes 7x7), so there is a true centre; the centre cell equals the model's live output; highlight it. `xl.py sensitivity` asserts these, plus every cell distinct and monotonic along each axis. The axis steps must bracket the scenarios.
+- Standard DCF grids: WACC x terminal growth, revenue growth x EBIT margin. Add a tornado (`xl.py tornado`) to rank which inputs matter before choosing grid axes.
 
 ## 6. Circularity
 - FAST [1.01-11] and ICAEW say no deliberate circularity. Sell-side LBOs often compute interest on average balances anyway.
