@@ -13,7 +13,8 @@ Labels follow the house rules (`CLAUDE.md`): filing citations with printed pages
 1. **[KEY FINDING] The supply-cut signature appears only where Nike is shrinking the business, not where the Jordan cut is aimed** (Test 5). Greater China (units -26%, ASP flat on lower discounts) and Converse (units -34%, ASP +6 points) show units cut at stable prices in Q1 FY2027. North America, the focus of the Jordan retro cut, sold 2% more footwear pairs at lower ASP, and EMEA cites higher discounts (Q1 FY27 10-Q pp. 26 to 28). All 694 unit and price statements Nike filed since FY2017 are in `data/definitive/nike_units_asp_tidy.csv`.
 2. **[KEY FINDING] Nike's main shoe factory cut in 2023, four quarters before Nike's footwear revenue fell, and barely cut when it did** (Test 1, chart 20). Feng Tay revenue fell 10% to 23% a year in Q3 FY23 to Q2 FY24 while Nike footwear grew; in FY2025 Nike footwear fell 11.7% but Feng Tay only 4.7%. The factory data fit the 2023 inventory clear-out, not a supply cut behind the FY2025 decline. Feng Tay also leads Nike footwear growth by about one quarter (correlation 0.68 excluding COVID years), and its Q1 FY27 -8.8% points to continued weakness in Q2.
 3. **[KEY FINDING] Retros released just before the October 2026 cut sit in full size runs at full price weeks after launch** (Test 3). AJ4 Rare Air Tour Yellow has all 13 sizes in stock at nike.com, Foot Locker and Champs on day 38, the oversupply pattern measured directly on the shelf. Whether the cut changes this is decided by re-running the tracker on the AJ1 Royal around October 24 and November 7.
-4. **The FY2018 "supply reset" began with discounting** (Test 5). North America footwear units were flat while discounts cut 3 points off revenue in Q1 FY2018 (Q1 FY18 10-Q p. 26); units fell only in the next two quarters. The FY2018 analog for Jordan is a discount-then-cut sequence.
+4. **[KEY FINDING] Nike holds Jordan retro prices on its own site while the shoes do not sell** (Tests 2 to 4). 2 of 82 listed Jordan general releases are discounted on nike.com today, against all 22 Pegasus 41 colourways from 2024; yet retros sit in full size runs weeks after launch and trade 26% to 35% below retail on resale. The markdown happens at retailers and in resale, so a held list price is not evidence of full-price demand.
+5. **The FY2018 "supply reset" began with discounting** (Test 5). North America footwear units were flat while discounts cut 3 points off revenue in Q1 FY2018 (Q1 FY18 10-Q p. 26); units fell only in the next two quarters. The FY2018 analog for Jordan is a discount-then-cut sequence.
 
 ## Test 1. Factory orders: Nike's footwear suppliers' monthly revenue and pairs
 
@@ -48,7 +49,21 @@ Labels follow the house rules (`CLAUDE.md`): filing citations with printed pages
 - **Treated vs control:** release cohorts 2023, 2024, 2025, 2026; models Nike cut (AJ1 High) vs models it expanded (AJ3, AJ4).
 - **Would disprove "full-price recovery":** 2026 releases reach markdown as fast as or faster than 2024 releases.
 
-*(Pending.)*
+**Partial result (Oct 13, 2026; the days-to-markdown history is still running).** Data and scripts: `data/definitive/markdown/`, `scripts/definitive/markdown/`. Today's price for 652 colourways comes from nike.com's public product feed (api.nike.com, opened Oct 13, 2026): 211 of 275 Jordan retro style codes from 2023 to 2026 and 381 control colourways (Pegasus 40 to 42, Vomero 5, Vomero 18, Dunk Low). Shares are my arithmetic over colourways the feed lists as available (listed, not necessarily in stock), collaborations excluded.
+
+| Model, share discounted on nike.com today | 2023 | 2024 | 2025 | 2026 |
+|---|---|---|---|---|
+| AJ1 High OG | 0 of 4 | 0 of 8 | 0 of 8 | 0 of 7 |
+| AJ3 | 0 of 2 | 0 of 1 | 0 of 6 | 0 of 5 |
+| AJ4 | 0 of 3 | 1 of 9 | 0 of 5 | 0 of 6 |
+| Pegasus 40 to 42 | 9 of 11 | 22 of 22 (median 29% off) | 17 of 17 (30% off) | 16 of 38 (25% off) |
+| Vomero 5 | 0 of 2 | 18 of 23 (30% off) | 14 of 17 (30% off) | 7 of 13 (25% off) |
+| Dunk Low | 9 of 10 (27% off) | 9 of 11 (31% off) | 6 of 10 (24% off) | 0 of 7 |
+
+- **[KEY FINDING] Nike does not mark down Jordan retros on its own site; it marks down running shoes and Dunks.** 2 of 82 listed Jordan general releases are discounted on nike.com today, against 22 of 22 Pegasus 41 colourways from 2024. AJ1 High OG "Midnight Navy" is still listed at its full $180, 759 days after release (product feed, Oct 13, 2026); a Wayback capture shows it at full price on day 82 too (https://web.archive.org/web/20241205162606id_/https://www.nike.com/t/air-jordan-1-retro-high-og-midnight-navy-mens-shoes-8xgDfd/DZ5485-401). All 15 Wayback price checks of 2024 and 2026 AJ1 High, AJ3 and AJ4 releases, between day 6 and day 138, were at full price.
+- **Read with Tests 3 and 4 (my inference):** on nike.com, Jordan retro prices are held at full price, but the same shoes sit in full size runs weeks after launch (Test 3), many 2025 to 2026 retros were taken off nike.com rather than discounted (product status INACTIVE or HOLD, Test 3), and on the resale market AJ1 High general releases trade 26% to 35% below retail. The price cut for unsold Jordan retros happens off nike.com, at retailers (for example AJ3 Spring 16% to 21% off at Foot Locker and Champs, Test 3) and in resale, not in Nike's own channel. A held list price is therefore not evidence of full-price sell-through.
+- **Caveats:** the "available" flag counts listed colourways, so retros that sold out or were removed drop out and bias the Jordan share toward zero; for sold-out items the feed may show full price; control release dates are approximate (feed start date or first capture).
+- **Still running:** first-markdown dates for a priority subset (AJ1 High, AJ3, AJ4 from 2024 to 2026 against Pegasus 41 and Vomero 5 controls) from Wayback captures. Results will be added here.
 
 ## Test 3. Size runs left after launch
 
@@ -120,4 +135,5 @@ What this test cannot separate: units falling with flat or rising ASP is consist
 | 2026-10-13 | Test 5 (units vs price) reported: 694 filing statements, two key findings. |
 | 2026-10-13 | Test 1 (factory orders) reported: Feng Tay, Pou Chen, Yue Yuen series 2013 to 2026; chart 20. |
 | 2026-10-13 | Test 3 (size runs) reported: 83 shoes at three retailers, tracker script committed; decisive re-runs on Oct 24 and Nov 7. |
+| 2026-10-13 | Test 2 (time to markdown) partial: nike.com prices for 652 colourways; first-markdown history still running. |
 | 2026-10-13 | Session paused with Tests 2, 3 and 4 still running; their partial, unverified outputs are saved in `data/definitive/interim/` (see its README). |

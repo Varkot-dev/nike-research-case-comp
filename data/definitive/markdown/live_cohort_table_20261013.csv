@@ -1,0 +1,47 @@
+group,line,release_year,n_available_colorways,n_discounted_today,share_discounted_today_pct_DERIVED,median_depth_of_discounted_pct_DERIVED
+Control,Dunk Low,2023,10,9,90.0,27.0
+Control,Dunk Low,2024,11,9,81.8,30.5
+Control,Dunk Low,2025,10,6,60.0,24.2
+Control,Dunk Low,2026,7,0,0.0,
+Control,Pegasus 40,2023,11,9,81.8,30.0
+Control,Pegasus 41,2024,22,22,100.0,29.3
+Control,Pegasus 41,2025,17,17,100.0,29.7
+Control,Pegasus 41,2026,2,1,50.0,29.7
+Control,Pegasus 42,2026,38,16,42.1,24.8
+Control,Vomero 18,2025,25,14,56.0,24.5
+Control,Vomero 18,2026,28,15,53.6,16.8
+Control,Vomero 5,2023,2,0,0.0,
+Control,Vomero 5,2024,23,18,78.3,29.7
+Control,Vomero 5,2025,17,14,82.4,29.7
+Control,Vomero 5,2026,13,7,53.8,24.7
+Jordan,AJ1 High OG,2023,4,0,0.0,
+Jordan,AJ1 High OG,2024,8,0,0.0,
+Jordan,AJ1 High OG,2025,8,0,0.0,
+Jordan,AJ1 High OG,2026,7,0,0.0,
+Jordan,AJ1 Low OG,2023,2,0,0.0,
+Jordan,AJ1 Low OG,2024,10,0,0.0,
+Jordan,AJ1 Low OG,2025,4,0,0.0,
+Jordan,AJ1 Low OG,2026,6,0,0.0,
+Jordan,AJ11,2023,2,0,0.0,
+Jordan,AJ11,2024,2,0,0.0,
+Jordan,AJ11,2025,2,0,0.0,
+Jordan,AJ11,2026,1,0,0.0,
+Jordan,AJ12,2023,1,0,0.0,
+Jordan,AJ12,2024,3,0,0.0,
+Jordan,AJ12,2025,3,0,0.0,
+Jordan,AJ12,2026,2,0,0.0,
+Jordan,AJ3,2023,2,0,0.0,
+Jordan,AJ3,2024,1,0,0.0,
+Jordan,AJ3,2025,6,0,0.0,
+Jordan,AJ3,2026,5,0,0.0,
+Jordan,AJ4,2023,3,0,0.0,
+Jordan,AJ4,2024,9,1,11.1,24.8
+Jordan,AJ4,2025,5,0,0.0,
+Jordan,AJ4,2026,6,0,0.0,
+Jordan,AJ5,2024,3,1,33.3,24.8
+Jordan,AJ5,2025,4,0,0.0,
+Jordan,AJ5,2026,4,0,0.0,
+Jordan,Other Jordan,2023,1,0,0.0,
+Jordan,Other Jordan,2024,10,3,30.0,29.7
+Jordan,Other Jordan,2025,6,2,33.3,26.35
+Jordan,Other Jordan,2026,9,1,11.1,19.3

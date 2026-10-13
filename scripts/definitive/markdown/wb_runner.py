@@ -70,7 +70,7 @@ def fetch(url):
     for a in range(5):
         w=last[0]+6.5-time.time()
         if w>0: time.sleep(w)
-        cp=subprocess.run(["curl","-s","-L","--compressed","-A",UA,"-o",p,"-w","%{http_code}","--max-time","120",url],capture_output=True,text=True)
+        cp=subprocess.run(["curl","-s","-L","--compressed","-A",UA,"-o",p,"-w","%{http_code}","--max-time","60",url],capture_output=True,text=True)
         last[0]=time.time(); st=cp.stdout.strip()
         open(LOG,"a").write(json.dumps({"t":time.strftime("%Y-%m-%dT%H:%M:%S"),"url":url,"status":st})+"\n")
         if st=="200" and os.path.getsize(p)>5000: return p,200

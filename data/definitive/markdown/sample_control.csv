@@ -1,0 +1,382 @@
+code,release_date,retail_usd,line,release_year,collab_or_special,gender,name,release_source,commerceStartDate,first_wayback_capture,n_cdx_captures
+DV3853-700,2023-12-12,130,Pegasus 40,2023,False,men,Nike Pegasus 40 Bronzine/Black/Olive Aura/Sea Glass,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-12-12,,0
+DV3853-002,2023-04-12,130,Pegasus 40,2023,False,men,Nike Pegasus 40 Black/Anthracite/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-04-12,2023-04-12,4
+DV3853-004,2023-09-21,140,Pegasus 40,2023,False,men,Nike Pegasus 40 Wolf Grey/Black/White/Volt,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-09-21,2024-02-28,1
+DV3853-105,2024-01-01,140,Pegasus 40,2024,False,men,Nike Pegasus 40 White/Photon Dust/Fierce Pink/Deep Royal Blue,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-01-01,,0
+DV3853-001,2023-04-06,130,Pegasus 40,2023,False,men,Nike Pegasus 40 Black/Iron Grey/White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-04-06,2023-05-20,7
+DV3853-003,2023-04-06,130,Pegasus 40,2023,False,men,Nike Pegasus 40 Black/Light Crimson/White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-04-06,2023-05-20,9
+DV3853-100,2023-04-19,130,Pegasus 40,2023,False,men,Nike Pegasus 40 White/Light Orewood Brown/Phantom/Obsidian,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-04-19,2023-04-19,45
+DV3853-401,2023-07-01,130,Pegasus 40,2023,False,men,Nike Pegasus 40 Racer Blue/Black/Sundial/White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-07-01,,0
+DV3853-400,2023-04-06,130,Pegasus 40,2023,False,men,Nike Pegasus 40 Midnight Navy/Black/Racer Blue/Pure Platinum,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-04-06,2023-04-18,5
+DV3853-102,2023-05-08,130,Pegasus 40,2023,False,men,Nike Pegasus 40 White/Black/Photon Dust/Wolf Grey,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-05-08,2023-05-09,185
+DV3853-006,2023-12-12,130,Pegasus 40,2023,False,men,Nike Pegasus 40 Platinum Tint/White/Green Strike/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-12-12,2024-04-12,10
+DV3853-005,2023-10-20,130,Pegasus 40,2023,False,men,Nike Pegasus 40 Black/Burgundy Crush/Geode Teal/Purple Ink,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-10-20,2023-11-01,3
+DV3853-500,2023-04-01,130,Pegasus 40,2023,False,men,Nike Pegasus 40 Oxygen Purple/Electric Algae/Indigo Haze/Gridiron,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-04-01,,0
+DV3853-600,2023-09-20,130,Pegasus 40,2023,False,men,Nike Pegasus 40 University Red/Midnight Navy/Blue Joy/Sea Glass,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-09-20,2023-10-15,4
+DV3853-101,2023-03-29,130,Pegasus 40,2023,False,men,Nike Pegasus 40 White/Coconut Milk/Volt/Multi-Color,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-04-06,2023-03-29,59
+DV3854-700,2023-03-27,140,Pegasus 40,2023,False,women,Nike Pegasus 40 Volt/Barely Volt/Bright Crimson/Volt,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-04-06,2023-03-27,18
+DV3854-101,2023-04-13,130,Pegasus 40,2023,False,women,Nike Pegasus 40 White/Pure Platinum/Metallic Silver,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-04-13,2023-11-24,6
+DV3854-600,2023-04-06,130,Pegasus 40,2023,False,women,Nike Pegasus 40 Pearl Pink/Pink Foam/Hemp/White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-04-06,2023-07-18,10
+DV3854-301,2023-09-25,130,Pegasus 40,2023,False,women,Nike Pegasus 40 Deep Jungle/Black/White/Metallic Silver,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-09-25,2023-11-21,1
+DV3854-100,2023-04-06,130,Pegasus 40,2023,False,women,Nike Pegasus 40 White/Coconut Milk/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-04-06,2023-05-04,42
+DV3854-104,2024-01-02,130,Pegasus 40,2024,False,women,Nike Pegasus 40 Sail/Coconut Milk/White/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-01-02,2024-01-04,82
+DV3854-002,2023-04-01,130,Pegasus 40,2023,False,women,Nike Pegasus 40 Black/Dark Smoke Grey/Baltic Blue/Speed Yellow,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-04-01,,0
+DV3854-010,2023-12-17,140,Pegasus 40,2023,False,women,Nike Pegasus 40 Platinum Violet/Smokey Mauve/Saturn Gold/Summit White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-12-17,,0
+DV3854-003,2023-06-12,130,Pegasus 40,2023,False,women,Nike Pegasus 40 Black/Anthracite/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-06-12,2023-06-13,7
+DV3854-004,2023-06-20,130,Pegasus 40,2023,False,women,Nike Pegasus 40 Black/White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-06-20,2023-07-14,149
+DV3854-005,2023-09-16,130,Pegasus 40,2023,False,women,Nike Pegasus 40 Black/Purple Ink/Pearl Pink/Night Maroon,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-09-16,,0
+DV3854-800,2023-06-26,130,Pegasus 40,2023,False,women,Nike Pegasus 40 Guava Ice/Amber Brown/Photon Dust/Vivid Purple,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-06-26,2024-03-03,1
+DV3854-006,2023-10-02,130,Pegasus 40,2023,False,women,Nike Pegasus 40 Photon Dust/Light Smoke Grey/Bright Mandarin/Obsidian,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-10-02,,0
+DV3854-200,2023-07-01,130,Pegasus 40,2023,False,women,Nike Pegasus 40 Velvet Brown/Team Red/Black/Bright Crimson,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-07-01,,0
+DV3854-300,2023-07-01,130,Pegasus 40,2023,False,women,Nike Pegasus 40 Jade Ice/White/Sea Glass/Picante Red,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-07-01,,0
+DV3854-601,2023-11-03,130,Pegasus 40,2023,False,women,Nike Pegasus 40 Fierce Pink/Pink Foam/Fireberry/Metallic Red Bronze,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-11-03,2023-11-03,10
+DV3854-001,2023-04-06,130,Pegasus 40,2023,False,women,Nike Pegasus 40 Black/Iron Grey/White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-04-06,2023-05-08,5
+DV3854-011,2024-01-20,130,Pegasus 40,2024,False,women,Nike Pegasus 40 Black/Laser Orange/White/Hyper Violet,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-01-20,2024-04-12,9
+DV3854-102,2023-03-28,140,Pegasus 40,2023,False,women,Nike Pegasus 40 White/Blue Tint/Laser Orange/Picante Red,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-04-06,2023-03-28,52
+FD2722-103,2024-05-19,140,Pegasus 41,2024,False,men,Nike Pegasus 41 White/Dusty Cactus/Glacier Blue/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-06-05,2024-05-19,157
+FD2722-110,2025-03-20,145,Pegasus 41,2025,False,men,Nike Pegasus 41 White/Wolf Grey/Pure Platinum/Racer Blue,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-03-20,2025-03-27,20
+FD2722-012,2025-02-20,140,Pegasus 41,2025,False,men,Nike Pegasus 41 Light Silver/Denim Turquoise/Dusty Cactus/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-02-20,2025-03-02,12
+FD2722-120,2026-01-05,145,Pegasus 41,2026,False,men,Nike Pegasus 41 White/Volt Ice/Barely Volt/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-01-05,2026-01-06,7
+FD2722-701,2024-05-23,140,Pegasus 41,2024,False,men,Nike Pegasus 41 Volt/Barely Volt/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-06-05,2024-05-23,58
+FD2722-009,2024-12-29,145,Pegasus 41,2024,False,men,Nike Pegasus 41 Cool Grey/Wolf Grey/Pure Platinum/White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-12-29,2025-01-18,39
+FD2722-104,2024-09-20,140,Pegasus 41,2024,False,men,Nike Pegasus 41 White/Black/Volt,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-09-20,2024-09-21,23
+FD2722-014,2025-03-20,145,Pegasus 41,2025,False,men,Nike Pegasus 41 Ghost/Football Grey/Deep Night/Blue Void,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-03-20,2025-03-27,44
+FD2722-108,2024-09-20,140,Pegasus 41,2024,False,men,Nike Pegasus 41 White/Wolf Grey/Black/Picante Red,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-09-20,2024-09-21,48
+FD2722-106,2024-06-20,140,Pegasus 41,2024,False,men,Nike Pegasus 41 Light Orewood Brown/Sesame/White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-06-20,2024-06-28,53
+FD2722-109,2024-12-20,140,Pegasus 41,2024,False,men,Nike Pegasus 41 Pale Ivory/Limelight/Olive Aura/Sequoia,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-12-20,2025-01-18,26
+FD2722-102,2024-06-05,145,Pegasus 41,2024,False,men,Nike Pegasus 41 White/Pure Platinum/Metallic Silver/White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-06-05,2024-08-03,80
+FD2722-015,2025-06-27,145,Pegasus 41,2025,False,men,Nike Pegasus 41 Pure Platinum/Light Armory Blue/Ashen Slate/Anthracite,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-06-27,2025-07-03,9
+FD2722-115,2025-06-20,145,Pegasus 41,2025,False,men,Nike Pegasus 41 White/Barely Green/Bright Crimson/Metallic Silver,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-06-20,2025-07-03,14
+FD2722-401,2024-06-05,140,Pegasus 41,2024,False,men,Nike Pegasus 41 Astronomy Blue/Black/Baltic Blue/Hot Punch,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-06-05,2024-06-26,52
+FD2722-113,2025-04-07,145,Pegasus 41,2025,False,men,Nike Pegasus 41 Sail/Blue Tint/Wolf Grey/Anthracite,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-04-07,2025-04-14,12
+FD2722-406,2025-07-31,145,Pegasus 41,2025,False,men,Nike Pegasus 41 Glacier Ice/Mint Foam/Hyper Pink/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-07-31,2025-08-01,12
+FD2722-013,2025-03-20,145,Pegasus 41,2025,False,men,Nike Pegasus 41 Cool Grey/Wolf Grey/Pure Platinum/Bright Crimson,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-03-20,2025-03-27,20
+FD2722-215,2025-10-01,145,Pegasus 41,2025,False,men,Nike Pegasus 41 Medium Ash/Pure Platinum/Pale Ivory/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-01,2025-10-01,25
+FD2722-801,2025-07-03,145,Pegasus 41,2025,False,men,Nike Pegasus 41 Crimson Tint/Washed Coral/Total Orange/Gridiron,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-07-03,2025-07-03,12
+FD2722-400,2024-06-27,140,Pegasus 41,2024,False,men,Nike Pegasus 41 Midnight Navy/Black/Volt/Reflective Silver,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-06-27,2024-06-27,68
+FD2722-003,2024-07-29,140,Pegasus 41,2024,False,men,Nike Pegasus 41 Black/Fire Red/White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-07-29,2024-08-03,49
+FD2722-119,2025-10-14,145,Pegasus 41,2025,False,men,Nike Pegasus 41 White/Blue Hero/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-14,2025-10-19,8
+FD2722-501,2025-10-01,145,Pegasus 41,2025,False,men,Nike Pegasus 41 Sanded Purple/Seaweed/Cannon/Volt,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-01,2025-10-01,9
+FD2722-500,2024-09-20,140,Pegasus 41,2024,False,men,Nike Pegasus 41 Hyper Violet/Vivid Grape/Beyond Pink/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-09-20,2024-09-21,21
+FD2722-604,2025-10-20,145,Pegasus 41,2025,False,men,Nike Pegasus 41 Pink Foam/Taupe Grey/Hyper Pink/Off Noir,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-20,2025-10-27,27
+FD2722-105,2024-08-01,145,Pegasus 41,2024,False,men,Nike Pegasus 41 White/Pure Platinum/Summit White/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-08-01,2024-08-03,79
+FD2722-303,2025-04-07,145,Pegasus 41,2025,False,men,Nike Pegasus 41 Olive Aura/Volt/Barely Volt/White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-04-07,2025-04-14,13
+FD2722-007,2025-01-06,140,Pegasus 41,2025,False,men,Nike Pegasus 41 Black/Cool Grey/White/Dusty Cactus,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-01-06,2025-01-18,27
+FD2722-005,2024-10-21,140,Pegasus 41,2024,False,men,Nike Pegasus 41 Photon Dust/Ashen Slate/Black/Metallic Silver,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-10-21,2024-11-01,22
+FD2722-603,2025-03-31,145,Pegasus 41,2025,False,men,Nike Pegasus 41 Washed Coral/Racer Blue/Hyper Pink/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-03-31,2025-04-04,13
+FD2722-001,2024-07-23,145,Pegasus 41,2024,False,men,Nike Pegasus 41 Black/Anthracite/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-07-23,2024-08-03,96
+FD2722-100,2024-06-20,140,Pegasus 41,2024,False,men,Nike Pegasus 41 Summit White/Bright Crimson/Glacier Blue/Chrome,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-06-20,2024-08-03,52
+FD2722-002,2024-07-10,145,Pegasus 41,2024,False,men,Nike Pegasus 41 Black/Anthracite/White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-07-10,2024-07-15,83
+FD2723-108,2024-12-20,145,Pegasus 41,2024,False,women,Nike Pegasus 41 Sail/Phantom/White/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-12-20,2025-01-12,25
+FD2723-605,2025-06-20,140,Pegasus 41,2025,False,women,Nike Pegasus 41 Playful Pink/Hyper Pink/Bright Crimson/Off Noir,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-06-20,2025-07-02,18
+FD2723-103,2024-09-20,140,Pegasus 41,2024,False,women,Nike Pegasus 41 White/Black/Beyond Pink/Hyper Violet,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-09-20,2024-09-21,32
+FD2723-001,2024-06-18,145,Pegasus 41,2024,False,women,Nike Pegasus 41 Black/Anthracite/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-07-16,2024-06-18,70
+FD2723-009,2024-10-24,140,Pegasus 41,2024,False,women,Nike Pegasus 41 Black/Jade Horizon/Bicoastal/Pink Foam,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-10-24,,0
+FD2723-004,2024-06-05,145,Pegasus 41,2024,False,women,Nike Pegasus 41 Pure Platinum/Lilac Bloom/Platinum Tint/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-06-05,,0
+FD2723-007,2025-01-20,145,Pegasus 41,2025,False,women,Nike Pegasus 41 Photon Dust/Sail/Echo Pink/Metallic Pewter,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-01-20,2025-01-20,20
+FD2723-125,2025-10-19,145,Pegasus 41,2025,False,women,Nike Pegasus 41 White/Aluminum/Football Grey/Diffused Blue,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-19,2025-10-22,17
+FD2723-500,2024-07-01,140,Pegasus 41,2024,False,women,Nike Pegasus 41 Hydrangeas/Barely Grape/Black/Dusty Cactus,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-07-01,,0
+FD2723-402,2024-10-20,140,Pegasus 41,2024,False,women,Nike Pegasus 41 Royal Pulse/Astronomy Blue/Laser Orange/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-10-20,2025-01-12,8
+FD2723-701,2024-05-19,140,Pegasus 41,2024,False,women,Nike Pegasus 41 Volt/Barely Volt/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-06-05,2024-05-19,40
+FD2723-302,2025-11-26,145,Pegasus 41,2025,False,women,Nike Pegasus 41 Seaweed/Cyber/Light Lemon Twist/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-11-26,2025-11-27,6
+FD2723-503,2025-12-20,145,Pegasus 41,2025,False,women,Nike Pegasus 41 Violet Mist/Bright Violet/Sapphire/Purple Dynasty,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-12-20,2025-12-25,8
+FD2723-702,2025-04-07,145,Pegasus 41,2025,False,women,Nike Pegasus 41 Barely Volt/Limelight/Light Silver/Sail,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-04-07,2025-04-28,11
+FD2723-403,2024-09-23,140,Pegasus 41,2024,False,women,Nike Pegasus 41 Ashen Slate/Armory Navy/Black/Metallic Red Bronze,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-09-23,2024-09-24,34
+FD2723-014,2025-10-02,145,Pegasus 41,2025,False,women,Nike Pegasus 41 Platinum Violet/Off Noir/Silt Red/Sweet Beet,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-02,2025-10-04,8
+FD2723-008,2024-12-20,140,Pegasus 41,2024,False,women,Nike Pegasus 41 Phantom/Mink Brown/Copper Moon/White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-12-20,2025-01-12,10
+FD2723-404,2025-04-01,145,Pegasus 41,2025,False,women,Nike Pegasus 41 Blue Tint/Psychic Blue/Smokey Blue/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-04-01,2025-04-28,9
+FD2723-603,2025-03-20,145,Pegasus 41,2025,False,women,Nike Pegasus 41 Atmosphere/Total Orange/Hydrangeas/Obsidian,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-03-20,2025-03-28,15
+FD2723-006,2025-10-24,140,Pegasus 41,2025,False,women,Nike Pegasus 41 Football Grey/Armory Navy/White/Hyper Royal,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-24,2025-11-14,3
+FD2723-005,2024-06-05,140,Pegasus 41,2024,False,women,Nike Pegasus 41 Phantom/Light Pumice/Sail/Metallic Gold,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-06-05,2024-06-25,55
+FD2723-802,2025-10-14,145,Pegasus 41,2025,False,women,Nike Pegasus 41 Guava Ice/Orange Pulse/Malt/Cave Stone,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-14,2025-10-19,7
+FD2723-604,2025-07-21,145,Pegasus 41,2025,False,women,Nike Pegasus 41 Silt Red/Particle Pink/Taupe Grey/Metallic Rose Gold,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-07-21,2025-07-23,14
+FD2723-100,2024-05-21,140,Pegasus 41,2024,False,women,Nike Pegasus 41 Summit White/Bright Crimson/Glacier Blue/Chrome,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-06-05,2024-05-21,105
+FD2723-002,2024-06-05,145,Pegasus 41,2024,False,women,Nike Pegasus 41 Black/Anthracite/White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-06-05,2024-06-05,71
+FD2723-600,2024-06-18,140,Pegasus 41,2024,False,women,Nike Pegasus 41 Hot Punch/Aster Pink/Black/Crimson Tint,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-06-20,2024-06-18,25
+FD2723-801,2026-01-01,140,Pegasus 41,2026,False,women,Nike Pegasus 41 Magic Ember/Black/Washed Coral/White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-01-01,,0
+FD2723-109,2024-12-20,140,Pegasus 41,2024,False,women,Nike Pegasus 41 White/Magic Ember/Black/Bright Crimson,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-12-20,2025-01-12,9
+FD2723-405,2025-07-31,145,Pegasus 41,2025,False,women,Nike Pegasus 41 Ghost Aqua/Mint Foam/Armory Navy/Metallic Silver,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-07-31,2025-08-01,10
+FD2723-110,2025-02-20,140,Pegasus 41,2025,False,women,Nike Pegasus 41 White/Black/White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-02-20,2025-03-04,8
+FD2723-102,2024-06-05,145,Pegasus 41,2024,False,women,Nike Pegasus 41 White/Pure Platinum/Metallic Silver/White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-06-05,2024-07-18,72
+IB1873-007,2026-01-01,145,Pegasus 42,2026,False,men,Nike Pegasus 42 Black/University Red/Wolf Grey/Bright Crimson,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-01-01,,0
+IB1873-006,2026-01-01,145,Pegasus 42,2026,False,men,Nike Pegasus 42 Black/Light Current Blue/Anthracite/Metallic Silver,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-01-01,,0
+IB1873-101,2026-04-09,145,Pegasus 42,2026,False,men,Nike Pegasus 42 White/Photon Dust/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-04-09,2026-05-12,9
+IB1873-702,2026-04-09,145,Pegasus 42,2026,False,men,Nike Pegasus 42 Volt Tint/Sapphire/Lime Blast/Black Spruce,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-04-09,2026-04-09,14
+IB1873-402,2026-09-20,145,Pegasus 42,2026,False,men,Nike Pegasus 42 Dark Slate/Grey Mist/Racer Blue/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-09-20,2026-09-21,2
+IB1873-005,2026-07-01,145,Pegasus 42,2026,False,men,Nike Pegasus 42 Pure Platinum/Work Blue/Mineral Slate/Dark Obsidian,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-07-01,2026-07-11,8
+IB1873-108,2026-09-20,145,Pegasus 42,2026,False,men,Nike Pegasus 42 White/Lemon Venom/White/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-09-20,2026-09-21,2
+IB1873-105,2026-06-20,145,Pegasus 42,2026,False,men,Nike Pegasus 42 White/Racer Blue/Atomic Pink/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-06-20,2026-06-25,49
+IB1873-109,2026-11-01,145,Pegasus 42,2026,False,men,Nike Pegasus 42 White/Football Grey/Black/Gridiron,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-11-01,,0
+IB1873-020,2026-04-09,145,Pegasus 42,2026,False,men,Nike Pegasus 42 Spruce Aura/Pale Ivory/Sanddrift/Jade Horizon,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-04-09,2026-05-12,14
+IB1873-003,2026-04-09,145,Pegasus 42,2026,False,men,Nike Pegasus 42 Black/Anthracite/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-04-09,2026-05-12,8
+IB1873-107,2026-06-26,145,Pegasus 42,2026,False,men,Nike Pegasus 42 White/Green Spark/Midnight Navy,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-06-26,2026-07-11,7
+IB1873-401,2026-04-01,145,Pegasus 42,2026,False,men,Nike Pegasus 42 Diffused Blue/Obsidian/Royal Pulse/Cool Grey,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-04-01,2026-06-02,5
+IB1873-500,2026-04-01,145,Pegasus 42,2026,False,men,Nike Pegasus 42 Sapphire/Lapis/Lime Blast/Summit White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-04-01,,0
+IB1873-110,2026-04-09,145,Pegasus 42,2026,False,men,Nike Pegasus 42 White/Mineral Slate/Hyper Pink/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-04-09,2026-05-12,9
+IB1873-004,2026-04-01,145,Pegasus 42,2026,False,men,Nike Pegasus 42 Wolf Grey/Photon Dust/Flash Crimson/Metallic Silver,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-04-01,2026-07-22,9
+IB1873-001,2026-04-09,145,Pegasus 42,2026,False,men,Nike Pegasus 42 Black/Photon Dust/White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-04-09,2026-05-12,8
+IB1873-102,2026-04-09,145,Pegasus 42,2026,False,men,Nike Pegasus 42 White/Lapis/Total Orange/Metallic Silver,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-04-09,2026-04-18,10
+IB1873-008,2026-06-20,145,Pegasus 42,2026,False,men,Nike Pegasus 42 Photon Dust/Volt/White/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-06-20,2026-06-25,51
+IB1873-009,2026-11-01,145,Pegasus 42,2026,False,men,Nike Pegasus 42 College Grey/Phantom/Light Boulder/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-11-01,,0
+IB1881-500,2026-04-24,145,Pegasus 42,2026,False,women,Nike Pegasus 42 Bleached Lilac/Work Blue/Barely Green/Blue Void,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-04-24,2026-06-21,5
+IB1881-113,2026-03-16,145,Pegasus 42,2026,False,women,Nike Pegasus 42 Chalk/Orange Pulse/Bright Violet/Tattoo,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-04-09,2026-03-16,10
+IB1881-600,2026-04-15,145,Pegasus 42,2026,False,women,Nike Pegasus 42 Pearl Pink/Peony/Team Crimson/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-04-15,2026-06-21,5
+IB1881-400,2026-07-20,145,Pegasus 42,2026,False,women,Nike Pegasus 42 Hydrogen Blue/Mystic Navy/Aluminum/White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-07-20,2026-08-20,5
+IB1881-007,2026-09-29,145,Pegasus 42,2026,False,women,Nike Pegasus 42 Light Bone/Silver Lilac/Particle Rose/Sail,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-09-29,2026-10-05,1
+IB1881-003,2026-06-26,145,Pegasus 42,2026,False,women,Nike Pegasus 42 Black/Anthracite/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-06-26,2026-07-11,4
+IB1881-101,2026-07-13,145,Pegasus 42,2026,False,women,Nike Pegasus 42 White/Green Strike/Illusion Green/Metallic Silver,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-07-13,2026-08-20,3
+IB1881-100,2026-03-16,145,Pegasus 42,2026,False,women,Nike Pegasus 42 White/Malachite/Barely Green/Metallic Silver,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-04-09,2026-03-16,9
+IB1881-501,2026-06-20,145,Pegasus 42,2026,False,women,Nike Pegasus 42 Bleached Lilac/Mystic Dates/Pink Smoke/Pink Rise,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-06-20,2026-06-21,49
+IB1881-005,2026-09-20,145,Pegasus 42,2026,False,women,Nike Pegasus 42 Black/Vivid Purple/True Berry/Metallic Silver,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-09-20,2026-09-21,2
+IB1881-602,2026-03-10,145,Pegasus 42,2026,False,women,Nike Pegasus 42 Lava Glow/Flash Crimson/Light Magenta/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-04-09,2026-03-10,14
+IB1881-106,2026-04-01,145,Pegasus 42,2026,False,women,Nike Pegasus 42 Pale Ivory/Coconut Milk/Summit White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-04-01,,0
+IB1881-002,2026-03-16,145,Pegasus 42,2026,False,women,Nike Pegasus 42 Light Bone/Arctic Orange/Chalk/Metallic Silver,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-04-09,2026-03-16,7
+IB1881-601,2026-09-20,145,Pegasus 42,2026,False,women,Nike Pegasus 42 Hyper Pink/Laser Crimson/Fuchsia Blast/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-09-20,2026-09-26,2
+IB1881-102,2026-04-24,145,Pegasus 42,2026,False,women,Nike Pegasus 42 White/Wolf Grey/Cool Grey/Metallic Silver,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-04-24,2026-06-21,5
+IB1881-004,2026-01-01,145,Pegasus 42,2026,False,women,Nike Pegasus 42 Phantom/Chalk/Sail/Metallic Gold Grain,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-01-01,,0
+IB1881-103,2026-07-20,145,Pegasus 42,2026,False,women,Nike Pegasus 42 White/Light Magenta/Bleached Lilac/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-07-20,2026-08-20,5
+IB1881-001,2026-04-09,145,Pegasus 42,2026,False,women,Nike Pegasus 42 Black/Iron Grey/White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-04-09,2026-06-21,51
+HM6803-114,2026-07-01,155,Vomero 18,2026,False,men,Nike Vomero 18 White/Racer Blue/Atomic Pink/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-07-01,2026-07-11,4
+HM6803-215,2025-10-20,155,Vomero 18,2025,False,men,Nike Vomero 18 Medium Ash/College Grey/Pale Ivory/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-20,2025-11-13,6
+HM6803-002,2025-02-27,155,Vomero 18,2025,False,men,Nike Vomero 18 Light Silver/Barely Volt/Dusty Olive/College Grey,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-02-27,2025-02-27,29
+HM6803-802,2026-02-12,155,Vomero 18,2026,False,men,Nike Vomero 18 Citron Pulse/Laser Orange/Hyper Violet/Blue Void,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-02-12,,0
+HM6803-401,2025-05-01,155,Vomero 18,2025,False,men,Nike Vomero 18 Blue Void/Blue Lightning/Bright Crimson/Metallic Silver,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-05-01,2025-05-02,10
+HM6803-019,2026-01-01,155,Vomero 18,2026,False,men,Nike Vomero 18 Black/University Red/Anthracite/Bright Crimson,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-01-01,,0
+HM6803-022,2026-10-20,155,Vomero 18,2026,False,men,Nike Vomero 18 College Grey/Light Boulder/Burgundy Crush/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-10-20,,0
+HM6803-700,2025-07-03,155,Vomero 18,2025,False,men,Nike Vomero 18 Orange Chalk/Total Orange/Volt/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-08-07,2025-07-03,18
+HM6803-007,2025-03-20,155,Vomero 18,2025,False,men,Nike Vomero 18 Black/Coconut Milk/Light Iron Ore/Summit White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-03-20,2025-03-27,50
+HM6803-109,2025-10-01,155,Vomero 18,2025,False,men,Nike Vomero 18 White/Blue Hero/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-01,2025-10-04,8
+HM6803-405,2025-07-01,155,Vomero 18,2025,False,men,Nike Vomero 18 Thunder Blue/Obsidian/Royal Blue/Cool Grey,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-07-01,2026-10-05,1
+HM6803-015,2026-06-26,155,Vomero 18,2026,False,men,Nike Vomero 18 Grey Fog/Off White/Work Blue/Dark Obsidian,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-06-26,2026-07-11,6
+HM6803-001,2025-02-27,155,Vomero 18,2025,False,men,Nike Vomero 18 Platinum Tint/Siren Red/Light Smoke Grey/Metallic Pewter,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-02-27,2025-02-27,27
+HM6803-116,2026-09-20,155,Vomero 18,2026,False,men,Nike Vomero 18 White/Lemon Venom/Dark Grey/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-09-20,2026-09-23,1
+HM6803-012,2025-12-20,155,Vomero 18,2025,False,men,Nike Vomero 18 Wolf Grey/Pure Platinum/Summit White/Anthracite,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-12-20,2025-12-20,10
+HM6803-100,2025-02-27,155,Vomero 18,2025,False,men,Nike Vomero 18 White/Electric Green/Volt/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-02-27,2025-03-02,39
+HM6803-111,2026-04-22,155,Vomero 18,2026,False,men,Nike Vomero 18 White/Volt Tint/Sapphire/Black Spruce,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-04-22,2026-06-09,7
+HM6803-018,2026-01-01,155,Vomero 18,2026,False,men,Nike Vomero 18 Black/Light Current Blue/Anthracite/Silver,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-01-01,,0
+HM6803-021,2026-06-26,155,Vomero 18,2026,False,men,Nike Vomero 18 Photon Dust/Volt/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-06-26,2026-07-11,5
+HM6803-101,2025-02-27,155,Vomero 18,2025,False,men,Nike Vomero 18 Summit White/Coconut Milk/Coconut Milk/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-02-27,2025-02-27,42
+HM6803-110,2026-07-01,155,Vomero 18,2026,False,men,Nike Vomero 18 White/Mineral Slate/Mineral/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-07-01,2026-08-23,2
+HM6803-112,2026-01-01,155,Vomero 18,2026,False,men,Nike Vomero 18 White/Bright Crimson/Black/Midnight Navy,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-01-01,,0
+HM6803-020,2026-04-20,155,Vomero 18,2026,False,men,Nike Vomero 18 Spruce Aura/Jade Horizon/Light Silver/Black Spruce,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-04-20,2026-04-23,6
+HM6803-005,2025-03-20,155,Vomero 18,2025,False,men,Nike Vomero 18 Black/Dark Smoke Grey/Light Smoke Grey/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-03-20,2025-03-22,38
+HM6803-602,2025-10-20,155,Vomero 18,2025,False,men,Nike Vomero 18 Pink Foam/Hyper Pink/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-20,2025-11-13,8
+HM6803-120,2025-12-20,155,Vomero 18,2025,False,men,Nike Vomero 18 White/Volt/Barely Volt/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-12-20,2025-12-20,12
+HM6803-301,2025-10-01,155,Vomero 18,2025,False,men,Nike Vomero 18 Seaweed/Cannon/Sanded Purple/Volt,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-01,2025-10-04,25
+HM6803-115,2026-06-26,155,Vomero 18,2026,False,men,Nike Vomero 18 White/Green Spark/Midnight Navy,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-06-26,2026-07-11,4
+HM6803-103,2025-02-20,155,Vomero 18,2025,False,men,Nike Vomero 18 Summit White/Dusty Cactus/Geode Teal/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-04-01,2025-02-20,30
+HM6803-008,2025-06-20,155,Vomero 18,2025,False,men,Nike Vomero 18 Black/Bright Crimson/Team Red/Summit White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-06-20,2025-07-03,14
+HM6803-404,2026-03-20,155,Vomero 18,2026,False,men,Nike Vomero 18 Hydrogen Blue/Laser Orange/Total Orange/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-03-20,2026-03-29,10
+HM6803-300,2025-04-17,155,Vomero 18,2025,False,men,Nike Vomero 18 Barely Green/Hyper Crimson/Barely Volt/Metallic Silver,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-04-17,2025-04-17,18
+HM6803-016,2026-01-20,155,Vomero 18,2026,False,men,Nike Vomero 18 Black/Light Crimson/Topaz Gold/Bright Crimson,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-01-20,2026-01-29,7
+HM6803-106,2025-05-02,155,Vomero 18,2025,False,men,Nike Vomero 18 White/Photon Dust/Summit White/White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-01,2025-05-02,16
+HM6803-402,2025-06-20,155,Vomero 18,2025,False,men,Nike Vomero 18 Ashen Slate/Diffused Blue/Light Armory Blue/Anthracite,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-06-20,2025-07-03,13
+HM6804-007,2025-07-01,155,Vomero 18,2025,False,women,Nike Vomero 18 Vast Grey/Summit White/Hemp/Wolf Grey,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-07-01,,0
+HM6804-112,2025-12-20,155,Vomero 18,2025,False,women,Nike Vomero 18 White/Violet Mist/Sapphire/Hot Lava,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-12-20,2025-12-25,8
+HM6804-500,2026-06-26,155,Vomero 18,2026,False,women,Nike Vomero 18 Bleached Lilac/Light Magenta/Pink Rise/Pink Smoke,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-06-26,2026-07-01,14
+HM6804-002,2025-04-17,155,Vomero 18,2025,False,women,Nike Vomero 18 Phantom/Light Wild Mango/Volt/Metallic Silver,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-04-17,2025-04-26,9
+HM6804-402,2026-07-20,155,Vomero 18,2026,False,women,Nike Vomero 18 Hydrogen Blue/Aluminum/Summit White/Mystic Navy,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-07-20,2026-08-30,3
+HM6804-118,2026-01-01,155,Vomero 18,2026,False,women,Nike Vomero 18 Sail/Light Khaki/Filbert/Metallic Gold Grain,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-01-01,,0
+HM6804-116,2026-07-20,155,Vomero 18,2026,False,women,Nike Vomero 18 White/Bleached Lilac/Light Magenta/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-07-20,2026-08-30,3
+HM6804-601,2025-04-01,155,Vomero 18,2025,False,women,Nike Vomero 18 Light Soft Pink/Light Madder Root/Arctic Orange/Madder Root,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-04-01,2025-04-01,21
+HM6804-102,2025-02-27,155,Vomero 18,2025,False,women,Nike Vomero 18 White/Electric Green/Volt/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-02-27,2025-02-27,27
+HM6804-012,2026-04-01,155,Vomero 18,2026,False,women,Nike Vomero 18 Light Bone/Arctic Orange/Ice Peach/Metallic Silver,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-04-01,2026-07-18,6
+HM6804-600,2025-04-17,155,Vomero 18,2025,False,women,Nike Vomero 18 Atmosphere/Bright Crimson/Crimson Bliss/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-04-17,2025-04-22,23
+HM6804-607,2025-12-20,155,Vomero 18,2025,False,women,Nike Vomero 18 Particle Rose/Silt Red/Tattoo/Off Noir,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-12-20,2025-12-25,18
+HM6804-113,2026-03-20,155,Vomero 18,2026,False,women,Nike Vomero 18 Chalk/Pink Foam/Bright Violet/Tattoo,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-03-20,2026-05-05,18
+HM6804-005,2025-03-31,155,Vomero 18,2025,False,women,Nike Vomero 18 Black/Coconut Milk/Light Iron Ore/Summit White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-03-31,2025-04-01,40
+HM6804-800,2025-10-02,155,Vomero 18,2025,False,women,Nike Vomero 18 Guava Ice/Orange Chalk/Sail,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-02,2025-10-04,10
+HM6804-114,2026-04-01,155,Vomero 18,2026,False,women,Nike Vomero 18 White/Blue Fury/Royal Pulse/Midnight Navy,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-04-01,,0
+HM6804-603,2025-06-20,155,Vomero 18,2025,False,women,Nike Vomero 18 Bright Crimson/Hyper Pink/Pink Foam/White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-06-20,2025-07-02,17
+HM6804-111,2025-10-01,155,Vomero 18,2025,False,women,Nike Vomero 18 White/Football Grey/Royal Pulse,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-01,2025-10-18,7
+HM6804-300,2026-04-20,155,Vomero 18,2026,False,women,Nike Vomero 18 Barely Green/Steam/Light Silver/Metallic Silver,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-04-20,2026-04-26,15
+HM6804-110,2025-10-22,150,Vomero 18,2025,False,women,Nike Vomero 18 Sail/Coconut Milk/White/Summit White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-22,2025-11-13,7
+HM6804-013,2026-09-20,155,Vomero 18,2026,False,women,Nike Vomero 18 Black/Hyper Pink/Laser Crimson/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-09-20,2026-10-05,1
+HM6804-108,2025-07-01,155,Vomero 18,2025,False,women,Nike Vomero 18 Pale Ivory/Red Sepia/Silt Red/Dark Team Red,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-07-01,2025-08-03,11
+HM6804-106,2025-06-20,155,Vomero 18,2025,False,women,Nike Vomero 18 White/Bleached Turquoise/Mint Foam/Cannon,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-06-20,2025-07-02,13
+HM6804-608,2026-09-29,155,Vomero 18,2026,False,women,Nike Vomero 18 Particle Rose/Silver Lilac/Fennel/Sail,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-09-29,2026-10-05,2
+HM6804-101,2025-02-27,155,Vomero 18,2025,False,women,Nike Vomero 18 Summit White/Coconut Milk/Coconut Milk/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-02-27,2025-02-27,47
+HM6804-104,2025-05-13,155,Vomero 18,2025,False,women,Nike Vomero 18 White/Photon Dust/Summit White/Metallic Silver,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-05-13,2025-06-03,28
+HM6804-105,2025-02-27,150,Vomero 18,2025,False,women,Nike Vomero 18 Summit White/Elemental Pink/Red Plum/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-02-27,2025-02-28,13
+HM6804-602,2025-05-22,155,Vomero 18,2025,False,women,Nike Vomero 18 Digital Pink/Bright Crimson/Hyper Orange/Metallic Silver,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-05-22,2025-05-22,9
+HM6804-115,2026-04-22,155,Vomero 18,2026,False,women,Nike Vomero 18 White/Work Blue/Barely Green/Midnight Navy,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-04-22,2026-05-05,16
+HM6804-803,2026-01-20,155,Vomero 18,2026,False,women,Nike Vomero 18 Hot Lava/Chalk/Orange Pulse/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-01-20,2026-02-02,4
+HM6804-100,2025-02-16,155,Vomero 18,2025,False,women,Nike Vomero 18 Sail/Bright Crimson/Laser Orange/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-02-27,2025-02-16,49
+HM6804-604,2025-10-08,155,Vomero 18,2025,False,women,Nike Vomero 18 Sweet Beet/Red Stardust/Noble Red/Bordeaux,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-08,2025-10-18,7
+HM6804-606,2026-04-01,155,Vomero 18,2026,False,women,Nike Vomero 18 Pearl Pink/Team Crimson/Bright Crimson/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-04-01,2026-07-01,13
+HM6804-117,2026-07-01,155,Vomero 18,2026,False,women,Nike Vomero 18 White/Illusion Green/Court Green/Metallic Silver,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-07-01,2026-07-08,14
+HM6804-103,2025-04-07,155,Vomero 18,2025,False,women,Nike Vomero 18 Summit White/Blue Tint/Geode Teal,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-04-07,2025-04-08,29
+HM6804-605,2025-10-14,155,Vomero 18,2025,False,women,Nike Vomero 18 Silt Red/Red Stardust/Platinum Violet/Chalk,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-14,2025-10-23,6
+HM6804-004,2025-06-20,155,Vomero 18,2025,False,women,Nike Vomero 18 Black/Dark Smoke Grey/Light Smoke Grey/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-06-20,2025-07-02,25
+HM6804-014,2026-09-20,155,Vomero 18,2026,False,women,Nike Vomero 18 Black/Persian Violet/True Berry/Metallic Silver,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-09-20,2026-09-21,1
+FB9149-007,2026-07-01,170,Vomero 5,2026,False,men,Nike Zoom Vomero 5 Anthracite/Smoke Grey/Black/Hyper Royal,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-07-01,,0
+FB9149-201,2026-06-20,170,Vomero 5,2026,False,men,Nike Zoom Vomero 5 Desert Khaki/Light Khaki/Classic Olive/Dark Hazel,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-06-20,2026-07-11,6
+FB9149-006,2026-04-20,170,Vomero 5,2026,False,men,Nike Zoom Vomero 5 Phantom/Cream II/Sail/Light Bone,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-04-20,2026-05-06,15
+FB9149-009,2026-01-01,170,Vomero 5,2026,False,men,Nike Zoom Vomero 5 Photon Dust/Grey Fog/Dune Red/Summit White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-01-01,,0
+FB9149-004,2025-04-20,170,Vomero 5,2025,False,men,Nike Zoom Vomero 5 Black/Anthracite/Pink Blast/Metallic Platinum,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-04-20,2025-04-25,16
+FB9149-600,2025-03-20,170,Vomero 5,2025,False,men,Nike Zoom Vomero 5 Pink Foam/Phantom/Metallic Platinum/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-03-20,2025-03-22,25
+FB9149-402,2025-02-12,160,Vomero 5,2025,False,men,Nike Zoom Vomero 5 Psychic Blue/Photon Dust/Pale Ivory/Thunder Blue,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-02-12,2025-02-15,27
+FB9149-003,2025-01-13,160,Vomero 5,2025,False,men,Nike Zoom Vomero 5 Vast Grey/Wolf Grey/Pale Ivory/Blue Void,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-01-13,2025-01-14,37
+FB9149-500,2024-12-20,160,Vomero 5,2024,False,men,Nike Zoom Vomero 5 Vivid Purple/Metallic Silver/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-12-20,2024-12-20,48
+FB9149-800,2024-09-20,160,Vomero 5,2024,False,men,Nike Zoom Vomero 5 Total Orange/White/Metallic Platinum/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-09-20,2024-09-20,39
+FB9149-701,2024-06-11,160,Vomero 5,2024,False,men,Nike Zoom Vomero 5 Volt/White/Metallic Platinum/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-06-11,2024-06-11,71
+FB9149-002,2024-04-29,160,Vomero 5,2024,False,men,Nike Zoom Vomero 5 Photon Dust/University Gold/Laser Orange/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-05-03,2024-04-29,56
+FB9149-101,2024-03-27,160,Vomero 5,2024,False,men,Nike Zoom Vomero 5 White/Platinum Tint/Metallic Platinum/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-03-27,2024-03-29,86
+FB9149-001,2023-12-15,160,Vomero 5,2023,False,men,Nike Zoom Vomero 5 Black/Iron Grey/Summit White/Picante Red,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-12-15,2023-12-20,77
+FB9149-100,2023-09-16,160,Vomero 5,2023,False,men,Nike Zoom Vomero 5 Summit White/Photon Dust/University Blue,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-09-16,,0
+FB9149-700,2023-09-01,160,Vomero 5,2023,False,men,Nike Zoom Vomero 5 Wheat Grass/Cacao Wow/Elemental Gold/Gold Suede,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-09-01,,0
+FB9149-400,2023-10-09,160,Vomero 5,2023,False,men,Nike Zoom Vomero 5 Worn Blue/Dutch Blue/Mystic Navy/Football Grey,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-10-09,,0
+HF1553-202,2026-01-20,170,Vomero 5,2026,False,men,Nike Zoom Vomero 5 Light British Tan/British Khaki/Linen/Dark Smoke Grey,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-01-20,2026-01-25,5
+HF1553-006,2026-01-05,170,Vomero 5,2026,False,men,Nike Zoom Vomero 5 Anthracite/Chrome/Flat Silver/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-01-05,2026-01-05,11
+HF1553-005,2025-10-01,170,Vomero 5,2025,False,men,Nike Zoom Vomero 5 Seafoam/Armory Navy/Clay Green,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-01,,0
+HF1553-101,2025-07-01,170,Vomero 5,2025,False,men,Nike Zoom Vomero 5 Light Orewood Brown/White/Metallic Platinum/Light Smoke Grey,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-07-01,2025-07-03,18
+HF1553-201,2025-04-20,170,Vomero 5,2025,False,men,Nike Zoom Vomero 5 Desert Khaki/Light Orewood Brown/Mars Stone/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-04-20,2025-04-25,19
+HF1553-700,2025-03-24,170,Vomero 5,2025,False,men,Nike Zoom Vomero 5 Barely Volt/Pure Platinum/Black/Metallic Platinum,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-03-24,2025-03-28,29
+HF1553-601,2025-01-28,160,Vomero 5,2025,False,men,Nike Zoom Vomero 5 Dark Team Red/Burgundy Crush/Phantom/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-01-28,2025-01-29,30
+HF1553-004,2025-01-20,160,Vomero 5,2025,False,men,Nike Zoom Vomero 5 College Grey/Mink Brown/Light Orewood Brown/Sail,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-01-20,2025-01-20,36
+HF1553-701,2025-01-20,160,Vomero 5,2025,False,men,Nike Zoom Vomero 5 Alabaster/Black/White/Pale Ivory,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-01-20,2025-01-20,26
+HF1553-003,2024-12-20,170,Vomero 5,2024,False,men,Nike Zoom Vomero 5 Cool Grey/Wolf Grey/White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-12-20,2024-12-20,44
+HF1553-100,2024-12-03,160,Vomero 5,2024,False,men,Nike Zoom Vomero 5 Light Orewood Brown/Light Orewood Brown,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-12-03,2024-12-04,17
+HF1553-400,2024-11-07,160,Vomero 5,2024,False,men,Nike Zoom Vomero 5 Denim Turquoise/Smokey Blue/Pale Ivory,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-11-07,2024-11-07,30
+HF1553-002,2024-10-20,160,Vomero 5,2024,False,men,Nike Zoom Vomero 5 Dark Stucco/Light Smoke Grey/Phantom,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-10-20,2024-11-02,36
+HF1553-600,2024-07-01,160,Vomero 5,2024,False,men,Nike Zoom Vomero 5 Red Stardust/Metallic Platinum/White/Crimson Tint,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-07-01,,0
+HF1553-300,2024-06-11,160,Vomero 5,2024,False,men,Nike Zoom Vomero 5 Jade Horizon/Light Silver/White/Phantom,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-06-11,2024-06-11,57
+HF1553-200,2024-04-01,160,Vomero 5,2024,False,men,Nike Zoom Vomero 5 Dusted Clay/Platinum Violet/Smokey Mauve/Earth,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-04-01,2024-04-02,68
+BV1358-003,2023-12-01,170,Vomero 5,2023,False,men,Nike Zoom Vomero 5 Black/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-12-01,2023-12-08,136
+BV1358-001,2023-09-21,170,Vomero 5,2023,False,men,Nike Zoom Vomero 5 Vast Grey/Black/Sail/Vast Grey,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-10-01,2023-09-21,214
+BV1358-400,2023-09-16,160,Vomero 5,2023,False,men,Nike Zoom Vomero 5 Midnight Navy/Midnight Navy,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-09-16,,0
+HF5493-201,2024-12-20,160,Vomero 5,2024,False,men,Nike Zoom Vomero 5 Cave Stone/Multi-Color/Medium Ash/Metallic Silver,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-12-20,2024-12-20,30
+HF5493-200,2024-09-20,160,Vomero 5,2024,False,men,Nike Zoom Vomero 5 Celestial Gold/Celestial Gold,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-09-20,2024-09-20,27
+HF5493-600,2024-07-20,160,Vomero 5,2024,False,men,Nike Zoom Vomero 5 Hot Punch/Hot Punch,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-07-20,2024-08-07,58
+HF5493-301,2024-05-20,160,Vomero 5,2024,False,men,Nike Zoom Vomero 5 Vapor Green/Vapor Green,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-05-20,2024-05-24,80
+HF5493-800,2024-01-16,160,Vomero 5,2024,False,men,Nike Zoom Vomero 5 Cosmic Clay/Cosmic Clay,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-01-16,2024-04-29,66
+HF5493-400,2024-01-02,160,Vomero 5,2024,False,men,Nike Zoom Vomero 5 Lakeside/Lakeside,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-01-02,2024-04-29,1
+FJ4151-007,2025-10-01,170,Vomero 5,2025,False,men,Nike Zoom Vomero 5 Metallic Silver/College Grey/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-01,2025-10-08,16
+FJ4151-006,2025-06-20,170,Vomero 5,2025,False,men,Nike Zoom Vomero 5 Metallic Pewter/Parachute Beige/White/Medium Ash,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-06-20,2025-07-03,17
+FJ4151-101,2025-04-23,170,Vomero 5,2025,False,men,Nike Zoom Vomero 5 White/Pure Platinum/University Blue/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-04-23,2025-04-25,21
+FJ4151-005,2024-12-20,160,Vomero 5,2024,False,men,Nike Zoom Vomero 5 Metallic Silver/Flat Silver/Light Crimson/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-12-20,2025-01-13,39
+FJ4151-004,2024-11-01,160,Vomero 5,2024,False,men,Nike Zoom Vomero 5 Metallic Silver/Pure Platinum/White/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-11-01,2024-11-05,18
+FJ4151-003,2024-07-20,170,Vomero 5,2024,False,men,Nike Zoom Vomero 5 Wolf Grey/Metallic Silver/Cool Grey/White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-07-20,2024-08-07,103
+FJ4151-100,2024-04-01,160,Vomero 5,2024,False,men,Nike Zoom Vomero 5 White/Pure Platinum/Photo Blue/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-04-01,,0
+FJ4151-002,2024-01-01,160,Vomero 5,2024,False,men,Nike Zoom Vomero 5 Platinum Tint/Cool Grey/White/Dark Obsidian,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-01-01,,0
+FJ4151-001,2023-06-16,160,Vomero 5,2023,False,men,Nike Zoom Vomero 5 Pure Platinum/Metallic Silver/Sail/Laser Orange,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-06-16,,0
+FN8361-100,2024-05-11,160,Vomero 5,2024,False,men,Nike Zoom Vomero 5 Sail/Malachite/Alabaster/White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-05-14,2024-05-11,75
+HF0731-007,2024-03-27,170,Vomero 5,2024,False,men,Nike Zoom Vomero 5 SE Platinum Tint/Cashmere/Iron Grey/Photon Dust,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-03-27,2024-03-27,108
+FJ2028-200,2026-06-28,170,Vomero 5,2026,False,women,Nike Zoom Vomero 5 Cacao Wow/Light British Tan/Dark Driftwood/Light Khaki,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-06-28,2026-07-11,6
+FJ2028-402,2026-06-28,170,Vomero 5,2026,False,women,Nike Zoom Vomero 5 Old Royal/Bleached Lilac/Sapphire/Pink Rise,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-06-28,2026-07-11,6
+FJ2028-602,2026-06-23,170,Vomero 5,2026,False,women,Nike Zoom Vomero 5 Light Crimson/Team Red/White/Light Crimson,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-06-23,2026-07-11,5
+FJ2028-603,2026-06-20,170,Vomero 5,2026,False,women,Nike Zoom Vomero 5 Pink Rise/Bleached Lilac/Pink Foam/White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-06-20,2026-07-11,6
+FJ2028-004,2026-01-05,170,Vomero 5,2026,False,women,Nike Zoom Vomero 5 Black/Court Purple/Hyper Grape/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-01-05,2026-01-08,13
+FJ2028-108,2026-01-01,170,Vomero 5,2026,False,women,Nike Zoom Vomero 5 Summit White/Peony/Team Crimson/Summit White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-01-01,,0
+FJ2028-106,2025-06-20,170,Vomero 5,2025,False,women,Nike Zoom Vomero 5 Sanddrift/Hemp/White/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-06-20,2025-06-26,3
+FJ2028-109,2025-10-01,170,Vomero 5,2025,False,women,Nike Zoom Vomero 5 Off White/Light Violet Ore/Platinum Violet/Off White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-01,,0
+FJ2028-601,2025-10-01,170,Vomero 5,2025,False,women,Nike Zoom Vomero 5 Pink Spell/Metallic Platinum/Pink Foam/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-01,2025-10-04,8
+FJ2028-003,2025-10-01,170,Vomero 5,2025,False,women,Nike Zoom Vomero 5 Black/Metallic Platinum/Bright Cactus/Cyber,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-01,,0
+FJ2028-400,2025-07-01,160,Vomero 5,2025,False,women,Nike Zoom Vomero 5 Royal Pulse/Football Grey/Persian Violet/Metallic Platinum,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-07-01,,0
+FJ2028-102,2025-07-01,160,Vomero 5,2025,False,women,Nike Zoom Vomero 5 White/Stadium Green/Platinum Tint/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-07-01,2025-12-19,1
+FJ2028-401,2025-03-31,170,Vomero 5,2025,False,women,Nike Zoom Vomero 5 Blue Tint/Platinum Tint/Metallic Platinum/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-03-31,2025-04-01,29
+FJ2028-104,2025-03-28,170,Vomero 5,2025,False,women,Nike Zoom Vomero 5 White/Phantom/Summit White/White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-03-28,2025-04-01,35
+FJ2028-002,2025-02-20,160,Vomero 5,2025,False,women,Nike Zoom Vomero 5 Phantom/Particle Beige/Terra Blush/Summit White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-02-20,2025-02-20,31
+FJ2028-101,2024-09-20,160,Vomero 5,2024,False,women,Nike Zoom Vomero 5 Summit White/Pure Platinum/Smoke Grey/Summit White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-09-20,2024-09-20,57
+FJ2028-001,2024-04-01,160,Vomero 5,2024,False,women,Nike Zoom Vomero 5 Phantom/Light Iron Ore/Baroque Brown/Metallic Platinum,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-04-01,2024-04-03,60
+FQ7079-002,2024-08-07,160,Vomero 5,2024,False,women,Nike Zoom Vomero 5 Black/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-08-07,2024-08-13,59
+FQ7079-100,2024-03-25,170,Vomero 5,2024,False,women,Nike Zoom Vomero 5 White/Black/Sail/Vast Grey,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-03-25,2024-03-29,101
+FQ7079-700,2024-03-01,160,Vomero 5,2024,False,women,Nike Zoom Vomero 5 Saturn Gold/Lemon Wash,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-03-01,2024-03-15,1
+FQ7079-001,2023-12-17,160,Vomero 5,2023,False,women,Nike Zoom Vomero 5 Platinum Tint/Light Armory Blue/Phantom/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-12-17,,0
+FN6742-300,2024-11-20,160,Vomero 5,2024,False,women,Nike Zoom Vomero 5 Vintage Green/Light Orewood Brown/Hemp/Chrome,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-11-20,2024-11-20,34
+FN6742-201,2024-08-07,160,Vomero 5,2024,False,women,Nike Zoom Vomero 5 Baroque Brown/Light Orewood Brown/Hemp/Chrome,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-08-07,2024-08-21,54
+FN6742-200,2024-06-12,160,Vomero 5,2024,False,women,Nike Zoom Vomero 5 Pearl White/Light Bone/Light Iron Ore/Chrome,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-07-01,2024-06-12,55
+FN6742-001,2024-03-17,160,Vomero 5,2024,False,women,Nike Zoom Vomero 5 Light Silver/Light Bone/Black/Chrome,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-03-17,,0
+FQ6868-111,2024-08-01,160,Vomero 5,2024,False,women,Nike Zoom Vomero 5 Pale Ivory/Pale Ivory/Sanddrift/Pale Ivory,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-08-01,2024-08-06,83
+FD0884-025,2024-02-09,170,Vomero 5,2024,False,women,Nike Zoom Vomero 5 Photon Dust/Gridiron/Sail/Chrome,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-11-01,2024-02-09,78
+HQ0458-004,2026-09-20,170,Vomero 5,2026,False,women,Nike Zoom Vomero 5 Vast Grey/Enigma Stone/Cave Stone/Photon Dust,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-09-20,2026-09-21,2
+HQ0458-202,2026-09-20,170,Vomero 5,2026,False,women,Nike Zoom Vomero 5 Light Khaki/Cacao Wow/Infinite Sable/Sail,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-09-20,2026-09-21,2
+HQ0458-600,2025-10-29,170,Vomero 5,2025,False,women,Nike Zoom Vomero 5 Silt Red/Red Stardust/Vast Grey,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-29,2025-11-20,8
+HQ0458-400,2025-10-29,170,Vomero 5,2025,False,women,Nike Zoom Vomero 5 World Indigo/Sanded Purple/Football Grey,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-29,2025-11-13,12
+HQ0458-003,2025-10-14,170,Vomero 5,2025,False,women,Nike Zoom Vomero 5 Phantom/Light Bone/Sail,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-14,2025-10-18,12
+HQ0458-001,2025-02-20,170,Vomero 5,2025,False,women,Nike Zoom Vomero 5 Pure Platinum/Platinum Tint/Wolf Grey/Summit White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-02-20,2025-02-20,35
+HQ0458-200,2024-12-20,170,Vomero 5,2024,False,women,Nike Zoom Vomero 5 Beach/Light Khaki/Pale Ivory/Sail,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-12-20,2024-12-20,65
+DV0833-115,2025-10-24,115,Dunk Low,2025,False,men,Nike Dunk Low Retro White/Gym Red/Redwood,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-24,2025-11-07,7
+DV0833-109,2025-07-01,115,Dunk Low,2025,False,men,Nike Dunk Low Retro White/Black/Dusty Cactus,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-07-01,,0
+DV0833-105,2024-04-29,115,Dunk Low,2024,False,men,Nike Dunk Low Retro White/Pacific Moss,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-05-07,2024-04-29,59
+DV0833-114,2024-10-14,115,Dunk Low,2024,False,men,Nike Dunk Low Retro White/White/Cosmic Clay,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-10-14,2024-11-25,19
+DV0833-108,2025-10-28,115,Dunk Low,2025,False,men,Nike Dunk Low Retro White/Black/Dragon Red,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-28,2025-11-07,7
+DV0833-102,2024-01-07,115,Dunk Low,2024,False,men,Nike Dunk Low Retro White/Dusty Cactus/Cosmic Clay,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-01-17,2024-01-07,20
+DV0833-800,2024-05-31,115,Dunk Low,2024,False,men,Nike Dunk Low Retro Bright Ceramic/University Red/White/Team Royal,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-06-04,2024-05-31,68
+DV0833-401,2024-11-06,115,Dunk Low,2024,False,men,Nike Dunk Low Retro Deep Royal Blue/White/Football Grey,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-28,2024-11-06,9
+DV0833-300,2023-03-07,110,Dunk Low,2023,False,men,Nike Dunk Low Retro Apple Green/White/Yellow Strike/Yellow Strike,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-03-08,2023-03-07,30
+DV0833-100,2023-06-17,110,Dunk Low,2023,False,men,Nike Dunk Low Retro White/White/White/Team Gold,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-09-01,2023-06-17,21
+DV0833-113,2024-10-14,115,Dunk Low,2024,False,men,Nike Dunk Low Retro Coconut Milk/Gym Red/Sail/University Blue,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-10-14,2024-11-17,20
+DV0833-104,2024-05-16,115,Dunk Low,2024,False,men,Nike Dunk Low Retro White/Glacier Blue,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-05-16,2024-05-16,73
+DV0833-111,2024-10-14,115,Dunk Low,2024,False,men,Nike Dunk Low Retro White/White/Vintage Green,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-10-14,2025-01-14,34
+DV0833-400,2023-10-14,115,Dunk Low,2023,False,men,Nike Dunk Low Retro Polar/White/White/Polar,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-10-14,2023-10-17,17
+DV0833-601,2024-06-25,115,Dunk Low,2024,False,men,Nike Dunk Low Retro University Red/White/Obsidian,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-07-05,2024-06-25,62
+DV0833-600,2023-12-13,115,Dunk Low,2023,False,men,Nike Dunk Low Retro Mystic Red/Mystic Red/White/Cargo Khaki,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-12-13,2023-12-14,23
+DV0833-101,2023-07-20,110,Dunk Low,2023,False,men,Nike Dunk Low Retro White/White/Clear Jade,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-02-01,2023-07-20,13
+DV0833-107,2024-07-19,115,Dunk Low,2024,False,men,Nike Dunk Low Retro White/White/Viotech,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-07-19,2024-08-06,57
+DV0833-110,2025-07-01,115,Dunk Low,2025,False,men,Nike Dunk Low Retro White/Black/Bright Cactus,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-07-01,,0
+DV0833-106,2024-07-24,115,Dunk Low,2024,False,men,Nike Dunk Low Retro White/Denim Turquoise,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-07-24,2024-08-07,96
+DV0833-103,2024-04-16,115,Dunk Low,2024,False,men,Nike Dunk Low Retro White/University Red/Concord,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-04-16,2024-04-18,58
+DV0833-112,2024-10-01,115,Dunk Low,2024,False,men,Nike Dunk Low Retro White/White/Taupe Grey,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-10-01,,0
+DD1391-100,2023-01-15,120,Dunk Low,2023,False,men,Nike Dunk Low Retro White/White/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-11-29,2023-01-15,1323
+DD1391-702,2023-05-31,110,Dunk Low,2023,False,men,Nike Dunk Low Retro University Gold/White/Deep Maroon/University Gold,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-06-01,2023-05-31,22
+DD1391-602,2023-12-01,115,Dunk Low,2023,False,men,Nike Dunk Low Retro Gym Red/White/University Gold/Gym Red,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-12-01,2024-05-23,10
+DD1391-104,2023-09-02,110,Dunk Low,2023,False,men,Nike Dunk Low Retro White/Court Purple/Court Purple,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-09-02,,0
+DD1391-300,2023-05-31,110,Dunk Low,2023,False,men,Nike Dunk Low Retro Gorge Green/White/Total Orange/Gorge Green,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-06-01,2023-05-31,16
+DD1391-601,2024-02-16,115,Dunk Low,2024,False,men,Nike Dunk Low Retro Team Red/White/Team Red,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-02-16,2024-02-17,32
+DD1391-103,2024-06-25,115,Dunk Low,2024,False,men,Nike Dunk Low Retro White/Grey Fog,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-07-01,2024-06-25,72
+DD1391-401,2024-02-01,115,Dunk Low,2024,False,men,Nike Dunk Low Retro Racer Blue/White/Racer Blue,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-02-01,2024-05-24,5
+DD1391-102,2023-06-09,120,Dunk Low,2023,False,men,Nike Dunk Low Retro White/White/University Blue,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-06-09,,0
+DD1391-701,2024-07-27,110,Dunk Low,2024,False,men,Nike Dunk Low Retro Midas Gold/White/Tough Red,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-07-27,,0
+DD1391-101,2025-05-10,115,Dunk Low,2025,False,men,Nike Dunk Low Retro White/White/Total Orange/Team Green,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-05-10,,0
+DD1391-402,2023-10-01,110,Dunk Low,2023,False,men,Nike Dunk Low Retro Blue Jay/University Gold/White/Blue Jay,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-10-01,,0
+DD1391-400,2024-03-12,115,Dunk Low,2024,False,men,Nike Dunk Low Retro Valerian Blue/White/University Red/Valerian Blue,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-03-12,2024-03-13,43
+DD1391-004,2024-02-01,100,Dunk Low,2024,False,men,Nike Dunk Low Retro Black/White/Goldenrod,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-02-01,,0
+DD1503-101,2023-01-18,120,Dunk Low,2023,False,women,Nike Dunk Low White/White/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-11-28,2023-01-18,303
+DD1503-120,2023-07-20,115,Dunk Low,2023,False,women,Nike Dunk Low White/White/Medium Olive,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-11-21,2023-07-20,5
+DD1503-123,2023-01-01,110,Dunk Low,2023,False,women,Nike Dunk Low Sail/Ocean Bliss/Light Silver/Citron Tint,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-01-01,,0
+DD1503-114,2023-09-03,100,Dunk Low,2023,False,women,Nike Dunk Low Sail/Harvest Moon,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-09-03,,0
+DD1503-200,2023-07-01,110,Dunk Low,2023,False,women,Nike Dunk Low Dark Driftwood/Sesame/Sail/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-07-01,,0
+DD1503-122,2023-01-01,110,Dunk Low,2023,False,women,Nike Dunk Low Summit White/Wolf Grey/Black/Rosewood,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-01-01,,0
+DD1503-604,2023-10-01,110,Dunk Low,2023,False,women,Nike Dunk Low Fierce Pink/Black/Fireberry,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-10-01,,0
+DD1503-603,2023-07-01,110,Dunk Low,2023,False,women,Nike Dunk Low Adobe/Cedar/Gum Light Brown/Sail,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-07-01,,0
+DD1503-124,2023-07-17,120,Dunk Low,2023,False,women,Nike Dunk Low Sail/Coconut Milk/Cacao Wow,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-01-24,2023-07-17,137
+DD1503-300,2023-04-13,110,Dunk Low,2023,False,women,Nike Dunk Low Gorge Green/Phantom/Midnight Navy,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-07-01,2023-04-13,23
+DD1503-103,2024-04-29,120,Dunk Low,2024,False,women,Nike Dunk Low White/White/Photon Dust,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-09-20,2024-04-29,26
+DD1503-601,2023-04-01,110,Dunk Low,2023,False,women,Nike Dunk Low Pink Oxford/Phantom/Lemon Wash/Light Thistle,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-04-01,,0
+DD1503-116,2023-08-26,100,Dunk Low,2023,False,women,Nike Dunk Low White/Venice,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-08-26,,0
+DD1503-118,2023-05-11,120,Dunk Low,2023,False,women,Nike Dunk Low White/Rose Whisper,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-10-11,2023-05-11,136
+DD1503-801,2023-04-01,110,Dunk Low,2023,False,women,Nike Dunk Low Peach Cream/White/Peach Cream,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-04-01,,0
+DD1503-301,2023-07-01,110,Dunk Low,2023,False,women,Nike Dunk Low Geode Teal/Emerald Rise/White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-07-01,,0
+DD1503-002,2023-03-30,110,Dunk Low,2023,False,women,Nike Dunk Low Light Bone/Sail/Citron Pulse,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2023-07-01,2023-03-30,7
+DD1503-125,2025-01-01,115,Dunk Low,2025,False,women,Nike Dunk Low Sail/Diffused Taupe/Plum Eclipse,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-01-01,,0
+DD1503-500,2023-05-23,110,Dunk Low,2023,False,women,Nike Dunk Low Indigo Haze/Sail/Coral Chalk,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-02-01,2023-05-23,20
+DD1503-121,2023-01-12,110,Dunk Low,2023,False,women,Nike Dunk Low White/White/Sail,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-05-25,2023-01-12,27
+HF5441-120,2026-09-20,120,Dunk Low,2026,False,men,Nike Dunk Low Retro White/Gum Light Brown/Fir,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-09-20,2026-09-27,2
+HF5441-010,2026-07-20,120,Dunk Low,2026,False,men,Nike Dunk Low Retro Soft Pearl/College Grey/Soft Pearl,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-07-20,2026-07-22,7
+HF5441-118,2026-04-01,120,Dunk Low,2026,False,men,Nike Dunk Low Retro White/Pure Platinum/Wolf Grey/Deep Royal,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-04-01,,0
+HF5441-008,2026-03-20,120,Dunk Low,2026,False,men,Nike Dunk Low Retro Phantom/Phantom/Team Red,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-03-20,2026-06-19,9
+HF5441-112,2025-11-07,120,Dunk Low,2025,False,men,Nike Dunk Low Retro White/Hyper Royal,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-03-20,2025-11-07,12
+HF5441-011,2026-01-01,120,Dunk Low,2026,False,men,Nike Dunk Low Retro Soft Pearl/Cargo Khaki/Soft Pearl,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-01-01,,0
+HF5441-119,2026-01-01,120,Dunk Low,2026,False,men,Nike Dunk Low Retro Pale Ivory/Football Blue/Pale Ivory,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-01-01,,0
+HF5441-402,2026-01-01,120,Dunk Low,2026,False,men,Nike Dunk Low Retro Mystic Navy/White/Marine,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-01-01,,0
+HF5441-116,2026-01-01,120,Dunk Low,2026,False,men,Nike Dunk Low Retro Summit White/Photon Dust/Light Smoke Grey/White,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2026-01-01,,0
+HF5441-300,2025-10-24,120,Dunk Low,2025,False,men,Nike Dunk Low Retro Cargo Khaki/Light Army/Phantom/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-24,2025-11-07,7
+HF5441-115,2025-10-07,120,Dunk Low,2025,False,men,Nike Dunk Low Retro Sail/Sail/Fir,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-10-07,2025-10-08,12
+HF5441-005,2025-07-01,120,Dunk Low,2025,False,men,Nike Dunk Low Retro College Grey/Wild Grape/White/Persian Violet,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-07-01,2025-07-05,18
+HF5441-113,2025-07-01,120,Dunk Low,2025,False,men,Nike Dunk Low Retro Summit White/Desert Ochre/White/Bright Citron,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-07-01,,0
+HF5441-202,2025-06-20,120,Dunk Low,2025,False,men,Nike Dunk Low Retro Cave Stone/Summit White/Pure Platinum,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-06-20,2025-06-26,26
+HF5441-004,2025-06-20,120,Dunk Low,2025,False,men,Nike Dunk Low Retro Black/Cacao Wow/Coconut Milk/British Tan,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-06-20,2025-06-26,20
+HF5441-002,2025-04-14,120,Dunk Low,2025,False,men,Nike Dunk Low Retro Light Silver/Sail/Light Photo Blue,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-04-15,2025-04-14,22
+HF5441-108,2025-01-01,115,Dunk Low,2025,False,men,Nike Dunk Low Retro Pale Ivory/Pale Ivory/Wheat,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-01-01,2025-01-03,53
+HF5441-105,2025-01-01,120,Dunk Low,2025,False,men,Nike Dunk Low Retro White/White/Light Smoke Grey,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-01-01,2025-01-14,64
+HF5441-107,2025-01-01,120,Dunk Low,2025,False,men,Nike Dunk Low Retro White/White/Midnight Navy,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-01-01,2025-01-05,48
+HF5441-104,2025-01-01,120,Dunk Low,2025,False,men,Nike Dunk Low Retro White/White/University Red,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-01-01,2025-01-04,41
+HF5441-103,2025-01-01,115,Dunk Low,2025,False,men,Nike Dunk Low Retro Pale Ivory/Glacier Blue,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-01-01,2025-01-14,38
+HF5441-401,2025-01-01,115,Dunk Low,2025,False,men,Nike Dunk Low Retro Hyper Royal/White/Black,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-01-01,,0
+HF5441-109,2025-01-01,115,Dunk Low,2025,False,men,Nike Dunk Low Retro White/Gold Dart,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-01-01,,0
+HF5441-400,2025-01-01,115,Dunk Low,2025,False,men,Nike Dunk Low Retro Psychic Blue/Sail/Star Blue,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-01-01,,0
+HF5441-700,2025-01-01,115,Dunk Low,2025,False,men,Nike Dunk Low Retro Sundial/Sail/Anthracite,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-01-01,,0
+HF5441-001,2025-01-01,115,Dunk Low,2025,False,men,Nike Dunk Low Retro Photon Dust/Smoke Grey/Sail/Denim Turquoise,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-01-01,,0
+HF5441-102,2025-01-01,115,Dunk Low,2025,False,men,Nike Dunk Low Retro Pale Ivory/Cargo Khaki,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2025-01-01,2025-01-04,42
+FV0384-001,2024-02-01,125,Dunk Low,2024,False,men,Nike Dunk Low Anthracite/Cool Grey/Industrial Blue/Pure Platinum,"DERIVED min(product_feed commerceStartDate, first Wayback capture)",2024-02-01,,0
