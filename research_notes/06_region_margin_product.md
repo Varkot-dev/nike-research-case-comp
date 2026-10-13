@@ -77,7 +77,13 @@ Percentage changes are my arithmetic.
 
 ## 5. Converse: what happened
 
-**In one line:** fewer people want Chuck Taylors, Converse discounted for two years to keep product moving, and from mid-2025 Nike deliberately shrank the brand to reset it. Sales have halved and profit has almost disappeared.
+**Summary of drivers (my arithmetic on the figures in the table below):**
+- **Revenue fell $1,253 million (-52%) from FY2023 to FY2026, and about 85% of that decline is volume.** Units fell 12%, 12% and 31% in FY2024, FY2025 and FY2026, a cumulative unit index of about 0.53. Price (ASP) fell about 3%, 6 points and 1 point, an index of about 0.90. Units times price gives 0.48, which matches reported revenue (1,174 / 2,427 = 0.48). Volume accounts for about 86% of the log decline. This is approximate: Nike reports ASP as percentage-point contributions on a currency-neutral basis.
+- **Gross profit fell about $792 million, from about $1,306 million to about $514 million** (revenue times segment gross margin).
+  - About $674 million is lost volume at the FY2023 margin.
+  - About $117 million is the 10-point gross margin decline on FY2026 revenue. Nike attributes that decline to "higher discounts" in FY2024 and FY2025, and to discounts plus "inventory obsolescence reserves and employee severance costs" in FY2026.
+- **Costs below gross profit fell only 21%** while revenue fell 52%. These costs, gross profit minus EBIT, cover demand creation, overhead and other items. They went from about $630 million to about $496 million, so they rose from 25.9% to 42.3% of revenue. That deleverage is why EBIT fell 97%, from $676 million to $18 million.
+- **The fixed-cost base is still large for the business it serves.** The store base has only partly adjusted: 60 U.S. and 54 non-U.S. Converse stores at May 31, 2026, down from 82 and 54 three years earlier (10-Ks pp. 2 to 3), on 48% of FY2023 revenue.
 
 | | FY2023 | FY2024 | FY2025 | FY2026 | Q1 FY2027 | Source |
 |---|---|---|---|---|---|---|
@@ -151,14 +157,29 @@ Full table (40 launches), verbatim quotes and source URLs: `research_notes/07_ne
 - **Greater China is going the other way.** From January 2027, online sales there narrow to Nike's own channels and its flagships on Tmall, JD.com and Douyin (Q1 FY27 call; Just Style, secondary).
 
 **Read-across (my inference):**
-- **Running and women's are the bright spots.** Nike says running posted "five consecutive quarters of double-digit growth." Nike does not break running out in its filings, so this cannot be checked against reported revenue.
+- **Running and women's basketball are the only categories with stated growth, and the figures are management's, not reported.** Nike says running posted "five consecutive quarters of double-digit growth," adding "roughly a Billion dollars," and that its women's signature basketball business grew "nearly 500% from FY 22 to FY 26" (Q1 FY27 call). Neither figure appears in a filing, so neither can be reconciled to reported revenue. Reported footwear revenue is still down 6.2% in Q1 FY2027 (Section 4).
 - **Wholesale gets new performance product early or exclusively.** The Structure Plus and Vomero Premium windows show this, which is consistent with North America wholesale growth in Section 3 and `05_channel_split.md`.
-- **China is used as a launch market for hype product.** Nike is not cutting China out of new launches; it is changing how they reach Chinese consumers online.
+- **Greater China gets launch priority despite its decline.**
+  - Three of the 40 launches in the detail file released in China one to two weeks before the global date: LeBron XXIII, Nike Hybrid RN and Caitlin 1. The Swooshfly is planned the same way.
+  - Over the same period, Greater China wholesale fell 28% (Q1 FY2027, `05_channel_split.md` Section 4), and its EBIT margin fell from 24.9% to 21.0% (Section 1).
+  - Whether China-first launches lift China sell-through cannot be measured from Nike's disclosures.
 - **Not verified:** a Nike Hyrox partnership, any China-only product, and a Total 90 performance boot. Only a T90 x Palace collaboration is confirmed.
 
 ## 7. What this means for the thesis (my inference)
 
-1. **North America is the proof case for the wholesale pivot.** It moved furthest toward wholesale and is the only region with better gross margin than FY2023. If the case argues the strategy works, this is the evidence; the tariff recovery caveat must sit next to it.
-2. **Greater China is the swing factor.** It used to deliver almost 40% EBIT margins; at 21% and falling on a revenue base that shrank 28% in Q1 FY2027 wholesale alone (`05_channel_split.md` Section 4), it is now the largest drag on mix.
-3. **Converse is a strategic question, not a margin question.** At roughly break-even before tariff recovery and still in a reset through FY2027 (Section 5), the case can reasonably ask whether Converse belongs in the portfolio.
+1. **North America's numbers are the only evidence that the wholesale pivot can coincide with better margins.** From FY2024 to FY2026:
+   - Its Direct share fell from 48.6% to 41.7%.
+   - Gross margin rose from 44.4% to 45.6%.
+   - EBIT margin went from 27.2% to 26.2% reported, or 21.5% excluding the $965 million tariff recovery.
+   - FY2026 wholesale grew 14% (FY26 10-K p. 37).
+
+   The gross margin gain therefore did not carry through to EBIT on a with-tariffs basis. Any argument that the strategy works must show both figures.
+2. **Greater China had the largest reported EBIT decline of any segment from FY2024 to FY2026**, -$1,031 million, against -$971 million for EMEA, -$498 million for APLA, -$456 million for Converse and -$446 million for North America. Excluding the tariff recovery, North America's decline would be larger at -$1,411 million (FY24 and FY26 10-Ks; my arithmetic).
+   - **Sensitivity:** if Greater China's EBIT margin returned to its FY2024 level of 30.6% on FY2026 revenue of $5,847 million, segment EBIT would be about **$511 million higher**. That equals 13% of FY2026 total EBIT of $3,850 million.
+3. **Converse accounts for $456 million of the FY2024 to FY2026 EBIT decline** on 2.5% of FY2026 revenue. Underlying EBIT is about -$3 million, and the reset is guided to last through FY2027 (Section 5).
+   - **Fix-or-exit test:** assume FY2026 costs below gross profit stay at about $496 million. Returning to FY2024 EBIT of $474 million then needs gross profit of about $970 million:
+     - At the FY2023 gross margin of 53.8%, that takes about $1.80 billion of revenue, 54% above FY2026.
+     - At the FY2026 gross margin of 43.8%, it takes about $2.21 billion, 89% above FY2026.
+     - Q1 FY2027 revenue was still falling 28%.
+   - **Sale value:** the only sale benchmark on record is an opinion column citing a Morningstar estimate of 1 to 2 times sales (secondary). That implies $1.2 billion to $2.3 billion on FY2026 revenue.
 4. **Channel margin is the missing number.** Any recommendation that depends on "wholesale is more profitable than Direct" must say this is inferred from Nike's bridge language, because Nike does not disclose it.
