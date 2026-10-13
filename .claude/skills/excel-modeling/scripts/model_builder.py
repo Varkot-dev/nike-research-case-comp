@@ -96,6 +96,12 @@ class Model:
         self.order.append(s)
         return s
 
+    def chart_sheet(self, name):
+        s = ChartSheet(self, name)
+        self.sheets[name] = s
+        self.order.append(s)
+        return s
+
     def check(self, label, formula, tol=0.001):
         """Two kinds, picked from the formula: a comparison (contains < > =) must be TRUE;
         anything else is a difference that must be within tol of zero. Kept separate on
@@ -103,6 +109,25 @@ class Model:
         formula that tries to handle both behaves differently in Excel and LibreOffice."""
         kind = "true" if re.search(r"[<>=]", formula[1:]) else "zero"
         self.checks.append((label, formula, tol, kind))
+
+    # ---- check templates (three-statement, DCF and LBO integrity; feed the master check)
+    def check_rows_equal(self, label, a, b, tol=0.5):
+        """Every period of row a equals row b (balance sheet balances, CF cash = BS cash,
+        segments sum to total). a and b are tokens like 'Model.assets'."""
+        self.check(label, f"=SUMPRODUCT(ABS({{{a}@all}}-{{{b}@all}}))", tol)
+
+    def check_rows_nonneg(self, label, row):
+        """No negative balances (debt tranches, cash, inventory)."""
+        self.check(label, f"=MIN({{{row}@all}})>=0")
+
+    def check_between(self, label, expr, lo, hi):
+        """A scalar inside a sanity band, e.g. terminal-value share of EV, tax rate."""
+        e = expr if expr.startswith("{") or expr.startswith("(") else "(" + expr + ")"
+        self.check(label, f"=AND({e}>={lo},{e}<={hi})")
+
+    def check_less(self, label, a, b):
+        """a < b, e.g. terminal growth below WACC."""
+        self.check(label, f"={a}<{b}")
 
     # ---- token resolution shared by both sheet kinds
     def ref(self, home, sheetname, key, mod, col):
@@ -145,6 +170,12 @@ class Model:
     def save(self, recalc=True):
         for s in self.order:
             s.write()
+        for ws in self.wb.worksheets():
+            # print-ready: landscape, one page wide, header rows repeated, footer with sheet and page
+            ws.set_landscape(); ws.fit_to_pages(1, 0); ws.set_paper(1)
+            ws.set_footer("&L&A&R&P of &N")
+            if ws.name != "Cover" and not isinstance(self.sheets.get(ws.name), ChartSheet):
+                ws.repeat_rows(0, 2)
         self._write_checks()
         self._write_cover()
         self.wb.close()
@@ -177,7 +208,7 @@ class Model:
                 ws.write_formula(i, 3, f"=IF(ABS({v})<={t},1,0)", self.fmt("flag"))
         n = len(self.checks)
         ws.write(n + 2, 0, "Master check (1 = all pass)", self.fmt(bold=True))
-        ws.write_formula(n + 2, 3, f"=IF(SUM(D2:D{n + 1})={n},1,0)", self.fmt("flag", bold=True))
+        ws.write_formula(n + 2, 3, f"=IF(SUM(D2:D{n + 1})=COUNT(D2:D{n + 1}),1,0)", self.fmt("flag", bold=True))
         self.wb.define_name("MasterCheck", f"=Checks!$D${n + 3}")
 
     def _write_cover(self):
@@ -301,6 +332,8 @@ class ListSheet(_Sheet):
                     ws.write_formula(r, 2, f, m.fmt(unit, color))
                 else:
                     ws.write(r, 2, value, m.fmt(unit, BLUE))
+                    if source:   # the source travels with the cell, even if the note column is cut
+                        ws.write_comment(r, 2, f"Source: {source}", {"x_scale": 2})
                 if source:
                     ws.write(r, src_col, source, m.fmt(italic=True))
             elif kind == "scenario":
@@ -308,6 +341,8 @@ class ListSheet(_Sheet):
                 ws.write(r, 0, label, m.fmt()); ws.write(r, 1, unit, m.fmt())
                 for j, case in enumerate(self.cases):
                     ws.write(r, 3 + j, values[case], m.fmt(unit, BLUE))
+                if source:
+                    ws.write_comment(r, 3, f"Source: {source}", {"x_scale": 2})
                 choices = ",".join(xl_rowcol_to_cell(r, 3 + j) for j in range(ncase))
                 ws.write_formula(r, 2, f"=CHOOSE({self.switch_cell},{choices})", m.fmt(unit, BLACK))
                 if source:
@@ -360,6 +395,8 @@ class TimelineSheet(_Sheet):
                 col = 2 + j
                 if values is not None:
                     ws.write(r, col, values[j], m.fmt(unit, BLUE, bold))
+                    if j == 0 and note:
+                        ws.write_comment(r, col, f"Source: {note}", {"x_scale": 2})
                     continue
                 tpl = first if (j == 0 and first) else formula
                 f = m.render(self, tpl, col)
@@ -368,3 +405,130 @@ class TimelineSheet(_Sheet):
             if note:
                 ws.write(r, 2 + n, note, m.fmt(italic=True))
             self._name(key, r)
+
+
+class ChartSheet:
+    """Presentation charts that stay live: a small formula table plus a chart drawn from it.
+    Built from stacked bars/columns with an invisible base series, which renders the same in
+    Excel, LibreOffice and Google Sheets (Excel 2016's native waterfall type does not)."""
+    value_col = 1
+
+    def __init__(self, model, name):
+        self.m, self.name, self.keys, self.purpose, self.first_col = model, name, {}, "", None
+        self.ws = model.wb.add_worksheet(name)
+        self.blocks, self.next_row = [], 2
+
+    def describe(self, text):
+        self.purpose = text
+        return self
+
+    def _val(self, ws, r, c, v, unit, color=BLACK):
+        if isinstance(v, str) and v.startswith("="):
+            ws.write_formula(r, c, self.m.render(self, v), self.m.fmt(unit, color))
+        else:
+            ws.write(r, c, v, self.m.fmt(unit, BLUE))
+
+    def football_field(self, title, rows, unit="$", marker=None, note=""):
+        """rows: [(label, low, high, source)]; low/high are numbers (inputs) or templates.
+        marker: (label, template), e.g. ("Current NKE price", "={Inputs.price}"), shown in the axis title."""
+        self.blocks.append(("ff", self.next_row, title, rows, unit, marker, note))
+        self.next_row += len(rows) + 6 + 22      # table, then the chart underneath it
+
+    def waterfall(self, title, start, steps, unit="$m", note=""):
+        """start: (label, template); steps: [(label, template)]. Ends with the running total.
+        Adds a check that the bars reconcile: start + sum(steps) = end."""
+        self.blocks.append(("wf", self.next_row, title, start, steps, unit, note))
+        self.next_row += len(steps) + 8 + 20
+
+    def write(self):
+        m, ws = self.m, self.ws
+        ws.hide_gridlines(2)
+        ws.set_column(0, 0, 38); ws.set_column(1, 6, 12); ws.set_column(7, 7, 60)
+        ws.write(0, 0, self.name, m.fmt(bold=True))
+        ws.set_h_pagebreaks([b[1] - 1 for b in self.blocks[1:]])   # one chart block per printed page
+        for b in self.blocks:
+            if b[0] == "ff":
+                self._write_ff(*b[1:])
+            else:
+                self._write_wf(*b[1:])
+
+    def _write_ff(self, r0, title, rows, unit, marker, note):
+        m, ws = self.m, self.ws
+        ws.write(r0, 0, title, m.fmt(bold=True))
+        ws.write_row(r0 + 1, 0, ["Method", "Low", "High", "Range", "Source"], m.fmt(bold=True, border=True))
+        for i, (label, lo, hi, src) in enumerate(rows):
+            r = r0 + 2 + i
+            ws.write(r, 0, label, m.fmt())
+            self._val(ws, r, 1, lo, unit); self._val(ws, r, 2, hi, unit)
+            ws.write_formula(r, 3, f"={xl_rowcol_to_cell(r, 2)}-{xl_rowcol_to_cell(r, 1)}", m.fmt(unit))
+            ws.write(r, 4, src, m.fmt(italic=True))
+        last = r0 + 1 + len(rows)
+        points = [None] * len(rows)
+        if marker:
+            # the marker is its own bar: a thin sliver at the live value, coloured differently
+            last += 1
+            ws.write(last, 0, marker[0], m.fmt(bold=True))
+            ws.write_formula(last, 5, m.render(self, marker[1]), m.fmt(unit, GREEN))
+            ws.write(last, 4, "live marker (column F), drawn as a sliver of width set in column G", m.fmt(italic=True))
+            ws.write(last, 6, 0.005, m.fmt("0.0%", BLUE))
+            v, wd = xl_rowcol_to_cell(last, 5), xl_rowcol_to_cell(last, 6)
+            ws.write_formula(last, 1, f"={v}-ABS({v})*{wd}", m.fmt(unit))
+            ws.write_formula(last, 2, f"={v}+ABS({v})*{wd}", m.fmt(unit))
+            ws.write_formula(last, 3, f"={xl_rowcol_to_cell(last, 2)}-{xl_rowcol_to_cell(last, 1)}", m.fmt(unit))
+            points.append({"fill": {"color": "#C00000"}})
+        ch = m.wb.add_chart({"type": "bar", "subtype": "stacked"})
+        cats = [self.name, r0 + 2, 0, last, 0]
+        ch.add_series({"name": "Low", "categories": cats, "values": [self.name, r0 + 2, 1, last, 1],
+                       "fill": {"none": True}, "border": {"none": True}})
+        ch.add_series({"name": "Range", "categories": cats, "values": [self.name, r0 + 2, 3, last, 3],
+                       "fill": {"color": "#1F4E79"}, "gap": 60, "points": points})
+        ch.set_title({"name": title, "name_font": {"size": 11, "name": FONT}})
+        ch.set_legend({"none": True})
+        ch.set_y_axis({"reverse": True})
+        ch.set_x_axis({"num_format": FMT.get(unit, unit), "major_gridlines": {"visible": True, "line": {"color": "#D9D9D9"}}})
+        ch.set_size({"width": 720, "height": 110 + 45 * (last - r0 - 1)})
+        ws.insert_chart(last + 3, 0, ch)
+        if note:
+            ws.write(last + 2, 0, note, m.fmt(italic=True))
+
+    def _write_wf(self, r0, title, start, steps, unit, note):
+        m, ws = self.m, self.ws
+        ws.write(r0, 0, title, m.fmt(bold=True))
+        ws.write_row(r0 + 1, 0, ["Step", "Value", "Running total", "Base", "Increase", "Decrease", "Total"],
+                     m.fmt(bold=True, border=True))
+        c = lambda r, k: xl_rowcol_to_cell(r, k)
+        r = r0 + 2
+        ws.write(r, 0, start[0], m.fmt(bold=True)); self._val(ws, r, 1, start[1], unit, GREEN)
+        ws.write_formula(r, 2, f"={c(r, 1)}", m.fmt(unit))
+        ws.write_blank(r, 3, None, m.fmt(unit)); ws.write_blank(r, 4, None, m.fmt(unit)); ws.write_blank(r, 5, None, m.fmt(unit))
+        ws.write_formula(r, 6, f"={c(r, 1)}", m.fmt(unit))
+        for label, tpl in steps:
+            r += 1
+            ws.write(r, 0, label, m.fmt()); self._val(ws, r, 1, tpl, unit, GREEN)
+            ws.write_formula(r, 2, f"={c(r - 1, 2)}+{c(r, 1)}", m.fmt(unit))
+            ws.write_formula(r, 3, f"=MIN({c(r - 1, 2)},{c(r, 2)})", m.fmt(unit))
+            ws.write_formula(r, 4, f"=MAX({c(r, 1)},0)", m.fmt(unit))
+            ws.write_formula(r, 5, f"=MAX(-{c(r, 1)},0)", m.fmt(unit))
+            ws.write_blank(r, 6, None, m.fmt(unit))
+        r += 1
+        ws.write(r, 0, "End", m.fmt(bold=True))
+        ws.write_formula(r, 2, f"={c(r - 1, 2)}", m.fmt(unit))
+        ws.write_blank(r, 3, None, m.fmt(unit)); ws.write_blank(r, 4, None, m.fmt(unit)); ws.write_blank(r, 5, None, m.fmt(unit))
+        ws.write_formula(r, 6, f"={c(r, 2)}", m.fmt(unit, bold=True))
+        ch = m.wb.add_chart({"type": "column", "subtype": "stacked"})
+        cats = [self.name, r0 + 2, 0, r, 0]
+        for k, name, fill in ((3, "Base", None), (6, "Total", "#1F4E79"), (4, "Increase", "#548235"), (5, "Decrease", "#C00000")):
+            ser = {"name": name, "categories": cats, "values": [self.name, r0 + 2, k, r, k], "gap": 50}
+            ser.update({"fill": {"none": True}, "border": {"none": True}} if fill is None else {"fill": {"color": fill}})
+            ch.add_series(ser)
+        ch.set_title({"name": title, "name_font": {"size": 11, "name": FONT}})
+        ch.set_legend({"none": True})
+        ch.set_y_axis({"num_format": FMT.get(unit, unit), "major_gridlines": {"visible": True, "line": {"color": "#D9D9D9"}}})
+        ch.set_size({"width": 720, "height": 300})
+        ws.insert_chart(r + 3, 0, ch)
+        if note:
+            ws.write(r + 1, 0, note, m.fmt(italic=True))
+        # reconciliation check: the bars must add up to the end value
+        ref = lambda rr, k: f"{qs(self.name)}!{xl_rowcol_to_cell(rr, k, True, True)}"
+        m.checks.append((f"{title}: bars reconcile", f"={ref(r, 6)}-{ref(r0 + 2, 1)}-SUM({ref(r0 + 3, 1)}:{ref(r - 1, 1)})",
+                         0.001, "zero"))

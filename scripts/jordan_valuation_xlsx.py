@@ -103,8 +103,31 @@ val.calc("ebit31", "EBIT FY2031", "$m", "={Model.ebit@FY2031E}")
 val.calc("eps31", "EPS contribution FY2031", "$", "={ebit31}*(1-{Inputs.tax})/{Inputs.shares}")
 val.calc("vs_peak", "FY2031 revenue vs FY2024 peak", "%", "={Model.rev@FY2031E}/{Inputs.j24}-1")
 
+SC = {r["scenario"].split(":")[0]: r for r in csv.DictReader(open(os.path.join(DATA, "valuation", "jordan_scenarios.csv")))}
+SE = {r["revenue_path"].split(":")[0]: r for r in csv.DictReader(open(os.path.join(DATA, "valuation", "jordan_sensitivity.csv")))}
+ev_sales = next(r for r in csv.DictReader(open(os.path.join(DATA, "valuation", "jordan_scenarios.csv")))
+                if r["scenario"] == "Reference: Jordan FY2026 revenue at NKE EV/Sales")
+ch = m.chart_sheet("Charts").describe("Value bridge for the active scenario and the per-share football field")
+ch.waterfall("Jordan DCF value, active scenario ($m)", ("PV FY2027 FCF", "={Model.pv@FY2027E}"),
+             [("PV FY2028 FCF", "={Model.pv@FY2028E}"), ("PV FY2029 FCF", "={Model.pv@FY2029E}"),
+              ("PV FY2030 FCF", "={Model.pv@FY2030E}"), ("PV FY2031 FCF", "={Model.pv@FY2031E}"),
+              ("PV terminal value", "={Valuation.pv_tv}")],
+             note="Live: follows the scenario switch on Inputs. End bar equals Valuation 'DCF value of Jordan'.")
+ch.football_field("Jordan value per NKE share ($)", [
+    ("DCF, Bear to Bull scenarios", float(SC["Bear"]["value_per_nke_share_usd"]), float(SC["Bull"]["value_per_nke_share_usd"]),
+     "data/valuation/jordan_scenarios.csv (scripts/jordan_valuation.py)"),
+    ("DCF, Base path, margin 6% to 17%", float(SE["Base"]["margin_6pct_usd_per_share"]), float(SE["Base"]["margin_17pct_usd_per_share"]),
+     "data/valuation/jordan_sensitivity.csv"),
+    ("DCF, Bear path, margin 6% to 17%", float(SE["Bear"]["margin_6pct_usd_per_share"]), float(SE["Bear"]["margin_17pct_usd_per_share"]),
+     "data/valuation/jordan_sensitivity.csv"),
+    ("Jordan FY2026 revenue x NKE EV/Sales", float(ev_sales["value_per_nke_share_usd"]), float(ev_sales["value_per_nke_share_usd"]) + 0.02,
+     "jordan_scenarios.csv reference row (point estimate)"),
+], unit="$", marker=("Live scenario value per share", "={Valuation.per_share}"),
+   note="Static ranges are outputs of scripts/jordan_valuation.py; the marker is live.")
+
 m.check("Margin reaches target in FY2031", "={Model.margin@FY2031E}-{Inputs.target_margin}")
-m.check("WACC above terminal growth", "={Inputs.wacc}>{Inputs.g}")
+m.check_less("Terminal growth below WACC", "{Inputs.g}", "{Inputs.wacc}")
+m.check_rows_nonneg("Revenue never negative", "Model.rev")
 m.check("Value = PV(FCF) + PV(TV)", "={Valuation.ev}-SUM({Model.pv@all})-{Valuation.pv_tv}")
 m.check("Discount timing ends at 4.63 years", "={Model.t_end@FY2031E}-({Inputs.w27}+4)")
 
@@ -141,4 +164,19 @@ if __name__ == "__main__":
                 ok = abs(float(sens[case][f"margin_{int(round(mg * 100))}pct_usd_per_share"]) - v) < 1e-9
                 bad += not ok
                 print(f"{'OK ' if ok else 'BAD'} {case} margin {mg}: xlsx {v} vs csv {sens[case][f'margin_{int(round(mg * 100))}pct_usd_per_share']}")
+    # Driver ranking for the pitch: one-at-a-time flex around the Base case (my arithmetic on the model)
+    import xl
+    flex = [("target_margin", "E", 0.08, 0.14), ("wacc", "C", 0.09, 0.11), ("g", "E", 0.01, 0.03),
+            ("tax", "C", 0.20, 0.25), ("s2c", "C", 2.0, 3.0), ("roic", "C", 0.15, 0.25), ("m0", "C", 0.047, 0.067)]
+    t = xl.tornado(OUT, at("Valuation", "per_share"), [(at("Inputs", k, c), lo, hi) for k, c, lo, hi in flex])
+    labels = {at("Inputs", k, c): k for k, c, _, _ in flex}
+    with open(os.path.join(DATA, "valuation", "jordan_tornado.csv"), "w", newline="") as f:
+        w = csv.writer(f)
+        w.writerow(["input", "low", "high", "value_per_share_at_low_usd", "value_per_share_at_high_usd", "swing_usd",
+                    "base_value_per_share_usd", "basis"])
+        for r in t["ranked"]:
+            w.writerow([labels[r["input"]], r["low"], r["high"], round(r["output_at_low"], 2), round(r["output_at_high"], 2),
+                        round(r["swing"], 2), round(t["base_output"], 2),
+                        "my arithmetic: Base case of data/valuation/jordan_valuation.xlsx, one input flexed at a time"])
+    print("tornado:", [(labels[r["input"]], round(r["swing"], 2)) for r in t["ranked"]])
     sys.exit(1 if bad else 0)

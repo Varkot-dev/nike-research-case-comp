@@ -8,6 +8,9 @@
     python3 xl.py diff   old.xlsx new.xlsx [--expect "Sheet!B5:F9,Other!A1"]
     python3 xl.py trace  model.xlsx "Sheet!F12" [--depth 3] [--dependents]
     python3 xl.py features model.xlsx
+    python3 xl.py scenarios model.xlsx --switch "Inputs!C4=Bear,Base,Bull" --outputs "Valuation!C10" --check "Checks!D7" --order "Valuation!C10:asc"
+    python3 xl.py tornado model.xlsx "Valuation!C10" --inputs "Inputs!C17; Inputs!C14=0.2,0.25" [--pct 0.1]
+    python3 xl.py render model.xlsx --out pngdir        (look at charts and layout)
     python3 xl.py sensitivity model.xlsx "Model!F9" --row "Inputs!B3=0,0.05,0.1" [--col "Inputs!B4=0.5,0.6"] [--write "Out!B2" --out new.xlsx]
 
 Design rules (see SKILL.md): the delivered file is edited at the XML level so untouched
@@ -991,6 +994,111 @@ def sensitivity(path, out_cell, row_input, row_vals, col_input=None, col_vals=No
             "col_input": col_input, "col_values": col_vals, "grid": grid, "base_output": base_out}
 
 
+def grid_assertions(res):
+    """Sell-side conventions for a sensitivity grid: odd size with a true centre, the
+    centre equals the live model, every cell distinct, values monotonic along each axis."""
+    g = res["grid"]
+    out = {}
+    nums = [v for row in g for v in row if isinstance(v, (int, float))]
+    out["all_numeric"] = len(nums) == sum(len(r) for r in g)
+    out["odd_dimensions"] = len(res["row_values"]) % 2 == 1 and len(res["col_values"] or [0]) % 2 == 1
+    ri = len(res["row_values"]) // 2
+    ci = len(res["col_values"] or [0]) // 2
+    centre = g[ci][ri] if out["all_numeric"] else None
+    out["centre_equals_base"] = centre is not None and _close(centre, res["base_output"])
+    out["all_distinct"] = len({round(v, 9) for v in nums}) == len(nums)
+
+    def mono(seq):
+        d = [b - a for a, b in zip(seq, seq[1:])]
+        return "up" if all(x > 0 for x in d) else "down" if all(x < 0 for x in d) else "mixed"
+    if out["all_numeric"]:
+        out["direction_along_row_input"] = sorted({mono(row) for row in g})
+        if len(g) > 1:
+            out["direction_along_col_input"] = sorted({mono([row[j] for row in g]) for j in range(len(g[0]))})
+    out["pass"] = all(v for k, v in out.items() if isinstance(v, bool)) and \
+        "mixed" not in out.get("direction_along_row_input", []) + out.get("direction_along_col_input", [])
+    return out
+
+
+def scenarios(path, switch, cases, outputs, check=None):
+    rows = []
+    with X.LOSession(path) as lo:
+        base = lo.get(switch)
+        for case in cases:
+            lo.set(switch, case)
+            lo.recalc()
+            row = {"case": case, **{o: lo.get(o) for o in outputs}}
+            if check:
+                row["check"] = lo.get(check)
+            rows.append(row)
+        lo.set(switch, base)
+        lo.recalc()
+    return rows
+
+
+def cmd_scenarios(a):
+    sw, cases = a.switch.split("=", 1)
+    cases = cases.split(",")
+    outs = [o.strip() for o in a.outputs.split(",")]
+    rows = scenarios(a.file, sw, cases, outs, a.check)
+    res = {"switch": sw, "rows": rows, "assertions": {}}
+    # a switch that moves nothing is the classic silent failure (wrong cell, or a hard-coded live column)
+    res["assertions"]["switch_changes_outputs"] = any(
+        not _close(rows[0][o], r[o]) for r in rows[1:] for o in outs if isinstance(r[o], (int, float)))
+    if a.check:
+        res["assertions"]["master_check_passes_in_every_case"] = all(r["check"] == 1 for r in rows)
+    for spec in (a.order or "").split(","):
+        if not spec.strip():
+            continue
+        cell, direction = spec.strip().rsplit(":", 1)
+        vals = [r[cell] for r in rows]
+        ok = all((b > a_) if direction == "asc" else (b < a_) for a_, b in zip(vals, vals[1:]))
+        res["assertions"][f"{cell} {direction} across {','.join(cases)}"] = ok
+    print(json.dumps(res, indent=1, default=str))
+    if not all(res["assertions"].values()):
+        sys.exit(3)
+
+
+def tornado(path, output, specs):
+    """One-at-a-time flex of each input; ranked by swing |high - low|."""
+    res = []
+    with X.LOSession(path) as lo:
+        base_out = lo.get(output)
+        for cell, lo_v, hi_v in specs:
+            b = lo.get(cell)
+            lo.set(cell, lo_v); lo.recalc(); v_lo = lo.get(output)
+            lo.set(cell, hi_v); lo.recalc(); v_hi = lo.get(output)
+            lo.set(cell, b); lo.recalc()
+            res.append({"input": cell, "base_input": b, "low": lo_v, "high": hi_v,
+                        "output_at_low": v_lo, "output_at_high": v_hi,
+                        "swing": abs(v_hi - v_lo) if all(isinstance(v, (int, float)) for v in (v_hi, v_lo)) else None})
+    res.sort(key=lambda r: -(r["swing"] or 0))
+    return {"output": output, "base_output": base_out, "ranked": res}
+
+
+def cmd_tornado(a):
+    wf = load_workbook(a.file)
+    specs = []
+    for item in a.inputs.split(";"):
+        item = item.strip()
+        if "=" in item:
+            cell, rng = item.split("=", 1)
+            lo_v, hi_v = (float(x) for x in rng.split(","))
+        else:
+            cell = item
+            sh, addr = parse_cellspec(cell)
+            b = wf[sh][addr].value
+            if not isinstance(b, (int, float)):
+                raise SystemExit(f"{cell} is not a numeric input; give an explicit range like {cell}=lo,hi")
+            lo_v, hi_v = b * (1 - a.pct), b * (1 + a.pct)
+        specs.append((cell, lo_v, hi_v))
+    res = tornado(a.file, a.output, specs)
+    for r in res["ranked"]:
+        sh, addr = parse_cellspec(r["input"])
+        r["label"] = label_of(wf[sh], wf[sh][addr].row)
+    print(json.dumps(res, indent=1, default=str))
+
+
 def _parse_axis(s):
     cell, vals = s.split("=", 1)
     return cell, [float(v) for v in vals.split(",")]
@@ -1000,6 +1108,7 @@ def cmd_sensitivity(a):
     ri, rv = _parse_axis(a.row)
     ci, cv = _parse_axis(a.col) if a.col else (None, None)
     res = sensitivity(a.file, a.output, ri, rv, ci, cv)
+    res["assertions"] = grid_assertions(res)
     if a.write:
         # write the verified grid as static values with a top-left anchor, plus a provenance note
         sh, anchor = parse_cellspec(a.write)
@@ -1017,6 +1126,21 @@ def cmd_sensitivity(a):
         p = Patcher(a.file); p.apply(ops); p.pkg.save(a.out or a.file)
         res["written_to"] = a.out or a.file
     print(json.dumps(res, indent=1, default=str))
+
+
+def cmd_render(a):
+    """Render every sheet (charts included) of a recalculated copy to PNG pages, so the
+    layout and charts can be looked at. Uses LibreOffice PDF export plus pdftoppm."""
+    import subprocess, shutil
+    out = Path(a.out); out.mkdir(parents=True, exist_ok=True)
+    rc = X.lo_recalc_copy(a.file)
+    prof = Path(rc).parent.parent / "profile"
+    subprocess.run(["soffice", f"-env:UserInstallation={prof.as_uri()}", "--headless", "--convert-to", "pdf",
+                    "--outdir", str(out), str(rc)], capture_output=True, timeout=180)
+    pdf = out / (Path(rc).stem + ".pdf")
+    subprocess.run(["pdftoppm", "-png", "-r", str(a.dpi), str(pdf), str(out / "page")], check=True)
+    pages = sorted(str(p) for p in out.glob("page*.png"))
+    print(json.dumps({"pdf": str(pdf), "pages": pages}, indent=1))
 
 
 def cmd_features(a):
@@ -1040,9 +1164,17 @@ def main():
     p = sp.add_parser("sensitivity"); p.add_argument("file"); p.add_argument("output", help="e.g. Model!F9")
     p.add_argument("--row", required=True, help="Inputs!B3=0,0.05,0.1"); p.add_argument("--col", help="Inputs!B4=0.5,0.55")
     p.add_argument("--write", help="anchor cell for a static grid, e.g. Outputs!B20"); p.add_argument("--out")
+    p = sp.add_parser("scenarios"); p.add_argument("file"); p.add_argument("--switch", required=True, help="Inputs!C4=Bear,Base,Bull")
+    p.add_argument("--outputs", required=True); p.add_argument("--check", help="master check cell, must be 1")
+    p.add_argument("--order", help="Valuation!C10:asc  (strictly increasing in case order)")
+    p = sp.add_parser("render"); p.add_argument("file"); p.add_argument("--out", required=True); p.add_argument("--dpi", type=int, default=70)
+    p = sp.add_parser("tornado"); p.add_argument("file"); p.add_argument("output")
+    p.add_argument("--inputs", required=True, help='"Inputs!C17=0.08,0.12; Inputs!C14" (bare cell = base +/- pct)')
+    p.add_argument("--pct", type=float, default=0.10)
     a = ap.parse_args()
     {"map": cmd_map, "audit": cmd_audit, "patch": cmd_patch, "verify": cmd_verify, "diff": cmd_diff,
-     "trace": cmd_trace, "features": cmd_features, "sensitivity": cmd_sensitivity}[a.cmd](a)
+     "trace": cmd_trace, "features": cmd_features, "sensitivity": cmd_sensitivity,
+     "scenarios": cmd_scenarios, "tornado": cmd_tornado, "render": cmd_render}[a.cmd](a)
 
 
 if __name__ == "__main__":
