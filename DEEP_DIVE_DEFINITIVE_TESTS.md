@@ -102,3 +102,4 @@ What this test cannot separate: units falling with flat or rising ASP is consist
 | 2026-10-13 | Document created; five tests launched. |
 | 2026-10-13 | Test 5 (units vs price) reported: 694 filing statements, two key findings. |
 | 2026-10-13 | Test 1 (factory orders) reported: Feng Tay, Pou Chen, Yue Yuen series 2013 to 2026; chart 20. |
+| 2026-10-13 | Session paused with Tests 2, 3 and 4 still running; their partial, unverified outputs are saved in `data/definitive/interim/` (see its README). |
