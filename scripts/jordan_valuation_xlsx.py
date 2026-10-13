@@ -129,7 +129,8 @@ m.check("Margin reaches target in FY2031", "={Model.margin@FY2031E}-{Inputs.targ
 m.check_less("Terminal growth below WACC", "{Inputs.g}", "{Inputs.wacc}")
 m.check_rows_nonneg("Revenue never negative", "Model.rev")
 m.check("Value = PV(FCF) + PV(TV)", "={Valuation.ev}-SUM({Model.pv@all})-{Valuation.pv_tv}")
-m.check("Discount timing ends at 4.63 years", "={Model.t_end@FY2031E}-({Inputs.w27}+4)")
+m.check("Discount timing: final period ends at stub + (periods - 1) years",
+        "={Model.t_end@FY2031E}-({Inputs.w27}+MAX({Model.t@all})-1)")
 
 if __name__ == "__main__":
     rep = m.save()

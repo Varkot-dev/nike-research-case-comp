@@ -78,5 +78,33 @@ p.pkg.save(out)
 f = formulas(out)
 check(f["Model!F13"] == "=IF(F2=0,0,F7/F2)", f"fill translates relative refs ({f['Model!F13']})")
 
+# audit: every planted defect is caught by the right rule, and nothing fires on the clean fixture's formulas
+import audit
+bad = os.path.join(W, "bad.xlsx")
+p = xl.Patcher(FX)
+p.apply([
+    {"op": "set", "sheet": "Model", "cell": {"row": "SG&A", "col": "FY2027"}, "value": -300},      # pasted-over formula
+    {"op": "set", "sheet": "Model", "cell": "E3", "formula": "=-E2*0.55"},                         # literal + inconsistent
+    {"op": "set", "sheet": "Checks", "cell": "B3", "formula": "=XLOOKUP(1,Model!B1:F1,Model!B2:F2)"},  # bare new function
+    {"op": "set", "sheet": "Checks", "cell": "B4", "formula": "=Model!B2/Model!B12"},              # #DIV/0! via blank
+    {"op": "set", "sheet": "Checks", "cell": "B5", "formula": "=SUM(Model!B2:B3)+Model!B3"},       # double count
+    {"op": "set", "sheet": "Checks", "cell": "B6", "formula": "=VLOOKUP(1,Model!B1:F2,2)"},        # approximate lookup
+    {"op": "set", "sheet": "Checks", "cell": "B7", "formula": "=SUM(Inputs!B3:B4)"},               # stops short of like input B5
+    {"op": "set", "sheet": "Inputs", "cell": "B8", "value": 7},                                    # unused input
+    {"op": "style", "sheet": "Inputs", "range": "B8", "like": "B2"},
+])
+p.pkg.save(bad)
+ids = {(f["id"], f["sheet"], f["cell"]) for f in audit.Auditor(bad).run()}
+want = [("FORMULA_INTERRUPTED_BY_DATA", "Model", "D5"), ("INCONSISTENT_FORMULA", "Model", "E3"),
+        ("LITERAL_IN_FORMULA", "Model", "E3"), ("NEEDS_XLFN_PREFIX", "Checks", "B3"),
+        ("LIVE_ERROR_ROOT", "Checks", "B4"), ("REF_TO_BLANK", "Checks", "B4"), ("DOUBLE_COUNT", "Checks", "B5"),
+        ("APPROXIMATE_LOOKUP", "Checks", "B6"), ("RANGE_STOPS_SHORT", "Checks", "B7"), ("UNUSED_INPUT", "Inputs", "B8")]
+for w in want:
+    check(w in ids, f"audit catches {w}")
+clean = [f for f in audit.Auditor(FX).run() if f["id"] not in ("MISSING_SOURCE",)]
+check(not clean, f"clean fixture has no formula findings ({[(f['id'], f['cell']) for f in clean][:5]})")
+v = xl.verify(bad)
+check(any("xlookup" in u for u in v["libreoffice_could_not_parse"]), "verify flags formulas LibreOffice could not parse")
+
 print(f"\n{len(fails)} failure(s); work dir {W}")
 sys.exit(1 if fails else 0)

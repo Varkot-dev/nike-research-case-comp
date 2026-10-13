@@ -230,124 +230,8 @@ def cmd_map(a):
 # ============================================================================ audit
 
 def cmd_audit(a):
-    wf = load_workbook(a.file)
-    wv = load_workbook(X.lo_recalc_copy(a.file), data_only=True)
-    allow = {float(x) for x in a.allow.split(",")} if a.allow else {0, 1, 2, 4, 12, 100, 365, 1000, 1e6}
-    issues = defaultdict(list)
-    uses_color_convention = False
-    for ws in wf.worksheets:
-        for row in ws.iter_rows():
-            for c in row:
-                if isinstance(c.value, (int, float)) and font_rgb(c) == "0000FF":
-                    uses_color_convention = True
-                    break
-    for ws in wf.worksheets:
-        if a.sheet and ws.title != a.sheet:
-            continue
-        wsv = wv[ws.title]
-        hdr = header_rows(ws)
-        first_period_col = None
-        if hdr:
-            for c in range(1, ws.max_column + 1):
-                v = ws.cell(hdr[0], c).value
-                if v is not None and (isinstance(v, (int, float)) or YEARLIKE.match(str(v).strip())):
-                    first_period_col = c
-                    break
-        for r in range(1, ws.max_row + 1):
-            lab = label_of(ws, r)
-            rowcells = [ws.cell(r, c) for c in range(1, ws.max_column + 1)]
-            # 1. cached errors
-            for c in rowcells:
-                v = wsv[c.coordinate].value
-                if isinstance(v, str) and v in ERRORS:
-                    issues["error_value"].append(f"{ws.title}!{c.coordinate} {v} ({lab})")
-            forms = [c for c in rowcells if is_formula(c.value)]
-            # 2. inconsistent formulas across the timeline row
-            if first_period_col and len(forms) >= 3:
-                ts = [c for c in forms if c.column >= first_period_col]
-                pats = [(c, X.relative_form(c.value, c.coordinate)) for c in ts]
-                cnt = Counter(p for _, p in pats)
-                if len(cnt) > 1:
-                    main, k = cnt.most_common(1)[0]
-                    odd = [c.coordinate for c, p in pats if p != main]
-                    # a first-period formula that differs (opening balance) is normal; flag mid-row breaks
-                    mid = [o for o in odd if o != ts[0].coordinate]
-                    if mid:
-                        issues["inconsistent_row"].append(f"{ws.title}!r{r} '{lab}': {len(odd)} of {len(ts)} differ from the row pattern; e.g. {mid[:4]}")
-            # 3. plugs: hardcoded numbers in a row that is otherwise formulas
-            if first_period_col and forms:
-                nums = [c for c in rowcells if c.column >= first_period_col and isinstance(c.value, (int, float))
-                        and not isinstance(c.value, bool)]
-                ts_forms = [c for c in forms if c.column >= first_period_col]
-                if nums and ts_forms and len(ts_forms) >= 2:
-                    issues["hardcode_in_formula_row"].append(f"{ws.title}!r{r} '{lab}': constants at {[c.coordinate for c in nums][:6]} among {len(ts_forms)} formulas")
-            for c in forms:
-                f = c.value
-                up = f.upper()
-                # 4. numbers typed inside formulas
-                for t in _literal_numbers(f):
-                    if t not in allow:
-                        issues["literal_in_formula"].append(f"{ws.title}!{c.coordinate} {f[:80]}")
-                        break
-                # 5. volatile / fragile functions
-                for fn in VOLATILE:
-                    if re.search(rf"\b{fn}\(", up):
-                        issues["volatile_function"].append(f"{ws.title}!{c.coordinate} {fn}")
-                for fn in NEEDS_PREFIX:
-                    if re.search(rf"(?<![._A-Z]){fn}\(", up):
-                        issues["needs_xlfn_prefix_or_unsupported"].append(f"{ws.title}!{c.coordinate} {fn} written bare")
-                if re.search(r"(?<![A-Z$])\$?[A-Z]{1,3}:\$?[A-Z]{1,3}(?![0-9])", up):
-                    issues["whole_column_ref"].append(f"{ws.title}!{c.coordinate}")
-                if "IFERROR(" in up:
-                    issues["iferror_masking"].append(f"{ws.title}!{c.coordinate}")
-                if re.search(r"\[\d+\]", f):
-                    issues["external_link"].append(f"{ws.title}!{c.coordinate}")
-                # 6. references to empty cells
-                for sh, addr in X.iter_formula_refs(f):
-                    if ":" in addr or "[" in addr or not X.CELL_RE.match(addr):
-                        continue
-                    tws = wf[sh] if sh and sh in wf.sheetnames else (ws if not sh else None)
-                    if tws is not None and tws[addr.replace("$", "")].value is None:
-                        issues["ref_to_blank"].append(f"{ws.title}!{c.coordinate} -> {(sh + '!') if sh else ''}{addr}")
-                # 7. color convention
-                if uses_color_convention:
-                    col = font_rgb(c)
-                    cross = any(sh and sh != ws.title for sh, _ in X.iter_formula_refs(f))
-                    if col == "0000FF":
-                        issues["formula_colored_as_input"].append(f"{ws.title}!{c.coordinate}")
-                    elif cross and col not in ("008000", "00B050") and _only_link(f):
-                        issues["cross_sheet_link_not_green"].append(f"{ws.title}!{c.coordinate}")
-                # 8. SUM that stops one row short of a populated row (classic insert-row miss)
-                for m in re.finditer(r"SUM\(\$?([A-Z]{1,3})\$?(\d+):\$?([A-Z]{1,3})\$?(\d+)\)", up):
-                    c1, r1, c2, r2 = m.group(1), int(m.group(2)), m.group(3), int(m.group(4))
-                    if c1 == c2 and "!" not in f[max(0, m.start() - 40):m.start()]:
-                        below = r2 + 1
-                        bv = ws[f"{c1}{below}"].value
-                        last = ws[f"{c1}{r2}"].value
-                        # suspicious only if the next row looks like another line item of the block:
-                        # a typed number, or a formula with the same shape as the block's last row
-                        same_shape = is_formula(bv) and is_formula(last) and \
-                            X.relative_form(bv, f"{c1}{below}") == X.relative_form(last, f"{c1}{r2}")
-                        typed = isinstance(bv, (int, float)) and not isinstance(bv, bool) and isinstance(last, (int, float))
-                        if below < c.row and (same_shape or typed):
-                            issues["sum_range_skips_row"].append(f"{ws.title}!{c.coordinate} SUM({c1}{r1}:{c2}{r2}) but {c1}{below} has a value")
-            # 9. inputs not colored
-            if uses_color_convention:
-                for c in rowcells:
-                    if isinstance(c.value, (int, float)) and not isinstance(c.value, bool) and font_rgb(c) not in ("0000FF",) \
-                            and not (hdr and r in hdr) and c.column > 1:
-                        issues["input_not_blue"].append(f"{ws.title}!{c.coordinate}")
-            # 10. percent stored as whole number
-            for c in rowcells:
-                # typed inputs only, and only "round" numbers like 5 or 21.5 (a computed 1.8876 = 189% is legitimate)
-                if isinstance(c.value, (int, float)) and not isinstance(c.value, bool) and "%" in (c.number_format or "") \
-                        and 1.5 < abs(c.value) <= 100 and round(c.value, 2) == c.value:
-                    issues["percent_stored_as_whole_number"].append(f"{ws.title}!{c.coordinate}={c.value}")
-    cyc = find_cycles(wf)
-    if cyc:
-        issues["circular_reference"] = cyc[:20]
-    out = {k: {"count": len(v), "examples": v[:12]} for k, v in issues.items()}
-    print(json.dumps({"file": a.file, "issues": out, "color_convention_detected": uses_color_convention}, indent=1))
+    import audit
+    audit.main(a)
 
 
 def _tokens(f):
@@ -848,6 +732,8 @@ def verify(path, cells=None):
     rc = X.lo_recalc_copy(path)
     wv = load_workbook(rc, data_only=True)
     wf = load_workbook(path)
+    wl = load_workbook(rc)          # LibreOffice's own formula text: lowercased = it could not parse it
+    unparsed = []
     errs = defaultdict(list)
     total = 0
     for ws in wf.worksheets:
@@ -859,13 +745,19 @@ def verify(path, cells=None):
                     v = wsv[c.coordinate].value
                     if isinstance(v, str) and v in ERRORS:
                         errs[v].append(f"{ws.title}!{c.coordinate}")
+                    lf = wl[ws.title][c.coordinate].value
+                    if isinstance(lf, str) and re.search(r"\b[a-z][a-z0-9.]*\(", lf) and \
+                            not re.search(r"\b[a-z][a-z0-9.]*\(", str(c.value)):
+                        unparsed.append(f"{ws.title}!{c.coordinate}: {lf[:60]}")
     vals = {}
     for spec in cells or []:
         sh, addr = parse_cellspec(spec)
         vals[spec] = wv[sh][addr].value
-    return {"recalculated_copy": str(rc), "formulas": total,
+    ext = [n for n in X.Package(path).names() if n.startswith("xl/externalLinks/")]
+    return {"recalculated_copy": str(rc), "formulas": total, "external_link_parts": len(ext),
+            "libreoffice_could_not_parse": unparsed[:25],
             "errors": {k: {"count": len(v), "cells": v[:25]} for k, v in errs.items()},
-            "status": "errors_found" if errs else "clean", "values": vals}
+            "status": "errors_found" if errs else ("unverifiable_formulas" if unparsed else "clean"), "values": vals}
 
 
 def cmd_patch(a):
@@ -878,7 +770,11 @@ def cmd_patch(a):
         v = verify(out, [f"{X.quote_sheet(s)}!{c}" for s, c in p.touched[:40]])
         rep["verify"] = v
         if a.refresh_cache:
-            rep["cached_values_written"] = refresh_cache(out, v["recalculated_copy"])
+            if v["external_link_parts"] and not a.force:
+                # LibreOffice cannot open the linked files: it would cache #NAME?/#REF! over the only copy of that data
+                rep["cached_values_written"] = "REFUSED: workbook links to other files; cached values are the only copy (use --force to override)"
+            else:
+                rep["cached_values_written"] = refresh_cache(out, v["recalculated_copy"])
     print(json.dumps(rep, indent=1, default=str))
 
 
@@ -1152,9 +1048,14 @@ def main():
     sp = ap.add_subparsers(dest="cmd", required=True)
     p = sp.add_parser("map"); p.add_argument("file"); p.add_argument("--sheet"); p.add_argument("--max-rows", type=int, default=120)
     p.add_argument("--no-recalc", action="store_true", help="show cached values instead of a fresh LibreOffice recalc")
-    p = sp.add_parser("audit"); p.add_argument("file"); p.add_argument("--sheet"); p.add_argument("--allow")
+    p = sp.add_parser("audit"); p.add_argument("file"); p.add_argument("--sheet")
+    p.add_argument("--format", choices=["json", "md"], default="json"); p.add_argument("--limit", type=int, default=300)
+    p.add_argument("--annotate", help="write a REVIEW copy with comments and fills on every finding")
+    p.add_argument("--suppress", help='JSON list of accepted findings [{"id":..,"sheet":..,"cell":..}]')
+    p.add_argument("--fail-on", choices=["high", "medium", "low"], help="exit 2 if any finding at or above this severity")
     p = sp.add_parser("patch"); p.add_argument("file"); p.add_argument("ops"); p.add_argument("--out", required=True)
     p.add_argument("--refresh-cache", action="store_true"); p.add_argument("--no-verify", action="store_true")
+    p.add_argument("--force", action="store_true", help="refresh cached values even when external links exist")
     p = sp.add_parser("verify"); p.add_argument("file"); p.add_argument("--cells")
     p = sp.add_parser("diff"); p.add_argument("old"); p.add_argument("new"); p.add_argument("--expect")
     p.add_argument("--values", action="store_true", help="also list cached-value changes"); p.add_argument("--limit", type=int, default=200)

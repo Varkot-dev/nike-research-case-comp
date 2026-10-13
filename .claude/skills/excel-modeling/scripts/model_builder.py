@@ -205,6 +205,7 @@ class Model:
             else:
                 ws.write_formula(i, 1, self.render(home, formula), self.fmt("#,##0.000000"))
                 ws.write(i, 2, tol, self.fmt("0.000000", BLUE))
+                ws.write_comment(i, 2, "Source: model convention (check tolerance; must exceed float and iteration noise)")
                 ws.write_formula(i, 3, f"=IF(ABS({v})<={t},1,0)", self.fmt("flag"))
         n = len(self.checks)
         ws.write(n + 2, 0, "Master check (1 = all pass)", self.fmt(bold=True))
@@ -471,6 +472,7 @@ class ChartSheet:
             ws.write_formula(last, 5, m.render(self, marker[1]), m.fmt(unit, GREEN))
             ws.write(last, 4, "live marker (column F), drawn as a sliver of width set in column G", m.fmt(italic=True))
             ws.write(last, 6, 0.005, m.fmt("0.0%", BLUE))
+            ws.write_comment(last, 6, "Source: presentation convention (marker bar width as a share of the value)")
             v, wd = xl_rowcol_to_cell(last, 5), xl_rowcol_to_cell(last, 6)
             ws.write_formula(last, 1, f"={v}-ABS({v})*{wd}", m.fmt(unit))
             ws.write_formula(last, 2, f"={v}+ABS({v})*{wd}", m.fmt(unit))
