@@ -20,7 +20,7 @@
 | Academic research on consumer shoe preferences | `claude/stoic-shannon-dmkmyu` | Root-cause analysis of the decline (17 hypotheses with contribution estimates); execution vs structural report; adidas and Under Armour turnaround cases; academic literature |
 | Nike DTC/Retail analysis | `claude/zealous-mccarthy-rj0t2h` | Region and channel profitability; channel margin test; Converse; new products; investigations 01 to 08 (sell-in vs sell-through, Greater China collapse, NIKE Direct decline, markdown depth, segment gross margins, customer concentration, footwear vs apparel) |
 | Nike revenue streams research | `claude/gallant-ride-0plbb9` | Revenue streams; Jordan Brand thesis and valuation; definitive tests (supplier factory output, time to markdown, size runs, resale panel, units vs price) |
-| Excel/Sheets modeling skill | `claude/beautiful-archimedes-6cjphp` | Excel modeling skill; Jordan valuation workbook and tornado (not yet merged) |
+| Excel/Sheets modeling skill | `claude/beautiful-archimedes-6cjphp` | Excel modeling skill; Jordan valuation workbook and tornado (merged in PR #9) |
 
 ## Done (on the default branch unless noted)
 
@@ -34,6 +34,7 @@
 | Region margin, products, Converse, channel margins | `research_notes/06` to `10`, `data/nike_region_profitability.csv` | DTC/Retail session |
 | Revenue streams; Jordan thesis and valuation | `research_notes/11` to `13`, `research_notes/jordan_extracts/` | Revenue streams session |
 | Profit bridge and thesis scorecard | `research_notes/14_profit_bridge_and_thesis_scorecard.md` | SEC filings session |
+| Excel modeling skill; Jordan valuation workbook | `.claude/skills/excel-modeling/`, `data/valuation/jordan_valuation.xlsx`, `scripts/jordan_valuation_xlsx.py` | Excel session |
 
 ### Thesis tests (`research_notes/thesis_tests/`)
 | Question | File | One-line result | Owner |
@@ -72,6 +73,6 @@ On the default branch: franchise oversupply, DTC and wholesale, the execution vs
 
 ## Open topics nobody owns yet (claim one before starting)
 - The pitch itself: thesis decision memo, 10-page report, 15-slide deck (needs every lane's results).
-- The full three-statement Excel model for the submission (the Excel skill exists on `claude/beautiful-archimedes-6cjphp`).
+- The full three-statement Excel model for the submission (use the merged skill in `.claude/skills/excel-modeling/`).
 - Sum-of-the-parts and strategic options (Converse sale, Jordan) beyond the existing Jordan valuation.
 - University database pulls (Euromonitor brand shares, Mintel consumer surveys, Bloomberg, I/B/E/S): waiting on the user.
