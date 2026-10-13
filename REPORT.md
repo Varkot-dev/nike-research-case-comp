@@ -35,7 +35,7 @@
 - **The situation.** Nike is the world's largest sportswear company, and it is shrinking. Revenue peaked at **$51,362 million in FY2024** (FY24 10-K p. 57) and was **$46,398 million in FY2026** (FY26 10-K p. 55). Diluted earnings per share (EPS) fell from **$3.73** to **$2.10** over the same two years (FY24 10-K p. 57; FY26 10-K p. 55), and FY2026 included a one-time **$0.52** per share tariff-refund benefit in the fourth quarter (Q4 FY26 release p. 1). For FY2027, Nike expects revenue to "decline high-single digits" and adjusted EPS of **$1.15 to $1.35** (Q1 FY27 release p. 1).
 - **The stock.** NKE closed at **$35.35 on October 12, 2026**, which is **80% below** its record close of $177.51 on November 5, 2021 and down 44.5% since the end of 2025 (market data; my arithmetic). The October 2, 2026 close of $33.87 was the lowest since September 2013 (market data). The proxy's own shareholder-return measure says $100 invested at the end of FY2021 was worth **$36.47** at the end of FY2026, against $48.36 for the Dow Jones U.S. Footwear index (2026 proxy p. 56).
 - **The turnaround.** CEO Elliott Hill, a 32-year Nike veteran who retired in 2020, returned on October 14, 2024 (8-K filed Sept 19, 2024, p. 2). His plan has three stages: **Win Now**, **Sport Offense**, and **Pace**. Pace was announced October 1, 2026 and targets "approximately $2.5 billion in cumulative savings through fiscal 2031" at "approximately $1.0 billion of pre-tax charges" (8-K filed Oct 1, 2026, Item 2.05, p. 2).
-- **The people angle (the thesis idea).** I count **19 named senior exits since 2020, 14 of them after Hill started** (Section 9). Four were roles Nike said it eliminated. Within a single quarter Nike also changed its CFO (8-K filed June 23, 2026) and its chief accounting officer resigned (8-K filed Aug 10, 2026). Hill's senior outside hires are **three**: Michael Gonda (communications, from McDonald's), David Denton (CFO, from Pfizer) and Jane Ewing (commercial, from Walmart). Nearly everyone else he promoted is a Nike insider or returnee.
+- **The people angle (the thesis idea).** I count **19 named senior exits since 2020, 14 of them after Hill started** (Section 9). Three were roles Nike said it eliminated (O'Neill, Dogan and Williams), and a fourth (Heaf) was reported as eliminated. Within a single quarter Nike also changed its CFO (8-K filed June 23, 2026) and its chief accounting officer resigned (8-K filed Aug 10, 2026). Hill's senior outside hires are **three**: Michael Gonda (communications, from McDonald's), David Denton (CFO, from Pfizer) and Jane Ewing (commercial, from Walmart). Nearly everyone else he promoted is a Nike insider or returnee.
 - **Shareholders are pushing back.** Support for executive pay fell to about **67.8%** at the September 2026 annual meeting, from about 94% in 2025 (8-K filed Sept 10, 2026, p. 2; 2026 proxy p. 23; my arithmetic on votes for versus against).
 - **Where the money is made (new, Sections 5.7 to 5.10).**
   - **Greater China:** its EBIT margin fell from 39.1% in FY2021 to 21.9% in FY2026, and it had the largest reported EBIT decline of any segment from FY2024 to FY2026 (-$1,031 million).
@@ -101,9 +101,9 @@ Nike designs and sells athletic footwear, apparel and equipment under the **Nike
 
 | Stage | Date | What it is | Evidence of progress |
 |---|---|---|---|
-| **Win Now** | From Oct 2024 | Rebuild retailer ties, refocus on performance sport, shrink the classic franchises, flatten management | Wholesale revenue rose 6% in FY2026 to $27,453 million (FY26 10-K p. 32) |
+| **Win Now** | From Oct 2024 | Rebuild retailer ties, refocus on performance sport, shrink the classic franchises, flatten management | Wholesale revenue rose 6% in FY2026 to $27,453 million (FY26 10-K p. 32), but retailer filings show much of North America's +9% to +24% quarterly wholesale growth was stock going into retailers, not shoppers buying it (`research_notes/thesis_tests/retailer_sell_through.md`; Section 12) |
 | **Sport Offense** | 2025 | Reorganize teams by sport. In May 2025 the Consumer, Product and Brand organization was split into "Consumer and Sport, Marketing, and Product Creation" (Nike release, May 5, 2025; 8-K filed May 5, 2025) | Too early to isolate its effect |
-| **Pace** | Announced Oct 1, 2026 | "An operating model transformation" that "includes and builds upon the previous cost realignment plan announced in March 2026": a modernized supply chain, "a new campus in India" and a realigned organization (Q1 FY27 release p. 1). About **$2.5 billion** of cumulative savings through FY2031, stated before charges and reinvestment; about **$1.0 billion** of pre-tax charges, mostly employee-related, of which about **$0.3 billion** in FY2027. This is on top of about $0.3 billion of severance already booked in FY2026 (8-K filed Oct 1, 2026, p. 2; Q1 FY27 release p. 1). Nike "plans to organize into three geographies in fiscal 2028" (Q1 FY27 10-Q), down from the "four Geographies" it has today (8-K filed Dec 2, 2025, Ex. 99.1). Nike's employee memo names the geographies as the Americas, EMEA and APGC (Asia Pacific and Greater China, led from Singapore) and the campus as Bengaluru (Nike release, Oct 1, 2026). | Savings are back-loaded to FY2031, so there is no near-term proof |
+| **Pace** | Announced Oct 1, 2026 | "An operating model transformation" that "includes and builds upon the previous cost realignment plan announced in March 2026": a modernized supply chain, "a new campus in India" and a realigned organization (Q1 FY27 release p. 1). About **$2.5 billion** of cumulative savings through FY2031, stated before charges and reinvestment; about **$1.0 billion** of pre-tax charges, mostly employee-related, of which about **$0.3 billion** in FY2027. This is on top of about $0.3 billion of severance already booked in FY2026 (8-K filed Oct 1, 2026, p. 2; Q1 FY27 release p. 1). Savings ramp "starting now with the maximum savings to be appreciated and accrued in '29 and '30" (Nike transcript, Q1 FY27 call, CFO Denton). Nike "plans to organize into three geographies in fiscal 2028" (Q1 FY27 10-Q), down from the "four Geographies" it has today (8-K filed Dec 2, 2025, Ex. 99.1). Nike's employee memo names the geographies as the Americas, EMEA and APGC (Asia Pacific and Greater China, led from Singapore) and the campus as Bengaluru (Nike release, Oct 1, 2026). | Savings are back-loaded to FY2031, so there is no near-term proof |
 
 **Other structural changes.** On December 2, 2025 Nike created a Chief Operating Officer role for Venkatesh Alagirisamy, effective December 8, and eliminated the Chief Technology Officer and Chief Commercial Officer roles (8-K filed Dec 2, 2025, p. 2). Global Sales and NIKE Direct moved under the CFO, and the four geography heads joined the senior leadership team reporting directly to Hill (Nike release, Dec 3, 2025). In August and September 2026 a new CFO (Denton) and a new Chief Commercial Officer (Ewing) arrived (Section 8).
 
@@ -257,7 +257,7 @@ Segment EBIT divided by segment revenue (my arithmetic on the segment note of ea
 
   Nike says the refund "largely offsets the impact of the IEEPA tariffs recognized during fiscal 2026" (Q4 FY26 release pp. 4 to 5), so the reported figure is the no-tariff view and the ex-refund figure is the with-tariff view.
 - **Sensitivity:** if Greater China's EBIT margin returned to its FY2024 level of 30.6% on FY2026 revenue, segment EBIT would be about **$511 million higher**, 13% of FY2026 total EBIT of $3,850 million (my arithmetic).
-- **North America is the only segment whose FY2026 gross margin is above FY2023.** It is also the segment that moved furthest toward wholesale: its Direct share fell from 48.6% to 41.7% between FY2024 and FY2026 (FY24 10-K p. 84; FY26 10-K p. 83). Its gross margin gain did not reach EBIT on a with-tariff basis (27.2% to 21.5%). Why North America diverged is being tested in the current research round (Section 12).
+- **North America is the only segment whose FY2026 gross margin is above FY2023, but only because of the tariff refund.** Including the $965 million IEEPA refund it was 45.6%; excluding it, 40.9%, below FY2023's 42.2% (my arithmetic; `research_notes/15_why_nike_discounts.md` row 5d). It is also the segment that moved furthest toward wholesale: its Direct share fell from 48.6% to 41.7% between FY2024 and FY2026 (FY24 10-K p. 84; FY26 10-K p. 83). Its gross margin gain did not reach EBIT on a with-tariff basis (27.2% to 21.5%). The divergence is the refund, not pricing (row 5d of `research_notes/15_why_nike_discounts.md`).
 - **Higher Direct share does not line up with better margins across regions.** In FY2026 the two most Direct-heavy segments, Greater China (44.3%) and Converse (44.1%), had the steepest profit declines.
 - Detail: `research_notes/06_region_margin_product.md`.
 
@@ -382,7 +382,7 @@ The full list of 40 launches, with channel, geography and sources, is in `resear
 - Jordan is **19% below its FY2024 peak** (my arithmetic). If all of FY2027 fell mid-teens, Jordan would be about $6.0 billion, roughly 31% below peak (my arithmetic, illustrative; Nike gives no Jordan guidance).
 - **The precedent.** "Back in Fiscal 18, we recalibrated the supply of select Jordan Brand franchises ... we turned the page from double-digit declines in the Brand to the start of multiple consecutive years of strong double-digit growth" (Nike transcript, Q4 FY24 call). Jordan fell 8% in FY2018 (FY19 10-K p. 27), was back above its FY2017 level within two years, and was about 2.3 times its FY2018 low by FY2024 (chained same-filing growth rates; my arithmetic, chart 17).
 - **The same play now, stated outright:** "we've been oversupplying our iconic retro product ... as we've done with the Air Jordan 1, we will deliberately reduce the volume and frequency of specific Jordan Retro launches ... In the near term, North America will feel the biggest impact" (Nike transcript, Q1 FY27 call, Oct 1, 2026). Nike says Jordan and Sportswear actions "are expected to extend beyond fiscal 2027," reflecting "higher levels of discounting and broader marketplace pressure" (Q1 FY27 10-Q p. 20).
-- **New estimate: Jordan is Nike's most DTC-dependent franchise (my inference).** The restatement swapped internal transfer prices for actual NIKE Direct revenue. Across NIKE Brand in FY2024, internal sales to NIKE Direct were $13,009 million against NIKE Direct revenue of $21,519 million (FY24 10-K p. 34), an internal price of about 60.5% of retail. Jordan's FY2024 restatement gap of $1,713 million then implies Jordan Direct revenue of about $4.3 billion, **about 50% of Jordan revenue**, against 43.6% for NIKE Brand (my arithmetic; range 45% to 55% under different price assumptions). Jordan accounted for 20% of the restatement gap but 17.6% of NIKE Brand revenue. The Jordan decline and the 32% fall in NIKE Brand Digital since FY2023 (Section 5.5) are largely one story: retro launches drove the app.
+- **New estimate: Jordan is Nike's most DTC-dependent franchise (my inference).** The restatement swapped internal transfer prices for actual NIKE Direct revenue. Across NIKE Brand in FY2024, internal sales to NIKE Direct were $13,009 million against NIKE Direct revenue of $21,519 million (FY24 10-K p. 34), an internal price of about 60.5% of retail. Jordan's FY2024 restatement gap of $1,713 million then implies Jordan Direct revenue of about $4.3 billion, **about 50% of Jordan revenue**, against 43.6% for NIKE Brand (my arithmetic; range 45% to 55% under different price assumptions). Jordan accounted for 20% of the restatement gap but 17.6% of NIKE Brand revenue. The Jordan decline and the 32% fall in NIKE Brand Digital since FY2023 (`research_notes/05_channel_split.md` Section 2) are largely one story: retro launches drove the app.
 
 **The evidence test (October 13, 2026).** We tested the scarcity claim ten ways from primary documents and data we could open (`research_notes/12_jordan_brand_thesis.md` Section 5; extracts in `research_notes/jordan_extracts/rabbit_hole/`).
 
@@ -411,7 +411,7 @@ Nike discloses no Jordan profit, so this is a scenario DCF with labelled assumpt
 | Bull: FY2018 replay, back to the FY2024 peak by FY2031 | $8.7B | 14% | $0.63 | $5.96 | 17% |
 
 - **Jordan is about a 10% lever on the stock.** The bull-to-bear spread is $3.64 a share. In earnings terms the spread is about $0.40 of FY2031 EPS, roughly a third of the FY2027 adjusted EPS guidance midpoint of $1.25 (my arithmetic).
-- **The market already pays close to the bull case (my inference).** Jordan's FY2026 revenue at NKE's own EV/Sales of about 1.2x is worth $5.68 a share, near the bull DCF. That is because NKE's multiple already embeds a return to 12% to 14% margins. On these assumptions Jordan is mainly a downside risk of about $2 to $3.50 a share, unless it beats the bull case.
+- **The market already pays close to the bull case (my inference).** Jordan's FY2026 revenue at NKE's own EV/Sales of about 1.2x is worth $5.68 a share, near the bull DCF. That is because NKE's multiple already embeds a return to 12% to 14% margins. On these assumptions Jordan is mainly a downside risk of about $1.90 to $3.40 a share (bull-equivalent $5.68 less the base $3.79 or bear $2.32), unless it beats the bull case.
 - **Margin matters more than volume.** On the base revenue path, moving from an 8% to a 14% margin adds $1.99 a share. Moving from the bear to the bull revenue path at an 11% margin adds $1.57. Fewer pairs sold at full price can be worth more than more pairs sold at a discount.
 
 ---
@@ -451,7 +451,7 @@ Nike discloses no Jordan profit, so this is a scenario DCF with labelled assumpt
 
 ### Upcoming catalysts
 - **Investor Day: Nov 16 to 17, 2026.** "At our Investor Day on Nov. 16-17, we'll share more details" (Nike release, Oct 1, 2026 memo).
-- **Q2 FY2027 results:** expected mid to late December. Nike had not announced a date by Oct 12; Dec 17 is an aggregator estimate.
+- **Q2 FY2027 results:** expected mid to late December. Nike had not announced a date by Oct 12; Dec 17 is an aggregator estimate. Nike flagged a Q2 revenue headwind of "approximately 400 basis points" from lapping EMEA Cyber Week promotions and higher North America sell-in a year earlier (Nike transcript, Q1 FY27 call).
 
 ---
 
@@ -528,7 +528,7 @@ Nike discloses no Jordan profit, so this is a scenario DCF with labelled assumpt
 | APLA | **Cristin (Crissy) Campbell** (interim) | About 15 years; began as a graduate intern (Nike profile) | Still interim in Oct 2026 |
 
 ### Brand and functional leaders
-- **Sarah Mensah, President, Jordan Brand** (since May 2023; not a Hill hire). Joined Nike in 2013 after 19 years with the Portland Trail Blazers; Albertsons director (Nike profile). Jordan revenue was $7,034 million in FY2026, down 3% and 19% below the FY2024 peak on the same basis (FY26 10-K p. 32; my arithmetic; Section 5.8).
+- **Sarah Mensah, President, Jordan Brand** (since May 2023; not a Hill hire). Joined Nike in 2013 after 19 years with the Portland Trail Blazers; Albertsons director (Nike profile). Jordan revenue was $7,034 million in FY2026, down 3% and 19% below the FY2024 peak on the same basis (FY26 10-K p. 32; my arithmetic; Section 5.12).
 - **Aaron Cain, President and CEO, Converse** (since July 2025), a 21-year Nike veteran. Hill called Jared Carver's exit "a joint decision" (secondary: Retail Dive). Converse revenue was $1,692 million in FY2025, down 19% (FY25 10-K p. 33), and $1,174 million in FY2026.
 - **Treasure Heinle, EVP and Chief People Officer** (Jan 2025, succeeding Monique Matheson; announced Nov 25, 2024). Joined 2012; HR roles at Danaher, Tektronix and InFocus (Nike profile).
 - **Rob Leinwand, EVP and Chief Legal Officer** (from late 2024, succeeding Ann Miller). Joined 2004; earlier at Littler Mendelson (Nike profile).
@@ -634,12 +634,15 @@ Nike discloses no Jordan profit, so this is a scenario DCF with labelled assumpt
 
 Ordered by value for a case built on the leadership thesis:
 
-**In progress (October 13, 2026 research round).** Each question is being tested by listing every plausible explanation and ruling each in or out with data. Results will be added to Sections 5.7 to 5.10 and `research_notes/`.
-- Is North America wholesale growth real sell-through or channel fill?
+**Answered in the October 13, 2026 research round** (details in the notes cited):
+- *Is North America wholesale growth real sell-through or channel fill?* Mostly channel fill: Nike North America wholesale grew 9% to 24% a quarter while Foot Locker, JD North America, Academy footwear and Shoe Carnival comps ran -7% to +1%, and DICK'S liquidated about $260 million of Foot Locker inventory (`research_notes/thesis_tests/retailer_sell_through.md` Section C).
+- *Why did North America's gross margin rise while every other region's fell?* The $965 million tariff refund; excluding it, North America fell to 40.9% (`research_notes/15_why_nike_discounts.md`).
+- *Why is Nike discounting, and when does full price return?* `research_notes/15_why_nike_discounts.md` and `research_notes/16_full_price_recovery.md`; a definitive-test programme is in `DEEP_DIVE_DEFINITIVE_TESTS.md`.
+
+**Still open:**
 - Why did Greater China collapse?
 - Why did NIKE Direct shrink?
 - What is NIKE Direct's average markdown depth, measured against the 8% to 16% break-even range?
-- Why did North America's gross margin rise while every other region's fell?
 - Why did U.S. customer concentration jump?
 - Why did the other regions' gross margins fall?
 - Why is footwear falling faster than apparel?
@@ -658,7 +661,7 @@ Ordered by value for a case built on the leadership thesis:
 
 ## 13. Data quality and what changed in this version
 
-**Method.** 102 SEC documents were downloaded from sec.gov (with a User-Agent identifying the requester) and read in full by nine readers working in parallel, each covering every page of its assigned filings. They extracted about 9,300 data points, each with a page and a verbatim quote. A script then checked that every value appears on the cited page of the cited filing, and every number printed in a filing passed. The remaining flags were derived values the readers had labelled as their own arithmetic. Values were cross-checked across filings (each 10-K repeats prior years) and against SEC XBRL data. Where filings disagree because of later reclassification (for example, Jordan Brand revenue and FY2023 digital revenue), the table uses the figure as first reported and notes the restatement.
+**Method.** 102 SEC documents were downloaded (originally from sec.gov; downloads now use the investors.nike.com mirror, per `CLAUDE.md`) and read in full by nine readers working in parallel, each covering every page of its assigned filings. They extracted about 9,300 data points, each with a page and a verbatim quote. A script then checked that every value appears on the cited page of the cited filing, and every number printed in a filing passed. The remaining flags were derived values the readers had labelled as their own arithmetic. Values were cross-checked across filings (each 10-K repeats prior years) and against SEC XBRL data. Where filings disagree because of later reclassification (for example, Jordan Brand revenue and FY2023 digital revenue), the table uses the figure as first reported and notes the restatement.
 
 **Added on October 13, 2026:**
 - New Sections 5.7 to 5.10 on regional profitability, channel economics, Converse and product.
@@ -686,6 +689,8 @@ Ordered by value for a case built on the leadership thesis:
 **Added October 13, 2026:**
 - Sections 5.11 (revenue streams) and 5.12 (Jordan Brand), charts 16 and 17, `research_notes/11_revenue_streams.md`, `research_notes/12_jordan_brand_thesis.md` and `research_notes/jordan_extracts/`.
 - **Jordan data fix.** `revenue_jordan` in `data/nike_filing_facts.csv` holds first-reported values, so FY2023 and FY2024 are on the wholesale equivalent basis and FY2025 and FY2026 on the reported basis. Chaining them gives FY2025 growth of +4% instead of the filed -16%. A consistent series, `revenue_jordan_reported_basis` (FY2023 to FY2026), was added from the FY25 and FY26 10-Ks.
+- **Restored after verification on Nike's official Q1 FY27 transcript:** the Q2 FY2027 revenue headwind of "approximately 400 basis points" from lapping EMEA Cyber Week promotions and North America sell-in, and Pace savings peaking in FY2029 and FY2030 (both previously dropped as unverifiable).
+- **Audit fixes (Oct 13):** North America gross margin now shown excluding the tariff refund; role eliminations counted as three confirmed plus one reported; North America wholesale sell-in verdict added to Sections 4 and 12; Jordan downside corrected to $1.90 to $3.40 a share.
 - **Jordan scenario valuation added** (Section 5.12, chart 19, `research_notes/13_jordan_valuation.md`, `scripts/jordan_valuation.py`, `data/valuation/jordan_scenarios.csv`, `data/valuation/jordan_sensitivity.csv`, `data/valuation/peer_ev_ebit_20261013.csv`). Branches eloquent-feynman, wonderful-franklin, stoic-shannon and zealous-mccarthy were merged; revenue streams and Jordan became Sections 5.11 and 5.12, notes 11 to 13 and charts 16 to 19.
 - **Jordan evidence test added.** Ten research lines (Foot Locker, DICK'S, JD Sports, other retailers, resale prices, release counts, FY2018 analog, alternative explanations, peers, consumer interest), chart 18, and data files `data/jordan_resale_goat_20261013.csv`, `data/google_trends_jordan_julsep.csv`, `data/jordan_retro_release_counts_annual.csv` and `data/piper_sandler_nike_teen_mindshare.csv`. The Jordan thesis changed from "deliberate scarcity reset" to "oversupply, then a supply cut that has not yet worked". A personal email address was removed from a methods note, and research no longer sends one in requests.
 - Dropped as unverifiable: "more than 700 Jordan styles a year in 2022 and 2023" (traced only to an unsourced blog). SneakerPing's 605 Jordan items are a resale sample, not a release count.
@@ -694,10 +699,8 @@ Ordered by value for a case built on the leadership thesis:
 **Removed because they could not be verified:**
 - The Q1 FY2027 consensus figures ($0.43 EPS, $11.32 billion revenue).
 - The 27-analyst rating split.
-- The "400 bps Cyber Week headwind" for Q2 FY2027.
 - Hill's unverified mid-career titles.
 - The "8,000 staff" Sport Offense figure.
-- The claim that Pace savings land "mostly in FY2029 and FY2030."
 
 **Still open:**
 - **Ann Hebert's exit reason:** seen only in a search snippet.
@@ -739,7 +742,7 @@ Ordered by value for a case built on the leadership thesis:
 
 ## 15. Sources
 
-**SEC filings (all downloaded from sec.gov and read in full).** The per-number citations are in `data/nike_filing_facts.csv`; the most-cited filings are:
+**SEC filings (all read in full; downloads now come from the investors.nike.com mirror of EDGAR).** The per-number citations are in `data/nike_filing_facts.csv`; the most-cited filings are:
 
 | Filing | Filed | URL |
 |---|---|---|
@@ -813,11 +816,11 @@ The full list of 102 documents with URLs is in `research_notes/04_financial_data
 |---|---|
 | `REPORT.md` | This report |
 | `DEEP_DIVE_DENTON_EWING.md` | Deep dive on CFO David Denton and CCO Jane Ewing |
-| `data/nike_filing_facts.csv` | 6,277 filing facts, one per metric and period, each with filing, printed page, URL and verbatim quote |
+| `data/nike_filing_facts.csv` | 6,281 filing facts, one per metric and period, each with filing, printed page, URL and verbatim quote |
 | `data/nke_daily_prices.csv`, `data/nke_dividends_exdate.csv` | Market data (Yahoo Finance), pulled Oct 12, 2026 |
 | `data/people_events.csv` | The named-exit list behind charts 6 and 7, with a source per row |
 | `data/nike_channel_split.csv`, `data/nike_region_profitability.csv` | Revenue by segment and channel; region-by-year revenue, Direct share, EBIT and gross margin (built by `scripts/build_region_channel.py`) |
 | `charts/` | 19 charts, all generated from the files in `data/` |
 | `scripts/make_charts.py` | Rebuilds every chart (`pip install matplotlib numpy`, then `python3 scripts/make_charts.py`) |
 | `scripts/build_data_pack.py` | Rebuilds `research_notes/04_financial_data_pack.md` from the facts file |
-| `research_notes/` | Research notes; `04_financial_data_pack.md` is the cited financial tables, `06` to `10` cover regional profit, products, Converse and channel margins, `11_revenue_streams.md`, `12_jordan_brand_thesis.md` and `13_jordan_valuation.md` cover revenue mix, Jordan and its valuation |
+| `research_notes/` | Research notes; `04_financial_data_pack.md` is the cited financial tables, `06` to `10` cover regional profit, products, Converse and channel margins, `11_revenue_streams.md`, `12_jordan_brand_thesis.md` and `13_jordan_valuation.md` cover revenue mix, Jordan and its valuation, `14` to `16` cover the profit bridge, discounting and full-price recovery; `thesis_tests/` holds retailer, valuation, marketing, alt-data, review-tone and say-vs-do tests; `reports/` holds the execution vs structural report |

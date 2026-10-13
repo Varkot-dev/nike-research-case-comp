@@ -71,7 +71,7 @@ FY2026, ranked by Direct share (my arithmetic on FY26 10-K p. 83 and the segment
 | Footwear ($M) | 33,427 | 29,510 | 29,525 | -11.7% | 6,951 vs 7,410 (-6.2%) | FY24 10-K p. 34; FY25 10-K p. 33; FY26 10-K p. 32; Q1 FY27 10-Q p. 22 |
 | Apparel ($M) | 13,775 | 12,965 | 13,449 | -2.4% | 3,384 vs 3,313 (+2.1%) | same |
 | Equipment ($M) | 2,075 | 2,191 | 2,199 | +6.0% | 611 vs 630 (-3.0%) | same |
-| Jordan Brand ($M) | 6,988 | 7,270 | 7,034 | +0.7% | n/a | FY24 10-K p. 34; FY25 10-K p. 33; FY26 10-K p. 32 |
+| Jordan Brand ($M, reported basis) | 8,701 | 7,270 | 7,034 | -19.2% | n/a | FY26 10-K p. 32 (FY24 as recast; the FY24 10-K's $6,988M was on the old wholesale equivalent basis and is not comparable) |
 | NIKE Brand Digital ($B) | 12.1 | 9.6 | 8.6 | -29% | 1.8 vs 2.0 | FY24 10-K p. 35; FY25 10-K p. 34; FY26 10-K p. 33; Q1 FY27 10-Q p. 23 |
 | Nike-owned stores ($B) | n/a | 9.2 | 9.1 | n/a | 2.3 | FY26 10-K p. 33; Q1 FY27 10-Q p. 23 |
 
@@ -129,7 +129,7 @@ Revenue has fallen for 13 consecutive quarters, from Q1 FY2024 to Q1 FY2027 (qua
 - **Not verified, do not use:**
   - That New Balance or the Adidas Samba took Converse's customers. Only one opinion column makes the Samba point.
   - The February 2026 layoff headcount.
-  - The Investor Day dates. The Q1 FY27 call confirms only "Investor Day in November."
+  - Resolved: the Investor Day dates (Nov 16 to 17, 2026) are confirmed in Nike's Oct 1, 2026 corporate announcement (REPORT.md Section 6).
 
 **For the case (my inference):** Converse is about 2.5% of Nike's revenue (FY26 10-K p. 32, my arithmetic), so it does not explain Nike's overall decline. It is a portfolio decision: fix it (Chuck Taylor refresh, fewer stores, full-price discipline), shrink it into a licensing-style business, or sell it. Nike's own November Investor Day is the next point where management may say which.
 

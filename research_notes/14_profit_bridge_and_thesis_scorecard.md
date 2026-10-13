@@ -25,10 +25,10 @@ Out of each dollar of revenue:
 - Q1 FY2027: +60 bps; warehousing and logistics +90 bps; ASP -30 bps; other costs and royalties -40 bps (Q1 FY27 10-Q pp. 19, 23).
 - Tariff exposure: "we expect a gross incremental cost of approximately $1.5 billion on an annualized basis" (Q1 FY26 10-Q p. 19).
 
-### Temporary versus structural (working classification; tests in progress)
+### Temporary versus structural (working classification; see notes 15 and 16 for the completed discount tests)
 | Driver | Size | Classification | What decides it |
 |---|---|---|---|
-| Discounting / ASP | about -180 bps (FY25) | Temporary only if marketplace actions end; the Q1 FY27 10-Q (p. 20) says Sportswear and Jordan actions now "extend beyond fiscal 2027" | Discount deep dive (in progress) |
+| Discounting / ASP | about -180 bps (FY25) | Temporary only if marketplace actions end; the Q1 FY27 10-Q (p. 20) says Sportswear and Jordan actions now "extend beyond fiscal 2027" | Discount deep dive done: notes 15 and 16 |
 | Inventory obsolescence | part of -90 bps (FY25) | Temporary | Inventory vs sales growth |
 | Channel mix toward wholesale | lowers ASP, lowers fulfilment cost (+20 to +90 bps logistics) | Deliberate, persistent | Channel margin note 09 |
 | Tariffs | about $1.5B gross annualized | Policy-dependent | Trade policy |

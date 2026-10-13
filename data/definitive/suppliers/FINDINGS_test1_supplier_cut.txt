@@ -1,0 +1,9 @@
+TEST 1 (pre-registered): deliberate factory production cut? Findings 2026-10-13
+See final report message for summary. Key files in this folder:
+- taiwan_suppliers_monthly_revenue.csv: 9910 Feng Tay, 9904 Pou Chen, 1476 Eclat, 1477 Makalot, Dec 2013 to Sep 2026, NT$ thousand, YoY DERIVED. Source: FinMind reproduction of MOPS; 287 of 296 values checked against opened MOPS tables match (all 9910/9904 match; 9 Eclat mismatches under 0.2% are later restatements); all 105 Feng Tay months 2018 to 2026 match Feng Tay IR page.
+- fengtay_ir_monthly_2018_2026.csv: Feng Tay IR page (https://www.fengtay.com/tw/investor/month?year=YYYY).
+- yueyuen_monthly_revenue.csv: 154 HKEX monthly announcements Dec 2013 to Sep 2026; manufacturing YoY split only from Feb 2022.
+- yueyuen_pairs_asp_cumulative.csv: 51 HKEX results announcements 2013 to 1H2026, pairs and ASP (VERIFIED quotes).
+- yueyuen_quarterly_pairs_derived.csv: calendar-quarter pairs DERIVED by differencing.
+- customer_concentration.csv; nike_fiscal_quarter_alignment.csv; nike_fiscal_year_alignment_DERIVED.csv; leadlag_correlations.csv; fx_twd_per_usd_monthly_avg.csv (Yahoo TWD=X daily, monthly mean DERIVED).
+Note: Pre-2018 Yue Yuen volumes are described as "produced"; from 2019 as "shipped" (definition change).

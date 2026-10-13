@@ -60,7 +60,7 @@ Score: 1 held, 4 partly, 3 failed. A primary cause should pass P2, P3 and P6 mos
 
 1. **Shelf ceded to challengers (this hypothesis).** Real but modest. It gave On, Hoka and New Balance distribution at Foot Locker, run specialty, DSW and European independents while their running and comfort products were catching a consumer trend Nike's innovation pipeline missed.
 2. **Digital dependence and promotion.** This is the large one in the numbers: Digital rose to $12.1B, then fell $3.5B. Hill (Dec 2024): digital ran "roughly a 50/50 split of full-price to promotional sales" (SNIPPET, via search summary of the call).
-3. **Classics over-supply and brand fatigue.** Resale premium collapse, Sportswear and Jordan drag (other repo notes).
+3. **Classics over-supply.** Resale premium collapse (Air Jordan 1 High general releases 26% to 35% below retail, `data/jordan_resale_goat_20261013.csv`), Sportswear and Jordan drag (other repo notes).
 
 Separately, the challengers' rise has its own upstream driver (the running and comfort trend plus an innovation gap), shown by their DTC growth. China (local brands, deflationary price war) and Converse are independent of this channel story.
 

@@ -9,7 +9,7 @@ ROWS = {"Sales to Wholesale Customers": "wholesale", "Sales through NIKE Direct"
 MONTHS = {"MAY": 5, "AUGUST": 8, "NOVEMBER": 11, "FEBRUARY": 2}
 def num(c):
     c = c.strip().replace(",", "").replace(" ", "")
-    if c in ("—", "-", ""): return 0.0
+    if c in ("\u2014", "-", ""): return 0.0  # filings print an em-dash for zero
     neg = c.startswith("(")
     c = c.strip("()")
     return -float(c) if neg else float(c)
@@ -39,7 +39,7 @@ for fn in sorted(os.listdir(TEXT)):
             vals = [num(c) for c in parts[1:]]
             for col, val in zip(COLS, vals):
                 out.append({"period": per, "segment": col, "channel": ROWS[lab], "value_usd_m": f"{val:.0f}", "doc": doc,
-                            "printed_page": page - off, "url": man[doc]["url"], "row": line[:150]})
+                            "printed_page": page - off, "url": man[doc]["url"], "row": line[:150].replace("\u2014", "-")})
 # keep each (period, segment, channel) from the filing that first reported it (earliest filing date)
 best = {}
 for r in out:

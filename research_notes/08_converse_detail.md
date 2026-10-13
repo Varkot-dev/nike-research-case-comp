@@ -153,7 +153,7 @@ Shai Gilgeous-Alexander's move from Converse to Nike Basketball is confirmed in 
 - **"Nike Braces Converse Staff for Cuts as Sales Head to 15-Year Low"** (Bloomberg/bgov): snippet only. The 15-year-low phrase is verified only as Bloomberg's characterization relayed by FashionUnited and the Boston Globe, not as a computed figure.
 - **Retail Gazette, Modaes, Inside Retail and Shop-Eat-Surf articles on sale talk:** returned HTTP 403. Snippet only, not used.
 - **Nike's statement "We believe in the iconic Converse brand..."** appears in the Boston Globe article as "a recent statement". The original Nike statement was not located.
-- **Investor Day dates (Nov 16 to 17, 2026):** snippet only. The Q1 FY27 transcript (p. 7) confirms only "Investor Day in November".
+- **Investor Day dates (Nov 16 to 17, 2026):** confirmed in Nike's Oct 1, 2026 corporate announcement ("At our Investor Day on Nov. 16-17, we'll share more details"; REPORT.md Section 6).
 - **Converse CEO changes between Cain's appointment (July 2025) and today:** none found. Converse is also not named in any 8-K Item 5.02 I reviewed. The CEO of a Nike subsidiary is not a Nike executive officer, so a filing is not expected.
 - **When Converse returns to growth.** Nike gives no date. The only guidance is that actions "continue throughout fiscal 2027" (Q1 FY27 10-Q p. 20).
 - **Minor filing observation, not explained by Nike:**
