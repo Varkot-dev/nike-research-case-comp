@@ -421,4 +421,38 @@ note(fig, "Left: median of per-size last sales (US 7 to 13) on GOAT divided by r
           "index from chart 17. Search indices are scaled to each term's own peak and are not a measure of units.", y=-0.04)
 save("18_jordan_demand_tests.png")
 
+# ---------- 19. Jordan scenario valuation (illustrative) ----------
+jv = list(csv.DictReader(open(os.path.join(DATA, "valuation", "jordan_scenarios.csv"))))
+sc_rows = [r for r in jv if not r["scenario"].startswith("Reference")]
+ref = next(r for r in jv if r["scenario"].startswith("Reference: Jordan FY2026"))
+yrs = ["FY24", "FY25", "FY26", "FY27", "FY28", "FY29", "FY30", "FY31"]
+hist = [v("revenue_jordan_reported_basis", p) / 1000 for p in ("FY2024", "FY2025", "FY2026")]
+cols = [MUTED, BLUE, AQUA]
+fig, (a1, a2) = plt.subplots(1, 2, figsize=(10.6, 4.5), gridspec_kw={"width_ratios": [3, 2], "wspace": 0.3})
+a1.plot(yrs[:3], hist, color=INK, lw=2, marker="o", ms=5, label="Reported")
+for r, c in zip(sc_rows, cols):
+    ys = [hist[-1]] + [float(r[f"revenue_FY{y}_usd_m"]) / 1000 for y in range(2027, 2032)]
+    a1.plot(yrs[2:], ys, color=c, lw=2, marker="o", ms=4, ls="--", label=r["scenario"])
+    a1.text(7.15, ys[-1], f"{ys[-1]:.1f}", va="center", fontsize=8, color=INK2)
+a1.set_xlim(-0.3, 7.7); a1.set_ylim(0, 10); a1.set_ylabel("Jordan revenue ($ billions)")
+a1.legend(frameon=False, fontsize=7.5, loc="lower left")
+a1.set_title("Revenue paths (scenario assumptions)", loc="left", fontsize=10)
+names = [r["scenario"].split(":")[0] for r in sc_rows]
+vals = [float(r["value_per_nke_share_usd"]) for r in sc_rows]
+a2.bar(names, vals, color=cols, width=0.55)
+for i, (val, r) in enumerate(zip(vals, sc_rows)):
+    a2.text(i, val + 0.15, f"${val:.2f}\n({float(r['share_of_nke_price_pct']):.0f}% of price)", ha="center", fontsize=8, color=INK2)
+refv = float(ref["value_per_nke_share_usd"])
+a2.axhline(refv, color=INK2, lw=1, ls=":")
+a2.text(-0.35, refv - 0.4, f"Reference: FY26 revenue at\nNKE EV/Sales = ${refv:.2f}", ha="left", va="top", fontsize=7.5, color=INK2)
+a2.set_ylim(0, 8.5); a2.set_ylabel("Jordan value per NKE share ($)"); a2.grid(axis="x", visible=False)
+a2.set_title("DCF value per NKE share", loc="left", fontsize=10)
+fig.suptitle("ILLUSTRATIVE: Jordan is worth about $2 to $6 of NKE's $35 share price across scenarios",
+             fontweight="bold", fontsize=11, x=0.01, ha="left", y=1.02)
+note(fig, "Scenario growth rates, FY2031 EBIT margins (8%, 11%, 14%) and terminal growth (1%, 2.5%, 3%) are assumptions, not forecasts; all start from "
+          "FY2026 Jordan revenue of $7,034M (FY26 10-K p. 32) and a mid-teens FY2027 decline (Q1 FY27 call). DCF conventions follow the repo's reverse DCF: "
+          "10% WACC, 22.5% tax, sales to capital 2.5, 1,487M shares, NKE $35.35 (Oct 12, 2026). Built by scripts/jordan_valuation.py "
+          "(data/valuation/jordan_scenarios.csv).", y=-0.04)
+save("19_jordan_valuation.png")
+
 print("done", sorted(os.listdir(OUT)))
