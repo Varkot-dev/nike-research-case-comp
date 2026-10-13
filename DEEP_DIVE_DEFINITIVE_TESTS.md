@@ -11,7 +11,8 @@ Labels follow the house rules (`CLAUDE.md`): filing citations with printed pages
 ## Headline findings
 
 1. **[KEY FINDING] The supply-cut signature appears only where Nike is shrinking the business, not where the Jordan cut is aimed** (Test 5). Greater China (units -26%, ASP flat on lower discounts) and Converse (units -34%, ASP +6 points) show units cut at stable prices in Q1 FY2027. North America, the focus of the Jordan retro cut, sold 2% more footwear pairs at lower ASP, and EMEA cites higher discounts (Q1 FY27 10-Q pp. 26 to 28). All 694 unit and price statements Nike filed since FY2017 are in `data/definitive/nike_units_asp_tidy.csv`.
-2. **The FY2018 "supply reset" began with discounting** (Test 5). North America footwear units were flat while discounts cut 3 points off revenue in Q1 FY2018 (Q1 FY18 10-Q p. 26); units fell only in the next two quarters. The FY2018 analog for Jordan is a discount-then-cut sequence.
+2. **[KEY FINDING] Nike's main shoe factory cut in 2023, four quarters before Nike's footwear revenue fell, and barely cut when it did** (Test 1, chart 20). Feng Tay revenue fell 10% to 23% a year in Q3 FY23 to Q2 FY24 while Nike footwear grew; in FY2025 Nike footwear fell 11.7% but Feng Tay only 4.7%. The factory data fit the 2023 inventory clear-out, not a supply cut behind the FY2025 decline. Feng Tay also leads Nike footwear growth by about one quarter (correlation 0.68 excluding COVID years), and its Q1 FY27 -8.8% points to continued weakness in Q2.
+3. **The FY2018 "supply reset" began with discounting** (Test 5). North America footwear units were flat while discounts cut 3 points off revenue in Q1 FY2018 (Q1 FY18 10-Q p. 26); units fell only in the next two quarters. The FY2018 analog for Jordan is a discount-then-cut sequence.
 
 ## Test 1. Factory orders: Nike's footwear suppliers' monthly revenue and pairs
 
@@ -19,7 +20,26 @@ Labels follow the house rules (`CLAUDE.md`): filing citations with printed pages
 - **Treated vs control:** Nike-dependent suppliers vs suppliers serving other brands; FY2018 reset vs today.
 - **Would disprove "deliberate supply cut":** supplier pair volumes flat or rising while Nike's revenue falls (stock building somewhere), or no cut in volumes before Nike's revenue fell.
 
-*(Pending.)*
+**Result (Oct 13, 2026).** Data in `data/definitive/suppliers/` (method notes in `FINDINGS_test1_supplier_cut.txt`); chart 20.
+- **Series:** monthly revenue Dec 2013 to Sep 2026 for Feng Tay (9910.TW), Pou Chen (9904.TW), Eclat and Makalot from Taiwan's MOPS via the FinMind mirror (287 of 296 values checked against MOPS match; every Feng Tay month 2018 to 2026 matches Feng Tay's IR page). Yue Yuen (0551.HK) monthly revenue from 154 HKEX announcements, and pairs shipped and ASP per pair from 51 results announcements. All summed into Nike fiscal quarters and converted to USD at monthly averages (my arithmetic).
+- **Customer:** Feng Tay's single largest footwear customer was 83% to 86% of revenue in 2017, 2018 and 2022 to 2025 (annual reports, major-customer note; my arithmetic). Feng Tay does not name it; it describes itself as Nike's longest-serving footwear manufacturing partner, so "Nike" is my inference. Yue Yuen is multi-brand (largest customer 18% to 26% of sales), so it is a weaker Nike signal.
+
+| Nike fiscal quarter | Feng Tay revenue, USD, YoY | Nike Brand footwear revenue, YoY |
+|---|---|---|
+| Q3 FY23 (Dec 2022 to Feb 2023) | -13.7% | +19.7% |
+| Q4 FY23 | -23.2% | +7.0% |
+| Q1 FY24 | -12.4% | +3.8% |
+| Q2 FY24 | -10.2% | +1.2% |
+| FY2025 (full year) | -4.7% | -11.7% |
+| FY2026 (full year) | +0.3% | +0.1% |
+| Q1 FY27 | -8.8% | -6.2% |
+
+- **[KEY FINDING] The big factory cut came four quarters before Nike's footwear revenue fell, and it matches the 2022 to 2023 inventory clear-out, not the Jordan and classics decline.** Feng Tay revenue fell 10% to 23% a year in Q3 FY23 to Q2 FY24 while Nike footwear was still growing; Yue Yuen pairs fell 19.9% in calendar 2023; Nike's inventory was up 44% a year earlier at Aug 2022 and down 14% at Nov 2023 (repo facts). Feng Tay's largest customer took NT$73.0 billion in 2023 against NT$81.6 billion in 2022 (-10.5%; Feng Tay 2023 financial report, major-customer note) while Nike footwear rose 0.9% in FY2024.
+- **[KEY FINDING] When Nike's footwear revenue fell in FY2025, the factory barely cut.** Nike footwear fell 11.7% and Nike footwear units fell 8% ("Unit sales of footwear decreased 8%", FY25 10-K p. 34), but Feng Tay fell only 4.7% in USD (2.8% in NT$), and Yue Yuen pairs rose 16.9% in calendar 2024. There is no factory-level cut matching the timing or size of the FY2025 decline.
+- **FY2018 comparison:** Feng Tay dipped -2% to -5% in USD in Q2 to Q4 FY17, one to two quarters before Nike's Q1 FY18 trough, and Nike footwear never fell (FY2018 +5.6%). The 2023 cut was two to four times deeper.
+- **Lead:** excluding the COVID base years FY2020 to FY2022, Feng Tay revenue growth correlates 0.68 with Nike footwear growth one quarter later (n = 24) and 0.43 in the same quarter (my arithmetic; `leadlag_correlations.csv`). Feng Tay is a usable one-quarter lead indicator; its Q1 FY27 -8.8% points to continued footwear weakness in Q2 FY27.
+
+**Verdict (my inference):** the factory data reject a total-volume supply cut as the cause of the FY2025 decline: the deep cut happened earlier, as inventory correction, and during FY2025 factory revenue fell far less than Nike's footwear sales. This does not rule out a cut confined to Jordan and classic styles, because supplier totals cannot be split by franchise; style-level import records would decide that. Caveats: supplier revenue is not pairs (it mixes price, currency and about 15% non-Nike business), Yue Yuen counted pairs "produced" before 2018 and "shipped" after, and Yue Yuen quarters are offset one month from Nike's.
 
 ## Test 2. Time to markdown for each new release
 
@@ -81,3 +101,4 @@ What this test cannot separate: units falling with flat or rising ASP is consist
 |---|---|
 | 2026-10-13 | Document created; five tests launched. |
 | 2026-10-13 | Test 5 (units vs price) reported: 694 filing statements, two key findings. |
+| 2026-10-13 | Test 1 (factory orders) reported: Feng Tay, Pou Chen, Yue Yuen series 2013 to 2026; chart 20. |

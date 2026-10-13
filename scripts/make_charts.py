@@ -455,4 +455,36 @@ note(fig, "Scenario growth rates, FY2031 EBIT margins (8%, 11%, 14%) and termina
           "(data/valuation/jordan_scenarios.csv).", y=-0.04)
 save("19_jordan_valuation.png")
 
+# ---------- 20. Factory orders vs Nike footwear revenue (Test 1) ----------
+fa = [r for r in csv.DictReader(open(os.path.join(DATA, "definitive", "suppliers", "nike_fiscal_quarter_alignment.csv")))
+      if r["nike_footwear_yoy_pct_DERIVED"] and r["fengtay_yoy_usd_pct_DERIVED"]]
+xl = [f"Q{r['nike_fq'][1]}\nFY{r['nike_fq'][-2:]}" if r["nike_fq"][1] == "1" else "" for r in fa]
+ft = [float(r["fengtay_yoy_usd_pct_DERIVED"]) for r in fa]
+nf = [float(r["nike_footwear_yoy_pct_DERIVED"]) for r in fa]
+fig, ax = plt.subplots(figsize=(10.4, 4.6))
+xs = list(range(len(fa)))
+ax.plot(xs, ft, color=BLUE, lw=2, marker="o", ms=3.5, label="Feng Tay revenue in USD (factory, about 85% one customer)")
+ax.plot(xs, nf, color=ORANGE, lw=2, marker="o", ms=3.5, label="Nike Brand footwear revenue")
+ax.axhline(0, color=INK2, lw=0.8)
+lo, hi = -40, 60
+for x, a, b in zip(xs, ft, nf):
+    for val, c in ((a, BLUE), (b, ORANGE)):
+        if val > hi:
+            ax.text(x, hi - 3, f"{val:.0f}%", ha="center", fontsize=7, color=INK2)
+ax.set_ylim(lo, hi); ax.set_xticks(xs); ax.set_xticklabels(xl, fontsize=8)
+i0 = [r["nike_fq"] for r in fa].index("Q3FY2023"); i1 = [r["nike_fq"] for r in fa].index("Q2FY2024")
+ax.axvspan(i0 - 0.4, i1 + 0.4, color=GRID, alpha=0.6, lw=0)
+ax.text((i0 + i1) / 2, 48, "Factory cut while\nNike footwear grew", ha="center", fontsize=8, color=INK2)
+j0 = [r["nike_fq"] for r in fa].index("Q1FY2025")
+ax.annotate("FY25: Nike footwear -11.7%,\nFeng Tay only -4.7%", xy=(j0 + 1, -12), xytext=(j0 - 6, -33), fontsize=8, color=INK2,
+            arrowprops=dict(arrowstyle="-", color=MUTED))
+ax.set_ylabel("Change vs same quarter a year earlier (%)")
+ax.legend(frameon=False, fontsize=8, loc="upper center", bbox_to_anchor=(0.5, -0.13), ncol=2)
+ax.set_title("Nike's main shoe factory's revenue fell in 2023, four quarters before Nike's footwear revenue did", loc="left")
+note(fig, "Feng Tay (9910.TW) monthly revenue from MOPS via the FinMind mirror (287 of 296 checked values match MOPS; all Feng Tay months 2018 to 2026 match "
+          "Feng Tay's IR page), summed into Nike fiscal quarters and converted at monthly TWD/USD averages (my arithmetic). Feng Tay's largest customer, "
+          "83% to 86% of revenue, is unnamed; that it is Nike is my inference from Feng Tay's own site. Nike footwear: earnings releases and 10-Qs "
+          "(data/definitive/suppliers/nike_fiscal_quarter_alignment.csv). Values above 60% are printed at the top edge.", y=-0.1)
+save("20_factory_vs_nike_footwear.png")
+
 print("done", sorted(os.listdir(OUT)))
