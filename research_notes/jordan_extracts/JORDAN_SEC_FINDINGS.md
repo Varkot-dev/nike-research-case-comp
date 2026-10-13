@@ -273,7 +273,7 @@ Issues to fix:
 
 ## 10. Method and limits
 
-- **Download.** `jordan_sec/bin/dl.py`, an adaptation of `scripts/sec_pipeline/dl.py` with a wider date range, fetched the data.sec.gov submissions index and every matching filing with User-Agent "Nike case research varkot06@sas.upenn.edu". The manifest with every URL is at `jordan_sec/dl/manifest.json`.
+- **Download.** `jordan_sec/bin/dl.py`, an adaptation of `scripts/sec_pipeline/dl.py` with a wider date range, fetched the data.sec.gov submissions index and every matching filing with a User-Agent that carried a personal contact address (since stopped; see CLAUDE.md on the other branches: filings now come from the investors.nike.com mirror). The manifest with every URL is at `jordan_sec/dl/manifest.json`.
 - **Text conversion.** `topages.py` converted the HTML to paged text. Printed pages were taken from the footers. Where the footer parser failed (FY2019 10-K seq. p. 30 and DEF 14A seq. p. 8), I checked the footer by hand: 28 and 7.
 - **What was read.** Every Jordan mention in every document was extracted with its page (Appendix) and read. The revenue tables, their footnotes and the non-GAAP definition pages were read in full for each 10-K and each Q4 release. I did not read every page of all 219 documents end to end. Statements that something is "not in any filing" rest on full-text searches across all 219.
 - **XBRL.** Not used. Nike does not tag Jordan revenue as a separate XBRL fact; it appears only in an MD&A table and footnote.

@@ -1,0 +1,10 @@
+item,source,date_observed,method,label
+Google Trends monthly 2019-01 to 2026-10 (US and worldwide),trends.google.co.uk/trends/api/explore + widgetdata/multiline (trends.google.com returned HTTP 429),2026-10-13,"scripts/gt_raw.py: time '2019-01-01 2026-10-12', category 0, web search; two 5-term comparison batches anchored on 'Air Jordan' plus 11 single-term pulls each indexed 0-100 to its own peak; Oct 2026 partial month excluded from derived stats",VERIFIED (raw API output saved as JSON)
+Google Trends anomaly,same,2026-10-13,"Apr-Jun 2026 every term (Nike, Air Jordan, Samba, Hoka, New Balance, On) jumps to its series peak at once; treated as a data artifact and excluded from FY ratios",DERIVED
+Nike supply-cut timing,fool.com transcripts Q2 FY24 (2023-12-21) Q3 FY24 (2024-03-21) Q1 FY25 (2024-10-01),2026-10-13,curl + text extract,VERIFIED
+SNKRS weekly US downloads,sensortower.com blog Q1 2023 and Q2 2023,2026-10-13,curl + text extract,VERIFIED
+Social Blade jumpman23,socialblade.com,2026-10-13,HTTP 403,blocked
+Reddit live,reddit.com,2026-10-13,HTTP 403,blocked; Wayback used
+Lyst live pages,lyst.com,2026-10-13,HTTP 403,blocked; Wayback and press used
+YouTube views,not attempted,2026-10-13,time,UNVERIFIED gap
+StockX/GOAT trending lists via Wayback,not attempted (prior branch stoic-shannon covers StockX Big Facts),2026-10-13,,gap
