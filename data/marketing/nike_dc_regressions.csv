@@ -1,0 +1,10 @@
+specification,sample,n,correlation_r,r_squared,slope,t_stat
+next-year revenue growth on change in DC share (pp),FY1995-FY2025,31,-0.097,0.009,-0.0133,-0.52
+two-year-ahead cumulative growth on change in DC share (pp),FY1995-FY2024,30,-0.043,0.002,-0.0118,-0.23
+next-year revenue growth on DC dollar growth,FY1995-FY2025,31,0.333,0.111,0.2655,1.9
+same-year revenue growth on change in DC share (pp),FY1995-FY2026,32,-0.146,0.021,-0.0209,-0.81
+next-year revenue growth on current-year revenue growth (momentum only),FY1994-FY2025,32,0.393,0.155,0.3891,2.34
+"next-year growth on DC share change, excl FY1995-97 boom and FY2020-21 COVID",subset,26,-0.233,0.054,-0.0248,-1.17
+"next-year growth on DC share change, FY2001 onward",FY2001-FY2025,25,-0.05,0.003,-0.0042,-0.24
+"multiple: next-yr growth on DC share change, controlling for current growth (coef on DC share)",FY1995-FY2025,31,,,-0.0038,-0.17
+"multiple: next-yr growth on DC dollar growth, controlling for current growth (coef on DC growth)",FY1995-FY2025,31,,,-0.0295,-0.15

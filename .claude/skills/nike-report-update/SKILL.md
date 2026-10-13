@@ -26,4 +26,5 @@ Download the new 10-Q and earnings exhibit, extract and verify (sec-filing-resea
 - Re-run both scripts and look at the changed charts (open the PNGs).
 - Spot-check five or more citations you touched against the facts CSV.
 - Commit in purposeful slices (data, generated notes, charts, prose), each with a message that says what changed and why.
-- This repo's work branches are `claude/eloquent-feynman-cnpk76` and `claude/wonderful-franklin-u31n4e`; the user asked for both to carry the same history. Push only to branches the user has approved.
+- **Publish every finding as a pull request.** Commit on the session branch, push it, open a PR into the default branch `claude/wonderful-franklin-u31n4e`, and merge it when it is safe. Safe means: no merge conflict, only research content changed (notes, data, charts, scripts), no secrets or personal contact details, the em-dash check passes, and any regenerated files were rebuilt by their scripts. If any check fails, leave the PR open and tell the user why.
+- Do not push straight to `claude/wonderful-franklin-u31n4e`; it changes only through merged PRs. Other `claude/*` branches belong to other sessions; do not merge or rewrite them without the user's say-so.
