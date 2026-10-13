@@ -1,0 +1,73 @@
+snapshot_date,page,brand,colorways,colorway_share_pct,models,colorways_in_first100,colorways_on_sale,share_on_sale_pct,avg_discount_on_sale_pct,median_price
+2026-10-13,mens_road,Saucony,145,14.1,15,0,46,31.7,27.6,149.95
+2026-10-13,mens_road,ASICS,121,11.8,25,25,23,19.0,16.8,169.95
+2026-10-13,mens_road,Nike,98,9.6,15,9,48,49.0,29.5,154.95
+2026-10-13,mens_road,adidas,86,8.4,17,2,19,22.1,27.6,149.95
+2026-10-13,mens_road,New Balance,86,8.4,11,0,18,20.9,27.4,144.95
+2026-10-13,mens_road,Brooks,85,8.3,17,23,28,32.9,23.2,149.96
+2026-10-13,mens_road,Hoka,84,8.2,14,14,8,9.5,22.8,174.95
+2026-10-13,mens_road,PUMA,62,6.0,12,0,12,19.4,33.5,169.95
+2026-10-13,mens_road,Altra Run Natural,60,5.9,14,10,11,18.3,31.1,144.95
+2026-10-13,mens_road,Mizuno,52,5.1,18,9,11,21.2,30.1,159.95
+2026-10-13,mens_road,On Running,32,3.1,13,1,4,12.5,21.5,179.95
+2026-10-13,mens_road,Topo Athletic,20,2.0,9,1,2,10.0,29.4,149.95
+2026-10-13,mens_road,Salomon,19,1.9,9,1,2,10.5,28.4,159.95
+2026-10-13,mens_road,Skechers Performance,19,1.9,5,0,7,36.8,42.5,134.95
+2026-10-13,mens_road,Diadora,18,1.8,6,1,0,0.0,,194.95
+2026-10-13,mens_road,Mount to Coast,14,1.4,4,0,0,0.0,,159.95
+2026-10-13,mens_road,KIPRUN,9,0.9,5,2,0,0.0,,159.95
+2026-10-13,mens_road,Tracksmith,6,0.6,2,0,0,0.0,,220.0
+2026-10-13,mens_road,Speedland,6,0.6,6,0,0,0.0,,299.0
+2026-10-13,mens_road,rabbit,3,0.3,2,2,0,0.0,,160.0
+2026-10-13,womens_road,Saucony,138,14.9,17,2,41,29.7,30.3,149.95
+2026-10-13,womens_road,ASICS,118,12.7,25,22,24,20.3,17.4,169.95
+2026-10-13,womens_road,Nike,91,9.8,14,8,46,50.5,30.0,144.95
+2026-10-13,womens_road,New Balance,83,8.9,11,1,16,19.3,27.3,144.95
+2026-10-13,womens_road,Brooks,81,8.7,16,25,23,28.4,24.4,149.95
+2026-10-13,womens_road,Hoka,78,8.4,13,18,5,6.4,24.4,174.95
+2026-10-13,womens_road,Altra Run Natural,61,6.6,15,10,19,31.1,35.2,144.95
+2026-10-13,womens_road,adidas,57,6.1,15,0,13,22.8,27.0,149.95
+2026-10-13,womens_road,Mizuno,50,5.4,17,7,12,24.0,30.7,159.95
+2026-10-13,womens_road,PUMA,43,4.6,11,0,6,14.0,32.4,179.95
+2026-10-13,womens_road,Topo Athletic,26,2.8,11,1,4,15.4,29.3,149.95
+2026-10-13,womens_road,On Running,21,2.3,11,1,2,9.5,21.5,159.95
+2026-10-13,womens_road,Diadora,18,1.9,6,1,0,0.0,,189.95
+2026-10-13,womens_road,Skechers Performance,18,1.9,5,0,6,33.3,44.4,134.95
+2026-10-13,womens_road,Salomon,12,1.3,8,0,2,16.7,28.4,164.915
+2026-10-13,womens_road,Mount to Coast,11,1.2,5,0,0,0.0,,159.95
+2026-10-13,womens_road,KIPRUN,7,0.8,4,2,0,0.0,,159.95
+2026-10-13,womens_road,Tracksmith,6,0.6,2,0,0,0.0,,220.0
+2026-10-13,womens_road,Speedland,6,0.6,6,0,0,0.0,,299.0
+2026-10-13,womens_road,rabbit,3,0.3,2,2,0,0.0,,160.0
+2026-10-13,mens_clearance,Nike,71,23.3,28,27,70,98.6,34.4,119.88
+2026-10-13,mens_clearance,Saucony,40,13.1,5,1,40,100.0,29.9,129.96
+2026-10-13,mens_clearance,New Balance,29,9.5,11,16,29,100.0,36.1,114.96
+2026-10-13,mens_clearance,Brooks,28,9.2,6,24,28,100.0,23.2,127.46000000000001
+2026-10-13,mens_clearance,Altra Run Natural,25,8.2,7,8,25,100.0,31.4,129.88
+2026-10-13,mens_clearance,adidas,20,6.6,9,9,20,100.0,28.5,127.96
+2026-10-13,mens_clearance,ASICS,18,5.9,4,7,18,100.0,18.1,127.46000000000001
+2026-10-13,mens_clearance,PUMA,17,5.6,8,0,17,100.0,40.0,114.88
+2026-10-13,mens_clearance,Hoka,15,4.9,7,2,15,100.0,28.9,119.96
+2026-10-13,mens_clearance,On Running,12,3.9,5,3,12,100.0,43.2,97.41999999999999
+2026-10-13,mens_clearance,Mizuno,11,3.6,4,3,11,100.0,30.1,124.88
+2026-10-13,mens_clearance,Skechers Performance,6,2.0,2,0,6,100.0,46.2,79.88
+2026-10-13,mens_clearance,The North Face,6,2.0,3,0,6,100.0,27.9,126.96
+2026-10-13,mens_clearance,Salomon,3,1.0,3,0,3,100.0,27.2,187.96
+2026-10-13,mens_clearance,Topo Athletic,2,0.7,2,0,2,100.0,29.4,102.38
+2026-10-13,mens_clearance,norda run,2,0.7,2,0,2,100.0,48.3,149.88
+2026-10-13,womens_clearance,Nike,72,23.5,27,15,70,97.2,34.8,117.38
+2026-10-13,womens_clearance,Saucony,38,12.4,7,17,38,100.0,32.3,129.96
+2026-10-13,womens_clearance,Altra Run Natural,32,10.5,7,8,32,100.0,34.7,114.88
+2026-10-13,womens_clearance,Brooks,31,10.1,7,19,31,100.0,25.6,124.96
+2026-10-13,womens_clearance,New Balance,27,8.8,11,11,27,100.0,36.7,114.96
+2026-10-13,womens_clearance,ASICS,23,7.5,6,3,23,100.0,19.3,119.96
+2026-10-13,womens_clearance,adidas,15,4.9,7,6,15,100.0,30.2,124.88
+2026-10-13,womens_clearance,Hoka,13,4.2,7,4,13,100.0,29.4,119.96
+2026-10-13,womens_clearance,Mizuno,12,3.9,4,6,12,100.0,30.7,124.88
+2026-10-13,womens_clearance,PUMA,12,3.9,8,5,12,100.0,44.5,97.38
+2026-10-13,womens_clearance,On Running,10,3.3,5,3,10,100.0,47.5,67.38
+2026-10-13,womens_clearance,The North Face,8,2.6,5,0,8,100.0,29.1,119.96
+2026-10-13,womens_clearance,Skechers Performance,4,1.3,2,1,4,100.0,46.2,79.88
+2026-10-13,womens_clearance,Topo Athletic,4,1.3,4,2,4,100.0,30.0,112.38
+2026-10-13,womens_clearance,Salomon,4,1.3,4,0,4,100.0,28.8,178.92000000000002
+2026-10-13,womens_clearance,norda run,1,0.3,1,0,1,100.0,47.4,149.88

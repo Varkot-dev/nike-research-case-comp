@@ -1,0 +1,145 @@
+page,snapshot_date,brand,colorways,colorway_share_pct,models,colorways_on_sale,share_on_sale_pct,avg_discount_on_sale_pct
+mens_clearance,2022-06-16,PARSE_FAIL,0,,,,,
+mens_clearance,2025-02-02,Nike,79,26.8,21,79,100.0,34.6
+mens_clearance,2025-02-02,Hoka,39,13.2,12,39,100.0,26.3
+mens_clearance,2025-02-02,On Running,11,3.7,5,11,100.0,26.1
+mens_clearance,2025-02-02,Brooks,33,11.2,8,33,100.0,18.7
+mens_clearance,2025-02-02,ASICS,13,4.4,5,13,100.0,34.7
+mens_clearance,2025-02-02,New Balance,26,8.8,9,26,100.0,31.4
+mens_clearance,2025-02-02,adidas,17,5.8,8,17,100.0,30.2
+mens_clearance,2025-02-02,Saucony,50,16.9,11,50,100.0,38.5
+mens_clearance,2025-02-02,Skechers Performance,0,0.0,0,0,,
+mens_clearance,2025-02-02,PUMA,2,0.7,1,2,100.0,28.2
+mens_clearance,2025-02-02,Mizuno,3,1.0,2,3,100.0,25.8
+mens_clearance,2025-02-02,Altra Run Natural,0,0.0,0,0,,
+mens_clearance,2025-02-02,ALL,295,100.0,99,294,99.7,31.2
+mens_clearance,2025-05-31,Nike,7,3.9,2,7,100.0,36.7
+mens_clearance,2025-05-31,Hoka,37,20.8,9,37,100.0,22.5
+mens_clearance,2025-05-31,On Running,1,0.6,1,1,100.0,37.6
+mens_clearance,2025-05-31,Brooks,12,6.7,3,12,100.0,21.9
+mens_clearance,2025-05-31,ASICS,17,9.6,6,17,100.0,23.5
+mens_clearance,2025-05-31,New Balance,21,11.8,7,17,81.0,25.6
+mens_clearance,2025-05-31,adidas,7,3.9,4,7,100.0,23.0
+mens_clearance,2025-05-31,Saucony,33,18.5,7,33,100.0,25.8
+mens_clearance,2025-05-31,Skechers Performance,4,2.2,2,4,100.0,26.1
+mens_clearance,2025-05-31,PUMA,4,2.2,3,4,100.0,36.9
+mens_clearance,2025-05-31,Mizuno,3,1.7,2,3,100.0,26.9
+mens_clearance,2025-05-31,Altra Run Natural,18,10.1,4,18,100.0,27.5
+mens_clearance,2025-05-31,ALL,178,100.0,58,171,96.1,25.6
+mens_clearance,2025-08-13,Nike,30,12.6,10,30,100.0,29.3
+mens_clearance,2025-08-13,Hoka,30,12.6,7,30,100.0,20.8
+mens_clearance,2025-08-13,On Running,4,1.7,2,4,100.0,28.4
+mens_clearance,2025-08-13,Brooks,25,10.5,9,25,100.0,23.9
+mens_clearance,2025-08-13,ASICS,13,5.5,5,13,100.0,22.0
+mens_clearance,2025-08-13,New Balance,23,9.7,9,23,100.0,26.7
+mens_clearance,2025-08-13,adidas,25,10.5,8,25,100.0,24.5
+mens_clearance,2025-08-13,Saucony,32,13.4,6,32,100.0,27.5
+mens_clearance,2025-08-13,Skechers Performance,0,0.0,0,0,,
+mens_clearance,2025-08-13,PUMA,7,2.9,2,7,100.0,30.8
+mens_clearance,2025-08-13,Mizuno,12,5.0,4,12,100.0,26.8
+mens_clearance,2025-08-13,Altra Run Natural,11,4.6,4,11,100.0,27.8
+mens_clearance,2025-08-13,ALL,238,100.0,79,238,100.0,26.1
+mens_clearance,2025-11-22,Nike,24,9.8,9,24,100.0,31.6
+mens_clearance,2025-11-22,Hoka,26,10.6,12,22,84.6,22.4
+mens_clearance,2025-11-22,On Running,3,1.2,1,3,100.0,37.6
+mens_clearance,2025-11-22,Brooks,27,11.0,10,27,100.0,26.5
+mens_clearance,2025-11-22,ASICS,23,9.3,5,23,100.0,25.0
+mens_clearance,2025-11-22,New Balance,46,18.7,15,46,100.0,32.5
+mens_clearance,2025-11-22,adidas,8,3.3,6,8,100.0,48.4
+mens_clearance,2025-11-22,Saucony,29,11.8,7,29,100.0,35.7
+mens_clearance,2025-11-22,Skechers Performance,0,0.0,0,0,,
+mens_clearance,2025-11-22,PUMA,13,5.3,4,13,100.0,27.6
+mens_clearance,2025-11-22,Mizuno,16,6.5,5,16,100.0,29.8
+mens_clearance,2025-11-22,Altra Run Natural,9,3.7,2,9,100.0,33.0
+mens_clearance,2025-11-22,ALL,246,100.0,87,241,98.0,30.3
+mens_clearance,2026-09-21,Nike,39,14.8,21,39,100.0,44.5
+mens_clearance,2026-09-21,Hoka,21,8.0,11,21,100.0,23.0
+mens_clearance,2026-09-21,On Running,13,4.9,5,13,100.0,37.8
+mens_clearance,2026-09-21,Brooks,8,3.0,5,8,100.0,30.6
+mens_clearance,2026-09-21,ASICS,25,9.5,5,25,100.0,18.5
+mens_clearance,2026-09-21,New Balance,15,5.7,9,15,100.0,44.7
+mens_clearance,2026-09-21,adidas,23,8.7,10,23,100.0,26.6
+mens_clearance,2026-09-21,Saucony,42,15.9,6,42,100.0,30.0
+mens_clearance,2026-09-21,Skechers Performance,3,1.1,2,3,100.0,44.4
+mens_clearance,2026-09-21,PUMA,26,9.8,17,26,100.0,39.9
+mens_clearance,2026-09-21,Mizuno,7,2.7,3,7,100.0,29.2
+mens_clearance,2026-09-21,Altra Run Natural,31,11.7,9,31,100.0,32.0
+mens_clearance,2026-09-21,ALL,264,100.0,110,264,100.0,32.8
+mens_clearance,2026-10-13,Nike,71,23.3,28,70,98.6,34.4
+mens_clearance,2026-10-13,Hoka,15,4.9,7,15,100.0,28.9
+mens_clearance,2026-10-13,On Running,12,3.9,5,12,100.0,43.2
+mens_clearance,2026-10-13,Brooks,28,9.2,6,28,100.0,23.2
+mens_clearance,2026-10-13,ASICS,18,5.9,4,18,100.0,18.1
+mens_clearance,2026-10-13,New Balance,29,9.5,11,29,100.0,36.1
+mens_clearance,2026-10-13,adidas,20,6.6,9,20,100.0,28.5
+mens_clearance,2026-10-13,Saucony,40,13.1,5,40,100.0,29.9
+mens_clearance,2026-10-13,Skechers Performance,6,2.0,2,6,100.0,46.2
+mens_clearance,2026-10-13,PUMA,17,5.6,8,17,100.0,40.0
+mens_clearance,2026-10-13,Mizuno,11,3.6,4,11,100.0,30.1
+mens_clearance,2026-10-13,Altra Run Natural,25,8.2,7,25,100.0,31.4
+mens_clearance,2026-10-13,ALL,305,100.0,106,304,99.7,31.7
+mens_road,2025-02-05,Nike,109,10.4,12,67,61.5,27.3
+mens_road,2025-02-05,Hoka,174,16.6,17,45,25.9,26.8
+mens_road,2025-02-05,On Running,60,5.7,12,10,16.7,26.0
+mens_road,2025-02-05,Brooks,117,11.1,22,51,43.6,19.0
+mens_road,2025-02-05,ASICS,121,11.5,16,18,14.9,28.0
+mens_road,2025-02-05,New Balance,88,8.4,13,25,28.4,24.2
+mens_road,2025-02-05,adidas,38,3.6,14,13,34.2,22.9
+mens_road,2025-02-05,Saucony,132,12.6,18,18,13.6,26.1
+mens_road,2025-02-05,Skechers Performance,11,1.0,3,0,0.0,
+mens_road,2025-02-05,PUMA,22,2.1,8,2,9.1,28.2
+mens_road,2025-02-05,Mizuno,34,3.2,10,5,14.7,23.5
+mens_road,2025-02-05,Altra Run Natural,78,7.4,12,6,7.7,26.7
+mens_road,2025-02-05,ALL,1050,100.0,179,273,26.0,25.1
+mens_road,2025-09-11,Nike,71,8.6,12,18,25.4,32.9
+mens_road,2025-09-11,Hoka,95,11.5,15,20,21.1,20.7
+mens_road,2025-09-11,On Running,34,4.1,11,3,8.8,31.7
+mens_road,2025-09-11,Brooks,77,9.3,16,9,11.7,24.2
+mens_road,2025-09-11,ASICS,91,11.0,21,8,8.8,19.3
+mens_road,2025-09-11,New Balance,83,10.0,15,19,22.9,24.9
+mens_road,2025-09-11,adidas,44,5.3,14,10,22.7,25.6
+mens_road,2025-09-11,Saucony,118,14.3,17,34,28.8,25.6
+mens_road,2025-09-11,Skechers Performance,9,1.1,5,1,11.1,46.2
+mens_road,2025-09-11,PUMA,32,3.9,10,7,21.9,30.9
+mens_road,2025-09-11,Mizuno,43,5.2,13,12,27.9,27.7
+mens_road,2025-09-11,Altra Run Natural,73,8.8,13,7,9.6,29.3
+mens_road,2025-09-11,ALL,827,100.0,190,152,18.4,26.4
+mens_road,2025-10-16,Nike,87,10.6,13,29,33.3,28.4
+mens_road,2025-10-16,Hoka,86,10.5,14,11,12.8,22.1
+mens_road,2025-10-16,On Running,37,4.5,11,4,10.8,25.9
+mens_road,2025-10-16,Brooks,82,10.0,17,19,23.2,19.0
+mens_road,2025-10-16,ASICS,87,10.6,20,5,5.7,16.5
+mens_road,2025-10-16,New Balance,75,9.2,12,25,33.3,22.9
+mens_road,2025-10-16,adidas,44,5.4,14,11,25.0,25.8
+mens_road,2025-10-16,Saucony,115,14.0,16,28,24.3,29.0
+mens_road,2025-10-16,Skechers Performance,8,1.0,4,0,0.0,
+mens_road,2025-10-16,PUMA,29,3.5,9,4,13.8,33.4
+mens_road,2025-10-16,Mizuno,41,5.0,13,8,19.5,33.3
+mens_road,2025-10-16,Altra Run Natural,71,8.7,14,14,19.7,30.0
+mens_road,2025-10-16,ALL,819,100.0,184,164,20.0,26.1
+mens_road,2026-04-26,Nike,84,9.6,13,30,35.7,28.6
+mens_road,2026-04-26,Hoka,82,9.4,16,13,15.9,22.3
+mens_road,2026-04-26,On Running,34,3.9,12,9,26.5,28.3
+mens_road,2026-04-26,Brooks,90,10.3,19,29,32.2,25.0
+mens_road,2026-04-26,ASICS,104,11.9,22,12,11.5,17.4
+mens_road,2026-04-26,New Balance,75,8.6,12,12,16.0,29.9
+mens_road,2026-04-26,adidas,66,7.6,18,7,10.6,21.7
+mens_road,2026-04-26,Saucony,109,12.5,17,16,14.7,39.3
+mens_road,2026-04-26,Skechers Performance,13,1.5,4,1,7.7,39.5
+mens_road,2026-04-26,PUMA,46,5.3,11,7,15.2,31.4
+mens_road,2026-04-26,Mizuno,40,4.6,13,5,12.5,24.5
+mens_road,2026-04-26,Altra Run Natural,55,6.3,11,6,10.9,32.2
+mens_road,2026-04-26,ALL,873,100.0,206,152,17.4,27.6
+mens_road,2026-10-13,Nike,98,9.6,15,48,49.0,29.5
+mens_road,2026-10-13,Hoka,84,8.2,14,8,9.5,22.8
+mens_road,2026-10-13,On Running,32,3.1,13,4,12.5,21.5
+mens_road,2026-10-13,Brooks,85,8.3,17,28,32.9,23.2
+mens_road,2026-10-13,ASICS,121,11.8,25,23,19.0,16.8
+mens_road,2026-10-13,New Balance,86,8.4,11,18,20.9,27.4
+mens_road,2026-10-13,adidas,86,8.4,17,19,22.1,27.6
+mens_road,2026-10-13,Saucony,145,14.1,15,46,31.7,27.6
+mens_road,2026-10-13,Skechers Performance,19,1.9,5,7,36.8,42.5
+mens_road,2026-10-13,PUMA,62,6.0,12,12,19.4,33.5
+mens_road,2026-10-13,Mizuno,52,5.1,18,11,21.2,30.1
+mens_road,2026-10-13,Altra Run Natural,60,5.9,14,11,18.3,31.1
+mens_road,2026-10-13,ALL,1025,100.0,219,239,23.3,27.2
