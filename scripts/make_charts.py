@@ -290,4 +290,169 @@ note(fig, "Cash provided by operations, additions to property, plant and equipme
           "cash flows in each year's Form 10-K. 'Operating cash flow minus capex' is my arithmetic, not a Nike-reported measure.")
 save("14_cash_returns.png")
 
+# ---------- 15. EBIT margin by region ----------
+regs = [("north_america", "North America", BLUE), ("greater_china", "Greater China", RED), ("apla", "APLA", AQUA),
+        ("emea", "EMEA", VIOLET), ("converse", "Converse", MUTED)]
+fig, ax = plt.subplots(figsize=(8.8, 4.6))
+for key, lab, col in regs:
+    m = [100 * v(f"ebit_{key}", p) / v(f"revenue_{key}", p) for p in FY]
+    ax.plot(FYL, m, color=col, lw=2, marker="o", ms=4)
+    nudge = {"apla": 0.9, "greater_china": -0.9}.get(key, 0)
+    ax.text(len(FYL) - 1 + 0.12, m[-1] + nudge, f"{lab} {m[-1]:.1f}%", va="center", fontsize=8, color=INK2)
+ax.set_xlim(-0.3, len(FYL) + 1.3); ax.set_ylim(0, 42); ax.set_ylabel("EBIT / segment revenue (%)")
+ax.set_title("Greater China fell from Nike's most profitable region (39% in FY21) to 22%; North America now leads")
+note(fig, "Segment EBIT divided by segment revenue (my arithmetic) from the segment note in each year's Form 10-K; page-level citations in "
+          "data/nike_filing_facts.csv. Segment EBIT excludes Global Brand Divisions and Corporate costs. FY26 North America and Converse include "
+          "$965M and $21M of expected IEEPA tariff recovery (FY26 10-K p. 30), which Nike says largely offsets tariffs recognized in FY26.")
+save("15_region_ebit_margin.png")
+# ---------- 16. FY26 revenue mix: channel, product, region ----------
+T = v("revenues", "FY2026")
+oth = v("revenue_global_brand_divisions", "FY2026") + v("revenue_corporate", "FY2026")
+panels = [
+    ("By channel", [("Wholesale (incl. Converse)", v("revenue_total_wholesale_incl_converse", "FY2026")),
+                    ("Nike-owned stores", v("revenue_nike_stores", "FY2026") * 1000),
+                    ("NIKE Brand Digital", v("revenue_nike_brand_digital", "FY2026") * 1000),
+                    ("Converse direct to consumer", v("revenue_converse_dtc", "FY2026")),
+                    ("Licensing and other", oth + v("revenue_converse_licensing_other", "FY2026"))]),
+    ("By product", [("Footwear", v("revenue_footwear", "FY2026")), ("Apparel", v("revenue_apparel", "FY2026")),
+                    ("Equipment", v("revenue_equipment", "FY2026")), ("Converse", v("revenue_converse", "FY2026")),
+                    ("Other", oth)]),
+    ("By region", [("North America", v("revenue_north_america", "FY2026")), ("EMEA", v("revenue_emea", "FY2026")),
+                   ("APLA", v("revenue_apla", "FY2026")), ("Greater China", v("revenue_greater_china", "FY2026")),
+                   ("Converse", v("revenue_converse", "FY2026")), ("Other", oth)]),
+]
+fig, axes = plt.subplots(3, 1, figsize=(8.4, 7.4), gridspec_kw={"hspace": 0.55})
+for ax, (ttl, rows) in zip(axes, panels):
+    labs = [r[0] for r in rows][::-1]; sh = [r[1] / T * 100 for r in rows][::-1]
+    ax.barh(labs, sh, color=BLUE, height=0.6)
+    for y, (val, pct) in enumerate(zip([r[1] for r in rows][::-1], sh)):
+        ax.text(pct + 0.8, y, f"{pct:.1f}%  (${val / 1000:.1f}B)", va="center", fontsize=8, color=INK2)
+    ax.set_xlim(0, 80); ax.grid(axis="y", visible=False); ax.set_title(ttl, loc="left", fontsize=10)
+axes[-1].set_xlabel("Share of FY26 NIKE, Inc. revenue ($46.4B), %")
+axes[1].text(79, 1.2, f"Jordan Brand ${v('revenue_jordan', 'FY2026') / 1000:.1f}B "
+             f"({v('revenue_jordan', 'FY2026') / T * 100:.0f}%) sits inside\nNIKE Brand footwear and apparel",
+             ha="right", va="center", fontsize=8, color=INK2)
+fig.suptitle("FY26: wholesale is 60% of revenue, footwear 64%; licensing and other is 0.3%",
+             fontweight="bold", fontsize=11, x=0.01, ha="left", y=0.97)
+note(fig, "FY26 Form 10-K: revenues p. 55; product, segment and Jordan p. 32; stores and digital ($9.1B and $8.6B, rounded) p. 33; channel totals "
+          "incl. Converse p. 83; Converse DTC and licensing p. 41. 'Other' is Global Brand Divisions ($49M) plus Corporate ($2M). Shares are my arithmetic.")
+save("16_revenue_mix_fy26.png")
+
+# ---------- 17. Jordan Brand: like-for-like series and the two resets ----------
+# Each year-on-year ratio uses two values from the same filing, so the chain crosses the FY2022
+# category change and the FY2025 removal of wholesale equivalent reporting without mixing bases.
+jr = {"FY2018": v("revenue_jordan", "FY2018") / v("revenue_jordan", "FY2017"),
+      "FY2019": v("revenue_jordan", "FY2019") / v("revenue_jordan", "FY2018"),
+      "FY2020": v("revenue_jordan_brand_wholesale_equivalent", "FY2020") / v("revenue_jordan", "FY2019"),
+      "FY2021": v("revenue_jordan_wholesale_equiv_recast", "FY2021") / v("revenue_jordan_wholesale_equiv_recast", "FY2020"),
+      "FY2022": v("revenue_jordan", "FY2022") / v("revenue_jordan_wholesale_equiv_recast", "FY2021"),
+      "FY2023": v("revenue_jordan", "FY2023") / v("revenue_jordan", "FY2022"),
+      "FY2024": v("revenue_jordan_reported_basis", "FY2024") / v("revenue_jordan_reported_basis", "FY2023"),
+      "FY2025": v("revenue_jordan_reported_basis", "FY2025") / v("revenue_jordan_reported_basis", "FY2024"),
+      "FY2026": v("revenue_jordan_reported_basis", "FY2026") / v("revenue_jordan_reported_basis", "FY2025")}
+jp = ["FY2017"] + list(jr)
+idx = [1.0]
+for k in jr:
+    idx.append(idx[-1] * jr[k])
+lvl = [i / idx[-1] * v("revenue_jordan_reported_basis", "FY2026") / 1000 for i in idx]
+fig, (a1, a2) = plt.subplots(1, 2, figsize=(10.4, 4.4), gridspec_kw={"width_ratios": [3, 2], "wspace": 0.28})
+a1.bar([f"FY{p[-2:]}" for p in jp], lvl, color=[ORANGE if p in ("FY2018", "FY2025", "FY2026") else BLUE for p in jp], width=0.62)
+for i, l in enumerate(lvl):
+    a1.text(i, l + 0.12, f"{l:.1f}", ha="center", fontsize=8, color=INK2)
+a1.set_ylim(0, 10); a1.set_ylabel("$ billions, FY26 reported basis (back-cast)")
+a1.set_title("Jordan revenue, like-for-like (orange = down years)", loc="left", fontsize=10)
+pk1 = [0, (idx[1] / idx[0] - 1) * 100, (idx[2] / idx[0] - 1) * 100]
+pk2 = [0, (idx[8] / idx[7] - 1) * 100, (idx[9] / idx[7] - 1) * 100]
+yrs = ["Peak year", "+1 year", "+2 years"]
+a2.plot(yrs, pk1, color=BLUE, lw=2, marker="o", ms=6, label="FY18 reset (peak FY17)")
+a2.plot(yrs, pk2, color=ORANGE, lw=2, marker="o", ms=6, label="Current reset (peak FY24)")
+for ys, c in ((pk1, BLUE), (pk2, ORANGE)):
+    for x, y in zip(yrs[1:], ys[1:]):
+        a2.text(x, y + (1.2 if y > -12 else -2.6), f"{y:+.0f}%", ha="center", fontsize=8.5, color=INK2)
+a2.axhline(0, color=INK2, lw=0.8); a2.set_ylim(-26, 8); a2.set_ylabel("Change from prior peak (%)")
+a2.legend(frameon=False, fontsize=8, loc="lower left")
+a2.set_title("Two resets compared", loc="left", fontsize=10)
+fig.suptitle("Jordan is 19% below its FY24 peak; the FY18 reset was back above peak within two years",
+             fontweight="bold", fontsize=11, x=0.01, ha="left", y=1.02)
+note(fig, "Each year's change uses two values from the same filing (FY19, FY20, FY22, FY23, FY25 and FY26 10-Ks), chained and scaled to the FY26 reported "
+          "figure ($7,034M, FY26 10-K p. 32). Earlier years were reported on a wholesale equivalent basis and before the FY22 category change, so the "
+          "back-cast dollar levels are my arithmetic, not Nike figures. Q1 FY27: Jordan fell by mid-teens (Q1 FY27 call, Oct 1, 2026); not plotted.", y=-0.04)
+save("17_jordan_resets.png")
+
+# ---------- 18. Jordan: resale premiums and search interest against revenue ----------
+import statistics
+rs = [r for r in csv.DictReader(open(os.path.join(DATA, "jordan_resale_goat_20261013.csv")))
+      if r["collab_or_special"] == "False" and r["premium_primary_DERIVED"]]
+ry = ["2023", "2024", "2025", "2026"]
+def med_prem(f):
+    return [statistics.median(float(r["premium_primary_DERIVED"]) for r in rs if r["release_year"] == y and f(r)) * 100 for y in ry]
+series = [("All retro general releases", med_prem(lambda r: True), INK2),
+          ("Air Jordan 1 High OG", med_prem(lambda r: r["line"] == "AJ1 High OG"), BLUE),
+          ("Air Jordan 4", med_prem(lambda r: r["line"] == "AJ4"), ORANGE),
+          ("Air Jordan 3", med_prem(lambda r: r["line"] == "AJ3"), AQUA)]
+gt = {(r["dt"], r["geo"]): r for r in csv.DictReader(open(os.path.join(DATA, "google_trends_jordan_julsep.csv")))}
+# Jul to Sep of calendar year Y falls in Nike fiscal year Y+1; index both to FY2022 = 100
+fyl = ["FY22", "FY23", "FY24", "FY25", "FY26"]
+cal = ["2021", "2022", "2023", "2024", "2025"]
+def gidx(term):
+    b = float(gt[("2021", "US")][term])
+    return [float(gt[(c, "US")][term]) / b * 100 for c in cal]
+rev_i = [l / lvl[5] * 100 for l in lvl[5:10]]
+fig, (a1, a2) = plt.subplots(1, 2, figsize=(10.6, 4.5), gridspec_kw={"wspace": 0.3})
+for lab, ys, c in series:
+    a1.plot(ry, ys, color=c, lw=2, marker="o", ms=5, label=lab)
+a1.text(3.1, series[1][1][-1], f"{series[1][1][-1]:+.0f}%", va="center", fontsize=8, color=INK2)
+a1.axhline(0, color=INK2, lw=0.8); a1.set_xlim(-0.3, 3.6); a1.set_ylim(-45, 35)
+a1.set_xlabel("Release year"); a1.set_ylabel("Median resale vs retail (%)")
+a1.legend(frameon=False, fontsize=7.5, loc="lower left")
+a1.set_title("Resale premium by release year (GOAT, Oct 13, 2026)", loc="left", fontsize=10)
+for lab, ys, c in [("Jordan revenue (like-for-like)", rev_i, BLUE), ('Search: "Air Jordan"', gidx("Air Jordan"), ORANGE),
+                   ('Search: "Jordan 1"', gidx("Jordan 1"), AQUA)]:
+    a2.plot(fyl, ys, color=c, lw=2, marker="o", ms=5, label=lab)
+    a2.text(4.12, ys[-1], f"{ys[-1]:.0f}", va="center", fontsize=8, color=INK2)
+a2.axhline(100, color=MUTED, lw=0.8); a2.set_xlim(-0.3, 4.6); a2.set_ylim(0, 150)
+a2.set_ylabel("Index, FY22 = 100"); a2.legend(frameon=False, fontsize=7.5, loc="lower left")
+a2.set_title("US search interest fell while revenue rose", loc="left", fontsize=10)
+fig.suptitle("Interest in retro Jordans fell before the supply cuts, and resale prices have not recovered since",
+             fontweight="bold", fontsize=11, x=0.01, ha="left", y=1.02)
+note(fig, "Left: median of per-size last sales (US 7 to 13) on GOAT divided by retail, general releases only, 247 shoes, observed Oct 13, 2026 "
+          "(data/jordan_resale_goat_20261013.csv); one snapshot, so older releases have had longer to drift; my arithmetic. Right: Google Trends US, "
+          "July to September average of each calendar year, mapped to the Nike fiscal year it falls in (data/google_trends_jordan_julsep.csv); revenue "
+          "index from chart 17. Search indices are scaled to each term's own peak and are not a measure of units.", y=-0.04)
+save("18_jordan_demand_tests.png")
+
+# ---------- 19. Jordan scenario valuation (illustrative) ----------
+jv = list(csv.DictReader(open(os.path.join(DATA, "valuation", "jordan_scenarios.csv"))))
+sc_rows = [r for r in jv if not r["scenario"].startswith("Reference")]
+ref = next(r for r in jv if r["scenario"].startswith("Reference: Jordan FY2026"))
+yrs = ["FY24", "FY25", "FY26", "FY27", "FY28", "FY29", "FY30", "FY31"]
+hist = [v("revenue_jordan_reported_basis", p) / 1000 for p in ("FY2024", "FY2025", "FY2026")]
+cols = [MUTED, BLUE, AQUA]
+fig, (a1, a2) = plt.subplots(1, 2, figsize=(10.6, 4.5), gridspec_kw={"width_ratios": [3, 2], "wspace": 0.3})
+a1.plot(yrs[:3], hist, color=INK, lw=2, marker="o", ms=5, label="Reported")
+for r, c in zip(sc_rows, cols):
+    ys = [hist[-1]] + [float(r[f"revenue_FY{y}_usd_m"]) / 1000 for y in range(2027, 2032)]
+    a1.plot(yrs[2:], ys, color=c, lw=2, marker="o", ms=4, ls="--", label=r["scenario"])
+    a1.text(7.15, ys[-1], f"{ys[-1]:.1f}", va="center", fontsize=8, color=INK2)
+a1.set_xlim(-0.3, 7.7); a1.set_ylim(0, 10); a1.set_ylabel("Jordan revenue ($ billions)")
+a1.legend(frameon=False, fontsize=7.5, loc="lower left")
+a1.set_title("Revenue paths (scenario assumptions)", loc="left", fontsize=10)
+names = [r["scenario"].split(":")[0] for r in sc_rows]
+vals = [float(r["value_per_nke_share_usd"]) for r in sc_rows]
+a2.bar(names, vals, color=cols, width=0.55)
+for i, (val, r) in enumerate(zip(vals, sc_rows)):
+    a2.text(i, val + 0.15, f"${val:.2f}\n({float(r['share_of_nke_price_pct']):.0f}% of price)", ha="center", fontsize=8, color=INK2)
+refv = float(ref["value_per_nke_share_usd"])
+a2.axhline(refv, color=INK2, lw=1, ls=":")
+a2.text(-0.35, refv - 0.4, f"Reference: FY26 revenue at\nNKE EV/Sales = ${refv:.2f}", ha="left", va="top", fontsize=7.5, color=INK2)
+a2.set_ylim(0, 8.5); a2.set_ylabel("Jordan value per NKE share ($)"); a2.grid(axis="x", visible=False)
+a2.set_title("DCF value per NKE share", loc="left", fontsize=10)
+fig.suptitle("ILLUSTRATIVE: Jordan is worth about $2 to $6 of NKE's $35 share price across scenarios",
+             fontweight="bold", fontsize=11, x=0.01, ha="left", y=1.02)
+note(fig, "Scenario growth rates, FY2031 EBIT margins (8%, 11%, 14%) and terminal growth (1%, 2.5%, 3%) are assumptions, not forecasts; all start from "
+          "FY2026 Jordan revenue of $7,034M (FY26 10-K p. 32) and a mid-teens FY2027 decline (Q1 FY27 call). DCF conventions follow the repo's reverse DCF: "
+          "10% WACC, 22.5% tax, sales to capital 2.5, 1,487M shares, NKE $35.35 (Oct 12, 2026). Built by scripts/jordan_valuation.py "
+          "(data/valuation/jordan_scenarios.csv).", y=-0.04)
+save("19_jordan_valuation.png")
+
 print("done", sorted(os.listdir(OUT)))
