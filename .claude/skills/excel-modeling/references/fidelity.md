@@ -39,6 +39,17 @@ A one-cell `xl.py patch` changes exactly two zip parts: that sheet's XML and `xl
 | LibreOffice has no boolean type: `=A1>B1` is 1, and `ISLOGICAL()` of it is FALSE. A check written as `IF(ISLOGICAL(x),...)` passes in Excel and fails in LibreOffice. | jordan_valuation_xlsx.py master check, first run |
 | `pandas.read_excel` on an openpyxl-written file returns NaN for every formula; after `--refresh-cache` it returns the numbers. | `tests/test_xl.py` |
 
+## Real-world stress test: an Excel-saved valuation model
+
+Damodaran's `fcffsimpleginzu.xlsx` (https://pages.stern.nyu.edu/~adamodar/pc/fcffsimpleginzu.xlsx, downloaded Oct 13, 2026) has 17 sheets, 553 shared-formula cells, x14 validations, threaded comments, an image, a table, `iterate="1"` and a deliberate circularity. `python3 tests/oracle_compare.py <file> "Input sheet" row 20` and `... "Valuation output" col G` gave:
+
+| Test | Formula-level cells | Differences from LibreOffice's insert | Numeric values after recalc | Differences |
+|---|---|---|---|---|
+| Insert row 20 on Input sheet | 1,265 | 0 | 9,225 | 0 |
+| Insert column G on Valuation output | 1,265 | 0 | 9,225 | 0 |
+
+The x14 validations show the gap between the two save paths. `xl.py` shifted them in place (B37 to B38 and so on) and kept them as x14. LibreOffice converted them to the standard form, so its copy is no longer Excel's original structure. LibreOffice also rewrites `FALSE` as `FALSE()` and turns cached `#DIV/0!` results into literal `=#DIV/0!` formulas; the comparison normalises both. `xl.py audit` on the same file found the circular loop (synthetic rating > cost of capital > operating lease converter > synthetic rating) and 51 numbers typed into formulas (for example `=474.8+256.6`).
+
 ## Sources for facts not measured here
 
 | Fact | Source |

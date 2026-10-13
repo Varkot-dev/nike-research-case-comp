@@ -24,35 +24,7 @@ def check(cond, msg):
     if not cond:
         fails.append(msg)
 
-def norm(f):
-    return re.sub(r"\s+", "", str(f)).upper() if f is not None else None
-
-def formulas(path):
-    wb = load_workbook(path)
-    out = {}
-    for ws in wb.worksheets:
-        for row in ws.iter_rows():
-            for c in row:
-                if isinstance(c.value, str) and c.value.startswith("="):
-                    out[f"{ws.title}!{c.coordinate}"] = norm(c.value)
-        for cf in ws.conditional_formatting:
-            out[f"{ws.title}!CF"] = str(cf.sqref)
-        for dv in ws.data_validations.dataValidation:
-            out[f"{ws.title}!DV"] = str(dv.sqref)
-    for n, d in wb.defined_names.items():
-        out[f"name:{n}"] = norm(d.attr_text)
-    return out
-
-def chart_refs(path):
-    z = zipfile.ZipFile(path)
-    return sorted(norm(m) for n in z.namelist() if n.startswith("xl/charts/chart")
-                  for m in re.findall(r"<c:f>([^<]+)</c:f>", z.read(n).decode())
-                  if not m.startswith("&quot;"))  # LibreOffice writes series names as literal "<c:f>"name"
-
-def values(path):
-    rc = X.lo_recalc_copy(path)
-    wb = load_workbook(rc, data_only=True)
-    return {f"{ws.title}!{c.coordinate}": c.value for ws in wb.worksheets for row in ws.iter_rows() for c in row if c.value is not None}
+from test_xl_lib import norm, formulas, chart_refs, values
 
 cases = [("Model", "row", 6, 1), ("Model", "row", 7, 2), ("Model", "row", 2, 1), ("Model", "col", 3, 1),
          ("Inputs", "row", 3, 1), ("Model", "col", 7, 1)]

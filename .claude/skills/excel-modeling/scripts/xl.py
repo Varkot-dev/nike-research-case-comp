@@ -336,7 +336,9 @@ def cmd_audit(a):
                         issues["input_not_blue"].append(f"{ws.title}!{c.coordinate}")
             # 10. percent stored as whole number
             for c in rowcells:
-                if isinstance(c.value, (int, float)) and "%" in (c.number_format or "") and abs(c.value) > 1.5:
+                # typed inputs only, and only "round" numbers like 5 or 21.5 (a computed 1.8876 = 189% is legitimate)
+                if isinstance(c.value, (int, float)) and not isinstance(c.value, bool) and "%" in (c.number_format or "") \
+                        and 1.5 < abs(c.value) <= 100 and round(c.value, 2) == c.value:
                     issues["percent_stored_as_whole_number"].append(f"{ws.title}!{c.coordinate}={c.value}")
     cyc = find_cycles(wf)
     if cyc:
