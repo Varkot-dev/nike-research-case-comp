@@ -16,7 +16,7 @@
 2. [Finance primer for beginners](#2-finance-primer-for-beginners)
 3. [What Nike is and what went wrong](#3-what-nike-is-and-what-went-wrong)
 4. [The strategic shift: Win Now, Sport Offense, Pace](#4-the-strategic-shift-win-now-sport-offense-pace)
-5. [The financials, with charts](#5-the-financials-with-charts) (5.7 revenue streams, 5.8 Jordan Brand)
+5. [The financials, with charts](#5-the-financials-with-charts) (5.7 revenue streams, 5.8 Jordan Brand and the evidence test)
 6. [The stock: price, valuation, dividend, analysts](#6-the-stock-price-valuation-dividend-analysts)
 7. [People: the leadership thesis](#7-people-the-leadership-thesis)
 8. [Executive deep dives: current leadership](#8-executive-deep-dives-current-leadership)
@@ -37,12 +37,12 @@
 - **The turnaround.** CEO Elliott Hill, a 32-year Nike veteran who retired in 2020, returned on October 14, 2024 (8-K filed Sept 19, 2024, p. 2). His plan has three stages: **Win Now**, **Sport Offense**, and **Pace**. Pace was announced October 1, 2026 and targets "approximately $2.5 billion in cumulative savings through fiscal 2031" at "approximately $1.0 billion of pre-tax charges" (8-K filed Oct 1, 2026, Item 2.05, p. 2).
 - **The people angle (the thesis idea).** I count **19 named senior exits since 2020, 14 of them after Hill started** (Section 9). Four were roles Nike said it eliminated. Within a single quarter Nike also changed its CFO (8-K filed June 23, 2026) and its chief accounting officer resigned (8-K filed Aug 10, 2026). Hill's senior outside hires are **three**: Michael Gonda (communications, from McDonald's), David Denton (CFO, from Pfizer) and Jane Ewing (commercial, from Walmart). Nearly everyone else he promoted is a Nike insider or returnee.
 - **Shareholders are pushing back.** Support for executive pay fell to about **67.8%** at the September 2026 annual meeting, from about 94% in 2025 (8-K filed Sept 10, 2026, p. 2; 2026 proxy p. 23; my arithmetic on votes for versus against).
-- **Jordan is falling further than the headline says (a second thesis idea).** Nike's FY2026 10-K shows Jordan Brand revenue of $7,034 million, down 3% (FY26 10-K p. 32), but Nike changed how it reports Jordan in FY2025. On a consistent basis Jordan is **19% below its FY2024 peak of $8,701 million** (FY26 10-K p. 32; my arithmetic) and fell "by mid-teens" again in Q1 FY2027 (Nike transcript, Q1 FY27 call). Management calls this a deliberate supply cut to restore scarcity, the same move it made in FY2018, after which Jordan more than doubled. My estimate from the restatement is that about half of Jordan revenue runs through NIKE Direct, more than the rest of Nike (Section 5.8).
+- **Jordan is falling further than the headline says, and the scarcity story is unproven (a second thesis idea).** Nike's FY2026 10-K shows Jordan Brand revenue of $7,034 million, down 3% (FY26 10-K p. 32), but on a consistent basis Jordan is **19% below its FY2024 peak of $8,701 million** (my arithmetic) and fell "by mid-teens" again in Q1 FY2027 (Nike transcript, Q1 FY27 call). Management calls this a deliberate supply cut to restore scarcity, as in FY2018. A ten-way evidence test (Section 5.8) finds the cut is real but came after demand had already fallen: US search interest in "Jordan 1" fell 59% from 2021 to 2024 while Jordan revenue rose, and Air Jordan 1 High releases still trade 26% to 35% below retail after their supply cut (Google Trends; GOAT prices, Oct 13, 2026; my arithmetic).
 - **What to watch next:** Nike Investor Day on **Nov 16 to 17, 2026** (Nike release, Oct 1, 2026 employee memo) and Q2 FY2027 results (expected in December; Nike had not announced the date as of Oct 12).
 
 **Suggested thesis question:** *Is Nike's decline a leadership-and-execution problem that a returning insider team can fix, or a structural problem (competition, China, tariffs, brand fatigue) that leadership changes cannot fix?* The people data (Sections 7 to 10) is the strongest evidence for the first half. Section 12 lists the competitor and product evidence still needed for the second half.
 
-**Alternative product-level thesis question:** *Is Jordan's decline a deliberate, temporary supply reset that will repeat the FY2018 recovery, or a sign that retro sneaker demand has peaked?* Section 5.8 sets out the evidence on both sides and the signals that would settle it.
+**Alternative product-level thesis question:** *Will Nike's broad retro supply cut, announced October 2026, restore Jordan's pricing where the 2025 Air Jordan 1 cut did not?* Section 5.8 sets out a ten-way evidence test and the dated signals (holiday 2026 retros, Investor Day, Q2 FY2027) that will settle it.
 
 ---
 
@@ -227,7 +227,7 @@ My arithmetic: cash plus short-term investments of $8,368 million at Aug 31, 202
 - **By region:** North America 44.2%, EMEA 27.1%, APLA 13.5%, Greater China 12.6% (FY26 10-K p. 36; my arithmetic).
 - **By brand:** Jordan Brand, at $7,034 million, is about 15% of revenue and sits inside the NIKE Brand footwear and apparel lines (FY26 10-K p. 32). It is the only sub-brand Nike discloses. Full tables: `research_notes/06_revenue_streams.md`.
 
-### 5.8 Jordan Brand: the scarcity reset
+### 5.8 Jordan Brand: oversupply, then a supply cut that has not yet worked
 
 ![Jordan resets](charts/16_jordan_resets.png)
 
@@ -246,19 +246,19 @@ My arithmetic: cash plus short-term investments of $8,368 million at Aug 31, 202
 - **The same play now, stated outright:** "we've been oversupplying our iconic retro product ... as we've done with the Air Jordan 1, we will deliberately reduce the volume and frequency of specific Jordan Retro launches ... In the near term, North America will feel the biggest impact" (Nike transcript, Q1 FY27 call, Oct 1, 2026). Nike says Jordan and Sportswear actions "are expected to extend beyond fiscal 2027," reflecting "higher levels of discounting and broader marketplace pressure" (Q1 FY27 10-Q p. 20).
 - **New estimate: Jordan is Nike's most DTC-dependent franchise (my inference).** The restatement swapped internal transfer prices for actual NIKE Direct revenue. Across NIKE Brand in FY2024, internal sales to NIKE Direct were $13,009 million against NIKE Direct revenue of $21,519 million (FY24 10-K p. 34), an internal price of about 60.5% of retail. Jordan's FY2024 restatement gap of $1,713 million then implies Jordan Direct revenue of about $4.3 billion, **about 50% of Jordan revenue**, against 43.6% for NIKE Brand (my arithmetic; range 45% to 55% under different price assumptions). Jordan accounted for 20% of the restatement gap but 17.6% of NIKE Brand revenue. The Jordan decline and the 32% fall in NIKE Brand Digital since FY2023 (Section 5.5) are largely one story: retro launches drove the app.
 
-**Bull anchors**
-1. Precedent plus intent: the FY2018 reset worked and management is using the same language.
-2. International room: "In most of our geos, Jordan penetration is about 10 points lower than it is in North America" (Nike transcript, Q4 FY23 call).
-3. Scarce product still sells at full price: the AJ4 Black Cat drove "our largest Black Friday ever" (Nike transcript, Q2 FY26 call); the AJ1 and Air Force 1 "stabilized" after earlier cuts (Nike transcript, Q3 FY26 call).
-4. New sport categories: Hill cites growth in Jordan's "cleated business, our golf business, our training business" (Nike transcript, Q1 FY27 call). Jordan made Brazil's 2026 World Cup away kit (Nike transcript, Q3 FY26 call), and the first U.S. World of Flight store opened in Philadelphia (Nike release, Oct 2, 2025).
+**The evidence test (October 13, 2026).** We tested the scarcity claim ten ways from primary documents and data we could open (`research_notes/07_jordan_brand_thesis.md` Section 5; extracts in `research_notes/jordan_extracts/rabbit_hole/`).
 
-**Bear anchors**
-1. The reset keeps growing: classic franchises were already "on track to decline from peak levels by more than $4 billion" (Nike transcript, Q2 FY26 call), yet Jordan needed a second round of cuts. Telsey does not expect "an inflection back to sales growth" until "calendar 2028, at the earliest" (secondary: Sherwood News, Oct 5, 2026).
-2. Scale: Sportswear and Jordan Streetwear "represent approximately half of our revenue" (Nike transcript, Q4 FY26 call).
-3. Demand signals faded before the cuts: StockX's average resale premium on new Air Jordan 1 Retro Highs fell "from a high of 61 per cent in 2020 to 4 per cent in 2023" (secondary: Reuters, citing Altan Insights). No Nike or Jordan item appears in the Lyst Index Q2 2026 top 20 brands or top 10 products (data provider: Lyst).
-4. Nike discloses no Jordan profit or margin; claims that Jordan is Nike's highest-margin business are unsourced and are not used here.
+![Jordan demand tests](charts/17_jordan_demand_tests.png)
 
-**What would settle it:** Jordan targets at Investor Day (Nov 16 to 17, 2026); whether Jordan's decline narrows from mid-teens on the Q2 FY2027 call; North America NIKE Direct growth; retro release counts and resale premiums. Full analysis, sources and verification status: `research_notes/07_jordan_brand_thesis.md` and `research_notes/jordan_extracts/`.
+- **Ruled out:** a market or category decline (US footwear flat in 2025 per Circana, secondary; Nike North America footwear units +6% in FY2026, FY26 10-K), accounting and currency. Jordan fell 19.2% from FY2024 to FY2026 against 6.0% for the rest of NIKE Brand; about 13 points are Jordan-specific (my arithmetic).
+- **The cut was planned:** "The Jordan brand was planned down double digits this quarter, and we expect Jordan to be down at the same rate for fiscal '25" (Nike transcript, Q1 FY25 call). FY2025 came in at -16%.
+- **But demand fell first:** US search interest in "Jordan 1" fell 59% and "Air Jordan" 41% from July to September 2021 to the same months of 2024, while Jordan revenue rose 32% from FY2022 to FY2024 (Google Trends; my arithmetic). Weekly US SNKRS app downloads fell from 101K to 32K in Q2 2023 (Sensor Tower, secondary).
+- **The first cut has not restored pricing:** median GOAT resale premiums for Air Jordan 1 High OG general releases are -26% (2023 releases), -28%, -35% and -30% (2026 releases); 40 of 41 trade below retail. Volume moved to other models: Air Jordan 4 releases rose from 7 (2023) to 33 (2025) and its premium fell from +24% (2024 releases) to -20% (2026 releases) (Sole Retriever archive; GOAT, Oct 13, 2026; my arithmetic). Total retro release counts did not fall: 98, 96, 113 and about 91 a year from 2023 to 2026.
+- **Retailers saw the turn:** Foot Locker reported retro "sellouts" in Q4 2024, then "lower demand of key basketball footwear styles" in mid-2025; in May to July 2026 DICK'S said Foot Locker had "fewer launches" that "performed below both industry and our expectations" (retailer filings and calls).
+- **Verdict (my inference):** Nike oversupplied retro Jordans, demand reset, and Nike is cutting supply in response. The broad retro cut announced October 1, 2026 has not yet reached the shelf; the press expects it in 2027. Nike discloses no Jordan units, price or inventory, so the supply and demand split (roughly 35% to 50% supply, 50% to 65% demand) is an estimate.
+- **Timing:** the FY2018 reset took about 2 quarters to clean inventory and 4 to 5 to return to growth. Applied to October 2026, and given that management says pressure will "bleed in a little bit into fiscal '28" (Nike transcript, Q1 FY27 call), Jordan growth is unlikely before FY2028.
+
+**What will settle it:** whether the holiday 2026 retros (AJ4 Bred, AJ11 Space Jam, AJ12 Fireside) trade above retail on GOAT and StockX; any Jordan units, price or inventory disclosure at Investor Day (Nov 16 to 17, 2026); whether Jordan's mid-teens decline narrows on the Q2 FY2027 call. Full analysis, sources and verification status: `research_notes/07_jordan_brand_thesis.md` and `research_notes/jordan_extracts/`.
 
 ---
 
@@ -487,7 +487,7 @@ Ordered by value for a case built on the leadership thesis:
 5. **Inventory and discounting.** Inventory rose about 5% from May to August 2026 while revenue fell (Section 5.6).
 6. **China.** Local brand competition and the January 2027 online channel change.
 7. **People gaps.** Running and sport leaders at person level; Donahoe's specific hires; where departed executives went; employee sentiment.
-8. **Jordan Brand (Section 5.8).** Retailer commentary on Jordan sell-through (Foot Locker, Dick's, JD Sports); a resale premium series after 2023; retro release counts by month; Jordan targets at Investor Day; adidas basketball results from adidas' own filings.
+8. **Jordan Brand (Section 5.8).** Re-price the 247-shoe resale sample each quarter and add the holiday 2026 retros; pair counts per release (not public); Jordan units, price or inventory at Investor Day; JD and DICK'S launch commentary for November 2026 to January 2027.
 9. **Primary documents still to read:** the Investor Day materials (Nov 16 to 17) and the Q2 FY2027 10-Q and release.
 
 ---
@@ -512,6 +512,8 @@ Ordered by value for a case built on the leadership thesis:
 **Added October 13, 2026:**
 - Sections 5.7 (revenue streams) and 5.8 (Jordan Brand), charts 15 and 16, `research_notes/06_revenue_streams.md`, `research_notes/07_jordan_brand_thesis.md` and `research_notes/jordan_extracts/`.
 - **Jordan data fix.** `revenue_jordan` in `data/nike_filing_facts.csv` holds first-reported values, so FY2023 and FY2024 are on the wholesale equivalent basis and FY2025 and FY2026 on the reported basis. Chaining them gives FY2025 growth of +4% instead of the filed -16%. A consistent series, `revenue_jordan_reported_basis` (FY2023 to FY2026), was added from the FY25 and FY26 10-Ks.
+- **Jordan evidence test added.** Ten research lines (Foot Locker, DICK'S, JD Sports, other retailers, resale prices, release counts, FY2018 analog, alternative explanations, peers, consumer interest), chart 17, and data files `data/jordan_resale_goat_20261013.csv`, `data/google_trends_jordan_julsep.csv`, `data/jordan_retro_release_counts_annual.csv` and `data/piper_sandler_nike_teen_mindshare.csv`. The Jordan thesis changed from "deliberate scarcity reset" to "oversupply, then a supply cut that has not yet worked". A personal email address was removed from a methods note, and research no longer sends one in requests.
+- Dropped as unverifiable: "more than 700 Jordan styles a year in 2022 and 2023" (traced only to an unsourced blog). SneakerPing's 605 Jordan items are a resale sample, not a release count.
 - Market claims in Section 5.8 come from opened pages; claims seen only in search snippets (for example, Evercore's Jordan reasoning and Piper Sandler's 2026 schedule) are excluded.
 
 **Removed because they could not be verified:**
@@ -639,7 +641,7 @@ The full list of 102 documents with URLs is in `research_notes/04_financial_data
 | `data/nike_filing_facts.csv` | 6,270 filing facts, one per metric and period, each with filing, printed page, URL and verbatim quote |
 | `data/nke_daily_prices.csv`, `data/nke_dividends_exdate.csv` | Market data (Yahoo Finance), pulled Oct 12, 2026 |
 | `data/people_events.csv` | The named-exit list behind charts 6 and 7, with a source per row |
-| `charts/` | 16 charts, all generated from the files in `data/` |
+| `charts/` | 17 charts, all generated from the files in `data/` |
 | `scripts/make_charts.py` | Rebuilds every chart (`pip install matplotlib numpy`, then `python3 scripts/make_charts.py`) |
 | `scripts/build_data_pack.py` | Rebuilds `research_notes/04_financial_data_pack.md` from the facts file |
 | `research_notes/` | Research notes; `04_financial_data_pack.md` is the cited financial tables, `06_revenue_streams.md` and `07_jordan_brand_thesis.md` cover revenue mix and Jordan |
