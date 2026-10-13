@@ -51,7 +51,7 @@ Terminal value is 68% to 85% of each DCF value, so the result rests mainly on wh
 
 1. **Jordan is a 10% lever on the stock, not a doubling.** The bull-to-bear spread is $3.64 a share, about 10% of the $35.35 price. A Jordan-only thesis cannot carry a large price target; it has to sit inside the wider margin-recovery case.
 2. **The market is already paying near the bull case for Jordan.** At NKE's own EV/Sales of about 1.2x (peer_multiples.csv), Jordan's FY2026 revenue is worth $8.4B, or $5.68 a share. That is close to the bull DCF ($5.96), because NKE's multiple already embeds the 12% to 14% margin recovery the reverse DCF found.
-   - On these assumptions, Jordan is mainly a **downside risk**: about $2.30 to $3.40 a share if it ends in the base or bear case.
+   - On these assumptions, Jordan is mainly a **downside risk**: about $1.90 to $3.40 a share if it ends in the base or bear case ($5.68 less $3.79 or $2.32).
    - Upside exists only if Jordan beats the bull case, for example by passing its FY2024 peak or exceeding a 14% margin.
 3. **EPS view.** The bull-to-bear spread in Jordan's FY2031 EPS contribution is about $0.40. That is roughly a third of the FY2027 adjusted EPS guidance midpoint of $1.25 (Q1 FY27 release p. 1; midpoint my arithmetic). Jordan matters more for the earnings recovery than for the valuation multiple.
 4. **Cross-check.** The median EV/EBIT of seven peers is 8.2x, against 14.6x for NKE (`data/valuation/peer_ev_ebit_20261013.csv`, Yahoo market data, Oct 13, 2026). At the peer median, the base-case FY2031 Jordan EBIT of $739M would be worth about $6.1B before discounting (my arithmetic). That is in line with the base DCF before discounting, so the DCF is not out of line with the market.

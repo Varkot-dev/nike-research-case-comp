@@ -84,7 +84,7 @@ Dollar view ($ millions):
 
 - **The headline wholesale slowdown in Q1 FY2027 (-1%) hides two opposite moves**: North America wholesale **+9%** while Greater China wholesale **-28%**. In FY2026, North America wholesale rose 14% "including expanded distribution, higher shipments to existing partners and fewer marketplace management actions taken in the current year" (FY26 10-K p. 37).
 - North America Direct has fallen every quarter since Q4 FY2024.
-- Nike's FY2026 10-K says its marketplace actions should be completed "by the end of December 2026," and that "North America has made the most progress against these actions, while Greater China and Converse will take more time" (FY26 10-K p. 30). If that holds, comparisons should get easier from Q3 FY2027 (December to February).
+- Nike's FY2026 10-K says its marketplace actions should be completed "by the end of December 2026," and that "North America has made the most progress against these actions, while Greater China and Converse will take more time" (FY26 10-K p. 30). **Update:** the Q1 FY27 10-Q dropped that date and says Sportswear and Jordan actions "are expected to extend beyond fiscal 2027" (p. 20). If that holds, comparisons should get easier from Q3 FY2027 (December to February).
 
 ## 5. Channel and gross margin: the sign flipped
 
@@ -116,6 +116,6 @@ Dollar view ($ millions):
 - The Greater China partner-run online store change (from January 2027) is **not in any filing**; it rests on Just Style (secondary, July 2026).
 
 ## 8. What this means for the thesis (my inference)
-1. **Bull reading:** the DTC unwind is largely complete in North America, where wholesale is still growing 9% to 24% a quarter. Marketplace actions are scheduled to finish by December 2026, and the wholesale shift is lowering logistics costs. If digital stabilizes at a full-price base of roughly $8B to $9B, the channel mix stops being a drag from FY2028.
+1. **Bull reading:** the DTC unwind is largely complete in North America, where wholesale is still growing 9% to 24% a quarter. Marketplace actions were scheduled to finish by December 2026 (since pushed beyond FY2027, Q1 FY27 10-Q p. 20), and the wholesale shift is lowering logistics costs. If digital stabilizes at a full-price base of roughly $8B to $9B, the channel mix stops being a drag from FY2028.
 2. **Bear reading:** Direct is still shrinking 6% to 8% a quarter with no sign of a floor. Total wholesale growth has stalled because China wholesale is collapsing (-28%). U.S. growth relies on fewer, larger retailers (top three now 29% of U.S. sales), which shifts pricing power to them.
-3. **The deciding test is sell-through:** is North America wholesale growth matched by retailer sell-through, or is it inventory build at partners? That needs the retailers' own filings and alternative data, not Nike's.
+3. **The deciding test is sell-through:** is North America wholesale growth matched by retailer sell-through, or is it inventory build at partners? That needs the retailers' own filings and alternative data, not Nike's. **Answered:** mostly inventory build at partners (`thesis_tests/retailer_sell_through.md` Section C).
