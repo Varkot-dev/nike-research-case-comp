@@ -41,7 +41,8 @@
   - **Greater China:** its EBIT margin fell from 39.1% in FY2021 to 21.9% in FY2026, and it had the largest reported EBIT decline of any segment from FY2024 to FY2026 (-$1,031 million).
   - **North America:** now the most profitable region, at 26.2% EBIT margin. Excluding the $965 million tariff refund it was 21.5%, and its EBIT decline would be the largest (-$1,411 million).
   - **Converse:** EBIT fell from $676 million to $18 million, about -$3 million before the refund. About 85% of its revenue loss is fewer units sold.
-  - **Direct versus wholesale:** testing whether selling direct pays shows that NIKE Direct keeps a large *gross margin* lead over wholesale through discount cycles, but its *operating* lead depends on full-price selling. On a retailer-sized cost to serve, it runs out at an average markdown of roughly 8% to 16% (my arithmetic; Section 5.8).
+  - **Direct versus wholesale:** NIKE Direct keeps a large *gross margin* lead over wholesale through discount cycles, but its *operating* lead depends on full-price selling. On a retailer-sized cost to serve, the lead runs out at an average markdown of roughly 8% to 16% (my arithmetic; Section 5.8).
+  - **Correction:** bounding Nike's discounting from its own margin data puts the extra Direct markdown at only 2.5% to 9.8% in FY2025 (`research_notes/investigations/04`). Direct was therefore probably still above break-even, and the shift to wholesale is not explained by Direct becoming unprofitable.
 - **What to watch next:** Nike Investor Day on **Nov 16 to 17, 2026** (Nike release, Oct 1, 2026 employee memo) and Q2 FY2027 results (expected in December; Nike had not announced the date as of Oct 12).
 
 **Suggested thesis question:** *Is Nike's decline a leadership-and-execution problem that a returning insider team can fix, or a structural problem (competition, China, tariffs, brand fatigue) that leadership changes cannot fix?* The people data (Sections 7 to 10) is the strongest evidence for the first half. Section 12 lists the competitor and product evidence still needed for the second half.
@@ -254,7 +255,12 @@ Segment EBIT divided by segment revenue (my arithmetic on the segment note of ea
 
   Nike says the refund "largely offsets the impact of the IEEPA tariffs recognized during fiscal 2026" (Q4 FY26 release pp. 4 to 5), so the reported figure is the no-tariff view and the ex-refund figure is the with-tariff view.
 - **Sensitivity:** if Greater China's EBIT margin returned to its FY2024 level of 30.6% on FY2026 revenue, segment EBIT would be about **$511 million higher**, 13% of FY2026 total EBIT of $3,850 million (my arithmetic).
-- **North America is the only segment whose FY2026 gross margin is above FY2023.** It is also the segment that moved furthest toward wholesale: its Direct share fell from 48.6% to 41.7% between FY2024 and FY2026 (FY24 10-K p. 84; FY26 10-K p. 83). Its gross margin gain did not reach EBIT on a with-tariff basis (27.2% to 21.5%). Why North America diverged is being tested in the current research round (Section 12).
+- **North America's reported gross margin rise depends on how the tariff refund is treated** (`research_notes/investigations/05_north_america_gross_margin.md`, draft):
+  - Reported: 44.4% (FY2024) to 45.6% (FY2026).
+  - Excluding the $965 million refund but keeping all tariffs, it is **40.9%, -350 bps**, a larger fall than EMEA (my arithmetic, verified).
+  - On a no-new-tariffs basis it is about **45.8%, roughly +140 bps** (range +100 to +190 bps; estimate). The underlying gain comes from lower cost per unit (product and logistics costs), not higher prices: revenue per unit fell about 2.5%.
+  - Currency moved against North America, so it cannot explain the rise.
+  - North America is also the segment that moved furthest toward wholesale: Direct share fell from 48.6% to 41.7% (FY24 10-K p. 84; FY26 10-K p. 83).
 - **Higher Direct share does not line up with better margins across regions.** In FY2026 the two most Direct-heavy segments, Greater China (44.3%) and Converse (44.1%), had the steepest profit declines.
 - Detail: `research_notes/06_region_margin_product.md`.
 
@@ -281,7 +287,10 @@ Nike does not report profit by channel. Four indirect tests (detail and every so
 - **Gross margin:** selling direct keeps a large gross margin lead even through discount cycles.
 - **Operating level:** Direct beats wholesale only while its spread over wholesale exceeds its own store and fulfilment costs, and promotions use up that cushion.
 - **Break-even (assumption: Nike's Direct cost to serve, as a share of revenue, is close to Foot Locker's gross margin):** the cushion runs out at an average Direct markdown of roughly **8% to 16%** (my arithmetic).
-- **Unknown:** Nike does not disclose markdown depth, so whether Direct was below break-even in FY2025 and FY2026 is the open question (Section 12).
+- **Tested (`research_notes/investigations/04_direct_markdown_depth.md`, draft, quotes verified):**
+  - Nike never discloses markdown depth. Bounding it from Nike's own bridge lines and pricing statements, the extra Direct markdown versus FY2024 was **2.5% to 9.8% in FY2025**. That is below 15% in every full fiscal year, and FY2024 to FY2026 cumulative is most likely 13.6% to 14.8%.
+  - Direct could have crossed the low 7.8% threshold only in FY2025, and only if most of that year's discounting sat in Direct rather than with wholesale partners.
+  - **So the data do not show that Direct fell below break-even.** The case for Nike's wholesale shift has to rest on other evidence: digital traffic loss (Section 5.5), the logistics saving, and wholesale reach. It cannot rest on Direct becoming unprofitable.
 - **From FY2025, Nike's bridge shows the trade directly.** A wholesale sale lowers ASP but cuts "warehousing and logistics costs ... primarily due to channel mix" (+20 bps in FY2026, FY26 10-K p. 34; +90 bps in Q1 FY2027 against a -30 bps ASP effect, Q1 FY27 10-Q p. 23).
 
 ### 5.9 Converse: a decline driven by unit volume, now a deliberate reset
@@ -350,7 +359,11 @@ New product, as described by Nike management. These are company statements, not 
 
 The full list of 40 launches, with channel, geography and sources, is in `research_notes/07_new_products_detail.md`.
 
-**Wholesale is getting more concentrated.** Nike's top three U.S. customers rose from 21% of U.S. sales in FY2024 to 29% in FY2026 (FY24 and FY26 10-Ks pp. 2 to 3). Nike's share of Foot Locker's purchases fell from 75% (2020) to 59% (2024), while its share of Dick's purchases rose from 17% (FY2021) to 25% (FY2024) (retailer 10-Ks; `research_notes/10_peer_channel_margins.md`).
+**Wholesale is getting more concentrated.** Nike's top three U.S. customers rose from 21% of U.S. sales in FY2024 to 29% in FY2026 (FY24 and FY26 10-Ks pp. 2 to 3). Decomposed in `research_notes/investigations/06_us_customer_concentration.md` (draft; my arithmetic):
+- **About 3.1 points:** NIKE Direct shrinking, so wholesale became a bigger share of U.S. sales. This is mechanical.
+- **About 0.4 points:** the Converse decline.
+- **About 3 to 4 points:** JD Sports' acquisition of Hibbett, closed July 2024, which merged two Nike accounts.
+- **Under 1 point:** Dick's acquisition of Foot Locker. Nike's share of Foot Locker's purchases fell from 75% (2020) to 59% (2024), while its share of Dick's purchases rose from 17% (FY2021) to 25% (FY2024) (retailer 10-Ks; `research_notes/10_peer_channel_margins.md`).
 
 ---
 
@@ -572,7 +585,7 @@ The full list of 40 launches, with channel, geography and sources, is in `resear
 
 Ordered by value for a case built on the leadership thesis:
 
-**In progress (October 13, 2026 research round).** Each question is being tested by listing every plausible explanation and ruling each in or out with data. Results will be added to Sections 5.7 to 5.10 and `research_notes/`.
+**October 13, 2026 research round: draft answers in `research_notes/investigations/` (index in `00_INDEX.md`).** Each question is being tested by listing every plausible explanation and ruling each in or out with data. Results will be added to Sections 5.7 to 5.10 and `research_notes/`.
 - Is North America wholesale growth real sell-through or channel fill?
 - Why did Greater China collapse?
 - Why did NIKE Direct shrink?
