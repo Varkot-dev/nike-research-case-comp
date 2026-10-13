@@ -323,4 +323,45 @@ note(fig, "FY26 Form 10-K: revenues p. 55; product, segment and Jordan p. 32; st
           "incl. Converse p. 83; Converse DTC and licensing p. 41. 'Other' is Global Brand Divisions ($49M) plus Corporate ($2M). Shares are my arithmetic.")
 save("15_revenue_mix_fy26.png")
 
+# ---------- 16. Jordan Brand: like-for-like series and the two resets ----------
+# Each year-on-year ratio uses two values from the same filing, so the chain crosses the FY2022
+# category change and the FY2025 removal of wholesale equivalent reporting without mixing bases.
+jr = {"FY2018": v("revenue_jordan", "FY2018") / v("revenue_jordan", "FY2017"),
+      "FY2019": v("revenue_jordan", "FY2019") / v("revenue_jordan", "FY2018"),
+      "FY2020": v("revenue_jordan_brand_wholesale_equivalent", "FY2020") / v("revenue_jordan", "FY2019"),
+      "FY2021": v("revenue_jordan_wholesale_equiv_recast", "FY2021") / v("revenue_jordan_wholesale_equiv_recast", "FY2020"),
+      "FY2022": v("revenue_jordan", "FY2022") / v("revenue_jordan_wholesale_equiv_recast", "FY2021"),
+      "FY2023": v("revenue_jordan", "FY2023") / v("revenue_jordan", "FY2022"),
+      "FY2024": v("revenue_jordan_reported_basis", "FY2024") / v("revenue_jordan_reported_basis", "FY2023"),
+      "FY2025": v("revenue_jordan_reported_basis", "FY2025") / v("revenue_jordan_reported_basis", "FY2024"),
+      "FY2026": v("revenue_jordan_reported_basis", "FY2026") / v("revenue_jordan_reported_basis", "FY2025")}
+jp = ["FY2017"] + list(jr)
+idx = [1.0]
+for k in jr:
+    idx.append(idx[-1] * jr[k])
+lvl = [i / idx[-1] * v("revenue_jordan_reported_basis", "FY2026") / 1000 for i in idx]
+fig, (a1, a2) = plt.subplots(1, 2, figsize=(10.4, 4.4), gridspec_kw={"width_ratios": [3, 2], "wspace": 0.28})
+a1.bar([f"FY{p[-2:]}" for p in jp], lvl, color=[ORANGE if p in ("FY2018", "FY2025", "FY2026") else BLUE for p in jp], width=0.62)
+for i, l in enumerate(lvl):
+    a1.text(i, l + 0.12, f"{l:.1f}", ha="center", fontsize=8, color=INK2)
+a1.set_ylim(0, 10); a1.set_ylabel("$ billions, FY26 reported basis (back-cast)")
+a1.set_title("Jordan revenue, like-for-like (orange = down years)", loc="left", fontsize=10)
+pk1 = [0, (idx[1] / idx[0] - 1) * 100, (idx[2] / idx[0] - 1) * 100]
+pk2 = [0, (idx[8] / idx[7] - 1) * 100, (idx[9] / idx[7] - 1) * 100]
+yrs = ["Peak year", "+1 year", "+2 years"]
+a2.plot(yrs, pk1, color=BLUE, lw=2, marker="o", ms=6, label="FY18 reset (peak FY17)")
+a2.plot(yrs, pk2, color=ORANGE, lw=2, marker="o", ms=6, label="Current reset (peak FY24)")
+for ys, c in ((pk1, BLUE), (pk2, ORANGE)):
+    for x, y in zip(yrs[1:], ys[1:]):
+        a2.text(x, y + (1.2 if y > -12 else -2.6), f"{y:+.0f}%", ha="center", fontsize=8.5, color=INK2)
+a2.axhline(0, color=INK2, lw=0.8); a2.set_ylim(-26, 8); a2.set_ylabel("Change from prior peak (%)")
+a2.legend(frameon=False, fontsize=8, loc="lower left")
+a2.set_title("Two resets compared", loc="left", fontsize=10)
+fig.suptitle("Jordan is 19% below its FY24 peak; the FY18 reset was back above peak within two years",
+             fontweight="bold", fontsize=11, x=0.01, ha="left", y=1.02)
+note(fig, "Each year's change uses two values from the same filing (FY19, FY20, FY22, FY23, FY25 and FY26 10-Ks), chained and scaled to the FY26 reported "
+          "figure ($7,034M, FY26 10-K p. 32). Earlier years were reported on a wholesale equivalent basis and before the FY22 category change, so the "
+          "back-cast dollar levels are my arithmetic, not Nike figures. Q1 FY27: Jordan fell by mid-teens (Q1 FY27 call, Oct 1, 2026); not plotted.", y=-0.04)
+save("16_jordan_resets.png")
+
 print("done", sorted(os.listdir(OUT)))
