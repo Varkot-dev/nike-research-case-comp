@@ -364,4 +364,46 @@ note(fig, "Each year's change uses two values from the same filing (FY19, FY20, 
           "back-cast dollar levels are my arithmetic, not Nike figures. Q1 FY27: Jordan fell by mid-teens (Q1 FY27 call, Oct 1, 2026); not plotted.", y=-0.04)
 save("16_jordan_resets.png")
 
+# ---------- 17. Jordan: resale premiums and search interest against revenue ----------
+import statistics
+rs = [r for r in csv.DictReader(open(os.path.join(DATA, "jordan_resale_goat_20261013.csv")))
+      if r["collab_or_special"] == "False" and r["premium_primary_DERIVED"]]
+ry = ["2023", "2024", "2025", "2026"]
+def med_prem(f):
+    return [statistics.median(float(r["premium_primary_DERIVED"]) for r in rs if r["release_year"] == y and f(r)) * 100 for y in ry]
+series = [("All retro general releases", med_prem(lambda r: True), INK2),
+          ("Air Jordan 1 High OG", med_prem(lambda r: r["line"] == "AJ1 High OG"), BLUE),
+          ("Air Jordan 4", med_prem(lambda r: r["line"] == "AJ4"), ORANGE),
+          ("Air Jordan 3", med_prem(lambda r: r["line"] == "AJ3"), AQUA)]
+gt = {(r["dt"], r["geo"]): r for r in csv.DictReader(open(os.path.join(DATA, "google_trends_jordan_julsep.csv")))}
+# Jul to Sep of calendar year Y falls in Nike fiscal year Y+1; index both to FY2022 = 100
+fyl = ["FY22", "FY23", "FY24", "FY25", "FY26"]
+cal = ["2021", "2022", "2023", "2024", "2025"]
+def gidx(term):
+    b = float(gt[("2021", "US")][term])
+    return [float(gt[(c, "US")][term]) / b * 100 for c in cal]
+rev_i = [l / lvl[5] * 100 for l in lvl[5:10]]
+fig, (a1, a2) = plt.subplots(1, 2, figsize=(10.6, 4.5), gridspec_kw={"wspace": 0.3})
+for lab, ys, c in series:
+    a1.plot(ry, ys, color=c, lw=2, marker="o", ms=5, label=lab)
+a1.text(3.1, series[1][1][-1], f"{series[1][1][-1]:+.0f}%", va="center", fontsize=8, color=INK2)
+a1.axhline(0, color=INK2, lw=0.8); a1.set_xlim(-0.3, 3.6); a1.set_ylim(-45, 35)
+a1.set_xlabel("Release year"); a1.set_ylabel("Median resale vs retail (%)")
+a1.legend(frameon=False, fontsize=7.5, loc="lower left")
+a1.set_title("Resale premium by release year (GOAT, Oct 13, 2026)", loc="left", fontsize=10)
+for lab, ys, c in [("Jordan revenue (like-for-like)", rev_i, BLUE), ('Search: "Air Jordan"', gidx("Air Jordan"), ORANGE),
+                   ('Search: "Jordan 1"', gidx("Jordan 1"), AQUA)]:
+    a2.plot(fyl, ys, color=c, lw=2, marker="o", ms=5, label=lab)
+    a2.text(4.12, ys[-1], f"{ys[-1]:.0f}", va="center", fontsize=8, color=INK2)
+a2.axhline(100, color=MUTED, lw=0.8); a2.set_xlim(-0.3, 4.6); a2.set_ylim(0, 150)
+a2.set_ylabel("Index, FY22 = 100"); a2.legend(frameon=False, fontsize=7.5, loc="lower left")
+a2.set_title("US search interest fell while revenue rose", loc="left", fontsize=10)
+fig.suptitle("Interest in retro Jordans fell before the supply cuts, and resale prices have not recovered since",
+             fontweight="bold", fontsize=11, x=0.01, ha="left", y=1.02)
+note(fig, "Left: median of per-size last sales (US 7 to 13) on GOAT divided by retail, general releases only, 247 shoes, observed Oct 13, 2026 "
+          "(data/jordan_resale_goat_20261013.csv); one snapshot, so older releases have had longer to drift; my arithmetic. Right: Google Trends US, "
+          "July to September average of each calendar year, mapped to the Nike fiscal year it falls in (data/google_trends_jordan_julsep.csv); revenue "
+          "index from chart 16. Search indices are scaled to each term's own peak and are not a measure of units.", y=-0.04)
+save("17_jordan_demand_tests.png")
+
 print("done", sorted(os.listdir(OUT)))
