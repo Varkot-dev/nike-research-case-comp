@@ -57,7 +57,10 @@ FY2026, ranked by Direct share (my arithmetic on FY26 10-K p. 83 and the segment
 
 - **Across regions there is no clean pattern.** The two most Direct-heavy segments (Greater China, Converse) are the ones whose profits fell hardest.
 - **Within North America, Direct share fell from 48.6% (FY2024) to 41.7% (FY2026) while gross margin rose from 44.4% to 45.6%.** Over the same period, Nike's bridge language shifted from Direct helping margin (FY2022: "higher margin in our NIKE Direct business," FY22 10-K p. 34) to wholesale mix lowering costs (FY2026: "Lower warehousing and logistics costs ... primarily due to channel mix," +20 bps, FY26 10-K p. 34; Q1 FY2027: +90 bps, Q1 FY27 10-Q p. 23).
-- **My inference:** Direct only earns better margins when it sells at full price. Once Direct turned promotional (FY2023 onward, "higher promotional activity to liquidate inventory," FY23 10-K p. 34), its price advantage disappeared and its fulfilment and store costs remained. A smaller, full-price Direct business plus a larger wholesale business can therefore carry a *higher* margin than the FY2024 mix. Nike does not publish the data to prove this, so treat it as a stated modelling assumption.
+- **Tested in `09_channel_margin_test.md`.** Nike's own numbers support the full-price condition at the gross margin level:
+  - The Direct line in Nike's gross margin bridge added 160 bps to company gross margin in 9M FY2022, when promotions were low. It subtracted 130 bps in 9M FY2023 when Direct liquidated inventory, a swing of about $1.05 billion of gross profit (Q3 FY22 10-Q p. 30; Q3 FY23 10-Q p. 29).
+  - Direct revenue over its internal wholesale-price cost peaked at 1.78x in FY2022 and fell back to 1.65x by FY2024.
+  - Whether Direct beats wholesale after its own store and fulfilment costs is not disclosed. Peer benchmarks are in that note.
 
 ## 4. Product categories
 
