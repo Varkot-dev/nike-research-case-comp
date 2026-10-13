@@ -1,0 +1,27 @@
+date_or_period,item,value,source
+2022-06,$18B four-year program approved,"18,000",Q1 FY27 10-Q p. 39
+2023-05-31,remaining under program,"13,200",FY23 10-K p. 25
+2024-05-31,remaining under program,"8,945",FY24 10-K p. 27
+2025-05-31,remaining under program,"5,990",FY25 10-K p. 26
+FY2026,repurchased under program,"1.8m shares, $122.4m, avg $67.63",FY26 10-K p. 45
+Q1 FY2026,repurchases paused,,FY26 10-K p. 45
+2026-06,"program reapproved with no fixed expiration, no increase",,Q1 FY27 10-Q p. 33
+2026-08-31,cumulative under program,"124.4m shares, about $12.1B, avg $97.57",Q1 FY27 10-Q p. 33
+2026-08-31,remaining (my arithmetic: 18.0 - 12.1),about 5.9B,FY26 10-K p. 26 (5.9)
+Q1 FY2027,shares repurchased,0,Q1 FY27 10-Q p. 39
+FY2019,shares repurchased (m),54.3,FY19 10-K p. 38
+FY2020,shares repurchased (m),33.5,FY20 10-K p. 44
+FY2021,shares repurchased (m),4.9,FY21 10-K p. 45
+FY2022,shares repurchased (m),27.3,FY22 10-K p. 45
+FY2023,shares repurchased (m),50.0,FY23 10-K p. 45
+FY2024,shares repurchased (m),41.4,FY24 10-K p. 47
+FY2025,shares repurchased (m),37.6,FY25 10-K p. 46
+FY2026,shares repurchased (m),1.8,FY26 10-K p. 45
+2019-07-19,shares outstanding,"1,566,888,373",FY19 10-K cover
+2021-07-09,shares outstanding,"1,581,801,224",FY21 10-K cover
+2023-07-12,shares outstanding,"1,529,971,608",FY23 10-K cover
+2024-07-10,shares outstanding,"1,499,358,944",FY24 10-K cover
+2025-03-28,shares outstanding (low point),"1,475,990,487",Q3 FY25 10-Q cover
+2025-07-09,shares outstanding,"1,476,903,492",FY25 10-K cover
+2026-07-08,shares outstanding,"1,483,498,703",FY26 10-K cover
+2026-09-28,shares outstanding,"1,485,308,829",Q1 FY27 10-Q cover

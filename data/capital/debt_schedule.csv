@@ -1,0 +1,13 @@
+maturity,fiscal_year_due,coupon_pct,principal_usd_m,book_value_may31_2026,swapped_to_floating,indicative_yield_oct13_2026_secondary,source
+2026-11-01,FY2027,2.38,1000,1000,no,n/a (matures in 19 days),FY26 10-K p. 70
+2027-03-27,FY2027,2.75,1000,1000,no,"4.81% at 99.1 clean (finanzen.net, quote time stale)",FY26 10-K p. 70
+2030-03-27,FY2030,2.85,1500,1495,no,"5.49% at 91.9 (finanzen.net, gettex, Oct 13, 2026)",FY26 10-K p. 70
+2040-03-27,FY2040,3.25,1000,986,yes,n/d,FY26 10-K p. 70
+2043-05-01,FY2043,3.63,500,497,yes,n/d,FY26 10-K p. 70
+2045-11-01,FY2046,3.88,1000,987,yes,"6.43% at 72.4 (finanzen.net, gettex, Oct 13, 2026)",FY26 10-K p. 70
+2046-11-01,FY2047,3.38,500,493,no,n/d,FY26 10-K p. 70
+2050-03-27,FY2050,3.38,1500,1484,no,"6.47% at 63.2 (finanzen.net, gettex, Oct 13, 2026)",FY26 10-K p. 70
+TOTAL,,3.14,8000,7942,2.4B notional,,FY26 10-K p. 70; weighted coupon my arithmetic
+"Revolver 5-year $2.0B (to $3.0B), matures 2030-03-07",,Term SOFR + 0.725%; fee 0.05%,0,,,undrawn,FY26 10-K p. 69
+"Revolver 364-day $1.0B (to $1.5B), matures 2027-03-05",,Term SOFR + 0.625%; fee 0.03%,0,,,undrawn,FY26 10-K p. 69
+Commercial paper program $3.0B,,,0,,,"none outstanding Aug 31, 2026",Q1 FY27 10-Q p. 34
