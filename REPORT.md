@@ -261,6 +261,10 @@ Segment EBIT divided by segment revenue (my arithmetic on the segment note of ea
   - On a no-new-tariffs basis it is about **45.8%, roughly +140 bps** (range +100 to +190 bps; estimate). The underlying gain comes from lower cost per unit (product and logistics costs), not higher prices: revenue per unit fell about 2.5%.
   - Currency moved against North America, so it cannot explain the rise.
   - North America is also the segment that moved furthest toward wholesale: Direct share fell from 48.6% to 41.7% (FY24 10-K p. 84; FY26 10-K p. 83).
+- **Why the international segment gross margins fell 350 to 610 bps from FY2023 to FY2026** (`research_notes/investigations/07`, draft):
+  - **Currency is the main cause.** It works through Nike's "standard rate" system, which sets FX rates for product costs 9 to 12 months ahead.
+  - **About half of the segment decline is an accounting split.** FX gains and losses are booked in Corporate, whose gross profit moved from **-$535 million in FY2023 to +$97 million in FY2026** (FY25 10-K and FY26 10-K Corporate tables). Revenue-weighted, EMEA, Greater China and APLA gross margin fell 471 bps on the segment basis but only 234 bps including Corporate's FX results (my arithmetic, draft).
+  - **What is Nike-specific is the failure to offset currency.** adidas faced the same currency headwind and still raised its segment gross margins from 2022 to 2025, through lower sourcing costs, better mix and less discounting. Nike's offsets were eaten by discounting (EMEA), obsolescence reserves (Greater China) and the Converse reset.
 - **Higher Direct share does not line up with better margins across regions.** In FY2026 the two most Direct-heavy segments, Greater China (44.3%) and Converse (44.1%), had the steepest profit declines.
 - Detail: `research_notes/06_region_margin_product.md`.
 
