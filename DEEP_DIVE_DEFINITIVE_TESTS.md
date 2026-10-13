@@ -12,7 +12,8 @@ Labels follow the house rules (`CLAUDE.md`): filing citations with printed pages
 
 1. **[KEY FINDING] The supply-cut signature appears only where Nike is shrinking the business, not where the Jordan cut is aimed** (Test 5). Greater China (units -26%, ASP flat on lower discounts) and Converse (units -34%, ASP +6 points) show units cut at stable prices in Q1 FY2027. North America, the focus of the Jordan retro cut, sold 2% more footwear pairs at lower ASP, and EMEA cites higher discounts (Q1 FY27 10-Q pp. 26 to 28). All 694 unit and price statements Nike filed since FY2017 are in `data/definitive/nike_units_asp_tidy.csv`.
 2. **[KEY FINDING] Nike's main shoe factory cut in 2023, four quarters before Nike's footwear revenue fell, and barely cut when it did** (Test 1, chart 20). Feng Tay revenue fell 10% to 23% a year in Q3 FY23 to Q2 FY24 while Nike footwear grew; in FY2025 Nike footwear fell 11.7% but Feng Tay only 4.7%. The factory data fit the 2023 inventory clear-out, not a supply cut behind the FY2025 decline. Feng Tay also leads Nike footwear growth by about one quarter (correlation 0.68 excluding COVID years), and its Q1 FY27 -8.8% points to continued weakness in Q2.
-3. **The FY2018 "supply reset" began with discounting** (Test 5). North America footwear units were flat while discounts cut 3 points off revenue in Q1 FY2018 (Q1 FY18 10-Q p. 26); units fell only in the next two quarters. The FY2018 analog for Jordan is a discount-then-cut sequence.
+3. **[KEY FINDING] Retros released just before the October 2026 cut sit in full size runs at full price weeks after launch** (Test 3). AJ4 Rare Air Tour Yellow has all 13 sizes in stock at nike.com, Foot Locker and Champs on day 38, the oversupply pattern measured directly on the shelf. Whether the cut changes this is decided by re-running the tracker on the AJ1 Royal around October 24 and November 7.
+4. **The FY2018 "supply reset" began with discounting** (Test 5). North America footwear units were flat while discounts cut 3 points off revenue in Q1 FY2018 (Q1 FY18 10-Q p. 26); units fell only in the next two quarters. The FY2018 analog for Jordan is a discount-then-cut sequence.
 
 ## Test 1. Factory orders: Nike's footwear suppliers' monthly revenue and pairs
 
@@ -55,7 +56,23 @@ Labels follow the house rules (`CLAUDE.md`): filing citations with printed pages
 - **Treated vs control:** holiday 2026 retros (after the October 2026 cut) vs earlier releases.
 - **Would disprove "supply cut is working":** full size runs still in stock two to four weeks after holiday 2026 launches.
 
-*(Pending.)*
+**Result (Oct 13, 2026; first run, decisive re-runs scheduled).** A re-runnable tracker (`scripts/definitive/size_tracker/size_tracker.py`, see its README) recorded size-level stock and price for 73 Jordan retros released Oct 2025 to Oct 2026 plus 10 controls at nike.com (api.nike.com product feed; a size counts only when the product is ACTIVE and past its start date), Foot Locker and Champs; Finish Line and JD US blocked automated access (HTTP 403). Results in `data/definitive/sizes/size_runs_per_shoe_20261013.csv` (per retailer, per size: `size_runs_combined_20261013.csv`); Foot Locker history from Wayback captures in `fl_history_summary_final.csv`. All shares are my arithmetic.
+
+| Shoe | Days since release | Share of sizes 7 to 13 in stock (Nike / Foot Locker / Champs) | Core sizes 9 to 11 | Price vs retail |
+|---|---|---|---|---|
+| AJ1 High OG Royal (first release after the Oct 1 cut) | 3 | 1.00 / 0.85 / 0.77 | all in stock | full price ($185) |
+| AJ12 Bucks | 31 | 0.85 / 0.77 / 0.77 | all | full price |
+| AJ4 Rare Air Tour Yellow | 38 | 1.00 / 1.00 / 1.00 | all | full price ($220) |
+| Wmns AJ1 Nails & Grails | 41 | 1.00 / 0.91 / 0.82 | all | full price |
+| AJ1 High Love The Game | 73 | 0.92 / 0.85 / 0.77 | all | full price |
+| AJ3 Spring | 199 | off nike.com / 0.77 / 0.77 | all | 16% to 21% off |
+| AJ4 Toro Bravo | 136 | off nike.com / 0 / 0 | none | sold through |
+| Control: Vomero 5 | 1,108 | 1.00 / 0.77 / 0.92 | all | full price |
+
+- **[KEY FINDING] Jordan retros released just before the cut are still sitting in full size runs at full price four to ten weeks after launch.** AJ4 Rare Air Tour Yellow has every size from 7 to 13 in stock at all three retailers on day 38; AJ12 Bucks has 10 to 11 of 13 sizes on day 31 (live product data, Oct 13, 2026). That is the oversupply pattern the test was built to detect, measured directly on the shelf.
+- **History says the same:** Foot Locker captures show full or near-full runs about 30 days after release for AJ1 Black White 2.0 (12 of 13 sizes, day 24), AJ1 Black Gold (12/13, day 30), AJ3 Cement Grey (13/13, day 31), AJ5 White Black (13/13, day 22) and AJ12 French Blue (12/13, day 32). The only fast sell-through found was AJ4 White Cement 2025 (1 of 13 sizes left on day 20). Nine of about 50 shoes had usable captures.
+- **Not yet decided for the post-cut period.** The AJ1 Royal, released October 10, is in full runs at full price on day 3, which is too early to judge. **Re-run the tracker on about October 24 and November 7** (days 14 and 28). If it still shows full runs then, the pre-registered disproof is met. Holiday releases to track next: AJ12 Fireside (Oct 24), AJ4 Bred (about Nov 27) and AJ11 Space Jam (Dec 12) (secondary: release-date reports).
+- **Caveats:** "in stock" means a size can be bought online, not how many pairs exist; a retailer not listing a shoe may mean it sold out or never carried it; Finish Line and JD are not covered; some retail prices in the GOAT list are wrong (AJ12 Bucks is $215 on nike.com, not $200).
 
 ## Test 4. Resale panel: the same shoes re-priced over time
 
@@ -102,4 +119,5 @@ What this test cannot separate: units falling with flat or rising ASP is consist
 | 2026-10-13 | Document created; five tests launched. |
 | 2026-10-13 | Test 5 (units vs price) reported: 694 filing statements, two key findings. |
 | 2026-10-13 | Test 1 (factory orders) reported: Feng Tay, Pou Chen, Yue Yuen series 2013 to 2026; chart 20. |
+| 2026-10-13 | Test 3 (size runs) reported: 83 shoes at three retailers, tracker script committed; decisive re-runs on Oct 24 and Nov 7. |
 | 2026-10-13 | Session paused with Tests 2, 3 and 4 still running; their partial, unverified outputs are saved in `data/definitive/interim/` (see its README). |
