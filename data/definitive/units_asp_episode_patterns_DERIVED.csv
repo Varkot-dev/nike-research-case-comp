@@ -1,0 +1,440 @@
+period,segment,category,units_change_pct,asp_change_pct,asp_measure,rev_proxy_pct_derived,pattern_derived,discount_cited,lower_discounts_cited,episodes,filing,printed_page
+Q1FY2017,Converse,comparable_direct_distribution_total,1,3,pp_contribution,4,growth_or_flat,0,0,FY2018 reset,Q1 FY2017 Form 10-Q,31
+Q1FY2017,Greater China,apparel,15,0,flat,15,growth_or_flat,1,0,FY2018 reset,Q1 FY2017 Form 10-Q,29
+Q1FY2017,Greater China,footwear,26,-1,pct,,volume_up_price_down_discount,1,0,FY2018 reset,Q1 FY2017 Form 10-Q,29
+Q1FY2017,NIKE Brand,apparel,9,3,pp_contribution,12,growth_or_flat,0,0,FY2018 reset,Q1 FY2017 Form 10-Q,22
+Q1FY2017,NIKE Brand,footwear,6,4,pp_contribution,10,growth_or_flat,0,0,FY2018 reset,Q1 FY2017 Form 10-Q,22
+Q1FY2017,North America,apparel,9,-3,pp_contribution,6,volume_up_price_down_discount,1,0,FY2018 reset,Q1 FY2017 Form 10-Q,27
+Q1FY2017,North America,footwear,5,2,pp_contribution,7,growth_or_flat,1,0,FY2018 reset,Q1 FY2017 Form 10-Q,27
+Q2FY2017,Converse,comparable_direct_distribution_total,7,1,pp_contribution,8,growth_or_flat,0,0,FY2018 reset,Q2 FY2017 Form 10-Q,36
+Q2FY2017,Greater China,apparel,21,0,flat,21,growth_or_flat,1,0,FY2018 reset,Q2 FY2017 Form 10-Q,33
+Q2FY2017,Greater China,footwear,19,-3,pp_contribution,16,volume_up_price_down_discount,1,0,FY2018 reset,Q2 FY2017 Form 10-Q,33
+Q2FY2017,NIKE Brand,apparel,5,4,pp_contribution,9,growth_or_flat,0,0,FY2018 reset,Q2 FY2017 Form 10-Q,24
+Q2FY2017,NIKE Brand,footwear,4,3,pp_contribution,7,growth_or_flat,1,0,FY2018 reset,Q2 FY2017 Form 10-Q,24
+Q2FY2017,North America,apparel,1,3,pp_contribution,4,growth_or_flat,0,0,FY2018 reset,Q2 FY2017 Form 10-Q,30
+Q2FY2017,North America,footwear,2,1,pp_contribution,3,growth_or_flat,1,0,FY2018 reset,Q2 FY2017 Form 10-Q,30
+Q3FY2017,Converse,comparable_direct_distribution_total,-1,3,pp_contribution,2,supply_cut_pattern,0,0,FY2018 reset,Q3 FY2017 Form 10-Q,36
+Q3FY2017,Greater China,apparel,19,3,pp_contribution,22,growth_or_flat,0,0,FY2018 reset,Q3 FY2017 Form 10-Q,33
+Q3FY2017,Greater China,footwear,14,0,flat,14,growth_or_flat,1,0,FY2018 reset,Q3 FY2017 Form 10-Q,33
+Q3FY2017,NIKE Brand,apparel,6,3,pp_contribution,9,growth_or_flat,0,0,FY2018 reset,Q3 FY2017 Form 10-Q,24
+Q3FY2017,NIKE Brand,footwear,6,1,pp_contribution,7,growth_or_flat,1,0,FY2018 reset,Q3 FY2017 Form 10-Q,24
+Q3FY2017,North America,apparel,1,2,pp_contribution,3,growth_or_flat,1,0,FY2018 reset,Q3 FY2017 Form 10-Q,30
+Q3FY2017,North America,footwear,4,-1,pp_contribution,3,volume_up_price_down_discount,1,0,FY2018 reset,Q3 FY2017 Form 10-Q,30
+FY2017,APLA,apparel,3,6,pp_contribution,9,growth_or_flat,0,0,FY2018 reset,FY2018 Form 10-K,30
+FY2017,APLA,footwear,9,7,pp_contribution,16,growth_or_flat,0,0,FY2018 reset,FY2018 Form 10-K,30
+FY2017,Converse,comparable_direct_distribution_total,2,2,pp_contribution,4,growth_or_flat,0,0,FY2018 reset,FY2017 Form 10-K,34
+FY2017,EMEA,apparel,12,5,pp_contribution,17,growth_or_flat,0,0,FY2018 reset,FY2018 Form 10-K,28
+FY2017,EMEA,footwear,5,3,pp_contribution,8,growth_or_flat,0,0,FY2018 reset,FY2018 Form 10-K,28
+FY2017,Greater China,apparel,15,3,pp_contribution,18,growth_or_flat,1,0,FY2018 reset,FY2017 Form 10-K,31
+FY2017,Greater China,footwear,21,-3,pp_contribution,18,volume_up_price_down_discount,1,0,FY2018 reset,FY2017 Form 10-K,31
+FY2017,NIKE Brand,apparel,6,3,pp_contribution,9,growth_or_flat,0,0,FY2018 reset,FY2017 Form 10-K,24
+FY2017,NIKE Brand,footwear,7,1,pp_contribution,8,growth_or_flat,1,0,FY2018 reset,FY2017 Form 10-K,24
+FY2017,North America,apparel,2,1,pp_contribution,3,growth_or_flat,0,0,FY2018 reset,FY2017 Form 10-K,28
+FY2017,North America,footwear,4,0,flat,4,growth_or_flat,1,0,FY2018 reset,FY2017 Form 10-K,28
+Q1FY2018,APLA,apparel,10,-1,pp_contribution,9,volume_up_price_down_discount,1,0,FY2018 reset,Q1 FY2018 Form 10-Q,28
+Q1FY2018,APLA,footwear,6,0,flat,6,growth_or_flat,1,0,FY2018 reset,Q1 FY2018 Form 10-Q,28
+Q1FY2018,Converse,comparable_direct_distribution_total,-17,0,flat,-17,supply_cut_pattern,0,0,FY2018 reset,Q1 FY2018 Form 10-Q,29
+Q1FY2018,EMEA,apparel,13,-3,pp_contribution,10,volume_up_price_down_discount,1,0,FY2018 reset,Q1 FY2018 Form 10-Q,26
+Q1FY2018,EMEA,footwear,4,-2,pp_contribution,2,volume_up_price_down,0,0,FY2018 reset,Q1 FY2018 Form 10-Q,26
+Q1FY2018,Greater China,apparel,13,5,pp_contribution,18,growth_or_flat,0,0,FY2018 reset,Q1 FY2018 Form 10-Q,27
+Q1FY2018,Greater China,footwear,13,-3,pp_contribution,10,volume_up_price_down,0,0,FY2018 reset,Q1 FY2018 Form 10-Q,27
+Q1FY2018,NIKE Brand,apparel,3,2,pp_contribution,5,growth_or_flat,1,0,FY2018 reset,Q1 FY2018 Form 10-Q,22
+Q1FY2018,NIKE Brand,footwear,3,-2,pp_contribution,1,volume_up_price_down_discount,1,0,FY2018 reset,Q1 FY2018 Form 10-Q,22
+Q1FY2018,North America,apparel,-6,5,pp_contribution,-1,supply_cut_pattern,0,0,FY2018 reset,Q1 FY2018 Form 10-Q,26
+Q1FY2018,North America,footwear,0,-3,pp_contribution,-3,units_flat_rev_down,1,0,FY2018 reset,Q1 FY2018 Form 10-Q,26
+Q2FY2018,APLA,apparel,7,3,pp_contribution,10,growth_or_flat,1,0,FY2018 reset,Q2 FY2018 Form 10-Q,30
+Q2FY2018,APLA,footwear,7,2,pp_contribution,9,growth_or_flat,1,0,FY2018 reset,Q2 FY2018 Form 10-Q,30
+Q2FY2018,Converse,comparable_direct_distribution_total,-12,5,pp_contribution,-7,supply_cut_pattern,0,0,FY2018 reset,Q2 FY2018 Form 10-Q,31
+Q2FY2018,EMEA,apparel,12,9,pp_contribution,21,growth_or_flat,1,0,FY2018 reset,Q2 FY2018 Form 10-Q,28
+Q2FY2018,EMEA,footwear,7,4,pp_contribution,11,growth_or_flat,1,0,FY2018 reset,Q2 FY2018 Form 10-Q,28
+Q2FY2018,Greater China,apparel,8,3,pp_contribution,11,growth_or_flat,1,0,FY2018 reset,Q2 FY2018 Form 10-Q,29
+Q2FY2018,Greater China,footwear,17,0,flat,17,growth_or_flat,1,0,FY2018 reset,Q2 FY2018 Form 10-Q,29
+Q2FY2018,NIKE Brand,apparel,3,5,pp_contribution,8,growth_or_flat,1,0,FY2018 reset,Q2 FY2018 Form 10-Q,23
+Q2FY2018,NIKE Brand,footwear,0,3,pp_contribution,3,growth_or_flat,1,0,FY2018 reset,Q2 FY2018 Form 10-Q,23
+Q2FY2018,North America,apparel,-3,3,pp_contribution,0,supply_cut_pattern,1,0,FY2018 reset,Q2 FY2018 Form 10-Q,27
+Q2FY2018,North America,footwear,-11,4,pp_contribution,-7,supply_cut_pattern,0,0,FY2018 reset,Q2 FY2018 Form 10-Q,27
+Q3FY2018,APLA,apparel,9,4,pp_contribution,13,growth_or_flat,1,0,FY2018 reset,Q3 FY2018 Form 10-Q,31
+Q3FY2018,APLA,footwear,6,6,pp_contribution,12,growth_or_flat,1,0,FY2018 reset,Q3 FY2018 Form 10-Q,31
+Q3FY2018,Converse,comparable_direct_distribution_total,-15,4,pp_contribution,-11,supply_cut_pattern,0,0,FY2018 reset,Q3 FY2018 Form 10-Q,32
+Q3FY2018,EMEA,apparel,10,5,pp_contribution,15,growth_or_flat,1,0,FY2018 reset,Q3 FY2018 Form 10-Q,29
+Q3FY2018,EMEA,footwear,6,1,flat,7,growth_or_flat,1,0,FY2018 reset,Q3 FY2018 Form 10-Q,29
+Q3FY2018,Greater China,apparel,18,12,pp_contribution,30,growth_or_flat,1,0,FY2018 reset,Q3 FY2018 Form 10-Q,30
+Q3FY2018,Greater China,footwear,23,-7,pp_contribution,16,volume_up_price_down_discount,1,0,FY2018 reset,Q3 FY2018 Form 10-Q,30
+Q3FY2018,NIKE Brand,apparel,2,7,pp_contribution,9,growth_or_flat,1,0,FY2018 reset,Q3 FY2018 Form 10-Q,24
+Q3FY2018,NIKE Brand,footwear,1,1,pp_contribution,2,growth_or_flat,0,0,FY2018 reset,Q3 FY2018 Form 10-Q,24
+Q3FY2018,North America,apparel,-7,7,pp_contribution,0,supply_cut_pattern,1,0,FY2018 reset,Q3 FY2018 Form 10-Q,28
+Q3FY2018,North America,footwear,-9,1,pp_contribution,-8,supply_cut_pattern,0,0,FY2018 reset,Q3 FY2018 Form 10-Q,28
+FY2018,APLA,apparel,11,4,pp_contribution,15,growth_or_flat,1,0,FY2018 reset,FY2018 Form 10-K,30
+FY2018,APLA,footwear,5,4,pp_contribution,9,growth_or_flat,1,0,FY2018 reset,FY2018 Form 10-K,30
+FY2018,Converse,comparable_direct_distribution_total,-14,2,pp_contribution,-12,supply_cut_pattern,0,0,FY2018 reset,FY2018 Form 10-K,31
+FY2018,EMEA,apparel,12,4,pp_contribution,16,growth_or_flat,0,0,FY2018 reset,FY2018 Form 10-K,28
+FY2018,EMEA,footwear,6,0,flat,6,growth_or_flat,1,0,FY2018 reset,FY2018 Form 10-K,28
+FY2018,Greater China,apparel,20,3,pp_contribution,23,growth_or_flat,1,0,FY2018 reset,FY2018 Form 10-K,29
+FY2018,Greater China,footwear,19,-3,pp_contribution,16,volume_up_price_down_discount,1,0,FY2018 reset,FY2018 Form 10-K,29
+FY2018,NIKE Brand,apparel,4,5,pp_contribution,9,growth_or_flat,1,0,FY2018 reset,FY2018 Form 10-K,23
+FY2018,NIKE Brand,footwear,2,2,pp_contribution,4,growth_or_flat,0,0,FY2018 reset,FY2018 Form 10-K,23
+FY2018,North America,apparel,-4,5,pp_contribution,1,supply_cut_pattern,1,0,FY2018 reset,FY2018 Form 10-K,27
+FY2018,North America,footwear,-5,1,pp_contribution,-4,supply_cut_pattern,0,0,FY2018 reset,FY2018 Form 10-K,27
+Q1FY2019,APLA,apparel,9,9,pp_contribution,18,growth_or_flat,0,0,FY2018 reset,Q1 FY2019 Form 10-Q,28
+Q1FY2019,APLA,footwear,9,5,pp_contribution,14,growth_or_flat,0,0,FY2018 reset,Q1 FY2019 Form 10-Q,28
+Q1FY2019,Converse,comparable_direct_distribution_total,1,6,pp_contribution,7,growth_or_flat,0,0,FY2018 reset,Q1 FY2019 Form 10-Q,29
+Q1FY2019,EMEA,apparel,4,6,pp_contribution,10,growth_or_flat,0,0,FY2018 reset,Q1 FY2019 Form 10-Q,27
+Q1FY2019,EMEA,footwear,9,1,pp_contribution,10,growth_or_flat,0,0,FY2018 reset,Q1 FY2019 Form 10-Q,27
+Q1FY2019,Greater China,apparel,16,3,pp_contribution,19,growth_or_flat,0,0,FY2018 reset,Q1 FY2019 Form 10-Q,27
+Q1FY2019,Greater China,footwear,23,-1,pp_contribution,22,volume_up_price_down,0,0,FY2018 reset,Q1 FY2019 Form 10-Q,27
+Q1FY2019,NIKE Brand,apparel,7,4,pp_contribution,11,growth_or_flat,0,0,FY2018 reset,Q1 FY2019 Form 10-Q,23
+Q1FY2019,NIKE Brand,footwear,8,2,pp_contribution,10,growth_or_flat,0,0,FY2018 reset,Q1 FY2019 Form 10-Q,23
+Q1FY2019,North America,apparel,7,1,pp_contribution,8,growth_or_flat,1,1,FY2018 reset,Q1 FY2019 Form 10-Q,26
+Q1FY2019,North America,footwear,2,3,pp_contribution,5,growth_or_flat,1,1,FY2018 reset,Q1 FY2019 Form 10-Q,26
+Q2FY2019,APLA,apparel,11,6,pp_contribution,17,growth_or_flat,0,0,FY2018 reset,Q2 FY2019 Form 10-Q,33
+Q2FY2019,APLA,footwear,7,7,pp_contribution,14,growth_or_flat,0,0,FY2018 reset,Q2 FY2019 Form 10-Q,33
+Q2FY2019,Converse,comparable_direct_distribution_total,-1,6,pp_contribution,5,supply_cut_pattern,0,0,FY2018 reset,Q2 FY2019 Form 10-Q,34
+Q2FY2019,EMEA,apparel,8,4,pp_contribution,12,growth_or_flat,0,0,FY2018 reset,Q2 FY2019 Form 10-Q,32
+Q2FY2019,EMEA,footwear,13,2,pp_contribution,15,growth_or_flat,1,0,FY2018 reset,Q2 FY2019 Form 10-Q,32
+Q2FY2019,Greater China,apparel,15,13,pp_contribution,28,growth_or_flat,0,0,FY2018 reset,Q2 FY2019 Form 10-Q,33
+Q2FY2019,Greater China,footwear,33,0,flat,33,growth_or_flat,1,0,FY2018 reset,Q2 FY2019 Form 10-Q,33
+Q2FY2019,NIKE Brand,apparel,8,6,pp_contribution,14,growth_or_flat,0,0,FY2018 reset,Q2 FY2019 Form 10-Q,27
+Q2FY2019,NIKE Brand,footwear,12,3,pp_contribution,15,growth_or_flat,0,0,FY2018 reset,Q2 FY2019 Form 10-Q,27
+Q2FY2019,North America,apparel,6,4,pp_contribution,10,growth_or_flat,1,1,FY2018 reset,Q2 FY2019 Form 10-Q,31
+Q2FY2019,North America,footwear,6,3,pp_contribution,9,growth_or_flat,1,1,FY2018 reset,Q2 FY2019 Form 10-Q,31
+Q3FY2019,APLA,apparel,4,13,pp_contribution,17,growth_or_flat,0,0,FY2018 reset,Q3 FY2019 Form 10-Q,34
+Q3FY2019,APLA,footwear,7,6,pp_contribution,13,growth_or_flat,0,0,FY2018 reset,Q3 FY2019 Form 10-Q,34
+Q3FY2019,Converse,comparable_direct_distribution_total,-4,2,pp_contribution,-2,supply_cut_pattern,0,0,FY2018 reset,Q3 FY2019 Form 10-Q,35
+Q3FY2019,EMEA,apparel,6,5,pp_contribution,11,growth_or_flat,0,0,FY2018 reset,Q3 FY2019 Form 10-Q,32
+Q3FY2019,EMEA,footwear,8,5,pp_contribution,13,growth_or_flat,0,0,FY2018 reset,Q3 FY2019 Form 10-Q,32
+Q3FY2019,Greater China,apparel,10,16,pp_contribution,26,growth_or_flat,0,0,FY2018 reset,Q3 FY2019 Form 10-Q,33
+Q3FY2019,Greater China,footwear,10,13,pp_contribution,23,growth_or_flat,0,0,FY2018 reset,Q3 FY2019 Form 10-Q,33
+Q3FY2019,NIKE Brand,apparel,2,8,pp_contribution,10,growth_or_flat,0,0,FY2018 reset,Q3 FY2019 Form 10-Q,27
+Q3FY2019,NIKE Brand,footwear,6,7,pp_contribution,13,growth_or_flat,0,0,FY2018 reset,Q3 FY2019 Form 10-Q,27
+Q3FY2019,North America,apparel,-1,3,pp_contribution,2,supply_cut_pattern,0,0,FY2018 reset,Q3 FY2019 Form 10-Q,31
+Q3FY2019,North America,footwear,2,8,pp_contribution,10,growth_or_flat,1,1,FY2018 reset,Q3 FY2019 Form 10-Q,31
+FY2019,APLA,apparel,7,8,pp_contribution,15,growth_or_flat,0,0,FY2018 reset,FY2019 Form 10-K,-11
+FY2019,APLA,footwear,6,6,pp_contribution,12,growth_or_flat,0,0,FY2018 reset,FY2019 Form 10-K,-11
+FY2019,Converse,comparable_direct_distribution_total,-3,5,pp_contribution,2,supply_cut_pattern,0,0,FY2018 reset,FY2019 Form 10-K,35
+FY2019,EMEA,apparel,6,3,pp_contribution,9,growth_or_flat,0,0,FY2018 reset,FY2019 Form 10-K,32
+FY2019,EMEA,footwear,9,3,pp_contribution,12,growth_or_flat,0,0,FY2018 reset,FY2019 Form 10-K,32
+FY2019,Greater China,apparel,14,9,pp_contribution,23,growth_or_flat,0,0,FY2018 reset,FY2019 Form 10-K,33
+FY2019,Greater China,footwear,20,5,pp_contribution,25,growth_or_flat,0,0,FY2018 reset,FY2019 Form 10-K,33
+FY2019,NIKE Brand,apparel,6,5,pp_contribution,11,growth_or_flat,1,1,FY2018 reset,FY2019 Form 10-K,28
+FY2019,NIKE Brand,footwear,8,4,pp_contribution,12,growth_or_flat,0,0,FY2018 reset,FY2019 Form 10-K,28
+FY2019,North America,apparel,5,2,pp_contribution,7,growth_or_flat,1,1,FY2018 reset,FY2019 Form 10-K,32
+FY2019,North America,footwear,4,4,pp_contribution,8,growth_or_flat,1,1,FY2018 reset,FY2019 Form 10-K,32
+Q1FY2020,APLA,apparel,6,9,pp_contribution,15,growth_or_flat,0,0,,Q1 FY2020 Form 10-Q,30
+Q1FY2020,APLA,footwear,-2,14,pp_contribution,12,supply_cut_pattern,0,0,,Q1 FY2020 Form 10-Q,30
+Q1FY2020,Converse,total,0,10,pct,,growth_or_flat,0,0,,Q1 FY2020 Form 10-Q,31
+Q1FY2020,EMEA,apparel,8,2,pp_contribution,10,growth_or_flat,0,0,,Q1 FY2020 Form 10-Q,28
+Q1FY2020,EMEA,footwear,4,9,pp_contribution,13,growth_or_flat,0,0,,Q1 FY2020 Form 10-Q,28
+Q1FY2020,Greater China,apparel,20,8,pp_contribution,28,growth_or_flat,1,1,,Q1 FY2020 Form 10-Q,29
+Q1FY2020,Greater China,footwear,17,10,pp_contribution,27,growth_or_flat,0,0,,Q1 FY2020 Form 10-Q,29
+Q1FY2020,NIKE Brand,apparel,5,4,pp_contribution,9,growth_or_flat,1,1,,Q1 FY2020 Form 10-Q,24
+Q1FY2020,NIKE Brand,footwear,3,8,pp_contribution,11,growth_or_flat,0,0,,Q1 FY2020 Form 10-Q,24
+Q1FY2020,North America,apparel,0,2,pp_contribution,2,growth_or_flat,1,1,,Q1 FY2020 Form 10-Q,28
+Q1FY2020,North America,footwear,-1,5,pp_contribution,4,supply_cut_pattern,0,0,,Q1 FY2020 Form 10-Q,27
+Q2FY2020,APLA,apparel,7,11,pp_contribution,18,growth_or_flat,1,0,,Q2 FY2020 Form 10-Q,36
+Q2FY2020,APLA,footwear,5,14,pp_contribution,19,growth_or_flat,1,0,,Q2 FY2020 Form 10-Q,36
+Q2FY2020,Converse,total,13,3,pct,,growth_or_flat,0,0,,Q2 FY2020 Form 10-Q,38
+Q2FY2020,EMEA,apparel,16,1,pp_contribution,17,growth_or_flat,1,0,,Q2 FY2020 Form 10-Q,34
+Q2FY2020,EMEA,footwear,6,6,pp_contribution,12,growth_or_flat,1,0,,Q2 FY2020 Form 10-Q,34
+Q2FY2020,Greater China,apparel,18,0,flat,18,growth_or_flat,1,0,,Q2 FY2020 Form 10-Q,35
+Q2FY2020,Greater China,footwear,19,7,pp_contribution,26,growth_or_flat,0,0,,Q2 FY2020 Form 10-Q,35
+Q2FY2020,NIKE Brand,apparel,7,3,pp_contribution,10,growth_or_flat,0,0,,Q2 FY2020 Form 10-Q,28
+Q2FY2020,NIKE Brand,footwear,8,6,pp_contribution,14,growth_or_flat,0,0,,Q2 FY2020 Form 10-Q,28
+Q2FY2020,North America,apparel,-1,2,pp_contribution,1,supply_cut_pattern,1,1,,Q2 FY2020 Form 10-Q,33
+Q2FY2020,North America,footwear,5,3,pp_contribution,8,growth_or_flat,1,0,,Q2 FY2020 Form 10-Q,32
+Q3FY2020,APLA,apparel,18,2,pp_contribution,20,growth_or_flat,1,0,,Q3 FY2020 Form 10-Q,40
+Q3FY2020,APLA,footwear,0,11,pp_contribution,11,growth_or_flat,0,0,,Q3 FY2020 Form 10-Q,40
+Q3FY2020,Converse,total,8,3,pct,,growth_or_flat,0,0,,Q3 FY2020 Form 10-Q,42
+Q3FY2020,EMEA,apparel,21,-1,pp_contribution,20,volume_up_price_down,0,0,,Q3 FY2020 Form 10-Q,38
+Q3FY2020,EMEA,footwear,6,3,pp_contribution,9,growth_or_flat,0,0,,Q3 FY2020 Form 10-Q,38
+Q3FY2020,Greater China,apparel,-12,3,pp_contribution,-9,supply_cut_pattern,1,0,,Q3 FY2020 Form 10-Q,39
+Q3FY2020,Greater China,footwear,-5,2,pp_contribution,-3,supply_cut_pattern,0,0,,Q3 FY2020 Form 10-Q,39
+Q3FY2020,NIKE Brand,apparel,8,1,pp_contribution,9,growth_or_flat,0,0,,Q3 FY2020 Form 10-Q,31
+Q3FY2020,NIKE Brand,footwear,1,4,pp_contribution,5,growth_or_flat,0,0,,Q3 FY2020 Form 10-Q,31
+Q3FY2020,North America,apparel,2,3,pp_contribution,5,growth_or_flat,1,0,,Q3 FY2020 Form 10-Q,37
+Q3FY2020,North America,footwear,0,5,pp_contribution,5,growth_or_flat,0,0,,Q3 FY2020 Form 10-Q,37
+FY2020,APLA,apparel,-5,8,pp_contribution,3,supply_cut_pattern,0,0,,FY2020 Form 10-K,39
+FY2020,APLA,footwear,-12,12,pp_contribution,0,supply_cut_pattern,0,0,,FY2020 Form 10-K,39
+FY2020,Converse,total,-6,6,pct,,supply_cut_pattern,0,0,,FY2020 Form 10-K,40
+FY2020,EMEA,apparel,-2,4,pp_contribution,2,supply_cut_pattern,0,0,,FY2020 Form 10-K,37
+FY2020,EMEA,footwear,-10,7,pp_contribution,-3,supply_cut_pattern,0,0,,FY2020 Form 10-K,37
+FY2020,Greater China,apparel,8,0,flat,8,growth_or_flat,1,0,,FY2020 Form 10-K,38
+FY2020,Greater China,footwear,10,2,pp_contribution,12,growth_or_flat,0,0,,FY2020 Form 10-K,38
+FY2020,NIKE Brand,apparel,-8,5,pp_contribution,-3,supply_cut_pattern,0,0,,FY2020 Form 10-K,32
+FY2020,NIKE Brand,footwear,-8,6,pp_contribution,-2,supply_cut_pattern,0,0,,FY2020 Form 10-K,32
+FY2020,North America,apparel,-16,4,pp_contribution,-12,supply_cut_pattern,0,0,,FY2020 Form 10-K,36
+FY2020,North America,footwear,-13,6,pp_contribution,-7,supply_cut_pattern,0,0,,FY2020 Form 10-K,36
+Q1FY2021,APLA,apparel,-14,4,pp_contribution,-10,supply_cut_pattern,0,0,,Q1 FY2021 Form 10-Q,31
+Q1FY2021,APLA,footwear,-24,12,pp_contribution,-12,supply_cut_pattern,0,0,,Q1 FY2021 Form 10-Q,31
+Q1FY2021,Converse,total,2,0,flat,2,growth_or_flat,0,0,,Q1 FY2021 Form 10-Q,32
+Q1FY2021,EMEA,apparel,9,2,pp_contribution,11,growth_or_flat,1,1,,Q1 FY2021 Form 10-Q,29
+Q1FY2021,EMEA,footwear,-6,8,pp_contribution,2,supply_cut_pattern,1,0,,Q1 FY2021 Form 10-Q,29
+Q1FY2021,Greater China,apparel,11,-6,pp_contribution,5,volume_up_price_down_discount,1,0,,Q1 FY2021 Form 10-Q,30
+Q1FY2021,Greater China,footwear,19,-9,pp_contribution,10,volume_up_price_down,0,0,,Q1 FY2021 Form 10-Q,30
+Q1FY2021,NIKE Brand,apparel,-6,-1,pp_contribution,-7,both_down,0,0,,Q1 FY2021 Form 10-Q,24
+Q1FY2021,NIKE Brand,footwear,0,5,pp_contribution,5,growth_or_flat,0,0,,Q1 FY2021 Form 10-Q,24
+Q1FY2021,North America,apparel,-19,-2,pp_contribution,-21,both_down,0,0,,Q1 FY2021 Form 10-Q,29
+Q1FY2021,North America,footwear,6,5,pp_contribution,11,growth_or_flat,0,0,,Q1 FY2021 Form 10-Q,28
+Q2FY2021,APLA,apparel,8,1,pp_contribution,9,growth_or_flat,0,0,,Q2 FY2021 Form 10-Q,37
+Q2FY2021,APLA,footwear,-6,11,pp_contribution,5,supply_cut_pattern,0,0,,Q2 FY2021 Form 10-Q,37
+Q2FY2021,Converse,total,-11,9,pct,,supply_cut_pattern,0,0,,Q2 FY2021 Form 10-Q,39
+Q2FY2021,EMEA,apparel,19,-1,pp_contribution,18,volume_up_price_down,1,1,,Q2 FY2021 Form 10-Q,35
+Q2FY2021,EMEA,footwear,9,-1,pp_contribution,8,volume_up_price_down,0,0,,Q2 FY2021 Form 10-Q,35
+Q2FY2021,Greater China,apparel,21,-5,pp_contribution,16,volume_up_price_down_discount,1,0,,Q2 FY2021 Form 10-Q,36
+Q2FY2021,Greater China,footwear,24,-4,pp_contribution,20,volume_up_price_down,0,0,,Q2 FY2021 Form 10-Q,36
+Q2FY2021,NIKE Brand,apparel,9,-2,pp_contribution,7,volume_up_price_down_discount,1,0,,Q2 FY2021 Form 10-Q,28
+Q2FY2021,NIKE Brand,footwear,4,4,pp_contribution,8,growth_or_flat,0,0,,Q2 FY2021 Form 10-Q,28
+Q2FY2021,North America,apparel,0,-3,pp_contribution,-3,units_flat_rev_down,1,0,,Q2 FY2021 Form 10-Q,34
+Q2FY2021,North America,footwear,-4,8,pp_contribution,4,supply_cut_pattern,0,0,,Q2 FY2021 Form 10-Q,33
+Q3FY2021,APLA,apparel,-22,14,pp_contribution,-8,supply_cut_pattern,0,0,,Q3 FY2021 Form 10-Q,37
+Q3FY2021,APLA,footwear,-23,16,pp_contribution,-7,supply_cut_pattern,0,0,,Q3 FY2021 Form 10-Q,37
+Q3FY2021,Converse,total,-5,14,pct,,supply_cut_pattern,0,0,,Q3 FY2021 Form 10-Q,39
+Q3FY2021,EMEA,apparel,-11,7,pp_contribution,-4,supply_cut_pattern,1,1,,Q3 FY2021 Form 10-Q,35
+Q3FY2021,EMEA,footwear,-22,11,pp_contribution,-11,supply_cut_pattern,0,0,,Q3 FY2021 Form 10-Q,35
+Q3FY2021,Greater China,apparel,52,-8,pp_contribution,44,volume_up_price_down,0,0,,Q3 FY2021 Form 10-Q,36
+Q3FY2021,Greater China,footwear,39,2,pp_contribution,41,growth_or_flat,1,1,,Q3 FY2021 Form 10-Q,36
+Q3FY2021,NIKE Brand,apparel,-11,10,pp_contribution,-1,supply_cut_pattern,1,0,,Q3 FY2021 Form 10-Q,28
+Q3FY2021,NIKE Brand,footwear,-12,11,pp_contribution,-1,supply_cut_pattern,0,0,,Q3 FY2021 Form 10-Q,28
+Q3FY2021,North America,apparel,-18,6,pp_contribution,-12,supply_cut_pattern,1,0,,Q3 FY2021 Form 10-Q,34
+Q3FY2021,North America,footwear,-18,9,pp_contribution,-9,supply_cut_pattern,0,0,,Q3 FY2021 Form 10-Q,34
+FY2021,APLA,apparel,5,5,pp_contribution,10,growth_or_flat,0,0,,FY2021 Form 10-K,40
+FY2021,APLA,footwear,-5,13,pp_contribution,8,supply_cut_pattern,0,0,,FY2021 Form 10-K,40
+FY2021,Converse,total,9,8,pct,,growth_or_flat,0,0,,FY2021 Form 10-K,41
+FY2021,EMEA,apparel,26,-1,pp_contribution,25,volume_up_price_down,1,1,,FY2021 Form 10-K,38
+FY2021,EMEA,footwear,9,4,pp_contribution,13,growth_or_flat,0,0,,FY2021 Form 10-K,38
+FY2021,Greater China,apparel,18,1,pp_contribution,19,growth_or_flat,1,0,,FY2021 Form 10-K,39
+FY2021,Greater China,footwear,20,-1,pp_contribution,19,volume_up_price_down,1,1,,FY2021 Form 10-K,39
+FY2021,NIKE Brand,apparel,14,1,pp_contribution,15,growth_or_flat,0,0,,FY2021 Form 10-K,33
+FY2021,NIKE Brand,footwear,11,7,pp_contribution,18,growth_or_flat,1,1,,FY2021 Form 10-K,33
+FY2021,North America,apparel,8,0,flat,8,growth_or_flat,0,0,,FY2021 Form 10-K,37
+FY2021,North America,footwear,17,8,pp_contribution,25,growth_or_flat,1,0,,FY2021 Form 10-K,37
+Q1FY2022,APLA,apparel,12,14,pp_contribution,26,growth_or_flat,1,1,FY2023 inventory glut,Q1 FY2022 Form 10-Q,31
+Q1FY2022,APLA,footwear,19,14,pp_contribution,33,growth_or_flat,1,1,FY2023 inventory glut,Q1 FY2022 Form 10-Q,31
+Q1FY2022,Converse,total,-8,14,pct,,supply_cut_pattern,1,1,FY2023 inventory glut,Q1 FY2022 Form 10-Q,32
+Q1FY2022,EMEA,apparel,7,6,pp_contribution,13,growth_or_flat,0,0,FY2023 inventory glut,Q1 FY2022 Form 10-Q,29
+Q1FY2022,EMEA,footwear,2,2,pp_contribution,4,growth_or_flat,1,0,FY2023 inventory glut,Q1 FY2022 Form 10-Q,29
+Q1FY2022,Greater China,apparel,-4,-5,pp_contribution,-9,both_down,0,0,FY2023 inventory glut,Q1 FY2022 Form 10-Q,30
+Q1FY2022,Greater China,footwear,5,1,pp_contribution,6,growth_or_flat,0,0,FY2023 inventory glut,Q1 FY2022 Form 10-Q,30
+Q1FY2022,NIKE Brand,apparel,8,8,pp_contribution,16,growth_or_flat,0,0,FY2023 inventory glut,Q1 FY2022 Form 10-Q,24
+Q1FY2022,NIKE Brand,footwear,5,5,pp_contribution,10,growth_or_flat,0,0,FY2023 inventory glut,Q1 FY2022 Form 10-Q,24
+Q1FY2022,North America,apparel,13,14,pp_contribution,27,growth_or_flat,0,0,FY2023 inventory glut,Q1 FY2022 Form 10-Q,29
+Q1FY2022,North America,footwear,4,6,pp_contribution,10,growth_or_flat,0,0,FY2023 inventory glut,Q1 FY2022 Form 10-Q,28
+Q2FY2022,APLA,apparel,-20,15,pp_contribution,-5,supply_cut_pattern,1,0,FY2023 inventory glut,Q2 FY2022 Form 10-Q,37
+Q2FY2022,APLA,footwear,-25,17,pp_contribution,-8,supply_cut_pattern,1,0,FY2023 inventory glut,Q2 FY2022 Form 10-Q,37
+Q2FY2022,Converse,total,5,9,pct,,growth_or_flat,1,1,FY2023 inventory glut,Q2 FY2022 Form 10-Q,39
+Q2FY2022,EMEA,apparel,3,5,pp_contribution,8,growth_or_flat,0,0,FY2023 inventory glut,Q2 FY2022 Form 10-Q,35
+Q2FY2022,EMEA,footwear,-4,8,pp_contribution,4,supply_cut_pattern,0,0,FY2023 inventory glut,Q2 FY2022 Form 10-Q,35
+Q2FY2022,Greater China,apparel,-17,-4,pp_contribution,-21,both_down_discount,1,0,FY2023 inventory glut,Q2 FY2022 Form 10-Q,36
+Q2FY2022,Greater China,footwear,-20,-5,pp_contribution,-25,both_down,0,0,FY2023 inventory glut,Q2 FY2022 Form 10-Q,36
+Q2FY2022,NIKE Brand,apparel,-6,7,pp_contribution,1,supply_cut_pattern,1,1,FY2023 inventory glut,Q2 FY2022 Form 10-Q,28
+Q2FY2022,NIKE Brand,footwear,-7,6,pp_contribution,-1,supply_cut_pattern,0,0,FY2023 inventory glut,Q2 FY2022 Form 10-Q,28
+Q2FY2022,North America,apparel,-5,13,pp_contribution,8,supply_cut_pattern,1,1,FY2023 inventory glut,Q2 FY2022 Form 10-Q,34
+Q2FY2022,North America,footwear,7,6,pp_contribution,13,growth_or_flat,0,0,FY2023 inventory glut,Q2 FY2022 Form 10-Q,34
+Q3FY2022,APLA,apparel,15,1,pp_contribution,16,growth_or_flat,1,0,FY2023 inventory glut,Q3 FY2022 Form 10-Q,38
+Q3FY2022,APLA,footwear,9,11,pp_contribution,20,growth_or_flat,1,0,FY2023 inventory glut,Q3 FY2022 Form 10-Q,38
+Q3FY2022,Converse,total,-10,11,pct,,supply_cut_pattern,1,1,FY2023 inventory glut,Q3 FY2022 Form 10-Q,39
+Q3FY2022,EMEA,apparel,19,9,pp_contribution,28,growth_or_flat,0,0,FY2023 inventory glut,Q3 FY2022 Form 10-Q,36
+Q3FY2022,EMEA,footwear,-6,10,pp_contribution,4,supply_cut_pattern,0,0,FY2023 inventory glut,Q3 FY2022 Form 10-Q,36
+Q3FY2022,Greater China,apparel,-3,-10,pp_contribution,-13,both_down,0,0,FY2023 inventory glut,Q3 FY2022 Form 10-Q,37
+Q3FY2022,Greater China,footwear,2,-8,pp_contribution,-6,volume_up_price_down,0,0,FY2023 inventory glut,Q3 FY2022 Form 10-Q,37
+Q3FY2022,NIKE Brand,apparel,5,7,pp_contribution,12,growth_or_flat,0,0,FY2023 inventory glut,Q3 FY2022 Form 10-Q,29
+Q3FY2022,NIKE Brand,footwear,-3,8,pp_contribution,5,supply_cut_pattern,1,0,FY2023 inventory glut,Q3 FY2022 Form 10-Q,29
+Q3FY2022,North America,apparel,-6,17,pp_contribution,11,supply_cut_pattern,0,0,FY2023 inventory glut,Q3 FY2022 Form 10-Q,35
+Q3FY2022,North America,footwear,-10,16,pp_contribution,6,supply_cut_pattern,0,0,FY2023 inventory glut,Q3 FY2022 Form 10-Q,34
+FY2022,APLA,apparel,3,9,pp_contribution,12,growth_or_flat,1,1,FY2023 inventory glut,FY2022 Form 10-K,40
+FY2022,APLA,footwear,2,15,pp_contribution,17,growth_or_flat,1,1,FY2023 inventory glut,FY2022 Form 10-K,40
+FY2022,Converse,total,-6,12,pct,,supply_cut_pattern,0,0,FY2023 inventory glut,FY2022 Form 10-K,41
+FY2022,EMEA,apparel,9,7,pp_contribution,16,growth_or_flat,0,0,FY2023 inventory glut,FY2022 Form 10-K,38
+FY2022,EMEA,footwear,-1,10,pp_contribution,9,supply_cut_pattern,0,0,FY2023 inventory glut,FY2022 Form 10-K,38
+FY2022,Greater China,apparel,-15,-6,pp_contribution,-21,both_down_discount,1,0,FY2023 inventory glut,FY2022 Form 10-K,39
+FY2022,Greater China,footwear,-7,-3,pp_contribution,-10,both_down_discount,1,0,FY2023 inventory glut,FY2022 Form 10-K,39
+FY2022,NIKE Brand,apparel,0,6,pp_contribution,6,growth_or_flat,0,0,FY2023 inventory glut,FY2022 Form 10-K,33
+FY2022,NIKE Brand,footwear,-3,7,pp_contribution,4,supply_cut_pattern,1,0,FY2023 inventory glut,FY2022 Form 10-K,33
+FY2022,North America,apparel,-2,11,pp_contribution,9,supply_cut_pattern,0,0,FY2023 inventory glut,FY2022 Form 10-K,37
+FY2022,North America,footwear,-4,9,pp_contribution,5,supply_cut_pattern,0,0,FY2023 inventory glut,FY2022 Form 10-K,37
+Q1FY2023,APLA,apparel,18,1,pp_contribution,19,growth_or_flat,1,0,FY2023 inventory glut,Q1 FY2023 Form 10-Q,30
+Q1FY2023,APLA,footwear,1,14,pp_contribution,15,growth_or_flat,0,0,FY2023 inventory glut,Q1 FY2023 Form 10-Q,30
+Q1FY2023,Converse,total,-5,12,pct,,supply_cut_pattern,0,0,FY2023 inventory glut,Q1 FY2023 Form 10-Q,31
+Q1FY2023,EMEA,apparel,7,8,pp_contribution,15,growth_or_flat,0,0,FY2023 inventory glut,Q1 FY2023 Form 10-Q,28
+Q1FY2023,EMEA,footwear,0,18,pp_contribution,18,growth_or_flat,0,0,FY2023 inventory glut,Q1 FY2023 Form 10-Q,28
+Q1FY2023,Greater China,apparel,-7,-11,pp_contribution,-18,both_down_discount,1,0,FY2023 inventory glut,Q1 FY2023 Form 10-Q,29
+Q1FY2023,Greater China,footwear,-10,-1,pp_contribution,-11,both_down_discount,1,0,FY2023 inventory glut,Q1 FY2023 Form 10-Q,29
+Q1FY2023,NIKE Brand,apparel,5,2,pp_contribution,7,growth_or_flat,1,0,FY2023 inventory glut,Q1 FY2023 Form 10-Q,24
+Q1FY2023,NIKE Brand,footwear,3,9,pp_contribution,12,growth_or_flat,1,0,FY2023 inventory glut,Q1 FY2023 Form 10-Q,24
+Q1FY2023,North America,apparel,5,0,flat,5,growth_or_flat,1,0,FY2023 inventory glut,Q1 FY2023 Form 10-Q,28
+Q1FY2023,North America,footwear,10,7,pp_contribution,17,growth_or_flat,0,0,FY2023 inventory glut,Q1 FY2023 Form 10-Q,27
+Q2FY2023,APLA,apparel,22,2,pp_contribution,24,growth_or_flat,0,0,FY2023 inventory glut,Q2 FY2023 Form 10-Q,35
+Q2FY2023,APLA,footwear,38,2,pp_contribution,40,growth_or_flat,0,0,FY2023 inventory glut,Q2 FY2023 Form 10-Q,35
+Q2FY2023,Converse,total,6,5,pct,,growth_or_flat,0,0,FY2023 inventory glut,Q2 FY2023 Form 10-Q,37
+Q2FY2023,EMEA,apparel,11,17,pp_contribution,28,growth_or_flat,0,0,FY2023 inventory glut,Q2 FY2023 Form 10-Q,33
+Q2FY2023,EMEA,footwear,18,19,pp_contribution,37,growth_or_flat,0,0,FY2023 inventory glut,Q2 FY2023 Form 10-Q,33
+Q2FY2023,Greater China,apparel,-28,4,pp_contribution,-24,supply_cut_pattern,1,0,FY2023 inventory glut,Q2 FY2023 Form 10-Q,34
+Q2FY2023,Greater China,footwear,15,6,pp_contribution,21,growth_or_flat,0,0,FY2023 inventory glut,Q2 FY2023 Form 10-Q,34
+Q2FY2023,NIKE Brand,apparel,10,4,pp_contribution,14,growth_or_flat,0,0,FY2023 inventory glut,Q2 FY2023 Form 10-Q,27
+Q2FY2023,NIKE Brand,footwear,28,8,pp_contribution,36,growth_or_flat,1,0,FY2023 inventory glut,Q2 FY2023 Form 10-Q,27
+Q2FY2023,North America,apparel,15,-1,pp_contribution,14,volume_up_price_down_discount,1,0,FY2023 inventory glut,Q2 FY2023 Form 10-Q,32
+Q2FY2023,North America,footwear,37,2,pp_contribution,39,growth_or_flat,1,0,FY2023 inventory glut,Q2 FY2023 Form 10-Q,31
+Q3FY2023,APLA,apparel,-1,10,pp_contribution,9,supply_cut_pattern,1,0,FY2023 inventory glut,Q3 FY2023 Form 10-Q,36
+Q3FY2023,APLA,footwear,14,6,pp_contribution,20,growth_or_flat,0,0,FY2023 inventory glut,Q3 FY2023 Form 10-Q,36
+Q3FY2023,Converse,total,4,7,pct,,growth_or_flat,0,0,FY2023 inventory glut,Q3 FY2023 Form 10-Q,38
+Q3FY2023,EMEA,apparel,-2,12,pp_contribution,10,supply_cut_pattern,1,0,FY2023 inventory glut,Q3 FY2023 Form 10-Q,34
+Q3FY2023,EMEA,footwear,24,15,pp_contribution,39,growth_or_flat,0,0,FY2023 inventory glut,Q3 FY2023 Form 10-Q,33
+Q3FY2023,Greater China,apparel,-16,8,pp_contribution,-8,supply_cut_pattern,1,0,FY2023 inventory glut,Q3 FY2023 Form 10-Q,35
+Q3FY2023,Greater China,footwear,6,-1,pp_contribution,5,volume_up_price_down,0,0,FY2023 inventory glut,Q3 FY2023 Form 10-Q,35
+Q3FY2023,NIKE Brand,apparel,5,5,pp_contribution,10,growth_or_flat,0,0,FY2023 inventory glut,Q3 FY2023 Form 10-Q,28
+Q3FY2023,NIKE Brand,footwear,19,6,pp_contribution,25,growth_or_flat,1,0,FY2023 inventory glut,Q3 FY2023 Form 10-Q,28
+Q3FY2023,North America,apparel,20,-2,pp_contribution,18,volume_up_price_down_discount,1,0,FY2023 inventory glut,Q3 FY2023 Form 10-Q,32
+Q3FY2023,North America,footwear,26,5,pp_contribution,31,growth_or_flat,1,0,FY2023 inventory glut,Q3 FY2023 Form 10-Q,32
+FY2023,APLA,apparel,9,4,pp_contribution,13,growth_or_flat,1,0,FY2023 inventory glut,FY2023 Form 10-K,40
+FY2023,APLA,footwear,16,3,pp_contribution,19,growth_or_flat,0,0,FY2023 inventory glut,FY2023 Form 10-K,40
+FY2023,Converse,total,1,6,pct,,growth_or_flat,0,0,FY2023 inventory glut,FY2023 Form 10-K,41
+FY2023,EMEA,apparel,2,12,pp_contribution,14,growth_or_flat,1,0,FY2023 inventory glut,FY2023 Form 10-K,38
+FY2023,EMEA,footwear,9,16,pp_contribution,25,growth_or_flat,0,0,FY2023 inventory glut,FY2023 Form 10-K,38
+FY2023,Greater China,apparel,-8,1,pp_contribution,-7,supply_cut_pattern,1,0,FY2023 inventory glut,FY2023 Form 10-K,39
+FY2023,Greater China,footwear,7,1,pp_contribution,8,growth_or_flat,0,0,FY2023 inventory glut,FY2023 Form 10-K,39
+FY2023,NIKE Brand,apparel,4,4,pp_contribution,8,growth_or_flat,1,0,FY2023 inventory glut,FY2023 Form 10-K,33
+FY2023,NIKE Brand,footwear,13,7,pp_contribution,20,growth_or_flat,1,0,FY2023 inventory glut,FY2023 Form 10-K,33
+FY2023,North America,apparel,7,2,pp_contribution,9,growth_or_flat,1,0,FY2023 inventory glut,FY2023 Form 10-K,37
+FY2023,North America,footwear,17,5,pp_contribution,22,growth_or_flat,1,0,FY2023 inventory glut,FY2023 Form 10-K,37
+Q1FY2024,APLA,apparel,-17,8,pp_contribution,-9,supply_cut_pattern,1,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q1 FY2024 Form 10-Q,30
+Q1FY2024,APLA,footwear,7,0,slightly_up,7,growth_or_flat,0,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q1 FY2024 Form 10-Q,30
+Q1FY2024,Converse,total,-6,-3,pct,,both_down_discount,1,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q1 FY2024 Form 10-Q,31
+Q1FY2024,EMEA,apparel,-15,12,pp_contribution,-3,supply_cut_pattern,0,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q1 FY2024 Form 10-Q,28
+Q1FY2024,EMEA,footwear,2,8,pp_contribution,10,growth_or_flat,0,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q1 FY2024 Form 10-Q,28
+Q1FY2024,Greater China,apparel,-2,16,pp_contribution,14,supply_cut_pattern,1,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q1 FY2024 Form 10-Q,29
+Q1FY2024,Greater China,footwear,9,2,pp_contribution,11,growth_or_flat,0,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q1 FY2024 Form 10-Q,29
+Q1FY2024,NIKE Brand,apparel,-12,11,pp_contribution,-1,supply_cut_pattern,0,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q1 FY2024 Form 10-Q,24
+Q1FY2024,NIKE Brand,footwear,-1,5,pp_contribution,4,supply_cut_pattern,1,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q1 FY2024 Form 10-Q,24
+Q1FY2024,North America,apparel,-11,10,pp_contribution,-1,supply_cut_pattern,0,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q1 FY2024 Form 10-Q,27
+Q1FY2024,North America,footwear,-10,8,pp_contribution,-2,supply_cut_pattern,0,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q1 FY2024 Form 10-Q,27
+Q2FY2024,APLA,apparel,-9,7,pp_contribution,-2,supply_cut_pattern,1,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q2 FY2024 Form 10-Q,35
+Q2FY2024,APLA,footwear,10,5,pp_contribution,15,growth_or_flat,1,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q2 FY2024 Form 10-Q,35
+Q2FY2024,Converse,total,-13,0,flat,-13,supply_cut_pattern,0,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q2 FY2024 Form 10-Q,37
+Q2FY2024,EMEA,apparel,-21,11,pp_contribution,-10,supply_cut_pattern,0,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q2 FY2024 Form 10-Q,32
+Q2FY2024,EMEA,footwear,-5,6,pp_contribution,1,supply_cut_pattern,0,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q2 FY2024 Form 10-Q,32
+Q2FY2024,Greater China,apparel,16,8,pp_contribution,24,growth_or_flat,1,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q2 FY2024 Form 10-Q,34
+Q2FY2024,Greater China,footwear,3,0,flat,3,growth_or_flat,1,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q2 FY2024 Form 10-Q,34
+Q2FY2024,NIKE Brand,apparel,-15,13,pp_contribution,-2,supply_cut_pattern,1,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q2 FY2024 Form 10-Q,27
+Q2FY2024,NIKE Brand,footwear,-6,6,pp_contribution,0,supply_cut_pattern,1,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q2 FY2024 Form 10-Q,27
+Q2FY2024,North America,apparel,-16,15,pp_contribution,-1,supply_cut_pattern,0,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q2 FY2024 Form 10-Q,31
+Q2FY2024,North America,footwear,-17,12,pp_contribution,-5,supply_cut_pattern,0,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q2 FY2024 Form 10-Q,31
+Q3FY2024,APLA,apparel,-6,3,pp_contribution,-3,supply_cut_pattern,1,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q3 FY2024 Form 10-Q,37
+Q3FY2024,APLA,footwear,4,1,pp_contribution,5,growth_or_flat,1,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q3 FY2024 Form 10-Q,37
+Q3FY2024,Converse,total,-17,-3,pct,,both_down_discount,1,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q3 FY2024 Form 10-Q,39
+Q3FY2024,EMEA,apparel,-19,9,pp_contribution,-10,supply_cut_pattern,0,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q3 FY2024 Form 10-Q,35
+Q3FY2024,EMEA,footwear,-9,6,pp_contribution,-3,supply_cut_pattern,0,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q3 FY2024 Form 10-Q,35
+Q3FY2024,Greater China,apparel,10,0,flat,10,growth_or_flat,1,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q3 FY2024 Form 10-Q,36
+Q3FY2024,Greater China,footwear,9,-4,pp_contribution,5,volume_up_price_down,0,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q3 FY2024 Form 10-Q,36
+Q3FY2024,NIKE Brand,apparel,-8,5,pp_contribution,-3,supply_cut_pattern,1,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q3 FY2024 Form 10-Q,28
+Q3FY2024,NIKE Brand,footwear,2,1,pp_contribution,3,growth_or_flat,1,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q3 FY2024 Form 10-Q,28
+Q3FY2024,North America,apparel,-5,4,pp_contribution,-1,supply_cut_pattern,0,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q3 FY2024 Form 10-Q,33
+Q3FY2024,North America,footwear,7,-3,pp_contribution,4,volume_up_price_down,0,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,Q3 FY2024 Form 10-Q,33
+FY2024,APLA,apparel,-9,7,pp_contribution,-2,supply_cut_pattern,1,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,FY2024 Form 10-K,42
+FY2024,APLA,footwear,6,1,pp_contribution,7,growth_or_flat,1,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,FY2024 Form 10-K,42
+FY2024,Converse,total,-12,-3,pct,,both_down_discount,1,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,FY2024 Form 10-K,43
+FY2024,EMEA,apparel,-17,11,pp_contribution,-6,supply_cut_pattern,0,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,FY2024 Form 10-K,40
+FY2024,EMEA,footwear,-4,5,pp_contribution,1,supply_cut_pattern,0,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,FY2024 Form 10-K,40
+FY2024,Greater China,apparel,7,7,pp_contribution,14,growth_or_flat,1,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,FY2024 Form 10-K,41
+FY2024,Greater China,footwear,8,-2,pp_contribution,6,volume_up_price_down,0,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,FY2024 Form 10-K,41
+FY2024,NIKE Brand,apparel,-9,9,pp_contribution,0,supply_cut_pattern,1,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,FY2024 Form 10-K,35
+FY2024,NIKE Brand,footwear,-2,3,pp_contribution,1,supply_cut_pattern,1,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,FY2024 Form 10-K,35
+FY2024,North America,apparel,-6,6,pp_contribution,0,supply_cut_pattern,0,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,FY2024 Form 10-K,39
+FY2024,North America,footwear,-7,5,pp_contribution,-2,supply_cut_pattern,0,0,FY2023 inventory glut;FY2025 to Q1 FY2027 cleanup,FY2024 Form 10-K,39
+Q1FY2025,APLA,apparel,-6,4,pp_contribution,-2,supply_cut_pattern,0,0,FY2025 to Q1 FY2027 cleanup,Q1 FY2025 Form 10-Q,27
+Q1FY2025,APLA,footwear,-4,1,pp_contribution,-3,supply_cut_pattern,1,0,FY2025 to Q1 FY2027 cleanup,Q1 FY2025 Form 10-Q,27
+Q1FY2025,Converse,total,-11,-3,pct,,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q1 FY2025 Form 10-Q,28
+Q1FY2025,EMEA,apparel,-12,1,pp_contribution,-11,supply_cut_pattern,1,1,FY2025 to Q1 FY2027 cleanup,Q1 FY2025 Form 10-Q,26
+Q1FY2025,EMEA,footwear,-13,1,pp_contribution,-12,supply_cut_pattern,1,0,FY2025 to Q1 FY2027 cleanup,Q1 FY2025 Form 10-Q,26
+Q1FY2025,Greater China,apparel,-15,6,pp_contribution,-9,supply_cut_pattern,0,0,FY2025 to Q1 FY2027 cleanup,Q1 FY2025 Form 10-Q,26
+Q1FY2025,Greater China,footwear,-1,-1,pp_contribution,-2,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q1 FY2025 Form 10-Q,26
+Q1FY2025,NIKE Brand,apparel,-12,3,pp_contribution,-9,supply_cut_pattern,1,1,FY2025 to Q1 FY2027 cleanup,Q1 FY2025 Form 10-Q,22
+Q1FY2025,NIKE Brand,footwear,-10,0,flat,-10,supply_cut_pattern,1,0,FY2025 to Q1 FY2027 cleanup,Q1 FY2025 Form 10-Q,22
+Q1FY2025,North America,apparel,-12,2,pp_contribution,-10,supply_cut_pattern,1,1,FY2025 to Q1 FY2027 cleanup,Q1 FY2025 Form 10-Q,25
+Q1FY2025,North America,footwear,-15,1,pp_contribution,-14,supply_cut_pattern,1,0,FY2025 to Q1 FY2027 cleanup,Q1 FY2025 Form 10-Q,25
+Q2FY2025,APLA,apparel,-3,3,pp_contribution,0,supply_cut_pattern,1,1,FY2025 to Q1 FY2027 cleanup,Q2 FY2025 Form 10-Q,33
+Q2FY2025,APLA,footwear,-2,-2,pp_contribution,-4,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q2 FY2025 Form 10-Q,33
+Q2FY2025,Converse,total,-12,-6,pct,,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q2 FY2025 Form 10-Q,34
+Q2FY2025,EMEA,apparel,-10,2,pp_contribution,-8,supply_cut_pattern,1,1,FY2025 to Q1 FY2027 cleanup,Q2 FY2025 Form 10-Q,30
+Q2FY2025,EMEA,footwear,-11,-1,pp_contribution,-12,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q2 FY2025 Form 10-Q,30
+Q2FY2025,Greater China,apparel,-7,4,pp_contribution,-3,supply_cut_pattern,0,0,FY2025 to Q1 FY2027 cleanup,Q2 FY2025 Form 10-Q,31
+Q2FY2025,Greater China,footwear,-9,-5,pp_contribution,-14,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q2 FY2025 Form 10-Q,31
+Q2FY2025,NIKE Brand,apparel,0,-2,pp_contribution,-2,units_flat_rev_down,1,0,FY2025 to Q1 FY2027 cleanup,Q2 FY2025 Form 10-Q,25
+Q2FY2025,NIKE Brand,footwear,-7,-5,pp_contribution,-12,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q2 FY2025 Form 10-Q,25
+Q2FY2025,North America,apparel,11,-10,pp_contribution,1,volume_up_price_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q2 FY2025 Form 10-Q,29
+Q2FY2025,North America,footwear,-6,-8,pp_contribution,-14,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q2 FY2025 Form 10-Q,29
+Q3FY2025,APLA,apparel,-1,0,flat,-1,supply_cut_pattern,1,0,FY2025 to Q1 FY2027 cleanup,Q3 FY2025 Form 10-Q,35
+Q3FY2025,APLA,footwear,-2,-3,pp_contribution,-5,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q3 FY2025 Form 10-Q,35
+Q3FY2025,Converse,total,-6,-10,pct,,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q3 FY2025 Form 10-Q,37
+Q3FY2025,EMEA,apparel,-1,-3,pp_contribution,-4,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q3 FY2025 Form 10-Q,33
+Q3FY2025,EMEA,footwear,-4,-3,pp_contribution,-7,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q3 FY2025 Form 10-Q,33
+Q3FY2025,Greater China,apparel,-19,4,pp_contribution,-15,supply_cut_pattern,0,0,FY2025 to Q1 FY2027 cleanup,Q3 FY2025 Form 10-Q,34
+Q3FY2025,Greater China,footwear,-15,0,flat,-15,supply_cut_pattern,1,0,FY2025 to Q1 FY2027 cleanup,Q3 FY2025 Form 10-Q,34
+Q3FY2025,NIKE Brand,apparel,0,-1,pp_contribution,-1,units_flat_rev_down,1,0,FY2025 to Q1 FY2027 cleanup,Q3 FY2025 Form 10-Q,27
+Q3FY2025,NIKE Brand,footwear,-8,-1,pp_contribution,-9,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q3 FY2025 Form 10-Q,27
+Q3FY2025,North America,apparel,6,2,pp_contribution,8,growth_or_flat,0,0,FY2025 to Q1 FY2027 cleanup,Q3 FY2025 Form 10-Q,32
+Q3FY2025,North America,footwear,-8,-1,pp_contribution,-9,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q3 FY2025 Form 10-Q,32
+FY2025,APLA,apparel,-3,2,pp_contribution,-1,supply_cut_pattern,1,0,FY2025 to Q1 FY2027 cleanup,FY2025 Form 10-K,41
+FY2025,APLA,footwear,-2,-2,pp_contribution,-4,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,FY2025 Form 10-K,41
+FY2025,Converse,total,-12,-6,pp_contribution,-18,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,FY2025 Form 10-K,43
+FY2025,EMEA,apparel,-6,-3,pp_contribution,-9,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,FY2025 Form 10-K,39
+FY2025,EMEA,footwear,-8,-2,pp_contribution,-10,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,FY2025 Form 10-K,39
+FY2025,Greater China,apparel,-17,5,pp_contribution,-12,supply_cut_pattern,1,0,FY2025 to Q1 FY2027 cleanup,FY2025 Form 10-K,40
+FY2025,Greater China,footwear,-11,-2,pp_contribution,-13,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,FY2025 Form 10-K,40
+FY2025,NIKE Brand,apparel,-5,0,flat,-5,supply_cut_pattern,1,0,FY2025 to Q1 FY2027 cleanup,FY2025 Form 10-K,34
+FY2025,NIKE Brand,footwear,-8,-3,pp_contribution,-11,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,FY2025 Form 10-K,34
+FY2025,North America,apparel,-1,-1,pp_contribution,-2,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,FY2025 Form 10-K,38
+FY2025,North America,footwear,-10,-3,pp_contribution,-13,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,FY2025 Form 10-K,38
+Q1FY2026,APLA,apparel,10,-5,pp_contribution,5,volume_up_price_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q1 FY2026 Form 10-Q,28
+Q1FY2026,APLA,footwear,5,-5,pp_contribution,0,volume_up_price_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q1 FY2026 Form 10-Q,28
+Q1FY2026,Converse,total,-22,-6,pp_contribution,-28,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q1 FY2026 Form 10-Q,30
+Q1FY2026,EMEA,apparel,8,-2,pp_contribution,6,volume_up_price_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q1 FY2026 Form 10-Q,26
+Q1FY2026,EMEA,footwear,4,-6,pp_contribution,-2,volume_up_price_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q1 FY2026 Form 10-Q,26
+Q1FY2026,Greater China,apparel,-2,2,pp_contribution,0,supply_cut_pattern,1,0,FY2025 to Q1 FY2027 cleanup,Q1 FY2026 Form 10-Q,27
+Q1FY2026,Greater China,footwear,-11,-1,pp_contribution,-12,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q1 FY2026 Form 10-Q,27
+Q1FY2026,NIKE Brand,apparel,10,-3,pp_contribution,7,volume_up_price_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q1 FY2026 Form 10-Q,22
+Q1FY2026,NIKE Brand,footwear,2,-4,pp_contribution,-2,volume_up_price_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q1 FY2026 Form 10-Q,22
+Q1FY2026,North America,apparel,16,-5,pp_contribution,11,volume_up_price_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q1 FY2026 Form 10-Q,25
+Q1FY2026,North America,footwear,5,-5,pp_contribution,0,volume_up_price_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q1 FY2026 Form 10-Q,25
+Q2FY2026,APLA,apparel,7,-1,pp_contribution,6,volume_up_price_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q2 FY2026 Form 10-Q,34
+Q2FY2026,APLA,footwear,-7,0,flat,-7,supply_cut_pattern,1,0,FY2025 to Q1 FY2027 cleanup,Q2 FY2026 Form 10-Q,34
+Q2FY2026,Converse,total,-26,-5,pp_contribution,-31,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q2 FY2026 Form 10-Q,35
+Q2FY2026,EMEA,apparel,7,-6,pp_contribution,1,volume_up_price_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q2 FY2026 Form 10-Q,31
+Q2FY2026,EMEA,footwear,0,-2,pp_contribution,-2,units_flat_rev_down,1,0,FY2025 to Q1 FY2027 cleanup,Q2 FY2026 Form 10-Q,31
+Q2FY2026,Greater China,apparel,-12,6,pp_contribution,-6,supply_cut_pattern,1,1,FY2025 to Q1 FY2027 cleanup,Q2 FY2026 Form 10-Q,32
+Q2FY2026,Greater China,footwear,-20,0,flat,-20,supply_cut_pattern,1,1,FY2025 to Q1 FY2027 cleanup,Q2 FY2026 Form 10-Q,32
+Q2FY2026,NIKE Brand,apparel,4,0,flat,4,growth_or_flat,1,0,FY2025 to Q1 FY2027 cleanup,Q2 FY2026 Form 10-Q,26
+Q2FY2026,NIKE Brand,footwear,0,-1,pp_contribution,-1,units_flat_rev_down,1,0,FY2025 to Q1 FY2027 cleanup,Q2 FY2026 Form 10-Q,26
+Q2FY2026,North America,apparel,3,4,pp_contribution,7,growth_or_flat,1,1,FY2025 to Q1 FY2027 cleanup,Q2 FY2026 Form 10-Q,30
+Q2FY2026,North America,footwear,14,-5,pp_contribution,9,volume_up_price_down,0,0,FY2025 to Q1 FY2027 cleanup,Q2 FY2026 Form 10-Q,30
+Q3FY2026,APLA,apparel,4,0,flat,4,growth_or_flat,1,0,FY2025 to Q1 FY2027 cleanup,Q3 FY2026 Form 10-Q,38
+Q3FY2026,APLA,footwear,-3,0,flat,-3,supply_cut_pattern,1,0,FY2025 to Q1 FY2027 cleanup,Q3 FY2026 Form 10-Q,38
+Q3FY2026,Converse,total,-37,0,flat,-37,supply_cut_pattern,0,0,FY2025 to Q1 FY2027 cleanup,Q3 FY2026 Form 10-Q,39
+Q3FY2026,EMEA,apparel,-8,0,flat,-8,supply_cut_pattern,1,0,FY2025 to Q1 FY2027 cleanup,Q3 FY2026 Form 10-Q,35
+Q3FY2026,EMEA,footwear,-4,-3,pp_contribution,-7,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q3 FY2026 Form 10-Q,35
+Q3FY2026,Greater China,apparel,-9,2,pp_contribution,-7,supply_cut_pattern,1,1,FY2025 to Q1 FY2027 cleanup,Q3 FY2026 Form 10-Q,36
+Q3FY2026,Greater China,footwear,-10,0,flat,-10,supply_cut_pattern,1,1,FY2025 to Q1 FY2027 cleanup,Q3 FY2026 Form 10-Q,36
+Q3FY2026,NIKE Brand,apparel,-3,-1,pp_contribution,-4,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q3 FY2026 Form 10-Q,29
+Q3FY2026,NIKE Brand,footwear,-2,1,pp_contribution,-1,supply_cut_pattern,0,0,FY2025 to Q1 FY2027 cleanup,Q3 FY2026 Form 10-Q,29
+Q3FY2026,North America,apparel,-1,-1,pp_contribution,-2,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q3 FY2026 Form 10-Q,33
+Q3FY2026,North America,footwear,4,2,pp_contribution,6,growth_or_flat,0,0,FY2025 to Q1 FY2027 cleanup,Q3 FY2026 Form 10-Q,33
+FY2026,APLA,apparel,5,0,flat,5,growth_or_flat,1,0,FY2025 to Q1 FY2027 cleanup,FY2026 Form 10-K,40
+FY2026,APLA,footwear,-3,0,flat,-3,supply_cut_pattern,1,0,FY2025 to Q1 FY2027 cleanup,FY2026 Form 10-K,40
+FY2026,Converse,total,-31,-1,pp_contribution,-32,both_down,0,0,FY2025 to Q1 FY2027 cleanup,FY2026 Form 10-K,42
+FY2026,EMEA,apparel,1,-1,pp_contribution,0,volume_up_price_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,FY2026 Form 10-K,38
+FY2026,EMEA,footwear,-2,-3,pp_contribution,-5,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,FY2026 Form 10-K,38
+FY2026,Greater China,apparel,-8,1,pp_contribution,-7,supply_cut_pattern,0,0,FY2025 to Q1 FY2027 cleanup,FY2026 Form 10-K,39
+FY2026,Greater China,footwear,-14,-1,pp_contribution,-15,both_down,1,1,FY2025 to Q1 FY2027 cleanup,FY2026 Form 10-K,39
+FY2026,NIKE Brand,apparel,1,1,pp_contribution,2,growth_or_flat,1,0,FY2025 to Q1 FY2027 cleanup,FY2026 Form 10-K,33
+FY2026,NIKE Brand,footwear,-1,-1,pp_contribution,-2,both_down,0,0,FY2025 to Q1 FY2027 cleanup,FY2026 Form 10-K,33
+FY2026,North America,apparel,2,2,pp_contribution,4,growth_or_flat,0,0,FY2025 to Q1 FY2027 cleanup,FY2026 Form 10-K,37
+FY2026,North America,footwear,6,-1,pp_contribution,5,volume_up_price_down,0,0,FY2025 to Q1 FY2027 cleanup,FY2026 Form 10-K,37
+Q1FY2027,APLA,apparel,3,1,pp_contribution,4,growth_or_flat,1,0,FY2025 to Q1 FY2027 cleanup,Q1 FY2027 Form 10-Q,29
+Q1FY2027,APLA,footwear,0,-1,pp_contribution,-1,units_flat_rev_down,1,0,FY2025 to Q1 FY2027 cleanup,Q1 FY2027 Form 10-Q,29
+Q1FY2027,Converse,total,-34,6,pp_contribution,-28,supply_cut_pattern,1,1,FY2025 to Q1 FY2027 cleanup,Q1 FY2027 Form 10-Q,31
+Q1FY2027,EMEA,apparel,2,3,pp_contribution,5,growth_or_flat,1,0,FY2025 to Q1 FY2027 cleanup,Q1 FY2027 Form 10-Q,27
+Q1FY2027,EMEA,footwear,-5,-6,pp_contribution,-11,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q1 FY2027 Form 10-Q,27
+Q1FY2027,Greater China,apparel,-25,-2,pp_contribution,-27,both_down,1,1,FY2025 to Q1 FY2027 cleanup,Q1 FY2027 Form 10-Q,28
+Q1FY2027,Greater China,footwear,-26,0,flat,-26,supply_cut_pattern,1,1,FY2025 to Q1 FY2027 cleanup,Q1 FY2027 Form 10-Q,28
+Q1FY2027,NIKE Brand,apparel,-2,4,pp_contribution,2,supply_cut_pattern,1,0,FY2025 to Q1 FY2027 cleanup,Q1 FY2027 Form 10-Q,23
+Q1FY2027,NIKE Brand,footwear,-5,-1,pp_contribution,-6,both_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q1 FY2027 Form 10-Q,23
+Q1FY2027,North America,apparel,0,6,pp_contribution,6,growth_or_flat,1,0,FY2025 to Q1 FY2027 cleanup,Q1 FY2027 Form 10-Q,26
+Q1FY2027,North America,footwear,2,-1,pp_contribution,1,volume_up_price_down_discount,1,0,FY2025 to Q1 FY2027 cleanup,Q1 FY2027 Form 10-Q,26
