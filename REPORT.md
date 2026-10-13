@@ -16,7 +16,7 @@
 2. [Finance primer for beginners](#2-finance-primer-for-beginners)
 3. [What Nike is and what went wrong](#3-what-nike-is-and-what-went-wrong)
 4. [The strategic shift: Win Now, Sport Offense, Pace](#4-the-strategic-shift-win-now-sport-offense-pace)
-5. [The financials, with charts](#5-the-financials-with-charts) (5.7 to 5.10 regional profit, channel economics, Converse and product; 5.11 revenue streams; 5.12 Jordan Brand and the evidence test)
+5. [The financials, with charts](#5-the-financials-with-charts) (5.7 to 5.10 regional profit, channel economics, Converse and product; 5.11 revenue streams; 5.12 Jordan Brand, the evidence test and valuation)
 6. [The stock: price, valuation, dividend, analysts](#6-the-stock-price-valuation-dividend-analysts)
 7. [People: the leadership thesis](#7-people-the-leadership-thesis)
 8. [Executive deep dives: current leadership](#8-executive-deep-dives-current-leadership)
@@ -398,6 +398,22 @@ The full list of 40 launches, with channel, geography and sources, is in `resear
 
 **What will settle it:** whether the holiday 2026 retros (AJ4 Bred, AJ11 Space Jam, AJ12 Fireside) trade above retail on GOAT and StockX; any Jordan units, price or inventory disclosure at Investor Day (Nov 16 to 17, 2026); whether Jordan's mid-teens decline narrows on the Q2 FY2027 call. Full analysis, sources and verification status: `research_notes/12_jordan_brand_thesis.md` and `research_notes/jordan_extracts/`.
 
+**What Jordan is worth (illustrative scenario valuation).**
+
+![Jordan valuation](charts/19_jordan_valuation.png)
+
+Nike discloses no Jordan profit, so this is a scenario DCF with labelled assumptions. It uses the same conventions as the repo's reverse DCF: 10% WACC, 22.5% tax, 1,487M shares and NKE at $35.35. Every scenario starts from FY2026 revenue of $7,034M (FY26 10-K p. 32) and a -15% FY2027 (Q1 FY27 call: "falling by mid-teens"). Full method and sensitivity: `research_notes/13_jordan_valuation.md`.
+
+| Scenario (assumptions) | FY2031 revenue | FY2031 EBIT margin | FY2031 EPS contribution | Value per NKE share | Share of price |
+|---|---|---|---|---|---|
+| Bear: no recovery, flat from FY2029 | $5.5B | 8% | $0.23 | $2.32 | 7% |
+| Base: +5% a year from FY2029 | $6.7B | 11% | $0.39 | $3.79 | 11% |
+| Bull: FY2018 replay, back to the FY2024 peak by FY2031 | $8.7B | 14% | $0.63 | $5.96 | 17% |
+
+- **Jordan is about a 10% lever on the stock.** The bull-to-bear spread is $3.64 a share. In earnings terms the spread is about $0.40 of FY2031 EPS, roughly a third of the FY2027 adjusted EPS guidance midpoint of $1.25 (my arithmetic).
+- **The market already pays close to the bull case (my inference).** Jordan's FY2026 revenue at NKE's own EV/Sales of about 1.2x is worth $5.68 a share, near the bull DCF. That is because NKE's multiple already embeds a return to 12% to 14% margins. On these assumptions Jordan is mainly a downside risk of about $2 to $3.50 a share, unless it beats the bull case.
+- **Margin matters more than volume.** On the base revenue path, moving from an 8% to a 14% margin adds $1.99 a share. Moving from the bear to the bull revenue path at an 11% margin adds $1.57. Fewer pairs sold at full price can be worth more than more pairs sold at a discount.
+
 ---
 
 ## 6. The stock: price, valuation, dividend, analysts
@@ -600,7 +616,7 @@ The full list of 40 launches, with channel, geography and sources, is in `resear
 
 ![Illustrative scenarios](charts/10_scenarios_illustrative.png)
 
-**This chart demonstrates a method only. The EPS and P/E inputs are placeholder assumptions I chose, not forecasts and not sourced.** The only sourced reference points are the FY2027 adjusted EPS outlook of $1.15 to $1.35 (Q1 FY27 release p. 1) and the $35.35 close (market data).
+**This chart demonstrates a method only. The EPS and P/E inputs are placeholder assumptions I chose, not forecasts and not sourced.** A sourced, scenario-based valuation of one business line, Jordan, built on the repo's reverse DCF conventions, is in Section 5.12 and `research_notes/13_jordan_valuation.md`. The only sourced reference points are the FY2027 adjusted EPS outlook of $1.15 to $1.35 (Q1 FY27 release p. 1) and the $35.35 close (market data).
 
 **How the method works:** a share price roughly equals the **EPS** investors expect times the **P/E multiple** they will pay. Bear, base and bull cases choose different combinations.
 
@@ -670,6 +686,7 @@ Ordered by value for a case built on the leadership thesis:
 **Added October 13, 2026:**
 - Sections 5.11 (revenue streams) and 5.12 (Jordan Brand), charts 16 and 17, `research_notes/11_revenue_streams.md`, `research_notes/12_jordan_brand_thesis.md` and `research_notes/jordan_extracts/`.
 - **Jordan data fix.** `revenue_jordan` in `data/nike_filing_facts.csv` holds first-reported values, so FY2023 and FY2024 are on the wholesale equivalent basis and FY2025 and FY2026 on the reported basis. Chaining them gives FY2025 growth of +4% instead of the filed -16%. A consistent series, `revenue_jordan_reported_basis` (FY2023 to FY2026), was added from the FY25 and FY26 10-Ks.
+- **Jordan scenario valuation added** (Section 5.12, chart 19, `research_notes/13_jordan_valuation.md`, `scripts/jordan_valuation.py`, `data/valuation/jordan_scenarios.csv`, `data/valuation/jordan_sensitivity.csv`, `data/valuation/peer_ev_ebit_20261013.csv`). Branches eloquent-feynman, wonderful-franklin, stoic-shannon and zealous-mccarthy were merged; revenue streams and Jordan became Sections 5.11 and 5.12, notes 11 to 13 and charts 16 to 19.
 - **Jordan evidence test added.** Ten research lines (Foot Locker, DICK'S, JD Sports, other retailers, resale prices, release counts, FY2018 analog, alternative explanations, peers, consumer interest), chart 18, and data files `data/jordan_resale_goat_20261013.csv`, `data/google_trends_jordan_julsep.csv`, `data/jordan_retro_release_counts_annual.csv` and `data/piper_sandler_nike_teen_mindshare.csv`. The Jordan thesis changed from "deliberate scarcity reset" to "oversupply, then a supply cut that has not yet worked". A personal email address was removed from a methods note, and research no longer sends one in requests.
 - Dropped as unverifiable: "more than 700 Jordan styles a year in 2022 and 2023" (traced only to an unsourced blog). SneakerPing's 605 Jordan items are a resale sample, not a release count.
 - Market claims in Section 5.12 come from opened pages; claims seen only in search snippets (for example, Evercore's Jordan reasoning and Piper Sandler's 2026 schedule) are excluded.
@@ -800,7 +817,7 @@ The full list of 102 documents with URLs is in `research_notes/04_financial_data
 | `data/nke_daily_prices.csv`, `data/nke_dividends_exdate.csv` | Market data (Yahoo Finance), pulled Oct 12, 2026 |
 | `data/people_events.csv` | The named-exit list behind charts 6 and 7, with a source per row |
 | `data/nike_channel_split.csv`, `data/nike_region_profitability.csv` | Revenue by segment and channel; region-by-year revenue, Direct share, EBIT and gross margin (built by `scripts/build_region_channel.py`) |
-| `charts/` | 18 charts, all generated from the files in `data/` |
+| `charts/` | 19 charts, all generated from the files in `data/` |
 | `scripts/make_charts.py` | Rebuilds every chart (`pip install matplotlib numpy`, then `python3 scripts/make_charts.py`) |
 | `scripts/build_data_pack.py` | Rebuilds `research_notes/04_financial_data_pack.md` from the facts file |
-| `research_notes/` | Research notes; `04_financial_data_pack.md` is the cited financial tables, `06` to `10` cover regional profit, products, Converse and channel margins, `11_revenue_streams.md` and `12_jordan_brand_thesis.md` cover revenue mix and Jordan |
+| `research_notes/` | Research notes; `04_financial_data_pack.md` is the cited financial tables, `06` to `10` cover regional profit, products, Converse and channel margins, `11_revenue_streams.md`, `12_jordan_brand_thesis.md` and `13_jordan_valuation.md` cover revenue mix, Jordan and its valuation |
