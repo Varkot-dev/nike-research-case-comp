@@ -1,0 +1,84 @@
+style_code,name,group,gender,release,days,nike_status,nike_start,nike_share,nike_core,fl_share,fl_core,fl_price_vs_retail,ch_share,ch_core,ch_price_vs_retail,max_share_any_retailer_DERIVED,min_price_vs_retail_any_DERIVED,retail
+IB1873-102,Nike Pegasus 42 (men),control,men,,187,ACTIVE,2026-04-09,1.0,5/5,0.154,1/5,0.0,0.769,5/5,0.0,1.0,0.0,145.0
+IB1873-105,Nike Pegasus 42 (men),control,men,,115,ACTIVE,2026-06-20,1.0,5/5,,,,,,,1.0,-0.324,145.0
+FD2722-002,Nike Pegasus 41 (men),control,men,,825,INACTIVE,2024-07-10,0.0,0/5,,,,0.154,1/5,0.036,0.154,-0.297,145.0
+FD2722-001,Nike Pegasus 41 (men),control,men,,812,INACTIVE,2024-07-23,0.0,0/5,,,,,,,0.0,-0.297,145.0
+IR1812-012,Nike Vomero 18 (men),control,men,,159,ACTIVE,2026-05-07,1.0,5/5,,,,,,,1.0,-0.146,165.0
+HM6803-002,Nike Vomero 18 (men),control,men,,593,INACTIVE,2025-02-27,0.0,0/5,,,,,,,0.0,0.0,155.0
+BV1358-001,Nike Zoom Vomero 5 (men),control,men,,1108,ACTIVE,2023-10-01,1.0,5/5,0.769,5/5,0.0,0.923,5/5,0.0,1.0,0.0,170.0
+HF0731-007,Nike Zoom Vomero 5 (men),control,men,,930,ACTIVE,2024-03-27,0.154,0/5,0.077,0/5,0.0,0.077,0/5,0.0,0.154,0.0,170.0
+DD1391-100,Nike Dunk Low Retro Panda (men),control,men,,1049,INACTIVE,2023-11-29,0.0,0/5,0.462,3/5,-0.167,0.462,3/5,-0.25,0.462,-0.25,120.0
+IB3079-101,Nike Dunk Low (men),control,men,,23,ACTIVE,2026-09-20,1.0,5/5,0.846,5/5,0.0,0.846,5/5,0.0,1.0,0.0,130.0
+HQ7978-102,Air Jordan 5 Retro 'Medium Soft Pink',jordan_retro,men,2025-10-11,367,HOLD,2025-10-11,0.0,0/5,,,,,,,0.0,0.0,215.0
+FD2596-101,Wmns Air Jordan 1 Retro High OG 'Fir Pro Green',jordan_retro,women,2025-10-18,360,INACTIVE,2025-10-18,0.0,0/4,,,,,,,0.0,0.0,185.0
+IM8116-047,Air Jordan 4 Retro SE 'Somos Eternos',jordan_retro,men,2025-10-18,360,,,,,,,,,,,,,230.0
+DN3707-202,Air Jordan 3 Retro 'Family Affair',jordan_retro,men,2025-10-25,353,HOLD,2025-10-25,0.0,0/5,0.462,4/5,-0.065,0.462,4/5,-0.261,0.462,-0.261,230.0
+IH2309-500,Zion Williamson x Air Jordan 1 Retro Low OG 'Voodoo Alternate',jordan_retro,men,2025-10-29,349,INACTIVE,2026-05-06,0.0,0/5,,,,,,,0.0,0.0,165.0
+HV0823-200,Wmns Air Jordan 4 Retro 'Cozy Girl',jordan_retro,women,2025-11-01,346,,,,,0.182,0/4,-0.209,,,,0.182,-0.209,215.0
+IH0296-400,Air Jordan 11 Retro 'Rare Air',jordan_retro,men,2025-11-05,342,HOLD,2025-11-05,0.0,0/5,,,,,,,0.0,0.0,235.0
+CT8013-117,Air Jordan 12 Retro 'Taxi' 2025,jordan_retro,men,2025-11-08,339,HOLD,2025-11-08,0.0,0/5,,,,,,,0.0,0.0,215.0
+AR0715-110,Wmns Air Jordan 11 Retro 'Pearl / Grand Finale',jordan_retro,women,2025-11-11,336,INACTIVE,2026-09-07,0.0,0/4,,,,,,,0.0,0.0,235.0
+HQ6998-600,Air Jordan 1 Retro Low OG 'Chicago' 2025,jordan_retro,men,2025-11-15,332,HOLD,2025-11-15,0.0,0/5,0.077,0/5,-0.31,0.077,0/5,0.0,0.077,-0.31,145.0
+DM7866-104,Fragment Design x Travis Scott x Air Jordan 1 Retro Low OG SP 'Sail Military Blue',jordan_retro,men,2025-11-15,332,,,,,,,,,,,,,150.0
+IO8961-553,Air Jordan 11 Retro 'Mojave',jordan_retro,men,2025-11-22,325,,,,,,,,,,,,,235.0
+IO8960-707,Air Jordan 11 Retro 'H-Town',jordan_retro,men,2025-11-22,325,,,,,,,,,,,,,235.0
+IO8959-133,Air Jordan 11 Retro '285',jordan_retro,men,2025-11-22,325,,,,,,,,,,,,,250.0
+FV5029-010,Air Jordan 4 Retro 'Black Cat' 2025,jordan_retro,men,2025-11-28,319,INACTIVE,2026-12-08,0.0,0/5,,,,,,,0.0,,220.0
+IH4363-100,Air Jordan 1 High Retro OG 'Sail Elephant Print',jordan_retro,men,2025-12-06,311,INACTIVE,2025-12-06,0.0,0/5,0.231,1/5,-0.243,0.462,4/5,-0.243,0.462,-0.243,185.0
+CT8012-017,Air Jordan 11 Retro 'Gamma Blue' 2025,jordan_retro,men,2025-12-13,304,,,,,,,,,,,,,235.0
+IM4002-100,Air Jordan 4 Retro 'Flight Club',jordan_retro,men,2026-01-17,269,INACTIVE,2026-01-17,0.0,0/5,,,,,,,0.0,0.0,220.0
+HQ6998-200,Air Jordan 1 Retro Low OG 'Medium Olive',jordan_retro,men,2026-01-31,255,INACTIVE,2026-01-31,0.0,0/5,,,,,,,0.0,0.0,145.0
+HV0823-108,Wmns Air Jordan 4 Retro 'Valentine's Day',jordan_retro,women,2026-02-07,248,INACTIVE,2026-02-07,0.0,0/4,0.091,0/4,-0.227,,,,0.091,-0.227,220.0
+IR0910-400,Levi's x Air Jordan 3 Retro 'Lunar New Year',jordan_retro,men,2026-02-08,247,INACTIVE,2026-01-01,0.0,0/5,,,,,,,0.0,0.0,230.0
+DZ5485-003,Air Jordan 1 High Retro OG 'All-Star',jordan_retro,men,2026-02-12,243,INACTIVE,2026-02-12,0.0,0/5,0.846,5/5,0.0,,,,0.846,0.0,185.0
+IR0912-400,Levi’s x Air Jordan 3 Retro 'All-Star',jordan_retro,men,2026-02-13,242,,,,,,,,,,,,,230.0
+II6558-001,Air Jordan 6 Retro Premio 'Bin23',jordan_retro,men,2026-02-14,241,INACTIVE,2026-05-10,0.0,0/5,,,,,,,0.0,0.0,355.0
+IO9786-001,Wmns Air Jordan 6 Retro Low 'Blackout',jordan_retro,women,2026-02-19,236,INACTIVE,2026-02-19,0.0,0/4,,,,,,,0.0,0.0,205.0
+HM7326-100,Air Jordan 11 Retro MCS 'Rare Air',jordan_retro,men,2026-02-20,235,HOLD,2026-02-20,0.0,0/5,,,,,,,0.0,0.0,225.0
+IR0914-400,Levi's x Air Jordan 3 Retro SP 'Black Denim',jordan_retro,men,2026-02-21,234,INACTIVE,2026-02-21,0.0,0/5,,,,,,,0.0,0.0,230.0
+IH7959-400,Levi's x Air Jordan 3 Retro SP 'Denim Blue',jordan_retro,men,2026-02-25,230,INACTIVE,2026-02-25,0.0,0/5,,,,,,,0.0,0.0,230.0
+DD0587-002,Air Jordan 5 Retro 'Wolf Grey' 2026,jordan_retro,men,2026-02-28,227,INACTIVE,2026-02-28,0.0,0/5,,,,,,,0.0,0.0,220.0
+FD2596-102,Wmns Air Jordan 1 High OG 'Pale Ivory Pyschic Blue',jordan_retro,women,2026-03-07,220,INACTIVE,2026-03-07,0.0,0/4,,,,0.818,4/4,-0.216,0.818,-0.216,185.0
+FV5029-500,Air Jordan 4 Retro 'Lakers',jordan_retro,men,2026-03-07,220,INACTIVE,2026-03-07,0.0,0/5,,,,,,,0.0,0.0,220.0
+414571-102,Air Jordan 13 Retro 'Chicago' 2026,jordan_retro,men,2026-03-14,213,INACTIVE,2026-03-14,0.0,0/5,0.077,1/5,0.0,,,,0.077,0.0,215.0
+IF4391-100,Air Jordan 1 Retro Low OG 'Rabbit Floral Swoosh',jordan_retro,men,2026-03-18,209,INACTIVE,2026-03-18,0.0,0/5,0.615,4/5,0.0,,,,0.615,0.0,165.0
+DQ8426-405,Air Jordan 1 Mid 'University Blue Midnight Navy',jordan_retro,men,2026-03-20,207,ACTIVE,2026-03-20,0.615,5/5,,,,,,,0.615,-0.193,130.0
+IF4396-100,Air Jordan 3 Retro 'Spring is In The Air',jordan_retro,men,2026-03-28,199,INACTIVE,2026-03-28,0.0,0/5,0.769,5/5,-0.209,0.769,5/5,-0.163,0.769,-0.209,215.0
+II9811-001,Air Jordan 1 High OG 'Flight Club',jordan_retro,men,2026-04-11,185,INACTIVE,2026-04-11,0.0,0/5,,,,,,,0.0,0.0,185.0
+FV5104-100,Air Jordan 11 Retro Low 'UNC' 2026,jordan_retro,men,2026-04-18,178,INACTIVE,2026-04-18,0.0,0/5,0.692,5/5,0.026,0.538,4/5,-0.053,0.692,-0.053,190.0
+IB6716-600,Wmns Air Jordan 4 Retro 'Iced Carmine',jordan_retro,women,2026-04-23,173,INACTIVE,2026-04-23,0.0,0/4,,,,,,,0.0,0.0,220.0
+HQ7978-103,Air Jordan 5 Retro 'White Metallic' 2026,jordan_retro,men,2026-04-25,171,INACTIVE,2026-04-25,0.0,0/5,,,,,,,0.0,0.0,215.0
+IR7255-110,Air Jordan 6 Retro 'Sashiko',jordan_retro,men,2026-04-25,171,,,,,,,,,,,,,215.0
+IR2266-010,Air Jordan 6 Retro 'Cap and Gown',jordan_retro,men,2026-04-30,166,INACTIVE,2026-04-30,0.0,0/5,0.154,2/5,0.0,0.769,5/5,0.0,0.769,0.0,215.0
+IW6276-001,Air Jordan 1 Retro Low OG 'Banned' 2026,jordan_retro,men,2026-05-02,164,INACTIVE,2026-05-02,0.0,0/5,0.846,5/5,-0.172,0.846,5/5,-0.104,0.846,-0.172,145.0
+IF4396-103,Air Jordan 3 Retro 'World’s Best Dad',jordan_retro,men,2026-05-16,150,INACTIVE,2026-05-16,0.0,0/5,0.923,5/5,0.0,0.846,5/5,-0.07,0.923,-0.07,215.0
+IQ8055-100,Nigel Sylvester x Air Jordan 4 Retro OG SP 'Brick After Brick',jordan_retro,men,2026-05-22,144,INACTIVE,2027-02-09,0.0,0/5,,,,,,,0.0,,230.0
+FD2596-201,Air Jordan Wmns 1 Retro High OG 'Khaki',jordan_retro,women,2026-05-23,143,ACTIVE,2026-05-23,0.909,4/4,,,,,,,0.909,0.0,185.0
+CT8013-003,Air Jordan 12 Retro 'Bloodline',jordan_retro,men,2026-05-23,143,INACTIVE,2026-05-23,0.0,0/5,0.0,0/5,0.0,,,,0.0,0.0,215.0
+IQ7604-100,Travis Scott x Air Jordan 1 Retro Low OG 'Shy Pink',jordan_retro,men,2026-05-29,137,INACTIVE,2027-04-26,0.0,0/5,,,,,,,0.0,,155.0
+IQ7604-101,Travis Scott x Air Jordan 1 Retro Low OG 'Sail Tropical Pink',jordan_retro,men,2026-05-29,137,INACTIVE,2026-09-15,0.0,0/5,,,,,,,0.0,0.0,155.0
+FQ8138-600,Air Jordan 4 Retro 'Toro Bravo' 2026,jordan_retro,men,2026-05-30,136,INACTIVE,2026-05-30,0.0,0/5,0.0,0/5,0.0,0.0,0/5,0.0,0.0,0.0,220.0
+IR2283-030,Air Jordan 1 Retro Low Og 'Phantom Pine Green',jordan_retro,men,2026-06-06,129,INACTIVE,2026-06-06,0.0,0/5,,,,,,,0.0,0.0,150.0
+IO7744-600,Air Jordan 3 Retro 'Bin23',jordan_retro,men,2026-06-13,122,INACTIVE,2027-01-31,0.0,0/5,,,,,,,0.0,,355.0
+136064-148,Air Jordan 3 Retro 'Knicks' 2026,jordan_retro,men,2026-06-18,117,INACTIVE,2026-12-11,0.0,0/5,,,,,,,0.0,,215.0
+DD0587-008,Air Jordan 5 Retro 'Black Carolina / UNC' 2026,jordan_retro,men,2026-06-20,115,HOLD,2026-06-20,0.0,0/5,,,,,,,0.0,0.0,220.0
+DQ8426-007,Air Jordan 1 Mid 'Palomino',jordan_retro,men,2026-07-01,104,ACTIVE,2026-06-20,1.0,5/5,0.923,5/5,0.0,0.846,5/5,0.0,1.0,0.0,130.0
+FZ8627-101,Air Jordan 3 Retro MCS 'True Blue',jordan_retro,men,2026-07-14,91,ACTIVE,2026-07-14,0.923,5/5,,,,,,,0.923,0.0,205.0
+DQ8426-008,Air Jordan 1 Mid 'Light Smoke Grey',jordan_retro,men,2026-07-20,85,ACTIVE,2026-07-20,0.923,5/5,0.846,5/5,0.0,,,,0.923,0.0,130.0
+HV0823-101,Air Jordan Wmns 4 Retro 'Birds Of Paradise',jordan_retro,women,2026-07-23,82,INACTIVE,2026-07-23,0.0,0/4,0.909,4/4,-0.182,0.818,4/4,0.0,0.909,-0.182,220.0
+IO2362-100,Air Jordan 4 Retro 'Comic',jordan_retro,men,2026-07-25,80,,,,,,,,,,,,,230.0
+DZ5485-201,Air Jordan 1 High OG 'Love The Game',jordan_retro,men,2026-08-01,73,ACTIVE,2026-08-01,0.923,5/5,0.846,5/5,0.0,0.769,5/5,0.0,0.923,0.0,185.0
+HQ6998-100,Air Jordan 1 Retro Low OG 'Sail',jordan_retro,men,2026-08-01,73,,,,,,,,,,,,,145.0
+IW3808-400,Air Jordan 13 Retro 'Flint' 2026,jordan_retro,men,2026-08-01,73,ACTIVE,2026-08-01,0.769,5/5,0.692,5/5,0.0,0.769,5/5,0.0,0.769,0.0,215.0
+CK9246-400,Air Jordan Wmns 3 Retro 'Sports Renaissance',jordan_retro,women,2026-08-15,59,ACTIVE,2026-08-15,1.0,4/4,0.909,4/4,-0.22,0.818,4/4,0.0,1.0,-0.22,205.0
+IV6750-001,Air Jordan 1 Low OG 'Laser',jordan_retro,men,2026-08-22,52,ACTIVE,2026-08-22,0.923,5/5,0.846,5/5,0.0,0.846,5/5,0.0,0.923,0.0,165.0
+JA1369-001,Air Jordan 3 Retro 'Laser Palomino',jordan_retro,men,2026-08-22,52,,,,,,,,,,,,,230.0
+IW1218-098,Air Jordan 12 Retro 'Sumo',jordan_retro,men,2026-08-23,51,,,,,,,,,,,,,215.0
+FD2596-601,Air Jordan Wmns 1 High OG 'Nails & Grails',jordan_retro,women,2026-09-02,41,ACTIVE,2026-09-02,1.0,4/4,0.909,4/4,0.0,0.818,4/4,0.0,1.0,0.0,185.0
+IO2463-102,Air Jordan 4 Retro 'Rare Air - Tour Yellow' 2026,jordan_retro,men,2026-09-05,38,ACTIVE,2026-09-05,1.0,5/5,1.0,5/5,0.0,1.0,5/5,0.0,1.0,0.0,220.0
+CT8013-103,Air Jordan 12 Retro 'Bucks',jordan_retro,men,2026-09-12,31,ACTIVE,2026-09-12,0.846,5/5,0.769,5/5,0.075,0.769,5/5,0.075,0.846,0.075,200.0
+IV5678-102,Air Jordan Wmns 5 Retro OG 'Sunset' 2026,jordan_retro,women,2026-09-25,18,ACTIVE,2026-09-25,1.0,4/4,,,,,,,1.0,-0.047,215.0
+IX8478-410,Air Jordan 1 Low OG 'Howard University',jordan_retro,men,2026-10-01,12,ACTIVE,2026-10-01,0.846,5/5,,,,,,,0.846,0.24,125.0
+IW2872-700,J. Balvin x Air Jordan 4 Retro 'Amazonas / Lemonade',jordan_retro,men,2026-10-02,11,INACTIVE,2026-10-02,0.0,0/5,,,,,,,0.0,0.0,225.0
+CK9246-200,Wmns Air Jordan 3 Retro 'Fireside',jordan_retro,women,2026-10-03,10,ACTIVE,2027-01-10,0.0,0/4,,,,,,,0.0,,205.0
+IQ5495-005,Air Jordan 1 Retro High OG 'Royal' 2026,jordan_retro,men,2026-10-10,3,ACTIVE,2026-10-10,1.0,5/5,0.846,5/5,0.0,0.769,5/5,0.0,1.0,0.0,185.0
