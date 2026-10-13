@@ -1,0 +1,24 @@
+period,revenue_usd_m,asp_bps,nike_direct_margin_bps,off_price_bps,other_costs_bps,converse_bps,product_cost_incl_tariffs_bps,ieepa_recovery_bps,warehousing_logistics_bps,fx_bps,restructuring_bps,total_reported_bps,sum_of_listed_lines_bps,discount_linked_drag_bps,discount_linked_drag_usd_m,asp_line_usd_m,source,note
+Q1FY2023,12687,200,-90,,-100,,-190,,,-70,,-220,-250,-190,-241,254,Q1 FY23 10-Q p. 24,ASP line is full-price ASP net of discounts (strategic pricing); other costs cite obsolescence in NA and EMEA
+Q2FY2023,13315,410,-160,,,,-430,,,-90,,-300,-270,-160,-213,546,Q2 FY23 10-Q p. 28,"Direct margin: promotions to liquidate excess inventory, largely NA"
+Q3FY2023,12390,370,-140,-30,,,-360,,,-140,,-330,-300,-170,-211,458,Q3 FY23 10-Q p. 28 to 29,
+9MFY2023,38392,320,-130,,,,-360,,,-100,,-280,-270,-130,-499,1229,Q3 FY23 10-Q p. 29,
+FY2023,51217,,,,,,,,,,,-250,0,0,0,,FY23 10-K p. 34,"10-K bridge given as a chart; text lists product costs, NIKE Direct promotions to liquidate inventory, FX, off-price (negative) and full-price ASP (positive) without bps"
+Q1FY2024,12939,300,10,-30,,,-180,,,-90,,-10,10,-20,-26,388,Q1 FY24 10-Q p. 24,
+Q2FY2024,13388,320,-20,-20,,,-50,,,-60,,170,170,-40,-54,428,Q2 FY24 10-Q p. 28,ASP: strategic pricing and lower discounts
+Q3FY2024,12429,180,-50,-40,50,,50,,,10,-50,150,150,-90,-112,224,Q3 FY24 10-Q p. 29,other costs = lower warehousing
+Q4FY2024,12606,-15,-101,11,10,,225,,,-9,21,110,142,-105,-132,-19,derived from FY24 10-K p. 36 and Q3 FY24 10-Q p. 29,"IMPLIED by my arithmetic (FY minus 9M, revenue-weighted); each annual line is rounded to 10 bps so Q4 values carry about +/-40 bps error"
+FY2024,51362,200,-40,-20,10,,10,,,-40,-10,110,110,-60,-308,1027,FY24 10-K p. 36,
+Q1FY2025,11589,40,,,-60,,120,,50,,,120,150,-60,-70,46,Q1 FY25 10-Q p. 22,"from FY25 Nike reports one ASP line that includes discounts, channel mix and pricing; other costs in part obsolescence reserves"
+Q2FY2025,12354,-330,,,-70,-20,260,,50,20,,-100,-90,-420,-519,-408,Q2 FY25 10-Q p. 26,"ASP: higher discounts, product mix, channel mix"
+Q3FY2025,11269,-150,,,-90,-20,-70,,,-30,50,-330,-310,-260,-293,-169,Q3 FY25 10-Q p. 28,
+Q4FY2025,11097,-307,,,-153,-52,17,,-12,-42,-22,-440,-571,-512,-568,-341,derived from FY25 10-K p. 35 and Q3 FY25 10-Q p. 29,"IMPLIED (my arithmetic); 9M FY25 FX not listed, treated as 0; sum of implied lines (-570) overshoots the reported -440, so treat as direction and order of size only"
+9MFY2025,35212,-140,,,-70,-10,100,,30,,20,-100,-70,-220,-775,-493,Q3 FY25 10-Q p. 29,
+FY2025,46309,-180,,,-90,-20,80,,20,-10,10,-190,-190,-290,-1343,-834,FY25 10-K p. 35,
+Q1FY2026,11720,-250,,,,-30,-100,,50,30,,-320,-300,-280,-328,-293,Q1 FY26 10-Q p. 22,product cost: higher NA tariffs; p. 19 cites wholesale discounts and factory-store discounts
+Q2FY2026,12427,-50,,,40,-20,-360,,50,40,,-300,-300,-70,-87,-62,Q2 FY26 10-Q p. 27,other costs: LOWER obsolescence reserves
+Q3FY2026,11279,80,,,60,-30,-270,,20,10,,-130,-130,-30,-34,90,Q3 FY26 10-Q p. 30,ASP: strategic pricing and product mix
+Q4FY2026,10972,258,,,-12,12,-210,900,-45,-12,,890,891,12,13,283,"derived from FY26 10-K p. 34, Q3 FY26 10-Q p. 30, Q4 FY26 release p. 1","IMPLIED (my arithmetic); FY26 ASP not a listed line, treated as 0; IEEPA +900 bps from Q4 FY26 release p. 1 split out of product cost; implied lines sum to +891 vs reported +890"
+9MFY2026,35426,-80,,,30,-30,-240,,40,30,,-250,-250,-110,-390,-283,Q3 FY26 10-Q p. 30,
+FY2026,46398,,,,20,-20,-20,,20,20,,20,20,-20,-93,,FY26 10-K p. 34,"ASP not listed as a bridge line (treated as 0); product cost is net of the $986M IEEPA recovery (about 210 bps, my arithmetic)"
+Q1FY2027,11213,-30,,,-40,-10,10,,90,40,,60,60,-40,-45,-34,Q1 FY27 10-Q p. 23,other costs: third-party royalties

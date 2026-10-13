@@ -1,0 +1,18 @@
+quarter,revenue_m,revenue_yoy_pct_derived,inventory_m,inventory_yoy_pct_reported,inv_minus_sales_pp_derived,gm_pct,gm_yoy_bps,asp_line_bps,full_price_asp_line_bps,direct_margin_line_bps,product_cost_line_bps,tariff_product_cost_line_bps,sources
+Q1FY2023,12687,3.6,9662,44,40.4,44.3,-220,,,-90,,,"Q1 FY2023 earnings release, 8-K Ex. 99.1 (fil p. 2 of exhibit;Q1 FY2023 earnings release, 8-K Ex. 99.1 (fil p. 3 of exhibit"
+Q2FY2023,13315,17.2,9326,43,25.8,42.9,-300,,,-160,,,"Q2 FY2023 earnings release, 8-K Ex. 99.1 (fil p. 2 of exhibit;Q2 FY2023 earnings release, 8-K Ex. 99.1 (fil p. 3 of exhibit"
+Q3FY2023,12390,14.0,8905,16,2.0,43.3,-330,,,-140,,,"Q3 FY2023 earnings release, 8-K Ex. 99.1 (fil p. 2 of exhibit;Q3 FY2023 earnings release, 8-K Ex. 99.1 (fil p. 3 of exhibit"
+Q4FY2023,12825,4.8,8454,0,-4.8,43.6,-140,,,,,,"FY2023 Form 10-K (filed 2023-07-20) p. 57;Q4 FY2023 earnings release, 8-K Ex. 99.1 (fil p. 2 of exhibit"
+Q1FY2024,12939,2.0,8698,-10,-12.0,44.2,-10,,300,10,-180,,Q1 FY2024 Form 10-Q (filed 2023-10-06) p. 1;Q1 FY2024 Form 10-Q (filed 2023-10-06) p. 23;Q1 FY2024 Form 10-Q (filed 2023-10-06) p. 3
+Q2FY2024,13388,0.5,7979,-14,-14.5,44.6,170,,320,-20,-50,,Q2 FY2024 Form 10-Q (filed 2024-01-05) p. 1;Q2 FY2024 Form 10-Q (filed 2024-01-05) p. 26;Q2 FY2024 Form 10-Q (filed 2024-01-05) p. 3
+Q3FY2024,12429,0.3,7726,-13,-13.3,44.8,150,,180,-50,50,,Q3 FY2024 Form 10-Q (filed 2024-04-04) p. 1;Q3 FY2024 Form 10-Q (filed 2024-04-04) p. 27;Q3 FY2024 Form 10-Q (filed 2024-04-04) p. 3
+Q4FY2024,12606,-1.7,7519,-11,-9.3,44.7,110,,,,,,"FY2024 Form 10-K (filed 2024-07-25) p. 59;Q4 FY2024 earnings release, 8-K Ex. 99.1 (fil p. 2 of exhibit"
+Q1FY2025,11589,-10.4,8253,-5,5.4,45.4,120,40,,,120,,Q1 FY2025 Form 10-Q (filed 2024-10-07) p. 1;Q1 FY2025 Form 10-Q (filed 2024-10-07) p. 21;Q1 FY2025 Form 10-Q (filed 2024-10-07) p. 3
+Q2FY2025,12354,-7.7,7981,0,7.7,43.6,-100,-330,,,260,,Q2 FY2025 Form 10-Q (filed 2025-01-03) p. 1;Q2 FY2025 Form 10-Q (filed 2025-01-03) p. 24;Q2 FY2025 Form 10-Q (filed 2025-01-03) p. 3
+Q3FY2025,11269,-9.3,7539,-2,7.3,41.5,-330,-150,,,-70,,Q3 FY2025 Form 10-Q (filed 2025-04-03) p. 1;Q3 FY2025 Form 10-Q (filed 2025-04-03) p. 26;Q3 FY2025 Form 10-Q (filed 2025-04-03) p. 3
+Q4FY2025,11097,-12.0,7489,0,12.0,40.3,-440,,,,,,"FY2025 Form 10-K (filed 2025-07-17) p. 58;Q4 FY2025 earnings release, 8-K Ex. 99.1 (fil p. 2 of exhibit"
+Q1FY2026,11720,1.1,8114,-2,-3.1,42.2,-320,-250,,,,-100,Q1 FY2026 Form 10-Q (filed 2025-10-01) p. 1;Q1 FY2026 Form 10-Q (filed 2025-10-01) p. 21;Q1 FY2026 Form 10-Q (filed 2025-10-01) p. 3
+Q2FY2026,12427,0.6,7726,-3,-3.6,40.6,-300,-50,,,,-360,Q2 FY2026 Form 10-Q (filed 2025-12-30) p. 1;Q2 FY2026 Form 10-Q (filed 2025-12-30) p. 27;Q2 FY2026 Form 10-Q (filed 2025-12-30) p. 3
+Q3FY2026,11279,0.1,7487,-1,-1.1,40.2,-130,80,,,,-270,Q3 FY2026 Form 10-Q (filed 2026-04-01) p. 1;Q3 FY2026 Form 10-Q (filed 2026-04-01) p. 3;Q3 FY2026 Form 10-Q (filed 2026-04-01) p. 30
+Q4FY2026,10972,-1.1,7501,0,1.1,49.2,890,,,,,,"FY2026 Form 10-K (filed 2026-07-15) p. 57;Q4 FY2026 earnings release, 8-K Ex. 99.1 (fil p. 2 of exhibit"
+Q1FY2027,11213,-4.3,7846,-3,1.3,42.8,60,-30,,,10,,Q1 FY2027 Form 10-Q (filed 2026-10-02) p. 1;Q1 FY2027 Form 10-Q (filed 2026-10-02) p. 22;Q1 FY2027 Form 10-Q (filed 2026-10-02) p. 3
