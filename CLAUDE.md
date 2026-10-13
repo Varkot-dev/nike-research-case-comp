@@ -11,5 +11,13 @@ Instead, every "why" must be decomposed into measurable drivers, with a source o
 - If filings cannot separate two causes (for example, deliberate supply cuts versus lower sell-through), say exactly that, instead of filling the gap with a qualitative guess.
 - Management and analyst opinions may be quoted verbatim as evidence, labelled as opinion, but never used as the explanation on their own.
 
+## Go down the rabbit hole
+- For every "why," list every plausible explanation, then test each one against data until all but one are ruled out. Write down the alternatives that were ruled out and the evidence that ruled them out.
+- If more than one explanation still survives, keep digging: other filings, peers, retailers, suppliers, third-party data. If the data truly cannot separate them, say exactly which explanations remain and what data would decide between them.
+- Parallelize heavy research with subagents (the user has approved launching many when needed). Every agent result is verified against its source before it enters the repo.
+
+## Always push what you learn
+- Every finding goes into the repo (data, research_notes, and REPORT.md when it changes the pitch), is committed and pushed to GitHub in the same session. Nothing learned stays only in chat or scratch files.
+
 ## Other rules
 Follow `.claude/skills/nike-report-update/SKILL.md` (citations, labels, no em-dashes or en-dashes, regenerate rather than hand-edit) and `.claude/skills/sec-filing-research/SKILL.md`. **Downloads:** fetch Nike filings from the investors.nike.com mirror (see the sec-filing-research skill), not www.sec.gov. Never put the user's email address in an HTTP request (for example a SEC User-Agent) unless the user explicitly provides it for that purpose.
