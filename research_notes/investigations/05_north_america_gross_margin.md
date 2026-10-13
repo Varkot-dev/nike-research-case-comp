@@ -354,3 +354,6 @@ Nike filings URL pattern: `https://investors.nike.com/sec-filings/all-sec-filing
 14. **Kept unchanged**, all re-checked by the reviewers: the base data tables (2a), the $965M refund quotes, the 520, 650 and 250 bps quotes, the regional FX contrast, and the restatement check.
 
 **Revision 1 (October 13, 2026):** initial note.
+
+## Independent verification log
+- Oct 13, 2026: recomputed. FY2026 NA gross margin excluding the $965M refund = (20,511 x 45.6% - 965) / 20,511 = 40.9%, -350 bps vs FY2024 44.4% (confirmed).

@@ -428,3 +428,6 @@ Labels and context:
 Computations: `scratchpad/rh/tools/na_rev2.py`. The Revision 1 text is saved as `scratchpad/rh/na_wholesale.rev1.bak.md`.
 
 **Revision 1 (October 13, 2026):** original note.
+
+## Independent verification log
+- Oct 13, 2026: FY2026 NA wholesale "including expanded distribution, higher shipments to existing partners and fewer marketplace management actions" confirmed verbatim (FY26 10-K p. 37). Foot Locker inventory ranges are derived by the note (exact-total method) and were not independently recomputed.

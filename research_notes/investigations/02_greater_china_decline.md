@@ -450,3 +450,6 @@ New alternatives tested (all new data in Sections 2.3b and 2.8 to 2.11):
 Other changes:
 15. Bottom line rewritten. Section 4 now uses a channel identity that adds back to the reported change (-13.1 and -25.7), instead of mixing benchmarks with channel contributions. The sell-through share loss is now established with comps and sell-in-neutral revenue rather than as a residual. The FY25 global versus FY26 China-specific split is explicit. The Section 4 decomposition is revised with matched partner windows (the Q1 FY27 destock estimate cut from "up to 10" to 0.7 to 10, central about 4).
 16. Added FY23 and Q1 to Q3 FY25 GC channel rows, the H1 2026 Li Ning and Xtep revenue, the regional EBIT margin benchmark, and the forward estimate of about US$743m of partner online wholesale at stake from January 2027.
+
+## Independent verification log
+- Oct 13, 2026: GC comparable store sales -7% (FY2025 10-K) and -6% (FY2026 10-K, "Comparable store sales decreased 6%") confirmed verbatim. They compound to -12.6% (my arithmetic, confirmed).

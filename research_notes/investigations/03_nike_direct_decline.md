@@ -534,3 +534,6 @@ Reading the pattern:
 11. **Unchanged after re-check:** T1 to T8 figures, the 92% reported digital share, store closures immaterial, FX favorable, and total demand creation up.
 
 Revision 1 is kept at `rh/direct_decline.rev1.bak.md`.
+
+## Independent verification log
+- Oct 13, 2026: recomputed from repo data. Digital -$3.5B ($12.1B to $8.6B), stores -$0.32B, digital 92% of the $3.8B decline. Regional Direct changes confirmed: NA -1,839, EMEA -934, GC -691, APLA -335 ($M; FY24 10-K p. 84, FY26 10-K p. 83).

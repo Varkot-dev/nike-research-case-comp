@@ -223,3 +223,6 @@ NA and Converse channel values are in data/nike_channel_split.csv (segment note:
 10. **New candidate-#3 bounds** (Academy 2024 and 2025, Kohl's 2025) and the FY26 slot test (Table G) narrow which accounts can be the new #3.
 
 **Revision 1:** original note (backup at `rh/conc/concentration_v1_backup.md`).
+
+## Independent verification log
+- Oct 13, 2026: **Hibbett's 73.7% Nike share (FY2024 10-K) could not be confirmed.** The FY2024 10-K download was an empty stub and no other copy was reachable. The latest Hibbett 10-K available (FY2023) states "Our largest vendor, Nike, represented 69.9%, 61.0%, and 65.0% of our purchases for Fiscal 2023, Fiscal 2022 and Fiscal 2021." Using 69.9% scales the JD-Hibbett contribution down about 5%, to about 2.9 to 4.0 points. The conclusion (largest identified within-wholesale driver) is unchanged.

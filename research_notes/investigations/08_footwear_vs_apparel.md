@@ -416,3 +416,6 @@ Filings (revision 2 additions):
    - the units vs ASP split;
    - the Jordan repo-data issue (section 2.5).
 8. **Data I could not get:** Nike's own Q2 FY25 remarks PDF (404 at the usual s1.q4cdn.com paths). The Q2 FY25 quotes therefore come from a secondary transcript and are labelled as such.
+
+## Independent verification log
+- Oct 13, 2026: footwear FY2024 $33,427M and FY2026 $29,525M confirmed against the facts CSV (FY24 10-K p. 34; FY26 10-K p. 32). FY2025 NIKE Brand footwear "Unit sales of footwear decreased 8%, while lower average selling price ... reduced footwear revenues by approximately 3 percentage points" confirmed verbatim.

@@ -22,3 +22,10 @@ Each question was worked by an investigator agent, attacked by two adversarial r
 
 ## Verification log
 *(Updated as each file is spot-checked.)*
+- **01:** the key Nike quote is confirmed. The Foot Locker inventory figures are derived and not recomputed.
+- **02:** GC comps -7% and -6% confirmed, compounding to -12.6%.
+- **03:** the Direct decomposition was recomputed and matches.
+- **04:** the FY2025 discount quotes are confirmed. The bounds were not recomputed.
+- **05:** the NA -350 bps ex-refund figure was recomputed and matches.
+- **06:** the Hibbett 73.7% is **not confirmable**. The latest available Hibbett 10-K shows 69.9%, which reduces the JD-Hibbett effect about 5% (conclusion unchanged).
+- **08:** the footwear totals and the FY2025 units and ASP quote are confirmed.

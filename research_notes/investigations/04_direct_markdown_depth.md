@@ -326,3 +326,6 @@ Nike release PDFs are at `https://s1.q4cdn.com/806093406/files/doc_financials/<y
 - **Removed the "FY24 vs FY19 to FY21 average" framing** from the bottom line as a test of the range. The range is incremental to FY24 by definition.
 - **New downloads** in `scratchpad/rh/dl/rev3/`: Q3 FY22, Q1 FY23, Q2 FY23 and Q3 FY23 10-Qs. The Q2 FY25 release PDF was not available (404). The FY21 to FY24 10-Ks were re-paged from `dl/gc/nike/` into `md/rev3/`.
 - Revision 2 text is preserved at `scratchpad/rh/markdown_depth.rev2.bak.md`.
+
+## Independent verification log
+- Oct 13, 2026: FY2025 bridge quotes confirmed verbatim. "Lower NIKE Brand ASP (decreasing gross margin approximately 180 basis points), primarily due to higher discounts and changes in channel mix, partially offset by strategic pricing actions" and "a decrease in traffic across NIKE Direct and our actions to reduce supply ... through increased markdowns across NIKE Direct" (FY2025 10-K). The bound calculations (2.5% to 9.8%) were not independently recomputed.
