@@ -12,4 +12,4 @@ Instead, every "why" must be decomposed into measurable drivers, with a source o
 - Management and analyst opinions may be quoted verbatim as evidence, labelled as opinion, but never used as the explanation on their own.
 
 ## Other rules
-Follow `.claude/skills/nike-report-update/SKILL.md` (citations, labels, no em-dashes or en-dashes, regenerate rather than hand-edit) and `.claude/skills/sec-filing-research/SKILL.md`. Never put the user's email address in an HTTP request (for example a SEC User-Agent) unless the user explicitly provides it for that purpose.
+Follow `.claude/skills/nike-report-update/SKILL.md` (citations, labels, no em-dashes or en-dashes, regenerate rather than hand-edit) and `.claude/skills/sec-filing-research/SKILL.md`. **Downloads:** fetch Nike filings from the investors.nike.com mirror (see the sec-filing-research skill), not www.sec.gov. Never put the user's email address in an HTTP request (for example a SEC User-Agent) unless the user explicitly provides it for that purpose.
