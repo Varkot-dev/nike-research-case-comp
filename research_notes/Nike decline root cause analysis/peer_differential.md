@@ -273,3 +273,56 @@ FY24 to FY26 net revenue change: -$4,964M (REPO). Decomposition (my arithmetic):
 - Fiscal-year misalignment of up to 5 months. Quarterly tests use the nearest calendar quarter.
 - The peer pool is not the market. Winners' growth partly *is* Nike's loss, so pool-based counterfactuals overstate what Nike "should" have done. I lean on the incumbent cohort and market data.
 - A SEC EDGAR request early in this session carried a contact header; later requests used a generic research user agent.
+
+---
+
+## Challenge: REFUTER
+
+Date: 2026-10-13. Scope kept deliberately narrow: the core finding is robust enough that a full re-research is not warranted, so I tested the four claims most likely to break (FX, the China market benchmark, the "no peer DTC fell double digits" signature, and the adidas comparison base). Two factual errors found, neither overturns the verdict.
+
+### What I checked and found
+
+1. **FX tailwind: confirmed.** Nike's translation impact on revenue was -$419M in FY2025 (FY25 10-K p. 45) and +$1,023M in FY2026 (FY26 10-K p. 44), net about +$604M (REPO, `data/nike_filing_facts.csv`; my arithmetic). The investigator's +$0.56B is consistent.
+
+2. **China market benchmark is the wrong NBS line (error).** The +11.1% (2024) and +15.7% (2025) used as "the market" are the NBS *体育、娱乐用品类* (sports and entertainment goods) category. That line is equipment-heavy; MOFCOM attributes 2025 growth to ski, hiking and cycling gear. It is also small: RMB 170.3B in 2025. Sports footwear and apparel sit inside *服装、鞋帽、针纺织品类* (apparel, footwear, headwear, textiles): RMB 1,469.1B, +0.3% in 2024; RMB 1,521.5B, +3.2% in 2025. That is about +3.5% over two years.
+   - Sources: NBS, December 2024 retail sales release, 2025-01-17, https://www.stats.gov.cn/sj/zxfb/202501/t20250117_1958327.html (OPENED). NBS, December 2025 release, 2026-01-19, https://www.stats.gov.cn/xxgk/sjfb/zxfb2020/202601/t20260119_1962323.html (OPENED). MOFCOM commentary via search (SNIPPET).
+   - Consequence: the low end of the China benchmark should be about +3.5%, not +5%. The China gap becomes about -27 to -38 pts, roughly **$2.0B to $2.9B** instead of $2.1B to $2.9B. The China verdict stands, because adidas (+20%) and Anta (+29%) grew in the same market. But the "growing market" framing in P3 overstates how fast the relevant market grew. China was a flat-to-low-growth apparel market in which local and some foreign brands took share.
+
+3. **"No peer's DTC fell double digits" is false (error).** Under Armour's FY2025 (April 2024 to March 2025, which maps to the same window) shows direct-to-consumer revenue -11% and eCommerce -23%, "due to planned reductions in promotional activities". In Q4 alone DTC was -15% and eCommerce -27%. Source: UA FY2025 Q4 8-K Ex. 99.1, filed 2025-05-15, https://www.sec.gov/Archives/edgar/data/1336917/000133691725000058/exhibit991-fiscal2025q4.htm (OPENED).
+   - This is the same mechanism Nike reported: a deliberate pull-back of promotional digital sales. So the Direct collapse is not a uniquely Nike signature. It is an incumbent reset playbook, also run by UA and, through store cuts, by Puma.
+   - It does not make the cause industry-wide. Both are firm-level choices by brands that had over-discounted their own channels. But the channel test (P5) should be downgraded from "strongest signature" to "shared with incumbents in reset". Part of Nike's Direct decline is the *chosen* cost of the fix, not the original defect.
+
+4. **adidas is a rebound-base comparison.** adidas 2023 was flat c-n, +2% ex-Yeezy, with North America -16% (adidas FY2023 release via World Footwear and EQS ad hoc, 2024-03; SNIPPET). Over 2019 to 2025, adidas ex-Reebok grew +13.3%, against Nike's +18.6% to +24% (investigator's own panel).
+   - So the 2023 to 2025 adidas surge (Europe +28%, footwear +25%) is partly adidas recovering its own 2022 to 2023 trough, and partly a zero-sum swing of the lifestyle trend from Nike classics (Dunk, AF1, AJ1) to adidas terrace models (Samba, Gazelle).
+   - Using adidas as the benchmark for the footwear gap (-38 pts) and the EMEA gap therefore double-counts. Nike's loss *is* adidas's gain, the same peer-selection bias the investigator flagged for challengers. The investigator excluded adidas from the EMEA benchmark band, but not from the footwear gap or the bottom line.
+   - The fashion rotation is exogenous in timing, but failing to own the next silhouette is a Nike product failure. On balance it stays Nike-specific. The size of the footwear gap should be read against the market (Euromonitor US footwear about +4% a year), not against adidas: about -15 to -20 pts, not -38.
+
+5. **Market tailwind upper bound is generous.** The +6% two-year market (+$3.1B) uses the high end. Circana has US footwear flat in 2024 and 2025 (REPO-NOTE), China apparel and footwear grew about +3.5% (above), and Euromonitor forecasts about 2% global CAGR. A 0% to +4% band (+$0 to +$2.1B) is more defensible.
+
+### Re-estimate (my arithmetic)
+
+Residual = net change minus (market + FX + cohort shock):
+- Low end: -4,964 - (0 + 604 - 900) = **-$4.67B**.
+- High end: -4,964 - (2,100 + 604 - 700) = **-$6.97B**.
+- That is about **94% to 140% of the net decline**, against the investigator's 95% to 155%.
+
+My range is somewhat lower and tighter than the investigator's. Even on the least favourable reading, the Nike-specific residual is at least about 90% of the decline.
+
+### Where the hypothesis bends but does not break
+
+- The channel signature is weaker than claimed. UA shows a self-inflicted DTC and eCommerce decline of similar size. Nike's Direct drop is partly the cost of the cure.
+- The China gap holds against peers. The "growing market" framing does not hold for footwear and apparel.
+- The adidas-based gaps overstate how much was Nike-specific, because they include a share swap and adidas's own rebound.
+- I found no peer, region or period that contradicts the core prediction: Nike fell while the relevant market was flat to slightly up and most peers grew. P1 (timing), P2 (breadth) and P8 (North America convergence after the reset) survive my checks.
+
+### Verdict
+
+**Survives as primary cause**, with two factual corrections: the China market proxy, and UA's double-digit DTC decline. The share should be reworded to "about 90% or more of the net decline, central estimate around 100% to 110%". The 155% upper bound, the -38 pt footwear gap and "strongest signature" for channel should be dropped.
+
+Sources (this section):
+- NBS December 2024 retail sales release, 2025-01-17, https://www.stats.gov.cn/sj/zxfb/202501/t20250117_1958327.html, OPENED.
+- NBS December 2025 retail sales release, 2026-01-19, https://www.stats.gov.cn/xxgk/sjfb/zxfb2020/202601/t20260119_1962323.html, OPENED.
+- MOFCOM commentary on 2025 sports goods (via search summary), 2026-01, SNIPPET.
+- Under Armour FY2025 Q4 8-K Ex. 99.1, 2025-05-15, https://www.sec.gov/Archives/edgar/data/1336917/000133691725000058/exhibit991-fiscal2025q4.htm, OPENED.
+- adidas FY2023 results (World Footwear, https://www.worldfootwear.com/news/adidas-posts-betterthanexpected-operating-profit-in-2023/9641.html; EQS ad hoc), 2024-01/03, SNIPPET.
+- Nike FX translation impacts FY2025 and FY2026, `data/nike_filing_facts.csv` (10-K p. 45, p. 44), REPO.

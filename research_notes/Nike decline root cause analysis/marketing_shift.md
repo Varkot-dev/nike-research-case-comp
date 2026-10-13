@@ -346,3 +346,34 @@ When the classics saturated (2022 to 2024), teen favoritism, full-price sell-thr
 | Piper Sandler Taking Stock With Teens infographics, Fall 2022 to Spring 2025 (apparel and footwear mindshare) | 2022-10 to 2025-04 | OPENED |
 | Giunco, "Nike: An Epic Saga of Value Destruction", Sfin.ro republication | 2024-07-31 (fetched 2026-10-13) | OPENED |
 | Planned searches (iSpot or MediaRadar TV spend history, Zodiac 2018 acquisition, Morning Consult Gen Z favorability) | n/a | NOT DONE: web-search budget exhausted |
+
+## Challenge: REFUTER (second pass, scaled down)
+
+Reviewer date: 2026-10-13. A full REFUTER challenge already appears above (R1 to R9), with primary-source checks of the demand creation series, the Q2 FY25 call quotes, the segment natural experiment and the Under Armour and Deckers peer controls. Repeating that research would add little, so this pass is deliberately short and adds only one new data point.
+
+- **New check, Q1 FY27 (repo `data/nike_filing_facts.csv`, from the Q1 FY27 10-Q filed 2026-10-02 and Q1 FY26 10-Q filed 2025-10-01, both OPENED via repo):** demand creation was $1,252M on revenue of $11,213M, an intensity of 11.2%, against $1,188M on $11,720M (10.1%) a year earlier. Intensity is now the highest in the series and about 1.5 points above the FY2017 to FY2019 base of 9.7%, yet revenue fell 4.3%. Three years into the reversal, the hypothesis's prediction that restoring brand spend restores demand still has not shown up at the total-company level. (My arithmetic.)
+- **Agreement with the earlier REFUTER on the key correction:** the endorsement comparison ($7.6B in 2023 vs $15.5B to $16.2B in 2025 to 2026) is not like for like, because the FY2025 10-K adds "including associated marketing commitments". The investigator's evidence-against bullet still uses it and should drop it.
+- **No new contrary evidence found.** I did not run new web searches; the open gap named in R9 (a pre-2024 brand-tracking series showing erosion while revenue was rising) remains the one test that could revive the hypothesis.
+
+Verdict: concur with the earlier REFUTER. As a cause of the FY2024 to FY2026 decline the hypothesis does not survive; it is **minor**, about 0% to 5% of the $4,964M decline. The paid-traffic dependence is a symptom of the classics oversupply and the DTC channel push.
+
+## Challenge: ROOT-CAUSE (second pass, scaled down)
+
+Challenger date: 2026-10-13. A full ROOT-CAUSE challenge already appears above (C1 to C9). It traced the marketing shift upstream to the 2017 to 2020 Consumer Direct operating model, and it showed that restored brand spend lifted only the categories with new product. I agree with it and do not repeat it. This pass adds one new data point. It addresses the gap the REFUTER flagged (R9): is there a brand-tracking series that shows erosion before 2024, while revenue was still rising?
+
+- **New evidence, Cowen survey (July 2022, 2,700 US consumers), reported by SGB Media on 2022-10-24 (OPENED):**
+  - **Athletic footwear, ages 25 to 34:** Nike's preference share was "moving from 45 percent in 2017 to 36 percent in 2022."
+  - **Athletic performance apparel, ages 25 to 34:** 39% in 2022, "down year-over-year from 41 percent in 2021 and from 43 percent pre-pandemic."
+  - **Athletic footwear, ages 18 to 24:** share "increased year-over-year ... but decreased versus its pre-pandemic share."
+  - **Casual lifestyle apparel, ages 18 to 24:** a 41% share, "flat with 2019 through 2022."
+- **What it means for the root-cause question:**
+  - **This is real pre-2024 erosion, so the timing objection (P1) is weaker than the investigator stated.** Adult preference was sliding while revenue was setting records. The Piper teen series missed it.
+  - **The erosion starts in 2017, three years before the documented 2020 marketing shift.** So it cannot be a downstream effect of that shift. It lines up with the upstream decisions dated in C3: the Consumer Direct Offense (2017), the cut in wholesale accounts and the category consolidation. Over the same years, preference was moving to the performance-running challengers.
+  - **The lifestyle share among 18 to 24 year olds was flat over 2019 to 2022.** That fits C4: classics demand held up until supply saturated it, and the erosion was concentrated in performance footwear among adults. That segment lost its product engine and its specialty-retail presence.
+- **Assessment:** the new data move the start of brand erosion earlier, which helps the "brand weakened" symptom. They do not help the claim that the marketing mix caused it, because the slide predates the mix change. The best upstream explanation is still the operating-model decision: DTC-first distribution plus the dissolved category engine. The marketing shift is one of its outputs. I keep the first challenger's share of about 2% to 8% of the $4,964M decline, low confidence.
+- **Limits:** I did not open the underlying Cowen report, only SGB's summary. It is one survey wave with recalled prior-year comparisons, the methodology is not given, and it covers the US only.
+
+| Source | Date | Status |
+|---|---|---|
+| SGB Media, "Cowen Survey: Nike, Lululemon and Dick's SG Seize Share With Younger Consumer" (sgbonline.com) | 2022-10-24 (survey July 2022) | OPENED |
+| Morning Consult, Kaepernick favorability poll (net favorability +69 to +36; among 18 to 21 year olds +81 to +51), as summarized by nexttv.com | 2018-09 | SNIPPET (context only; a one-off shock, not used in the estimate) |

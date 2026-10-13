@@ -388,3 +388,48 @@ HOKA brand wholesale net sales, Deckers fiscal years ending Mar 31 (Deckers FY20
 | Deckers FY2023 10-K, https://www.sec.gov/Archives/edgar/data/910521/000091052123000016/deck-20230331.htm | 2023-05-26 | OPENED | HOKA growth: existing accounts plus "incremental door expansion", "franchise road running updates" |
 | Deckers FY2024 10-K, https://www.sec.gov/Archives/edgar/data/910521/000091052124000017/deck-20240331.htm | 2024-05-24 | OPENED | HOKA wholesale "higher consumer demand across an assortment of performance products" |
 | `dtc_wholesale.md`, `franchise_oversupply.md`, `org_talent.md`, `timeline_forensics.md`, `challengers_taste.md` (this folder) | 2026-10-13 | REPO-NOTE | CDO rationale, account exits, CDA chain shares, run-specialty +35.4%, Robin Green to Hoka |
+
+---
+
+## Challenge: REFUTER
+
+Second refuter pass, 2026-10-13. Scope kept deliberately light: a full REFUTER challenge and a ROOT-CAUSE challenge already sit above this section and between them re-open the FY2025 and FY2026 10-Ks, the Q1 FY2027 10-Q, Deckers 10-Ks and 25 official Nike call transcripts. Repeating that work would add length without adding evidence, so this pass only spot-checks the base numbers and records where I land.
+
+### What I checked (REPO, from `data/nike_channel_split.csv` and `data/nike_filing_facts.csv`, each row citing the SEC filing and printed page)
+- FY2024 segment revenues match the first REFUTER table and the FY2024 10-K (filed 2024-07-25, p. 84): North America 21,396; EMEA 13,607; Greater China 7,545; APLA 6,729; NIKE Brand 49,322; Converse 2,082; NIKE, Inc. 51,362 ($M). Confirmed.
+- One point neither pass used: currency. FX translation was a detriment of about $419M in FY2025 (FY2025 10-K, p. 45) and a **benefit of about $1,023M in FY2026** (FY2026 10-K, p. 44). Each figure is measured against the prior year, so they do not sum exactly, but the currency-neutral FY24 to FY26 decline is roughly $0.5B larger than the reported $4,964M. This slightly enlarges the decline to explain. It does not help the innovation hypothesis, because the extra decline sits in the same places (Greater China, Converse, Sportswear, Jordan) that fail its category and geography tests.
+
+### Where I land
+- I agree with the first REFUTER pass and the ROOT-CAUSE pass. Three points carry the case: the category test fails (Performance grew while Sportswear and Jordan retro fell); the reversal test fails (Running recovered, about $1B added, yet Q1 FY27 was -4% and about 81% of the Q1 FY27 NIKE Brand decline is Greater China); and the CFO's full Q1 FY25 quote attributes the run-specialty share loss to the channel pullback.
+- The investigator's 10% to 25% rests on an unanchored 15% to 30% backfill assumption applied to a "$4B cut in FY25" that the transcript says was a peak-to-end-FY26 figure. I would use about **0% to 10%** of the decline and classify the drought as a **symptom** of the CDA channel and merchandising decisions, which are already counted in `dtc_wholesale.md` and `franchise_oversupply.md`.
+- What survives: real forgone growth from FY21 to FY24, which shows up in running share but not in revenue (which rose), and a possible residual gap in creating new lifestyle platforms. Neither is a primary driver of the measured decline.
+
+### Sources (this pass)
+| Source | Date | Status |
+|---|---|---|
+| `data/nike_channel_split.csv` rows citing Nike FY2024 10-K p. 84 | filed 2024-07-25 | REPO |
+| `data/nike_filing_facts.csv` FX translation rows citing FY2025 10-K p. 45 and FY2026 10-K p. 44 | filed 2025-07-17, 2026-07-15 | REPO |
+| First REFUTER and ROOT-CAUSE sections above | 2026-10-13 | REPO-NOTE |
+
+## Challenge: ROOT-CAUSE (second pass, brief)
+
+Challenge date: 2026-10-13. A full ROOT-CAUSE pass (RC0 to RC8 above) already covers this lens with OPENED transcripts and Deckers 10-Ks. The user asked for effort scaled to need, so this pass only re-checks its conclusion and tries to close its main open gap (RC7: when and how Nike left run specialty). I did not repeat the work above.
+
+### Check result
+- **I agree with RC0: symptom of another cause.** Nothing I found reverses it. The decisive tests are all already in the file, from REPO and OPENED sources:
+  - category: Performance grew while Sportswear fell;
+  - reversal: Running recovered about $1B, yet total revenue was still -4% in Q1 FY27;
+  - geography: China Running grew while Greater China fell 26%;
+  - timing: HOKA wholesale grew +43%, +40% and +50% in Deckers FY18 to FY20, after Nike's June 2017 CDO and before the 2020 reorg or remote work.
+- **Gap check on the run-specialty exit, SNIPPET only:**
+  - A web search (2026-10-13) surfaced trade-press accounts (formula4media.com, worldfootwear.com, sgbonline.com) that confirm the 2017 plan to focus on about 40 key partners and to exit "undifferentiated" distribution.
+  - They also confirm named wholesale account closures in Aug 2020 and 2021 (for example Zappos, Dillard's, DSW, Big Five).
+  - They do NOT name run-specialty accounts exited in 2017 to 2018. Nike never disclosed its list of cut accounts.
+  - So Friend's "more than 4 years ago, we pulled back" (Q1 FY25, OPENED above) remains the only direct evidence on run-specialty timing. It is consistent with the trade press but not independently confirmed. This gap stays open; I treat it as low priority because the conclusion does not depend on it.
+- **No change to the contribution estimate.** I keep RC6: about $0 to $0.5B independent of the CDO, CDA and classics-concentration mechanisms (0% to 10% of the $4,964M decline). It is not additive with `franchise_oversupply.md`, `dtc_wholesale.md` or `timeline_forensics.md`.
+
+### Sources (this pass)
+| Source | Date | Status | Used for |
+|---|---|---|---|
+| Web search: formula4media.com "nike reportedly to stop selling to more sporting goods accounts"; worldfootwear.com news id 6378; sgbonline.com | searched 2026-10-13 (articles 2017 to 2021) | SNIPPET | 2017 focus on about 40 key partners; named wholesale closures in 2020 and 2021; no run-specialty account list found |
+| RC1 to RC8 above | 2026-10-13 | OPENED / REPO (as recorded there) | All substantive conclusions |

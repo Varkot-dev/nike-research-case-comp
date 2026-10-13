@@ -362,3 +362,27 @@ The hypothesis does not survive under the root-cause lens. Macro shocks were rea
 | Euromonitor US athletic footwear share (34.1% 2019, 28.9% 2025), via `dtc_wholesale.md` | 2026 | REPO-NOTE (SNIPPET in that note) |
 | `franchise_oversupply.md` RC2, `digital_tech.md` (planned digital traffic decline, adidas e-com 2026) | 2026-10-13 | REPO-NOTE |
 | Not checked (search budget exhausted): adidas 2020 and 2021 c-n rates (so the full-cycle comparison starts at 2021), adidas "Own the Game" DTC target as a second test of the COVID-signal response | | GAP |
+
+## Challenge: REFUTER (second pass, kept short)
+
+Date: 2026-10-13. A full REFUTER challenge is already above (R1 to R5). It checked every cited number, ran the channel, sentiment, value-retailer, category and China-peer natural experiments, and showed the Vans control is contaminated. A second full pass would repeat it, so this pass is cut down on purpose. It checks one gap left open above and adds nothing else.
+
+**Gap closed: Puma Q2 2026.** Puma's currency-adjusted sales fell 9.4% to EUR 1,690.6M in Q2 2026 (H1 2026 -5.2% c-a). Wholesale fell 14.0% c-a, DTC rose 0.4%, Asia-Pacific grew 8.6%. Puma's release puts the fall down to its own "reset measures" (started Q3 2025) plus "softer demand" in some regions linked to the Middle East conflict (Puma Q2 2026 release, 2026-07-31, about.puma.com PDF, SNIPPET via search summary; not OPENED).
+
+Reading: this is the one large global peer that fell in 2026, so it is the best evidence *for* a 2026 macro drag. But it does not save the hypothesis. (1) Like Nike, Puma calls its decline mostly self-inflicted (a reset). (2) Its weakness is in wholesale and EMEA/Americas, while adidas grew 14% c-n in H1 2026 with Europe +6% (R3 above), so the brands were not facing one shared shock. (3) The decline began in 2025, not in the FY24 to FY25 window where Nike's fall started. At most it supports the upper end of the FY27 range above (15 to 30%). It does not change the FY24 to FY26 attribution.
+
+**Verdict unchanged:** minor. About 8% to 22% of FY24 to FY26 as a gross figure (REFUTER R5), close to zero net of the FX tailwind (ROOT-CAUSE RC6). The comparative claim ("explains more than Nike-specific factors") does not survive.
+
+| Source | Date | Status |
+|---|---|---|
+| Puma Q2 2026 results release, https://about.puma.com/sites/default/files/financial-report/2026/puma-q2-2026-release-eng-final.pdf | 2026-07-31 | SNIPPET |
+| SGB Online, "Puma narrows Q2 loss, sales slump 9 percent", https://sgbonline.com/exec-puma-narrows-q2-loss-sales-slump-9-percent/ | 2026-07/08 | SNIPPET (title only) |
+
+### RC7. Second ROOT-CAUSE pass (addendum, 2026-10-13)
+
+A second root-cause challenger was assigned this hypothesis after the section above was written. I judged a full re-run unnecessary: RC1 to RC6 already apply this lens, the REFUTER section already ran the natural experiments (channel, timing, income, category, geography), and both point the same way. I limited this pass to re-checking the two load-bearing numbers that only this section uses:
+
+- FX translation: FY2025 detriment of about $419M (FY2025 10-K p. 45, "consolidated Revenues was a detriment of approximately $419 million") and FY2026 benefit of about $1,023M (FY2026 10-K p. 44). Both match `data/nike_filing_facts.csv` rows `fx_translation_revenue_impact` (REPO). Net tailwind about $604M (my arithmetic) stands. Q1 FY27 adds a further $26M benefit (Q1 FY2027 10-Q p. 32, REPO), so FX is not a headwind in the FY27 leg either.
+- The bullwhip comparison in RC1 rests on adidas releases already OPENED above; nothing new to add.
+
+No new evidence changes the conclusion. Verdict unchanged: **minor**, about 7% to 20% of the currency-neutral FY24 to FY26 decline gross, close to zero net of FX; FY27 leg 15% to 30%. Remaining gaps are the ones listed in the REFUTER and ROOT-CAUSE source tables (On, ASICS, Puma 2026 interims; adidas 2020 to 2021 c-n rates).

@@ -329,3 +329,28 @@ Under this chain the org and talent changes are an effect of step 2 and step 3, 
 | Nike FY2022 10-K, https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm | 2022-07-21 | sport-category table discontinued; Men's/Women's/Kids'/Jordan FY21 restated (p. 32) |
 | Nike FY2024 10-K, https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm | 2024-07-25 | Men's/Women's/Kids'/Jordan FY24 (p. 34) |
 | EDGAR full-text search (efts.sec.gov), Nike CIK 320187, phrases "consumer construct", "category offense", "Edit to Amplify" | 2026-10-13 | first and last use of each phrase in filings |
+
+---
+
+## Challenge: REFUTER
+
+Second refuter pass, 2026-10-13. Kept short on purpose: the earlier REFUTER and ROOT-CAUSE sections above already re-checked the segment numbers, the HQ series back to FY2016, the FY17 to FY19 running data, the DTC versus wholesale split and the Vans control. I agree with them and do not repeat them. I ran only the checks they left open.
+
+1. **HQ figures FY23 to FY26 confirmed, and their shape cuts against the hypothesis.** 10-K Item 2 text (EDGAR, OPENED Oct 13, 2026): HQ "occupied by approximately" 11,400 (FY2023 10-K), 10,700 (FY2024), 10,500 (FY2025), 10,600 (FY2026). Headquarters was *growing again* from FY22 (11,200) to FY23 (11,400), the two years when the 2020 talent loss should have been biting hardest. The next cut (11,400 to 10,700, -6%, my arithmetic) came with the Dec 2023 cost plan, alongside the return to sport teams, and it is the one that sits right before the Jun 2024 revenue turn. So the HQ cut closest in time to the decline belongs to the reversal of the 2020 construct, not to the construct itself.
+2. **Worldwide headcount confirmed** (same 10-Ks, OPENED): 83,700 (FY23), 79,400 (FY24), 77,800 (FY25), 73,000 (FY26). The largest workforce reductions (-12.8% FY23 to FY26, my arithmetic) happened during the decline and under the insider CEO. If cuts drain capability with a 2 to 3 year lag, as the hypothesis requires, this is forward risk for FY27 to FY29. It is not an explanation for FY25 to FY26.
+3. **Peer check, from the repo** (`Gulden and Plank turnarounds vs Nike/`, REPO-NOTE): Under Armour under a returning founder (Plank) had heavy management churn and repeated restructurings, and still shrank. adidas under Gulden recovered without a big 2023 layoff program. Leadership continuity versus churn does not sort peer outcomes any better than it sorts Nike's own segments.
+
+**Net:** nothing here rescues the hypothesis. I side with the earlier REFUTER: it is a **minor** contributor, about 0% to 10% of the FY24 to FY26 decline, overlapping the oversupply and newness estimates and not measured directly. The talent strand is real as history and as forward risk, but the data does not show it causing the FY25 to FY26 decline.
+
+Sources: Nike FY2023 to FY2026 10-Ks, Items 1 and 2 (https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm, .../000032018724000044/nke-20240531.htm, .../000032018725000047/nke-20250531.htm, .../000032018726000088/nke-20260531.htm), OPENED Oct 13, 2026 from text copies already in this session's scratchpad. Peer notes: REPO-NOTE.
+
+---
+
+## Challenge: ROOT-CAUSE
+
+Second ROOT-CAUSE pass, 2026-10-13. Kept deliberately short. The first ROOT-CAUSE section above (C1 to C6) already traced the org and talent change upstream to the 2017 Consumer Direct Offense, using primary filings, and two REFUTER passes checked the numbers. A fresh full challenge would repeat them, so I ran one check on the open gap (C5: no web search was available) and stopped.
+
+1. **Nike's own 2020 announcement ties the construct to CDA, not the other way round.** Nike's June 2020 release, reposted by Santa Clara University's Retail Management Institute (https://www.scu.edu/business/retail-management-institute/news-and-events/news-stories/nike-announces-senior-leadership-changes-to-unlock-future-growth-through-the-consumer-direct-acceleration-.html, SNIPPET, seen 2026-10-13), is headed "Senior Leadership Changes to Unlock Future Growth Through the Consumer Direct Acceleration" and says the "new, simpler consumer construct of Men's, Women's and Kids" serves that strategy. The org chart was a tool of the channel and franchise strategy. That matches C2 item 1 (FY2021 10-K p. 28, OPENED): CDA was "a new digitally empowered phase of the Consumer Direct Offense" of 2017.
+2. **Web commentary adds no testable evidence.** The same search (2026-10-13) returned blogs and commentary (Founding Fuel, philippdubach.com, presse-citron.net; SNIPPET) that repeat the "lost sport expertise" story. None gives category, region or timing data that would separate the construct from the 2017 strategy or from the classics cycle, so none changes the result.
+
+**Net:** I agree with the first ROOT-CAUSE pass. The organizational and talent change is a **symptom of another cause**: it implemented a classics-heavy, DTC-first franchise strategy set in 2017 by an insider CEO. Its incremental share of the $4,964M FY24 to FY26 decline is about 0% to 5%. Its forward risk (yearly reorganizations, the 2026 CFO and CAO turnover, -12.8% headcount FY23 to FY26) is real but sits outside the measured decline.

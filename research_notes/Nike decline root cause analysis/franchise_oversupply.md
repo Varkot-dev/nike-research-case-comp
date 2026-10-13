@@ -261,3 +261,55 @@ Oversupply sits at step 2 and step 3. It is a real transmission mechanism and it
 | Bloomberg Businessweek Donahoe feature (bloomberg.com/news/features/2024-09-13/...) | 2024-09-13 | SNIPPET (403) |
 | Giunco "Nike: An Epic Saga of Value Destruction" via [FashionUnited](https://fashionunited.com/executive/report/just-cant-do-it-nikes-ongoing-strategy-struggles/2024080261226) and [Puck](https://puck.news/whats-the-matter-with-nike/) | 2024-08 | SNIPPET |
 | `governance_incentives.md`, `innovation_drought.md`, `china.md`, `challengers_taste.md` in this folder | 2026-10-13 | REPO-NOTE |
+
+---
+
+## Challenge: REFUTER (second pass, short)
+
+Challenge date: 2026-10-13. A full REFUTER challenge (R1 to R9) and a ROOT-CAUSE challenge already appear above. I did not repeat them. This pass spot-checks their load-bearing numbers against `data/nike_filing_facts.csv` (**REPO**, each row carries its SEC filing and page) and adds two small tests. All arithmetic is mine.
+
+### Verdict
+**I agree with the first REFUTER: it does not survive as the primary cause. It is a contributing cause**, at about 10% to 25% of the net FY24 to FY26 decline, not the investigator's 40% to 60%. I found no new evidence that rescues "primary."
+
+### Spot checks (all held)
+- **Q1 FY27 decline of $507M ($11,720M to $11,213M; Q1 FY26 and Q1 FY27 10-Qs, p. 1, REPO).** By segment: Greater China -$332M ($1,512M to $1,180M), Converse -$103M ($366M to $263M), EMEA -$155M ($3,331M to $3,176M), APLA -$27M ($1,490M to $1,463M), North America **+$107M** ($5,020M to $5,127M) (Q1 FY26 8-K Ex. 99.1 p. 4; Q1 FY27 10-Q p. 25). This confirms R3: China plus Converse equal about 86% of the relapse. The Dunk's global "$200 million" overlaps them and is not a separate 40%.
+- **Q2 FY26 "+6% excluding classics."** Total revenue was +1% reported and 0% currency-neutral (Q2 FY26 8-K Ex. 99.1 p. 1, REPO). NIKE Brand went from $11,950M to $12,124M (+1.5%), while Converse fell from $429M to $300M (-30%) (10-Qs p. 20 and p. 29). A $550M headwind is about 4.6 points of the NIKE Brand base, so the "+6%" works only for NIKE Brand excluding Converse, not for total Nike, Inc. revenue. The investigator's wording ("currency-neutral revenue was +6%") overstates it slightly at the total-company level. It is a minor point, but it means the counterfactual already excludes the Converse collapse.
+
+### New test 1: Jordan Brand grew fastest while the retro oversupply was at its peak
+- Jordan Brand revenue: FY22 $5,122M, then **FY23 $6,589M (+29% reported, +35% c-n)**, then FY24 $6,988M (+6%, +7% c-n) (FY2023 10-K p. 32; FY2024 10-K p. 34; REPO).
+- FY23 (June 2022 to May 2023) is the same window as 700+ Jordan releases a year (WSJ via InvestNews, see the ROOT-CAUSE section; second-hand) and the AJ1 resale premium falling to 4% (Reuters via Cyprus Mail, 2023-09-28, REPO-NOTE). If oversupply had destroyed scarcity and caused brand fatigue, Jordan should have weakened in FY23 or FY24. Instead it had its best year on record. The decline (FY25 -16% c-n) came only once management cut supply and the industry-wide rotation to running and terrace styles was under way. The hypothesis needs a lag of 2 or more years for the fatigue to appear. A lag that long weakens it, because a lag that size cannot be told apart from the fashion cycle.
+
+### New test 2: the "80%" ratio mixes windows
+- "More than $4B from peak" is measured from the classics' **peak**, which management placed before the Q4 FY24 lifestyle decline ("especially in April and May," Q4 FY24 call, OPENED by investigator). Part of the drop from peak therefore falls inside FY24 itself, which is the base year of the $4,964M FY24 to FY26 comparison. The overlap is unknown, but it can only push the true FY24 to FY26 classics effect below $4B, never above it. This is a gross, unaudited, peak-based figure set against a net, audited, fiscal-year figure. The "80%" ratio should not be presented as a share at all.
+
+### Where the hypothesis still holds
+- The Dunk gradient, Hill's Q1 FY27 admission and the FY25 discount liquidation are real. Oversupply deepened and sped up a fade that the peers (Vans, Converse, Samba) show was coming anyway.
+
+### Sources used in this pass
+| Source | Date | Status |
+|---|---|---|
+| `data/nike_filing_facts.csv`: Q1 FY26 and Q1 FY27 segments (8-K Ex. 99.1 p. 4; [Q1 FY27 10-Q](https://www.sec.gov/Archives/edgar/data/320187/000032018726000193/nke-20260831.htm) p. 25), Q2 FY25 and Q2 FY26 segments and growth rates, Jordan FY22 to FY24 (FY23 10-K p. 32, FY24 10-K p. 34) | 2023-07 to 2026-10 | REPO |
+| Earlier sections of this note (transcripts, WSJ via InvestNews, Reuters via Cyprus Mail) | as stated there | as stated there |
+
+## Challenge: ROOT-CAUSE
+
+Second pass, 2026-10-13. A full ROOT-CAUSE challenge already sits above (RC1 to RC5, sources OPENED). I re-read it and agree with it, so I did not repeat that research. Per the user's instruction to scale the challenge to need, this pass adds only one new test from verified repo data. All figures below are from `data/nike_channel_split.csv` (10-K MD&A supplemental tables, REPO); arithmetic is mine.
+
+### RC6. Channel natural experiment, FY24 to FY26
+| NIKE Brand, $M | FY24 | FY26 | Change | % |
+|---|---|---|---|---|
+| NIKE Direct | 21,519 | 17,720 | -3,799 | -17.7% |
+| Wholesale | 27,758 | 27,453 | -305 | -1.1% |
+| North America Direct | 10,392 | 8,553 | -1,839 | -17.7% |
+| North America Wholesale | 11,004 | 11,958 | +954 | +8.7% |
+| EMEA Direct | 5,045 | 4,111 | -934 | -18.5% |
+| EMEA Wholesale | 8,562 | 8,461 | -101 | -1.2% |
+| Greater China Direct | 3,283 | 2,592 | -691 | -21.0% |
+| Greater China Wholesale | 4,262 | 3,255 | -1,007 | -23.6% |
+
+- Outside Greater China, the whole NIKE Brand decline sits in NIKE Direct (about -18% in both North America and EMEA) while wholesale was flat to up. NIKE Direct fell $3,799M, about 93% of the NIKE Brand decline of $4,100M.
+- **What this predicts:** if oversupply had caused brand-wide fatigue, wholesale sell-in (which needs retailer reorders) should have fallen too. It did not outside China. The damage is channel-specific, located in the channel that the CDA model built on the classics (RC1; Q1 FY25 Digital -20%, "largely driven by the 3 classic franchises being down nearly 50%", Nike transcript, OPENED by investigator).
+- **Caveat:** part of the Direct fall and the wholesale gain is a deliberate channel rebalancing under Hill (less digital promotion, product moved back to wholesale partners), so this test cannot fully separate "classics cut" from "channel reset". Both readings point the same way: the classics problem is the digital model's problem, not an independent brand-fatigue cause.
+
+### Verdict of this pass
+Unchanged from the first ROOT-CAUSE pass: oversupply is a real transmission mechanism and the largest visible line item, but it is a **symptom of the CDA digital-first model plus the newness gap**, with an independent share of roughly 10% to 20% of the FY24 to FY26 net decline. Further challenge is not needed on this hypothesis; the remaining open question (separating the classics cut from the deliberate channel reset inside NIKE Direct) needs franchise-by-channel data that Nike does not disclose.

@@ -227,3 +227,42 @@ Note on currency: in reported dollars a further roughly $0.7B of EMEA c-n loss i
 - Nike Korea's 2025 audit report was not opened (DART not reached); Nike Japan sales are not published.
 - Jordan's geographic split is not disclosed.
 - Vans is an imperfect control for Converse.
+
+## Challenge: REFUTER
+
+Refuter pass, 2026-10-13. Kept short on purpose, as the user asked for effort that fits the need. The investigator's filing numbers are mostly right; the problem is how the shares are built. I re-checked the core inputs against `data/nike_filing_facts.csv` (REPO) and ran three tests the notes did not run.
+
+**Numbers re-checked (REPO, confirmed):** Converse revenue 2,427 / 2,082 / 1,692 / 1,174 (FY23 to FY26) and EBIT 676 / 474 / 240 / 18; Converse c-n FY24 -15, FY25 -18, FY26 -32, Q1 FY27 -28; EMEA c-n FY25 -10, FY26 -3; EMEA and NA quarterly c-n as in table 3.2; EMEA revenue FY24 13,607, FY25 12,257, FY26 12,572. One correction to the timing claim: EMEA had already decoupled from NA in **Q2 FY26** (EMEA -1 vs NA +9, a 10-point gap, the same size as Q3 FY26), and in Q3 FY24 (EMEA -4 vs NA +3). So "decoupling from Q3 FY26" is not a clean regional break date.
+
+**R1. The EMEA residual is larger than EMEA's whole loss in the window (arithmetic error in sizing).** The estimate is a share of the FY24 to FY26 decline, so Q1 FY27 is outside the window. Within FY26, EMEA's entire c-n loss is about 3% of $12,257M, or about **$0.37B** (my arithmetic). By quarter: Q1 FY26 +1% on $3,143M (about +$31M), Q2 FY26 -1% on $3,303M (about -$33M), Q3 FY26 -7% on $2,811M (about -$197M), Q4 FY26 -6% on $3,000M (about -$180M), using prior-year quarter revenue from REPO. The "gap vs NA times quarterly base" method measures growth EMEA missed relative to NA, not revenue EMEA lost. The investigator's $0.2B to $0.5B is 54% to 135% of all EMEA c-n loss in FY26. Their own diagnosis says the FY26 loss was mainly Sportswear ("Sportswear declined double digits", while running, football and golf grew), and Sportswear is the global cause. The truly regional part (Middle East, promotional European lifestyle market) fits inside a $0.37B total that is mostly Sportswear, so a fair range is about **$0.05B to $0.2B (1% to 4%)**. In reported dollars EMEA *grew* $315M in FY26 (12,257 to 12,572), so EMEA added nothing to the FY26 reported decline.
+
+**R2. NA is a contaminated counterfactual.** NA's FY26 recovery (+5% c-n, Q2 FY26 +9%) came largely from Nike's own US wholesale expansion (Amazon, DSW, Macy's, per the notes' own section 4.1 point 2). An EMEA-vs-NA gap therefore partly measures a Nike channel choice made in North America, not a European cause.
+
+**R3. 2026 peers grew strongly in Europe, including in lifestyle.** If a soft, promotional European market were driving Nike EMEA's FY26 drop, performance and lifestyle challengers should have slowed there. They did not:
+- On Holding Q2 2026 (quarter to Jun 30, 2026, overlapping Nike Q4 FY26): EMEA net sales +15.4% reported, **+20.5% constant currency**, to CHF 228.2M; Americas +13.0% c-c. EMEA grew *faster* than the Americas (On press release, Aug 11, 2026, https://press.on-running.com/on-reports-results-for-the-second-quarter-and-six-month-period-ended-june-30-2026, OPENED). H1 2026 EMEA +22.8% c-c (search summary of the same release, SNIPPET).
+- ASICS Q1 2026 (Jan to Mar 2026, overlapping Nike Q3 FY26, the quarter the notes treat as the regional break): Europe sales **+43.8%** to JPY 84,572M, "strong performances across all categories", with SportStyle (lifestyle) also strong in Europe; ASICS EMEA excluding Onitsuka Tiger +21.2% (TheIndustry.fashion, May 13, 2026, https://www.theindustry.fashion/asics-sales-surge-as-europe-drives-43-8-growth/, OPENED).
+- adidas Europe was still +6% c-n in Q2 2026 (notes, source 9).
+Under a common market shock, a distinct regional cause predicts that peers fall too. Instead, in the same quarters Nike EMEA fell 5% to 7% while On, ASICS (lifestyle included) and adidas grew in Europe. JD Sports' Europe LFL of -2.7% and adidas's "heavy discounting" remark show a mild headwind at most. The bulk of Nike EMEA's FY26 loss is still Nike share loss, which is the global cause.
+
+**R4. Most of Converse is the same silhouette-family fade, and it is already counted elsewhere.** The notes call the $0.55B to $0.7B canvas cycle "distinct from the global classics cause". The repo's own analysis treats it as part of the same cause. `challengers_taste.md` describes Vans, Converse and Nike classics as "three owners, one silhouette family, one window", with a staggered peak (Vans FY22, Converse FY23, Nike classics Q4 FY24). `peer_differential.md` already books "Converse about $0.5B (Vans-matched)" under the cohort or classics shock. Counting it again here double-counts. Converse's early start (Q1 FY24) is what a staggered single wave predicts, so it is not evidence of an independent cause. The `challengers_taste.md` refuter also found Vans to be a contaminated control (VF's own DTC and China problems), which makes the cycle-versus-specific split uncertain in both directions.
+
+**R5. The Converse-specific part is partly a response, not a root cause.** The FY26 excess over Vans comes with a 39% demand-creation cut, lower discounts (Q1 FY27 ASP +6 points with units -34%) and obsolescence reserves. This is the same marketplace-cleanup playbook Nike ran on its classics (cut supply and promotions, accept volume loss), applied to Converse after its demand faded. It is still Converse-specific, so I keep **$0.25B to $0.4B**, but it is a management reaction to the same fade rather than a separate external cause.
+
+**R6. APLA residual is overstated.** The FY25 10-K names APLA's product drivers as "lower revenues in the Jordan Brand and Men's", which is the global cause. On a c-n base of about $0.27B, a local Korea and Japan challenger residual is more like **$0.05B to $0.15B**. Korea's -0.3% (NewDaily) is itself a "no new products, failed trends" story, which is the global product cause.
+
+**R7. Jordan:** I agree with the investigator that it is a symptom (zero distinct share). Nothing to refute.
+
+### Revised contribution (FY24 to FY26 reported decline $4,964M)
+
+| Component | Investigator | Refuter | Reason |
+|---|---|---|---|
+| Converse canvas cycle | $0.55B to $0.7B (distinct) | $0 distinct (belongs to the classics and silhouette-fade cause) | R4: same wave, already booked in `peer_differential.md` |
+| Converse-specific reset | $0.25B to $0.4B | $0.25B to $0.4B | R5: kept |
+| EMEA regional residual | $0.2B to $0.5B | $0.05B to $0.2B | R1 to R3: capped by EMEA's $0.37B FY26 c-n loss; peers grew in Europe |
+| APLA residual | $0.1B to $0.2B | $0.05B to $0.15B | R6 |
+| Jordan | $0 | $0 | Agree |
+| **Total distinct, non-China** | **$1.2B to $1.6B (25% to 30%)** | **about $0.35B to $0.75B (7% to 15%)** | |
+
+**Verdict:** as stated (25% to 30% distinct), the claim does not survive. What remains is a Converse-specific management and reset effect of about 5% to 8%, plus small regional residuals in EMEA and APLA. Together these are a minor cause, and the share is closer to 10% than 25%. EMEA's large c-n loss is real, but it is the global Sportswear cause, as the investigator also concedes.
+
+Sources added in this section: On Holding Q2 2026 release (Aug 11, 2026, OPENED); TheIndustry.fashion on ASICS Q1 2026 (May 13, 2026, OPENED); On H1 EMEA c-c figure (search summary, SNIPPET); REPO `data/nike_filing_facts.csv` (EMEA quarterly revenue, c-n growth, Converse revenue and EBIT, OPENED); REPO `challengers_taste.md` and `peer_differential.md` (OPENED).

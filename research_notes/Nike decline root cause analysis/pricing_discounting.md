@@ -340,3 +340,43 @@ Every prediction the pricing hypothesis gets right (margin hit, ASP drop, discou
 | adidas FY2022 results release (price increases, Q4 2022 discounting, Greater China -36%) | 2023-03-08 | OPENED |
 | adidas FY2025 results release and investor call (brand +10% c.n., Greater China +13%, gross margin 51.6%) | 2026-03 | OPENED |
 | `dtc_wholesale.md` (account cuts 2020 to 2021, DSW return Oct 2023) | 2026-10-13 | REPO |
+
+## Challenge: ROOT-CAUSE (second pass, short)
+
+Date: 2026-10-13. A full ROOT-CAUSE challenge already sits above (RC1 to RC7), built on primary filings and transcripts, and I found nothing in it that needs reversing. Per the user's instruction to scale challenge effort to need, this pass adds only one new test and does not repeat that work.
+
+### RC8. Lapping test: Digital keeps falling after the promotion cut has been lapped
+- North America Digital promotional days went from over 30 to zero in January and February 2025 (Q3 FY25 call, Mar 20, 2025, OPENED, cited in RC2). By Q1 FY2027 (June to August 2026), Nike is comparing against a quarter (Q1 FY26) that was already low-promotion.
+- Yet in Q1 FY2027 NIKE Brand Digital still fell 13% and NIKE Direct fell 8% to $4,142M, while wholesale fell only 1% to $6,804M (Q1 FY27 10-Q p. 22 and Q1 FY27 release p. 1, REPO via `REPORT.md` line 198).
+- **Prediction if promotion removal is the cause of the Digital loss:** the decline should fade once the cut is lapped. **Result:** it did not. A double-digit Digital decline against a no-promotion base points to traffic and demand on Nike's own channel (`digital_tech.md`, `dtc_wholesale.md`), not to discount withdrawal.
+- Q1 FY27 gross margin rose 60 bps to 42.8%, with lower warehousing and logistics adding about 90 bps (Q1 FY27 10-Q p. 19, REPO). So everything else, including tariffs, mix and any residual discounting, was a net drag of only about 30 bps. Discounting is no longer a major margin driver, while revenue is still falling, which again separates the decline from the pricing mechanism.
+
+### Verdict of this pass
+Unchanged from RC6: pricing and discounting is a real transmission mechanism (the FY25 -$1.0B footwear ASP drag and about 180 bps margin hit), but it is a symptom of oversupply of classics, the CDA channel choices and a demand and heat gap. Independent share about 0% to 5% (up to about $0.25B).
+
+| Source | Date | Status |
+|---|---|---|
+| Q1 FY27 10-Q pp. 19 and 22 and Q1 FY27 release p. 1, via `04_financial_data_pack.md` line 211 and `REPORT.md` line 198 | 2026-10-01 | REPO |
+| Q3 FY25 call (promotional days over 30 to zero), as quoted in RC2 | 2025-03-20 | OPENED (prior pass) |
+
+## Challenge: REFUTER
+
+Date: 2026-10-13. Short pass. A full REFUTER challenge (R1 to R9) and a ROOT-CAUSE challenge (RC1 to RC7) already sit above and cover the numbers check, the Digital timing test, the China and adidas peer tests and the requantification. I did not repeat them. This pass only closes the one gap the earlier refuter flagged: the Vertical Knowledge figure had not been re-opened.
+
+### RF1. Vertical Knowledge data re-opened (syndicated copy)
+- Source: Reuters story "Retailers slash prices on more Nike sneakers in 2024, data shows", via a syndicated copy at 5gantennas.org (machine-reworded text of the Reuters article), fetched 2026-10-13, **OPENED**. The FashionNetwork copy (uk.fashionnetwork.com, article 1600864) returned no readable text to curl, so it is not re-verified here.
+- What it says: eight national chains (Foot Locker, Dick's, Macy's and others); the share of Nike sneaker items marked down was 44% in early 2024 vs 19.4% in the comparable 2022 period; peers in the same sample: Hoka 4.5%, adidas 18.9%, On 23.1%, **Puma 37.4%**. Average Nike sneaker price at those retailers fell from $103.61 (Q1 2022) to $79.92 (early 2024).
+- Correction to the notes: the investigator's numbers match, but the notes omit Puma. The 44% is a share of items discounted ("twice as many items"), not an average discount depth.
+
+### RF2. What the re-opened data does to the hypothesis
+- **Puma is the missing control.** Puma was discounted almost as widely as Nike (37.4%) in the same doors. Puma also had weak, lifestyle-heavy product at the time. The two brands with the most markdowns were the two with the most oversupplied lifestyle classics; Hoka and On, with hot running product, were barely discounted. Discount breadth sorts brands by product heat, which is what the "symptom" reading predicts.
+- **Timing.** The 44% reading is from early 2024 (Nike Q3 FY24). Nike revenue for FY24 was roughly flat (REPO, $51,362M peak). The heavy discounting coexisted with flat revenue; the revenue fall came after Nike cut classics supply (Dec 2023 call, quoted in RC2). Discounting led the decline only as the visible sign of the same glut.
+- **Retail ASP fell 23% ($103.61 to $79.92), yet Nike unit demand did not respond** (FY25 footwear units -8% at lower ASP, FY25 10-K per notes above). That is the same failed price-elasticity test already in the evidence against, now confirmed at the retailer level.
+
+### RF3. Verdict
+Nothing here revives the hypothesis as a root cause. It remains a **symptom of another cause** (classics oversupply and lost product heat, upstream of that the CDA channel and assortment choices). The independent share stays in the 0% to 10% range set by the two challenges above; I see no reason to move it.
+
+| Source | Date | Status |
+|---|---|---|
+| Reuters / Vertical Knowledge story, syndicated copy at 5gantennas.org ("data-shows-retailers-will-cut-prices-on-more-nike-sneakers-in-2024-by-reuters") | Feb 2024 (story); fetched 2026-10-13 | OPENED (syndicated, reworded copy) |
+| uk.fashionnetwork.com article 1600864 | 2024-02-02 | not readable via curl; investigator's citation stands |

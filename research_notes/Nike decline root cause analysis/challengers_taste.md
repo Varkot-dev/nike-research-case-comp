@@ -411,3 +411,47 @@ If challengers were pulling demand away from Nike, their dollar gains should be 
 | On Holding FY2024 and FY2025 results releases (6-K Ex. 99.1), https://www.sec.gov/Archives/edgar/data/1858985/000185898525000005/ex991pressreleasedatedmarc.htm and https://www.sec.gov/Archives/edgar/data/1858985/000185898526000010/ex991pressreleasedatedmarc.htm | 2025-03-04, 2026-03-03 | OPENED (EDGAR curl) |
 | `data/nike_filing_facts.csv` (Nike NA quarterly revenue, Q4 FY24 to Q1 FY27) | 2026-10-12 | OPENED (repo) |
 | `innovation_drought.md` (Q1 FY25 and Q4 FY24 call quotes; Brooks No. 1 since Q1 2022), `dtc_wholesale.md` (Foot Locker shares), `franchise_oversupply.md` (Samba arc), `emea_converse_jordan.md` (Converse Q1 FY24 10-Q), `pricing_discounting.md` (Reuters price gap) | 2026-10-13 | OPENED (repo) |
+
+---
+
+## Challenge: REFUTER
+
+Second refuter pass, 2026-10-13. Kept short on purpose: the first REFUTER section above already re-checked the investigator's core numbers against primary sources (Euromonitor via HGI, Circana, SGB, Nike FY26 10-K, VF FY23 10-K: all confirmed) and ran the main refutation tests (staggered Vans/Converse/Nike classics timing, Crocs and lululemon "comfort/quiet" declines, Adidas vs Puma divergence, NA vs China geography). The ROOT-CAUSE section added the On/Hoka see-saw. I did not repeat that work. I looked only for one thing those passes said was missing: a large private challenger's 2025 numbers, which is the cleanest test of the see-saw claim.
+
+**RF1. New data point, and it cuts partly against the refuters.** New Balance reported record 2025 global sales of $9.2B, +19% year over year, its fifth straight year of double-digit growth and fifth straight year of global share gains; CEO Joe Preston cited "more than 20% growth in North America and more than 30% growth in Europe" (Retail Dive, "The Weekly Closeout", Feb 20, 2026, quoting the company's Feb 19, 2026 release; OPENED via curl). NB is private, so this is company-reported, not audited.
+
+- What it means for the see-saw test (RC2): calendar 2025 is the period in which Nike NA turned positive (Q1 FY26 +4.0%, Q2 FY26 +8.8%) and On and Hoka decelerated. A heritage/lifestyle challenger nonetheless grew more than 20% in North America in the same year. So not all challenger growth faded when Nike's supply came back; the heritage leg (NB) was still taking share in calendar 2025. That is real support for the "durable shift" part of the hypothesis, at least for the heritage segment.
+- What it does not mean: Nike NA footwear still grew 5% in FY26 in a flat roughly $90B US market (Circana via MR Magazine, OPENED in first pass). If both NB and Nike gained in a flat market, the share came from others (VF/Vans, Under Armour, Puma, Skechers' share is the open question), which is consistent with first-pass finding R3.9 that challengers fed mostly on weaker incumbents. It does not show NB taking revenue from Nike in the window when Nike's revenue was falling hardest; it shows NB growing in all regimes.
+
+**RF2. Net effect on the estimate.** The NB data stops me from shrinking the taste share as far as the ROOT-CAUSE pass (10% to 20%). It does not restore the investigator's 25% to 45%, because the geography test (NA footwear +5% in FY26, ex-China Nike Brand about flat in Q1 FY27, decline concentrated in China and in Converse's deliberate reset) is unchanged. My reconciled range: **about 20% to 30% of the $4,964M FY24 to FY26 decline (central about 25%, roughly $1.2B)**, with about 10% to 15% truly independent of Nike execution. Non-additive with oversupply, innovation and DTC estimates.
+
+**RF3. Verdict.** The hypothesis as worded ("structural force taking share regardless of Nike execution") does not survive: Nike regained NA share once product returned, Adidas and Nike diverged from Puma and UA under the same taste regime, and the "comfort/quiet" leg reversed in 2025 to 2026 (Crocs, HEYDUDE, lululemon). A weaker version survives as a **contributing cause**: a durable heritage/running rotation exists (NB +20% NA in 2025 is the best new evidence for it) but its cost to Nike was magnified or minimized by Nike's own execution. No further challenge rounds seem needed; the first REFUTER and ROOT-CAUSE passes already settle the main questions, and this pass only adjusts the range.
+
+| Source | Date | Status |
+|---|---|---|
+| Retail Dive, "The Weekly Closeout: New Balance hits record sales in 2025", https://www.retaildive.com/news/new-balance-record-annual-sales-2025-chinese-laundry-acquired-gordon-brothers/812646/ | 2026-02-20 | OPENED (curl) |
+| FashionUnited, "New Balance achieves 9.2 billion dollars in annual sales", https://fashionunited.com/news/business/new-balance-achieves-9-2-billion-dollars-in-annual-sales/2026021970690 | 2026-02-19 | SNIPPET (page returned no text) |
+| All other figures: first REFUTER and ROOT-CAUSE sections above | 2026-10-13 | as labelled there |
+
+## Challenge: ROOT-CAUSE (second pass, short addendum)
+
+Research date 2026-10-13. Scope kept deliberately small: the ROOT-CAUSE challenge above (RC1 to RC8) already ran the key tests from primary filings (the North American see-saw in RC2 and the capture test in RC3), and I found nothing that overturns them. Re-running that work would add nothing. This pass only fills one gap listed in RC7: is the running shift an activity change (an exogenous upstream cause) or a fashion read-through of Nike's own vacuum?
+
+### A1. New evidence: running as an activity did grow, independent of Nike
+- Strava Year in Sport 2025 (released Dec 2025): Gen Z race participation up 28% (5K), 39% (10K), 31% (half) and 33% (marathon) year on year; new running clubs on Strava about 3.5 times the prior level. SNIPPET (search summaries of Athletech News, SGI Europe, Running Insight coverage, Dec 2025). Strava platform data, not a population survey, so it overstates growth through user-base growth.
+- SFIA 2025 Topline: overall US participation 247.1M (80.0% of age 6+) in 2024 vs 242.0M in 2023; running/jogging was the most intended activity among younger age groups in the 2025 mid-year report. SNIPPET (SGI News, SFIA release pages, 2025). I could not open the running/jogging participant table (paywalled).
+
+### A2. What this changes
+- It confirms there is a real exogenous upstream driver: a behavioral shift into running, racing and run clubs, strongest among young consumers. That part is not a symptom of Nike's decisions.
+- But it is a **category expansion**, not a share-taking force that works "regardless of execution". An activity boom predicts running dollars rise for every credible running brand, which is what Circana shows (+7%, +9%, +13%), and it predicts the brand with the best running product wins it. Brooks (No. 1 in US adult performance running from 2022), On and Hoka won it while Nike had a product gap; Nike won back run specialty share (+35.4% dollars to Sept 2025) once Vomero and Pegasus returned. The activity shift is upstream of the category growth; Nike's product and channel decisions are upstream of who captured it.
+- So the RC1 chain stands, with one amendment: the exogenous layer has two parts, a canvas and court silhouette fade (mostly Converse) and a genuine running activity boom. The second was an opportunity Nike forfeited in 2021 to 2024, which mostly shows up as missed growth before FY24 rather than as FY24 to FY26 decline.
+
+### A3. Verdict from this pass
+Agree with RC1: the challenger share gain in Nike's FY24 to FY26 decline is best classified as a symptom of Nike's 2020 to 2023 product, franchise and channel decisions, with a real but small exogenous residual (about 10% to 20% of the $4,964M decline, mostly Converse). The investigator's 25% to 45% overlaps with the oversupply, innovation and DTC estimates and should not be added to them.
+
+### A4. Sources (this addendum)
+| Source | Date | Status |
+|---|---|---|
+| Strava Year in Sport 2025 coverage: https://athletechnews.com/running-walking-strength-training-strava-year-in-sport-report/ ; https://www.sgieurope.com/consumer/gen-z-chooses-fitness-over-social-media-strava-study-reveals/118471.article ; https://www.runninginsight.com/movement-is-in-running-is-cool-and-community-rules | Dec 2025 | SNIPPET |
+| SFIA 2025 Topline and mid-year participation releases: https://sginews.com/Content/sfia-finds-strong-participation-and-lowest-inactivity-ever.aspx ; https://sfia.org/resources/sfia-releases-first-edition-of-mid-year-participation-report-with-real-time-analysis/ | 2025 | SNIPPET |
+| RC2 to RC8 above (On 6-K, Deckers 8-K, Nike filing facts) | 2023 to 2026 | OPENED (earlier in this file) |

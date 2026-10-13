@@ -334,3 +334,34 @@ The upstream explanation fits every row. The tariff explanation fits one row, an
 | Nike Q4 FY25, Q2 FY26, Q4 FY26, Q1 FY27 call transcripts (investors.nike.com, scratchpad text) | 2025-06-26 to 2026-10-01 | OPENED | mitigation plan, NA underlying margin, "tighten buys", Denton on sourcing tailwind vs discount drag |
 | Deckers 10-K FY2026 (sec.gov, scratchpad text) | 2026-05 | OPENED | domestic sales +0.2%, GM 57.7% and drivers |
 | `data/nike_filing_facts.csv` | 2026-10-12 | REPO | inventories, EBIT, segment revenue |
+
+---
+
+## Challenge: REFUTER
+
+Date: 2026-10-13. Second refuter pass, kept short on purpose. The first "Challenge: REFUTER" section above already checked every key number against primary filings (FY26 10-K, Q1 FY27 10-Q, Q4 FY25 and Q4 FY26 call transcripts, On 20-F, Deckers 10-K, all OPENED) and all of them held. It also added a within-company natural experiment (the FY2020 Section 301 tariffs, which Nike absorbed through full-price ASP while gross margin rose 30 bps over the first nine months of FY20). The ROOT-CAUSE challenge added the adidas net-tariff comparison. Another full pass would only repeat that work, so this addendum records the conclusion and one small framing point.
+
+**Verdict: the hypothesis does not survive. "Minor" stands.**
+
+1. **No new contrary evidence.** Nothing in this pass weakens the three tests that falsify the hypothesis: (a) FY25, the biggest year of EBIT loss (-$2,761M of -$3,675M ex-refund), had product costs at +80 bps and logistics at +20 bps as tailwinds (FY25 10-K p. 35, REPO). (b) About 95% of the FY26 ex-refund EBIT decline came from segments with no meaningful US tariff exposure (REFUTER R3 above, REPO arithmetic). (c) Revenue in the tariff-exposed segment rose (NA +4.8% in FY26, footwear units +6%, FY26 10-K, OPENED in the first pass).
+2. **Framing point.** The headline share should be the reported, refund-included figure of **about 4% to 7%** of the FY24 to FY26 EBIT decline. The ex-refund 24% to 41% range describes a cost that was repaid in cash in Q1 FY27 (Q1 FY27 10-Q cash flow text, OPENED in the first pass). Following the first REFUTER pass, use about $1.0B to $1.14B of FY26 tariffs and drop the $1.5B annualized upper bound.
+3. **Remaining gap (unchanged).** No 2025 to 2026 filings were opened for lululemon, Under Armour or Puma. A weak-pricing-power peer that took a larger tariff hit would support "tariffs amplify weakness". It would not support "tariffs caused Nike's decline", so the verdict does not depend on it.
+
+Sources: the sources listed in the REFUTER R9 and ROOT-CAUSE C5 tables above, plus `data/nike_filing_facts.csv` (REPO, through 2026-10-12). No new web pages were opened in this pass.
+
+## Challenge: ROOT-CAUSE (second pass, 2026-10-13)
+
+Scope note: a full ROOT-CAUSE challenge already sits above (C1 to C5) and I agree with it. Re-running the same lens at length would duplicate it, so this pass is deliberately short and tests only the one upstream link the earlier challenges did not: whether sourcing and freight disruption (not sourcing cost) caused the oversupply that later drove the margin collapse. That would make "sourcing" upstream of the real cause rather than a minor overlay.
+
+**Test.** If supply-chain disruption seeded the oversupply, then (a) the filings should tie the inventory build to sourcing, (b) the glut should persist into the decline window, and (c) the FY25 clearance should involve the same late-arriving product.
+
+**Finding (a): yes, for FY22 to FY23.** FY2022 10-K (filed 2022-07-21, p. 28, sec.gov, OPENED): Vietnam and Indonesia factory shutdowns cost "approximately three months of production", and "extended inventory transit times drove elevated levels of in-transit inventory. These supply chain impacts and a COVID-19 resurgence in Greater China, combined with other factors, caused Inventories to grow to $8.4 billion, an increase of 23%." It also warned of "increased promotional activity to sell seasonal product arriving late." Inventory then peaked at $9,662M on 2022-08-31, +44% y/y (Q1 FY23 release, REPO). So sourcing disruption is a genuine upstream cause of the FY23 liquidation.
+
+**Finding (b) and (c): no, for the decline window.** Inventory was back to $7,519M by May 2024 and $7,489M by May 2025 (REPO), and FY24 gross margin rose to 44.6% (REPO). The FY25 hit came from "higher inventory obsolescence reserves" (-90 bps) and discounts (-180 bps) while product costs (+80) and logistics (+20) helped (FY25 10-K p. 35, REPO). Units were not elevated, so FY25 clearance was aged franchise product that stopped selling, a demand problem, not late-arriving goods. The FY23 glut was cleared in FY23 to FY24, during which revenue still grew.
+
+**Verdict of this pass.** The disruption channel is real but timed wrong: it explains the FY23 margin dip and liquidation, which predated the revenue decline and was fully absorbed by FY24. It does not plausibly upgrade tariffs, freight or sourcing to a cause of the FY25 to FY27 decline. The earlier conclusion stands: revenue about 0%, FY25 about 0%, FY26 gross tariffs a real but exogenous and partly refunded hit, with the portion that stuck to margin being a symptom of the oversupply and discounting cause. Rating: minor. No further challenge seemed warranted.
+
+| Source | Date | Status | Used for |
+|---|---|---|---|
+| Nike FY2022 Form 10-K (nke-20220531.htm, sec.gov), p. 28 | 2022-07-21 | OPENED | factory closures, in-transit inventory, inventory +23%, late-product promotions |
+| `data/nike_filing_facts.csv` (inventories 2022-08-31 to 2025-05-31; FY25 GM drivers) | 2026-10-12 | REPO | inventory path, FY25 margin bridge |

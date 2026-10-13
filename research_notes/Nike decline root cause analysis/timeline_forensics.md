@@ -178,3 +178,41 @@ Inference, wide error bars, non-additive overlaps netted:
 - No quarterly US market share series from one source to time the share loss against the revenue break.
 - Quarterly digital growth before FY23 is available only as reported in releases (some quarters c.n., some reported).
 - The Q4 FY20 (June 25, 2020) call transcript, where CDA was first presented, was not opened directly; its date and content are taken from the FY20 10-K and repo notes.
+
+## Challenge: REFUTER
+
+Date: 2026-10-13. Scope kept tight on purpose: I re-checked the four claims the verdict rests on (digital leads, the Q1 FY25 margin reading, lean inventory at the cliff, the 50% to 60% share) against primary filings, and did not re-litigate points that already hold (Hill, tariffs and the boycott as non-triggers; the Converse lead).
+
+**Verdict: does not survive as "primary cause proven by timing". Revised to contributing cause.** The classics supply reset is large in dollars, but the timeline does not isolate the CDA classics-on-digital mechanism as the trigger, and in North America, the region the notes call the "purest" case, the order of events runs the other way.
+
+### 1. P1 (digital leads, wholesale does not) fails in North America
+- Q1 FY24 10-Q (quarter ended Aug 31, 2023, filed Oct 2023), North America MD&A, OPENED (https://www.sec.gov/Archives/edgar/data/320187/000032018723000052/nke-20230831.htm): NA revenue -1% c.n.; "Wholesale revenues decreased 8%, reflecting our proactive decisions to manage inventory supply and prioritize marketplace health"; NIKE Direct +7% with "digital sales growth of 4%"; "Unit sales of footwear decreased 10%, while higher ASP per pair contributed approximately 8 percentage points"; apparel units -11%, ASP +10 points; declines in Men's, Women's and Kids' "largely offset by higher revenues in the Jordan Brand".
+- Q2 FY24 10-Q (quarter ended Nov 30, 2023), OPENED (https://www.sec.gov/Archives/edgar/data/320187/000032018724000004/nke-20231130.htm): NA wholesale -9% ("proactive decisions ... coupled with our liquidation of excess inventory in the prior year"); NA digital +2%; footwear units -17% with ASP +12 points; Jordan Brand again higher.
+- Reading: in NA the first break was wholesale and unit volume, masked by price, while NA digital was still growing and the classics-heavy Jordan Brand was growing. The global "+2% digital" in Q1 FY24 came from EMEA digital -2% and APLA digital -3% (same 10-Q, OPENED), not from NA. The prediction "digital first, wholesale last" holds only at the consolidated level.
+
+### 2. The lead indicator is contaminated by a base effect
+- Nike's own words (Q2 FY24 10-Q, above) say FY24 wholesale was lapping "liquidation of excess inventory in the prior year". FY23 digital (+34% c.n. Q2 FY23, +24% Q3 FY23) was also the period of heavy markdowns. A drop from +24% to +2% one year after a liquidation surge is what a base effect predicts with no change in consumer demand for classics. Timing alone cannot separate "classics fatigue on digital" from "lapping clearance volume". The notes list the liquidation as an "amplifier" but still read the Q1 FY24 digital slowdown as the first link of the chain.
+
+### 3. Units fell a year before revenue, which fits pricing as a co-trigger
+- NA footwear units -10% (Q1 FY24) and -17% (Q2 FY24), with ASP adding 8 and 12 points (10-Qs above, OPENED). That is a large volume loss with price doing the work of holding revenue, four quarters before the revenue cliff. The notes rate price increases as "a modest contributor", but the timing evidence for pricing (onset Spring 2022 to FY24, units break Q1 FY24) is as good as for the digital chain, and it starts in the channel and region where the digital chain was supposed to be strongest.
+
+### 4. The Q1 FY25 margin reading is overstated
+- Q1 FY25 10-Q, gross margin bridge, OPENED (https://www.sec.gov/Archives/edgar/data/320187/000032018724000065/nke-20240831.htm): the +120 bps came from "Lower NIKE Brand product costs (increasing gross margin approximately 120 basis points), primarily due to lower ocean freight rates", lower warehousing and logistics (+50 bps) and higher ASP from "strategic pricing actions from the prior year" (+40 bps), offset by "Higher other costs (decreasing gross margin approximately 60 basis points), in part due to higher inventory obsolescence reserves". Earnings release (8-K Ex. 99.1, Oct 1, 2024), OPENED, gives the same drivers.
+- So the margin rose because freight deflated, not because discounting was absent. A rising margin in that quarter does not show that the cliff was "a volume pullback, not discounting". It is uninformative on that question.
+
+### 5. Inventory was not lean in the cliff quarter itself
+- Same 10-Q: "Inventories as of August 31, 2024, were $8.3 billion, an increase of 10% compared to May 31, 2024, primarily driven by an increase in units" (OPENED). The prior-year seasonal build was +3% (Aug 2023 vs May 2023, `data/nike_filing_facts.csv`). Inventory was -5% YoY while revenue was -10.4%, so inventory to quarterly sales rose from about 0.67 ($8,698M / $12,939M) to about 0.71 ($8,253M / $11,589M) (my arithmetic). Obsolescence reserves rose ($155M at May 31, 2024 to $233M at May 31, 2025, repo CSV). Units building while sales fell points to an unplanned demand miss as well as a planned supply cut; the notes treat the cliff as almost purely a planned pullback.
+
+### 6. The 50% to 60% share is close to an upper bound, not a central estimate
+- FY24 to FY26 change by segment (`data/nike_channel_split.csv`, verified in repo): North America -$885M, EMEA -$1,035M, APLA -$486M, Greater China -$1,698M, Converse -$908M; total -$4,964M. Digital $12.1B to $8.6B (-$3.5B) is confirmed.
+- Non-China NIKE Brand geographies together fell $2,406M. With Greater China "beyond the shared chain" at $1.0B to $1.2B, the shared China piece is at most about $0.5B to $0.7B. The CDA chain at $2.5B to $3.0B therefore needs essentially all of the NA, EMEA and APLA decline plus the shared China piece, leaving almost nothing for pricing, macro (which the notes put at 5% to 15%), the innovation gap or EMEA promotions. The estimate only fits if every other cause is near zero outside China.
+- "Digital fell $3.5B, about 71% of the decline" is a channel fact, not a cause. In NA, direct fell $1,839M while wholesale rose $954M (FY24 to FY26, repo CSV), partly by Nike's own channel shift back to wholesale. Part of the digital loss is relocation, not lost demand.
+- FX also moved: FY25 -10% reported vs -9% c.n.; FY26 0% reported vs -2% c.n. (repo CSV). The c.n. decline is somewhat larger than $4,964M, which the share table does not adjust for.
+
+### 7. Numbers checked and confirmed
+- Q1 FY25 GM 45.4% (+120 bps), revenue $11,589M, digital -20%, NIKE Direct -13% reported, wholesale -8% reported, Converse -15% (release, OPENED). Inventory series, digital dollars and FY24 to FY26 segment figures match the repo CSVs. I found no number in the notes that is wrong; the problems are in interpretation.
+
+### What survives
+- Hill, tariffs, the 2021 boycott and the 2020 marketing shift as non-triggers: survives.
+- Converse turning a year ahead of NIKE Brand: survives.
+- A large planned classics removal (management: ">$4B" from peak; "almost a $1 billion headwind" in Q4 FY25) clearly sits inside the decline. What does not survive is the claim that timing proves the CDA digital mechanism as the root, ahead of pricing, the liquidation base effect, and franchise supply decisions that NA's own MD&A attributes to wholesale "marketplace health" choices.

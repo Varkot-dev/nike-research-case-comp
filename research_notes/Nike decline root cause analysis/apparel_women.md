@@ -398,3 +398,34 @@ Nike's apparel and Women's symptoms are downstream of three internal decisions a
 | Repo notes `franchise_oversupply.md`, `dtc_wholesale.md` | 2026-10-13 | OPENED (repo), cross-reference only | Upstream causes |
 
 Gap: no new third-party activewear share data (Circana, Euromonitor) could be searched in this run because the shared web-search budget was exhausted; the split between "supply gap" and "preference loss" in FY2022 is therefore qualitative.
+
+---
+
+## Challenge: REFUTER (second pass, brief)
+
+Reviewer date: 2026-10-13. A full REFUTER challenge is already in this file (section "Challenge: REFUTER", R1 to R7) and a ROOT-CAUSE challenge follows it. Both re-checked the investigator's numbers against the primary filings and found every testable prediction failing (category, geography, gender, quarterly timing, units, and two peer controls, adidas and Under Armour). Repeating that work would add no information, so this pass is deliberately short.
+
+What I checked in this pass:
+- The Greater China arithmetic used as the hypothesis's "one partial fit": Nike Greater China apparel 1,828 (FY24) to 1,535 (FY26) = -293, or -16.0% (section 3.1 table, sourced to the FY2026 10-K segment table; my arithmetic). Confirmed. Greater China apparel falling more slowly than Greater China footwear (as R6 of the first REFUTER pass found) remains the decisive objection: athleisure substitution predicts the reverse.
+- Internal consistency: the first REFUTER pass flagged that section 1 says the FY25 upper bound is "less than 13%" while section 5 says 15%. The correct figure is (647 + 116) / 5,053 = 15.1%, and that bound double counts NA women's apparel. This should be fixed in section 1.
+
+No new external sources were consulted in this pass (no OPENED or SNIPPET web sources added). Verdict unchanged: the hypothesis does not survive as a material driver of the FY24 to FY26 revenue decline. It is minor, about 0% to 5% of the decline (central about 2 to 3%, roughly $100M to $150M), concentrated in plausible China substitution. The 2020 to 2023 under-participation in US athleisure is a real opportunity cost, but it is not revenue that fell.
+
+---
+
+## Challenge: ROOT-CAUSE (second pass, brief)
+
+Reviewer date: 2026-10-13. A full ROOT-CAUSE challenge (R1 to R8) is already in this file. It traced the apparel and Women's symptoms upstream to (a) the 2021 Vietnam factory closures and the later North America apparel liquidation, (b) lifestyle footwear franchise concentration (Dunk, AF1, AJ1) that also carried Women's, and (c) Nike's late entry into the $100-plus legging tier. I re-read that section against the investigator's numbers and found nothing that changes it, so this pass is deliberately short rather than a second full investigation.
+
+What I checked in this pass:
+- **Upstream test on the FY2024 unit drop.** The earlier pass showed EMEA apparel units fell 17% vs North America 6% (FY2024 10-K MD&A, OPENED (cache) per R2). A challenger-driven leak predicts the reverse ordering. Re-confirmed from the R2 table; no new filing fetched.
+- **Gap the earlier pass flagged (third-party share data).** One search for Circana or similar US activewear share data returned no Circana figures. The only US share number surfaced was a secondary article citing Retail Dive: Nike 31.6% vs Lululemon 21.2% of US monthly athleisure spending (SNIPPET, search result dated 2025, primary not opened; date and methodology unverified, so I do not rely on it). Even taken at face value it shows Nike still the leading US athleisure brand, consistent with the root-cause reading that the decline is not a US apparel share loss.
+- **Root-cause ranking.** Of the three upstream causes, (b) franchise concentration explains the most dollars, because it also explains the FY2025 Women's decline moving in lockstep with Men's (-6% each; FY2025 10-K p. 33). (a) explains the FY2022 to FY2024 apparel unit pattern. (c) explains the opportunity cost but no revenue that fell.
+
+Verdict from this lens: unchanged. Whatever apparel and Women's weakness exists is a **symptom of other causes** (franchise oversupply and wind-down, supply-chain shocks, and Nike's own product-tiering), not an independent driver. Contribution as an independent cause: about 0% to 5% of the FY2024 to FY2026 decline, central about 2% (roughly $100M), mostly the plausible China substitution.
+
+Sources added in this pass:
+
+| Source | Date | Status | Used for |
+|---|---|---|---|
+| Web search "Circana activewear apparel market share Nike Lululemon 2025 women's" (results included barchart.com / nasdaq.com "Is lululemon Women's Category Growth Enough to Offset Margin Strains?" and a ringly.io statistics page citing Retail Dive) | 2026-10-13 (search date) | SNIPPET | Confirmed no Circana share data available in open sources; Nike 31.6% vs Lululemon 21.2% US athleisure spend figure noted but not relied on |

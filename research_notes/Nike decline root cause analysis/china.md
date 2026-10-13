@@ -462,3 +462,67 @@ Alternative explanation: *the 2021 boycott and guochao lowered the ceiling for t
 
 - The web-search budget for this run was exhausted, so I could not pull adidas 2023 and 2024 currency-neutral China rates, H&M or Uniqlo China data (a second boycott-targeted control group), Pou Sheng's 2023 sell-through, or Dewu Jordan and Dunk resale price history, which would test whether the classics bubble deflation is China-specific.
 - Topsports reports Nike and adidas together; the Nike-only sell-through series is not public.
+
+---
+
+## Challenge: REFUTER
+
+Second refuter pass, 2026-10-13. Scope kept short on purpose: the first REFUTER section above already checked the investigator's numbers (all held except the Topsports margin attribution) and ran the timing, Japan and Korea, Converse and same-distributor tests. I did not repeat them. This pass tests one thing those sections left open: the ROOT-CAUSE challenge's claim (C3) that adidas and Topsports show a roughly -21% post-2021 "structural ceiling" that Nike merely deferred, which would push the external share up to $0.9B to $1.4B.
+
+### R2-1. adidas's step-down is about -14% currency-neutral, not -21%
+
+| adidas Greater China, currency-neutral | Rate | Source | Status |
+|---|---|---|---|
+| 2022 | -35.8% | adidas FY2022 results release (scratchpad copy) | OPENED (by earlier step) |
+| 2023 | +8% ("Sales in Greater China increased 8% on a currency-neutral basis"; EUR flat at €3,190M vs €3,179M) | adidas Annual Report 2023, Greater China segment page, report.adidas-group.com | OPENED today |
+| 2024 | +10.3% | adidas FY2024 results release | OPENED (by earlier step, R1 above) |
+| 2025 | +13% (€3,623M vs €3,459M; +5% reported) | adidas FY2025 results release, scratchpad `ads/fy2025.txt` line 187 | OPENED today |
+| 2021 to 2025 compound | **about -14%** (0.642 x 1.08 x 1.103 x 1.13, my arithmetic) | | |
+
+The ROOT-CAUSE figure of -21% is in euros and so includes about 7 points of yuan weakness. On a matched currency-neutral basis adidas is about -14% vs Nike -25% (FY21 to FY26), an 11-point gap, and adidas then grew another 17% and 15% in Q1 and Q2 2026, so the gap kept widening after Nike's FY26 window closed.
+
+### R2-2. Even -14% overstates the external ceiling
+
+- adidas's 2022 collapse coincided with the Shanghai and other 2022 lockdowns, which Nike also absorbed in FY22 and FY23 (Nike GC -13% c-n FY22, REPO). That lockdown slice is already inside Nike's FY24 base, so it cannot be "deferred" into FY25 to FY26.
+- adidas management itself attributed part of its 2021 to 2022 China slide to its own brand and product problems, not only to the boycott (SNIPPET-level recollection, not re-verified today; treat as a lead). To the extent that is true, adidas's step-down is an upper bound on the external component.
+- Redoing ROOT-CAUSE's arithmetic with -14%: from Nike's FY24 level (-2.3% c-n vs FY21), the "expected structural catch-up" is about -12%, against Nike's actual -23.4%. That is at most about half of China's decline, roughly **$0.85B as an upper bound** (my arithmetic on the REPO $1,698M), and lower once the lockdown overlap is removed. ROOT-CAUSE's $0.9B to $1.4B range sits above the ceiling its own method supports when the peer is measured currency-neutral.
+
+### R2-3. Another foreign peer, briefly
+
+Puma Greater China fell about 3.9% currency-adjusted in Q2 2025, with a later "sharp drop in Greater China's wholesale performance due to reset actions" (Puma Q2 2025 preliminary release, about.puma.com, 2025-07; SNIPPET only, not opened; Greater China is about 7% of Puma sales, SNIPPET). So not every foreign brand grew in China, but Puma's own words point to a wholesale reset it chose, the same pattern as Nike, and its decline is a fraction of Nike's.
+
+### R2-4. Verdict from this pass
+
+- The external China component stays small. My band: about **$0.2B to $0.6B** (4% to 12% of Nike's $4,964M decline), close to the investigator's $0.3B to $0.6B and well below ROOT-CAUSE's $0.9B to $1.4B. The investigator's split holds up better than the ROOT-CAUSE inversion.
+- The Nike China channel, discount and sell-in problems remain the bulk, and as both earlier challenges note, they are largely the China expression of global Nike issues (classics oversupply, lifestyle dependence, store under-investment), so they overlap with `franchise_oversupply.md`.
+- The hypothesis survives only in its narrow form: China is where about a third of the decline shows up, and Nike's own China channel failures are a real contributing cause. The "China-specific external forces" part is minor.
+- No further challenge pass looks needed on this hypothesis; the remaining uncertainty (Nike-only sell-through, category split) cannot be closed with public data.
+
+### Sources (this pass)
+
+| Source | Date | Status |
+|---|---|---|
+| adidas Annual Report 2023, Greater China segment page (report.adidas-group.com/2023/en/.../greater-china.html) | 2024-03 | OPENED today |
+| adidas FY2025 results release, Greater China table | 2026-03 | OPENED today (scratchpad copy) |
+| adidas FY2022 and FY2024 results releases | 2023-03, 2025-03 | OPENED by earlier steps (see sections above) |
+| Puma Q2 2025 preliminary press release and Q3 2025 coverage | 2025-07, 2025-10 | SNIPPET |
+| `data/nike_filing_facts.csv` Greater China revenues FY21 to FY26 | various | REPO |
+
+### C9. Addendum (second ROOT-CAUSE pass, 2026-10-13): one gap closed, light touch
+
+The ROOT-CAUSE challenge above already tests the upstream chain in depth, so this pass does not repeat it. It closes the one gap that most affects its split: adidas's currency-neutral Greater China rates for 2023 and 2024.
+
+| Year | adidas Greater China, c-n | EUR sales | Source |
+|---|---|---|---|
+| 2022 | -35.8% | €3,179M | adidas FY2022 results (OPENED, cited in C3) |
+| 2023 | +8% | €3,190M (flat in EUR) | adidas Annual Report 2023, Greater China segment page (OPENED 2026-10-13) |
+| 2024 | +10% | €3,459M; gross margin 49.6% (+0.9 pts) | adidas Annual Report 2024, Greater China segment page (OPENED 2026-10-13) |
+| 2025 | +13% | €3,623M | investigator's notes (OPENED) |
+
+- Chained currency-neutral index (2021 = 100, my arithmetic): 0.642 x 1.08 x 1.10 x 1.13 = **86**, so adidas is about **-14% c-n** vs 2021 by end 2025, not -21% (the EUR figure includes yuan weakness). At its H1 2026 pace (+15% to +17%) it is near 100 by mid-2026.
+- Nike over the comparable span is -25% c-n (FY21 to FY26) and still falling (-26% in Q1 FY27).
+- **Effect on C3 and C6.** The "structural ceiling" for a boycott-hit foreign incumbent is shallower and less permanent than C3 assumed: adidas's step-down was a dip that is now almost fully recovered, not a fixed level. Redoing the C3 catch-up with a -14% benchmark gives an expected Nike FY24 to FY26 move of about -12% vs the actual -23.4%, so the deferred structural reset explains roughly half of the China decline (about $0.8B to $0.9B, 16% to 18% of Nike's total decline), not 56% to 82%. The Nike-specific excess rises to about $0.8B to $0.9B (16% to 18%), still partly overlapping with the classics and Jordan oversupply estimate.
+- **What survives from C1 and C2.** The upstream chain (FY24 sell-in ahead of sell-through, then distributor online clearance as the unwind mechanism) is unaffected; it rests on Nike and Topsports filings, not on the adidas benchmark. What weakens is the claim that the external boycott/guochao reset is the larger slice. With adidas back near its 2021 level, a 2026 Nike China at about -40% vs Q1 FY22 is overwhelmingly a Nike-made problem.
+- Net: the investigator's split ($0.3B to $0.6B external, $1.1B to $1.4B Nike channel) and C6's inverted split bracket the answer; the corrected benchmark lands closer to the middle, about half and half on FY24 to FY26, and mostly Nike-specific for FY27. Verdict unchanged: **contributing cause**, with China as a symptom of Nike's own channel and franchise problems more than of China-specific external forces.
+
+Sources for C9: adidas Annual Report 2023, Greater China segment (report.adidas-group.com/2023/en/.../greater-china.html, OPENED 2026-10-13); adidas Annual Report 2024, Greater China segment (report.adidas-group.com/2024/en/.../greater-china.html, OPENED 2026-10-13).
