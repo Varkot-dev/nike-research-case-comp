@@ -31,3 +31,15 @@ def find_page(quarter, sentence):
                 else: break
             return pg
     return None
+
+def find_page_strict(quarter, quote):
+    """Page where the whole normalized quote starts, or None if the full quote is not in the transcript."""
+    full, starts = _pages(quarter)
+    i = full.find(_norm(quote))
+    if i < 0:
+        return None
+    pg = starts[0][1]
+    for s, n in starts:
+        if s <= i: pg = n
+        else: break
+    return pg
