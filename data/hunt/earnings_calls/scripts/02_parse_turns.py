@@ -27,7 +27,7 @@ def era(q):
     return "Hill" if order(q) >= (25, 2) else "Donahoe"
 
 PAT_BRACKET = re.compile(r"^\s*\[([^\]]+)\]\s*(.*)$")
-PAT_QA = re.compile(r"^\s*<\s*([QA])\s*[-–]\s*([^>]+?)\s*>\s*:?\s*(.*)$")
+PAT_QA = re.compile(r"^\s*<\s*([QA])\s*[-\u2013]\s*([^>]+?)\s*>\s*:?\s*(.*)$")
 PAT_QCOLON = re.compile(r"^\s*([QA]):\s*([A-Z][A-Za-z.'\- ]+?)\s*$")
 PAT_OPER = re.compile(r"^\s*Operator\s*[:;]?\s*(.*)$", re.I)
 PAT_COLON = re.compile(r"^\s*([A-Z][A-Za-z.'\-]+(?: [A-Z][A-Za-z.'\-]+){1,3})\s*(?:,[^:]{0,100})?[:;]\s*(.*)$")

@@ -20,7 +20,7 @@ def main(pdf_dir, out_dir):
         q = quarter_name(i)
         raw = subprocess.run(["pdftotext", str(pdf_dir / f"t_{dbid}.pdf"), "-"],
                              capture_output=True, text=True).stdout
-        raw = raw.replace("—", " - ").replace("–", "-").replace(" ", " ")
+        raw = raw.replace("\u2014", " - ").replace("\u2013", "-").replace(" ", " ")
         pages = raw.split("\f")
         if pages and not pages[-1].strip():
             pages = pages[:-1]

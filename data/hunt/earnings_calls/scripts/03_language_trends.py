@@ -2,7 +2,8 @@
 
 Usage: python3 -I 03_language_trends.py <turns.csv> <out_dir>
 Sections: prepared (management + IR prepared remarks), qa_answer (management answers),
-qa_question (analyst questions). Operator text is excluded.
+qa_question (analyst questions), mgmt_all, ceo_only (Donahoe or Hill), cfo_only (Friend or Denton).
+The CEO/CFO split tests whether a trend is just one speaker's vocabulary. Operator text is excluded.
 Robustness: hedges and recovery words are also counted after dropping every sentence that
 mentions tariffs, and a leave-one-term-out net index is computed.
 """
@@ -25,6 +26,7 @@ TERMS = {
     "fy28_beyond": r"\bfiscal\s*'?\s*(?:28|29|30)\b|\bfiscal (?:year )?20(?:28|29|30)\b|\bfy\s*'?(?:28|29|30)\b",
     "growth": r"\bgrowth\b|\bgrow(?:s|ing|n)?\b",
     "recovery": r"\brecover\w*|\bcomeback\b|\bturnaround\b|\bturn around\b|\bmomentum\b|\breturn(?:ing)? to growth\b|\binflect\w*|\bstabiliz\w*|\bimprov\w*",
+    "recovery_ex_improve": r"\brecover\w*|\bcomeback\b|\bturnaround\b|\bturn around\b|\bmomentum\b|\breturn(?:ing)? to growth\b|\binflect\w*|\bstabiliz\w*",
     "hedge_headwind": r"\bheadwinds?\b",
     "hedge_challenging": r"\bchalleng\w*|\bdifficult\w*|\btough\b",
     "hedge_uncertainty": r"\buncertain\w*|\bvolatil\w*|\bdynamic environment\b",
@@ -54,6 +56,10 @@ def main(turns_csv, out_dir):
         text[(r["quarter"], sec)].append(r["text"])
         if sec != "qa_question":
             text[(r["quarter"], "mgmt_all")].append(r["text"])
+        if r["speaker"] in ("John Donahoe", "Elliott Hill"):
+            text[(r["quarter"], "ceo_only")].append(r["text"])
+        if r["speaker"] in ("Matt Friend", "Dave Denton"):
+            text[(r["quarter"], "cfo_only")].append(r["text"])
     rows = []
     for (q, sec), parts in text.items():
         t = " ".join(parts)
