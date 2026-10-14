@@ -1,5 +1,5 @@
 # List all Common Crawl captures of www.nike.com/w/* (category walls) for every crawl 2023-2026.
-# usage: python3 -I cc_list.py outdir
+# usage: python3 -I cc_list.py outdir [coll ...]
 import sys, json, subprocess, time, os
 out=sys.argv[1]; os.makedirs(out,exist_ok=True)
 def curl(url,tries=8):
@@ -9,7 +9,7 @@ def curl(url,tries=8):
         time.sleep(3+3*t)
     return None
 ci=json.loads(curl("https://index.commoncrawl.org/collinfo.json"))
-colls=[c["id"] for c in ci if c["id"]>="CC-MAIN-2023"]
+colls=sys.argv[2:] if len(sys.argv)>2 else [c["id"] for c in ci if c["id"]>="CC-MAIN-2023"]
 for c in sorted(colls):
     fn=os.path.join(out,f"{c}_nike_w.jsonl")
     if os.path.exists(fn) and os.path.getsize(fn)>0: continue
