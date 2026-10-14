@@ -1,0 +1,9 @@
+coll,month,brand,subset,n,share_disc,ci_lo,ci_hi,mean_depth
+CC-MAIN-2025-33,2025-08,adidas,all,399,55.9,50.9,60.7,42.9
+CC-MAIN-2025-33,2025-08,nike,all,222,23.9,18.5,29.7,37.5
+CC-MAIN-2026-34,2026-08,adidas,all,400,48.2,43.5,53.2,37.8
+CC-MAIN-2026-34,2026-08,nike,all,400,16.0,12.5,19.5,29.9
+CC-MAIN-2025-33,2025-08,adidas,footwear,159,42.1,34.6,50.3,42.5
+CC-MAIN-2025-33,2025-08,nike,footwear,110,29.1,20.9,38.2,37.7
+CC-MAIN-2026-34,2026-08,adidas,footwear,155,45.2,37.4,53.5,35.4
+CC-MAIN-2026-34,2026-08,nike,footwear,196,16.8,11.7,21.9,29.9
