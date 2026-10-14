@@ -1,0 +1,103 @@
+https://www.sec.gov/Archives/edgar/data/320187/000032018720000054/nke-20200917.htm
+5.02,5.07,9.01
+ 
+ nke-20200917 0000320187 false 0000320187 2020-09-17 2020-09-17 
+ UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ FORM 8-K 
+ CURRENT REPORT 
+ Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934 
+ September 17, 2020 
+ Date of Report (date of earliest event reported) 
+ NIKE, Inc. 
+ (Exact name of registrant as specified in its charter) 
+ | | | | | | | | | | | | 
+ | Oregon 
+ | 1-10635 | | 93-0584541 
+ | (State or other jurisdiction of incorporation) 
+ | (Commission File Number) 
+ | | (I.R.S. Employer Identification No.) 
+ ONE BOWERMAN DRIVE 
+ BEAVERTON , OR 97005-6453 
+ (Address of principal executive offices and zip code) 
+ ( 503 ) 671-6453 
+ Registrant's telephone number, including area code 
+ NO CHANGE 
+ (Former name or former address, if changed since last report.) 
+ Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+ ☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+ ☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+ ☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+ ☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ | | | | | | | | | 
+ | Class B Common Stock | NKE | New York Stock Exchange 
+ | (Title of each class) | (Trading Symbol) | (Name of each exchange on which registered) 
+ Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+ Emerging growth company ☐ 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ o 
+ Item 5.02 – Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. 
+ On June 17, 2020, the Board of Directors of NIKE, Inc. (the “Company”) adopted an amendment and restatement of the NIKE, Inc. Stock Incentive Plan (as amended and restated, the “Plan”), subject to shareholder approval at the Company’s annual meeting of shareholders (the “Annual Meeting”). At the Annual Meeting, held on September 17, 2020, the Company’s shareholders approved the Plan to, among other changes, increase the number of shares of the Company’s Class B Common Stock authorized for issuance under the Plan by 80,000,000 shares. A description of the Plan was set forth in the Company’s definitive proxy statement on Form 14A filed with the U.S. Securities and Exchange Commission on July 24, 2020 (the “Proxy Statement”) in the section titled “Summary of the Stock Incentive Plan.” The descriptions of the Plan contained herein and in the Proxy Statement are qualified in their entirety by reference to the Plan, a copy of which is attached hereto as Exhibit 10.1 and incorporated herein by reference. 
+ Item 5.07 - Submission of Matters to a Vote of Security Holders. 
+ The Company’s annual meeting of shareholders was held virtually on Thursday, September 17, 2020. The following matters were submitted to a vote of the shareholders, the results of which were as follows: 
+ Proposal 1 - Election of Directors: 
+ Directors Elected by holders of Class A Common Stock: 
+ | | | | | | | | | | | | | | | | | | | | | 
+ | | | Votes Cast For 
+ | | Votes Withheld 
+ | | Broker Non-Votes 
+ | Cathleen A. Benko | | 308,915,859 | | 0 | | 0 
+ | Elizabeth J. Comstock | | 308,915,859 | | 0 | | 0 
+ | John G. Connors | | 308,915,859 | | 0 | | 0 
+ | Timothy D. Cook | | 308,915,859 | | 0 | | 0 
+ | John J. Donahoe II | | 308,915,859 | | 0 | | 0 
+ | Thasunda B. Duckett | | 308,915,859 | | 0 | | 0 
+ | Travis A. Knight | | 308,915,859 | | 0 | | 0 
+ | Mark G. Parker | | 308,915,859 | | 0 | | 0 
+ | John W. Rogers, Jr. | | 308,915,859 | | 0 | | 0 
+ Directors Elected by holders of Class B Common Stock: 
+ | | | | | | | | | | | | | | | | | | | | | 
+ | | | Votes Cast For 
+ | | Votes Withheld 
+ | | Broker Non-Votes 
+ | Alan B. Graf, Jr. | | 914,781,244 | | 55,949,178 | | 107,727,869 
+ | Peter B. Henry | | 966,046,027 | | 4,684,395 | | 107,727,869 
+ | Michelle A. Peluso | | 964,498,749 | | 6,231,673 | | 107,727,869 
+ Proposal 2 - Advisory Vote on Executive Compensation 
+ Class A and Class B Common Stock Voting Together: 
+ | | | | | | | | | | | | | | | | | | | | | 
+ | For | | Against | | Abstain | | Broker Non-Votes 
+ | 671,411,282 | | 571,342,132 | | 36,892,867 | | 107,727,869 
+ Proposal 3 - Ratify the appointment of PricewaterhouseCoopers LLP as the Company’s independent registered public accounting firm for fiscal year ending May 31, 2021. 
+ Class A and Class B Common Stock Voting Together: 
+ | | | | | | | | | | | | | | | | | | | | | 
+ | For | | Against | | Abstain | | Broker Non-Votes 
+ | 1,335,836,948 | | 49,847,081 | | 1,690,121 | | 0 
+ Proposal 4 - Approval of the NIKE, Inc. Stock Incentive Plan, as amended and restated. 
+ Class A and Class B Common Stock Voting Together: 
+ | | | | | | | | | | | | | | | | | | | | | 
+ | For | | Against | | Abstain | | Broker Non-Votes 
+ | 1,192,236,699 | | 85,848,702 | | 1,560,880 | | 107,727,869 
+ Proposal 5 - Shareholder proposal regarding political contributions disclosure. 
+ Class A and Class B Common Stock Voting Together: 
+ | | | | | | | | | | | | | | | | | | | | | 
+ | For | | Against | | Abstain | | Broker Non-Votes 
+ | 425,670,087 | | 811,350,805 | | 42,625,389 | | 107,727,869 
+ Item 9.01 – Financial Statements and Exhibits. 
+ (d) Exhibits. 
+ | | | | | | 
+ | Exhibit No. | Exhibit 
+ | 10.1 | NIKE, Inc. Stock Incentive Plan 
+ | 104 | Cover Page Interactive Data File (embedded within the Inline XBRL document) 
+ SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+ | | | | | | | | | | | | 
+ | | | | 
+ | NIKE, Inc. | | | 
+ | | | | 
+ | Date: | September 18, 2020 | By: | /s/ Matthew Friend 
+ | | | | Matthew Friend 
+ | | | | Executive Vice President and Chief Financial Officer 
+ | | | | 

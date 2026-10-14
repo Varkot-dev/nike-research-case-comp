@@ -1,0 +1,250 @@
+
+== Wikipedia (en) Nike family share of brand-article views, by month ==
+            share_pct  yoy_pp
+date                         
+2024-01-01      31.93    3.89
+2024-02-01      31.40   -3.52
+2024-03-01      29.34   -7.34
+2024-04-01      28.07  -15.49
+2024-05-01      25.98  -30.53
+2024-06-01      23.43  -18.53
+2024-07-01      20.65  -14.37
+2024-08-01      22.43   -7.20
+2024-09-01      25.29   -5.29
+2024-10-01      23.96   -8.40
+2024-11-01      26.00   -5.67
+2024-12-01      24.31   -7.77
+2025-01-01      23.93   -8.00
+2025-02-01      26.10   -5.30
+2025-03-01      21.82   -7.52
+2025-04-01      23.55   -4.52
+2025-05-01      21.10   -4.89
+2025-06-01      21.28   -2.15
+2025-07-01      19.27   -1.38
+2025-08-01      19.91   -2.52
+2025-09-01      21.09   -4.20
+2025-10-01      22.25   -1.70
+2025-11-01      23.11   -2.89
+2025-12-01      20.57   -3.74
+2026-01-01      23.69   -0.24
+2026-02-01      20.95   -5.15
+2026-03-01      22.60    0.78
+2026-04-01      21.55   -2.00
+2026-05-01      21.76    0.67
+2026-06-01      20.53   -0.75
+2026-07-01      20.57    1.29
+2026-08-01      20.87    0.96
+2026-09-01      20.51   -0.58
+
+Window Jun 1 to Oct 11: Nike share 2024 22.92%  2025 20.46%  2026 20.75%  (YoY +0.29 pp)
+YoY change in views by brand, Jun 1 to Oct 11, 2026 vs 2025:
+brand
+nike_inc         -16.6
+air_jordan       -21.7
+adidas            -1.3
+new_balance      -32.6
+asics            -23.1
+puma             -15.1
+skechers         -27.6
+hoka             -41.3
+on_running        -8.1
+brooks           -17.8
+saucony           -7.7
+lululemon        -28.7
+salomon           -4.3
+under_armour     -24.5
+deckers          -27.3
+crocs            -29.1
+nike_dunk        -40.0
+air_force_1      -11.8
+air_max          -21.3
+air_jordan       -21.7
+adidas_samba     -24.2
+adidas_gazelle   -49.6
+converse           1.9
+YoY pp when dropping one rival at a time: min -0.15 max 1.16
+Weekly share medians: 2025 20.83  2026 20.88; weeks 2026 above 2025 median: 10/19
+zh.wikipedia Nike share vs ['zh_adidas', 'zh_anta', 'zh_li_ning']: 2025 41.2%  2026 27.0%  (-14.2 pp); Nike views YoY -18.5%
+de.wikipedia Nike share vs ['de_adidas', 'de_hoka']: 2025 31.1%  2026 27.9%  (-3.2 pp); Nike views YoY +16.8%
+ja.wikipedia Nike share vs ['ja_adidas', 'ja_asics']: 2025 32.7%  2026 26.8%  (-5.9 pp); Nike views YoY -16.5%
+
+Validation, quarters since FY21Q1 excluding COVID base quarters through Aug 2021, n=20
+corr(rev YoY, wiki share YoY pp) = 0.41; corr(rev YoY, wiki views YoY) = 0.51
+            rev_yoy_pct  wiki_share_yoy_pp  wiki_nike_views_yoy_pct
+2024-03-01         -1.7              -20.5                    -56.7
+2024-06-01        -10.4              -13.6                    -52.1
+2024-09-01         -7.7               -6.5                    -37.5
+2024-12-01         -9.3               -7.1                    -40.0
+2025-03-01        -12.0               -5.7                    -32.6
+2025-06-01          1.1               -2.0                    -28.3
+2025-09-01          0.6               -3.0                    -27.8
+2025-12-01          0.1               -3.0                    -30.1
+2026-03-01         -1.1               -0.2                    -33.1
+2026-06-01         -4.3                0.5                    -20.0
+
+== Lifestyle and brand articles: YoY % over matched windows (same calendar days) ==
+brand              nike_dunk  air_force_1  air_max  air_jordan  adidas_samba  adidas_gazelle  converse  nike_inc  adidas  new_balance  asics  hoka  on_running
+2024 Dec-Feb          2015.7        627.5    -26.3       -11.9         -74.0             inf     120.2      44.4    -5.9          1.7   48.4  47.3       120.2
+2024 Mar-May          2540.2        322.7    -30.9       -75.9         -42.2             inf     121.3     -42.7   -16.1         -9.1    6.0  21.5        48.2
+2024 Jun-Aug          1922.9        376.8    -21.5       -62.7          15.9             inf     -10.5     -46.8   -20.4         -5.7  -13.6   8.0        60.2
+2024 Sep 1-Oct 11     1925.7        697.3    -20.2       -34.6          41.4             inf     -19.9     -36.1   -31.4         -7.7   -7.9   1.6        -7.4
+2025 Dec-Feb            -7.7        -19.1    -11.0       -25.5          42.3            54.4     -21.9     -43.5   -28.0         -9.4  -18.3  -2.4        36.2
+2025 Mar-May           -40.2        -38.8    -21.9       -18.3          76.4           213.9     -16.3     -36.9   -32.1         11.7   18.6   4.4        13.3
+2025 Jun-Aug           -37.4        -25.6    -17.9       -22.0           3.4            46.9      -6.1     -30.5   -37.0         -6.6   -2.9 -12.0        -1.3
+2025 Sep 1-Oct 11      -46.3        -39.4    -16.9       -21.6           8.1            25.2     -10.4     -31.3   -19.9        -14.6  -12.7 -11.7       -21.7
+2026 Dec-Feb           -41.9        -18.6    -14.1       -21.4          -6.6             2.3     -13.9     -33.6   -23.7        -25.9  -25.3 -18.4       -16.4
+2026 Mar-May           -37.2         -0.4    -13.3       -28.2         -54.2           -69.1     -22.0     -35.1   -27.1        -40.5  -37.9 -40.0       -29.5
+2026 Jun-Aug           -40.3         -7.5    -19.4       -19.8         -14.6           -48.7     -20.6     -20.1     5.5        -37.3  -25.9 -43.0       -37.7
+2026 Sep 1-Oct 11      -39.1        -21.5    -26.1       -26.3         -44.6           -52.1      56.6      -9.1   -16.3        -20.5  -16.0 -37.0        94.0
+
+Excess YoY (pp) versus median rival brand article:
+brand              nike_dunk  air_force_1  air_max  air_jordan  adidas_samba  adidas_gazelle  nike_inc  rival_median_yoy
+2025 Dec-Feb             1.7         -9.7     -1.6       -16.1          51.7            63.8     -34.1              -9.4
+2025 Mar-May           -44.6        -43.2    -26.3       -22.7          72.0           209.5     -41.3               4.4
+2025 Jun-Aug           -25.4        -13.6     -5.9       -10.0          15.4            58.9     -18.5             -12.0
+2025 Sep 1-Oct 11      -34.7        -27.7     -5.2        -9.9          19.8            36.9     -19.7             -11.7
+2026 Dec-Feb           -22.0          1.4      5.8        -1.5          13.4            22.3     -13.6             -19.9
+2026 Mar-May            -7.8         29.0     16.1         1.3         -24.7           -39.6      -5.6             -29.5
+2026 Jun-Aug           -14.6         18.2      6.4         5.9          11.1           -22.9       5.6             -25.7
+2026 Sep 1-Oct 11      -20.7         -3.2     -7.7        -8.0         -26.3           -33.8       9.2             -18.3
+
+== Tranco: Nike rank vs peer geometric mean rank (lower rank = more traffic; more negative gap = Nike further ahead) ==
+      nike_rank  peer_geomean_rank  log_rank_gap
+date                                            
+2019      523.0           4411.714        -2.135
+2020      490.0           5710.104        -2.467
+2021      523.5           5670.109        -2.417
+2022      577.5           6341.908        -2.390
+2023      668.0           6971.530        -2.376
+2024      581.0           6288.790        -2.391
+2025      602.0           5616.922        -2.228
+2026      634.0           7119.308        -2.418
+            nike_rank  peer_geomean_rank  log_rank_gap  hoka_rank  on_rank
+date                                                                      
+2025-06-01      599.0           5507.202        -2.219    13807.0  13555.0
+2025-06-15      602.0           5480.824        -2.209    13848.0  13949.0
+2025-07-01      613.0           5454.841        -2.186    13767.0  14917.0
+2025-07-15      607.0           5544.719        -2.212    13496.0  13586.0
+2025-08-01      596.0           5612.629        -2.243    13232.0  12672.0
+2025-08-15      581.0           5562.173        -2.259    12734.0  12081.0
+2025-09-01      578.0           5335.913        -2.223    13126.0  13173.0
+2025-09-15      577.0           5211.808        -2.201    11429.0  15316.0
+2025-10-01      603.0           5016.449        -2.119     7237.0  17138.0
+2025-10-15      602.0           4912.061        -2.099     6613.0  18086.0
+2025-11-01      605.0           5033.478        -2.119    10574.0  16151.0
+2025-11-15      618.0           5415.716        -2.171    13596.0  14221.0
+2025-12-01      606.0           5974.669        -2.288    14386.0  14185.0
+2025-12-15      587.0           5939.117        -2.314    12663.0  14532.0
+2026-01-01      581.0           5801.905        -2.301     8006.0  14026.0
+2026-01-15      607.0           5879.405        -2.271     7482.0  13739.0
+2026-02-01      623.0           6005.863        -2.266    11934.0  14069.0
+2026-02-15      633.0           5940.271        -2.239    15285.0  14115.0
+2026-03-01      636.0           6137.793        -2.267    15446.0  13533.0
+2026-03-15      632.0           6892.756        -2.389    14946.0  12843.0
+2026-04-01      637.0           7120.422        -2.414    14300.0  12671.0
+2026-04-15      631.0           7250.876        -2.442    14118.0  12002.0
+2026-05-01      632.0           7118.194        -2.422    13952.0  11999.0
+2026-05-15      647.0           7058.550        -2.390    14020.0  13373.0
+2026-06-01      621.0           7153.458        -2.444    14103.0  12757.0
+2026-06-15      615.0           7305.831        -2.475    14116.0  12827.0
+2026-07-01      625.0           7233.590        -2.449    14170.0  13725.0
+2026-07-15      635.0           7278.930        -2.439    14067.0  14754.0
+2026-08-01      664.0           7765.499        -2.459    13994.0  15367.0
+2026-08-15      653.0           7578.043        -2.451    14201.0  13979.0
+2026-09-01      654.0           6965.140        -2.366    14277.0  13718.0
+2026-09-15      639.0           6945.002        -2.386    14212.0  13750.0
+2026-10-01      642.0           7491.983        -2.457    14408.0  13689.0
+2026-10-13      668.0           7572.918        -2.428    14887.0  14467.0
+
+== Reddit r/RunningShoeGeeks: Nike share of brand mentions in post titles (first 7 days of sampled months) ==
+        nike  rivals  posts  nike_share_of_brand_mentions_pct  ci95_pp  nike_posts_per_100_titles         subreddit
+period                                                                                                             
+2019       2       1     10                             66.67    53.34                      20.00  RunningShoeGeeks
+2020      10      29    112                             25.64    13.70                       8.93  RunningShoeGeeks
+2021      50     172    504                             22.52     5.50                       9.92  RunningShoeGeeks
+2022     111     358    939                             23.67     3.85                      11.82  RunningShoeGeeks
+2023     366    1915   4862                             16.05     1.51                       7.53  RunningShoeGeeks
+2024     402    2027   5102                             16.55     1.48                       7.88  RunningShoeGeeks
+2025H1   157     933   1805                             14.40     2.08                       8.70  RunningShoeGeeks
+2025H2    86     446    829                             16.17     3.13                      10.37  RunningShoeGeeks
+2026H1    45     211    413                             17.58     4.66                      10.90  RunningShoeGeeks
+2026H2    29     133    271                             17.90     5.90                      10.70  RunningShoeGeeks
+Model mentions per 1,000 titles:
+term    pegasus  vomero  vaporfly  alphafly  hoka  asics    on  saucony  adizero
+period                                                                          
+2019      100.0     0.0       0.0       0.0   0.0    0.0   0.0    100.0      0.0
+2020       26.8     8.9      26.8      17.9  44.6   44.6   8.9    107.1      8.9
+2021       27.8     2.0      27.8       6.0  39.7   53.6   9.9     95.2     29.8
+2022       40.5     2.1      13.8      25.6  57.5   83.1   8.5     95.8     16.0
+2023       22.2     3.5      21.6      12.5  47.7   96.9  12.8     76.3     30.9
+2024       21.4     5.1      16.9      21.6  45.7  105.1  17.2     56.8     41.0
+2025H1     21.6    11.6      17.2      12.2  43.8  109.1  12.7     43.8    110.8
+2025H2     20.5    44.6       6.0       9.7  55.5  127.9  13.3     41.0     86.9
+2026H1     19.4    41.2      12.1      14.5  33.9  128.3   7.3     48.4     84.7
+2026H2     14.8    36.9       3.7      25.8  33.2  107.0  18.5     62.7     81.2
+
+== Reddit r/Sneakers: Nike share of brand mentions in post titles (first 7 days of sampled months) ==
+        nike  rivals  posts  nike_share_of_brand_mentions_pct  ci95_pp  nike_posts_per_100_titles subreddit
+period                                                                                                     
+2019     590     457  11274                             56.35     3.00                       5.23  Sneakers
+2020     709     446  10782                             61.39     2.81                       6.58  Sneakers
+2021     616     313   8761                             66.31     3.04                       7.03  Sneakers
+2022     712     330   8512                             68.33     2.82                       8.36  Sneakers
+2023    1866     962  21674                             65.98     1.75                       8.61  Sneakers
+2024    1393     943  17377                             59.63     1.99                       8.02  Sneakers
+2025H1   491     332   6252                             59.66     3.35                       7.85  Sneakers
+2025H2   307     249   4674                             55.22     4.13                       6.57  Sneakers
+2026H1   291     217   3970                             57.28     4.30                       7.33  Sneakers
+2026H2   141     140   1791                             50.18     5.85                       7.87  Sneakers
+
+== r/frugalmalefashion deal posts ([Retailer] titles only), by year ==
+      deal_posts  branded  nike  nike_retailer_posts  months  nike_share_of_branded_deals_pct  ci95_pp  nike_com_deal_posts_per_month  nike_pct_median  nike_pct_size  others_pct_median  others_pct_size
+year                                                                                                                                                                                                     
+2021         639        4     3                    0      10                             75.0     42.4                            0.0              NaN            NaN               40.0              1.0
+2022         295        6     2                    0      12                             33.3     37.7                            0.0              NaN            NaN               51.0              3.0
+2023         235       12     0                    0      12                              0.0      0.0                            0.0              NaN            NaN               45.0              2.0
+2024          51        7     1                    0      12                             14.3     25.9                            0.0              NaN            NaN                NaN              NaN
+2025          89       24     1                    0      11                              4.2      8.0                            0.0              NaN            NaN               40.0              1.0
+2026          85        9     2                    0      10                             22.2     27.2                            0.0             43.0            2.0               64.0              5.0
+
+== r/frugalmalefashion deal posts ([Retailer] titles only), by half ==
+        deal_posts  branded  nike  nike_retailer_posts  months  nike_share_of_branded_deals_pct  ci95_pp  nike_com_deal_posts_per_month  nike_pct_median  nike_pct_size  others_pct_median  others_pct_size
+half                                                                                                                                                                                                       
+2021H1          25        1     1                    0       4                            100.0      0.0                            0.0              NaN            NaN                NaN              NaN
+2021H2         614        3     2                    0       6                             66.7     53.3                            0.0              NaN            NaN               40.0              1.0
+2022H1         219        1     0                    0       6                              0.0      0.0                            0.0              NaN            NaN                NaN              NaN
+2022H2          76        5     2                    0       6                             40.0     42.9                            0.0              NaN            NaN               51.0              3.0
+2023H1         174        6     0                    0       6                              0.0      0.0                            0.0              NaN            NaN               45.0              2.0
+2023H2          61        6     0                    0       6                              0.0      0.0                            0.0              NaN            NaN                NaN              NaN
+2024H1          25        6     0                    0       6                              0.0      0.0                            0.0              NaN            NaN                NaN              NaN
+2024H2          26        1     1                    0       6                            100.0      0.0                            0.0              NaN            NaN                NaN              NaN
+2025H1          34       22     1                    0       5                              4.5      8.7                            0.0              NaN            NaN                NaN              NaN
+2025H2          55        2     0                    0       6                              0.0      0.0                            0.0              NaN            NaN               40.0              1.0
+2026H1          59        7     0                    0       6                              0.0      0.0                            0.0              NaN            NaN               64.0              5.0
+2026H2          26        2     2                    0       4                            100.0      0.0                            0.0             43.0            2.0                NaN              NaN
+
+== r/sneakerdeals deal posts ([Retailer] titles only), by year ==
+      deal_posts  branded  nike  nike_retailer_posts  months  nike_share_of_branded_deals_pct  ci95_pp  nike_com_deal_posts_per_month  nike_pct_median  nike_pct_size  others_pct_median  others_pct_size
+year                                                                                                                                                                                                     
+2021         656       22    11                    1      10                             50.0     20.9                            0.1             52.0            1.0                NaN              NaN
+2022          47        2     1                    0       5                             50.0     69.3                            0.0              NaN            NaN                NaN              NaN
+2023         736      512    28                   14      11                              5.5      2.0                            1.3             25.0            8.0               40.0             95.0
+2024        1467     1007   231                   78      12                             22.9      2.6                            6.5             25.0           17.0               40.0            149.0
+2025        1431     1073   121                   59      12                             11.3      1.9                            4.9             25.0           13.0               40.0            153.0
+2026         623      510    73                   48      10                             14.3      3.0                            4.8             20.0           39.0               40.0            151.0
+
+== r/sneakerdeals deal posts ([Retailer] titles only), by half ==
+        deal_posts  branded  nike  nike_retailer_posts  months  nike_share_of_branded_deals_pct  ci95_pp  nike_com_deal_posts_per_month  nike_pct_median  nike_pct_size  others_pct_median  others_pct_size
+half                                                                                                                                                                                                       
+2021H1          18       14     7                    1       4                             50.0     26.2                            0.2             52.0            1.0                NaN              NaN
+2021H2         638        8     4                    0       6                             50.0     34.6                            0.0              NaN            NaN                NaN              NaN
+2022H1          45        0     0                    0       3                              NaN      NaN                            0.0              NaN            NaN                NaN              NaN
+2022H2           2        2     1                    0       2                             50.0     69.3                            0.0              NaN            NaN                NaN              NaN
+2023H1          93       64     4                    0       5                              6.2      5.9                            0.0              NaN            NaN               40.0              7.0
+2023H2         643      448    24                   14       6                              5.4      2.1                            2.3             25.0            8.0               40.0             88.0
+2024H1         835      594   202                   59       6                             34.0      3.8                            9.8             25.0            5.0               40.0             55.0
+2024H2         632      413    29                   19       6                              7.0      2.5                            3.2             25.0           12.0               37.5             94.0
+2025H1         595      435    24                    9       6                              5.5      2.1                            1.5             20.0            3.0               40.0             64.0
+2025H2         836      638    97                   50       6                             15.2      2.8                            8.3             25.0           10.0               40.0             89.0
+2026H1         540      440    38                   22       6                              8.6      2.6                            3.7             20.0           19.0               40.0            138.0
+2026H2          83       70    35                   26       4                             50.0     11.7                            6.5             25.0           20.0               30.0             13.0

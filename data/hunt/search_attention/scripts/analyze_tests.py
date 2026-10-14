@@ -11,7 +11,7 @@ P = lambda f: os.path.join(H, f)
 # ------------------------------------------------------------------ Wikipedia
 d = pd.read_csv(P("wiki_pageviews_daily_long.csv"), parse_dates=["date"])
 # merge old and new titles of moved pages (views are per title; after a move, history stays under old title)
-d["brand"] = d["label"].str.replace("_oldtitle", "", regex=False)
+d["brand"] = d["label"].str.replace(r"_oldtitle\d*$", "", regex=True)
 daily = d.groupby(["brand", "date"]).views.sum().unstack(0).fillna(0)
 daily = daily[daily.index <= "2026-10-12"]
 
@@ -80,7 +80,11 @@ for lang, n, r in [("zh", "zh_nike", ["zh_adidas", "zh_anta", "zh_li_ning"]), ("
     print(f"{lang}.wikipedia Nike share vs {cols[1:]}: 2025 {sb:.1f}%  2026 {sa:.1f}%  ({sa - sb:+.1f} pp); Nike views YoY {100 * (a[n] / b[n] - 1):+.1f}%")
 
 # Validation: does the Wikipedia share track Nike revenue? fiscal quarter YoY
-ff = pd.read_csv(os.path.join(H, "raw", "repo_ref", "nike_filing_facts.csv"))
+import subprocess, io
+# Nike revenue comes from the existing repo file (not duplicated here)
+_txt = subprocess.run(["git", "-C", H, "show", "origin/claude/wonderful-franklin-u31n4e:data/nike_filing_facts.csv"],
+                      capture_output=True, text=True, check=True).stdout
+ff = pd.read_csv(io.StringIO(_txt))
 rev = ff[ff.metric == "revenues"].drop_duplicates("period").set_index("period").value
 rev = rev[rev.index.str.match(r"^Q\dFY\d{4}$")]
 def fq_start(p):
@@ -104,7 +108,7 @@ print(val.round(1).tail(10).to_string())
 
 # ------------------------------------------------------------------ Lifestyle vs running (Wikipedia)
 print("\n== Lifestyle and brand articles: YoY % over matched windows (same calendar days) ==")
-WINS = [("FQ1 Jun-Aug", "06-01", "08-31"), ("Sep 1-Oct 11", "09-01", "10-11"), ("Dec-Feb", "12-01", "02-28"), ("Mar-May", "03-01", "05-31")]
+WINS = [("Dec-Feb", "12-01", "02-28"), ("Mar-May", "03-01", "05-31"), ("Jun-Aug", "06-01", "08-31"), ("Sep 1-Oct 11", "09-01", "10-11")]
 cols = LIFE_N + LIFE_R + ["converse", "nike_inc", "adidas", "new_balance", "asics", "hoka", "on_running"]
 cols = [c for c in cols if c in daily.columns]
 rows = []
@@ -119,6 +123,27 @@ for y in (2024, 2025, 2026):
 lt = pd.DataFrame(rows).round(1)
 print(lt.to_string())
 lt.to_csv(P("test_wiki_matched_window_yoy.csv"))
+# Excess YoY versus the median rival brand article (nets out Wikipedia's secular traffic decline)
+base_cols = [c for c in ["adidas", "new_balance", "asics", "hoka", "on_running", "puma", "skechers", "brooks", "saucony",
+                         "lululemon", "salomon", "under_armour", "crocs"] if c in daily.columns]
+rows = []
+for y in (2025, 2026):
+    for name, a, b in WINS:
+        ya, yb = (y - 1, y) if name == "Dec-Feb" else (y, y)
+        if pd.Timestamp(f"{yb}-{b}") > daily.index.max():
+            continue
+        allc = list(dict.fromkeys(cols + base_cols))
+        cur = daily.loc[f"{ya}-{a}":f"{yb}-{b}", allc].sum()
+        prv = daily.loc[f"{ya - 1}-{a}":f"{yb - 1}-{b}", allc].sum()
+        yy = (cur / prv - 1) * 100
+        base = yy[base_cols].median()
+        ex = (yy[[c for c in LIFE_N + LIFE_R + ["nike_inc"] if c in yy.index]] - base).round(1)
+        ex["rival_median_yoy"] = round(base, 1)
+        rows.append(ex.rename(f"{y} {name}"))
+ex = pd.DataFrame(rows)
+print("\nExcess YoY (pp) versus median rival brand article:")
+print(ex.to_string())
+ex.to_csv(P("test_wiki_lifestyle_excess_yoy.csv"))
 
 # ------------------------------------------------------------------ Tranco
 t = pd.read_csv(P("tranco_rank_semimonthly_long.csv"), parse_dates=["date"])
@@ -176,3 +201,52 @@ for sub, (nk, rv) in SETS.items():
         print((1000 * mm[["pegasus", "vomero", "vaporfly", "alphafly", "hoka", "asics", "on", "saucony", "adizero"]].div(tt_, axis=0)).round(1).to_string())
 if out:
     pd.concat(out).to_csv(P("test_reddit_nike_mention_share.csv"), index=False)
+
+# ------------------------------------------------------------------ Deal subreddits: Nike share of deal posts and stated discount depth
+import glob, gzip, re, csv
+BR = {"nike": r"\bnike\b|\bjordan\b|\bsnkrs\b", "adidas": r"\badidas\b", "new_balance": r"\bnew balance\b|\bnb\b",
+      "asics": r"\basics\b", "hoka": r"\bhoka\b", "on": r"\bon running\b|\bon cloud", "puma": r"\bpuma\b",
+      "lululemon": r"\blululemon\b", "brooks": r"\bbrooks\b", "saucony": r"\bsaucony\b", "converse": r"\bconverse\b"}
+BRX = {k: re.compile(v, re.I) for k, v in BR.items()}
+PCT = re.compile(r"(\d{1,2})\s?%", re.I)
+TAG = re.compile(r"^\s*\[([^\]]{1,40})\]")
+rows = []
+for sub in ["frugalmalefashion", "sneakerdeals"]:
+    for fn in sorted(glob.glob(os.path.join(H, "raw", "reddit_titles_fullmonth", sub, "*.csv.gz"))):
+        mo = os.path.basename(fn)[:7]
+        with gzip.open(fn, "rt") as f:
+            for rr in csv.DictReader(f):
+                t_ = rr["title"] or ""
+                m_ = TAG.match(t_)
+                if not m_:  # deal posts follow the "[Retailer] item ..." convention; drops eBay spam, questions, resale
+                    continue
+                tag = m_.group(1).strip().lower()
+                if tag in ("discussion", "question", "meta", "psa", "wdywt", "help"):
+                    continue
+                body = t_[m_.end():]
+                hits = [k for k, rx in BRX.items() if rx.search(body) or rx.search(tag)]
+                pcts = [int(x) for x in PCT.findall(t_) if 5 <= int(x) <= 90]
+                rows.append({"sub": sub, "month": mo, "retailer_tag": tag, "brands": "|".join(hits),
+                             "max_pct": max(pcts) if pcts else None, "is_nike": "nike" in hits,
+                             "nike_is_retailer": bool(re.match(r"^(nike|nike\.com|nike us|nike usa|snkrs|jordan)$", tag)),
+                             "any_brand": bool(hits)})
+if rows:
+    dd = pd.DataFrame(rows)
+    dd["year"] = dd["month"].str[:4]
+    dd["half"] = dd["year"] + "H" + np.where(dd["month"].str[5:7].astype(int) <= 6, "1", "2")
+    dd.to_csv(P("deals_titles_brand_tags.csv"), index=False)
+    nmonths = dd.groupby(["sub", "half"]).month.nunique()
+    for sub in dd["sub"].unique():
+        z = dd[dd["sub"] == sub]
+        for key in ("year", "half"):
+            g = z.groupby(key).agg(deal_posts=("is_nike", "size"), branded=("any_brand", "sum"), nike=("is_nike", "sum"),
+                                   nike_retailer_posts=("nike_is_retailer", "sum"), months=("month", "nunique"))
+            g["nike_share_of_branded_deals_pct"] = 100 * g.nike / g.branded
+            g["ci95_pp"] = 100 * 1.96 * np.sqrt((g.nike / g.branded) * (1 - g.nike / g.branded) / g.branded)
+            g["nike_com_deal_posts_per_month"] = g.nike_retailer_posts / g.months
+            dn = z[z.is_nike & z.max_pct.notna()].groupby(key).max_pct.agg(["median", "size"]).add_prefix("nike_pct_")
+            do = z[~z.is_nike & z.any_brand & z.max_pct.notna()].groupby(key).max_pct.agg(["median", "size"]).add_prefix("others_pct_")
+            g = g.join(dn).join(do)
+            print(f"\n== r/{sub} deal posts ([Retailer] titles only), by {key} ==")
+            print(g.round(1).to_string())
+            g.to_csv(P(f"test_deals_{sub}_by_{key}.csv"))

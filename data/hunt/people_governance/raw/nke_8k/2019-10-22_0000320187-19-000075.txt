@@ -1,0 +1,123 @@
+https://www.sec.gov/Archives/edgar/data/320187/000032018719000075/form8k10222019.htm
+5.02,7.01,9.01
+ 
+ Document 
+ false 0000320187 
+ 0000320187 
+ 2019-10-17 
+ 2019-10-17 
+ UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ FORM 8-K 
+ CURRENT REPORT 
+ Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934 
+ October 17, 2019 
+ Date of Report (date of earliest event reported) 
+ NIKE, Inc. 
+ (Exact name of registrant as specified in its charter) 
+ | 
+ | | | | 
+ | Delaware 
+ | 001-04321 
+ | 08-7654321 
+ | (State or other jurisdiction of incorporation or organization) 
+ | (Commission File Number) 
+ | (I.R.S. Employer Identification No.) 
+ ONE BOWERMAN DRIVE 
+ BEAVERTON , OR 97005-6453 
+ (Address of principal executive offices and zip code) 
+ ( 503 ) 671-6453 
+ Registrant's telephone number, including area code 
+ NO CHANGE 
+ (Former name or former address, if changed since last report.) 
+ Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below): 
+ ☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+ ☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+ ☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+ ☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ | 
+ | | | 
+ | Class B common stock 
+ | NKE 
+ | New York Stock Exchange 
+ | (Title of each class) 
+ | (Trading Symbol(s)) 
+ | (Name of each exchange on which registered) 
+ Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+ Emerging growth company ☐ 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ o 
+ Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers 
+ On October 22, 2019, NIKE, Inc. (the “Company” or “NIKE”) announced that, effective January 13, 2020, the Company’s Board of Directors (the “Board”) has appointed John J. Donahoe II as President and Chief Executive Officer of the Company. Mr. Donahoe will continue to serve as a member of the Company’s Board. The Company also announced that, effective January 13, 2020, Mark G. Parker will cease serving as President and Chief Executive Officer and become Executive Chairman of the Board. 
+ Biographical Information 
+ Mr. Donahoe, 59, has been a director of the Company since June 2014, and is the current President and Chief Executive Officer of ServiceNow, Inc. (“ServiceNow”), having held these positions since 2017. Mr. Donahoe also serves as a board member of ServiceNow and is Chairman of PayPal Holdings, Inc. From 2008 through 2015, Mr. Donahoe served as President and Chief Executive Officer of eBay, Inc. (“eBay”), provider of the global eBay.com online marketplace and the PayPal digital payments platform. Mr. Donahoe joined eBay in 2005 as President of eBay Marketplaces and was appointed President and Chief Executive Officer in 2008. Prior to joining eBay, Mr. Donahoe spent two decades at Bain & Company (“Bain”). Mr. Donahoe joined Bain as an Analyst in 1982 and rose to become the firm’s Chief Executive Officer and Worldwide Managing Director from 1999 to 2005. Mr. Donahoe currently serves on the Board of Trustees for The Bridgespan Group, a non-profit consulting firm. He served on the Board of Directors of Intel Corporation from March 2009 until May 2017. 
+ Mr. Parker, 64, is Chairman of the Board of Directors of NIKE, and has served as President and Chief Executive Officer and a director since 2006. He has been employed by NIKE since 1979 with primary responsibilities in product research, design and development, marketing, and brand management. Mr. Parker was appointed divisional Vice President in charge of product development in 1987, corporate Vice President in 1989, General Manager in 1993, Vice President of Global Footwear in 1998, and President of the NIKE Brand in 2001. Mr. Parker also serves on the board of The Walt Disney Company. 
+ Letter Agreement with Mr. Donahoe 
+ On October 17, 2019, the Company entered into a letter agreement with Mr. Donahoe (the “Offer Letter”), establishing his compensation as President and Chief Executive Officer (“CEO”). Under the Offer Letter, Mr. Donahoe’s compensation as CEO will consist of an annual base salary of $1,500,000 per year; a target annual bonus of $3,000,000 (without proration for fiscal 2020); and an annual target long-term incentive award of $14,000,000, except as follows for fiscal 2020. 
+ With respect to Mr. Donahoe’s initial year of employment, his long-term incentives, which will be granted on January 13, 2020, will consist of restricted stock units (“RSUs”) with a grant date fair market value of $3,600,000 that vest ratably over three years, stock options with a grant date fair market value of $5,400,000 and an exercise price equal to the closing market price of the Company’s stock on the grant date that vest ratably over four years, and a Long-Term Incentive Plan (“LTIP”) target of $5,000,000 for the ongoing performance periods commencing with the fiscal 2018-2020 performance period. 
+ In addition, Mr. Donahoe will be eligible to receive certain one-time long-term incentive opportunities intended to make him whole for a portion of compensation forfeited as a result of his departure from ServiceNow. On January 13, 2020, Mr. Donahoe will receive RSUs with a grant date fair value of $17,500,000 that vest ratably over three years and performance-based stock options (the “Performance Options”) with a grant value of $17,500,000 and an exercise price equal to the closing market price of the Company's stock on the grant date. The Performance Options will vest based on the achievement of a stock price hurdle with respect to shares of our Class B common stock (the “Performance Metric”) during the term of the options and Mr. Donahoe’s continued employment (generally for at least three years from the date of grant). As of January 13, 2020, Mr. Donahoe will also be eligible to receive a performance-based cash award (the “Transition Cash Incentive Award”) with a target value of $10,000,000, which will be earned based on achievement of key transition-related performance metrics for the performance period from January 13, 2020 to May 31, 2021, as determined by the Company’s Compensation Committee. 
+ Mr. Donahoe will be eligible to participate in the employee benefit plans and programs of the Company applicable to senior executives of the Company generally as may be in effect from time to time including, without limitation, the option to use the Company plane for personal purposes under a time share agreement, for which use Mr. Donahoe will reimburse the Company, and participation in the Company’s Relocation Policy and employee charitable matching program, provided that for purposes of such program, he may make annual contributions up to $1 million and the Company will match such contributions on a 4:1 basis. 
+ As part of standard compensation and benefit arrangements for senior executives, the Company and Mr. Donahoe have entered into an agreement containing a covenant not to compete that extends for eighteen months following the termination of his employment with the Company. The agreement provides that if Mr. Donahoe’s employment is terminated by the Company without cause (as defined in the agreement) at any time, the Company will make monthly payments to him during the eighteen-month noncompetition period in an amount equal to one-twelfth of his current annual base salary and target bonus. The agreement provides further that if Mr. Donahoe voluntarily resigns at any time, the Company will make monthly payments to him during the eighteen-month noncompetition period in an amount equal to one-twenty fourth of his current annual base salary and target bonus. The Company may waive the covenant with the consent of Mr. Donahoe, unless Mr. Donahoe is terminated by the Company for cause (as defined in the agreement), in which case, the Company may unilaterally waive the covenant. If the covenant is waived, the Company will not be required to make the payments described above for the months as to which the waiver applies. 
+ The foregoing summary is qualified in its entirety by reference to the Offer Letter, which is attached as Exhibit 10.1, the Form of Performance-Based Option Award Agreement, which is attached as Exhibit 10.2, the Form of the Covenant Not to Compete and Non-Disclosure Agreement, which is attached as Exhibit 10.3 and the Forms of Time Sharing Agreement, which are attached as Exhibits 10.4 and 10.5 to this current report on Form 8-K and all of which are incorporated by reference into this Item 5.02. 
+ Letter Agreement with Mr. Parker 
+ On October 17, 2019, the Compensation Committee confirmed that there would be no changes to Mr. Parker’s fiscal 2020 target total direct compensation in light of his appointment as Executive Chairman as set forth in a letter agreement with Mr. Parker (the “Letter Agreement”). 
+ In addition, in order to facilitate a smooth transition, as of January 13, 2020, Mr. Parker will be eligible to receive a Transition Cash Incentive Award with a target value of $10,000,000. Mr. Parker’s Transition Cash Incentive Award will be earned based on achievement of key transition-related performance metrics for the performance period from January 13, 2020 to May 31, 2021, as determined by the Company’s Compensation Committee. 
+ Mr. Parker will continue to be eligible to participate in the employee benefit plans and programs of the Company applicable to senior executives of the Company generally as may be in effect from time to time, which will include participation in the Company’s employee charitable matching program, provided that for purposes of such program, he may make annual contributions up to $1 million and the Company will match such contributions on a 4:1 basis. 
+ The foregoing summary is qualified in its entirety by reference to the Letter Agreement, which is attached as Exhibit 10.6 to this current report on Form 8-K and is incorporated by reference into this Item 5.02. 
+ Item 7.01. Regulation FD Disclosure 
+ The Company issued a press release on October 22, 2019 announcing the senior leadership changes, which is attached as Exhibit 99.1 to this current report on Form 8-K. 
+ A copy of the press release is being furnished pursuant to Item 7.01 of Form 8-K and the information included therein shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934 (Exchange Act) or otherwise subject to the liabilities under that Section and shall not be deemed to be incorporated by reference into any filing of NIKE under the Securities Act of 1933 or the Exchange Act. 
+ Item 9.01. Financial Statements and Exhibits 
+ (d) Exhibits. 
+ | 
+ | | 
+ | Exhibit No. 
+ | Exhibit 
+ | 10.1 
+ | Offer Letter, dated October 17, 2019, between NIKE, Inc. and John J. Donahoe II 
+ | 10.2 
+ | Form of Performance-Based Option Award Agreement 
+ | 10.3 
+ | Form of Covenant Not to Compete and Non-Disclosure Agreement 
+ | 10.4 
+ | Form of Time Sharing Agreement 
+ | 10.5 
+ | Form of Time Sharing Agreement 
+ | 10.6 
+ | Letter Agreement, dated October 17, 2019, between NIKE, Inc. and Mark G. Parker 
+ | 99.1 
+ | Press release of NIKE, Inc., dated October 22, 2019 
+ | 104 
+ | Cover Page Interactive Data File--the cover page XBRL tags are embedded within the Inline XBRL document 
+ SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+ | 
+ | | | | 
+ | 
+ | 
+ | 
+ | 
+ | NIKE, Inc. 
+ (Registrant) 
+ | 
+ | 
+ | 
+ | 
+ | Date: 
+ | October 22, 2019 
+ | By: 
+ | /s/ Andrew Campion 
+ | 
+ | 
+ | 
+ | Andrew Campion 
+ | 
+ | 
+ | 
+ | Executive Vice President and Chief Financial Officer 
+ | 
+ | 
+ | 
+ | 

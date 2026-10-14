@@ -1,0 +1,937 @@
+term,product_id,name,brand,total_reviews,avg_rating,first_review,last_review
+Pegasus,242396,Nike Air Zoom Pegasus 32 - Women's,Nike,327,4.623853211009174,2015-06-04T11:19:41.000+00:00,2019-10-27T22:28:27.000+00:00
+Pegasus,179803,Nike Air Pegasus + 29 - Women's,Nike,85,4.482352941176471,2012-07-21T19:55:55.000+00:00,2013-12-08T16:10:16.000+00:00
+Pegasus,332155,Nike Air Zoom Pegasus 37 - Women's Active Performance Running Shoes,Nike,174,4.011494252873563,2020-05-08T01:46:49.000+00:00,2026-03-31T20:40:33.000+00:00
+Pegasus,331539,Nike Air Zoom Pegasus 37 - Men's Active Performance Running Shoes - Pure Platinum / Racer Blue Wolf Grey,Nike,263,3.88212927756654,2020-05-01T14:23:10.000+00:00,2023-12-03T15:24:29.000+00:00
+Pegasus,198154,Nike Air Pegasus+ 30 - Men's,Nike,63,4.5396825396825395,2013-08-22T20:26:29.000+00:00,2018-09-12T14:22:47.000+00:00
+Pegasus,179798,Nike Air Pegasus + 29 - Men's,Nike,63,4.634920634920635,2012-06-28T20:39:47.000+00:00,2013-11-27T03:17:40.000+00:00
+Pegasus,260683,Nike Air Zoom Pegasus 33 - Men's,Nike,250,4.3,2016-06-02T21:50:13.000+00:00,2018-06-11T20:36:19.000+00:00
+Pegasus,218990,Nike Air Pegasus 31 - Women's,Nike,46,4.543478260869565,2014-08-05T15:05:57.000+00:00,2015-11-03T21:18:34.000+00:00
+Pegasus,347856,Nike Pegasus 38 - Men's Active Performance Running Shoes - Gray / White,Nike,172,4.215116279069767,2021-03-27T14:24:35.000+00:00,2023-10-16T14:23:30.000+00:00
+Pegasus,218861,Nike Air Pegasus 31 - Men's,Nike,36,4.527777777777778,2014-08-26T20:41:04.000+00:00,2017-11-17T01:45:42.000+00:00
+Pegasus,198142,Nike Air Pegasus+ 30 - Women's,Nike,51,4.509803921568627,2013-07-21T01:16:44.000+00:00,2014-08-08T15:41:48.000+00:00
+Pegasus,260574,Nike Air Zoom Pegasus 33 - Women's,Nike,187,4.422459893048129,2016-06-07T19:27:24.000+00:00,2017-09-07T15:38:41.000+00:00
+Pegasus,311820,Nike Air Zoom Pegasus 36 - Men's Active Performance Running Shoes - Gray / White,Nike,366,4.218579234972678,2019-06-24T14:22:24.000+00:00,2023-10-16T14:23:30.000+00:00
+Pegasus,242384,Nike Air Zoom Pegasus 32 - Men's,Nike,43,4.744186046511628,2015-06-24T21:00:40.000+00:00,2017-01-13T22:49:58.000+00:00
+Pegasus,429341,Nike Air Zoom Pegasus 41 - Women's Casual Running Shoes - Purple Dynasty / Brt Violet Mist,Nike,765,4.593464052287581,2024-05-18T14:23:48.000+00:00,2026-09-14T17:17:36.000+00:00
+Pegasus,156449,Nike Air Pegasus+ 28 - Women's,Nike,49,4.918367346938775,2011-12-19T12:07:45.000+00:00,2012-08-18T20:07:22.000+00:00
+Pegasus,449755,Nike Pegasus Premium - Men's Casual Running Shoes - Metallic Silver / Black,Nike,669,3.995515695067265,2025-01-22T15:23:49.000+00:00,2026-10-11T14:22:54.000+00:00
+Pegasus,436667,Nike Air Pegasus 2005 - Men's Casual Running Shoes - Olive Aura / Glacier Blue Jade Horizon,Nike,54,4.518518518518518,2024-08-30T14:23:26.000+00:00,2026-03-12T02:27:05.000+00:00
+Pegasus,436642,Nike Air Pegasus 2005 - Women's Casual Running Shoes - Summit White / Photon Dust,Nike,88,4.25,2024-08-08T14:24:50.000+00:00,2025-12-10T15:23:07.000+00:00
+Pegasus,428217,Nike Air Zoom Pegasus 41 - Men's Casual Running Shoes - Volt / Black White,Nike,376,4.375,2024-05-18T14:23:48.000+00:00,2026-06-14T12:34:20.000+00:00
+Pegasus,449723,Nike Pegasus Premium - Women's Casual Running Shoes - Black / Metallic Silver,Nike,462,3.727272727272727,2025-01-22T15:23:49.000+00:00,2026-10-11T14:22:54.000+00:00
+Pegasus,314110,Nike Air Zoom Pegasus 36 - Women's Active Performance Running Shoes - Black / White Thunder Grey,Nike,183,4.087431693989071,2019-07-12T14:22:30.000+00:00,2022-02-03T15:22:56.000+00:00
+Pegasus,401873,Nike Zoom Pegasus 40 - Women's Active Performance Running Shoes,Nike,332,4.274096385542169,2023-03-14T14:23:28.000+00:00,2025-01-29T18:41:16.000+00:00
+Pegasus,347929,Nike Pegasus 38 - Women's Active Performance Running Shoes - Metallic Gold / Blue Black,Nike,219,4.34703196347032,2021-04-30T16:44:45.000+00:00,2023-12-01T15:24:16.000+00:00
+Pegasus,292681,Nike Air Zoom Pegasus 35 - Women's Active Performance Running Shoes - Black / White Gunsmoke Oil Grey,Nike,134,4.208955223880597,2018-06-03T18:18:04.000+00:00,2020-11-01T15:23:02.000+00:00
+Pegasus,292408,Nike Air Zoom Pegasus 35 - Men's,Nike,214,4.144859813084112,2018-05-19T16:46:53.000+00:00,2026-10-02T20:27:53.000+00:00
+Pegasus,218745,Nike Zoom Pegasus 31 - Girls' Grade School,Nike,8,4.875,2015-02-07T01:09:49.000+00:00,2016-02-19T18:25:28.000+00:00
+Pegasus,197928,Nike Air Pegasus 83/30 - Men's,Nike,10,4.3,2014-01-02T16:49:16.000+00:00,2014-07-10T00:27:23.000+00:00
+Pegasus,94277,Nike Air Pegasus '83 - Men's,Nike,9,4.555555555555555,2014-08-28T19:54:20.000+00:00,2016-07-27T12:42:30.000+00:00
+Pegasus,404550,Nike Air Zoom Pegasus 40 - Men's Casual Running Shoes - Midnight Navy / Pearl Platinum Black,Nike,345,4.272463768115942,2023-03-14T14:23:28.000+00:00,2025-07-28T10:19:59.000+00:00
+Pegasus,347865,Nike Pegasus Trail 3 - Men's Active Performance Running Shoes - Black / Brt Crimson Dk Beetroot,Nike,96,4.125,2021-10-21T14:24:21.000+00:00,2024-01-23T15:24:13.000+00:00
+Pegasus,198597,Nike Air Pegasus 83 - Women's,Nike,14,4.642857142857143,2013-08-23T21:55:28.000+00:00,2016-05-11T22:36:03.000+00:00
+Pegasus,184814,Nike Air Pegasus+ 29 GTX - Men's,Nike,3,4.333333333333333,2012-11-24T02:12:08.000+00:00,2013-01-30T01:29:27.000+00:00
+Pegasus,160339,Nike Air Pegasus + 28 Trail - Men's,Nike,12,4.666666666666667,2011-11-28T04:39:47.000+00:00,2012-06-25T17:07:31.000+00:00
+Pegasus,156567,Nike Air Pegasus+ 28 - Men's,Nike,37,4.621621621621622,2011-10-23T11:26:25.000+00:00,2012-12-09T21:34:30.000+00:00
+Pegasus,93409,Nike Air Pegasus + 25 - Women's,Nike,5,4.4,2009-11-06T21:31:02.000+00:00,2009-11-30T23:55:08.000+00:00
+Pegasus,440383,Nike Nike Air Pegasus 2005 NA - Men's Casual Running Shoes - Light Khaki / Metallic Silver Medium Olive,Nike,56,4.392857142857143,2024-08-30T14:23:26.000+00:00,2026-06-30T20:28:07.000+00:00
+Pegasus,332628,Nike Pegasus Trail 2 - Men's Active Trail Shoes - Barely Volt / Black Laser Blue,Nike,49,3.979591836734694,2020-06-09T14:23:46.000+00:00,2022-02-04T15:23:50.000+00:00
+Pegasus,315340,Nike Zoom Pegasus Turbo 2 - Women's Active Performance Running Shoes - Vast Grey / Smoke White,Nike,86,2.7325581395348837,2019-08-23T14:22:37.000+00:00,2021-03-12T05:36:56.000+00:00
+Pegasus,184894,Nike Air Pegasus+ 29 Shield - Women's,Nike,2,4.5,2012-12-30T21:03:35.000+00:00,2013-05-21T20:12:54.000+00:00
+Pegasus,97287,Nike Air Pegasus + 25 ESC - Men's,Nike,1,4.0,2009-10-12T11:35:14.000+00:00,2009-10-12T11:35:14.000+00:00
+Pegasus,457277,Nike Pegasus Premium NA39 - Women's Casual Running Shoes - Blue Force / Void,Nike,25,3.16,2025-11-09T15:23:31.000+00:00,2026-10-13T14:24:04.000+00:00
+Pegasus,446057,Nike Air Zoom Pegasus 41 SE - Women's Casual Running Shoes - Glacier Blue / Metallic Silver Black,Nike,754,4.590185676392573,2024-05-18T14:23:48.000+00:00,2026-09-14T17:17:36.000+00:00
+Pegasus,442519,Nike Reactx Pegasus Trail 5 GTX - Men's Casual Running Shoes - Armory Navy / Jade Horizon Pale Ivory,Nike,271,2.9667896678966788,2024-06-25T14:26:06.000+00:00,2026-08-14T14:24:00.000+00:00
+Pegasus,440378,Nike Air Pegasus Wave - Men's Casual Running Shoes - Soft Yellow / Amethyst Tint,Nike,28,4.0,2025-01-28T15:24:44.000+00:00,2026-08-31T14:23:17.000+00:00
+Pegasus,403712,Nike Air Zoom Pegasus 40 - Boys' Grade School Casual Running Shoes,Nike,104,4.5576923076923075,2023-05-17T14:25:20.000+00:00,2025-04-24T01:39:38.000+00:00
+Pegasus,372583,Nike Pegasus 39 - Boys' Grade School Casual Running Shoes - White / Black,Nike,52,4.653846153846154,2022-09-20T11:07:19.000+00:00,2024-06-28T13:16:30.000+00:00
+Pegasus,315425,Nike Air Zoom Pegasus Turbo 2 - Men's,Nike,184,2.875,2019-06-20T14:22:29.000+00:00,2023-12-11T15:24:18.000+00:00
+Pegasus,301785,Nike Air Zoom Pegasus 35 Shield - Men's,Nike,7,3.142857142857143,2018-10-25T14:22:46.000+00:00,2019-01-10T15:22:41.000+00:00
+Pegasus,297075,Nike Air Zoom Pegasus 35 Turbo - Women's,Nike,26,3.769230769230769,2018-08-02T13:02:48.000+00:00,2020-07-07T14:23:59.000+00:00
+Pegasus,297064,Nike Air Zoom Pegasus 35 Turbo - Men's,Nike,103,3.4563106796116503,2018-08-28T14:24:39.000+00:00,2021-04-30T16:47:54.000+00:00
+Pegasus,285049,Nike Air Zoom Pegasus 34 Shield - Men's,Nike,7,3.7142857142857144,2017-10-14T10:38:16.000+00:00,2018-01-15T14:30:53.000+00:00
+Pegasus,265020,Nike Air Pegasus '89 - Women's,Nike,7,4.285714285714286,2016-10-15T22:40:08.000+00:00,2017-09-02T19:54:44.000+00:00
+Pegasus,263335,Nike Air Zoom Pegasus 32 Flash - Women's,Nike,48,4.5625,2015-11-03T15:47:33.000+00:00,2016-07-30T11:54:51.000+00:00
+Pegasus,259324,Nike Air Pegasus '89 - Men's,Nike,11,4.2727272727272725,2009-02-21T15:45:21.000+00:00,2017-07-10T17:09:21.000+00:00
+Pegasus,244329,Nike Zoom Pegasus 32 - Girls' Grade School,Nike,2,4.5,2016-04-21T19:45:21.000+00:00,2016-08-21T22:11:12.000+00:00
+Pegasus,244322,Nike Zoom Pegasus 32 - Boys' Grade School,Nike,33,4.666666666666667,2015-07-24T18:23:00.000+00:00,2025-01-02T09:10:04.000+00:00
+Pegasus,226754,Nike Air Max Pegasus 31 Flash - Women's,Nike,3,4.0,2014-11-23T00:39:26.000+00:00,2015-04-22T00:39:16.000+00:00
+Pegasus,218738,Nike Zoom Pegasus 31 - Boys' Grade School,Nike,5,4.6,2014-10-02T01:03:30.000+00:00,2015-06-23T20:38:55.000+00:00
+Pegasus,207657,Nike Air Pegasus 83 Leather - Men's,Nike,4,4.0,2014-02-25T14:18:14.000+00:00,2014-05-02T13:06:09.000+00:00
+Pegasus,203709,Nike Air Pegasus + 30 Shield - Women's,Nike,3,5.0,2013-12-19T03:49:43.000+00:00,2014-01-29T23:14:05.000+00:00
+Pegasus,193836,Nike Air Pegasus+ 29 Breathe - Women's,Nike,5,4.6,2013-08-01T02:53:20.000+00:00,2014-03-05T16:30:12.000+00:00
+Pegasus,184895,Nike Air Pegasus+ 29 GTX - Women's,Nike,5,4.4,2012-11-15T16:29:06.000+00:00,2014-05-09T20:55:03.000+00:00
+Pegasus,184813,Nike Air Pegasus+ 29 Shield - Men's,Nike,6,4.166666666666667,2013-01-02T05:07:35.000+00:00,2013-04-05T19:51:34.000+00:00
+Pegasus,179822,Nike Air Pegasus+ 29 Trail - Women's,Nike,8,4.75,2012-11-16T20:23:33.000+00:00,2013-06-13T15:07:49.000+00:00
+Pegasus,175418,Nike Air Pegasus + 28 Breathe - Women's,Nike,3,5.0,2012-06-06T21:07:29.000+00:00,2012-10-31T04:41:04.000+00:00
+Pegasus,143560,Nike Air Pegasus + 27 Trail WR - Men's,Nike,17,4.764705882352941,2010-08-26T20:10:34.000+00:00,2011-08-22T01:45:47.000+00:00
+Pegasus,133266,Nike Air Pegasus+ 26 GTX - Men's,Nike,1,5.0,2009-11-21T04:30:17.000+00:00,2009-11-21T04:30:17.000+00:00
+Pegasus,106142,Nike Air Pegasus+ 26 - Women's,Nike,4,4.75,2009-11-09T20:47:11.000+00:00,2010-08-03T15:32:05.000+00:00
+Pegasus,W8081100,Nike Boys Pegasus '92 Lite - Shoes,Nike,0,,,
+Pegasus,V7767100,Nike Mens Air Zoom Pegasus 36 Running Shoes,Nike,213,4.286384976525822,2019-06-24T14:22:24.000+00:00,2022-03-16T11:00:19.000+00:00
+Pegasus,V7757500,Nike Womens Zoom Pegasus Turbo 2 - Running Shoes,Nike,84,2.6904761904761907,2019-08-23T14:22:37.000+00:00,2021-02-08T15:23:51.000+00:00
+Pegasus,V6123100,Nike Womens Air Zoom Pegasus 35 Running Shoes,Nike,128,4.2421875,2018-06-11T20:45:46.000+00:00,2020-11-01T15:23:02.000+00:00
+Pegasus,V5740101,Nike Womens Air Zoom Pegasus 36 Running Shoes,Nike,183,4.191256830601093,2019-07-12T14:22:30.000+00:00,2022-02-03T15:22:56.000+00:00
+Pegasus,V1134300,Nike Womens Nike Zoom Pegasus Turbo 2 Rise - Womens Running Shoes,Nike,21,3.238095238095238,2019-10-27T12:29:25.000+00:00,2020-08-07T14:22:59.000+00:00
+Pegasus,V1134001,Nike Womens Zoom Pegasus Turbo 2 Rise - Running Shoes,Nike,22,3.227272727272727,2019-10-27T12:29:25.000+00:00,2020-08-07T14:22:59.000+00:00
+Pegasus,U4842100,Nike Mens Air Zoom Pegasus 36 Trail - Running Shoes,Nike,62,4.064516129032258,2019-06-29T14:22:28.000+00:00,2020-11-24T15:23:29.000+00:00
+Pegasus,U2090800,Nike Mens Air Zoom Pegasus 36 - Running Shoes,Nike,213,4.286384976525822,2019-06-24T14:22:24.000+00:00,2022-03-16T11:00:19.000+00:00
+Pegasus,T8242601,Nike Womens Zoom Pegasus Turbo 2 - Running Shoes,Nike,84,2.6904761904761907,2019-08-23T14:22:37.000+00:00,2021-02-08T15:23:51.000+00:00
+Pegasus,T8242009,Nike Womens Zoom Pegasus Turbo 2 - Running Shoes,Nike,84,2.6904761904761907,2019-08-23T14:22:37.000+00:00,2021-02-08T15:23:51.000+00:00
+Pegasus,T8242008,Nike Womens Zoom Pegasus Turbo 2 - Running Shoes,Nike,84,2.6904761904761907,2019-08-23T14:22:37.000+00:00,2021-02-08T15:23:51.000+00:00
+Pegasus,T8242006,Nike Womens Zoom Pegasus Turbo 2 - Running Shoes,Nike,84,2.6904761904761907,2019-08-23T14:22:37.000+00:00,2021-02-08T15:23:51.000+00:00
+Pegasus,T2863300,Nike Mens Air Zoom Pegasus Turbo 2 Running Shoes,Nike,182,2.8736263736263736,2019-06-20T14:22:29.000+00:00,2023-12-11T15:24:18.000+00:00
+Pegasus,T2863009,Nike Mens Air Zoom Pegasus Turbo 2 Running Shoes,Nike,156,2.717948717948718,2019-06-20T14:22:29.000+00:00,2023-12-11T15:24:18.000+00:00
+Pegasus,T2863001,Nike Mens Nike Air Zoom Pegasus Turbo 2 - Mens Running Shoes,Nike,182,2.8736263736263736,2019-06-20T14:22:29.000+00:00,2023-12-11T15:24:18.000+00:00
+Pegasus,T1187600,Nike Womens Nike Air Zoom Pegasus 36 - Womens Running Shoes,Nike,189,4.174603174603175,2019-07-12T14:22:30.000+00:00,2022-02-03T15:22:56.000+00:00
+Pegasus,Q9647102,Nike Air Zoom Pegasus 37 - Womens,Nike,79,3.569620253164557,2020-05-11T14:23:14.000+00:00,2022-01-04T15:24:16.000+00:00
+Pegasus,Q9647101,Nike Womens Air Zoom Pegasus 37 Running Shoes,Nike,147,3.9115646258503403,2020-05-08T01:46:49.000+00:00,2026-03-31T20:40:33.000+00:00
+Pegasus,Q9647002,Nike Air Zoom Pegasus 37 - Womens,Nike,81,3.6049382716049383,2020-05-11T14:23:14.000+00:00,2022-01-04T15:24:16.000+00:00
+Pegasus,Q9646103,Nike Mens Air Zoom Pegasus 37 - Running Shoes,Nike,240,3.845833333333333,2020-05-01T14:23:10.000+00:00,2023-12-03T15:24:29.000+00:00
+Pegasus,Q9646006,Nike Mens Air Zoom Pegasus 37 - Running Shoes,Nike,240,3.845833333333333,2020-05-01T14:23:10.000+00:00,2023-12-03T15:24:29.000+00:00
+Pegasus,Q9646004,Nike Mens Air Zoom Pegasus 37 - Running Shoes,Nike,239,3.8577405857740588,2020-05-01T14:23:10.000+00:00,2023-12-03T15:24:29.000+00:00
+Pegasus,Q9646002,Nike Mens Air Zoom Pegasus 37 - Running Shoes,Nike,243,3.860082304526749,2020-05-01T14:23:10.000+00:00,2023-12-03T15:24:29.000+00:00
+Pegasus,Q9646001,Nike Mens Air Zoom Pegasus 37 - Running Shoes,Nike,240,3.845833333333333,2020-05-01T14:23:10.000+00:00,2023-12-03T15:24:29.000+00:00
+Pegasus,Q2210005,Nike Womens Air Zoom Pegasus 36 - Running Shoes,Nike,175,4.177142857142857,2019-07-12T14:22:30.000+00:00,2022-02-03T15:22:56.000+00:00
+Pegasus,Q2210004,Nike Womens Air Zoom Pegasus 36 Running Shoes,Nike,177,4.163841807909605,2019-07-12T14:22:30.000+00:00,2022-02-03T15:22:56.000+00:00
+Pegasus,Q2210002,Nike Womens Nike Air Zoom Pegasus 36 - Womens Running Shoes,Nike,175,4.177142857142857,2019-07-12T14:22:30.000+00:00,2022-02-03T15:22:56.000+00:00
+Pegasus,Q2203006,Nike Mens Air Zoom Pegasus 36 - Running Shoes,Nike,208,4.293269230769231,2019-06-24T14:22:24.000+00:00,2022-03-16T11:00:19.000+00:00
+Pegasus,Q2203003,Nike Mens Air Zoom Pegasus 36 Running Shoes,Nike,208,4.293269230769231,2019-06-24T14:22:24.000+00:00,2022-03-16T11:00:19.000+00:00
+Pegasus,Q2203002,Nike Mens Air Zoom Pegasus 36 - Running Shoes,Nike,213,4.295774647887324,2019-06-24T14:22:24.000+00:00,2022-03-16T11:00:19.000+00:00
+Pegasus,Q2203001,Nike Mens Air Zoom Pegasus 36 Running Shoes,Nike,208,4.293269230769231,2019-06-24T14:22:24.000+00:00,2022-03-16T11:00:19.000+00:00
+Pegasus,K4305700,Nike Mens Pegasus Trail 2 - Running Shoes,Nike,47,3.9361702127659575,2020-06-09T14:23:46.000+00:00,2022-02-04T15:23:50.000+00:00
+Pegasus,J4115646,Nike Womens Air Zoom Pegasus 3 Turbo Running Shoes,Nike,23,3.869565217391304,2018-08-28T14:26:14.000+00:00,2020-07-07T14:23:59.000+00:00
+Pegasus,J4115003,Nike Womens Air Zoom Pegasus 35 Turbo Running Shoes,Nike,23,3.869565217391304,2018-08-28T14:26:14.000+00:00,2020-07-07T14:23:59.000+00:00
+Pegasus,J4114004,Nike Mens Air Zoom Pegasus 35 Turbo - Running Shoes,Nike,102,3.4411764705882355,2018-08-28T14:24:39.000+00:00,2021-04-30T16:47:54.000+00:00
+Pegasus,J4114003,Nike Mens Air Zoom Pegasus 35 Turbo - Running Shoes,Nike,102,3.4411764705882355,2018-08-28T14:24:39.000+00:00,2021-04-30T16:47:54.000+00:00
+Pegasus,J4114001,Nike Mens Air Zoom Pegasus 35 Turbo Running Shoes,Nike,102,3.4411764705882355,2018-08-28T14:24:39.000+00:00,2021-04-30T16:47:54.000+00:00
+Pegasus,J2099002,Nike Boys Air Zoom Pegasus 37 - Running Shoes,Nike,4,4.75,2020-06-13T14:23:18.000+00:00,2021-02-17T15:23:47.000+00:00
+Pegasus,I1723700,Nike Mens Air Zoom Pegasus 36 Running Shoes,Nike,208,4.293269230769231,2019-06-24T14:22:24.000+00:00,2022-03-16T11:00:19.000+00:00
+Pegasus,I1723400,Nike Mens Air Zoom Pegasus 36 Running Shoes,Nike,208,4.293269230769231,2019-06-24T14:22:24.000+00:00,2022-03-16T11:00:19.000+00:00
+Pegasus,H8392400,Nike Womens Pegasus 35 - Shoes,Nike,9,3.111111111111111,2018-06-11T20:46:43.000+00:00,2019-05-16T14:22:23.000+00:00
+Pegasus,H3482001,Nike Boys Air Zoom Pegasus 35 Running Shoes,Nike,11,4.909090909090909,2018-08-28T14:26:12.000+00:00,2021-01-21T23:44:11.000+00:00
+Pegasus,H3481600,Nike Girls Nike Air Zoom Pegasus 35 - Girls' Grade School Running Shoes,Nike,11,4.909090909090909,2018-08-28T14:26:12.000+00:00,2021-01-21T23:44:11.000+00:00
+Pegasus,H3481400,Nike Girls Air Zoom Pegasus 35 - Running Shoes,Nike,11,4.909090909090909,2018-08-28T14:26:12.000+00:00,2021-01-21T23:44:11.000+00:00
+Pegasus,H3481100,Nike Girls Air Zoom Pegasus 35 Running Shoes,Nike,11,4.909090909090909,2018-08-28T14:26:12.000+00:00,2021-01-21T23:44:11.000+00:00
+Pegasus,D9667100,Nike Air Zoom Pegasus 37 - Womens,Nike,79,3.569620253164557,2020-05-11T14:23:14.000+00:00,2022-01-04T15:24:16.000+00:00
+Pegasus,D8348100,Nike Mens Air Zoom Pegasus 37 - Running Shoes,Nike,2,3.5,2020-11-14T15:23:10.000+00:00,2020-12-06T15:23:22.000+00:00
+Pegasus,78049,Nike Air Pegasus - Youth,Nike,0,,,
+Pegasus,475708,Nike Air Zoom Pegasus 41 ESS - Women's Casual Running Shoes - White / Chalk,Nike,407,4.781326781326781,2024-06-25T21:57:02.000+00:00,2026-09-14T17:17:36.000+00:00
+Pegasus,471437,Nike Air Zoom Pegasus 41 SE - Women's Casual Running Shoes - Black / Cave Purple Mtlc Dk Grey,Nike,407,4.781326781326781,2024-06-25T21:57:02.000+00:00,2026-09-14T17:17:36.000+00:00
+Pegasus,470771,Nike Air Zoom Pegasus 42 - Boys' Grade School Casual Running Shoes,Nike,24,4.541666666666667,2026-03-05T15:24:39.000+00:00,2026-07-06T14:22:29.000+00:00
+Pegasus,470308,Nike Air Zoom Pegasus 42 - Men's Casual Running Shoes - Summit White / Metallic Silver,Nike,175,4.68,2026-03-05T15:24:30.000+00:00,2026-10-08T14:22:49.000+00:00
+Pegasus,470185,Nike Pegasus Premium RR - Men's Casual Running Shoes - Metallic Silver / Photon Dust Black,Nike,323,4.291021671826625,2025-01-30T19:59:49.000+00:00,2026-10-10T16:31:27.000+00:00
+Pegasus,466533,Nike Pegasus Trail 5 - Boys' Grade School Casual Basketball Shoes,Nike,27,4.481481481481482,2025-01-22T15:31:48.000+00:00,2026-03-05T15:23:13.000+00:00
+Pegasus,466506,Nike Air Zoom Pegasus 41 Wide - Women's Casual Running Shoes - White / Anthracite Black,Nike,427,4.7330210772833725,2024-06-16T14:23:48.000+00:00,2026-09-14T17:17:36.000+00:00
+Pegasus,466503,Nike Pegasus Easyon - Women's Casual Running Shoes - Ghost Aqua / Mtlc Silver Mint Foam,Nike,13,4.076923076923077,2024-12-15T15:22:59.000+00:00,2026-01-06T15:23:44.000+00:00
+Pegasus,466496,Nike Pegasus Easyon - Women's Casual Running Shoes - White / Pure Platinum,Nike,13,4.076923076923077,2024-12-15T15:22:59.000+00:00,2026-01-06T15:23:44.000+00:00
+Pegasus,466494,Nike Pegasus Easyon - Women's Casual Running Shoes - Mtlc Rose Gold / Silt Red Taupe Grey,Nike,13,4.076923076923077,2024-12-15T15:22:59.000+00:00,2026-01-06T15:23:44.000+00:00
+Pegasus,466487,Nike Air Zoom Pegasus 41 Wide - Women's Casual Running Shoes - Mint Foam / Ghost Aqua Metallic Silver,Nike,37,4.027027027027027,2024-06-16T14:23:48.000+00:00,2026-01-24T15:23:00.000+00:00
+Pegasus,465992,Nike LA Artist Pegasus T-Shirt - Men's - Black / Grey,Nike,0,,,
+Pegasus,457136,Nike Pegasus Premium SE - Women's Casual Running Shoes - Cave Purple / Metallic Silver Black,Nike,109,3.9174311926605503,2025-02-23T02:52:03.000+00:00,2026-10-13T14:24:04.000+00:00
+Pegasus,450661,Nike Air Zoom Pegasus 41 - Girls' Grade School Casual Running Shoes,Nike,104,4.615384615384615,2024-04-09T14:23:12.000+00:00,2026-05-20T14:41:32.000+00:00
+Pegasus,445727,Nike Air ZOOM Pegasus 41 GTX - Men's Casual Running Shoes - Black / Summit White Anthracite,Nike,122,4.385245901639344,2024-10-12T14:23:17.000+00:00,2026-06-25T20:16:25.000+00:00
+Pegasus,445712,Nike Air ZOOM Pegasus 41 GTX - Women's Casual Running Shoes - Platinum Violet / Black Crimson Tint,Nike,53,4.39622641509434,2024-10-24T14:28:20.000+00:00,2026-08-01T14:23:39.000+00:00
+Pegasus,442672,Nike Zoom Pegasus 10 PQ - Men's Casual Running Shoes - White / Armory Navy Hyper Crimson,Nike,360,4.361111111111111,2024-05-18T14:23:48.000+00:00,2026-05-28T14:28:09.000+00:00
+Pegasus,442611,Nike Air Zoom Pegasus 41 Oly - Men's Casual Running Shoes,Nike,361,4.362880886426593,2024-05-18T14:23:48.000+00:00,2026-05-28T14:28:09.000+00:00
+Pegasus,442608,Nike Zoom Pegasus 41 Wide - Men's Casual Running Shoes - Black / White Anthracite,Nike,550,4.723636363636364,2024-06-16T14:23:48.000+00:00,2026-08-22T19:26:33.000+00:00
+Pegasus,442601,Nike Reactx Pegasus Trail 5 GTX - Women's Casual Running Shoes,Nike,172,3.7674418604651163,2024-06-25T14:24:22.000+00:00,2026-09-22T14:23:07.000+00:00
+Pegasus,442586,Nike Zoom Pegasus 41 - Women's Casual Running Shoes - Sail / Crimson Tint,Nike,360,4.361111111111111,2024-05-18T14:23:48.000+00:00,2026-05-28T14:28:09.000+00:00
+Pegasus,442573,Nike Air Pegasus 2005 - Men's Casual Running Shoes - Smoke Grey / Lt Puimice Dk,Nike,46,4.478260869565218,2024-08-30T14:23:26.000+00:00,2025-12-04T15:23:53.000+00:00
+Pegasus,442536,Nike Pegasus Trail 4 GO - Women's Casual Running Shoes - Blue Light / Dark Smoke Grey Orewood Brown,Nike,219,4.2785388127853885,2022-06-09T14:24:34.000+00:00,2024-11-15T15:23:25.000+00:00
+Pegasus,442518,Nike Reactx Pegasus Trail 5 - Men's Active Trail Shoes - Black / White Anthracite,Nike,128,4.3828125,2024-04-09T14:23:43.000+00:00,2026-03-21T14:22:48.000+00:00
+Pegasus,442516,Nike Pegasus Turbo 4 - Women's Casual Running Shoes - Sail / Coconut Milk Light Orewood Brown,Nike,207,4.304347826086956,2024-06-25T14:24:53.000+00:00,2026-08-11T14:24:00.000+00:00
+Pegasus,442498,Nike Air Zoom Pegasus 41 T&F - Men's Casual Running Shoes - Speed Red / Psychc Blue White,Nike,361,4.362880886426593,2024-05-18T14:23:48.000+00:00,2026-05-28T14:28:09.000+00:00
+Pegasus,440103,Nike Air Zoom Pegasus 41 - Men's Casual Running Shoes - White / Black Photo Blue,Nike,362,4.3646408839779,2024-05-18T14:23:48.000+00:00,2026-05-28T14:28:09.000+00:00
+Pegasus,439888,Nike Air Pegasus 2 - Women's Casual Running Shoes - Metallic Volt / Silver Black,Nike,73,4.342465753424658,2024-08-08T14:24:50.000+00:00,2025-12-10T15:23:07.000+00:00
+Pegasus,435729,Nike Air Zoom Pegasus 41 - Men's Casual Running Shoes - White / Black Gold,Nike,34,3.8823529411764706,2024-11-25T15:23:11.000+00:00,2026-03-16T14:23:00.000+00:00
+Pegasus,435670,Nike Reactx Pegasus Trail 5 - Women's Active Trail Shoes - Black / Volt Ice Phantom,Nike,86,4.813953488372093,2024-04-30T14:24:54.000+00:00,2026-07-29T01:51:33.000+00:00
+Pegasus,432241,Nike Air Zoom Pegasus 41 FP - Men's Casual Running Shoes,Nike,875,4.603428571428571,2024-05-18T14:23:48.000+00:00,2026-08-22T19:26:33.000+00:00
+Pegasus,432210,Nike Pegasus 41 FP - Women's Active Performance Running Shoes,Nike,360,4.361111111111111,2024-05-18T14:23:48.000+00:00,2026-05-28T14:28:09.000+00:00
+Pegasus,429540,Nike Air Zoom Pegasus 41 - Boys' Grade School Casual Running Shoes,Nike,40,4.525,2024-04-09T14:23:12.000+00:00,2026-01-06T15:24:21.000+00:00
+Pegasus,42855604,Nike Womens Air Zoom Pegasus 35 Running Shoes,Nike,128,4.2421875,2018-06-11T20:45:46.000+00:00,2020-11-01T15:23:02.000+00:00
+Pegasus,42855405,Nike Womens Nike Air Zoom Pegasus 35 - Womens Running Shoes,Nike,128,4.2421875,2018-06-11T20:45:46.000+00:00,2020-11-01T15:23:02.000+00:00
+Pegasus,42855011,Nike Womens Air Zoom Pegasus 35 Running Shoes,Nike,128,4.2421875,2018-06-11T20:45:46.000+00:00,2020-11-01T15:23:02.000+00:00
+Pegasus,42855007,Nike Womens Nike Air Zoom Pegasus 35 - Womens Running Shoes,Nike,128,4.2421875,2018-06-11T20:45:46.000+00:00,2020-11-01T15:23:02.000+00:00
+Pegasus,42855001,Nike Womens Air Zoom Pegasus 35 - Running Shoes,Nike,128,4.2421875,2018-06-11T20:45:46.000+00:00,2020-11-01T15:23:02.000+00:00
+Pegasus,42851601,Nike Mens Air Zoom Pegasus 35 - Running Shoes,Nike,208,4.149038461538462,2018-05-19T16:46:53.000+00:00,2026-10-02T20:27:53.000+00:00
+Pegasus,42851018,Nike Mens Air Zoom Pegasus 35 Running Shoes,Nike,208,4.149038461538462,2018-05-19T16:46:53.000+00:00,2026-10-02T20:27:53.000+00:00
+Pegasus,42851017,Nike Mens Air Zoom Pegasus 35 Running Shoes,Nike,210,4.142857142857143,2018-05-19T16:46:53.000+00:00,2026-10-02T20:27:53.000+00:00
+Pegasus,42851002,Nike Mens Air Zoom Pegasus 35 - Running Shoes,Nike,208,4.149038461538462,2018-05-19T16:46:53.000+00:00,2026-10-02T20:27:53.000+00:00
+Pegasus,414915,Nike Air Zoom Pegasus 40 SE - Boys' Grade School Casual Running Shoes,Nike,7,4.428571428571429,2023-09-28T14:24:01.000+00:00,2024-04-05T14:12:41.000+00:00
+Pegasus,3906001,Nike Womens Air Zoom Pegasus 35 Running Shoes,Nike,128,4.2421875,2018-06-11T20:45:46.000+00:00,2020-11-01T15:23:02.000+00:00
+Pegasus,387743,Nike Air Zoom Pegasus 39 Shield - Men's Casual Running Shoes - Silver / Black Gray,Nike,62,3.338709677419355,2022-10-13T14:23:52.000+00:00,2024-05-30T14:22:58.000+00:00
+Pegasus,387611,Nike Pegasus 39 - Girls' Grade School Casual Running Shoes - Violet Frost / Barely Grape Metallic Silver,Nike,49,4.714285714285714,2022-10-12T14:23:26.000+00:00,2023-09-07T14:23:42.000+00:00
+Pegasus,381528,Nike React Pegasus Trail 4 GTX - Men's Casual Running Shoes - Black / Grey Silver,Nike,356,4.109550561797753,2022-09-30T02:15:55.000+00:00,2025-01-21T04:24:56.000+00:00
+Pegasus,380783,Nike React Pegasus Trail 4 GTX - Women's Casual Running Shoes - Purple Smoke / Peach Cream Green Ghost,Nike,181,4.204419889502763,2022-10-03T14:23:03.000+00:00,2025-01-27T15:23:07.000+00:00
+Pegasus,375208,Nike Pegasus 39 - Women's Casual Running Shoes - Black / White,Nike,295,4.345762711864407,2022-05-24T14:23:24.000+00:00,2024-03-28T14:23:14.000+00:00
+Pegasus,375207,Nike React Pegasus Trail 4 - Women's Casual Running Shoes - Coconut Milk / Sanddirft Pearl White,Nike,187,4.262032085561497,2022-06-09T14:24:34.000+00:00,2024-11-15T15:23:25.000+00:00
+Pegasus,374504,Nike Pegasus 39 - Women's Casual Running Shoes - Purple / Ivy,Nike,295,4.345762711864407,2022-05-24T14:23:24.000+00:00,2024-03-28T14:23:14.000+00:00
+Pegasus,374501,Nike Pegasus Trail 4 - Women's Casual Running Shoes - Mantra Orange / Enamel Green Ghost,Nike,219,4.2785388127853885,2022-06-09T14:24:34.000+00:00,2024-11-15T15:23:25.000+00:00
+Pegasus,374489,Nike React Pegasus Trail 4 - Men's Active Trail Shoes - Medium Olive / Natural Velvet Brown,Nike,187,4.262032085561497,2022-06-09T14:24:34.000+00:00,2024-11-15T15:23:25.000+00:00
+Pegasus,374455,Nike Air Zoom Pegasus 39 - Men's Casual Running Shoes - Particle Grey / Light Smoke Off Noir,Nike,298,4.3389261744966445,2022-05-24T14:23:24.000+00:00,2024-03-28T14:23:14.000+00:00
+Pegasus,349421,Nike Pegasus 38 - Boys' Grade School Active Performance Running Shoes,Nike,8,5.0,2021-05-09T14:24:41.000+00:00,2022-10-06T01:26:49.000+00:00
+Pegasus,349124,Nike Pegasus 38 Trail - Women's Active Performance Running Shoes,Nike,20,4.35,2021-06-25T14:23:18.000+00:00,2024-06-01T14:22:58.000+00:00
+Pegasus,349119,Nike Air Zoom Pegasus 38 TB - Women's Active Performance Running Shoes,Nike,239,4.359832635983263,2021-04-30T16:44:45.000+00:00,2023-12-01T15:24:16.000+00:00
+Pegasus,330744,Nike Pegasus '92 Lite - Boys' Grade School Casual Running Shoes - White / University Red Midnight Navy,Nike,1,4.0,2021-05-02T12:29:48.000+00:00,2021-05-02T12:29:48.000+00:00
+Pegasus,330424,Nike Air Zoom Pegasus 37 - Boys' Grade School Active Performance Running Shoes - Black / White,Nike,5,4.8,2020-06-13T14:23:18.000+00:00,2021-02-17T15:23:47.000+00:00
+Pegasus,319466,Nike Pegasus 35 - Women's,Nike,9,3.111111111111111,2018-06-11T20:46:43.000+00:00,2019-05-16T14:22:23.000+00:00
+Pegasus,316321,Nike Zoom Pegasus Turbo 2 Rise - Women's,Nike,22,3.227272727272727,2019-10-27T12:29:25.000+00:00,2020-08-07T14:22:59.000+00:00
+Pegasus,311823,Nike Air Zoom Pegasus 36 Trail - Men's Active Trail Shoes - Light Orewood Brown / Hyper Crimson Black,Nike,62,4.064516129032258,2019-06-29T14:22:28.000+00:00,2020-11-24T15:23:29.000+00:00
+Pegasus,304633,Nike Air Zoom Pegasus 35 Premium - Women's,Nike,9,3.111111111111111,2018-06-11T20:46:43.000+00:00,2019-05-16T14:22:23.000+00:00
+Pegasus,299269,Nike Air Zoom Pegasus 35 Shield - Women's,Nike,4,3.75,2019-01-07T15:22:40.000+00:00,2020-10-04T14:23:05.000+00:00
+Pegasus,292102,Nike Air Zoom Pegasus 35 - Girls' Grade School,Nike,11,4.909090909090909,2018-08-28T14:26:12.000+00:00,2021-01-21T23:44:11.000+00:00
+Pegasus,292101,Nike Air Zoom Pegasus 35 - Boys' Grade School,Nike,12,4.75,2018-08-28T14:26:12.000+00:00,2021-01-21T23:44:11.000+00:00
+Pegasus,2855800,Nike Womens Air Zoom Pegasus 35 Running Shoes,Nike,128,4.2421875,2018-06-11T20:45:46.000+00:00,2020-11-01T15:23:02.000+00:00
+Pegasus,285276,Nike Air Zoom Pegasus 34 Shield - Women's,Nike,1,1.0,2017-11-11T21:08:43.000+00:00,2017-11-11T21:08:43.000+00:00
+Pegasus,277763,Nike Zoom Pegasus 34 - Girls' Grade School,Nike,5,4.2,2018-02-06T20:41:50.000+00:00,2018-07-26T01:29:14.000+00:00
+Pegasus,277761,Nike Zoom Pegasus 34 - Boys' Grade School,Nike,6,4.0,2017-10-30T16:30:57.000+00:00,2018-07-26T01:29:14.000+00:00
+Pegasus,277662,Nike Air Zoom Pegasus 34 - Men's,Nike,140,4.3428571428571425,2017-05-21T03:13:19.000+00:00,2020-11-07T15:22:54.000+00:00
+Pegasus,276898,Nike Air Zoom Pegasus 34 - Women's,Nike,99,4.414141414141414,2017-06-12T18:33:21.000+00:00,2020-12-16T15:23:00.000+00:00
+Pegasus,269586,Nike Air Pegasus '89 Tech - Women's,Nike,1,5.0,2017-09-02T17:41:05.000+00:00,2017-09-02T17:41:05.000+00:00
+Pegasus,269382,Nike Air Zoom Pegasus 33 Shield - Men's,Nike,16,3.875,2016-10-13T00:23:45.000+00:00,2017-06-04T13:10:29.000+00:00
+Pegasus,269206,Nike Zoom Pegasus 33 Shield - Girls' Grade School,Nike,1,5.0,2016-12-15T04:10:32.000+00:00,2016-12-15T04:10:32.000+00:00
+Pegasus,269163,Nike Zoom Pegasus 33 Shield - Boys' Grade School,Nike,2,5.0,2017-04-12T00:41:23.000+00:00,2017-06-14T19:27:08.000+00:00
+Pegasus,268589,Nike Zoom Pegasus All Out - Boys' Grade School,Nike,4,5.0,2016-11-05T12:00:09.000+00:00,2017-08-18T07:10:36.000+00:00
+Pegasus,265024,Nike Air Pegasus '92 - Women's,Nike,2,3.0,2017-02-01T20:54:25.000+00:00,2017-07-05T16:24:19.000+00:00
+Pegasus,260162,Nike Zoom Pegasus 33 - Girls' Grade School Active Performance Running Shoes,Nike,11,4.181818181818182,2016-06-22T17:11:45.000+00:00,2018-05-08T23:00:01.000+00:00
+Pegasus,260161,Nike Zoom Pegasus 33 - Boys' Grade School,Nike,7,4.285714285714286,2016-08-25T18:53:36.000+00:00,2017-10-01T17:16:05.000+00:00
+Pegasus,252320,Nike Air Zoom Pegasus 32 Flash - Men's,Nike,2,5.0,2016-01-29T04:47:32.000+00:00,2016-06-24T23:17:35.000+00:00
+Pegasus,250514,Nike Zoom Pegasus +32 - Boys' Grade School,Nike,0,,,
+Pegasus,250194,Nike Zoom Pegasus 32 - Women's,Nike,0,,,
+Pegasus,249301,Nike Zoom Pegasus 32 - Men's,Nike,0,,,
+Pegasus,241397,Nike Air Pegasus 83 N7 - Men's,Nike,0,,,
+Pegasus,241381,Nike Air Pegasus 31 - Men's,Nike,1,5.0,2015-08-05T19:57:51.000+00:00,2015-08-05T19:57:51.000+00:00
+Pegasus,240351,Nike Air Max Pegasus - Women's,Nike,0,,,
+Pegasus,240312,Nike Air Pegasus 31 Flash - Men's,Nike,0,,,
+Pegasus,238366,Nike Air Pegasus N7 - Women's,Nike,0,,,
+Pegasus,238363,Nike Zoom Pegasus +31 N7 - Men's,Nike,0,,,
+Pegasus,237308,Nike Zoom Pegasus - Girls' Grade School,Nike,0,,,
+Pegasus,236383,Nike Zoom Pegasus - Boys' Grade School,Nike,0,,,
+Pegasus,236280,Nike Zoom Pegasus - Women's,Nike,0,,,
+Pegasus,236218,Nike Zoom Pegasus 31 - Men's,Nike,0,,,
+Pegasus,233157,Nike Air Pegasus + 25 - Women's,Nike,0,,,
+Pegasus,233155,Nike Air Pegasus + 26 - Women's,Nike,0,,,
+Pegasus,232885,Nike Air Pegasus+ 29 - Men's,Nike,0,,,
+Pegasus,232859,Nike Air Pegasus +29 - Boys' Grade School,Nike,0,,,
+Pegasus,232779,Nike Zoom Pegasus 31 - Girls' Grade School,Nike,0,,,
+Pegasus,232017,Nike Air Pegasus 83 - Men's,Nike,0,,,
+Pegasus,229626,Nike Air Pegasus - Girls' Grade School,Nike,0,,,
+Pegasus,229554,Nike Air Pegasus+ 30 - Men's,Nike,0,,,
+Pegasus,229473,Nike Air Pegasus+ 30 - Women's,Nike,0,,,
+Pegasus,226069,Nike Air Pegasus 31 Flash - Men's,Nike,4,3.75,2014-11-04T08:03:31.000+00:00,2015-03-09T14:29:58.000+00:00
+Pegasus,217377,Nike Air Pegasus '89 - Men's,Nike,4,4.75,2014-08-27T19:38:18.000+00:00,2017-08-11T19:29:18.000+00:00
+Pegasus,203648,Nike Air Pegasus + 30 Shield - Men's,Nike,4,3.75,2014-02-05T14:37:47.000+00:00,2014-04-15T21:39:14.000+00:00
+Pegasus,199400,Nike Pegasus World Tour S/S T-Shirt - Men's,Nike,0,,,
+Pegasus,199399,Nike Vintage Pegasus PO Hoodie - Men's,Nike,0,,,
+Pegasus,198185,Nike Air Pegasus+ 30 - Girls' Grade School,Nike,0,,,
+Pegasus,198166,Nike Air Pegasus+ 30 - Boys' Grade School,Nike,1,5.0,2015-02-28T01:59:47.000+00:00,2015-02-28T01:59:47.000+00:00
+Pegasus,195326,Nike Air Pegasus+ 29 Breathe - Men's,Nike,3,4.333333333333333,2013-08-06T22:16:44.000+00:00,2013-10-23T01:59:02.000+00:00
+Pegasus,179989,Nike Air Pegasus + 29 - Girls' Grade School,Nike,0,,,
+Pegasus,179943,Nike Air Pegasus + 29 - Boys' Grade School,Nike,1,4.0,2013-01-03T00:16:38.000+00:00,2013-01-03T00:16:38.000+00:00
+Pegasus,179821,Nike Air Pegasus+ 29 Trail - Men's,Nike,3,4.333333333333333,2013-03-14T01:46:00.000+00:00,2013-05-26T02:06:25.000+00:00
+Pegasus,160345,Nike Air Pegasus + 28 Trail - Women's,Nike,0,,,
+Pegasus,148385,Nike Air Pegasus + 27 GTX - Women's,Nike,4,5.0,2011-01-08T22:06:21.000+00:00,2012-01-04T18:58:17.000+00:00
+Pegasus,147926,Nike Air Pegasus + 27 GTX - Men's,Nike,10,4.4,2010-11-09T05:04:59.000+00:00,2012-05-09T02:47:08.000+00:00
+Pegasus,143991,Nike Air Pegasus +27 Trail WR - Women's,Nike,6,4.666666666666667,2010-12-30T17:57:29.000+00:00,2011-07-11T04:01:08.000+00:00
+Pegasus,140793,Nike Air Pegasus + 27 - Women's,Nike,59,4.305084745762712,2010-06-21T21:56:18.000+00:00,2011-11-02T21:39:48.000+00:00
+Pegasus,140650,Nike Air Pegasus+ 27 - Men's,Nike,92,4.663043478260869,2010-06-04T20:24:35.000+00:00,2012-02-11T14:12:35.000+00:00
+Pegasus,106735,Nike Air Pegasus 83 SI - Men's,Nike,2,4.5,2009-11-06T21:37:57.000+00:00,2009-11-21T05:33:31.000+00:00
+Pegasus,106139,Nike Air Pegasus+ 26 - Men's,Nike,1,4.0,2009-11-30T14:26:24.000+00:00,2009-11-30T14:26:24.000+00:00
+Vomero,430986,Nike Vomero 5 - Boys' Grade School Casual Running Shoes - Vast Grey / Pink,Nike,504,4.732142857142857,2024-06-26T14:23:57.000+00:00,2026-10-02T20:12:02.000+00:00
+Vomero,425247,Nike Zoom Vomero 5 - Women's Casual Running Shoes - Photon Dust / Pink Foam Metallic Silver,Nike,727,4.795048143053645,2024-02-29T15:24:16.000+00:00,2026-10-07T22:55:19.000+00:00
+Vomero,424527,Nike Vomero 5 - Men's Casual Running Shoes - Metallic Silver / Dark Grey Black,Nike,709,4.657263751763047,2019-02-16T15:22:49.000+00:00,2026-10-09T14:22:26.000+00:00
+Vomero,436540,Nike Vomero 5 - Girls' Grade School Basketball Shoes - Photon Dust / Sail Chrome,Nike,339,4.687315634218289,2024-06-26T14:23:57.000+00:00,2026-09-11T14:22:49.000+00:00
+Vomero,443239,Nike Vomero 5 - Boys' Preschool Casual Running Shoes - College Grey / Black Cave Stone,Nike,83,4.662650602409639,2025-05-30T02:47:40.000+00:00,2026-08-22T12:00:20.000+00:00
+Vomero,449690,Nike Vomero Plus - Women's Casual Running Shoes - Red / Black,Nike,759,4.595520421607378,2025-07-30T14:23:47.000+00:00,2026-10-13T16:44:03.000+00:00
+Vomero,431739,Nike Vomero 5 - Women's Casual Running Shoes - Khaki / Phantom Fire Red,Nike,290,4.6689655172413795,2024-02-29T15:24:16.000+00:00,2026-10-06T14:23:01.000+00:00
+Vomero,449405,Nike Vomero Plus - Men's Casual Running Shoes - White / Bright Crimson Black,Nike,804,4.6106965174129355,2025-07-30T14:23:47.000+00:00,2026-10-13T14:22:56.000+00:00
+Vomero,175218,Nike Zoom Vomero + 7 - Men's,Nike,42,4.5476190476190474,2012-05-09T02:50:38.000+00:00,2013-09-25T22:22:16.000+00:00
+Vomero,449620,Nike Vomero 18 - Men's Casual Running Shoes - Laser Orange / Citron Pulse Blue Void,Nike,1089,4.662993572084481,2025-02-11T15:25:28.000+00:00,2026-10-12T14:22:52.000+00:00
+Vomero,443296,Nike Vomero 5 - Boys' Toddler Casual Running Shoes - Pink / Vast Grey,Nike,60,4.766666666666667,2025-05-06T20:26:02.000+00:00,2026-08-31T14:22:49.000+00:00
+Vomero,175409,Nike Zoom Vomero + 7 - Women's,Nike,55,4.818181818181818,2012-05-26T11:31:03.000+00:00,2013-10-22T16:11:17.000+00:00
+Vomero,440461,Nike Vomero 5 VD - Girls' Grade School Casual Running Shoes - Summit White / Light Crimson,Nike,140,4.442857142857143,2024-06-26T14:23:57.000+00:00,2026-09-11T14:22:49.000+00:00
+Vomero,443305,Nike Vomero 5 - Girls' Toddler Casual Running Shoes - Black / Photon Dust Silver,Nike,36,4.666666666666667,2025-05-23T14:23:24.000+00:00,2026-09-26T23:37:54.000+00:00
+Vomero,449563,Nike Vomero 18 - Women's Casual Running Shoes - Dark Smoke Grey / Black,Nike,934,4.647751605995717,2025-02-11T15:25:28.000+00:00,2026-10-12T14:22:52.000+00:00
+Vomero,429601,Nike Vomero 5 - Men's Casual Running Shoes - Picante / Photon Dust,Nike,6,5.0,2024-06-06T13:19:21.000+00:00,2025-01-26T23:19:54.000+00:00
+Vomero,193802,Nike Zoom Vomero+ 8 - Men's,Nike,26,4.769230769230769,2013-05-06T20:59:18.000+00:00,2014-06-25T00:58:52.000+00:00
+Vomero,429340,Nike Zoom Vomero 5 COR - Women's Active Performance Running Shoes,Nike,19,4.894736842105263,2024-06-24T14:23:01.000+00:00,2025-03-12T14:22:32.000+00:00
+Vomero,240064,Nike Zoom Vomero 10 - Men's,Nike,15,5.0,2015-05-30T16:14:31.000+00:00,2016-10-25T19:51:03.000+00:00
+Vomero,449767,Nike Zoom Vomero 5 NA9 - Women's Casual Running Shoes - Summit White / Hyper Pink,Nike,648,4.783950617283951,2024-02-29T15:24:16.000+00:00,2026-10-07T22:55:19.000+00:00
+Vomero,449559,Nike Zoom Vomero 5 NA70 - Men's Casual Running Shoes - Summit White / Metallic Silver,Nike,646,4.636222910216718,2019-02-16T15:22:49.000+00:00,2026-10-09T14:22:26.000+00:00
+Vomero,240872,Nike Zoom Vomero 10 - Women's,Nike,35,4.514285714285714,2015-07-17T00:00:00.000+00:00,2016-12-14T16:39:58.000+00:00
+Vomero,193832,Nike Zoom Vomero+ 8 - Women's,Nike,22,4.318181818181818,2013-05-04T16:11:34.000+00:00,2014-09-26T01:58:57.000+00:00
+Vomero,443276,Nike Vomero 5 - Girls' Preschool Casual Running Shoes - Black / Silver Photon Dust,Nike,47,4.574468085106383,2025-04-16T10:29:38.000+00:00,2026-09-28T09:26:23.000+00:00
+Vomero,431724,Nike Zoom Vomero 5 News - Women's Casual Running Shoes - Metallic Silver / Wolf Grey Summit White,Nike,646,4.781733746130031,2024-02-29T15:24:16.000+00:00,2026-10-07T22:55:19.000+00:00
+Vomero,214288,Nike Zoom Vomero 9 - Men's,Nike,19,4.052631578947368,2014-05-09T20:36:56.000+00:00,2016-05-26T19:14:36.000+00:00
+Vomero,456454,Nike Zoom Vomero 5 Reflective - Men's Casual Running Shoes - Black,Nike,648,4.6419753086419755,2019-02-16T15:22:49.000+00:00,2026-10-09T14:22:26.000+00:00
+Vomero,440099,Nike Vomero 5 - Men's Casual Running Shoes - Dark Grey / Black Metallic Silver,Nike,643,4.640746500777605,2019-02-16T15:22:49.000+00:00,2026-10-09T14:22:26.000+00:00
+Vomero,258696,Nike Zoom Vomero 11 - Men's,Nike,46,4.456521739130435,2016-03-29T20:02:14.000+00:00,2017-10-10T05:21:43.000+00:00
+Vomero,256958,Nike Air Zoom Vomero 11 - Women's,Nike,19,3.8947368421052633,2016-03-13T05:38:05.000+00:00,2017-11-05T01:34:04.000+00:00
+Vomero,214379,Nike Zoom Vomero 9 - Women's,Nike,13,4.6923076923076925,2014-07-25T00:53:23.000+00:00,2015-06-16T16:03:43.000+00:00
+Vomero,203645,Nike Zoom Vomero + 8 Shield - Men's,Nike,5,4.8,2014-02-05T02:44:15.000+00:00,2014-04-24T23:33:38.000+00:00
+Vomero,156559,Nike Zoom Vomero+ 6 - Men's,Nike,35,4.685714285714286,2011-06-25T00:41:11.000+00:00,2012-08-08T21:13:25.000+00:00
+Vomero,156447,Nike Zoom Vomero+ 6 - Women's,Nike,14,4.571428571428571,2011-05-27T21:15:27.000+00:00,2012-07-19T19:47:17.000+00:00
+Vomero,471735,Nike Vomero Plus RR - Men's Casual Running Shoes - Metallic Silver / White Black,Nike,478,4.7698744769874475,2025-08-08T22:36:26.000+00:00,2026-09-25T20:58:29.000+00:00
+Vomero,470717,Nike Vomero 5 Lace NA45 - Girls' Toddler Casual Running Shoes - Sail / Metallic Gold Anthracite,Nike,14,4.428571428571429,2025-05-23T14:23:24.000+00:00,2026-09-20T19:33:59.000+00:00
+Vomero,466468,Nike Vomero 18 Wide - Men's Casual Running Shoes - Black / Summit White Coconut Milk,Nike,670,4.71044776119403,2025-03-09T16:12:15.000+00:00,2026-10-02T14:01:39.000+00:00
+Vomero,457275,Nike Vomero Plus NA39 - Women's Casual Running Shoes - Blue Force / Void,Nike,49,4.551020408163265,2025-09-01T14:22:40.000+00:00,2026-10-13T14:23:08.000+00:00
+Vomero,457138,Nike Vomero 18 SE - Women's Casual Running Shoes - Black / Metallic Dark Grey Cave Purple,Nike,533,4.7636022514071295,2025-03-19T00:44:30.000+00:00,2026-10-04T21:45:08.000+00:00
+Vomero,444714,Nike Zoom Vomero 5 GCEL CN - Women's Casual Running Shoes - Metallic Silver / Summit White Photon Dust,Nike,7,5.0,2025-05-20T10:16:34.000+00:00,2025-09-16T00:52:13.000+00:00
+Vomero,442492,Nike Zoom Vomero 5 - Women's Casual Running Shoes - Lt Crimson / Soft Pink Team Red,Nike,640,4.7859375,2024-02-29T15:24:16.000+00:00,2026-10-07T22:55:19.000+00:00
+Vomero,436672,Nike Vomero Roam - Men's Casual Running Shoes - Black,Nike,105,4.161904761904762,2024-10-30T14:25:23.000+00:00,2026-10-12T14:23:21.000+00:00
+Vomero,272622,Nike Zoom Vomero 12 - Men's,Nike,55,4.490909090909091,2017-01-07T03:50:21.000+00:00,2018-09-16T16:32:14.000+00:00
+Vomero,104071,Nike Air Zoom Vomero+ 4 - Women's,Nike,2,4.5,2009-11-06T22:08:50.000+00:00,2009-11-21T03:38:45.000+00:00
+Vomero,Q3122010,Nike Mens Nike Air Zoom Vomero 14 - Mens Running Shoes,Nike,56,3.5714285714285716,2018-12-15T15:22:58.000+00:00,2021-11-25T15:23:03.000+00:00
+Vomero,H7857400,Nike Mens Air Zoom Vomero 14 Running Shoes,Nike,56,3.5714285714285716,2018-12-15T15:22:58.000+00:00,2021-11-25T15:23:03.000+00:00
+Vomero,H7857003,Nike Mens Air Zoom Vomero 14 Running Shoes,Nike,56,3.5714285714285716,2018-12-15T15:22:58.000+00:00,2021-11-25T15:23:03.000+00:00
+Vomero,H7857001,Nike Mens Air Zoom Vomero 14 Running Shoes,Nike,56,3.5714285714285716,2018-12-15T15:22:58.000+00:00,2021-11-25T15:23:03.000+00:00
+Vomero,476282,Nike Vomero 18 ESS - Women's Casual Running Shoes - Summit White / Chalk,Nike,529,4.767485822306238,2025-03-19T00:44:30.000+00:00,2026-10-04T21:45:08.000+00:00
+Vomero,475703,Nike Zoom Vomero 5 SE - Men's Casual Running Shoes - Blue Void / Mtlc Silver Midnight Navy,Nike,641,4.639625585023401,2019-02-16T15:22:49.000+00:00,2026-10-09T14:22:26.000+00:00
+Vomero,475412,Nike Vomero Plus SE - Women's Casual Running Shoes - White / Silver Grey,Nike,46,4.521739130434782,2025-09-01T14:22:40.000+00:00,2026-10-13T14:23:08.000+00:00
+Vomero,473199,Nike Vomero Plus ESS - Women's Casual Running Shoes - Sail / Summit White Metallic Silver,Nike,437,4.748283752860412,2025-08-26T21:06:18.000+00:00,2026-10-13T14:23:08.000+00:00
+Vomero,471551,Nike Vomero 18 GTX - Men's Casual Running Shoes - Mtlc Silver / Lt Pumice Pure Platinum,Nike,70,4.071428571428571,2025-09-03T14:23:06.000+00:00,2026-10-13T14:23:22.000+00:00
+Vomero,471525,Nike Vomero 18 RR - Men's Casual Running Shoes - Summit White / Metallic Silver Black,Nike,695,4.768345323741007,2025-03-09T16:12:15.000+00:00,2026-10-12T14:23:11.000+00:00
+Vomero,471349,Nike Vomero Plus Wide - Men's Casual Running Shoes - Black / White Cool Grey,Nike,471,4.745222929936306,2025-08-06T14:23:24.000+00:00,2026-09-29T14:23:16.000+00:00
+Vomero,470860,Nike Vomero 5 Lace - Boys' Toddler Casual Running Shoes - Black,Nike,11,4.2727272727272725,2025-05-23T14:23:24.000+00:00,2026-08-31T14:22:49.000+00:00
+Vomero,470713,Nike Vomero 5 Lace NA45 - Girls' Preschool Casual Running Shoes,Nike,17,4.117647058823529,2025-09-18T14:22:42.000+00:00,2026-08-25T04:23:39.000+00:00
+Vomero,470570,Nike Vomero 5 Lace - Boys' Preschool Casual Running Shoes - Black,Nike,16,4.0625,2025-09-18T14:22:42.000+00:00,2026-08-21T14:22:59.000+00:00
+Vomero,470258,Nike Vomero 5 EE - Boys' Grade School Casual Running Shoes - Anthracite / Soft Pearl Black,Nike,102,4.284313725490196,2024-06-26T14:23:57.000+00:00,2026-09-11T14:22:49.000+00:00
+Vomero,466501,Nike Vomero 18 SE - Women's Casual Running Shoes - Ember Glow / Washed Coral Sweet Beet,Nike,529,4.767485822306238,2025-03-19T00:44:30.000+00:00,2026-10-04T21:45:08.000+00:00
+Vomero,465365,Nike Zoom Vomero 5 - Men's Casual Running Shoes - Grey Fog / Chrome Metallic Silver,Nike,641,4.639625585023401,2019-02-16T15:22:49.000+00:00,2026-10-09T14:22:26.000+00:00
+Vomero,463388,Nike Zoom Vomero 5 NA36 - Women's Casual Running Shoes - Tan / Gold,Nike,639,4.785602503912363,2024-02-29T15:24:16.000+00:00,2026-10-07T22:55:19.000+00:00
+Vomero,463202,Nike Vomero 5 SE - Boys' Preschool Casual Running Shoes - University Red / Team Crimson Sail,Nike,3,5.0,2026-01-20T21:47:13.000+00:00,2026-06-26T12:08:21.000+00:00
+Vomero,463189,Nike Vomero 5 SE - Boys' Grade School Casual Running Shoes - Sail / Team Crimson University Red,Nike,158,4.841772151898734,2024-11-06T00:20:31.000+00:00,2026-08-15T12:57:49.000+00:00
+Vomero,455794,Nike Vomero 18 GTX - Women's Casual Running Shoes - Black / Anthracite,Nike,51,4.176470588235294,2025-08-26T14:23:37.000+00:00,2026-05-13T00:35:22.000+00:00
+Vomero,455623,Nike Vomero 18 - Boys' Grade School Casual Running Shoes - White / Hot Lava Violet Mist,Nike,53,4.716981132075472,2025-04-01T14:23:27.000+00:00,2026-10-05T20:16:50.000+00:00
+Vomero,455535,Nike Zoom Vomero 5 - Men's Casual Running Shoes - Black / Star Blue,Nike,642,4.640186915887851,2019-02-16T15:22:49.000+00:00,2026-10-09T14:22:26.000+00:00
+Vomero,455338,Nike Zoom Vomero 5 Premium - Women's Casual Running Shoes - Medium Olive / Baroque Brown Sail,Nike,1,5.0,2026-01-21T20:01:55.000+00:00,2026-01-21T20:01:55.000+00:00
+Vomero,450684,Nike Vomero 18 - Girls' Grade School Casual Running Shoes - Barely Volt / Pink Spell,Nike,39,4.82051282051282,2025-04-01T14:23:27.000+00:00,2026-09-27T14:22:30.000+00:00
+Vomero,449635,Nike Zoom Vomero 5 SE - Women's Casual Running Shoes - Ashen Slate / Mtlc Silver Hydrogen Blue,Nike,640,4.7859375,2024-02-29T15:24:16.000+00:00,2026-10-07T22:55:19.000+00:00
+Vomero,445742,Nike Vomero Roam - Women's Casual Running Shoes - Tattoo / Particle Rose,Nike,71,4.366197183098592,2024-11-02T14:24:13.000+00:00,2026-10-01T14:22:23.000+00:00
+Vomero,442562,Nike Vomero 17 - Men's Casual Running Shoes - Pure Platinum / White Black,Nike,160,4.4,2023-10-09T14:28:58.000+00:00,2026-08-04T22:53:17.000+00:00
+Vomero,439873,Nike Zoom Vomero 5 Suede - Women's Casual Running Shoes - Pure Platinum / Summit White Tint,Nike,647,4.786707882534776,2024-02-29T15:24:16.000+00:00,2026-10-07T22:55:19.000+00:00
+Vomero,438447,Nike Vomero 17 - Women's Casual Running Shoes - Black / White Anthracite,Nike,126,4.333333333333333,2023-10-09T14:28:58.000+00:00,2025-02-04T15:24:14.000+00:00
+Vomero,435124,Nike Vomero 5 - Girls' Grade School Casual Running Shoes - Silver / Grey Blue,Nike,108,4.314814814814815,2024-06-26T14:23:57.000+00:00,2026-09-11T14:22:49.000+00:00
+Vomero,432238,Nike Zoom Vomero 5 - Men's Casual Running Shoes - Grey / White Silver,Nike,643,4.639191290824261,2019-02-16T15:22:49.000+00:00,2026-10-09T14:22:26.000+00:00
+Vomero,429338,Nike Vomero 5 EF - Women's Casual Running Shoes,Nike,35,4.371428571428571,2023-10-27T14:23:29.000+00:00,2025-09-24T14:22:57.000+00:00
+Vomero,429337,Nike Zoom Vomero 5 GLD - Women's Casual Running Shoes - Gray / Gold,Nike,668,4.790419161676646,2024-02-29T15:24:16.000+00:00,2026-10-07T22:55:19.000+00:00
+Vomero,426729,Nike Vomero 5 - Men's Casual Running Shoes - White / Red,Nike,318,4.477987421383648,2019-02-16T15:22:49.000+00:00,2026-10-09T14:22:26.000+00:00
+Vomero,354974,Nike Vomero 16 - Men's Active Performance Running Shoes - Black / White Sundial,Nike,182,4.302197802197802,2021-07-09T14:23:14.000+00:00,2023-10-13T14:23:16.000+00:00
+Vomero,305639,Nike Air Zoom Vomero 14 - Men's,Nike,56,3.5714285714285716,2018-12-15T15:22:58.000+00:00,2021-11-25T15:23:03.000+00:00
+Vomero,289012,Nike Air Zoom Vomero 13 - Men's,Nike,16,3.75,2018-01-20T20:55:48.000+00:00,2020-07-25T14:22:40.000+00:00
+Vomero,288872,Nike Air Zoom Vomero 13 - Women's,Nike,6,4.5,2018-06-11T20:43:10.000+00:00,2020-06-27T14:22:55.000+00:00
+Vomero,273611,Nike Air Zoom Vomero 12 - Women's,Nike,14,4.857142857142857,2017-01-18T20:27:01.000+00:00,2018-01-28T23:22:42.000+00:00
+Vomero,250197,Nike Zoom Vomero 10 - Women's,Nike,0,,,
+Vomero,250129,Nike Zoom Vomero 10 - Men's,Nike,0,,,
+Vomero,232949,Nike Zoom Vomero+ 8 - Men's,Nike,0,,,
+Vomero,229614,Nike Zoom  Vomero+ 8 - Women's,Nike,0,,,
+Vomero,203708,Nike Zoom Vomero + 8 Shield - Women's,Nike,4,4.0,2013-10-23T07:20:40.000+00:00,2014-03-02T21:52:04.000+00:00
+Vomero,140792,Nike Zoom Vomero+ 5 - Women's,Nike,73,4.47945205479452,2010-04-16T22:00:16.000+00:00,2012-02-26T12:59:38.000+00:00
+Vomero,140644,Nike Zoom Vomero+ 5 - Men's,Nike,71,4.225352112676056,2010-04-03T13:17:22.000+00:00,2011-12-19T14:20:15.000+00:00
+Vomero,104093,Nike Air Zoom Vomero+ 4 - Men's,Nike,2,4.5,2009-11-07T05:39:53.000+00:00,2009-12-01T00:53:57.000+00:00
+Structure,166451,Nike Zoom Structure Triax + 15 - Men's,Nike,55,4.654545454545454,2011-12-29T16:32:31.000+00:00,2013-06-29T21:54:22.000+00:00
+Structure,344840,Nike Air Structure - Men's Casual Running Shoes - White / Silver Black,Nike,18,4.777777777777778,2021-03-26T22:38:41.000+00:00,2022-01-16T15:23:01.000+00:00
+Structure,344700,Nike Air Max Structure - Boys' Grade School Casual Running Shoes,Nike,18,4.722222222222222,2021-04-19T13:23:28.000+00:00,2022-01-20T09:17:28.000+00:00
+Structure,166536,Nike Zoom Structure Triax + 15 - Women's,Nike,53,4.660377358490566,2011-12-30T00:37:12.000+00:00,2013-05-02T20:53:54.000+00:00
+Structure,226784,Nike Zoom Structure 18 - Women's,Nike,143,4.545454545454546,2014-10-09T20:43:34.000+00:00,2016-02-21T19:32:24.000+00:00
+Structure,269383,Nike Air Zoom Structure 20 - Men's,Nike,5,4.4,2016-11-21T21:43:55.000+00:00,2017-08-05T20:39:49.000+00:00
+Structure,252098,Nike Air Zoom Structure 19 - Women's,Nike,87,4.609195402298851,2015-10-18T17:11:31.000+00:00,2017-07-19T01:49:50.000+00:00
+Structure,186863,Nike Structured Weight Training Belt,Nike,6,4.833333333333333,2012-08-13T14:53:57.000+00:00,2013-09-03T22:39:20.000+00:00
+Invincible,389648,Nike ZoomX Invincible Run Flyknit 3 - Women's Casual Running Shoes,Nike,644,3.622670807453416,2023-01-21T15:23:16.000+00:00,2025-11-01T14:22:43.000+00:00
+Invincible,442542,Nike ZoomX Invincible Run 3 Wide - Men's Casual Running Shoes - Black / White Coconut Milk,Nike,29,3.2413793103448274,2023-10-16T14:24:53.000+00:00,2025-05-23T14:23:43.000+00:00
+Invincible,395317,Nike ZoomX Invincible Run Flyknit 3 - Women's Active Performance Running Shoes,Nike,640,3.6140625,2023-01-21T15:23:16.000+00:00,2025-11-01T14:22:43.000+00:00
+Invincible,390416,Nike ZoomX Invincible Run Flyknit 3 - Men's Casual Running Shoes,Nike,648,3.6141975308641974,2023-01-21T15:23:16.000+00:00,2025-11-01T14:22:43.000+00:00
+Invincible,363761,Nike Invincible Run 2 - Men's Casual Running Shoes - Black / Summit White,Nike,65,4.107692307692307,2022-08-20T14:24:09.000+00:00,2023-09-17T08:22:03.000+00:00
+Invincible,363596,Nike ZoomX Invincible Run Flyknit 2 - Women's Casual Running Shoes,Nike,43,3.883720930232558,2022-06-15T14:23:46.000+00:00,2023-09-13T14:22:46.000+00:00
+Invincible,343529,Nike Zoom x Invincible Run Flyknit - Women's Active Performance Running Shoes - White / Black,Nike,114,4.087719298245614,2021-03-13T15:24:18.000+00:00,2023-06-01T07:53:27.000+00:00
+Invincible,231084,Unequal Invincible 4-Pad Shirt - Men's,Unequal,0,,,
+Invincible,231083,Unequal Invincible 4-Pad Shirt - Men's,Unequal,0,,,
+Invincible,187862,Clinch Gear Invincible - Men's,Clinch Gear,9,2.7777777777777777,2012-10-31T19:32:27.000+00:00,2013-02-01T15:50:08.000+00:00
+InfinityRN,430608,Nike InfinityRN 4 FP - Men's Casual Running Shoes,Nike,381,4.152230971128609,2023-06-22T14:23:27.000+00:00,2025-02-24T15:23:22.000+00:00
+InfinityRN,422935,Nike InfinityRN 4 - Men's Casual Running Shoes - White / Volt Pro Green,Nike,82,3.6707317073170733,2023-08-12T14:24:10.000+00:00,2025-02-08T15:23:18.000+00:00
+Winflo,332158,Nike Zoom Winflo 7 - Women's Active Performance Running Shoes - Black / White Anthracite,Nike,23,4.565217391304348,2020-06-18T14:23:34.000+00:00,2022-01-15T15:49:19.000+00:00
+Winflo,293800,Nike Zoom Winflo 5 - Women's,Nike,70,4.642857142857143,2018-06-19T21:38:02.000+00:00,2021-01-08T15:23:31.000+00:00
+Winflo,404604,Nike Air Winflo 10 - Men's Casual Running Shoes - Blue / Black White,Nike,144,3.8194444444444446,2023-04-05T14:23:34.000+00:00,2025-06-01T14:38:41.000+00:00
+Winflo,292419,Nike Zoom Winflo 5 - Men's,Nike,101,4.306930693069307,2015-07-22T02:21:35.000+00:00,2020-10-31T14:23:00.000+00:00
+Winflo,262229,Nike Air Zoom Winflo 3 - Women's,Nike,44,4.340909090909091,2016-07-01T14:26:44.000+00:00,2018-02-24T18:36:00.000+00:00
+Winflo,252878,Nike Air Zoom Winflo 2 - Women's,Nike,18,4.722222222222222,2016-02-26T13:34:21.000+00:00,2016-10-13T20:26:49.000+00:00
+Winflo,J0302004,Nike Womens Zoom Winflo 7 - Running Shoes,Nike,18,4.5,2020-06-18T14:23:34.000+00:00,2021-09-20T14:22:39.000+00:00
+Winflo,J0302002,Nike Womens Zoom Winflo 7 - Running Shoes,Nike,18,4.5,2020-06-18T14:23:34.000+00:00,2021-09-20T14:22:39.000+00:00
+Winflo,A7414603,Nike Womens Zoom Winflo 5 - Running Shoes,Nike,66,4.651515151515151,2018-06-19T21:38:02.000+00:00,2021-01-08T15:23:31.000+00:00
+Winflo,A7414005,Nike Womens Zoom Winflo 5 Running Shoes,Nike,11,4.454545454545454,2018-08-28T14:25:49.000+00:00,2020-08-09T14:22:46.000+00:00
+Winflo,A7414002,Nike Womens Zoom Winflo 5 - Running Shoes,Nike,66,4.651515151515151,2018-06-19T21:38:02.000+00:00,2021-01-08T15:23:31.000+00:00
+Winflo,435666,Nike Air Winflow 11 - Men's Casual Running Shoes - White / Black Anthracite,Nike,141,4.113475177304965,2024-05-04T14:23:38.000+00:00,2026-08-14T19:55:28.000+00:00
+Winflo,425005,Nike Air Winflo 10 R - Women's Casual Running Shoes - Hyper Pink / White Barely Volt,Nike,182,4.4945054945054945,2023-03-14T14:23:28.000+00:00,2024-09-10T14:23:21.000+00:00
+Winflo,401941,Nike Air Winflo 10 - Women's Active Performance Running Shoes,Nike,243,4.534979423868313,2023-03-14T14:23:28.000+00:00,2025-01-08T01:01:03.000+00:00
+Winflo,374502,Nike Air Winflo 9 - Women's Casual Running Shoes - Black / White Grey,Nike,120,4.141666666666667,2022-09-09T14:23:08.000+00:00,2024-12-30T15:23:21.000+00:00
+Winflo,374492,Nike Air Winflo 9 - Men's Active Trail Shoes - Black / Smoke,Nike,120,4.141666666666667,2022-09-09T14:23:08.000+00:00,2024-12-30T15:23:21.000+00:00
+Winflo,354680,Nike Zoom Winflo 8 - Women's Active Performance Running Shoes - Black / White,Nike,147,4.54421768707483,2021-05-15T14:23:14.000+00:00,2023-03-16T14:27:18.000+00:00
+Winflo,300920,Nike Zoom Winflo 5 Shield - Women's,Nike,66,4.651515151515151,2018-06-19T21:38:02.000+00:00,2021-01-08T15:23:31.000+00:00
+Winflo,285059,Nike Zoom Winflo 4 Shield - Men's,Nike,3,4.333333333333333,2017-10-15T19:46:47.000+00:00,2018-01-22T21:47:46.000+00:00
+Winflo,277663,Nike Zoom Winflo 4 - Men's,Nike,23,4.0,2017-06-24T11:55:04.000+00:00,2018-06-11T20:43:30.000+00:00
+Winflo,277022,Nike Zoom Winflo 4 - Women's,Nike,41,4.463414634146342,2017-06-11T23:37:30.000+00:00,2018-09-18T19:47:08.000+00:00
+Winflo,263336,Nike Air Zoom Winflo 2 Flash - Women's,Nike,1,4.0,2016-01-03T00:46:06.000+00:00,2016-01-03T00:46:06.000+00:00
+Winflo,260696,Nike Zoom Winflo 3 - Men's,Nike,23,4.173913043478261,2016-07-14T02:07:21.000+00:00,2017-04-11T23:47:00.000+00:00
+Winflo,252353,Nike Zoom Winflo 2 Flash - Men's,Nike,0,,,
+Clifton,389290,HOKA Clifton 9 - Women's Active Performance Running Shoes - Eggnog / Shifting Sand,HOKA,1201,4.606994171523731,2023-02-17T01:46:43.000+00:00,2026-07-24T18:13:10.000+00:00
+Clifton,389242,HOKA Clifton 9 - Men's Active Performance Running Shoes - Brown / Red,HOKA,32,4.3125,2023-05-15T13:07:19.000+00:00,2025-07-25T22:44:57.000+00:00
+Clifton,440858,HOKA Clifton 10 - Men's Casual Running Shoes - White / Black,HOKA,1280,4.7859375,2025-04-20T11:01:05.000+00:00,2026-09-28T01:12:19.000+00:00
+Clifton,440649,HOKA Clifton 10 - Women's Casual Running Shoes - Vanilla / Birch,HOKA,1849,4.759870200108167,2025-04-21T18:47:23.000+00:00,2026-09-22T16:35:31.000+00:00
+Clifton,440879,HOKA Clifton One9 - Men's Casual Running Shoes - Black / Habanero White,HOKA,11,3.909090909090909,2025-09-29T00:11:28.000+00:00,2026-06-26T15:18:38.000+00:00
+Clifton,415524,HOKA Clifton L Suede - Men's Casual Running Shoes - Beige,HOKA,8,3.5,2023-12-06T03:37:58.000+00:00,2025-08-06T12:56:41.000+00:00
+Clifton,363795,HOKA Clifton 8 - Women's Casual Running Shoes - Beige,HOKA,335,4.555223880597015,2021-07-15T17:37:37.000+00:00,2023-10-04T14:58:09.000+00:00
+Clifton,426107,HOKA Clifton L BP - Women's Casual Running Shoes - Vanilla / Dry Clay,HOKA,5,2.2,2024-06-05T02:56:46.000+00:00,2025-10-01T01:48:59.000+00:00
+Clifton,424754,HOKA Clifton 9 - Boys' Grade School Casual Running Shoes - White / Black,HOKA,241,4.526970954356846,2023-05-10T13:06:12.000+00:00,2026-04-27T21:43:56.000+00:00
+Clifton,448251,HOKA Clifton 10 - Boys' Grade School Active Performance Running Shoes,HOKA,265,4.777358490566038,2025-07-29T20:50:04.000+00:00,2026-08-12T12:34:27.000+00:00
+Clifton,416372,HOKA Clifton L Suede - Women's Casual Running Shoes - Hot Sauce,HOKA,3,1.6666666666666667,2024-06-25T00:05:46.000+00:00,2025-04-02T19:41:55.000+00:00
+Clifton,440841,HOKA Clifton One9 - Women's Casual Running Shoes - Starlight Glow / Berry Jam,HOKA,2,3.0,2025-11-27T19:39:29.000+00:00,2025-12-15T16:49:01.000+00:00
+Clifton,426106,HOKA Clifton L Athletics - Women's Casual Running Shoes - Ether / Mirage,HOKA,2,5.0,2024-07-09T21:46:21.000+00:00,2025-05-30T02:27:16.000+00:00
+Clifton,424700,HOKA Clifton 9 - Girls' Grade School Casual Running Shoes - Vanilla / Astral,HOKA,231,4.545454545454546,2023-05-10T13:06:12.000+00:00,2026-04-27T21:43:56.000+00:00
+Clifton,424077,HOKA Clifton L Athletics - Men's Casual Running Shoes - Stellar Grey / Stardust,HOKA,2,5.0,2024-04-17T19:56:24.000+00:00,2025-03-30T23:42:04.000+00:00
+Clifton,418019,HOKA Clifton 9 GTX - Men's Performance Running Shoes - Black,HOKA,144,4.576388888888889,2023-10-05T23:39:32.000+00:00,2026-08-11T21:14:32.000+00:00
+Clifton,474239,HOKA Clifton 11 - Women's Casual Running Shoes - Black,HOKA,52,4.538461538461538,2026-07-01T10:31:10.000+00:00,2026-10-09T20:49:21.000+00:00
+Clifton,448305,HOKA Clifton 10 - Boys' Preschool Casual Running Shoes - Black / White,HOKA,50,4.18,2025-08-13T10:51:46.000+00:00,2026-10-01T19:57:25.000+00:00
+Clifton,448287,HOKA Clifton 10 - Girls' Preschool Casual Running Shoes - Grey / Pink,HOKA,52,4.134615384615385,2025-08-13T10:51:46.000+00:00,2026-10-01T19:57:25.000+00:00
+Clifton,432284,HOKA Clifton 9 GTX - Women's Casual Running Shoes - Cosmic Pearl / Smoky Quartz,HOKA,71,4.591549295774648,2023-10-27T01:43:23.000+00:00,2026-07-14T23:17:40.000+00:00
+Clifton,352158,HOKA Clifton 8 - Men's Active Performance Running Shoes - Black,HOKA,244,4.631147540983607,2021-07-13T23:37:35.000+00:00,2023-11-29T00:01:32.000+00:00
+Clifton,238605,HOKA ONE ONE Clifton - Men's,HOKA ONE ONE,3,4.666666666666667,2014-12-14T13:13:16.000+00:00,2015-07-16T14:40:50.000+00:00
+Clifton,474243,HOKA Clifton 11 GLM - Women's Active CAN Classic Casual Shoes,HOKA,51,4.529411764705882,2026-07-01T10:31:10.000+00:00,2026-10-09T20:49:21.000+00:00
+Clifton,474167,HOKA Clifton UTL - Men's Casual Running Shoes - Grey,HOKA,0,,,
+Clifton,474166,HOKA Clifton 11 - Men's Casual Running Shoes - Black / White,HOKA,34,4.588235294117647,2026-06-24T17:39:30.000+00:00,2026-09-10T19:22:44.000+00:00
+Clifton,448284,HOKA Clifton 10 - Girls' Grade School Casual Running Shoes - Lilac Cream / Tangerine Glow,HOKA,260,4.776923076923077,2025-07-29T20:50:04.000+00:00,2026-08-12T12:34:27.000+00:00
+Clifton,238611,HOKA ONE ONE Clifton - Women's,HOKA ONE ONE,1,5.0,2014-12-19T21:25:31.000+00:00,2014-12-19T21:25:31.000+00:00
+Bondi,376979,HOKA Bondi 8 - Women's Casual Running Shoes - Lime Glow / Lemonade,HOKA,43,4.162790697674419,2023-12-06T02:07:14.000+00:00,2025-07-02T22:16:53.000+00:00
+Bondi,376592,HOKA Bondi 8 - Men's Casual Running Shoes - Gold / Black White,HOKA,560,4.7125,2022-08-24T00:46:30.000+00:00,2026-03-28T16:58:11.000+00:00
+Bondi,440642,HOKA Bondi 9 - Women's Casual Running Shoes - Black,HOKA,1505,4.740199335548173,2025-01-26T19:31:45.000+00:00,2026-10-06T20:08:58.000+00:00
+Bondi,440675,HOKA Bondi 9 - Men's Casual Running Shoes - Stellar Grey / Galactic,HOKA,854,4.807962529274005,2025-01-17T02:35:01.000+00:00,2026-09-10T00:48:02.000+00:00
+Bondi,443348,HOKA Bondi L BP - Women's Active Performance Running Shoes - Dry Clay / Dawn Light,HOKA,2,3.0,2025-08-08T01:34:39.000+00:00,2025-09-06T22:22:58.000+00:00
+Bondi,334218,HOKA Bondi 7 - Men's Casual Running Shoes - Silver / Black,HOKA,6,4.5,2021-05-13T13:34:12.000+00:00,2026-09-28T19:46:59.000+00:00
+Bondi,376611,HOKA Bondi 8 - Men's Casual Running Shoes - Goblin Blue / Mountain Spring,HOKA,534,4.734082397003745,2022-08-24T00:46:30.000+00:00,2026-03-28T16:58:11.000+00:00
+Bondi,334390,HOKA Bondi 7 - Women's Casual Running Shoes - Cosmic Grey / Stardust,HOKA,4,4.0,2021-06-01T19:40:40.000+00:00,2026-09-26T00:02:55.000+00:00
+Bondi,474245,HOKA Bondi 9 GLM - Women's Active CAN Classic Casual Shoes - Alabaster / Mineral Blue,HOKA,1488,4.743951612903226,2025-01-29T01:34:14.000+00:00,2026-10-06T20:08:58.000+00:00
+Bondi,365224,HOKA Bondi X - Women's Casual Running Shoes - Yellow Pear / Radiant,HOKA,13,4.461538461538462,2021-11-09T14:10:20.000+00:00,2024-03-26T23:31:56.000+00:00
+Bondi,238613,HOKA ONE ONE Bondi 4 - Women's,HOKA ONE ONE,0,,,
+Bondi,238609,HOKA ONE ONE Bondi 4 - Men's,HOKA ONE ONE,2,5.0,2016-03-10T01:46:34.000+00:00,2017-06-27T22:14:24.000+00:00
+Arahi,425167,HOKA Arahi 7 - Men's Active Performance Running Shoes - Black / White,HOKA,168,4.726190476190476,2024-02-27T22:27:04.000+00:00,2026-01-29T02:21:16.000+00:00
+Arahi,425138,HOKA Arahi 7 - Women's Active Performance Running Shoes - Black / White,HOKA,410,4.553658536585366,2024-02-01T14:53:38.000+00:00,2026-06-30T23:31:20.000+00:00
+Arahi,365260,HOKA Arahi 6 Running Shoes - Women's - Black / White,HOKA,202,4.485148514851486,2022-03-29T21:25:06.000+00:00,2024-05-04T16:58:03.000+00:00
+Arahi,364530,HOKA Arahi 6 - Men's Active Performance Running Shoes - Black / White,HOKA,135,4.5777777777777775,2022-04-12T21:15:47.000+00:00,2024-11-06T20:47:42.000+00:00
+Novablast,424372,ASICS® Novablast 4 - Women's Active Performance Running Shoes,ASICS®,4,5.0,2024-07-08T19:28:09.000+00:00,2025-07-20T14:28:59.000+00:00
+Novablast,352722,ASICS® Novablast 2 - Men's Active Performance Running Shoes - Hazard Green / Black,ASICS®,7,4.571428571428571,2022-03-30T11:45:52.000+00:00,2023-09-12T20:45:27.000+00:00
+Novablast,345376,ASICS® Novablast - Women's Casual Running Shoes - Piedmont Grey / Black,ASICS®,4,3.25,2021-04-19T02:17:26.000+00:00,2022-03-21T10:59:12.000+00:00
+Novablast,334051,ASICS® Novablast - Women's Active Performance Running Shoes - Hot Pink / Sour Yuzu,ASICS®,4,4.75,2020-07-28T10:27:16.000+00:00,2021-10-15T13:57:36.000+00:00
+Novablast,426563,ASICS® Novablast 4 - Men's Casual Running Shoes - White / Pale Mint,ASICS®,12,4.833333333333333,2024-08-16T14:50:03.000+00:00,2025-03-06T09:37:46.000+00:00
+Novablast,454557,ASICS® Novablast 5 Tokyo - Women's Casual Running Shoes - Vapor / Edo Purple,ASICS®,3,3.6666666666666665,2025-09-09T23:58:55.000+00:00,2026-04-01T13:31:53.000+00:00
+Novablast,441671,ASICS® Novablast 5 - Women's Casual Running Shoes - Black / Carrier Grey,ASICS®,179,4.675977653631285,2025-01-28T22:00:37.000+00:00,2026-10-02T11:52:00.000+00:00
+Novablast,352932,ASICS® Novablast 2 - Women's Casual Running Shoes - Green,ASICS®,4,4.0,2023-01-17T21:34:07.000+00:00,2024-09-03T11:20:22.000+00:00
+Novablast,475938,ASICS® Novablast 6 - Men's Casual Running Shoes - Platinum / Glow Green,ASICS®,14,4.142857142857143,2026-07-15T14:49:19.000+00:00,2026-09-25T01:18:07.000+00:00
+Novablast,441677,ASICS® Novablast 5 - Men's Casual Running Shoes - White,ASICS®,204,4.6568627450980395,2025-01-07T23:02:25.000+00:00,2026-09-12T07:50:50.000+00:00
+Novablast,344641,ASICS® Novablast Knit - Men's Active Performance Running Shoes - Black / Sheet Rock,ASICS®,1,5.0,2021-12-06T03:26:57.000+00:00,2021-12-06T03:26:57.000+00:00
+Novablast,332000,ASICS® Novablast - Men's Active Performance Running Shoes - Sheet Rock / Black White,ASICS®,3,4.666666666666667,2020-12-21T12:55:09.000+00:00,2022-02-21T16:55:04.000+00:00
+Novablast,2A661100,ASICS Womens ® Novablast - Running Shoes,ASICS,0,,,
+Novablast,2A584001,ASICS Womens ® Novablast - Running Shoes,ASICS,22,3.9545454545454546,2020-04-07T21:51:47.000+00:00,2022-02-01T21:49:20.000+00:00
+Novablast,1A681020,ASICS Mens ® Novablast - Running Shoes,ASICS,0,,,
+Novablast,1A681003,ASICS Mens ® Novablast - Running Shoes,ASICS,0,,,
+Novablast,1A681001,ASICS Mens ® Novablast - Running Shoes,ASICS,41,4.365853658536586,2020-03-18T14:16:01.000+00:00,2022-02-02T00:42:43.000+00:00
+Nimbus,206927,ASICS® GEL-Nimbus 15 - Women's,ASICS®,58,4.396551724137931,2013-06-15T13:48:48.000+00:00,2015-02-25T21:03:57.000+00:00
+Nimbus,180106,ASICS® GEL-Nimbus 14 - Women's,ASICS®,86,4.790697674418604,2012-06-14T20:19:15.000+00:00,2014-02-03T13:41:11.000+00:00
+Nimbus,179766,ASICS® Gel - Nimbus 14 - Men's,ASICS®,70,4.5285714285714285,2012-06-07T21:40:17.000+00:00,2014-03-05T00:06:10.000+00:00
+Nimbus,235284,ASICS® GEL-Nimbus 17 - Men's,ASICS®,244,4.647540983606557,2015-03-24T20:18:41.000+00:00,2017-05-02T21:49:29.000+00:00
+Nimbus,198051,ASICS® GEL-Nimbus 15 - Men's,ASICS®,69,4.608695652173913,2013-07-01T19:36:05.000+00:00,2015-03-09T01:09:16.000+00:00
+Nimbus,214913,ASICS® GEL-Nimbus 16 - Women's,,33,4.484848484848484,2014-06-17T20:39:33.000+00:00,2015-06-04T21:17:42.000+00:00
+Nimbus,345330,ASICS® Gel-Nimbus 23 - Women's Casual Running Shoes - Black / Pure Silver,ASICS®,47,4.553191489361702,2021-03-14T14:26:36.000+00:00,2023-03-21T11:19:25.000+00:00
+Nimbus,197997,ASICS® GEL-Nimbus 15 Lite-Show - Women's,ASICS®,37,4.5675675675675675,2013-05-19T21:33:55.000+00:00,2014-09-20T12:55:10.000+00:00
+Nimbus,94684,ASICS® Gel-Nimbus 10 - Men's,ASICS®,21,4.904761904761905,2009-11-06T21:22:52.000+00:00,2010-01-26T19:00:38.000+00:00
+Nimbus,425139,HOKA Kawana 2 - Women's Casual Running Shoes - White / Nimbus Cloud,HOKA,311,4.723472668810289,2024-05-07T21:41:43.000+00:00,2026-09-03T04:15:40.000+00:00
+Nimbus,197996,ASICS® GEL-Nimbus 15 Lite-Show - Men's,ASICS®,24,4.958333333333333,2013-06-18T21:41:11.000+00:00,2014-10-08T19:19:36.000+00:00
+Nimbus,256032,ASICS® GEL-Nimbus 18 - Women's,ASICS®,111,4.594594594594595,2016-03-12T14:22:50.000+00:00,2017-07-22T14:44:33.000+00:00
+Nimbus,235314,ASICS® GEL-Nimbus 17 - Women's,ASICS®,43,4.883720930232558,2015-03-26T23:11:41.000+00:00,2016-08-24T00:19:09.000+00:00
+Nimbus,161458,ASICS® GEL - Nimbus 13 - Women's,ASICS®,39,4.384615384615385,2012-01-04T13:17:32.000+00:00,2012-10-13T19:56:45.000+00:00
+Nimbus,255320,ASICS® GEL-Nimbus 18 - Men's,ASICS®,52,4.5,2016-04-10T23:27:56.000+00:00,2017-08-23T18:55:50.000+00:00
+Nimbus,214897,ASICS® GEL-Nimbus 16 - Men's,ASICS®,21,4.476190476190476,2014-06-03T13:20:06.000+00:00,2015-11-05T14:22:33.000+00:00
+Nimbus,161050,ASICS® Gel - Nimbus 13 - Men's,ASICS®,44,4.636363636363637,2011-10-08T22:58:00.000+00:00,2012-10-24T20:48:35.000+00:00
+Nimbus,144252,ASICS® Gel-Nimbus 12 - Women's,ASICS®,27,4.407407407407407,2010-11-24T19:19:57.000+00:00,2012-05-20T03:09:43.000+00:00
+Nimbus,394368,ASICS® GEL-Nimbus 25 - Women's Active Performance Running Shoes,ASICS®,10,4.5,2023-10-10T13:26:56.000+00:00,2024-06-07T16:43:55.000+00:00
+Nimbus,365273,HOKA Speedgoat 5 - Women's Active Trail Shoes - White / Nimbus Cloud,HOKA,42,4.4523809523809526,2022-05-11T00:19:13.000+00:00,2025-08-27T00:56:02.000+00:00
+Nimbus,129581,ASICS® Gel-Nimbus 11 - Men's,ASICS®,7,4.571428571428571,2009-10-21T12:47:00.000+00:00,2010-05-06T10:27:18.000+00:00
+Nimbus,344634,ASICS® Gel-Nimbus 23 - Men's Active Performance Running Shoes,ASICS®,39,4.282051282051282,2021-02-02T21:54:40.000+00:00,2023-11-29T17:19:50.000+00:00
+Nimbus,273097,ASICS® GEL-Nimbus 19 - Women's,ASICS®,99,3.707070707070707,2017-02-13T23:05:59.000+00:00,2018-08-01T09:58:29.000+00:00
+Nimbus,220438,ASICS® GEL-Nimbus 16 Lite-Show - Women's,ASICS®,13,4.615384615384615,2014-10-20T10:21:29.000+00:00,2015-10-13T17:52:14.000+00:00
+Nimbus,427223,ASICS® Nimbus 26 - Women's Casual Running Shoes - Pale Mint / Tint,ASICS®,92,4.1521739130434785,2024-02-06T21:50:45.000+00:00,2026-07-27T18:42:24.000+00:00
+Nimbus,393415,ASICS® GEL-Nimbus 25 - Men's Casual Running Shoes - Black / Pure Silver,ASICS®,50,4.78,2023-03-14T19:55:36.000+00:00,2024-12-09T02:50:10.000+00:00
+Nimbus,365296,HOKA Solimar - Women's Casual Training Shoes - Nimbus Cloud / Shortbread,HOKA,53,4.509433962264151,2023-01-10T22:15:52.000+00:00,2026-03-22T18:46:53.000+00:00
+Nimbus,327041,ASICS® GEL-Nimbus 22 - Women's Active Performance Running Shoes - White / Black,ASICS®,50,3.9,2020-01-10T22:39:54.000+00:00,2022-02-02T16:08:11.000+00:00
+Nimbus,274501,ASICS® GEL-Nimbus 19 - Men's,ASICS®,64,3.78125,2017-02-26T03:07:32.000+00:00,2018-10-24T20:45:55.000+00:00
+Nimbus,220138,ASICS® GEL-Nimbus 16 Lite-Show - Men's,ASICS®,2,5.0,2014-12-20T22:38:04.000+00:00,2015-02-09T20:46:00.000+00:00
+Nimbus,144206,ASICS® Gel-Nimbus 12 - Men's,ASICS®,25,4.6,2010-07-24T13:52:37.000+00:00,2012-05-23T23:06:34.000+00:00
+Nimbus,94740,ASICS® Gel-Nimbus 10 - Women's,ASICS®,2,4.5,2009-11-06T21:30:48.000+00:00,2009-11-07T19:38:53.000+00:00
+Nimbus,454585,ASICS® Gel-Nimbus 27 Tokyo - Women's Casual Running Shoes - Cream / Edo Purple,ASICS®,1,5.0,2026-02-03T11:42:37.000+00:00,2026-02-03T11:42:37.000+00:00
+Nimbus,441661,ASICS® GEL-Nimbus 27 - Women's Casual Running Shoes - Black / Lake Grey White,ASICS®,8,2.625,2025-03-09T17:48:12.000+00:00,2026-04-29T22:58:22.000+00:00
+Nimbus,426565,ASICS® Nimbus 26 - Men's Casual Running Shoes - Black / Graphic Grey,ASICS®,87,4.540229885057471,2024-01-16T05:37:52.000+00:00,2025-05-13T01:35:18.000+00:00
+Nimbus,420688,UGG Rey Fuzzy Logo Hoodie - Women's - Nimbus / Black Lotus Blossom,UGG,1,5.0,2025-01-27T20:40:57.000+00:00,2025-01-27T20:40:57.000+00:00
+Nimbus,365597,ASICS® Gel-Nimbus 24 - Men's Casual Running Shoes - Metropolis,ASICS®,6,4.166666666666667,2022-12-14T16:13:50.000+00:00,2024-02-03T20:13:18.000+00:00
+Nimbus,328131,ASICS® GEL-Nimbus 22 - Men's Active Performance Running Shoes - Blue / Black,ASICS®,27,4.814814814814815,2020-01-11T18:56:32.000+00:00,2021-06-11T12:22:49.000+00:00
+Nimbus,305897,ASICS® GEL-Nimbus 21 - Men's,ASICS®,67,4.313432835820896,2019-02-22T14:45:07.000+00:00,2020-07-09T13:15:40.000+00:00
+Nimbus,286649,ASICS® GEL-Nimbus 20 - Women's,ASICS®,64,3.78125,2018-01-30T21:07:32.000+00:00,2019-09-03T23:21:36.000+00:00
+Nimbus,284644,ASICS® GEL-Nimbus 20 - Men's,ASICS®,68,4.367647058823529,2018-02-20T21:31:08.000+00:00,2019-10-27T20:53:23.000+00:00
+Nimbus,8509090,ASICS Womens ® GEL-Nimbus 20 - Running Shoes,ASICS,62,3.8548387096774195,2018-01-30T21:07:32.000+00:00,2019-09-03T23:21:36.000+00:00
+Nimbus,8508585,ASICS Womens ® GEL-Nimbus 20 - Running Shoes,ASICS,62,3.8548387096774195,2018-01-30T21:07:32.000+00:00,2019-09-03T23:21:36.000+00:00
+Nimbus,802N9001,ASICS Mens GEL-Nimbus 20 Running Shoes,ASICS,0,,,
+Nimbus,700N9099,ASICS Mens ® GEL-Nimbus 19 - Running Shoes,ASICS,56,3.8214285714285716,2017-02-26T03:07:32.000+00:00,2018-05-02T00:22:31.000+00:00
+Nimbus,458409,ASICS® Gel Nimbus 27 TR - Men's Casual Running Shoes - Nature Bathing / Lime Green,ASICS®,0,,,
+Nimbus,454274,Mizuno Neo Zen - Women's Casual Running Shoes - Nimbus Cloud / White,Mizuno,0,,,
+Nimbus,441768,ASICS® Gel Nimbus 27 - Men's Casual Running Shoes - Lite Show / Light Orange,ASICS®,19,4.578947368421052,2025-07-15T21:23:12.000+00:00,2026-08-05T00:53:41.000+00:00
+Nimbus,441673,ASICS® GEL-Nimbus 27 ATC - Men's Casual Running Shoes - Birch / Indigo Blue,ASICS®,20,4.9,2025-03-18T23:48:32.000+00:00,2026-01-28T00:26:52.000+00:00
+Nimbus,441665,ASICS® GEL-Nimbus 27 - Men's Casual Running Shoes - Black / Graphite Grey,ASICS®,219,4.666666666666667,2025-01-21T22:42:58.000+00:00,2026-08-11T20:59:18.000+00:00
+Nimbus,430721,Mizuno Wave Horizon 7 - Men's Casual Running Shoes - Black / Nimbus Cloud,Mizuno,0,,,
+Nimbus,367393,ASICS® GEL-Nimbus 24 - Women's Casual Running Shoes - Black,ASICS®,7,4.857142857142857,2023-01-26T12:52:02.000+00:00,2023-11-21T16:48:59.000+00:00
+Nimbus,305437,ASICS® GEL-Nimbus 21 - Women's Active Performance Running Shoes - Black / Dark Grey,ASICS®,60,4.266666666666667,2019-02-02T22:25:06.000+00:00,2020-07-28T23:55:50.000+00:00
+Nimbus,2A802751,ASICS Womens ® GEL-Nimbus 22 - Running Shoes,ASICS,48,3.9166666666666665,2020-01-10T22:39:54.000+00:00,2022-02-02T16:08:11.000+00:00
+Nimbus,2A678021,ASICS Womens ® Nimbus 22 Knit - Running Shoes,ASICS,0,,,
+Nimbus,2A665100,ASICS Womens ® GEL-Nimbus 22 - Running Shoes,ASICS,48,3.9166666666666665,2020-01-10T22:39:54.000+00:00,2022-02-02T16:08:11.000+00:00
+Nimbus,2A611100,ASICS Womens ® GEL-Nimbus 21 - Running Shoes,ASICS,60,4.266666666666667,2019-02-02T22:25:06.000+00:00,2020-07-28T23:55:50.000+00:00
+Nimbus,2A608100,ASICS Womens GEL-Nimbus 21 Running Shoes,ASICS,60,4.266666666666667,2019-02-02T22:25:06.000+00:00,2020-07-28T23:55:50.000+00:00
+Nimbus,2A587701,ASICS Womens ® GEL-Nimbus 22 - Running Shoes,ASICS,48,3.9166666666666665,2020-01-10T22:39:54.000+00:00,2022-02-02T16:08:11.000+00:00
+Nimbus,2A587100,ASICS Womens ® GEL-Nimbus 22 - Running Shoes,ASICS,48,3.9166666666666665,2020-01-10T22:39:54.000+00:00,2022-02-02T16:08:11.000+00:00
+Nimbus,2A587002,ASICS Womens ® GEL-Nimbus 22 - Running Shoes,ASICS,48,3.9166666666666665,2020-01-10T22:39:54.000+00:00,2022-02-02T16:08:11.000+00:00
+Nimbus,2A551001,ASICS Womens ® GEL-Nimbus 21 - Running Shoes,ASICS,60,4.266666666666667,2019-02-02T22:25:06.000+00:00,2020-07-28T23:55:50.000+00:00
+Nimbus,2A156021,ASICS Womens ® GEL-Nimbus 21 - Running Shoes,ASICS,60,4.266666666666667,2019-02-02T22:25:06.000+00:00,2020-07-28T23:55:50.000+00:00
+Nimbus,2A156004,ASICS Womens ® GEL-Nimbus 21 - Running Shoes,ASICS,60,4.266666666666667,2019-02-02T22:25:06.000+00:00,2020-07-28T23:55:50.000+00:00
+Nimbus,2A156001,ASICS Womens ® GEL-Nimbus 21 - Running Shoes,ASICS,60,4.266666666666667,2019-02-02T22:25:06.000+00:00,2020-07-28T23:55:50.000+00:00
+Nimbus,258151,ASICS® GEL-Nimbus 18 - Girls' Grade School,ASICS®,0,,,
+Nimbus,258150,ASICS® GEL-Nimbus 18 - Boys' Grade School,ASICS®,0,,,
+Nimbus,249105,ASICS® GEL-Nimbus 17 Lite Show - Men's,ASICS®,0,,,
+Nimbus,243413,ASICS® GEL-Nimbus 17 - Men's,ASICS®,0,,,
+Nimbus,237236,ASICS® GEL-Nimbus 17 - Girls' Grade School,ASICS®,1,5.0,2015-06-14T10:00:24.000+00:00,2015-06-14T10:00:24.000+00:00
+Nimbus,237235,ASICS® GEL-Nimbus 17 - Boys' Grade School,ASICS®,0,,,
+Nimbus,236269,ASICS® GEL-Nimbus 16 - Women's,ASICS®,0,,,
+Nimbus,236204,ASICS® GEL-Nimbus 16 - Men's,ASICS®,0,,,
+Nimbus,233207,ASICS® GEL-Nimbus 14 - Women's,ASICS®,0,,,
+Nimbus,233025,ASICS® Gel Nimbus 14 - Men's,,0,,,
+Nimbus,233019,ASICS® Gel-Nimbus 14 - Men's,ASICS®,0,,,
+Nimbus,229637,ASICS® GEL-Nimbus 15 - Women's,ASICS®,0,,,
+Nimbus,229586,ASICS® GEL-Nimbus 15 - Men's,ASICS®,0,,,
+Nimbus,210248,ASICS® GEL-Nimbus 15 - Girls' Grade School,ASICS®,0,,,
+Nimbus,207412,ASICS® Gel-Nimbus 15 - Boys' Grade School,ASICS®,0,,,
+Nimbus,200020,ASICS® Lite-Show Nimbus Low Socks,ASICS®,0,,,
+Nimbus,1A890100,ASICS Mens ® GEL-Nimbus 22 - Running Shoes,ASICS,24,4.791666666666667,2020-01-11T18:56:32.000+00:00,2021-04-29T12:29:27.000+00:00
+Nimbus,1A709020,ASICS Mens ® GEL-Nimbus 21 - Running Shoes,ASICS,66,4.363636363636363,2019-02-22T14:45:07.000+00:00,2020-07-09T13:15:40.000+00:00
+Nimbus,1A680751,ASICS Mens ® GEL-Nimbus 22 - Running Shoes,ASICS,24,4.791666666666667,2020-01-11T18:56:32.000+00:00,2021-04-29T12:29:27.000+00:00
+Nimbus,1A680003,ASICS Mens ® GEL-Nimbus 22 - Running Shoes,ASICS,24,4.791666666666667,2020-01-11T18:56:32.000+00:00,2021-04-29T12:29:27.000+00:00
+Nimbus,1A680002,ASICS Mens ® GEL-Nimbus 22 - Running Shoes,ASICS,24,4.791666666666667,2020-01-11T18:56:32.000+00:00,2021-04-29T12:29:27.000+00:00
+Nimbus,1A172001,ASICS Mens GEL-Nimbus 21 Running Shoes,ASICS,66,4.363636363636363,2019-02-22T14:45:07.000+00:00,2020-07-09T13:15:40.000+00:00
+Nimbus,1A169750,ASICS Mens ® GEL-Nimbus 21 - Running Shoes,ASICS,66,4.363636363636363,2019-02-22T14:45:07.000+00:00,2020-07-09T13:15:40.000+00:00
+Nimbus,1A169004,ASICS Mens GEL-Nimbus 21 Running Shoes,ASICS,0,,,
+Nimbus,184114,ASICS® Gel-Nimbus 13 - Girls' Grade School,ASICS®,0,,,
+Kayano,188384,ASICS® GEL-Kayano 19 - Women's,,231,4.748917748917749,2012-12-03T02:00:31.000+00:00,2015-02-08T05:33:15.000+00:00
+Kayano,204136,ASICS® GEL-Kayano 20 - Women's,ASICS®,106,4.7075471698113205,2013-12-06T02:10:31.000+00:00,2015-04-19T11:23:17.000+00:00
+Kayano,188371,ASICS® GEL-Kayano 19 - Men's,ASICS®,103,4.58252427184466,2012-11-29T10:25:53.000+00:00,2015-03-05T22:15:06.000+00:00
+Kayano,171928,ASICS® GEL-Kayano 18 - Women's,ASICS®,109,4.6422018348623855,2011-12-24T02:03:38.000+00:00,2013-06-12T00:58:33.000+00:00
+Kayano,171905,ASICS® Gel - Kayano 18 - Men's,,76,4.75,2012-01-19T21:42:45.000+00:00,2013-07-04T20:24:09.000+00:00
+Kayano,224994,ASICS® GEL-Kayano 21 - Men's,ASICS®,57,4.719298245614035,2014-10-02T01:40:48.000+00:00,2016-12-13T22:33:36.000+00:00
+Kayano,204129,ASICS® GEL-Kayano 20 - Men's,ASICS®,88,4.715909090909091,2013-12-05T12:17:59.000+00:00,2015-06-18T00:59:47.000+00:00
+Kayano,250406,ASICS® GEL-Kayano 22 - Women's,ASICS®,123,4.105691056910569,2015-09-15T02:27:54.000+00:00,2017-01-28T17:00:56.000+00:00
+Kayano,249097,ASICS® GEL-Kayano 22 - Men's,ASICS®,115,4.530434782608696,2015-09-20T00:00:00.000+00:00,2017-01-25T03:17:58.000+00:00
+Kayano,225114,ASICS® GEL-Kayano 21 - Women's,ASICS®,40,4.5,2014-11-12T21:52:34.000+00:00,2016-03-03T20:31:26.000+00:00
+Kayano,151174,ASICS® Gel-Kayano 17 - Women's,ASICS®,39,4.564102564102564,2012-01-04T23:18:55.000+00:00,2012-08-22T14:38:21.000+00:00
+Kayano,442747,ASICS® GEL-Kayano 14 - Women's Casual Running Shoes - Cream / Sweet Pink,ASICS®,9,4.777777777777778,2024-06-06T02:31:17.000+00:00,2026-07-07T23:55:16.000+00:00
+Kayano,335866,ASICS® GEL-Kayano 27 - Men's Active Performance Running Shoes - Metropolis / Gunmetal,ASICS®,40,4.725,2020-09-09T19:47:55.000+00:00,2023-02-22T01:03:02.000+00:00
+Kayano,265707,ASICS® GEL-Kayano 23 - Men's,ASICS®,57,4.017543859649122,2016-10-25T22:55:49.000+00:00,2018-01-20T22:45:05.000+00:00
+Kayano,352915,ASICS® Gel-Kayano 28 - Women's Active Performance Running Shoes,ASICS®,5,4.6,2022-02-21T11:06:14.000+00:00,2024-03-13T13:38:01.000+00:00
+Kayano,265043,ASICS® GEL-Kayano 23 - Women's,ASICS®,75,4.053333333333334,2016-10-15T18:11:11.000+00:00,2018-01-21T06:16:10.000+00:00
+Kayano,416958,ASICS® GEL-Kayano 30 - Men's Active Performance Running Shoes,ASICS®,5,5.0,2024-03-22T00:26:18.000+00:00,2025-02-02T20:40:58.000+00:00
+Kayano,371296,ASICS® GEL-Kayano 14 - Men's Casual Running Shoes - Silver / Black,ASICS®,8,4.625,2024-05-19T19:30:43.000+00:00,2026-05-20T23:03:02.000+00:00
+Kayano,336500,ASICS® GEL-Kayano 27 - Women's Active Performance Running Shoes,ASICS®,49,4.489795918367347,2020-09-09T20:54:17.000+00:00,2022-03-01T23:11:48.000+00:00
+Kayano,414097,ASICS® GEL-Kayano 14 - Women's Casual Running Shoes - Cloud Grey / Clay,ASICS®,4,5.0,2024-09-05T19:22:21.000+00:00,2026-07-07T23:55:16.000+00:00
+Kayano,208878,ASICS® GEL-Kayano 20 Lite-Show - Women's,ASICS®,16,4.75,2014-03-04T02:29:09.000+00:00,2014-11-25T22:41:26.000+00:00
+Kayano,136490,ASICS® Gel-Kayano 16 - Men's,ASICS®,7,4.428571428571429,2010-07-04T20:39:10.000+00:00,2011-08-25T05:38:35.000+00:00
+Kayano,100610,ASICS® Gel Kayano 15 - Men's,ASICS®,14,4.5,2009-10-17T15:31:35.000+00:00,2012-10-23T19:15:14.000+00:00
+Kayano,417732,ASICS® GEL-Kayano 30 - Women's Active Performance Running Shoes,ASICS®,5,2.6,2023-10-16T05:46:09.000+00:00,2025-05-14T16:36:05.000+00:00
+Kayano,316968,ASICS® GEL-Kayano 26 - Men's Active Performance Running Shoes - White / Classic Red,ASICS®,78,4.435897435897436,2019-07-03T16:59:52.000+00:00,2020-11-22T04:05:58.000+00:00
+Kayano,316246,ASICS® GEL-Kayano 26 - Women's Active Performance Running Shoes - Blue Coast / Mint,ASICS®,59,4.305084745762712,2019-07-17T00:23:57.000+00:00,2021-01-23T16:15:10.000+00:00
+Kayano,295686,ASICS® GEL-Kayano 25 - Women's,ASICS®,58,4.431034482758621,2018-08-08T00:45:11.000+00:00,2020-02-18T23:36:14.000+00:00
+Kayano,247227,ASICS Tiger GEL-Kayano Trainer Evo - Men's,ASICS Tiger,3,4.333333333333333,2015-11-07T02:54:44.000+00:00,2016-08-07T19:27:46.000+00:00
+Kayano,225118,ASICS® GEL-Kayano 21 Lite Show - Women's,ASICS®,6,4.666666666666667,2015-04-21T22:56:18.000+00:00,2015-11-29T19:44:32.000+00:00
+Kayano,151149,ASICS® Gel-Kayano 17 - Men's,ASICS®,20,4.75,2011-04-27T09:38:28.000+00:00,2012-06-29T16:51:46.000+00:00
+Kayano,136514,ASICS® Gel-Kayano 16 - Women's,ASICS®,4,3.75,2010-06-19T21:35:31.000+00:00,2011-12-18T17:24:52.000+00:00
+Kayano,100716,ASICS® Gel-Kayano 15 - Women's,ASICS®,4,5.0,2009-11-06T23:26:22.000+00:00,2009-11-27T23:36:40.000+00:00
+Kayano,384948,ASICS® Gel-Kayano 29 - Men's Casual Running Shoes - Black / White,ASICS®,9,4.555555555555555,2023-11-25T18:57:11.000+00:00,2025-03-04T15:42:39.000+00:00
+Kayano,352713,ASICS® Gel-Kayano 28 - Men's Active Performance Running Shoes,ASICS®,3,5.0,2022-03-16T17:40:26.000+00:00,2023-10-18T20:26:41.000+00:00
+Kayano,327146,ASICS Tiger GEL-Kayano 5 KZN - Women's,ASICS Tiger,2,4.5,2020-05-21T18:30:36.000+00:00,2020-06-02T18:40:39.000+00:00
+Kayano,283797,ASICS Tiger GEL-Kayano Trainer - Men's,ASICS Tiger,1,1.0,2019-04-08T18:30:37.000+00:00,2019-04-08T18:30:37.000+00:00
+Kayano,249100,ASICS® GEL-Kayano 22 Lite Show - Men's,ASICS®,2,5.0,2015-11-18T23:00:51.000+00:00,2016-04-03T04:22:23.000+00:00
+Kayano,208847,ASICS® GEL-Kayano 20 Lite-Show - Men's,ASICS®,2,5.0,2014-04-09T19:01:55.000+00:00,2014-09-04T04:32:07.000+00:00
+Kayano,184086,ASICS® Gel-Kayano 17 - Girls' Grade School,ASICS®,1,5.0,2012-08-11T20:37:33.000+00:00,2012-08-11T20:37:33.000+00:00
+Kayano,464125,ASICS® GEL-Kayano 20 - Women's Casual Running Shoes - Piedmont Grey,ASICS®,0,,,
+Kayano,464003,ASICS® GEL-Kayano 20 - Men's Casual Running Shoes - Pond / Black,ASICS®,2,5.0,2026-09-18T14:31:02.000+00:00,2026-09-21T10:27:13.000+00:00
+Kayano,441693,ASICS® GEL-Kayano 31 - Women's Casual Running Shoes - Pure Aqua / Silver,ASICS®,0,,,
+Kayano,431881,ASICS® GEL-Kayano 31 - Men's Casual Running Shoes - Carbon Grey / White,ASICS®,5,5.0,2025-06-02T14:26:19.000+00:00,2025-09-04T10:50:37.000+00:00
+Kayano,328122,ASICS Tiger Kayano 26 - Women's,ASICS Tiger,0,,,
+Kayano,313715,ASICS Tiger Kayano 5 - Men's,ASICS Tiger,3,4.333333333333333,2019-07-09T09:19:26.000+00:00,2020-02-17T07:40:46.000+00:00
+Kayano,313503,ASICS Tiger GEL-Kayano V OG - Men's,ASICS Tiger,3,4.333333333333333,2019-07-09T09:19:26.000+00:00,2020-02-17T07:40:46.000+00:00
+Kayano,311034,ASICS Tiger GEL-Kayano 5 OG - Men's,ASICS Tiger,1,5.0,2020-06-27T10:25:43.000+00:00,2020-06-27T10:25:43.000+00:00
+Kayano,2A761100,ASICS Womens ® GEL-Kayano 27 - Running Shoes,ASICS,44,4.590909090909091,2020-09-09T20:54:17.000+00:00,2022-03-01T23:11:48.000+00:00
+Kayano,2A655200,ASICS Womens ® GEL-Kayano 26 - Running Shoes,ASICS,57,4.280701754385965,2019-07-17T00:23:57.000+00:00,2021-01-08T01:07:51.000+00:00
+Kayano,2A649020,ASICS Womens ® GEL-Kayano 27 - Running Shoes,ASICS,44,4.590909090909091,2020-09-09T20:54:17.000+00:00,2022-03-01T23:11:48.000+00:00
+Kayano,2A649001,ASICS Womens ® GEL-Kayano 27 - Running Shoes,ASICS,44,4.590909090909091,2020-09-09T20:54:17.000+00:00,2022-03-01T23:11:48.000+00:00
+Kayano,2A609700,ASICS Womens ® GEL-Kayano 26 - Running Shoes,ASICS,0,,,
+Kayano,2A544100,ASICS Tiger Womens Kayano 26 - Running Shoes,ASICS Tiger,0,,,
+Kayano,2A471500,ASICS Womens ® GEL-Kayano 25 - Running Shoes,ASICS,54,4.407407407407407,2018-08-08T00:45:11.000+00:00,2020-02-18T23:36:14.000+00:00
+Kayano,2A457400,ASICS Womens ® GEL-Kayano 26 - Running Shoes,ASICS,57,4.280701754385965,2019-07-17T00:23:57.000+00:00,2021-01-08T01:07:51.000+00:00
+Kayano,2A457101,ASICS Womens ® GEL-Kayano 26 - Running Shoes,ASICS,57,4.280701754385965,2019-07-17T00:23:57.000+00:00,2021-01-08T01:07:51.000+00:00
+Kayano,2A457022,ASICS Womens ® GEL-Kayano 26 - Running Shoes,ASICS,57,4.280701754385965,2019-07-17T00:23:57.000+00:00,2021-01-08T01:07:51.000+00:00
+Kayano,2A457004,ASICS Womens ® GEL-Kayano 26 - Running Shoes,ASICS,57,4.280701754385965,2019-07-17T00:23:57.000+00:00,2021-01-08T01:07:51.000+00:00
+Kayano,2A304001,ASICS Tiger Womens GEL-Kayano 5 KZN Shoes,ASICS Tiger,0,,,
+Kayano,2A268700,ASICS Tiger Womens GEL-Kayano 5 KZN - Shoes,ASICS Tiger,1,4.0,2020-06-02T18:40:39.000+00:00,2020-06-02T18:40:39.000+00:00
+Kayano,2A026402,ASICS Womens GEL-Kayano 25 Running Shoes,ASICS,54,4.407407407407407,2018-08-08T00:45:11.000+00:00,2020-02-18T23:36:14.000+00:00
+Kayano,2A026002,ASICS Womens ® GEL-Kayano 25 - Running Shoes,ASICS,54,4.407407407407407,2018-08-08T00:45:11.000+00:00,2020-02-18T23:36:14.000+00:00
+Kayano,297897,ASICS® GEL-Kayano 25 Lite Show - Women's,ASICS®,1,5.0,2019-02-12T21:37:48.000+00:00,2019-02-12T21:37:48.000+00:00
+Kayano,295556,ASICS® GEL-Kayano 25 - Men's Active Performance Running Shoes - Black / Classic Red,ASICS®,77,4.1688311688311686,2018-07-10T19:40:34.000+00:00,2020-02-13T19:23:46.000+00:00
+Kayano,290072,ASICS® GEL-Kayano 24 Lite Show - Women's,ASICS®,37,4.054054054054054,2017-08-01T21:13:30.000+00:00,2018-12-16T15:04:22.000+00:00
+Kayano,282213,ASICS® GEL-Kayano 24 Lite Show - Men's,ASICS®,0,,,
+Kayano,281164,ASICS® GEL-Kayano 24 - Men's,ASICS®,39,4.3076923076923075,2017-07-26T18:47:26.000+00:00,2018-09-26T02:07:22.000+00:00
+Kayano,280136,ASICS® GEL-Kayano 24 - Women's,ASICS®,38,4.0,2017-08-01T21:13:30.000+00:00,2018-12-16T15:04:22.000+00:00
+Kayano,265708,ASICS® GEL-Kayano 23 Lite Show - Men's,ASICS®,3,4.0,2017-05-24T04:33:05.000+00:00,2017-06-30T14:22:28.000+00:00
+Kayano,257175,ASICS Tiger Kayano Trainer Evo - Women's,ASICS Tiger,3,4.0,2016-03-18T14:35:33.000+00:00,2016-08-04T14:59:39.000+00:00
+Kayano,249205,ASICS® GEL-Kayano 22 - Girls' Grade School,ASICS®,1,5.0,2016-01-11T23:13:41.000+00:00,2016-01-11T23:13:41.000+00:00
+Kayano,249203,ASICS® GEL-Kayano 22 - Boys' Grade School,ASICS®,0,,,
+Kayano,248636,ASICS Tiger GEL-Kayano - Women's,ASICS Tiger,0,,,
+Kayano,243465,ASICS® GEL-Kayano 21 - Women's,ASICS®,0,,,
+Kayano,240296,ASICS® GEL-Kayano 21 - Men's,ASICS®,0,,,
+Kayano,236868,ASICS® Kayano Quarter Socks,ASICS®,1,5.0,2015-11-19T02:58:44.000+00:00,2015-11-19T02:58:44.000+00:00
+Kayano,236257,ASICS® GEL-Kayano 20 - Women's,ASICS®,0,,,
+Kayano,233221,ASICS® GEL-Kayano 20 - Women's,ASICS®,0,,,
+Kayano,233201,ASICS® Gel-Kayano 19 - Women's,ASICS®,0,,,
+Kayano,233015,ASICS® GEL-Kayano 20 - Men's,ASICS®,0,,,
+Kayano,233007,ASICS® GEL-Kayano 20 Lite Show - Men's,ASICS®,0,,,
+Kayano,229631,ASICS® GEL-Kayano 19 - Women's,ASICS®,0,,,
+Kayano,229574,ASICS® GEL-Kayano 19 - Men's,ASICS®,0,,,
+Cumulus,180080,ASICS® Gel - Cumulus 14 - Men's,ASICS®,37,4.621621621621622,2012-07-01T00:00:20.000+00:00,2014-03-24T21:01:41.000+00:00
+Cumulus,198055,ASICS® GEL-Cumulus 15 - Men's,ASICS®,42,4.380952380952381,2013-07-24T04:21:43.000+00:00,2015-06-26T23:34:44.000+00:00
+Cumulus,180107,ASICS® Gel - Cumulus 14 - Women's,ASICS®,25,4.16,2012-09-11T21:29:39.000+00:00,2014-04-11T13:27:04.000+00:00
+Cumulus,198073,ASICS® GEL-Cumulus 15 - Women's,ASICS®,34,4.5588235294117645,2013-07-04T19:37:47.000+00:00,2015-05-18T18:02:48.000+00:00
+Cumulus,214914,ASICS® GEL-Cumulus 16 - Women's Active Performance Running Shoes,ASICS®,16,4.625,2014-07-06T19:33:26.000+00:00,2026-10-11T20:19:18.000+00:00
+Cumulus,214900,ASICS® GEL-Cumulus 16 - Men's,ASICS®,18,4.277777777777778,2014-12-15T04:42:17.000+00:00,2016-02-16T22:31:26.000+00:00
+Cumulus,161053,ASICS® Gel - Cumulus 13 - Men's,ASICS®,16,4.5,2011-12-28T01:38:16.000+00:00,2012-07-30T14:24:41.000+00:00
+Cumulus,394283,ASICS® GEL-Cumulus 25 - Women's Active Performance Running Shoes,ASICS®,10,4.5,2023-09-04T21:36:18.000+00:00,2024-12-08T09:36:44.000+00:00
+Cumulus,248177,ASICS® GEL-Cumulus 17 - Men's,ASICS®,101,4.405940594059406,2015-07-02T00:00:00.000+00:00,2017-01-13T22:29:26.000+00:00
+Cumulus,161459,ASICS® Gel - Cumulus 13 - Women's,ASICS®,19,4.2631578947368425,2012-01-12T13:06:19.000+00:00,2013-01-09T14:50:26.000+00:00
+Cumulus,464042,ASICS® GEL-Cumulus 16 - Men's Casual Running Shoes - Pure Silver / Cocoa Powder,ASICS®,3,5.0,2026-03-25T12:41:58.000+00:00,2026-05-07T20:45:51.000+00:00
+Cumulus,350028,ASICS® GEL-Cumulus 23 - Men's Casual Running Shoes - Reborn Blue / White,ASICS®,7,4.714285714285714,2022-03-26T18:19:22.000+00:00,2023-05-27T10:19:23.000+00:00
+Cumulus,280159,ASICS® GEL-Cumulus 19 - Women's,ASICS®,20,3.9,2017-06-30T20:06:57.000+00:00,2018-01-25T19:39:01.000+00:00
+Cumulus,264893,ASICS® GEL-Cumulus 18 - Men's,ASICS®,34,4.529411764705882,2016-07-28T19:27:22.000+00:00,2017-09-23T12:23:10.000+00:00
+Cumulus,264317,ASICS® GEL-Cumulus 18 - Women's,ASICS®,41,3.8292682926829267,2016-07-28T17:26:00.000+00:00,2018-03-14T03:45:02.000+00:00
+Cumulus,335813,ASICS® GEL-Cumulus 22 - Men's Active Performance Running Shoes - Black / Sunrise Red White,ASICS®,14,4.5,2020-10-21T00:28:52.000+00:00,2021-11-02T22:46:02.000+00:00
+Cumulus,249108,ASICS® GEL-Cumulus 17 Lite Show - Men's,ASICS®,1,5.0,2016-06-23T13:17:23.000+00:00,2016-06-23T13:17:23.000+00:00
+Cumulus,198071,ASICS® Gel - Cumulus 15 Lite-Show - Women's,ASICS®,3,5.0,2013-08-19T16:42:59.000+00:00,2014-03-28T23:58:22.000+00:00
+Cumulus,198053,ASICS® GEL-Cumulus 15 Lite-Show - Men's,ASICS®,8,4.875,2013-12-08T00:06:35.000+00:00,2014-11-18T23:11:44.000+00:00
+Cumulus,129582,ASICS® Gel-Cumulus 11 - Men's,ASICS®,3,4.666666666666667,2009-11-13T13:53:50.000+00:00,2010-08-04T23:36:36.000+00:00
+Cumulus,94685,ASICS® Gel-Cumulus 10 - Men's,ASICS®,1,5.0,2009-11-14T01:54:35.000+00:00,2009-11-14T01:54:35.000+00:00
+Cumulus,474788,ASICS® Cumulus 16 - Boys' Preschool Active CAN Classic Casual Shoes,ASICS®,0,,,
+Cumulus,474787,ASICS® Cumulus 16 - Girls' Preschool Active CAN Classic Casual Shoes,ASICS®,0,,,
+Cumulus,474607,ASICS® GEL-Cumulus 16 - Girls' Grade School Casual Running Shoes,ASICS®,1,2.0,2026-09-11T11:03:44.000+00:00,2026-09-11T11:03:44.000+00:00
+Cumulus,474606,ASICS® GEL-Cumulus 16 - Boys' Grade School Casual Running Shoes,ASICS®,2,5.0,2026-08-27T15:47:30.000+00:00,2026-09-13T20:55:24.000+00:00
+Cumulus,458413,ASICS® Gel Cumulus 27 - Women's Casual Running Shoes - Black / Concrete,ASICS®,22,4.818181818181818,2025-07-31T14:48:49.000+00:00,2026-08-04T22:10:11.000+00:00
+Cumulus,446309,ASICS® Gel-Cumulus 27 - Men's Casual Running Shoes - Taupe Grey / Black,ASICS®,0,,,
+Cumulus,402370,ASICS® Gel-Cumulus 25 - Men's Casual Running Shoes - Black / Carrier Grey,ASICS®,4,4.25,2023-05-29T01:52:34.000+00:00,2024-12-08T10:32:40.000+00:00
+Cumulus,367701,ASICS® Gel-Cumulus 24 - Women's Casual Running Shoes - Carrier Grey / White,ASICS®,3,5.0,2023-04-14T14:36:06.000+00:00,2023-09-17T12:14:15.000+00:00
+Cumulus,365641,ASICS® Gel-Cumulus 24 - Men's Casual Running Shoes - Shocking Orange / Black,ASICS®,5,4.8,2022-08-01T11:53:17.000+00:00,2024-02-02T03:44:22.000+00:00
+Cumulus,316040,ASICS® GEL-Cumulus 21 - Men's,ASICS®,39,4.358974358974359,2019-06-04T22:56:54.000+00:00,2021-01-21T22:52:11.000+00:00
+Cumulus,2A008700,ASICS Womens ® GEL-Cumulus 20 - Running Shoes,ASICS,1,3.0,2019-08-25T05:21:25.000+00:00,2019-08-25T05:21:25.000+00:00
+Cumulus,2A008300,ASICS Womens ASICS® GEL-Cumulus 20 - Womens Running Shoes,ASICS,1,3.0,2019-08-25T05:21:25.000+00:00,2019-08-25T05:21:25.000+00:00
+Cumulus,2A008021,ASICS Womens GEL-Cumulus 20 Running Shoes,ASICS,1,3.0,2019-08-25T05:21:25.000+00:00,2019-08-25T05:21:25.000+00:00
+Cumulus,295680,ASICS® GEL-Cumulus 20 - Women's,ASICS®,1,3.0,2019-08-25T05:21:25.000+00:00,2019-08-25T05:21:25.000+00:00
+Cumulus,295557,ASICS® GEL-Cumulus 20 - Men's,ASICS®,15,4.066666666666666,2018-06-19T19:54:17.000+00:00,2020-01-11T00:05:04.000+00:00
+Cumulus,281193,ASICS® GEL-Cumulus 19 - Men's,ASICS®,5,5.0,2017-08-15T22:41:18.000+00:00,2018-01-22T19:59:22.000+00:00
+Cumulus,265736,ASICS® GEL-Cumulus 18 GTX - Men's,ASICS®,29,4.448275862068965,2016-08-24T00:33:12.000+00:00,2017-09-23T12:23:10.000+00:00
+Cumulus,249109,ASICS® GEL-Cumulus 17 GTX - Men's,ASICS®,0,,,
+Cumulus,248392,ASICS® GEL-Cumulus 17 - Women's,ASICS®,84,4.214285714285714,2015-07-17T00:00:00.000+00:00,2017-01-10T16:02:49.000+00:00
+Cumulus,248022,ASICS® Gel-Cumulus 17 - Men's,ASICS®,0,,,
+Cumulus,247956,ASICS® GEL-Cumulus 16 - Women's,ASICS®,1,5.0,2026-09-28T04:46:02.000+00:00,2026-09-28T04:46:02.000+00:00
+Cumulus,236222,ASICS® GEL-Cumulus Lite - Women's,ASICS®,0,,,
+Cumulus,236189,ASICS® GEL-Cumulus 16 - Men's,ASICS®,0,,,
+Cumulus,233203,ASICS® GEL-Cumulus 14 - Women's,ASICS®,0,,,
+Cumulus,233000,ASICS® GEL-Cumulus 15 - Men's,ASICS®,0,,,
+Cumulus,232997,ASICS® Gel Cumulus 14 - Men's,ASICS®,0,,,
+Cumulus,229642,ASICS® GEL-Cumulus 15 - Women's,ASICS®,0,,,
+Cumulus,229593,ASICS® GEL-Cumulus 15 LS - Men's,ASICS®,0,,,
+Cumulus,224706,ASICS® GEL-Cumulus 16 GTX - Women's,ASICS®,0,,,
+Cumulus,224702,ASICS® GEL-Cumulus 16 GTX - Men's,ASICS®,0,,,
+Cumulus,220439,ASICS® GEL-Cumulus 16 Lite-Show - Women's,ASICS®,2,3.0,2014-11-22T01:25:42.000+00:00,2015-06-19T15:29:33.000+00:00
+Cumulus,220141,ASICS® GEL-Cumulus 16 Lite-Show - Men's,,1,5.0,2015-04-29T19:53:50.000+00:00,2015-04-29T19:53:50.000+00:00
+Cumulus,1B107100,ASICS Mens ® GEL-Cumulus 22 - Running Shoes,ASICS,9,4.444444444444445,2020-10-21T00:28:52.000+00:00,2021-11-02T22:46:02.000+00:00
+Cumulus,1A862100,ASICS Mens ® GEL-Cumulus 22 - Running Shoes,ASICS,0,,,
+Cumulus,1A862023,ASICS Mens ® GEL-Cumulus 22 - Running Shoes,ASICS,9,4.444444444444445,2020-10-21T00:28:52.000+00:00,2021-11-02T22:46:02.000+00:00
+Cumulus,1A862021,ASICS Mens ® GEL-Cumulus 22 - Running Shoes,ASICS,9,4.444444444444445,2020-10-21T00:28:52.000+00:00,2021-11-02T22:46:02.000+00:00
+Cumulus,1A715020,ASICS Mens ® GEL-Cumulus 21 - Running Shoes,ASICS,39,4.358974358974359,2019-06-04T22:56:54.000+00:00,2021-01-21T22:52:11.000+00:00
+Cumulus,1A014020,ASICS Mens GEL-Cumulus 20 Running Shoes,ASICS,15,4.066666666666666,2018-06-19T19:54:17.000+00:00,2020-01-11T00:05:04.000+00:00
+Cumulus,1A008020,ASICS Mens GEL-Cumulus 20 Running Shoes,ASICS,0,,,
+Ghost,435632,Jordan Tatum 3 - Men's Casual Basketball Shoes - Black / Electric Green Ghost,Jordan,127,4.716535433070866,2024-10-06T14:23:14.000+00:00,2025-11-20T04:10:59.000+00:00
+Ghost,313860,Nike Air Max Tailwind IV - Men's Casual Running Shoes - White / Black Ghost Green,Nike,98,4.295918367346939,2019-08-31T14:22:28.000+00:00,2021-11-21T18:20:41.000+00:00
+Ghost,353886,Brooks Ghost 14 - Men's Active Performance Running Shoes - White / Black True Blue,Brooks,2293,4.453990405582207,2021-07-02T14:25:27.000+00:00,2024-05-02T14:27:42.000+00:00
+Ghost,336276,Brooks Ghost 13 - Men's Active Performance Running Shoes - Primer Grey / Pearl Black,Brooks,1687,4.374036751630112,2020-07-04T14:23:57.000+00:00,2026-06-28T14:24:45.000+00:00
+Ghost,408886,Crocs Ghost-Spider Classic Clogs - Women's Active Clogs Shoes - White / Black,Crocs,12,3.9166666666666665,2023-06-15T02:30:53.000+00:00,2024-01-23T19:06:46.000+00:00
+Ghost,197998,Brooks Ghost 6 - Women's,Brooks,11,4.818181818181818,2013-09-08T21:15:13.000+00:00,2014-07-25T13:31:32.000+00:00
+Ghost,161648,Brooks Ghost 4 - Men's,Brooks,13,4.076923076923077,2011-10-11T03:08:35.000+00:00,2012-09-21T11:56:49.000+00:00
+Ghost,354114,Brooks Ghost 14 - Women's Active Performance Running Shoes - Blue / Cobalt,Brooks,4783,4.385113945222663,2021-07-02T14:25:31.000+00:00,2026-05-30T03:33:06.000+00:00
+Ghost,181298,Brooks Ghost 5 - Women's,Brooks,13,4.538461538461538,2013-01-11T22:10:49.000+00:00,2013-07-17T21:00:27.000+00:00
+Ghost,475714,Converse Shai 001 Ox - Men's Casual Basketball Shoes - Ghosted / Dream Yellow,Converse,3,5.0,2026-06-17T17:51:33.000+00:00,2026-09-02T18:37:04.000+00:00
+Ghost,382265,Brooks Ghost 15 - Men's Active Performance Running Shoes - Black / Ebony,Brooks,1781,4.500280741156653,2022-10-21T14:24:24.000+00:00,2026-03-21T14:24:31.000+00:00
+Ghost,197967,Brooks Ghost 6 - Men's,Brooks,11,4.818181818181818,2013-10-19T13:53:04.000+00:00,2014-08-03T20:03:49.000+00:00
+Ghost,161688,Brooks Ghost 4 - Women's,Brooks,6,4.0,2012-02-18T20:48:15.000+00:00,2012-08-02T04:20:51.000+00:00
+Ghost,425785,Brooks Ghost 16 - Men's Casual Running Shoes - Black,Brooks,862,4.024361948955916,2024-04-03T14:26:50.000+00:00,2026-02-06T15:24:49.000+00:00
+Ghost,422190,Brooks Ghost Max - Women's Active Performance Running Shoes - Crystal Gray / White Tuscany,Brooks,954,4.459119496855346,2023-09-19T14:26:17.000+00:00,2025-08-06T14:28:54.000+00:00
+Ghost,382252,Brooks Ghost 15 - Women's Active Performance Running Shoes - Black / Blue,Brooks,2758,4.4238578680203045,2022-10-26T14:23:53.000+00:00,2025-05-23T14:24:45.000+00:00
+Ghost,317753,Brooks Ghost 12 - Men's Active Performance Running Shoes - Black / Grey,Brooks,1638,4.571428571428571,2019-08-04T14:22:46.000+00:00,2021-06-11T14:25:47.000+00:00
+Ghost,264804,Brooks Ghost 9 - Men's,Brooks,127,4.52755905511811,2016-07-05T12:55:58.000+00:00,2019-09-12T14:23:34.000+00:00
+Ghost,248671,Brooks Ghost 8 - Women's,Brooks,4,4.0,2015-11-05T19:28:05.000+00:00,2016-02-17T00:15:14.000+00:00
+Ghost,221346,Brooks Ghost 7 - Women's,Brooks,7,4.0,2014-10-16T00:09:10.000+00:00,2016-01-06T05:34:27.000+00:00
+Ghost,181289,Brooks Ghost 5 - Men's,Brooks,13,5.0,2012-09-06T23:50:44.000+00:00,2013-10-13T19:21:50.000+00:00
+Ghost,133008,Ed Hardy Beautiful Ghost Specialty L/S Tee - Men's,,2,5.0,2009-11-15T17:32:40.000+00:00,2009-11-25T20:29:36.000+00:00
+Ghost,450747,Brooks Ghost Max 3 - Women's Casual Running Shoes - Black / Ebony,Brooks,1153,4.467476149176062,2025-06-25T21:21:23.000+00:00,2026-09-29T14:27:50.000+00:00
+Ghost,355048,Nike Air Max 2021 - Boys' Toddler Casual Running Shoes - Ghost / Obsidian,Nike,6,5.0,2021-09-22T13:44:39.000+00:00,2023-09-28T11:28:30.000+00:00
+Ghost,264808,Brooks Ghost 9 - Women's,Brooks,161,4.571428571428571,2016-07-20T02:35:55.000+00:00,2018-01-23T20:02:32.000+00:00
+Ghost,253622,New Era NBA 9Fifty Ghost Cap - Men's,New Era,1,5.0,2016-07-16T21:48:39.000+00:00,2016-07-16T21:48:39.000+00:00
+Ghost,181294,Brooks Ghost GTX - Men's,Brooks,2,5.0,2012-10-30T20:13:46.000+00:00,2013-04-25T19:30:55.000+00:00
+Ghost,144609,Brooks Ghost 3 - Men's,Brooks,6,4.833333333333333,2011-07-20T14:24:31.000+00:00,2012-01-19T14:40:25.000+00:00
+Ghost,M558GHO,Stance Mens Ghostface Killah Crew Socks,Stance,0,,,
+Ghost,478381,Brooks Ghost 17 Wide - Women's Casual Running Shoes - Black / Ebony,Brooks,2168,4.003690036900369,2025-01-10T16:35:35.000+00:00,2026-08-25T22:24:44.000+00:00
+Ghost,477150,Brooks Ghost Max 3 Wide - Women's Casual Running Shoes - Coconut / Chateau Grey Blue,Brooks,1151,4.466550825369244,2025-06-25T21:21:23.000+00:00,2026-09-29T14:27:50.000+00:00
+Ghost,477149,Brooks Ghost 17 Narrow - Men's Casual Running Shoes - Oyster Mushroom / Orange Ebony,Brooks,1397,4.443808160343593,2025-01-10T16:32:56.000+00:00,2026-08-07T04:56:38.000+00:00
+Ghost,475993,adidas Bad Bunny F50 Ghost Sprint - Men's Casual Running Shoes - Carbon / Black,adidas,210,4.809523809523809,2026-07-21T01:18:18.000+00:00,2026-10-14T00:29:42.000+00:00
+Ghost,475992,Brooks Ghost Amp - Men's Active CAN Classic Casual Shoes - Black / Grey,Brooks,54,4.462962962962963,2026-06-24T14:29:35.000+00:00,2026-10-04T09:37:49.000+00:00
+Ghost,475944,Brooks Ghost Amp - Women's Active Performance Running Shoes - Arctic Wolf / Dove Pink,Brooks,47,4.553191489361702,2026-06-24T14:29:31.000+00:00,2026-10-05T14:27:59.000+00:00
+Ghost,475746,Nike P-6000 - Boys' Preschool Casual Basketball Shoes - Ghost / Sail Light Thistle,Nike,24,4.583333333333333,2026-01-15T15:24:32.000+00:00,2026-06-14T14:24:29.000+00:00
+Ghost,473148,adidas Ghost Sprint - Women's Casual Basketball Shoes - Magic Beige / Wonder White Gum,Adidas,50,4.7,2025-07-16T00:15:48.000+00:00,2026-09-25T00:20:31.000+00:00
+Ghost,471810,Nike Burrow SE - Women's Casual Running Shoes - Ghost / Imperial Purple,Nike,9,3.5555555555555554,2024-11-18T15:23:45.000+00:00,2026-02-10T15:22:53.000+00:00
+Ghost,471696,Brooks Ghost 18 - Men's Casual Running Shoes - White / Black Blue,Brooks,291,4.494845360824742,2026-03-28T14:25:22.000+00:00,2026-10-11T14:26:05.000+00:00
+Ghost,466503,Nike Pegasus Easyon - Women's Casual Running Shoes - Ghost Aqua / Mtlc Silver Mint Foam,Nike,13,4.076923076923077,2024-12-15T15:22:59.000+00:00,2026-01-06T15:23:44.000+00:00
+Ghost,466487,Nike Air Zoom Pegasus 41 Wide - Women's Casual Running Shoes - Mint Foam / Ghost Aqua Metallic Silver,Nike,37,4.027027027027027,2024-06-16T14:23:48.000+00:00,2026-01-24T15:23:00.000+00:00
+Ghost,466121,Nike UV RPL STRIDE JACKET - Men's - Ghost / World Indigo Reflective Silver,Nike,36,4.305555555555555,2025-01-22T15:27:15.000+00:00,2026-09-14T14:22:49.000+00:00
+Ghost,459368,adidas Originals Megaride Ghostride - Women's Casual Running Shoes,adidas Originals,55,4.8545454545454545,2025-07-08T11:50:09.000+00:00,2026-10-10T09:53:21.000+00:00
+Ghost,452815,Crocs Ghostbusters Classic Clogs - Men's Active Clogs Shoes,Crocs,5,5.0,2025-09-09T22:47:36.000+00:00,2026-07-15T00:21:29.000+00:00
+Ghost,451208,Brooks Ghost Max 3 - Men's Casual Running Shoes - Bright White / Tea Black,Brooks,796,4.589195979899498,2025-06-26T14:23:41.000+00:00,2026-09-21T14:26:06.000+00:00
+Ghost,445349,Brooks Ghost 17 - Women's Casual Running Shoes - Black / Rose Gold White,Brooks,2168,4.003690036900369,2025-01-10T16:35:35.000+00:00,2026-08-25T22:24:44.000+00:00
+Ghost,445025,Brooks Ghost 17 - Men's Casual Running Shoes - Orange / Oyster Black,Brooks,1398,4.444206008583691,2025-01-10T16:32:56.000+00:00,2026-08-07T12:21:34.000+00:00
+Ghost,435722,Nike LeBron XXII - Men's Active Basketball Shoes - Blustery / Ghost Diffused Blue,Nike,64,4.015625,2024-10-20T14:24:16.000+00:00,2025-09-29T14:22:44.000+00:00
+Ghost,435042,PSD Ghostface Hype Underwear - Men's,PSD,0,,,
+Ghost,433557,Brooks Ghost Max 2 - Men's Casual Running Shoes - Bright White,Brooks,1142,4.549912434325744,2024-07-19T14:31:11.000+00:00,2026-10-05T10:26:13.000+00:00
+Ghost,433556,Brooks Ghost Max 2 - Women's Casual Running Shoes - Black / Ebony,Brooks,1173,4.209718670076726,2024-07-08T14:27:12.000+00:00,2026-08-22T15:04:47.000+00:00
+Ghost,426690,Brooks Ghost 16 - Women's Casual Running Shoes - White / Grey Estate Blue,Brooks,1979,4.018696311268317,2024-04-02T14:26:23.000+00:00,2026-01-07T15:25:28.000+00:00
+Ghost,422188,Brooks Ghost Max - Men's Casual Running Shoes - Orange / Cloud Blue Black,Brooks,606,4.473597359735973,2023-09-16T14:26:09.000+00:00,2025-05-19T14:24:59.000+00:00
+Ghost,418697,Brooks Ghost 15 - Women's Active Performance Running Shoes - Blue / White,Brooks,3158,4.467701076630779,2022-10-26T09:41:05.000+00:00,2025-05-23T14:24:45.000+00:00
+Ghost,414509,Under Armour Terrain Woven Shorts - Men's - Ghost Gray / Fresh Clay Reflective,Under Armour,1,5.0,2023-04-21T04:50:41.000+00:00,2023-04-21T04:50:41.000+00:00
+Ghost,380783,Nike React Pegasus Trail 4 GTX - Women's Casual Running Shoes - Purple Smoke / Peach Cream Green Ghost,Nike,181,4.204419889502763,2022-10-03T14:23:03.000+00:00,2025-01-27T15:23:07.000+00:00
+Ghost,376283,Reebok Ghostbusters Zig Kinetica - Men's Shoes - White,Reebok,174,4.660919540229885,2020-07-31T22:29:32.000+00:00,2021-11-06T17:10:47.000+00:00
+Ghost,376247,Reebok Ghostbusters Zig Kinetica - Boys' Toddler Casual Running Shoes,Reebok,1,5.0,2021-10-31T16:59:45.000+00:00,2021-10-31T16:59:45.000+00:00
+Ghost,376245,Reebok Ghostbusters Zig Kinetica - Boys' Grade School Casual Running Shoes,Reebok,11,4.090909090909091,2021-10-26T16:16:22.000+00:00,2022-02-19T03:51:11.000+00:00
+Ghost,374501,Nike Pegasus Trail 4 - Women's Casual Running Shoes - Mantra Orange / Enamel Green Ghost,Nike,219,4.2785388127853885,2022-06-09T14:24:34.000+00:00,2024-11-15T15:23:25.000+00:00
+Ghost,366152,Brooks Ghost 14 MU - Men's Active Performance Running Shoes - Black / Blue Nightlife,Brooks,2275,4.452747252747253,2021-07-02T14:25:27.000+00:00,2024-05-02T14:27:42.000+00:00
+Ghost,349536,Nike Wash HR Shorts - Women's - Ghost Green / Black,Nike,6,4.333333333333333,2021-05-15T18:18:22.000+00:00,2021-10-13T13:11:48.000+00:00
+Ghost,3481D129,Brooks Mens Ghost 13 - Running Shoes,Brooks,1683,4.372549019607843,2020-07-04T14:23:57.000+00:00,2026-06-28T14:24:45.000+00:00
+Ghost,3481D072,Brooks Mens Ghost 13 - Running Shoes,Brooks,1677,4.3726893261776985,2020-07-04T14:23:57.000+00:00,2026-06-28T14:24:45.000+00:00
+Ghost,3481D040,Brooks Mens Ghost 13 - Running Shoes,Brooks,1545,4.348867313915858,2020-07-04T14:23:57.000+00:00,2026-06-28T14:24:45.000+00:00
+Ghost,3481D039,Brooks Mens Ghost 13 - Running Shoes,Brooks,1676,4.37291169451074,2020-07-04T14:23:57.000+00:00,2026-06-28T14:24:45.000+00:00
+Ghost,326616,Jordan Jumpman Oversized Classic Graphic T-Shirt - Boys' Grade School - White / Infrared Ghost Green Game Royal,Jordan,1,5.0,2021-07-02T10:29:28.000+00:00,2021-07-02T10:29:28.000+00:00
+Ghost,3161D075,Brooks Mens Ghost 12 - Running Shoes,Brooks,1981,4.5890964159515395,2019-07-24T00:24:21.000+00:00,2021-06-11T14:25:47.000+00:00
+Ghost,3161D040,Brooks Mens Ghost 12 - Running Shoes,Brooks,1635,4.570642201834862,2019-08-04T14:22:46.000+00:00,2021-06-11T14:25:47.000+00:00
+Ghost,3051B631,Brooks Womens Brooks Ghost 12 - Womens Running Shoes,Brooks,2541,4.464384100747737,2019-08-02T14:24:14.000+00:00,2021-02-24T15:25:49.000+00:00
+Ghost,301435,Nike Tailwind Ghost Flash Cap - Men's,Nike,1,1.0,2019-04-21T22:45:44.000+00:00,2019-04-21T22:45:44.000+00:00
+Ghost,300680,Nike Shield Ghost Camo Jacket - Men's,Nike,1,4.0,2018-11-08T15:22:50.000+00:00,2018-11-08T15:22:50.000+00:00
+Ghost,296568,Brooks Ghost 11 - Women's,Brooks,409,4.442542787286063,2018-07-04T04:11:14.000+00:00,2020-06-18T14:25:45.000+00:00
+Ghost,296316,Brooks Ghost 11 - Men's,Brooks,300,4.586666666666667,2018-07-17T21:07:32.000+00:00,2020-12-05T15:24:11.000+00:00
+Ghost,2881D003,Brooks Mens Ghost 11 Running Shoes,Brooks,18,3.8333333333333335,2019-09-25T14:23:28.000+00:00,2020-12-05T15:24:11.000+00:00
+Ghost,282467,Brooks Ghost 10 - Men's,Brooks,116,4.793103448275862,2017-08-04T16:42:40.000+00:00,2020-12-17T15:33:27.000+00:00
+Ghost,280963,Brooks Ghost 10 - Women's,Brooks,289,4.698961937716263,2017-07-23T15:01:05.000+00:00,2021-01-07T15:26:12.000+00:00
+Ghost,2771B017,Brooks Womens Ghost 11 Running Shoes,Brooks,63,3.8253968253968256,2019-08-11T14:23:11.000+00:00,2020-06-18T14:25:45.000+00:00
+Ghost,255632,Brooks Ghost 8 GTX - Women's,Brooks,1,4.0,2016-03-19T13:40:51.000+00:00,2016-03-19T13:40:51.000+00:00
+Ghost,247373,Brooks Ghost 8 GTX - Men's,Brooks,0,,,
+Ghost,247363,Brooks Ghost 8 - Men's,Brooks,4,4.25,2015-11-04T10:23:00.000+00:00,2016-03-08T19:55:39.000+00:00
+Ghost,221340,Brooks Ghost 7 GTX - Men's,Brooks,1,5.0,2015-03-17T17:35:08.000+00:00,2015-03-17T17:35:08.000+00:00
+Ghost,221285,Nike SB Ghost - Men's,Nike SB,0,,,
+Ghost,220436,adidas Ghost Guard,adidas,1,5.0,2015-05-27T00:55:26.000+00:00,2015-05-27T00:55:26.000+00:00
+Ghost,220029,Brooks Ghost 7 - Men's,Brooks,6,5.0,2014-07-10T20:58:14.000+00:00,2015-10-28T20:46:40.000+00:00
+Ghost,197981,Brooks Ghost 6 GTX - Men's,Brooks,0,,,
+Adrenaline,189168,Brooks Adrenaline GTS 13 - Women's,Brooks,29,4.655172413793103,2013-01-03T02:54:53.000+00:00,2014-11-20T01:48:14.000+00:00
+Adrenaline,169729,Brooks Adrenaline GTS 12 - Women's,Brooks,35,4.6571428571428575,2012-02-07T20:36:29.000+00:00,2013-12-17T21:44:49.000+00:00
+Adrenaline,233276,Brooks Adrenaline GTS 15 - Women's,Brooks,245,4.228571428571429,2014-12-16T14:54:16.000+00:00,2016-08-29T15:21:02.000+00:00
+Adrenaline,153129,Brooks Adrenaline GTS 11 - Women's,Brooks,12,4.75,2011-07-31T08:54:35.000+00:00,2012-03-15T14:46:10.000+00:00
+Adrenaline,354119,Brooks Adrenaline GTS 22 - Women's Active Performance Running Shoes,Brooks,4633,4.242175696093244,2022-01-04T15:26:31.000+00:00,2024-09-03T14:26:04.000+00:00
+Adrenaline,254771,Brooks Adrenaline GTS 16 - Men's,Brooks,138,4.239130434782608,2015-11-11T00:00:00.000+00:00,2017-11-22T01:41:46.000+00:00
+Adrenaline,169711,Brooks Adrenaline GTS 12 - Men's,Brooks,29,4.724137931034483,2012-05-15T20:01:08.000+00:00,2013-07-04T04:59:50.000+00:00
+Adrenaline,418733,Brooks Adrenaline GTS 23 - Men's Casual Running Shoes - Ebony / Oyster Alloy,Brooks,1243,4.5124698310539015,2023-06-29T14:26:28.000+00:00,2026-03-12T17:13:13.000+00:00
+Adrenaline,353891,Brooks Adrenaline GTS 22 - Men's Active Performance Running Shoes,Brooks,4667,4.5363188343689735,2020-10-13T14:23:50.000+00:00,2024-08-20T14:26:37.000+00:00
+Adrenaline,344927,Brooks Adrenaline GTS 21 - Women's Active Performance Running Shoes - Purple / Pink,Brooks,7928,4.397956609485369,2020-10-14T14:23:58.000+00:00,2024-09-03T14:26:04.000+00:00
+Adrenaline,208573,Brooks Adrenaline GTS 14 - Women's,Brooks,21,4.904761904761905,2014-01-16T03:35:59.000+00:00,2015-01-27T21:21:21.000+00:00
+Adrenaline,208534,Brooks Adrenaline GTS 14 - Men's,Brooks,14,5.0,2014-03-17T19:40:21.000+00:00,2015-06-16T20:03:52.000+00:00
+Adrenaline,189158,Brooks Adrenaline GTS 13 - Men's,Brooks,15,4.6,2012-12-26T00:19:44.000+00:00,2014-06-04T01:15:59.000+00:00
+Adrenaline,270382,Brooks Adrenaline GTS 17 - Women's,Brooks,211,4.37914691943128,2017-01-02T03:21:53.000+00:00,2021-02-14T15:25:15.000+00:00
+Adrenaline,255617,Brooks Adrenaline GTS 16 - Women's,Brooks,12,4.083333333333333,2015-11-19T03:51:56.000+00:00,2016-10-29T23:18:48.000+00:00
+Adrenaline,418694,Brooks Adrenaline GTS 23 - Women's Casual Running Shoes - White / Oyster,Brooks,1800,4.3005555555555555,2023-06-22T14:36:55.000+00:00,2025-12-22T15:24:42.000+00:00
+Adrenaline,270331,Brooks Adrenaline GTS 17 - Men's,Brooks,163,4.539877300613497,2016-12-11T05:51:14.000+00:00,2018-04-29T12:15:12.000+00:00
+Adrenaline,233226,Brooks Adrenaline GTS 15 - Men's,Brooks,10,4.8,2015-03-12T19:33:34.000+00:00,2016-04-07T00:43:35.000+00:00
+Adrenaline,454157,Brooks Adrenaline GTS 25 - Men's Casual Running Shoes - White / Spellbound Orange,Brooks,1005,4.622885572139303,2025-09-24T14:25:07.000+00:00,2026-10-11T14:26:23.000+00:00
+Adrenaline,336311,Brooks Adrenaline GTS 21 - Men's Active Performance Running Shoes,Brooks,2566,4.647310989867498,2020-10-13T14:23:50.000+00:00,2024-08-09T14:24:44.000+00:00
+Adrenaline,288176,Brooks Adrenaline GTS 18 - Women's,Brooks,218,4.321100917431193,2017-11-08T06:19:14.000+00:00,2020-11-23T15:24:43.000+00:00
+Adrenaline,211406,Brooks Adrenaline GTS 14 - Girls' Grade School,Brooks,2,4.5,2014-09-18T23:40:40.000+00:00,2015-01-18T14:03:38.000+00:00
+Adrenaline,197999,Brooks Adrenaline ASR 10 - Women's,Brooks,1,5.0,2014-03-05T19:38:20.000+00:00,2014-03-05T19:38:20.000+00:00
+Adrenaline,181293,Brooks Adrenaline ASR 9 - Men's,Brooks,2,5.0,2012-10-02T00:33:44.000+00:00,2013-07-03T00:35:53.000+00:00
+Adrenaline,161671,Brooks Adrenaline ASR 8 - Men's,Brooks,1,4.0,2012-08-30T11:21:28.000+00:00,2012-08-30T11:21:28.000+00:00
+Adrenaline,153113,Brooks Adrenaline GTS 11 - Men's,Brooks,12,4.833333333333333,2011-09-16T00:49:11.000+00:00,2012-03-26T22:48:57.000+00:00
+Adrenaline,104026,Nike Adrenaline Short - Men's,Nike,3,5.0,2009-11-11T23:24:32.000+00:00,2009-11-30T22:15:00.000+00:00
+Adrenaline,101598,Brooks Adrenaline GTS 9 - Men's,Brooks,4,4.25,2009-11-13T09:49:38.000+00:00,2009-11-22T08:09:39.000+00:00
+Adrenaline,478412,Brooks Adrenaline GTS 25 Wide - Women's Casual Running Shoes - Black / Grey White,Brooks,1619,4.497220506485485,2025-09-23T14:25:12.000+00:00,2026-10-11T14:26:13.000+00:00
+Adrenaline,477156,Brooks Adrenaline GTS 25 Narrow - Men's Casual Running Shoes - Primer Grey / Ebony Jasmin,Brooks,608,4.511513157894737,2025-09-24T14:25:07.000+00:00,2026-10-11T14:26:23.000+00:00
+Adrenaline,47132,Nike Air Zoom Adrenaline - Men's,Nike,0,,,
+Adrenaline,450772,Brooks Adrenaline GTS 25 - Women's Casual Running Shoes - Black / Iced Aqua Cyber Pink,Brooks,1619,4.497220506485485,2025-09-23T14:25:12.000+00:00,2026-10-11T14:26:13.000+00:00
+Adrenaline,433228,Brooks Adrenaline GTS 24 - Men's Active Performance Running Shoes,Brooks,1601,4.302935665209244,2024-09-03T14:25:53.000+00:00,2026-09-17T14:27:58.000+00:00
+Adrenaline,433217,Brooks Adrenaline GTS 24 - Women's Active Performance Running Shoes,Brooks,2127,4.21485660554772,2024-09-02T14:25:13.000+00:00,2026-07-20T14:28:27.000+00:00
+Adrenaline,425574,Brooks Adrenaline GTS 23 Oreo - Men's Active Performance Running Shoes,Brooks,1236,4.509708737864078,2023-06-29T14:26:28.000+00:00,2026-03-12T17:13:13.000+00:00
+Adrenaline,388703,Brooks Adrenaline GTS 22 - Women's Active Performance Running Shoes,Brooks,3919,4.167644807348814,2022-01-04T15:26:31.000+00:00,2024-09-03T14:26:04.000+00:00
+Adrenaline,366160,Brooks Adrenaline 22 - Men's Active Performance Running Shoes,Brooks,2054,4.299415774099319,2021-12-02T15:30:33.000+00:00,2024-08-20T14:26:37.000+00:00
+Adrenaline,3291B020,Brooks Womens Adrenaline GTS 21 - Running Shoes,Brooks,4694,4.5615679590967195,2020-10-14T14:23:58.000+00:00,2024-11-22T15:25:01.000+00:00
+Adrenaline,321913,Brooks Adrenaline GTS 20 - Women's Active Performance Running Shoes - Black / Grey,Brooks,2845,4.416871704745167,2019-11-08T15:23:27.000+00:00,2021-07-19T14:31:38.000+00:00
+Adrenaline,317760,Brooks Adrenaline GTS 20 - Men's Active Performance Running Shoes - Black / Ebony Ketchup,Brooks,1699,4.513243084167157,2019-11-09T15:23:22.000+00:00,2022-07-12T21:55:30.000+00:00
+Adrenaline,3071D029,Brooks Mens Adrenaline GTS 20 - Running Shoes,Brooks,1462,4.497264021887825,2019-11-09T15:23:22.000+00:00,2021-07-05T14:24:17.000+00:00
+Adrenaline,305655,Brooks Adrenaline GTS 19 - Women's,Brooks,708,4.3474576271186445,2019-08-04T14:22:45.000+00:00,2020-10-29T14:24:17.000+00:00
+Adrenaline,305255,Brooks Adrenaline GTS 19 - Men's,Brooks,746,4.493297587131368,2018-10-23T00:36:27.000+00:00,2020-10-10T14:23:32.000+00:00
+Adrenaline,2961B164,Brooks Womens Adrenaline GTS 20 - Running Shoes,Brooks,2844,4.417721518987341,2019-11-08T15:23:27.000+00:00,2021-07-19T14:31:38.000+00:00
+Adrenaline,2961B040,Brooks Womens Adrenaline GTS 20 - Running Shoes,Brooks,2501,4.398240703718512,2019-11-08T15:23:27.000+00:00,2021-07-19T14:31:38.000+00:00
+Adrenaline,2941D190,Brooks Mens Adrenaline GTS 19 - Running Shoes,Brooks,429,4.37995337995338,2019-08-06T14:23:03.000+00:00,2020-10-10T14:23:32.000+00:00
+Adrenaline,2941D126,Brooks Mens Adrenaline GTS 19 Running Shoes,Brooks,429,4.37995337995338,2019-08-06T14:23:03.000+00:00,2020-10-10T14:23:32.000+00:00
+Adrenaline,2941D071,Brooks Mens Adrenaline GTS 19 Running Shoes,Brooks,429,4.37995337995338,2019-08-06T14:23:03.000+00:00,2020-10-10T14:23:32.000+00:00
+Adrenaline,2941D058,Brooks Mens Adrenaline GTS 19 - Running Shoes,Brooks,429,4.37995337995338,2019-08-06T14:23:03.000+00:00,2020-10-10T14:23:32.000+00:00
+Adrenaline,288066,Brooks Adrenaline GTS 18 - Men's,Brooks,2,3.5,2017-12-29T21:24:36.000+00:00,2020-09-08T14:23:52.000+00:00
+Adrenaline,2841B080,Brooks Womens Brooks Adrenaline GTS 19 - Womens Running Shoes,Brooks,707,4.352192362093352,2019-08-04T14:22:45.000+00:00,2020-10-29T14:24:17.000+00:00
+Adrenaline,2841B071,Brooks Womens Adrenaline GTS 19 Running Shoes,Brooks,707,4.352192362093352,2019-08-04T14:22:45.000+00:00,2020-10-29T14:24:17.000+00:00
+Adrenaline,2681B079,Brooks Womens Adrenaline GTS 18 Running Shoes,Brooks,6,2.1666666666666665,2019-08-11T14:23:12.000+00:00,2020-11-23T15:24:43.000+00:00
+Adrenaline,2681B026,Brooks Womens Adrenaline GTS 18 - Running Shoes,Brooks,6,2.1666666666666665,2019-08-11T14:23:12.000+00:00,2020-11-23T15:24:43.000+00:00
+Adrenaline,255631,Brooks Adrenaline ASR 12 GTX - Women's,Brooks,2,5.0,2016-08-23T19:13:03.000+00:00,2021-02-19T15:25:54.000+00:00
+Adrenaline,248675,Brooks Adrenaline ASR 12 - Women's,Brooks,0,,,
+Adrenaline,247372,Brooks Adrenaline ASR 12 GTX - Men's,Brooks,0,,,
+Adrenaline,221349,Brooks Adrenaline ASR 11 - Women's,Brooks,0,,,
+Adrenaline,221342,Brooks Adrenaline ASR 11 GTX - Men's,Brooks,0,,,
+Adrenaline,221341,Brooks Adrenaline ASR 11 - Men's,Brooks,0,,,
+Adrenaline,211400,Brooks Adrenaline GTS 14 - Boys' Grade School,Brooks,0,,,
+Adrenaline,199916,Adrenaline Lacrosse Classic Tee - Men's,Adrenaline Lacrosse,0,,,
+Glycerin,181296,Brooks Glycerin 10 - Women's,Brooks,7,4.714285714285714,2012-09-11T12:04:38.000+00:00,2013-07-03T19:50:04.000+00:00
+Glycerin,161675,Brooks Glycerin 9 - Women's,Brooks,8,4.625,2011-12-23T18:11:41.000+00:00,2012-08-18T21:28:45.000+00:00
+Glycerin,197966,Brooks Glycerin 11 - Men's,Brooks,6,4.166666666666667,2013-07-11T01:46:15.000+00:00,2014-10-28T23:49:39.000+00:00
+Glycerin,136601,Brooks Glycerin 8 - Men's,Brooks,9,4.555555555555555,2011-03-17T00:48:10.000+00:00,2012-02-22T22:51:42.000+00:00
+Glycerin,221345,Brooks Glycerin 12 - Women's,Brooks,5,5.0,2014-11-04T17:09:44.000+00:00,2015-08-01T22:48:20.000+00:00
+Glycerin,220028,Brooks Glycerin 12 - Men's,Brooks,4,5.0,2014-09-03T20:55:40.000+00:00,2014-12-17T17:29:44.000+00:00
+Glycerin,181287,Brooks Glycerin 10 - Men's,Brooks,8,4.625,2012-12-09T14:03:27.000+00:00,2013-07-16T01:48:04.000+00:00
+Glycerin,465834,Brooks Glycerin Max 2 - Women's Active Performance Running Shoes,Brooks,240,4.254166666666666,2025-11-20T15:28:52.000+00:00,2026-10-06T01:03:22.000+00:00
+Glycerin,446789,Brooks Glycerin Max - Women's Casual Running Shoes - White / Black Pink,Brooks,424,4.346698113207547,2024-09-18T14:26:35.000+00:00,2026-01-24T15:56:03.000+00:00
+Glycerin,441300,Brooks Glycerin 22 - Women's Casual Running Shoes - Black / Grey White,Brooks,1846,4.4247020585048755,2025-01-10T16:30:17.000+00:00,2026-10-07T12:39:11.000+00:00
+Glycerin,426699,Brooks Glycerin 21 - Women's Active Performance Running Shoes,Brooks,946,4.318181818181818,2023-12-04T15:25:48.000+00:00,2026-01-03T15:25:35.000+00:00
+Glycerin,426432,Brooks Glycerin 21 - Men's Casual Running Shoes - Pale Yellow Lime / Lovebird,Brooks,599,4.292153589315526,2023-12-17T15:26:05.000+00:00,2026-02-14T15:24:44.000+00:00
+Glycerin,425772,Brooks Glycerin 22 - Men's Casual Running Shoes - Peacoat / Blue Ribbon Orange,Brooks,641,4.4492979719188765,2025-01-10T16:31:35.000+00:00,2026-04-13T14:25:46.000+00:00
+Glycerin,367501,Brooks Glycerin Stealthfit 20 - Women's Active Performance Running Shoes,Brooks,469,4.445628997867804,2022-06-30T14:25:32.000+00:00,2025-11-20T04:00:58.000+00:00
+Glycerin,366052,Brooks Glycerin 20 - Men's Active Performance Running Shoes - White / Black Alloy,Brooks,923,4.538461538461538,2022-06-23T14:26:10.000+00:00,2026-07-11T09:29:03.000+00:00
+Glycerin,296526,Brooks Glycerin 16 - Women's,Brooks,52,4.230769230769231,2018-07-03T20:39:10.000+00:00,2020-03-08T14:22:57.000+00:00
+Glycerin,264810,Brooks Glycerin 14 - Women's,Brooks,73,4.657534246575342,2016-06-22T16:39:28.000+00:00,2018-03-20T14:07:00.000+00:00
+Glycerin,247361,Brooks Glycerin 13 - Men's,Brooks,93,4.376344086021505,2015-07-07T19:21:22.000+00:00,2017-05-02T00:47:49.000+00:00
+Glycerin,197995,Brooks Glycerin 11 - Women's,Brooks,5,4.8,2013-10-22T06:23:26.000+00:00,2014-08-20T23:18:10.000+00:00
+Glycerin,161641,Brooks Glycerin 9 - Men's,Brooks,7,4.142857142857143,2012-04-18T10:53:58.000+00:00,2012-08-30T00:03:56.000+00:00
+Glycerin,478411,Brooks Glycerin GTS 23 Wide - Women's Casual Running Shoes - Yucca / Spellbound Pink,Brooks,225,4.204444444444444,2026-01-03T15:24:34.000+00:00,2026-10-11T14:26:15.000+00:00
+Glycerin,477152,Brooks Glycerin 23 Wide - Women's Casual Running Shoes - Black / Grey White,Brooks,742,4.505390835579515,2026-01-03T15:25:10.000+00:00,2026-10-05T16:05:37.000+00:00
+Glycerin,477146,Brooks Glycerin GTS 23 - Women's Casual Running Shoes - Black / Grey White,Brooks,225,4.204444444444444,2026-01-03T15:24:34.000+00:00,2026-10-11T14:26:15.000+00:00
+Glycerin,477144,Brooks Glycerin GTS 23 - Men's Casual Running Shoes - Grey / Blackened Pearl Black,Brooks,146,4.397260273972603,2026-01-03T15:24:40.000+00:00,2026-09-20T14:26:16.000+00:00
+Glycerin,476108,Brooks Glycerin 22 Stealthfit - Women's Casual Running Shoes - Tan / Gray Gold,Brooks,198,4.05050505050505,2025-03-20T14:25:29.000+00:00,2026-04-06T14:24:58.000+00:00
+Glycerin,465853,Brooks Glycerin Flex - Men's Casual Running Shoes - Coconut / Starfish Chateau,Brooks,155,4.638709677419355,2026-01-03T15:24:43.000+00:00,2026-09-20T14:26:15.000+00:00
+Glycerin,465831,Brooks Glycerin 23 - Women's Active Performance Running Shoes,Brooks,742,4.505390835579515,2026-01-03T15:25:10.000+00:00,2026-10-05T16:05:37.000+00:00
+Glycerin,465830,Brooks Glycerin Flex - Women's Active Performance Running Shoes,Brooks,300,4.363333333333333,2026-01-03T15:24:53.000+00:00,2026-10-13T14:27:20.000+00:00
+Glycerin,465681,Brooks Glycerin 23 - Men's Casual Running Shoes - Black / Biscuit Ebony,Brooks,471,4.6963906581740975,2026-01-03T15:25:07.000+00:00,2026-10-12T14:26:41.000+00:00
+Glycerin,465680,Brooks Glycerin Max 2 - Men's Casual Running Shoes - Blue / Orange,Brooks,242,4.619834710743802,2025-11-21T15:26:21.000+00:00,2026-10-14T04:41:34.000+00:00
+Glycerin,460629,Brooks Glycerin 22 Stealthfit - Men's Casual Running Shoes - Blue / White Oyster,Brooks,99,4.353535353535354,2025-03-29T14:24:10.000+00:00,2026-03-08T14:30:39.000+00:00
+Glycerin,441325,Brooks Glycerin Max - Men's Casual Running Shoes - Grey / Black Nightlife,Brooks,561,4.625668449197861,2024-09-18T14:25:16.000+00:00,2026-04-30T11:54:39.000+00:00
+Glycerin,426691,Brooks Glycerin Stealthfit 21 - Women's Casual Running Shoes - Black / Gum,Brooks,514,4.200389105058366,2023-12-01T15:26:25.000+00:00,2026-09-01T22:05:01.000+00:00
+Glycerin,426417,Brooks Glycerin GTS 21 - Men's Casual Running Shoes - Black,Brooks,327,4.388379204892966,2023-12-25T15:28:36.000+00:00,2025-05-06T14:26:20.000+00:00
+Glycerin,426416,Brooks Glycerin Stealthfit GTS 21 - Men's Casual Running Shoes - White / Black Grey,Brooks,93,4.451612903225806,2024-01-02T03:25:29.000+00:00,2025-10-15T14:25:50.000+00:00
+Glycerin,426409,Brooks Glycerin Stealthfit 21 - Men's Casual Running Shoes - White / Blue,Brooks,277,4.350180505415162,2023-12-12T22:34:42.000+00:00,2025-10-17T00:29:16.000+00:00
+Glycerin,367902,Brooks Glycerin Stealthfit GTS 20 - Women's Casual Running Shoes,Brooks,230,4.417391304347826,2022-07-01T14:28:50.000+00:00,2024-05-09T14:27:23.000+00:00
+Glycerin,367896,Brooks Glycerin Stealthfit 20 - Women's Casual Running Shoes - White / Khaki,Brooks,292,4.260273972602739,2022-06-30T14:25:32.000+00:00,2024-08-10T14:25:37.000+00:00
+Glycerin,367882,Brooks Glycerin 20 - Women's Casual Running Shoes - Mauve / Grape Wine,Brooks,1382,4.348046309696093,2022-06-30T14:25:42.000+00:00,2025-09-07T14:28:36.000+00:00
+Glycerin,366141,Brooks Glycerin Stealthfit GTS 20 - Men's Active Performance Running Shoes,Brooks,118,4.254237288135593,2022-06-30T14:25:19.000+00:00,2025-05-28T14:24:49.000+00:00
+Glycerin,366136,Brooks Glycerin Stealthfit 20 - Men's Active Performance Running Shoes,Brooks,237,4.375527426160337,2022-06-30T14:25:57.000+00:00,2025-11-05T00:05:55.000+00:00
+Glycerin,296309,Brooks Glycerin 16 - Men's,Brooks,28,4.571428571428571,2018-06-15T17:49:46.000+00:00,2020-04-10T14:23:32.000+00:00
+Glycerin,280944,Brooks Glycerin 15 - Women's,Brooks,81,4.3580246913580245,2017-06-17T14:52:58.000+00:00,2020-06-05T14:25:48.000+00:00
+Glycerin,280916,Brooks Glycerin 15 - Men's,Brooks,30,4.366666666666666,2017-08-01T01:56:56.000+00:00,2018-11-06T23:51:43.000+00:00
+Glycerin,264803,Brooks Glycerin 14 - Men's,Brooks,42,4.666666666666667,2016-08-19T19:58:12.000+00:00,2018-01-31T01:17:29.000+00:00
+Glycerin,248670,Brooks Glycerin 13 - Women's,Brooks,1,5.0,2021-04-08T20:44:20.000+00:00,2021-04-08T20:44:20.000+00:00
+Cloudmonster,363851,On Cloudmonster - Women's Casual Running Shoes - Tan / Pink,ON,59,4.661016949152542,2023-05-29T02:05:25.000+00:00,2026-06-02T15:54:21.000+00:00
+Cloudmonster,362980,On Cloudmonster - Men's Casual Running Shoes - White,ON,40,4.725,2023-10-29T01:26:48.000+00:00,2026-06-05T19:18:21.000+00:00
+Cloudmonster,440165,On Cloudmonster Void - Women's Casual Running Shoes - Purple,ON,17,4.823529411764706,2025-04-04T08:35:03.000+00:00,2026-09-09T20:36:31.000+00:00
+Cloudmonster,440588,On Cloudmonster Void - Men's Casual Running Shoes - Grey,ON,7,5.0,2025-06-02T17:20:37.000+00:00,2026-04-23T07:17:48.000+00:00
+Cloudmonster,447979,On Cloudmonster 1 - Women's Casual Running Shoes - White / Flame,ON,2,3.0,2025-03-30T23:52:32.000+00:00,2025-04-11T23:22:26.000+00:00
+Cloudmonster,458176,On Cloudmonster Void - Men's Casual Running Shoes - Fog / Pearl,ON,1,5.0,2026-09-03T00:44:57.000+00:00,2026-09-03T00:44:57.000+00:00
+Cloudmonster,458172,On Cloudmonster 1 - Men's Casual Running Shoes - White,ON,1,5.0,2026-08-13T01:50:01.000+00:00,2026-08-13T01:50:01.000+00:00
+Cloudmonster,476751,On Cloudmonster Void Lunar New Year - Women's Casual Running Shoes,ON,0,,,
+Cloudmonster,434676,On Cloudmonster 1 - Men's Casual Running Shoes - Alloy / Jester Red,ON,0,,,
+Cloudsurfer,431714,On Cloudsurfer Next - Men's Casual Running Shoes - Gray / White,ON,3,5.0,2025-02-11T14:13:18.000+00:00,2025-12-21T00:09:35.000+00:00
+Cloudsurfer,431269,On Cloudsurfer Next - Women's Casual Running Shoes - Dew,ON,2,5.0,2025-01-08T21:20:29.000+00:00,2025-03-19T16:36:31.000+00:00
+Cloudsurfer,206918,On Cloudsurfer - Men's,ON,6,5.0,2014-05-05T22:22:05.000+00:00,2015-11-05T11:38:19.000+00:00
+Cloudsurfer,167670,On Cloudsurfer - Women's,ON,2,4.5,2012-03-08T00:05:23.000+00:00,2012-05-06T16:51:55.000+00:00
+Cloudsurfer,167668,On Cloudsurfer - Men's,ON,3,4.666666666666667,2012-02-13T19:03:51.000+00:00,2012-10-25T00:22:16.000+00:00
+Cloudsurfer,206922,On Cloudsurfer - Women's,ON,1,5.0,2015-01-02T03:01:46.000+00:00,2015-01-02T03:01:46.000+00:00
+Cloudsurfer,458515,On Cloudsurfer - Boys' Grade School Casual Running Shoes - Sailor Blue / Iceberg,ON,0,,,
+Cloudsurfer,458247,On Cloudsurfer - Girls' Grade School Casual Running Shoes - Crimson / White,ON,0,,,
+Cloudsurfer,260626,On Cloudsurfer 2 - Men's,ON,0,,,
+Cloudrunner,423849,On Cloudrunner 2 - Women's Casual Running Shoes - Black / Blue,ON,11,3.5454545454545454,2024-06-03T21:50:49.000+00:00,2025-03-18T00:06:32.000+00:00
+Cloudrunner,423939,On Cloudrunner 2 - Men's Casual Running Shoes - Frost / White,ON,2,4.5,2024-11-11T20:54:12.000+00:00,2025-01-20T23:38:40.000+00:00
+Cloudrunner,167669,On Cloudrunner - Men's,ON,3,5.0,2012-01-19T21:22:20.000+00:00,2012-04-10T20:41:31.000+00:00
+Cloudrunner,363839,On Cloudrunner - Women's Casual Running Shoes - Flame / White,ON,1,5.0,2024-06-20T19:10:52.000+00:00,2024-06-20T19:10:52.000+00:00
+Cloudrunner,206921,On Cloudrunner - Women's,,0,,,
+Cloudrunner,206917,On Cloudrunner - Men's,ON,1,5.0,2014-07-11T18:36:25.000+00:00,2014-07-11T18:36:25.000+00:00
+Ride,329862,PUMA Future Rider - Men's Casual Basketball Shoes - Grey / Black,PUMA,66,4.7272727272727275,2020-04-20T03:39:06.000+00:00,2023-05-30T18:08:12.000+00:00
+Ride,345407,PUMA Cruise Rider - Women's Casual Running Shoes - Gold / White Black,PUMA,40,4.5,2021-04-06T12:43:51.000+00:00,2022-10-18T12:58:22.000+00:00
+Ride,429761,PUMA Easy Rider Vintage - Women's Casual Running Shoes - White / Red,PUMA,24,4.833333333333333,2024-05-02T01:24:06.000+00:00,2026-03-21T06:27:23.000+00:00
+Ride,330233,PUMA Future Rider - Boys' Grade School Casual Running Shoes,PUMA,31,4.709677419354839,2020-03-28T15:31:28.000+00:00,2023-09-19T22:12:32.000+00:00
+Ride,170161,Mizuno Wave Rider 15 - Women's,Mizuno,42,4.666666666666667,2011-12-03T04:29:16.000+00:00,2013-05-18T21:05:10.000+00:00
+Ride,171842,adidas Climacool Fresh Ride - Men's,adidas,48,4.354166666666667,2012-01-17T20:30:34.000+00:00,2012-10-12T19:35:30.000+00:00
+Ride,329778,PUMA Future Rider - Women's Casual Running Shoes - Black / Yellow Blue,PUMA,20,4.7,2020-04-06T21:11:19.000+00:00,2021-12-10T02:27:24.000+00:00
+Ride,338770,PUMA Street Rider - Boys' Grade School Casual Running Shoes - Red / Black Volt,PUMA,25,4.84,2020-11-08T23:30:24.000+00:00,2022-02-18T13:23:27.000+00:00
+Ride,153643,adidas ClimaCool Ride - Men's,adidas,62,4.435483870967742,2011-04-06T20:53:33.000+00:00,2012-11-10T18:11:33.000+00:00
+Ride,342197,PUMA Street Rider - Men's Casual Running Shoes - Black / Hi Risk Red Classic Green,PUMA,19,4.684210526315789,2020-10-16T19:03:16.000+00:00,2022-01-21T13:34:02.000+00:00
+880,162701,New Balance 880 - Women's,New Balance,5,4.6,2011-12-17T05:04:05.000+00:00,2012-10-03T01:14:51.000+00:00
+880,162690,New Balance 880 - Men's,New Balance,9,5.0,2011-12-21T00:42:59.000+00:00,2013-03-23T05:58:37.000+00:00
+Triumph,204621,Saucony Mens Triumph ISO 5 Running Shoes,Saucony,210,4.338095238095238,2013-12-14T15:40:14.000+00:00,2022-02-25T08:00:00.000+00:00
+Triumph,170885,Jordan Triangle Triumph Short - Men's,Jordan,28,4.607142857142857,2012-03-03T20:30:34.000+00:00,2013-06-15T19:48:52.000+00:00
+Triumph,169329,Saucony PowerGrid Triumph 9 - Men's,Saucony,11,4.545454545454546,2012-02-12T22:10:48.000+00:00,2013-02-28T03:08:45.000+00:00
+Triumph,256178,Saucony Triumph ISO 2 - Women's,Saucony,14,4.214285714285714,2016-05-15T12:12:45.000+00:00,2018-06-28T13:21:44.000+00:00
+Triumph,190126,Saucony Triumph 10 - Women's,Saucony,4,4.75,2013-09-21T15:55:12.000+00:00,2014-04-10T12:56:22.000+00:00
+Triumph,141584,Converse Triumph  - Men's,Converse,6,4.166666666666667,2010-04-07T18:30:48.000+00:00,2012-01-09T22:24:39.000+00:00
+Triumph,99861,Saucony Progrid Triumph 6 - Women's,Saucony,1,5.0,2009-11-07T02:15:24.000+00:00,2009-11-07T02:15:24.000+00:00
+Triumph,99860,Saucony Progrid Triumph 6 - Men's,Saucony,2,5.0,2009-11-06T21:29:46.000+00:00,2009-11-20T23:16:07.000+00:00
+Triumph,95300,CCM NHL Triumph Hoody - Men's,CCM,1,5.0,2009-11-25T18:50:28.000+00:00,2009-11-25T18:50:28.000+00:00
+Triumph,169340,Saucony PowerGrid Triumph 9 - Women's,Saucony,9,5.0,2012-04-26T00:09:31.000+00:00,2012-12-19T21:44:37.000+00:00
+Triumph,151092,Saucony Progrid Triumph 8 - Men's,Saucony,4,4.5,2011-12-27T02:43:30.000+00:00,2012-05-05T20:46:35.000+00:00
+Triumph,475444,Saucony ProGrid Triumph 4 - Women's Casual Running Shoes - Fog / Black,Saucony,0,,,
+Triumph,475147,Saucony Progrid Triumph 4 - Men's Casual Running Shoes - Silver / Black,Saucony,70,4.3428571428571425,2023-02-13T00:59:36.000+00:00,2026-10-11T18:06:15.000+00:00
+Triumph,475116,Saucony Triumph 4 - Girls' Grade School Casual Running Shoes - Pink / Black,Saucony,0,,,
+Triumph,475108,Saucony Triumph 4 - Boys' Grade School Casual Running Shoes - Green / Black,Saucony,0,,,
+Triumph,474941,Saucony Progrid Triumph 4 - Women's Casual Running Shoes - Gold / Black,Saucony,6,4.666666666666667,2025-09-28T09:21:04.000+00:00,2026-02-07T03:07:05.000+00:00
+Triumph,467188,Saucony Triumph 23 - Women's Casual Running Shoes - Black / White,Saucony,111,4.018018018018018,2025-07-18T22:02:06.000+00:00,2026-09-09T12:15:58.000+00:00
+Triumph,467157,Saucony Triumph 23 - Men's Casual Running Shoes - Navy / Red,Saucony,91,4.186813186813187,2025-06-08T00:12:53.000+00:00,2026-09-28T17:01:21.000+00:00
+Triumph,445764,Saucony Triumph 22 - Men's Casual Running Shoes - Cloud / Navy,Saucony,36,4.388888888888889,2024-05-30T02:58:53.000+00:00,2026-09-16T17:19:11.000+00:00
+Triumph,445749,Saucony Triumph 22 - Women's Casual Running Shoes - White / Black,Saucony,107,3.8130841121495327,2024-05-05T21:02:30.000+00:00,2026-07-19T01:19:19.000+00:00
+Triumph,353205,Saucony Triumph 19 - Men's Active Performance Running Shoes - Acid / Blue Raz,Saucony,226,4.389380530973451,2021-08-09T16:58:45.000+00:00,2024-01-14T13:37:34.000+00:00
+Triumph,288612,Saucony Triumph ISO 4 - Women's,Saucony,113,4.079646017699115,2018-01-30T02:49:35.000+00:00,2020-03-03T21:40:40.000+00:00
+Triumph,288207,Saucony Triumph ISO 4 - Men's,Saucony,139,3.8992805755395685,2017-11-17T04:04:27.000+00:00,2019-10-19T17:47:04.000+00:00
+Triumph,275006,Saucony Triumph ISO 3 - Men's,Saucony,4,4.25,2017-04-28T00:05:42.000+00:00,2017-11-22T03:05:35.000+00:00
+Triumph,273705,Saucony Triumph ISO 3 - Women's,Saucony,8,4.875,2017-04-04T22:08:36.000+00:00,2018-01-25T23:40:10.000+00:00
+Triumph,243478,Saucony Triumph 12 - Women's,Saucony,0,,,
+Triumph,237035,Saucony Triumph 11 - Men's,Saucony,0,,,
+Triumph,233137,Saucony Triumph 11 - Women's,Saucony,0,,,
+Triumph,233133,Saucony Triumph 10 - Women's,Saucony,0,,,
+Triumph,233125,Saucony Powergrid Triumph 10 - Women's,Saucony,0,,,
+Triumph,232866,Saucony Triumph 10 - Men's,Saucony,0,,,
+Triumph,231114,Saucony Triumph ISO - Women's,Saucony,2,5.0,2015-10-28T12:36:02.000+00:00,2015-10-28T22:47:25.000+00:00
+Triumph,231100,Saucony Triumph ISO - Men's,Saucony,1,5.0,2015-10-28T17:20:08.000+00:00,2015-10-28T17:20:08.000+00:00
+Triumph,209442,Saucony Triumph 11 - Women's,Saucony,0,,,
+Triumph,209408,Saucony Triumph 11 - Men's,Saucony,0,,,
+Triumph,190121,Saucony Triumph 10 - Men's,Saucony,2,4.5,2013-11-12T21:45:44.000+00:00,2013-11-30T18:36:48.000+00:00
+Triumph,173974,Lugz Triumph - Men's,Lugz,4,3.75,2012-04-02T15:58:38.000+00:00,2012-11-25T07:47:07.000+00:00

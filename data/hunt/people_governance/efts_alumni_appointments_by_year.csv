@@ -1,0 +1,85 @@
+term,year,filings_502,total_hits_any_8k
+Nike,2015,3,8
+Nike,2016,3,7
+Nike,2017,5,10
+Nike,2018,3,7
+Nike,2019,9,15
+Nike,2020,4,8
+Nike,2021,11,21
+Nike,2022,10,19
+Nike,2023,9,20
+Nike,2024,10,18
+Nike,2025,13,29
+Nike,2026,5,11
+adidas,2015,0,0
+adidas,2016,0,0
+adidas,2017,0,0
+adidas,2018,0,0
+adidas,2019,0,1
+adidas,2020,1,1
+adidas,2021,3,3
+adidas,2022,1,1
+adidas,2023,1,1
+adidas,2024,1,1
+adidas,2025,4,6
+adidas,2026,1,2
+Lululemon,2015,0,1
+Lululemon,2016,0,1
+Lululemon,2017,1,1
+Lululemon,2018,0,1
+Lululemon,2019,0,1
+Lululemon,2020,0,1
+Lululemon,2021,1,1
+Lululemon,2022,0,0
+Lululemon,2023,0,0
+Lululemon,2024,2,3
+Lululemon,2025,2,7
+Lululemon,2026,1,2
+Under Armour,2015,0,5
+Under Armour,2016,0,4
+Under Armour,2017,1,3
+Under Armour,2018,0,0
+Under Armour,2019,0,1
+Under Armour,2020,1,7
+Under Armour,2021,2,3
+Under Armour,2022,3,5
+Under Armour,2023,5,6
+Under Armour,2024,4,6
+Under Armour,2025,4,10
+Under Armour,2026,1,2
+Procter & Gamble,2015,10,13
+Procter & Gamble,2016,14,20
+Procter & Gamble,2017,12,14
+Procter & Gamble,2018,13,18
+Procter & Gamble,2019,7,12
+Procter & Gamble,2020,11,27
+Procter & Gamble,2021,18,26
+Procter & Gamble,2022,18,26
+Procter & Gamble,2023,23,30
+Procter & Gamble,2024,10,16
+Procter & Gamble,2025,10,16
+Procter & Gamble,2026,15,20
+PepsiCo,2015,16,23
+PepsiCo,2016,18,28
+PepsiCo,2017,10,21
+PepsiCo,2018,13,34
+PepsiCo,2019,32,47
+PepsiCo,2020,12,24
+PepsiCo,2021,17,52
+PepsiCo,2022,23,47
+PepsiCo,2023,20,40
+PepsiCo,2024,21,40
+PepsiCo,2025,22,44
+PepsiCo,2026,22,44
+Starbucks,2015,4,10
+Starbucks,2016,6,9
+Starbucks,2017,8,13
+Starbucks,2018,8,13
+Starbucks,2019,6,12
+Starbucks,2020,4,11
+Starbucks,2021,9,18
+Starbucks,2022,6,14
+Starbucks,2023,3,6
+Starbucks,2024,9,14
+Starbucks,2025,6,12
+Starbucks,2026,6,8

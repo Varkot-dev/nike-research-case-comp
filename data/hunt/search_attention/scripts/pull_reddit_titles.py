@@ -14,6 +14,8 @@ UA = "NikeCaseCompResearch/1.0 (academic)"
 SUBS = ["RunningShoeGeeks", "Sneakers", "malefashionadvice", "femalefashionadvice", "running"]
 if len(sys.argv) > 2:
     SUBS = sys.argv[2].split(",")
+# Optional 3rd arg "full": take whole calendar months and every month 2019-2026 (used for the low-volume deal subs)
+FULL = len(sys.argv) > 3 and sys.argv[3] == "full"
 # Throughput is about one file per minute, so months are thinned: every month from 2023-01,
 # and Jan / Apr / Jul / Oct only for 2019 to 2022.
 BASE = "https://arctic-shift.photon-reddit.com/api/posts/search"
@@ -37,7 +39,7 @@ def get(params):
 months = []
 d = datetime.date(2019, 1, 1)
 while d <= datetime.date(2026, 10, 1):
-    if d.year >= 2023 or d.month in (1, 4, 7, 10):
+    if FULL or d.year >= 2023 or d.month in (1, 4, 7, 10):
         months.append(d)
     d =(d.replace(day=28) + datetime.timedelta(days=5)).replace(day=1)
 
@@ -48,9 +50,13 @@ for m in reversed(months):  # newest first so the most relevant period lands fir
         if os.path.exists(fn):
             continue
         start = int(datetime.datetime(m.year, m.month, 1, tzinfo=datetime.timezone.utc).timestamp())
-        end = start + 7 * 86400
+        if FULL:
+            nxt = (m.replace(day=28) + datetime.timedelta(days=5)).replace(day=1)
+            end = int(datetime.datetime(nxt.year, nxt.month, 1, tzinfo=datetime.timezone.utc).timestamp())
+        else:
+            end = start + 7 * 86400
         after, rows, ok = start, [], True
-        for _ in range(60):
+        for _ in range(200):
             data = get({"subreddit": sub, "after": after, "before": end, "sort": "asc", "limit": "auto",
                         "fields": "created_utc,score,num_comments,title"})
             time.sleep(1.5)

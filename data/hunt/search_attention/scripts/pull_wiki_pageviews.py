@@ -60,6 +60,7 @@ ARTICLES = [
 # the OLD title and the new title only shows redirect hits before the move date. Pulled WITHOUT resolving.
 EXACT = [
     ("en.wikipedia", "hoka_oldtitle", "Hoka One One"),
+    ("en.wikipedia", "hoka_oldtitle2", "Hoka (brand)"),
     ("en.wikipedia", "air_force_1_oldtitle", "Air Force 1 (shoe)"),
     ("en.wikipedia", "converse_oldtitle", "Converse (shoe company)"),
     ("en.wikipedia", "lululemon_oldtitle", "Lululemon Athletica"),
