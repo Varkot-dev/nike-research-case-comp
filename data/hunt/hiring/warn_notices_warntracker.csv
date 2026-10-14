@@ -1,0 +1,37 @@
+slug,company,raw_name,state,city,notice_date,layoff_date,workers
+nike,Nike,"NIKE Retail Services, Inc.",TN,Shelby County,2026-01-27,,583
+nike,Nike,"NIKE Retail Services, Inc.",NY,New York,2025-10-31,2026-01-31,87
+nike,Nike,"NIKE, Inc.",OR,Beaverton,2024-04-19,2024-06-28,740
+nike,Nike,Nike,OR,Beaverton,2020-07-23,2020-10-01,308
+nike,Nike,Nike - Childcare,OR,Beaverton,2020-07-23,2020-10-01,192
+nike,Nike,Nike,OR,Beaverton,2020-07-23,2020-07-23,700
+nike,Nike,Nike (Lifeworks) - Beaverton,OR,Beaverton,2020-07-20,2020-10-20,66
+nike,Nike,Nike (Lifeworks) - Beaverton,OR,Beaverton,2020-07-20,2020-09-25,355
+nike,Nike,Nike (Lifeworks) - Hillsboro,OR,Hillsboro,2020-07-20,2020-09-25,23
+nike,Nike,Nike,OR,Beaverton,2017-08-31,2017-09-30,490
+nike,Nike,Nike,OR,Beaverton,2017-08-31,2017-07-31,255
+nike,Nike,Niketown,IL,Chicago,2012-02-17,2012-04-01,140
+nike,Nike,Nike,OR,Beaverton,2009-05-14,2009-04-03,500
+nike,Nike,Nike,OR,Beaverton,2009-04-07,2009-06-13,17
+nike,"NIKE Retail Services, Inc","NIKE Retail Services, Inc",MS,"Byhalia, Marshall County",2026-01-26,2026-04-03,193
+under-armour,Under Armour,Under Armour Nashville Distribution House,TN,Wilson County,2020-04-17,2020-04-12,323
+under-armour,Under Armour,Under Armour,MD,Sparrows Point,2020-04-03,2020-04-12,154
+under-armour,Under Armour,Under Armour Rialto Distribution House,CA,Rialto,2020-04-03,2020-04-12,155
+under-armour,Under Armour,Under Armour,MD,Baltimore,2019-02-25,2019-03-08,50
+under-armour,"Under Armour, Inc.","Under Armour, Inc.",CA,Rialto,2019-02-20,2019-04-22,111
+lululemon,Lululemon,lululemon usa inc. - New York City Region,NY,New York,2023-09-27,2023-12-27,119
+lululemon,lululemon usa inc.,lululemon usa inc.,WA,Sumner,2024-04-18,2024-06-21,128
+lululemon,lululemon usa inc.,lululemon usa inc.,NY,New York,2023-10-02,2023-12-27,119
+lululemon,lululemon usa inc.,lululemon usa inc.,NY,New York,2023-09-27,2023-12-27,119
+vf-corporation,VF Corporation,VF Corporation,KS,Lenexa,2006-04-10,,93
+vf-corporation,VF Corporation,VF Corporation,PA,Philadelphia,,2025-01-25,17
+foot-locker,Foot Locker,"Foot Locker Corporate Services, Inc.",WI,Oshkosh,2023-01-23,2023-04-25,97
+foot-locker,"Foot Locker, Inc.","Foot Locker, Inc.",WI,Wausau,2022-10-18,2023-01-31,210
+foot-locker,Foot Locker,"Foot Locker Corporate Services, Inc.",WI,Milwaukee,2021-03-31,2021-05-30,22
+foot-locker,Foot Locker,Foot Locker,WI,"Appleton, Brookfield, Glendale, Green Bay, Greendale, La Crosse, Madison, Milwaukee, Racine, Wauwatosa",2020-04-28,2020-04-26,261
+foot-locker,Foot Locker,Foot Locker - Highland Center,CA,Los Angeles,2020-04-27,2020-04-26,79
+foot-locker,Foot Locker,Foot locker - Beverly Center,CA,Los Angeles,2020-04-27,2020-04-26,29
+foot-locker,"Foot Locker Retail, Inc. Office","Foot Locker Retail, Inc. Office",NY,"112 W 34th Street  New York, NY, 10120",2010-01-11,,
+converse,"Converse, Inc.","Converse, Inc.",CA,Ontario,2024-09-16,2024-11-15,31
+converse,"Converse, Inc.","Converse, Inc.",CA,Ontario,2024-09-16,2024-11-15,46
+converse,"Converse, Inc.","Converse, Inc.",TX,Mission,2001-01-22,2001-03-31,130
