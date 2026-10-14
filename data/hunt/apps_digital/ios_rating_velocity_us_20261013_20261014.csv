@@ -1,0 +1,12 @@
+snapshot_date,storefront,track_id,app_name,seller,rating_count_all_time,avg_rating,rating_count_current_version,version,current_version_date,first_release_date,now,delta,per_day,per_day_per_100k_base
+2026-10-13,US,1095459556,Nike: Engineered for Athletes,"Nike, Inc",1698598,4.882,1698598,26.47.1,2026-10-07,2016-08-02,1698608,10,21.3,1.25
+2026-10-13,US,911130812,Nike SNKRS: Sneakers & Apparel,"Nike, Inc",1412303,4.857,1412303,8.7.2,2026-09-30,2015-02-12,1412312,9,19.2,1.36
+2026-10-13,US,387771637,Nike Run Club: Running Coach,"Nike, Inc",419514,4.772,419514,7.79.3,2026-09-02,2010-09-06,419541,27,57.5,13.71
+2026-10-13,US,301521403,Nike Training Club,"Nike, Inc",282275,4.849,282275,6.72.1,2026-05-19,2009-01-15,282294,19,40.5,14.35
+2026-10-13,US,1266591536,adidas: Shop Shoes & Clothing,Adidas International Marketing B.V.,825603,4.889,825603,6.16.0,2026-09-28,2017-11-03,825726,123,262.1,31.75
+2026-10-13,US,1508115448,CONFIRMED | Sneakers & more,Adidas International Marketing B.V.,174627,4.845,174627,6.16.0,2026-09-25,2020-08-25,174631,4,8.5,4.87
+2026-10-13,US,336599882,adidas Running: Run tracker,Adidas International Marketing B.V.,108636,4.8,108636,14.11.1,2026-10-06,2009-11-23,108650,14,29.8,27.43
+2026-10-13,US,6449706677,On: Shop Shoes & Apparel,On AG,75610,4.93,75610,2.5.3,2026-10-09,2024-04-16,75645,35,74.6,98.66
+2026-10-13,US,920098546,lululemon,lululemon athletica canada inc.,534032,4.895,534032,9.41.0,2026-10-12,2014-10-02,534114,82,174.7,32.71
+2026-10-13,US,1563024677,PUMA | Clothes & Sneakers App,PUMA SE,114541,4.92,114541,3.1.1,2026-05-25,2022-07-04,114566,25,53.3,46.53
+2026-10-13,US,300235330,ASICS Runkeeper-Run Tracker,"ASICS Runner App, Inc.",380378,4.825,380378,16.32,2026-10-07,2009-01-14,380406,28,59.7,15.69
