@@ -1,0 +1,6 @@
+test,nike_linked,benchmark,gap_pts,rule,result
+"T1 Converse vs clean peers, Jul-Sep YoY",-28.0,-19.0,-9.0,SHORT if gap < -10; NEUTRAL within 10; LONG if above,NEUTRAL
+"T1b Converse vs clean peers, Jul-Sep 2026 vs 2024",-44.6,-2.0,-42.6,same thresholds (supplementary),SHORT
+T2a Nike Canada consignee Jul-Sep YoY vs US footwear imports Jul-Aug YoY,92.9,-1.4,94.3,part of T2,"rises, beats market"
+T2b strict factory leaks (non-break names only) Jul-Sep YoY,18.3,-1.4,,breadth: risers among 6 strict names = 4 (all) / 2 of 3 non-break names; need 3+ without break names,INCONCLUSIVE (breadth fails once visibility-break names are removed)
+"T3 holiday loading Jul-Sep avg / Jan-Jun avg, 2026 vs 2025",Nike Canada 0.58->1.5; strict factories 1.29->1.24; Converse 0.81->1.59,clean peer median 1.09->0.94; US footwear imports 1.09->1.11,,LONG if Nike-linked ratios rise while peers fall,"LONG-leaning (weak: small, visibility-prone samples)"

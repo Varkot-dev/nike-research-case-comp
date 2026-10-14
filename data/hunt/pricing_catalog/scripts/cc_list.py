@@ -14,7 +14,8 @@ for c in colls:
     if os.path.exists(fn) and os.path.getsize(fn)>0: continue
     for pfx in ["www.nike.com/w/"]:
         np=curl(f"https://index.commoncrawl.org/{c}-index?url={pfx}&matchType=prefix&showNumPages=true")
-        pages=json.loads(np)["pages"] if np else 0
+        try: pages=json.loads(np)["pages"]
+        except Exception: print("skip",c,flush=True); continue
         data=b""
         for p in range(pages):
             d=curl(f"https://index.commoncrawl.org/{c}-index?url={pfx}&matchType=prefix&output=json&fl=url,timestamp,status,filename,offset,length,mime&page={p}")

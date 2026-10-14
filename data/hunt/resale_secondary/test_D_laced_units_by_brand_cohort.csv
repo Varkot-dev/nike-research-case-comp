@@ -1,0 +1,66 @@
+group,cohort,n_products,units_28d,share_of_all_units,median_units_per_product,mean_units_per_product,share_products_zero_sales
+ASICS,2024,85,36,0.0497,0,0.42,0.906
+ASICS,2025,112,36,0.0497,0.0,0.32,0.875
+ASICS,2026,33,15,0.0207,0,0.45,0.879
+ASICS,all,263,106,0.1464,0,0.4,0.867
+ASICS,pre2024,33,19,0.0262,0,0.58,0.727
+ASICS Gel-1130,line_all,89,35,0.0483,0,0.39,0.831
+ASICS Gel-NYC,line_all,95,8,0.011,0,0.08,0.937
+ASICS Kayano 14,line_all,79,63,0.087,0,0.8,0.823
+Birkenstock,2024,3,0,0.0,0,0,1.0
+Birkenstock,2025,4,0,0.0,0.0,0,1.0
+Birkenstock,all,20,0,0.0,0.0,0,1.0
+Birkenstock,pre2024,13,0,0.0,0,0,1.0
+Birkenstock Boston,line_all,20,0,0.0,0.0,0,1.0
+Jordan,2024,89,106,0.1464,0,1.19,0.719
+Jordan,2025,117,154,0.2127,0,1.32,0.744
+Jordan,2026,47,34,0.047,0,0.72,0.83
+Jordan,all,700,402,0.5552,0.0,0.57,0.807
+Jordan,pre2024,447,108,0.1492,0,0.24,0.839
+Jordan AJ1 High,line_all,100,9,0.0124,0.0,0.09,0.92
+Jordan AJ1 Low,line_all,100,60,0.0829,0.0,0.6,0.74
+Jordan AJ1 Mid,line_all,100,30,0.0414,0.0,0.3,0.78
+Jordan AJ11,line_all,100,17,0.0235,0.0,0.17,0.89
+Jordan AJ3,line_all,100,12,0.0166,0.0,0.12,0.92
+Jordan AJ4,line_all,100,258,0.3564,1.0,2.58,0.46
+Jordan AJ5,line_all,100,16,0.0221,0.0,0.16,0.94
+NB 1906,line_all,98,6,0.0083,0.0,0.06,0.959
+NB 2002R,line_all,100,5,0.0069,0.0,0.05,0.96
+NB 530,line_all,56,0,0.0,0.0,0,1.0
+NB 550,line_all,100,0,0.0,0.0,0,1.0
+NB 9060,line_all,100,1,0.0014,0.0,0.01,0.99
+NB 990,line_all,34,0,0.0,0.0,0,1.0
+New Balance,2024,99,4,0.0055,0,0.04,0.97
+New Balance,2025,117,1,0.0014,0,0.01,0.991
+New Balance,2026,17,0,0.0,0,0,1.0
+New Balance,all,488,12,0.0166,0.0,0.02,0.982
+New Balance,pre2024,255,7,0.0097,0,0.03,0.98
+Nike,2024,144,24,0.0331,0.0,0.17,0.875
+Nike,2025,196,42,0.058,0.0,0.21,0.852
+Nike,2026,80,12,0.0166,0.0,0.15,0.887
+Nike,all,726,156,0.2155,0.0,0.21,0.868
+Nike,pre2024,306,78,0.1077,0.0,0.25,0.869
+Nike AF1,line_all,100,53,0.0732,0.0,0.53,0.81
+Nike Air Max 1,line_all,100,12,0.0166,0.0,0.12,0.88
+Nike Air Max 90,line_all,100,5,0.0069,0.0,0.05,0.95
+Nike Air Max 95,line_all,97,26,0.0359,0,0.27,0.835
+Nike Air Max TN,line_all,29,1,0.0014,0,0.03,0.966
+Nike Dunk Low,line_all,100,40,0.0552,0.0,0.4,0.7
+Nike P-6000,line_all,100,15,0.0207,0.0,0.15,0.9
+Nike Shox,line_all,100,4,0.0055,0.0,0.04,0.97
+Saucony,2024,10,0,0.0,0.0,0,1.0
+Saucony,2025,13,1,0.0014,0,0.08,0.923
+Saucony,2026,6,15,0.0207,2.5,2.5,0.167
+Saucony,all,36,17,0.0235,0.0,0.47,0.806
+Saucony,pre2024,7,1,0.0014,0,0.14,0.857
+Saucony Omni 9,line_all,36,17,0.0235,0.0,0.47,0.806
+adidas,2024,202,12,0.0166,0.0,0.06,0.955
+adidas,2025,186,5,0.0069,0.0,0.03,0.978
+adidas,2026,31,8,0.011,0,0.26,0.935
+adidas,all,500,31,0.0428,0.0,0.06,0.96
+adidas,pre2024,81,6,0.0083,0,0.07,0.938
+adidas Campus,line_all,100,1,0.0014,0.0,0.01,0.99
+adidas Gazelle,line_all,100,7,0.0097,0.0,0.07,0.95
+adidas Samba,line_all,100,21,0.029,0.0,0.21,0.88
+adidas Spezial,line_all,100,2,0.0028,0.0,0.02,0.98
+adidas Superstar,line_all,100,0,0.0,0.0,0,1.0
