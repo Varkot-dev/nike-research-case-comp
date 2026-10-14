@@ -88,3 +88,45 @@ python3 -I scripts/robustness.py OUTDIR
 - Reddit JSON: HTTP 403.
 - FRED CSV: connection failed (ECB rates via frankfurter were used instead).
 - Wikipedia pageviews API: worked, but was rate limited for some articles. It is not used here because it is outside the resale scope.
+
+## Checker review
+
+Reviewed 2026-10-14 by a second session. Scripts added: `scripts/checker_deep_pull.py` (pulls search page 4, ranks 151 to 200, for 8 lines), `scripts/checker_deep_test.py` (writes `checker_deep_rank_compare.csv`). New raw files: `raw/checker_deep_*.jsonl.gz` (401 products, of which 49 overlap the original universe and are ignored).
+
+### Re-pulls (does the raw data match the source?)
+
+- **SNKRDUNK product records (3/3 match).** Panda Dunk DD1391-100 (id 22264, JP release 2021-07-01, retail 15,400), AJ1 High Patent Bred 555088-063 (id 5958, 2022-01-15, 19,250), Samba OG B75806 (id 33168, 2023-10-16, 15,950). All match `snkrdunk_products.csv`.
+- **SNKRDUNK trade histories (12/12 product-months match).** For the same 3 products, trade days and median daily price for Jul and Sep 2025 and Jul and Sep 2026 match `snkrdunk_product_month.csv` exactly (for example Panda Sep 2025 30 days at 9,758 and Sep 2026 25 days at 11,298; Samba Sep 2026 22 days at 13,344). The chart has one point per day, no duplicate dates, and no downsampling of older years (Panda has 365 points in each of 2021 to 2024).
+- **Search order is stable.** Page 1 for "nike dunk low" and "adidas samba" re-pulled: same 50 products in the same order.
+- **Laced (3/3 match).** `sold_in_last_28_days` for Black Cat AJ4 2025 (51), its GS version (21) and Kayano 14 Metropolis (17) match. No duplicate slugs.
+- **SneakerPing (match).** The page (now redirects to sneakerping.com without www) shows Jordan 605 / 70.7% / -20.0%, Nike 1,591 / 61.6% / -12.4%, New Balance 382 / 61.0% / -13.8%, adidas 378 / 59.8% / -10.7%, ASICS 133 / 42.9% / +4.8%. Note: last sales were observed only between 4 July and 18 August 2026, so this is one snapshot, not a trend.
+- **FX (match).** USD/JPY Sep 2025 147.93, Sep 2026 156.39, Jul 2026 162.51 re-pulled from frankfurter (the API now 301-redirects; follow redirects).
+- **Rebuild.** Running `snkrdunk_clean.py`, `tests.py` and `robustness.py` on the raw shards reproduces both tidy CSVs byte for byte and every headline number in the summary.
+
+### Cleaning issues found
+
+1. **The universe is a heavily truncated, popularity-ranked sample, and the truncation differs by brand.** 31 of 32 keywords hit the 150 cap. SNKRDUNK reports far more matches: Dunk Low 1,965, AF1 4,003, AJ1 High 952, AJ1 Low 1,350, Samba 1,003, but Kayano 14 only 159, Gel-NYC 200, Gel-1130 179. So Nike lines are sampled at 4% to 16% of their catalog and several rival lines at 75% to 100%. Within the sample, the 2025 to 2026 trade-day change falls steeply with search rank (Nike+Jordan: ranks 1 to 50 +9.4%, 51 to 100 -12.9%, 101 to 150 -22.4%; rivals -16.7%, -32.8%, -43.7%). Relevance is clearly correlated with current trading. The README's caveat mentions search relevance but not that this selects on the outcome.
+2. **The deeper-rank test clears the main worry for Test B.** I pulled ranks 151 to 200 for Dunk Low, AJ1 High, AF1, AJ4, Samba, Gazelle, 2002R and Mexico 66. Jan to Sep trade days: Nike+Jordan -4.6% (ranks 151 to 200) vs -2.7% (top 150); rivals -61.2% vs -31.5%. The deeper sample makes rivals look worse, not Nike. The relative result holds.
+3. **The "-2.4%" level for Nike+Jordan is flattered by new releases.** On a fixed cohort (products released before 2025), trade days are Nike+Jordan -22.3% and rivals -44.7%; for products released before 2024, -18.2% vs -34.1%. Nike's resale activity is shrinking in absolute terms; it is shrinking about half as fast as rivals'.
+4. **The daily cap matters more than the README says.** Only 5.7% (Nike+Jordan) and 2.6% (rivals) of 2026 product-months are at 27 or more days, but those months hold 29% and 24% of 2025 trade days. The cap compresses changes in both directions; it does not only understate Nike. I checked: excluding every product that was capped in any 2025 month gives Nike+Jordan -0.2% vs rivals -22.1%, so the cap does not drive the result.
+5. **FX effect is about 8 points, not 6, for the Q3 test.** Q3 average USD/JPY was 149.12 (2024), 147.51 (2025), 159.23 (2026), so +7.9% in Q3 2026. In USD terms the same-product YoY is Nike+Jordan -12.3% (Q3 2025) to -9.5% (Q3 2026) and rivals -10.1% to -5.5%. In dollars, Nike resale prices are still falling, just more slowly. Whether to deflate a domestic yen market by USD/JPY is debatable (Japanese buyers pay yen), so the yen number and the USD number bracket the truth.
+6. **Retail price direction is stated backwards.** `regularPriceJP` looks like the latest restock price, not the launch price: the Panda Dunk (2021 release) carries 15,400, above its 2021 Japan price. If Nike raised JP retail after a 2025 release, that release's premium is understated, which flatters the 2026H1 vs 2025 improvement. The README says the bias runs against a Nike improvement; it can run in its favour. The size cannot be measured from this data.
+7. Minor: 2 products are miscoded to brand groups "asics" and "newbalance" (typo names: "Asiccs", "New Blance"); they drop out of `tests.py` but are counted as rivals in `robustness.py`. Immaterial.
+
+### Re-run of the tests
+
+- **Test A (same-product YoY price).** Reproduced: Nike+Jordan -13.2% (n=461) to -2.3% (n=567); rivals -11.1% to +2.0%; Dunk Low -12.7% to +3.8%; AF1 -4.2% to +7.3%; AJ1 High -15.4% to -14.7%; AJ4 -14.0% to -4.7%. Not sensitive to search rank (Nike+Jordan Q3 2026: ranks 1 to 50 -4.5%, 51 to 100 -0.6%, 101 to 150 +2.6%; ranks 151 to 200 from the new pull +9.8%). **Holds**, with the FX correction above. Verdict NEUTRAL, moderate, stands; in USD terms it leans slightly SHORT because rivals improved more.
+- **Test B (trade days by brand).** Reproduced: Nike+Jordan 54,055 to 52,757 (-2.4%), rivals 23,383 to 18,082 (-22.7%), share 69.8% to 74.5%. Robust to the cap, to fixed cohorts and to deeper ranks. **Holds as a relative finding (LONG, moderate)**, but the absolute picture is a shrinking resale market for Nike too (-18% to -22% on fixed cohorts). Resale volume is still not retail demand.
+- **Test C (launch premium DiD).** Reproduced: +22.8 points, CI (+5.7, +30.4). It does not survive simple checks:
+  - Men's sizes only (drop names with GS, women's, WMNS, TD, PS, kids): Nike+Jordan 2026H1 median **-7.7%** (n=29) vs -12.7% in 2025 (n=58), rivals 0.0% vs +4.3%; DiD **+9.3 points, CI (-2.6, +22.7)**. The headline +2.5% for 2026H1 depends on kids' and women's releases (18 of 47 Nike+Jordan 2026H1 releases vs 13 of 71 in 2025).
+  - Releases with at least 5 trade days in months 1 to 3: DiD +16.1, CI (-1.5, +31.1).
+  - 2026H1 vs 2025H2 only: +16.4, CI (-0.9, +31.0).
+  - Placebo on earlier cohorts: 2024 vs 2023 gives -12.4 points with a CI that excludes zero, so half-year cohort DiDs of plus or minus 12 points occur without any regime change.
+  - Rivals excluding adidas: +21.1 (it is not only adidas fading).
+  - Verdict: **downgrade from LONG moderate to LONG weak.** New Nike+Jordan men's launches still resell below retail in 2026H1; they are less bad than in 2025, and the remaining edge over rivals is not statistically clear.
+- **Test D (Laced).** Reproduced: 724 pairs, Nike 21.5% and Jordan 55.5% (77% together) vs 52% of listed products. Ex the top 10 products the Nike+Jordan share is still 75%. Single snapshot, so it supports the level, not a trend.
+- **Running and SneakerPing.** Numbers match the sources. Verdicts (INCONCLUSIVE weak; NEUTRAL moderate) stand.
+
+### Net
+
+What holds: the data are faithfully pulled and cleaned, and the tests reproduce exactly. Nike and Jordan are losing resale activity much more slowly than rivals, and this survives deeper ranks, fixed cohorts and the cap check. Dunk and AF1 resale prices stopped falling in yen terms; AJ1 High has not. What does not hold: "the resale price decline has stopped" is largely a weak-yen effect (about 8 points, not 6; in USD Nike+Jordan is still about -9.5% YoY), the -2.4% Nike volume figure hides a -18% to -22% decline on fixed cohorts, and the launch-premium LONG signal mostly comes from kids' and women's sizes and fails significance on men's sizes. Overall the resale folder supports a weak to moderate LONG on relative brand position versus rivals, not on absolute recovery.

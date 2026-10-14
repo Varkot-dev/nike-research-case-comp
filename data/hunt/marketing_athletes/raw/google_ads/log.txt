@@ -1,0 +1,11 @@
+retry HTTP Error 429: Too Many Requests
+retry HTTP Error 429: Too Many Requests
+retry HTTP Error 429: Too Many Requests
+retry HTTP Error 429: Too Many Requests
+retry HTTP Error 429: Too Many Requests
+retry HTTP Error 429: Too Many Requests
+FAILED Nike, Inc. 0
+done Nike, Inc. 0
+retry HTTP Error 429: Too Many Requests
+retry HTTP Error 429: Too Many Requests
+retry HTTP Error 429: Too Many Requests

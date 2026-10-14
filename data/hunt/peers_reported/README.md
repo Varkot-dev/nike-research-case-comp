@@ -51,3 +51,43 @@ Re-run order: 01, 02, 03 (needs a scratch dir), 04, 05, 06, 07, 08, 09, 10 (need
 - China domestic brands report retail sell-through as word ranges (for example "low-single-digit decline"); midpoints are my mapping (low single digit 2.5, mid 5, high 8, low teens 12, and so on). They measure retail sales, not company revenue.
 - All of this is sell-in (company revenue), not consumer sell-through, except the China domestic series. It cannot by itself separate channel fill from consumer demand.
 - Blocked or failed: FRED fredgraph CSV (HTTP/2 stream errors via proxy; ECB used instead); adidas Q3 2025 investor deck (image-only PDF, no text); some 2025 VF slide releases lack the Vans region table.
+
+## Checker review
+
+Reviewed 2026-10-14 by a second agent. Re-pulls went to the checker's scratchpad, not this folder. The robustness re-run is `scripts/20_checker_robustness.py`.
+
+### Re-pulled from original sources (all matched)
+- ECB Data API (EXR M.USD+CNY+JPY+CHF.EUR, 2025-03 to 2026-09): all 76 observations match `raw/fx/ecb_monthly_eur_rates.csv` exactly (max abs diff 0).
+- SEC XBRL instances, fetched again from EDGAR Archives with a generic User-Agent:
+  - Under Armour 10-Q 2026-06-30: North America CQ2 2026 = 609.777m. Matches.
+  - Crocs 10-Q: Crocs brand North America = 458.733m. Matches.
+  - Columbia 10-Q: US = 320.086m (prior year 335.117m, -4.49%). Matches.
+  - Lululemon 10-Q 2026-08-02: Americas = 1,616.772m (prior year 1,758.217m, -8.04%) and country:CN = 458.514m (+4.08%). Both match.
+  - Nike 10-Q 2026-08-31: North America = 5,127m, gross profit = 4,798m, inventory = 7,846m. All match.
+- HKEX PDFs re-downloaded: Xtep Q2 2026 (core brand mid-single-digit decline, discount 25 to 30%, Saucony low-single-digit growth, channel inventory 4.5 to 5 months), Li Ning Q2 2026 (low-single-digit decrease), Anta Q2 2026 (ANTA and FILA low-single-digit positive, other brands 25 to 30%). All match the extracted phrases.
+- adidas Q2 2026 results PDF, re-downloaded from the res.cloudinary.com link on the IR page: text is identical to `raw/adidas_text/`. North America is EUR 1,522m (+14% reported, +17% cc) and Greater China is EUR 953m (+19% reported, +15% cc). Both match.
+
+### Cleaning checks
+- No duplicate keys in `panel_growth_comparable.csv` or `panel_company_quarterly.csv`. I recomputed yoy revenue, yoy inventory and GM bps from the stored levels, and every value matches within rounding.
+- The T1 peer medians recompute exactly for all 82 region-quarters.
+- `panel_region_quarterly.csv` has 36 duplicate rows: On's CQ2 rows appear twice, once from SEC XBRL and once from the 6-K, with the same levels. T3 overwrites rather than sums them, so they do no harm there. One real bug remains. In CQ2 2022, On has both `Americas` and `North America` rows, and both `EMEA` and `EMEA (Europe pre-2023)` rows. T3 sums the region names in each list, so it double counts On in that quarter (about CHF 265m). This distorts the CQ2 2022 shares and the CQ2 2023 yoy share change only. It does not affect the latest tests.
+- The Lululemon rows labelled "China Mainland" actually hold the XBRL `country:CN` fact (USD 458.5m). That figure is mainland plus Hong Kong SAR, Taiwan and Macau. The mainland-only figure is 407.1m (+3.6% yoy in USD, against +4.1% for the CN aggregate). The label is wrong but the effect is small.
+- The Xtep "channel inventory turnover 4.5 to 5 months" in the Q2 2026 update covers the six months ended 30 June 2026, not the quarter. The series mixes quarterly and half-year bases, so treat the move from 4.5 to 4.75 as weak evidence.
+- Survivorship: the T3 share sets correctly leave out Skechers, which was taken private. But the T1 medians change membership between periods. Skechers is in for 2025H1 and then drops out, and Vans is missing for CQ2 to CQ4 2025.
+- Reproducibility gap: no URL manifest exists for adidas. The links could be recovered from the IR page.
+- FX: the CNY rose about 6% against the USD between mid 2025 and mid 2026. This is why Nike Greater China shows -12% reported but -17% cc in CQ2 2026, and why Lululemon China flips from +4% (USD) to -2% (CNY). The basis is applied consistently.
+
+### Re-run of tests
+- **T1 North America (claimed LONG, moderate): DOES NOT HOLD.** The headline numbers reproduce (last two quarters +1.32 vs prior four +0.46). But the 0.9pp difference is a tenth of the 10pp standard deviation of the quarterly gaps, and the sign flips under reasonable variants:
+  - Balanced panel (only the 9 peers present in all six quarters): last2 -0.22 vs prev4 +0.92, which points SHORT.
+  - Athletic peers only (adidas, ASICS, On, Amer, Puma, UA, Deckers US): last2 -9.5 vs prev4 -6.3, which points SHORT.
+  - Nike shifted one quarter to line up its months with peers' calendar quarters: last2 +0.8 vs prev4 +2.2, which points SHORT.
+  - Verdict: NEUTRAL or inconclusive. North America is "not losing share in a broad peer set" (T3 share near 50% holds), but Nike is still losing ground to athletic peers.
+- **T3 shares: HOLD as computed.** One caveat: Nike's share sits near 50%, so even large peer growth moves it only slowly.
+- **T4 China (claimed SHORT, strong): HOLDS as SHORT, with a nuance.** Under the pre-set rule, the gap actually narrowed: vs foreign peers it went from -39.2 to -30.8, and vs domestic brands from about -17.8 to -16.8. That narrowing comes from peers slowing (Amer +47 to +27, Lululemon +42 to -2), not from Nike improving (Nike -10, -17, then -26 cc in Jun-Aug). Against adidas alone the gap did not narrow (2025: -28, -22, -20, -31; 2026: -27, -32). The domestic medians (6.5 and 0.0) reproduce. One more caveat: Nike's figures are sell-in while the domestic figures are retail sell-through, so a deliberate wholesale pull-back would overstate the gap. Strong SHORT is defensible because of Nike's own trend and the uninterrupted 7 to 8pp yearly share loss, not because of the gap-trend rule.
+- **T2 inventory (claimed NEUTRAL): DOES NOT HOLD under the hunter's own pre-set rule.** The numbers reproduce exactly: Nike +1.16pp vs a peer median of -1.35pp. Nike is 4th highest of 13. The pre-set rule says "above peer median and positive = SHORT", so the correct label is SHORT (weak). The magnitude is small, and peer inventory is inflated by tariff-cost capitalization and, for adidas, the World Cup build.
+- **T2b gross margin (claimed LONG, moderate): numbers HOLD, interpretation needs care.** The gap narrowed from -530 to -75 bps. About 310 bps of that came from Nike's yoy improving (-442 to -133). About 145 bps came from the peer median falling (+88 to -58) as tariffs hit peers. Nike's GM yoy was still negative in CQ1 2026. On a two-year stack, Nike CQ3 2026 is -257 bps vs CQ3 2024. The CQ2 2026 ex-credit GM of 40.17% vs 40.27% reproduces. Read this as weak LONG: the decline is ending, but no recovery has been shown.
+- **Europe (claimed SHORT, moderate): HOLDS, and gets slightly stronger.** On the balanced panel the gap widened (last2 -18.1 vs prev4 -14.9).
+
+### Net
+The data pulls are accurate and the arithmetic is clean. Two directional labels should change: North America moves from LONG to NEUTRAL, and inventory moves from NEUTRAL to weak SHORT. China SHORT holds on Nike's own decline and its share loss, not on the gap-trend rule. Gross margin is weak LONG at most.

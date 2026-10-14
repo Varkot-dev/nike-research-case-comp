@@ -122,3 +122,78 @@ this says nothing about the China floor.
   confluencerunning.com): Nike 0.00% (Q1 to Q2 2025), 0.31% (Q4 2025), 1.43% (2026 YTD); HOKA 19.17%,
   Brooks 17.05%, Saucony 12.46%, Topo 10.87%, New Balance 9.68%, Asics 8.43%, On 5.05%. One store, no
   methodology: anecdote of Nike re-entering run specialty from zero, not a market share.
+
+## Checker review
+
+Reviewed 2026-10-14 by a second agent. Checker scripts: `scripts/checker_t1_salomon_fix.py`,
+`scripts/checker_reddit_postlevel.py`, `scripts/checker_repull_arcticshift.py`; output table
+`checker_reddit_postlevel_monthly.csv`. `scripts/analyze_tests.py` re-ran on a copy of the tidy CSVs and reproduced
+`test_output_2026-10-14.txt` line for line (the script needs the repo path, not the hunt folder, for its `git show`
+call; it fails when pointed at a copy outside the repo).
+
+### Re-pulls from the original sources (all match)
+
+| Dataset | Points re-pulled | Stored | Live |
+|---|---|---|---|
+| Wikimedia pageviews (user agent) | Nike, Inc. 2019-03-15; Air Jordan 2025-08-10; Adidas 2026-10-12 | 5,089; 1,018; 1,748 | 5,089; 1,018; 1,748 (4th call hit 429) |
+| Tranco | list for 2026-10-01; nike.com rank 2026-10-01 | Y83YG, 642 | Y83YG, 642 (same 5 providers) |
+| Arctic Shift, r/RunningShoeGeeks first 7 days | 2024-04, 2025-09, 2026-09 post totals and nike/vomero title hits | 504 (20, 1); 203 (15, 12); 63 (3, 1) | 504 (20, 1); 203 (15, 12); 66 (3, 1). Archive gained 3 late posts |
+| Stocktwits NKE stream | ids 666439665, 666438854, 666438257 | Bullish/84, none/37,312, Bullish/143 | identical (follower count now 37,317) |
+| App Store lookup, Nike app | us, de, ca | 1,698,608; 69,601; 0 | 1,698,609; 69,601; 0 |
+
+### Cleaning problems found
+
+1. **Salomon counted twice in the rival set.** `salomon` and `salomon_oldtitle` are both the title "Salomon Group"
+   (identical every day), and the `_oldtitle` merge sums them. Fixed re-run (dropping the duplicate): Jun 1 to Oct 11
+   share 20.89% (2025) to 21.27% (2026), **+0.38 pp** (README said +0.29); drop-one-rival range -0.07 to +1.33 pp;
+   Aug 1 to Oct 11 +0.38 pp. Conclusion unchanged (flat). Extra windows the hunter did not report: Jan 1 to Oct 11
+   -0.41 pp, Sep 1 to Oct 11 -0.23 pp. Every window sits inside +/-1 pp, so "flat" holds. Excess-YoY tables (T3) are
+   ratios, so the duplicate does not affect them.
+2. **Reddit "Nike share of brand mentions" is built asymmetrically.** In `analyze_tests.py` the Nike side is the MAX of
+   the Nike term counts per month (for r/Sneakers: max of nike, jordan, dunk, af1, air_max), while the rival side is the
+   SUM of rival term counts. That throws away most Nike posts (e.g. a month with 100 Jordan, 50 Nike and 40 Dunk posts
+   counts 100) while double counting rival posts such as "adidas Samba". Recomputed at post level (a post counts once
+   for Nike if any Nike term matches, once for rivals if any rival term matches):
+   - r/Sneakers: 82.0% (2023), 77.4% (2024), 76.3% (2025H1), 75.0% (2025H2), 76.3% (2026H1), **68.5% (2026H2, Jul to
+     Oct)**. 2026 vs 2025: 73.7% vs 75.8%, z = -1.36, p = 0.17. 2026 vs 2023: z = -6.65, p < 0.001. 2026H2 vs 2025H2:
+     68.5% (n = 425) vs 75.0% (n = 949), about z = -2.5, p of about 0.01. Levels are far higher than the hunter's
+     (50 to 66%), but the direction and significance pattern is the same, and the recent half-year drop is now
+     significant. T3 SHORT reading holds.
+   - r/RunningShoeGeeks: 22.5% (2023), 22.8% (2024), 19.8% (2025H1), 20.5% (2025H2), 21.9% (2026H1), 24.1% (2026H2).
+     2026 vs 2025: 22.8% vs 20.1%, z = 1.18, p = 0.24. Same weak-LONG reading as T2, not significant.
+3. **Structural break in the Arctic Shift sample from October 2025.** 7-day post totals for r/RunningShoeGeeks fall from
+   about 200 to 300 a month to 55 to 105 from 2025-10 onward; r/running drops from 609 (2025-09) to 66 (2025-10) and
+   then rebounds to 400+ by mid 2026. A 10x one-month drop in r/running looks like an archive ingestion or subreddit
+   rule change, not real activity. Every "2026 vs 2025" Reddit comparison crosses this break, and 2026 samples are small
+   (r/RunningShoeGeeks 2026 has about 400 branded posts in total; 2026H2 Vomero rate rests on 10 mentions). Shares are
+   less exposed than counts, but if the break is moderation (e.g. low-effort "what shoe" posts removed), the mix of
+   surviving posts changed. Treat the Reddit tests as weak regardless of p-values.
+4. **r/sneakerdeals volume collapse from May 2026** (100 to 170 posts a month to 21 to 40, 6 in Oct). The "Nike 50% of
+   branded deals in Jul to Oct 2026" figure rests on 70 branded posts. The tidy file keeps no post id or title, so
+   duplicates cannot be checked (4,346 of 6,354 rows are identical on the kept columns, which is expected without an id).
+   Earlier halves have missing months (2021H1 4 months, 2022H1 3, 2022H2 2, 2023H1 5). INCONCLUSIVE label is right.
+5. **Nike Dunk and Nike Air Force titles are near-empty before 2023-12** (about 200 and 1,100 views a month, then
+   5,000+ and 7,000+). They were redirects or stubs before then, so `test_wiki_matched_window_yoy.csv` rows for 2024
+   (Dunk +2,016%, AF1 +628%) are artifacts. The T3 excess tables use only 2025 and 2026 windows, so T3 is not affected.
+6. **App Store Canada shows 0 ratings and 0.0 average for the Nike app** (confirmed live). This is an empty storefront
+   value, not a real zero; it should be NaN before any averaging.
+7. Stocktwits has 203 repeated message ids, but they are one message tagged with several cashtags (no repeat within a
+   symbol). NKE bullish share 61.0% of 2,352 tagged messages reproduces exactly.
+
+### Tests re-run
+
+- **T1 (attention share, Q1/Q7): HOLDS, NEUTRAL.** +0.38 pp after the Salomon fix; all windows within +/-1 pp. The
+  revenue validation (corr 0.41, n = 20) is not significant at 5% (p about 0.07), so the link from Wikipedia share to
+  revenue is suggestive only. Nike article views keep falling in absolute terms (Nike, Inc. monthly views about 275k in
+  Jun 2023, 75k to 83k in mid 2026), mostly Wikipedia-wide decline; the share measure is the right one.
+- **T2 (running enthusiasm, Q6): HOLDS as weak LONG,** with the Oct 2025 sample break as an extra caveat. Vomero's rise
+  is robust because it was already 44.6 per 1,000 in 2025H2, mostly from pre-break months.
+- **T3 (lifestyle classics, Q5): HOLDS, SHORT moderate.** Excess YoY numbers reproduce exactly. The post-level r/Sneakers
+  share (corrected metric) shows the same decline and a now significant Jul to Oct 2026 drop vs Jul to Dec 2025.
+- **T4 (World Cup control, Q3/Q7): HOLDS on numbers, weak LONG.** Aug 1 to Oct 11 Nike/adidas ratio: zh +17.3%, de +15.8%,
+  ja -2.6%, en +2.3% (reproduced). But Nike's own views are still down YoY in that window (zh -16%, de -3%, ja -31%,
+  en -19%); the ratio gain comes from adidas falling more (zh -29%, de -16%), which may be post World Cup fatigue for
+  adidas rather than Nike strength. In the prior year (Aug to Oct 2025 vs 2024) the ratio fell 11 to 19% in zh, de and
+  en, so 2026 is a reversal of that. Keep it weak.
+- **Supporting checks (Tranco, deals, Stocktwits): INCONCLUSIVE** stands. Tranco nike.com rank 642 on 2026-10-01 and
+  668 on 2026-10-13 (live API) confirms a slow slide, but list composition changes make cross-year comparisons unsafe.

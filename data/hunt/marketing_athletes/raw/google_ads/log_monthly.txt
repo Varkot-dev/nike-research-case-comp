@@ -1,0 +1,16 @@
+fail Nike, Inc. 2024-01 {'error': 'HTTP Error 429: Too Many Requests'}
+fail adidas America, Inc 2024-01 {'error': 'HTTP Error 429: Too Many Requests'}
+fail On AG 2024-01 {'error': 'HTTP Error 429: Too Many Requests'}
+fail New Balance Athletic Shoe, Inc. 2024-01 {'error': 'HTTP Error 429: Too Many Requests'}
+fail Nike, Inc. 2024-10 {'error': 'HTTP Error 429: Too Many Requests'}
+fail adidas America, Inc 2024-10 {'error': 'HTTP Error 429: Too Many Requests'}
+fail On AG 2024-10 {'error': 'HTTP Error 429: Too Many Requests'}
+fail New Balance Athletic Shoe, Inc. 2024-10 {'error': 'HTTP Error 429: Too Many Requests'}
+fail Nike, Inc. 2025-04 {'error': 'HTTP Error 429: Too Many Requests'}
+fail adidas America, Inc 2025-04 {'error': 'HTTP Error 429: Too Many Requests'}
+fail On AG 2025-04 {'error': 'HTTP Error 429: Too Many Requests'}
+fail New Balance Athletic Shoe, Inc. 2025-04 {'error': 'HTTP Error 429: Too Many Requests'}
+fail Nike, Inc. 2025-10 {'error': 'HTTP Error 429: Too Many Requests'}
+fail adidas America, Inc 2025-10 {'error': 'HTTP Error 429: Too Many Requests'}
+fail On AG 2025-10 {'error': 'HTTP Error 429: Too Many Requests'}
+fail New Balance Athletic Shoe, Inc. 2025-10 {'error': 'HTTP Error 429: Too Many Requests'}

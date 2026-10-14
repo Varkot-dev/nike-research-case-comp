@@ -1,0 +1,74 @@
+unreleased rows 12 of 13634
+published vs created gap>30d share 0.321
+pub 0-3m {'Nike': {'mean': 0.181, 'size': 990}, 'Jordan': {'mean': 0.155, 'size': 548}, 'adidas': {'mean': 0.05, 'size': 464}, 'New Balance': {'mean': 0.087, 'size': 277}, 'On': {'mean': 0.011, 'size': 185}, 'HOKA': {'mean': 0.135, 'size': 171}, 'ASICS': {'mean': 0.284, 'size': 345}}
+pub 0-6m {'Nike': {'mean': 0.25, 'size': 1737}, 'Jordan': {'mean': 0.246, 'size': 833}, 'adidas': {'mean': 0.14, 'size': 815}, 'New Balance': {'mean': 0.118, 'size': 570}, 'On': {'mean': 0.025, 'size': 316}, 'HOKA': {'mean': 0.19, 'size': 248}, 'ASICS': {'mean': 0.274, 'size': 620}}
+created 0-3m {'Nike': {'mean': 0.102, 'size': 697}, 'Jordan': {'mean': 0.126, 'size': 397}, 'adidas': {'mean': 0.014, 'size': 285}, 'New Balance': {'mean': 0.012, 'size': 166}, 'On': {'mean': 0.0, 'size': 124}, 'HOKA': {'mean': 0.04, 'size': 50}, 'ASICS': {'mean': 0.038, 'size': 184}}
+created 0-6m {'Nike': {'mean': 0.226, 'size': 1631}, 'Jordan': {'mean': 0.229, 'size': 851}, 'adidas': {'mean': 0.112, 'size': 717}, 'New Balance': {'mean': 0.062, 'size': 448}, 'On': {'mean': 0.019, 'size': 211}, 'HOKA': {'mean': 0.06, 'size': 166}, 'ASICS': {'mean': 0.146, 'size': 472}}
+LPM pub-age, small-sample corrected: {'brand_Nike': (np.float64(0.097), np.float64(0.082)), 'brand_Jordan': (np.float64(0.181), np.float64(0.117)), 'brand_On': (np.float64(-0.101), np.float64(0.082)), 'brand_HOKA': (np.float64(0.014), np.float64(0.093)), 'brand_New Balance': (np.float64(0.111), np.float64(0.076))}
+LPM created-age: {'brand_Nike': (np.float64(0.1), np.float64(0.086)), 'brand_Jordan': (np.float64(0.18), np.float64(0.115)), 'brand_On': (np.float64(-0.083), np.float64(0.091)), 'brand_HOKA': (np.float64(0.019), np.float64(0.096)), 'brand_New Balance': (np.float64(0.111), np.float64(0.08))}
+within-store fresh Nike-adidas: {'extrabutterny.com': 0.0, 'kith.com': 0.0, 'shoepalace.com': 0.154, 'sneakerpolitics.com': 0.021, 'undefeated.com': -0.219, 'www.apbstore.com': 0.0, 'www.lapstoneandhammer.com': 0.0, 'www.sneakersnstuff.com': 0.619, 'www.socialstatuspgh.com': 0.0} stores Nike higher 3 of 9
+classified running old vs new by brand:
+             run_old  run_new
+brand                        
+ASICS            997      468
+Brooks           235      188
+Converse           2        0
+HOKA             435      405
+Jordan            20        7
+New Balance      346      281
+Nike             954      937
+On               613      499
+Puma              25        7
+Reebok             2        0
+Salomon           75       67
+Saucony          326      259
+Vans               0        0
+adidas           507      161
+adidas old-running titles with 'cloud' but not new: ['Care Bears Superstar II Grade School Lifestyle Shoes (Lucid Pink/Cloud White/Collegiate Purple)', 'Pokemon x Adidas Superstar Quickon Charmander Infant Toddler Lifestyle Shoes (Orange/Cloud White/Equipment Green)', 'Pokemon x adidas Superstar II Mens Lifestyle Shoes ( Cloud White/Core Black/Gold Metallic)', 'Pokemon x Adidas Superstar II Pikachu Preschool Lifestyle Shoes (Cloud White/Core Black/Gold Metallic)', 'Pokemon x adidas Superstar Quickon Pikachu Infant Toddler Lifestyle Shoes (Yellow/Core Black/Cloud White)', 'Pokemon x adidas Superstar II Elastic Lace Infant Toddler Lifestyle Shoes (Cloud White /Core Black/Gold Metallic)', 'Pokemon x Superstar Quickon Pikachu Preschool Lifestyle Shoes (Yellow/Core Black/Cloud White)', 'Pokemon x Adidas Superstar II Grade School Lifestyle Shoes (Cloud White/Core Black/Gold Metallic)']
+Nike old-running not new: ["Nike Air Force 1 '07 Low 'Ghostface'", "Nike Ja 4 'Nightmare'", "Nike Air Force 1 Low '07 LX 'Sisterhood'", "Nike A'Two 'A'Pink Shoe'", "Nike  Lebron XXIII 'Shut Up & Dribble' Grade-School", 'WOMEN\'S NIKE DUNK HIGH SE "CLOUDS"', 'Nike Mens Shox Ride 2 Shoes', 'Nike Mens Shox Ride 2 Shoes']
+running (strict):
+              mean  size
+brand                   
+ASICS        0.329   468
+Brooks       0.346   188
+HOKA         0.240   405
+Jordan       0.429     7
+New Balance  0.342   281
+Nike         0.348   937
+On           0.118   499
+Puma         0.000     7
+Salomon      0.254    67
+Saucony      0.405   259
+adidas       0.099   161
+running strict ex Pacers:
+              mean  size
+brand                   
+ASICS        0.327   303
+Brooks       0.000    31
+HOKA         0.243   263
+Jordan       0.429     7
+New Balance  0.414   133
+Nike         0.382   815
+On           0.143   405
+Puma         0.000     7
+Salomon      0.254    67
+Saucony      0.511   139
+adidas       0.128   125
+running strict by store, Nike vs others:
+brand                           ASICS  Brooks  HOKA  New Balance  Nike    On  adidas
+store                                                                               
+bdgastore.com                    1.00     NaN   NaN          NaN  0.86   NaN     NaN
+cncpts.com                       0.00     NaN  0.00          NaN  0.00  0.00     NaN
+extrabutterny.com                0.10    0.00  0.28         1.00  0.17  0.25    0.20
+kith.com                         0.00     NaN  0.00         0.00  0.00  0.00    0.00
+pacersrunning.com                0.33    0.41  0.23         0.28  0.12  0.01    0.00
+shoepalace.com                   0.27     NaN  0.26          NaN  0.26  0.13    0.00
+sneakerpolitics.com              0.78    0.00  0.10         0.00  0.56  0.30    0.78
+undefeated.com                   0.50     NaN   NaN         0.00  0.00   NaN    1.00
+www.apbstore.com                  NaN     NaN   NaN          NaN  1.00   NaN    0.00
+www.dtlr.com                     0.55     NaN  0.00         0.46  0.79   NaN    1.00
+www.featuresneakerboutique.com   0.50     NaN  0.32          NaN  0.60  0.02    0.33
+www.lapstoneandhammer.com        0.03    0.00  0.00         0.00  0.00  0.00    0.25
+www.notre-shop.com               0.00     NaN  0.00          NaN  0.19   NaN    0.00
+www.sneakersnstuff.com            NaN     NaN   NaN          NaN  0.86  0.80    0.50
+www.socialstatuspgh.com          0.00     NaN   NaN          NaN  0.50  0.17    0.00

@@ -22,7 +22,7 @@ def walk(o, out, conts, path=""):
         if "lockupMetadataViewModel" in o:
             lm = o["lockupMetadataViewModel"]; parts = []
             for row in lm.get("metadata", {}).get("contentMetadataViewModel", {}).get("metadataRows", []):
-                for p in row.get("metadataParts", []): parts.append(p.get("text", {}).get("content", ""))
+                for p in row.get("metadataParts", []): parts.append(p.get("accessibilityLabel") or p.get("text", {}).get("content", ""))
             out.append((lm.get("title", {}).get("content"), parts))
         if "videoRenderer" in o:
             v = o["videoRenderer"]

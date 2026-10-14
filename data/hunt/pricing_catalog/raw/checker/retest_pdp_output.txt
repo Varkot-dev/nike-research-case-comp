@@ -1,0 +1,54 @@
+== T1 page-weighted ==
+all 4292 0.305 6257 0.31 diff 0.005 CI -0.013 0.023
+footwear 2082 0.304 2674 0.278 diff -0.026 CI -0.052 0.001
+apparel_equip 2210 0.306 3583 0.333 diff 0.027 CI 0.002 0.05
+nonfan 4118 0.309 5872 0.315 diff 0.007 CI -0.012 0.025
+== T1 crawl-month equal weights + cluster bootstrap over crawl-months ==
+all 2025 0.298 2026 0.304 mean month diff 0.006 months up 3 of 7 t-ish SE 0.024
+footwear 2025 0.3 2026 0.269 mean month diff -0.031 months up 2 of 7 t-ish SE 0.038
+== T1 category-mix reweighted (2025 Mar-Sep category weights applied to 2026) ==
+                      w25    w26
+cat                             
+basketball          0.062  0.051
+fan_gear            0.041  0.062
+jordan              0.173  0.145
+lifestyle_classics  0.148  0.124
+lifestyle_other     0.108  0.092
+other               0.250  0.246
+running             0.104  0.126
+soccer_football     0.033  0.042
+training            0.083  0.113
+2026 at 2025 mix 0.315 2025 actual 0.305
+== T1 within-URL matched (same URL seen in Mar-Sep 2025 and Mar-Sep 2026) ==
+n urls 406 2025 0.185 2026 0.402
+== Survivorship: share of pages whose style code first appears in panel >12m before capture ==
+2025 old-prefix share 0.833 disc fresh 0.17 disc old 0.332
+2026 old-prefix share 0.92 disc fresh 0.142 disc old 0.324
+== Jul-Sep split ==
+[3, 4, 5, 6] 0.299 0.265 -0.034 -0.058 -0.009
+[7, 8, 9] 0.31 0.36 0.05 0.024 0.076
+== T1 cluster bootstrap by crawl (Mar-Sep) ==
+all [-0.044  0.056] footwear [-0.081  0.038]
+== T2 DiD Aug-Sep, crawl cluster check ==
+                            size   mean
+window     coll                        
+AugSep2025 CC-MAIN-2025-33   502  0.273
+           CC-MAIN-2025-38  1259  0.343
+AugSep2026 CC-MAIN-2026-34  1215  0.384
+           CC-MAIN-2026-39   944  0.350
+                            size   mean
+window     coll                        
+AugSep2025 CC-MAIN-2025-33   501  0.515
+           CC-MAIN-2025-38   392  0.607
+AugSep2026 CC-MAIN-2026-34   621  0.718
+           CC-MAIN-2026-39   435  0.632
+all {'AugSep2025': {'adidas': 0.555, 'nike': 0.323}, 'AugSep2026': {'adidas': 0.683, 'nike': 0.369}} DiD -0.082
+nonfan {'AugSep2025': {'adidas': 0.569, 'nike': 0.326}, 'AugSep2026': {'adidas': 0.688, 'nike': 0.373}} DiD -0.072
+footwear {'AugSep2025': {'adidas': 0.557, 'nike': 0.294}, 'AugSep2026': {'adidas': 0.709, 'nike': 0.341}} DiD -0.105
+coll
+CC-MAIN-2025-33    0.515
+CC-MAIN-2025-38    0.607
+CC-MAIN-2025-43    0.651
+CC-MAIN-2026-25    0.752
+CC-MAIN-2026-34    0.718
+CC-MAIN-2026-39    0.632
