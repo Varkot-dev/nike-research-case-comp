@@ -1,0 +1,1372 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility for the contents of this
+announcement, make no representation as to its accuracy or completeness and expressly disclaim any liability whatsoever for any loss howsoever
+arising from or in reliance upon the whole or any part of the contents of this announcement.
+
+
+
+
+      TOPSPORTS INTERNATIONAL HOLDINGS LIMITED
+                                              滔搏國際控股有限公司
+                                       (Incorporated in the Cayman Islands with limited liability)
+                                                           (Stock Code: 6110)
+
+
+
+                        ANNOUNCEMENT OF INTERIM RESULTS
+                      FOR THE SIX MONTHS ENDED 31 AUGUST 2020
+
+
+FINANCIAL HIGHLIGHTS
+                                                                                                               Unaudited
+                                                                                                       Six months ended 31 August
+                                                                                                              2020           2019
+
+Revenue                                                                           RMB million                15,769.5             16,957.6
+Gross profit                                                                      RMB million                 6,565.5              7,409.7
+Operating profit                                                                  RMB million                 1,908.8              2,092.2
+Profit attributable to the Company’s equity holders                               RMB million                 1,309.1              1,470.9
+
+Non-IFRS Measure – Adjusted operating profit (1)                                  RMB million                  1,911.7              2,160.7
+Non-IFRS Measure – Adjusted profit attributable to
+   the Company’s equity holders (1)                                               RMB million                  1,311.3              1,535.0
+
+Gross profit margin                                                                             %                  41.6                 43.7
+Operating profit margin                                                                         %                  12.1                 12.3
+Profit margin attributable to the Company’s
+   equity holders                                                                               %                   8.3                  8.7
+Non-IFRS Measure – Adjusted operating profit margin                                             %                  12.1                 12.7
+Non-IFRS Measure – Adjusted profit margin
+   attributable to the Company’s equity holders                                                 %                   8.3                  9.1
+
+Earnings per share – basic and diluted (2)                                           RMB cents                   21.11                27.91
+Adjusted earnings per share – basic and diluted,
+    for illustrative purpose (2)                                                     RMB cents                   21.11                23.72
+Interim dividend per share                                                           RMB cents                   12.00                12.00
+Special dividend per share                                                           RMB cents                   40.00                 N/A
+
+
+
+
+                                                                    -1-
+Notes:
+
+(1) Our adjusted operating profit and adjusted profit attributable to the Company’s equity holders are not calculated in
+    accordance with IFRS, and they are considered as non-IFRS financial measures. The adjusted operating profit and adjusted
+    profit attributable to the Company’s equity holders are adjusted by adding back the effect of listing expenses and the
+    amortization of our intangible assets arising from business combination. We believe that this information is useful for investo rs
+    in comparing our performance without regard to items that do not affect our ongoing operating performance or cash flow, and
+    it allows investors to consider metrics used by our management in evaluating our performance. Investors should not consider
+    our non-IFRS financial measures a substitute for or superior to our IFRS results.
+
+(2) Basic earnings per share is calculated by dividing profit attributable to the Company’s equity holders of RMB1,309.1 million
+    for the six months ended 31 August 2020 (six months ended 31 August 2019: RMB1,470.9 million) by the weighted average
+    number of ordinary shares of the Company in issue and taking into account the effect of the Capitalization Issue (as defined in
+    the prospectus of the Company dated 26 September 2019 (the “Prospectus”)). The basic and diluted earnings per share for the
+    six months ended 31 August 2020 and 2019 is not comparable as the new shares issued pursuant to the Global Offering of the
+    Company on 10 October 2019 does not and is not required to account for in the earnings per share for the six months ended 31
+    August 2019. For illustrative purpose and provide with more relevant information for investors, the adjusted earnings per
+    share for the six months ended 31 August 2019 is calculated by dividing profit attributable to the Company’s equity holders by
+    the weighted average number of ordinary shares of 6,201,222,024 shares, which accounted for the effect of the Capitalization
+    Issue and the Global Offering.
+
+
+
+
+                                                             -2-
+INTERIM RESULTS
+The board of directors (the “Board” or “Directors”) of Topsports International Holdings Limited (the “Company”)
+is pleased to announce the unaudited interim results of the Company and its subsidiaries (collectively, the “Group”)
+for the six months ended 31 August 2020 (the “Period under Review”), together with comparative information for
+the same period of 2019, as follows:
+
+
+CONDENSED CONSOLIDATED STATEMENT OF PROFIT OR LOSS
+FOR THE SIX MONTHS ENDED 31 AUGUST 2020
+
+
+                                                                                       Unaudited
+                                                                               Six months ended 31 August
+                                                                                     2020             2019
+                                                                   Note       RMB million       RMB million
+
+Revenue                                                               4           15,769.5            16,957.6
+Cost of sales                                                         6            (9,204.0)           (9,547.9)
+                                                                                ────────            ────────
+Gross profit                                                                        6,565.5             7,409.7
+
+Selling and distribution expenses                                     6              (4,207.4)           (4,727.8)
+General and administrative expenses                                   6                (606.1)             (721.5)
+Impairment of trade receivables                                       6                  (24.3)                   -
+Other income                                                          5                 181.1               131.8
+                                                                                ────────            ────────
+Operating profit                                                                      1,908.8             2,092.2
+                                                                                ---------------     ---------------
+
+Finance income                                                                           83.8                  6.5
+Finance costs                                                                         (138.5)              (118.2)
+                                                                               ────────             ────────
+Finance costs, net                                                    7                 (54.7)             (111.7)
+                                                                               ---------------      ---------------
+
+Profit before income tax                                                           1,854.1             1,980.5
+Income tax expense                                                    8             (545.0)             (509.6)
+                                                                                ────────            ────────
+Profit for the period attributable to equity holders
+  of the Company                                                                   1,309.1             1,470.9
+                                                                                ════════            ════════
+
+
+Earnings per share for profit attributable to equity
+  holders of the Company during the period                                      RMB cents            RMB cents
+
+Basic and diluted earnings per share                                  9             21.11               27.91
+                                                                                ════════            ════════
+
+
+
+
+                                                       -3-
+CONDENSED CONSOLIDATED
+STATEMENT OF COMPREHENSIVE INCOME
+FOR THE SIX MONTHS ENDED 31 AUGUST 2020
+
+
+                                                                               Unaudited
+                                                                       Six months ended 31 August
+                                                                            2020              2019
+                                                                      RMB million      RMB million
+
+Profit for the period attributable to equity holders of the Company         1,309.1           1,470.9
+
+Other comprehensive income
+  Items that may be subsequently reclassified to profit or loss:
+  Exchange differences                                                             -               2.3
+
+  Items that will not be reclassified to profit or loss:
+  Exchange differences                                                          34.8                  -
+                                                                       ────────          ────────
+                                                                                34.8               2.3
+                                                                      ---------------   ---------------
+
+Total comprehensive income for the period attributable to equity
+  holders of the Company                                                  1,343.9          1,473.2
+                                                                       ════════         ════════
+
+
+
+
+                                                           -4-
+CONDENSED CONSOLIDATED BALANCE SHEET
+AS AT 31 AUGUST 2020
+
+
+                                                                   Unaudited             Audited
+                                                                        As at              As at
+                                                                    31 August        29 February
+                                                                         2020              2020
+                                                           Note   RMB million        RMB million
+
+ASSETS
+Non-current assets
+  Property, plant and equipment                                           975.6            1,153.8
+  Right-of-use assets                                                  3,603.4             3,908.8
+  Intangible assets                                                    1,090.6             1,103.3
+  Long-term deposits, prepayments and other receivables                   238.9              255.5
+  Long-term bank deposits                                              1,000.0                     -
+  Deferred income tax assets                                              285.8              237.5
+                                                                   ────────           ────────
+                                                                       7,194.3             6,658.9
+                                                                  ---------------    ---------------
+Current assets
+  Inventories                                                           6,594.4            6,649.0
+  Trade receivables                                         11          1,660.3            1,486.7
+  Deposits, prepayments and other receivables                              849.2             822.0
+  Pledged term deposits and other bank deposits                         2,023.5            3,594.7
+  Bank balances and cash                                                2,265.8            2,823.9
+                                                                    ────────          ────────
+                                                                       13,393.2           15,376.3
+                                                                   ---------------   ---------------
+
+Total assets                                                           20,587.5           22,035.2
+                                                                   ---------------   ---------------
+
+
+
+
+                                                     -5-
+ CONDENSED CONSOLIDATED BALANCE SHEET
+ AS AT 31 AUGUST 2020
+
+                                                                     Unaudited             Audited
+                                                                          As at              As at
+                                                                      31 August        29 February
+                                                                           2020              2020
+                                                             Note   RMB million        RMB million
+
+
+ LIABILITIES
+ Non-current liabilities
+   Lease liabilities                                                       2,297.6           2,519.9
+   Deferred income tax liabilities                                           200.0               73.2
+                                                                      ────────          ────────
+                                                                           2,497.6           2,593.1
+                                                                     ---------------   ---------------
+ Current liabilities
+   Trade payables                                             12          1,097.0            1,105.5
+   Other payables, accruals and other liabilities                         1,184.1            1,593.2
+   Dividend payable                                           10                  -          1,635.3
+   Short-term borrowings                                                  2,460.0            2,400.0
+   Lease liabilities                                                      1,301.6            1,344.7
+   Current income tax liabilities                                           594.4              820.4
+                                                                     ────────           ────────
+                                                                          6,637.1            8,899.1
+                                                                    ---------------    ---------------
+
+ Total liabilities                                                        9,134.7           11,492.2
+                                                                    ---------------    ---------------
+
+ Net assets                                                            11,452.8          10,543.0
+                                                                     ════════          ════════
+
+EQUITY
+Equity attributable to equity holders of the Company
+  Share capital                                                               -                 -
+  Other reserves                                                        8,217.3           8,593.4
+  Retained earnings                                                     3,235.5           1,949.6
+                                                                     ────────          ────────
+Total equity                                                           11,452.8          10,543.0
+                                                                     ════════          ════════
+
+
+
+
+                                                       -6-
+ CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS
+ FOR THE SIX MONTHS ENDED 31 AUGUST 2020
+
+
+                                                                       Unaudited
+                                                                Six months ended 31 August
+                                                                      2020              2019
+                                                               RMB million       RMB million
+
+Cash flows from operating activities
+ Net cash generated from operations                                 2,673.8            2,490.8
+ Income tax paid                                                      (692.5)           (279.9)
+                                                                ────────          ────────
+Net cash generated from operating activities                        1,981.3            2,210.9
+                                                               ---------------   ---------------
+Cash flows from investing activities
+ Payments for purchases of property, plant and equipment
+   and intangible assets                                             (238.5)           (271.4)
+ Proceeds from disposals of property, plant and equipment               4.2               8.5
+ Payment for acquisition of a business                                 (0.5)                -
+ Withdrawal of pledged term deposits under the
+   cross-border cash pooling arrangement                             2,031.2                   -
+ Placement of long-term bank deposits                              (1,000.0)                   -
+ Placement of other bank deposits                                     (460.0)                  -
+ Interest received                                                      57.1                6.5
+                                                                ────────          ────────
+Net cash generated from/(used in) investing activities                 393.5            (256.4)
+                                                               ---------------   ---------------
+Cash flows from financing activities
+ Proceeds from drawings as borrowings under the
+   cross-border cash pooling arrangement                              460.0                   -
+ Repayment of drawings as borrowings under the
+   cross-border cash pooling arrangement                            (1,000.0)                  -
+ Proceeds from bank borrowings                                       1,000.0                   -
+ Repayments of bank borrowings                                        (400.0)           (400.0)
+ Payment for lease liabilities (including interest)                   (868.8)           (890.0)
+ Changes in balances with related companies                                  -          (144.9)
+ Interest paid for bank borrowings                                     (54.7)             (23.1)
+ Dividends paid                                                     (2,069.4)         (1,598.0)
+                                                                ────────          ────────
+Net cash used in financing activities                               (2,932.9)         (3,056.0)
+                                                               ---------------   ---------------
+
+Net decrease in cash and cash equivalents                           (558.1)        (1,101.5)
+ Cash and cash equivalents at beginning of the period              2,823.9            450.5
+                                                                ────────         ────────
+Cash and cash equivalents at end of the period                     2,265.8           (651.0)
+                                                                ════════         ════════
+
+Cash and cash equivalents comprise of:
+ Bank balances and cash                                            2,265.8            631.5
+ Bank overdrafts                                                         -         (1,282.5)
+                                                                ────────         ────────
+                                                                   2,265.8           (651.0)
+                                                                ════════         ════════
+
+
+
+
+                                                         -7-
+NOTES
+1     GENERAL INFORMATION AND SIGNIFICANT EVENT
+
+1.1   GENERAL INFORMATION
+
+      Topsports International Holdings Limited (the “Company”) and its subsidiaries (collectively, the “Group”)
+      are principally engaged in the sales of sportswear products and leasing commercial spaces to other retailers
+      for concessionaire sales in the People’s Republic of China (the “PRC”). The address of the Company’s
+      registered office is P.O. Box 309, Ugland House, Grand Cayman KY1-1104, Cayman Islands.
+
+      The Company was incorporated in the Cayman Islands on 5 September 2018 as an exempted company with
+      limited liability under the Companies Law (2018 Revision) of the Cayman Islands, Cap.22, (Law 3 of 1961),
+      as amended or supplemented or otherwise modified from time to time. As at 31 August 2020, the
+      immediate holding company and an intermediate holding company of the Company are Belle Sports
+      Limited, a company incorporated in the British Virgin Islands (the “BVI”) with limited liability, and Belle
+      International Holdings Limited (“Belle International”), a company incorporated in the Cayman Islands with
+      limited liability, respectively. The directors of the Company regard Muse Holdings Inc. (“Muse Inc.”), a
+      company incorporated in the Cayman Islands with limited liability, as being the ultimate holding company
+      and the ultimate controlling party of the Company.
+
+      The Company’s shares are listed on the Main Board of The Stock Exchange of Hong Kong Limited (the
+      “Stock Exchange”) on 10 October 2019.
+
+      The condensed consolidated interim financial information comprises the condensed consolidated balance
+      sheet as at 31 August 2020, the condensed consolidated statement of profit or loss, the condensed
+      consolidated statement of comprehensive income, and the condensed consolidated statement of cash flows
+      for six-month period then ended, and a summary of significant accounting policies and other explanatory
+      notes. The condensed consolidated interim financial information is presented in Renminbi (“RMB”) and all
+      values are rounded to the nearest 0.1 million (“RMB0.1 million”) except when otherwise indicated.
+
+      The condensed consolidated interim financial information for the six months ended 31 August 2020 is
+      unaudited and has been reviewed by the audit committee and external auditor of the Company. This
+      condensed consolidated interim financial information was approved for issue by the Board of Directors on
+      27 October 2020.
+
+1.2   SIGNIFICANT EVENT
+
+      The Novel Coronavirus (“COVID-19”) pandemic has continued to evolve around the globe during the first
+      six months of the financial year and the Group’s business operations have inevitably been affected to some
+      extent during the period.
+
+      In preparing the interim financial information, the Group has taken into the account the risks caused by
+      COVID-19 on impairment of the Group’s financial and non-financial assets when assessing assets
+      impairment including trade receivables, inventories and right-of-use assets. Management has been closely
+      monitoring the development of the COVID-19 outbreak and considered that, save as disclosed above, there
+      are no other matters that would result in a significant adverse impact on the Group’s results and financial
+      position as at the reporting date as a result of the COVID-19. Given the extent and duration of the COVID-
+      19 pandemic remain uncertain, management will pay attention to the development of the COVID-19
+      outbreak and evaluate its impact on the financial position and operating results of the Group.
+
+
+
+
+                                                     -8-
+2   BASIS OF PREPARATION AND ACCOUNTING POLICIES
+
+    This condensed consolidated interim financial information for the six months ended 31 August 2020 has
+    been prepared in accordance with International Accounting Standard (“IAS”) 34 “Interim Financial
+    Reporting” and should be read in conjunction with the annual consolidated financial statements for the year
+    ended 29 February 2020, which have been prepared in accordance with International Financial Reporting
+    Standards (“IFRS”).
+
+    The accounting policies used in the preparation of this condensed consolidated interim financial information
+    are consistent with those used in the annual consolidated financial statements for the year ended 29
+    February 2020, except as mentioned below.
+
+    (a)     New and amended standards adopted by the Group
+
+             A number of new or amended standards became applicable for the current reporting period. Except
+             for the Amendment to IFRS16 set out below, the Group did not change its accounting policies or
+             make retrospective adjustments as a result of adopting these standards.
+
+             The Group has early adopted Amendment to IFRS 16 - COVID-19-Related Rent Concessions
+             retrospectively from 1 March 2020. The amendment provides an optional practical expedient
+             allowing lessees to elect not to assess whether a rent concession related to COVID-19 is a lease
+             modification. Lessees adopting this election may account for qualifying rent concessions in the
+             same way as they would if they were not lease modifications. The practical expedient only applies
+             to rent concessions occurring as a direct consequence of the COVID-19 pandemic and only if all of
+             the following conditions are met: a) the change in lease payments results in revised consideration
+             for the lease that is substantially the same as, or less than, the consideration for the lease
+             immediately preceding the change; b) any reduction in lease payments affects only payments due
+             on or before 30 June 2021; and c) there is no substantive change to other terms and conditions of
+             the lease.
+
+             The Group has applied the practical expedient to all qualifying COVID-19-related rent concessions.
+             Rent concessions totaling RMB102.9 million have been accounted for as negative variable lease
+             payments and recognised in selling and distribution expenses in the condensed consolidated
+             statement of profit or loss for the six months ended 31 August 2020, with a corresponding
+             adjustment to the lease liabilities. There is also no material impact on the Group’s opening balance
+             of equity at 1 March 2020.
+
+    (b)     New standards and amendments to standards that have been issued but are not yet effective
+
+             A number of new standards and amendments to standards have been issued but are not effective
+             for the year beginning on or after 1 March 2020 and have not been early adopted by the Group:
+
+            IFRS 17                        Insurance contracts (1)
+            Amendments to IFRS 3,          Narrow-scope amendments (2)
+              IAS 16 and IAS 37
+            Amendments to annual           Annual improvements to IFRSs 2018 - 2020 (2)
+              improvements project
+            Amendments to IAS 1            Classification of liabilities as current or non-current (3)
+            Amendments to IFRS 10          Sale or contribution of assets between an investor and its
+              and IAS 28                     associates or joint venture (4)
+
+             (1)      Effective for the Group for annual period beginning on 1 March 2021.
+             (2)      Effective for the Group for annual period beginning on 1 March 2022.
+             (3)      Effective for the Group for annual period beginning on 1 March 2023.
+             (4)      Effective date to be determined.
+
+
+
+
+                                                   -9-
+2   BASIS OF PREPARATION AND ACCOUNTING POLICIES (CONTINUED)
+
+    (b)     New standards and amendments to standards that have been issued but are not yet effective
+            (Continued)
+
+             The Company’s directors have performed an assessment on these new standards and amendments
+             to standards, and have concluded on a preliminary basis that the adoption of these new standards
+             and amendments to standards is not expected to have a significant impact on the Group’s financial
+             performance and position.
+
+    (c)      Tax
+
+             Taxes on income in the interim periods are accrued using the tax rate that would be applicable to
+             expected total annual earnings.
+
+
+3   SEGMENT INFORMATION
+    The Group is principally engaged in sales of sportswear products and leasing commercial spaces to retailers
+    and distributors for concessionaire sales.
+
+    CODM has been identified as the executive director and senior management of the Company. CODM
+    reviews the Group’s internal reporting in order to assess performance and allocate resources. Management
+    has determined the operating segments based on the internal reports provided for review by the CODM. The
+    CODM assesses the performance of the Group’s business activities as a whole on a regular basis and the
+    directors of the Company consider that the Group has only one reportable segment. Accordingly, no
+    segment information is presented.
+
+    All of the Group’s revenues are derived from external customers located in the PRC.
+
+    As at 31 August 2020 and 29 February 2020, substantially all of the non-current assets of the Group were
+    located in the PRC.
+
+
+4   REVENUE
+
+                                                                          Six months ended 31 August
+                                                                                2020             2019
+                                                                         RMB million       RMB million
+
+    Sale of goods                                                           15,618.9            16,818.3
+    Concessionaire fee income                                                  111.4               139.3
+    Others                                                                      39.2                   -
+                                                                        ──────────          ──────────
+                                                                            15,769.5            16,957.6
+                                                                        ══════════          ══════════
+
+
+5   OTHER INCOME
+
+                                                                          Six months ended 31 August
+                                                                                2020             2019
+                                                                         RMB million       RMB million
+
+    Government incentives (note)                                              177.8               122.7
+    Others                                                                      3.3                 9.1
+                                                                        ──────────          ──────────
+                                                                              181.1               131.8
+                                                                        ══════════          ══════════
+
+    Note: Government incentives comprise subsidies received from various local governments in the PRC.
+
+                                                  - 10 -
+6   EXPENSES BY NATURE
+
+                                                                      Six months ended 31 August
+                                                                            2020              2019
+                                                                     RMB million       RMB million
+
+    Cost of inventories recognized as expenses included in
+      cost of sales                                                         9,204.0            9,547.9
+    Staff costs                                                             1,454.6            1,622.6
+    Lease expenses (mainly including concessionaire fee expenses)           1,156.4            1,626.0
+    Depreciation on right-of-use assets                                       897.0              779.1
+    Depreciation on property, plant and equipment                             340.4              354.9
+    Amortization of intangible assets                                          16.0               27.0
+    Write-off of intangible assets                                              2.0                  -
+    Write-off of property, plant and equipment                                  2.5                5.9
+    Loss on disposal of property, plant and equipment                           1.3                2.6
+    Impairment on right-of-use assets (included in
+       selling and distribution expenses)                                  14.9                   -
+    Impairment of trade receivables                                        24.3                   -
+    Other tax expenses                                                     68.8                85.4
+    Listing expenses                                                          -                50.7
+    Others                                                                859.6               895.1
+                                                                    ──────────          ──────────
+    Total cost of sales, selling and distribution expenses,
+     general and administrative expenses and impairment of
+     trade receivables                                                  14,041.8            14,997.2
+                                                                    ══════════          ══════════
+
+
+7   FINANCE COSTS, NET
+
+                                                                      Six months ended 31 August
+                                                                           2020              2019
+                                                                     RMB million      RMB million
+
+    Interest income from bank deposits                                         83.8                  6.5
+                                                                     ──────────          ──────────
+    Finance income                                                              83.8                 6.5
+                                                                    -----------------   -----------------
+
+    Interest expense on bank borrowings                                       (35.4)              (23.1)
+    Interest expense on lease liabilities                                    (103.1)              (95.1)
+                                                                     ──────────          ──────────
+    Finance costs                                                            (138.5)             (118.2)
+                                                                    -----------------   -----------------
+
+    Finance costs, net                                                    (54.7)              (111.7)
+                                                                     ═════════           ═════════
+
+
+
+
+                                                 - 11 -
+8   INCOME TAX EXPENSE
+
+                                                                          Six months ended 31 August
+                                                                               2020              2019
+                                                                         RMB million      RMB million
+
+    Current income tax - PRC corporate income tax
+      - Current period                                                           460.4               543.3
+      - Under-provision in prior years                                             4.5                 0.9
+      - Withholding taxes                                                          1.6                85.9
+
+    Deferred income taxes                                                      78.5               (120.5)
+                                                                         ─────────           ─────────
+                                                                              545.0                509.6
+                                                                         ═════════           ═════════
+
+    Income tax expense has been provided for at the tax rates prevailing in the tax jurisdictions in which the
+    members of the Group operate.
+
+    Under the current laws of the Cayman Islands, the Company is not subject to tax on income or capital gains.
+    Subsidiaries incorporated in Hong Kong are subject to Hong Kong profits tax at a rate of 16.5% (six months
+    ended 31 August 2019: 16.5%). No provision for Hong Kong profits tax has been made as the Group has no
+    estimated assessable profit in Hong Kong.
+
+    During the period, most of the PRC established subsidiaries of the Company are subject to the PRC
+    corporate income tax rate of 25% (six months ended 31 August 2019: 25%) except that certain subsidiaries
+    are subject to preferential tax rates ranging from 5% to 15% and other preferential tax treatments (six
+    months ended 31 August 2019: 15% to 20%).
+
+    According to applicable tax regulations prevailing in the PRC, dividends distributed by a company
+    established in the PRC to a foreign investor are generally subject to a 10% withholding tax. If a foreign
+    investor is incorporated in Hong Kong, under the double taxation arrangement between the Mainland China
+    and Hong Kong, the relevant withholding tax rate applicable to the Group will be reduced from 10% to 5%
+    subject to the fulfilment of certain conditions.
+
+
+
+
+                                                  - 12 -
+9    EARNINGS PER SHARE
+
+     (a)   Basic
+
+           Basic earnings per share is calculated by dividing profit attributable to equity holders of the
+           Company by the weighted average number of ordinary shares in issue during the period.
+
+                                                                               Six months ended 31 August
+                                                                                       2020         2019
+
+           Profit for the period attributable to equity holders
+             of the Company                                       RMB million        1,309.1        1,470.9
+                                                                                  ════════       ════════
+
+           Weighted average number of ordinary shares for             thousand
+            the purpose of basic earnings per share (note)            of shares    6,201,222      5,271,038
+                                                                                  ════════       ════════
+
+           Basic earnings per share                                 RMB cents         21.11          27.91
+                                                                                  ════════       ════════
+
+           Note:     The weighted average number of ordinary shares for the purposes of basic earnings per
+                     share for the six months ended 31 August 2019 has been retrospectively adjusted for the
+                     effect of the capitalization issue which took place on 10 October 2019.
+
+     (b)   Diluted
+
+           Diluted earnings per share presented is the same as the basic earnings per share as there was no
+           potentially dilutive ordinary share outstanding as at 31 August 2020 and 31 August 2019.
+
+
+10   DIVIDENDS
+
+     (a)   At a meeting held on 27 October 2020, the directors declared an interim dividend of RMB12.00
+           cents or equivalent to HK$13.73 cents per ordinary share (totaling RMB744.1 million) and a
+           special dividend of RMB40.00 cents or equivalent to HK$45.78 cents per ordinary share (totaling
+           RMB2,480.5 million) for the year ending 28 February 2021. The interim dividend and the special
+           dividend declared after the end of the reporting period are not reflected as dividend payable in the
+           interim financial information.
+
+     (b)   At a meeting held on 25 May 2020, the directors recommended a final dividend of RMB7.00 cents
+           or equivalent to HK$7.51 cents per ordinary share (totaling RMB434.1 million) for the year ended
+           29 February 2020, which was paid during the period.
+
+     (c)   During the year ended 28 February 2019, the Company declared a dividend of RMB3,500.0
+           million per share, totaling RMB3,500.0 million. As at 29 February 2020, the dividend remained
+           payable amounting to RMB1,635.3 million.
+
+
+
+
+                                                   - 13 -
+11   TRADE RECEIVABLES
+
+                                                                                   As at               As at
+                                                                               31 August         29 February
+                                                                                    2020               2020
+                                                                             RMB million         RMB million
+
+     Trade receivables                                                         1,737.4              1,539.5
+     Loss allowance                                                              (77.1)               (52.8)
+                                                                          ──────────           ──────────
+                                                                               1,660.3              1,486.7
+                                                                          ══════════           ══════════
+
+     The Group’s concessionaire sales through department stores are generally collectible within 30 days from
+     the invoice date. As at 31 August 2020, the aging analysis of trade receivables, based on invoice date, is as
+     follows:
+
+                                                                                   As at               As at
+                                                                               31 August         29 February
+                                                                                    2020               2020
+                                                                             RMB million         RMB million
+
+       0 to 30 days                                                            1,616.5              1,209.8
+       31 to 60 days                                                              23.7                191.9
+       61 to 90 days                                                               2.9                 26.7
+       Over 90 days                                                               94.3                111.1
+                                                                          ──────────           ──────────
+                                                                               1,737.4              1,539.5
+       Loss allowance                                                            (77.1)               (52.8)
+                                                                          ──────────           ──────────
+                                                                               1,660.3              1,486.7
+                                                                          ══════════           ══════════
+
+     The carrying amounts of trade receivables approximate their fair values and are denominated in RMB.
+
+
+12   TRADE PAYABLES
+
+     The normal credit period granted by suppliers generally ranges from 0 to 60 days. As at 31 August 2020,
+     the aging analysis of trade payables, based on invoice date, is as follows:
+
+                                                                                   As at               As at
+                                                                               31 August         29 February
+                                                                                    2020               2020
+                                                                             RMB million         RMB million
+
+      0 to 30 days                                                             1,093.2              1,072.5
+      31 to 60 days                                                                1.7                 32.0
+      Over 60 days                                                                 2.1                  1.0
+                                                                          ──────────           ──────────
+                                                                               1,097.0              1,105.5
+                                                                          ══════════           ══════════
+
+     The carrying amounts of trade payables approximate their fair values.
+
+
+
+
+                                                    - 14 -
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+BUSINESS MODEL AND OPERATING ENVIRONMENT
+
+In the First Half of the Financial Year ending 28 February 2021, the outbreak of Novel Coronavirus Disease
+(COVID-19) (“the Pandemic”) has brought forth the greatest challenge and most profound impact on the China and
+global economies in recent years. In light of the Pandemic, the global unemployment rate has remained high and
+economic activities have been hindered in various degrees. Stakeholders across China have worked in a concerted
+effort to combat the Pandemic with a targeted and scientific approach. The prevention and control work has yielded
+early results, with recovery of domestic demand amid nation-wide resumption of work and social production.
+China's Gross Domestic Product (GDP) fell 1.6% year-on-year in the first half of 2020, with a growth of 3.2% in the
+second quarter. Total retail sales of consumer goods rose 0.5% in August, representing the first month of positive
+growth year-to-date. Despite recovery of domestic demand driven by China’s “Internal Circulation”, the potentially
+resurgent and ever-changing nature of COVID-19 requires enterprises to develop strong capability to nimbly and
+swiftly respond to changing market conditions on an ongoing basis. This means that the Company has to be well-
+prepared for uncertain market conditions in the long term. The evolving consumption occasions and changing
+consumer preferences amid the Pandemic have given retailers a unique opportunity to think outside of the traditional
+realms of their ongoing operations and innovate on cross-occasion settings by integrating and extending multiple
+retail formats seamlessly, thereby cultivating long-term “Digital Immunity” to Pandemic disruptions.
+
+For Topsports, the outbreak of the Pandemic has significantly affected the operational and financial performance of
+the Company for the First Half of the Financial Year ending 28 February 2021, which has been a stress across
+capabilities in operating adaptability, decision-making and execution. Nevertheless, most challenges also bring about
+opportunities. The crises of the marketplace often give rise to opportunities for growth against the adversity. During
+the six months ended 31 August 2020 (the First Half of the Financial Year ending 28 February 2021), Topsports
+continued to expand our consumer-centric, omnipresent and multi-occasional sportswear retail and service platform
+by focusing on our mission of “breaking boundaries through sports and inspire limitless possibilities”. To adapt to
+swiftly changing consumption occasions, we have leveraged our existing operating advantages and well-established
+consumer engagement capabilities to capitalize on the opportunities under adversity. Capitalizing on our broad
+membership base and social communities-based consumer engagement, precise and efficient store-level
+merchandising management capabilities, as well as a rich-set of touch points with consumers across digital settings,
+we were able to consistently provide rich product offerings across brands and categories among across channels,
+diversified membership services and interactive content marketing to cater to consumer needs. Topsports provides
+our consumers with convenient and targeted services throughout each of our interactions.
+
+The dynamic trajectory of the Pandemic has made COVID-19 prevention and containment an ongoing routine. At
+the same time, the public has become even more focused on health and daily exercise as a result. Although offline
+sports events have been suspended to various degrees, the state and local governments have supported the
+implementation of supporting policies for the sports industry, such as integrating sports into youth curriculum and
+promoting balanced youth development on both academics and sports activities, in context of the nation-wide
+resumption of work and production. As we look ahead, we remain confident in the long-term development of
+China’s sports industry with the ambition to keep on delivering remarkable products and shopping experience to
+Chinese sports consumers jointly with our brand partners. To do so, we will rely on our assets, the in-depth insights
+of Chinese consumers, together with our existing extensive directly-operated retail network and efficient operation
+and execution ability. We are optimistic that we will continue to explore and seize new opportunities in a changing
+market environment to pursue breakthrough and development at scale.
+
+
+
+
+                                                        - 15 -
+BUSINESS REVIEW
+As the enterprise with the most extensive directly-operated store network coverage in China’s sportswear industry,
+we have observed the profound impact the Pandemic has had on consumer behaviors, making us even more aware of
+the necessity of seamlessly connecting with consumers through our rich set of touch points across various settings.
+With the focus to extend our consumer engagement from the physical to the virtual realm, we intend to manage each
+of our consumer touch point as an individual but closely connected node of interactivity, in order to offer higher
+quality and more customized service experience for Chinese sports enthusiasts and consumers at large.
+
+During the period, our revenue, profitability and number of stores have all been adversely impacted as a result of the
+challenges presented by the Pandemic to the China economy and the overall retail industry. Nonetheless, the gross
+selling area of our physical stores and the number of enrolled members have maintained steady growth as we
+continuously expanded our physical store network with the strategy of “Optimized Location + Optimized
+Operations”, as well as extend our seamless engagement with consumers through omnipresent and multi-occasional
+connections.
+
+
+1. Enhance our Directly-operated Retail Network with
+   “Optimized Location + Optimized Operations”
+
+    In light of the Pandemic, we remain focused on optimized selection of store locations and store upgrade for our
+    direct-operated retail store network, accelerating the closure of low-productivity and loss-making stores. We
+    directly operated 8,156 stores in nearly 300 cities across the country as of 31 August 2020.
+
+    In terms of the number of directly-operated retail stores, we recorded a net decrease of 239 stores with flattish
+    gross selling area growth as of 31 August 2020 as compared with 29 February 2020, and a net decrease of 209
+    stores with gross selling area increasing by 5.2% as compared with 31 August 2019. The percentage of stores
+    with average selling area over 150 sq.m continued to grow, based on our “Optimized Location + Optimized
+    Operations”. Among these, stores over 300 sq.m accounted for 8.0%, representing an increase of 0.7 percentage
+    point as compared with 29 February 2020, and an increase of 1.5 percentage points as compared with 31 August
+    2019.
+
+    While prudently opening new stores, we have proactively upgraded the stores with proven higher sales potential
+    to create a higher quality interactive shopping experience, so as to enhance our retail network advantages and
+    further improve efficiency.
+
+    Numbers and percentages of our stores by size:
+
+                                                         As of 28/29 February                                           As of 31 August
+                                        2018                     2019                              2020                       2020
+                                                       %                   %                                     %                            %
+    Store size:
+    150 sq.m or smaller             6,268        75.5%            5,947        71.3%          5,732        68.3%            5,478        67.1%
+    Between 150 and 300 sq.m        1,779        21.4%            1,978        23.7%          2,051        24.4%            2,029        24.9%
+    Larger than 300 sq.m              255          3.1%             418          5.0%           612          7.3%             649          8.0%
+                               ──────         ──────         ──────         ────── ──────               ──────         ──────         ──────
+    Total                           8,302       100.0%            8,343       100.0%          8,395       100.0%            8,156       100.0%
+                               ------------   ------------   ------------   ------------ ------------   ------------   ------------   ------------
+
+
+
+
+                                                                - 16 -
+2. Continue to Scale Membership Program
+
+   During the First Half of the Financial Year ending 28 February 2021, we continued to offer services, activities
+   and benefits to members through multiple platforms. Our cumulative number of enrolled members and
+   percentage of the total in-store retail sales value (inclusive of VAT) contributed by members have steadily
+   increased even against the backdrop of the Pandemic’s impact on the overall retail industry. As of 31 August
+   2020, our cumulative number of enrolled members reached 33.1 million. During the quarters as of 31 May 2020
+   and 31 August 2020, 96.7% and 97.3% of the total in-store retail sales (inclusive of VAT) were contributed by
+   our members, respectively for each quarter.
+
+                                                                                    As of
+                                                          30 November      29 February      31 May      31 August
+                                                                 2019             2020         2020          2020
+
+    Cumulative number of
+      our enrolled members                                          24.7          27.2         30.2           33.1
+    Percentage of total in-store retail sales value
+      (inclusive of VAT) contributed by members for the
+      quarter ended                                                86.2%        91.0%        96.7%          97.3%
+
+        Unit: Million
+
+   In order to offer our membership services and functions in full, in addition to the existing TOPSPORTS Wechat
+   Official Corporate Account, we launched the TOPSPORTS app on 14 February 2020. The app integrates
+   membership activities, points redemption, online purchase, limited sales and other functions all in one. As of 31
+   August 2020, the number of users has exceeded 1.1 million.
+
+   In addition to the routinely and locally-tailored member activities, we launched the 1st nation-wide annual
+   member event named “Member Festival Week” at the end of August. In light of the current Pandemic,
+   combining physical and virtual venues, we continued to improve Topsports’ brand equity for loyal members and
+   created IP of “Topsports Membership Week”. With this event, we have acquired more in-depth and profound
+   insights of our members’ demand and preferences. Meanwhile, we took various measures to reactivate inactive
+   members and enhance member stickiness with the help of targeted marketing campaigns.
+
+
+
+
+                                                          - 17 -
+3. Accelerate the Pace of Digital Transformation to Empower our Business with
+   “Precision + Efficiency”
+
+    In the First Half of the Financial Year ending 28 February 2021, we have continued to accelerate our pace of
+    digital transformation, which enabled us to interact with consumers more intimately, equip our store-level
+    operation with digital capability and progress to advance our operations precisely and efficiently with big-data
+    analysis and sophisticated system. We have consistently considered our extensive retail store network and
+    thousands of employees, as well as the broad consumer base, as our irreplaceable core assets. While utilizing
+    technology to empower our employees, and optimizing big-data analysis to improve operation efficiency, we
+    have continued to extend the boundary of interactions with consumers across settings to enrich our insights by
+    leveraging on the application of new technology and innovative tools and methods.
+
+    With more than 20-years of operational history in China’s sportswear retail sector, we have accumulated broad-
+    based data and insights, along with rich experience and unrivalled industry know-how. By emphasizing on the
+    implementation of technology-enabled initiatives, we persistently optimized operation with precision and
+    efficiency. For example, mobile digital toolkits empower our front-line staffs by reducing their operational
+    burden and enabling them to adjust operations and make decisions in real time; meanwhile, our store-level smart
+    technologies allow us to systematically collect and analyze data on the complete consumer journey; digitalized
+    procurement and merchandise management systems assist in automatically creating base line purchase orders
+    that are tailored to each store, the use of the technological tool which we have extended to more of our brands as
+    well as downstream retailers.
+
+    Throughout the period, we continued to expand our connections with consumers across multiple digital
+    occasions. With the operation of store-level social communities, we initiated more themed topics and content as
+    well as new live streaming format. The role of our sales staff has expanded beyond just a shopping assistant
+    across physical and digital realm, but also act as an expert of content topics. The outbreak of the COVID-19 in
+    early 2020 has led to a rapid shift in the major consumption settings of sportswear products from physical to
+    virtual realm. In response, the Company accelerated the flexible application of various digital tools that have
+    been well-established ahead of the Pandemic. We steadily improved the coverage of store-level mini-programs
+    and the application of mobile payment, and the connected inventory sharing function further assisted our stores
+    in stock management with technological tools, so as to ensure product supply and reduce merchandising risks.
+
+    We believe that the power of technology can create structure in unstructured data, cultivate systems using
+    existing data structures, and enhance data-driven technology systems into more intelligent and sophisticated
+    smart infrastructure. Digital transformation will ultimately empower our business management, operation, and
+    frontline staff to engage, serve and cater to the demand of our broad consumer base more precisely and
+    efficiently.
+
+
+OUTLOOK
+Our growth measures mainly include:
+
+    Accelerate digital transformation with a focus on “Precision + Efficiency”
+    Continuously expand store networks with “Optimized Location + Optimized Operations”
+    Expand our seamless engagement with consumers through omnipresent, multi-occasional connections
+    Expand our brand offerings and deepen cooperation with brand partners
+    Further enrich our customer-centric platform offerings
+
+
+
+
+                                                       - 18 -
+FINANCIAL REVIEW
+
+During the six months ended 31 August 2020, the Group recorded revenue of RMB15,769.5 million, a decrease of
+7.0% compared with the same period of last year. The Group recorded operating profit of RMB1,908.8 million, a
+decrease of 8.8% compared with the same period of last year. The profit attributable to the Company’s equity
+holders during the Period under Review amounted to RMB1,309.1 million, a decrease of 11.0% compared with the
+same period of last year.
+
+During the six months ended 31 August 2020, the Group recorded adjusted operating profit of RMB1,911.7 million,
+a decrease of 11.5% compared with the same period of last year. The adjusted operating profit is adjusted by adding
+back the effect of the amortization of intangible assets arising from business combination at RMB2.9 million (six
+months ended 31 August 2019: RMB17.8 million) and additional listing expenses at RMB50.7 million in the same
+period of last year.
+
+During the six months ended 31 August 2020, the Group recorded adjusted profit attributable to the Company’s
+equity holders of RMB1,311.3 million, a decrease of 14.6% compared with the same period of last year. The
+adjusted profit attributable to the Company’s equity holders is adjusted by adding back the effect of the amortization
+of intangible assets arising from business combination, net of deferred tax at RMB2.2 million (six months ended 31
+August 2019: RMB13.4 million) and additional listing expenses at RMB50.7 million in the same period of last year.
+
+
+
+
+                                                        - 19 -
+REVENUE
+
+The Group’s revenue decreased by 7.0%, from RMB16,957.6 million for the six months ended 31 August 2019 to
+RMB15,769.5 million for the six months ended 31 August 2020. The decrease was mainly due to the impact of the
+outbreak of novel coronavirus (COVID-19) (“the Pandemic”) to retail sales. The following table sets forth a
+breakdown of our revenue from sale of goods by brand categories, concessionaire fee income and e-Sports income
+for the periods indicated:
+
+                                                             Six months ended 31 August
+                                                           2020                       2019
+                                                     Revenue    % of total     Revenue     % of total                        Decline rate
+
+Principal brands*                                    13,857.0             87.9%            14,895.6             87.9%              (7.0%)
+Other brands*                                         1,761.9             11.2%             1,922.7             11.3%              (8.4%)
+Concessionaire fee income                               111.4              0.7%               139.3              0.8%             (20.0%)
+e-Sports income                                          39.2              0.2%                   -                  -                N/A
+                                                     ──────             ──────             ──────             ──────
+Total                                                15,769.5            100.0%            16,957.6            100.0%              (7.0%)
+                                                     ══════             ══════             ══════             ══════
+
+  Unit: RMB million
+
+  *     Principal brands include Nike and Adidas. Other brands include PUMA, Converse, VF Corporation’s brands (namely Vans, The North
+        Face and Timberland), Reebok, ASICS, Onitsuka Tiger and Skechers. Principal brands and other brands are classified according to the
+        Group’s relative revenue.
+
+
+
+We sell sportswear products sourced from international sports brands either directly to consumers through our retail
+operations or to our downstream retailers under our wholesale operations. The following table sets forth our revenue
+from sale of goods by sales channel, concessionaire fee income and e-Sports income for the periods indicated:
+
+                                                                 Six months ended 31 August
+                                                               2020                       2019
+                                                                                                                             Growth/
+                                                     Revenue          % of total           Revenue           % of total (Decline) rate
+
+Retail operations                                    12,997.0             82.5%            14,684.5             86.6%             (11.5%)
+Wholesales operations                                 2,621.9             16.6%             2,133.8             12.6%              22.9%
+Concessionaire fee income                               111.4              0.7%               139.3              0.8%             (20.0%)
+e-Sports income                                          39.2              0.2%                   -                  -                N/A
+                                                     ──────             ──────             ──────             ──────
+Total                                                15,769.5            100.0%            16,957.6            100.0%              (7.0%)
+                                                     ══════             ══════             ══════             ══════
+
+  Unit: RMB million
+
+
+
+
+                                                                   - 20 -
+PROFITABILITY
+
+The Group’s operating profit decreased by 8.8% to RMB1,908.8 million for the six months ended 31 August 2020.
+The profit attributable to the Company’s equity holders decreased by 11.0% to RMB1,309.1 million for the six
+months ended 31 August 2020.
+
+                                                                 Six months ended 31 August
+                                                                       2020            2019        Decline rate
+
+       Revenue                                                       15,769.5         16,957.6          (7.0%)
+       Cost of sales                                                 (9,204.0)        (9,547.9)         (3.6%)
+                                                                    ───────          ───────
+       Gross Profit                                                   6,565.5          7,409.7         (11.4%)
+                                                                    ═══════          ═══════
+
+       Gross profit margin                                            41.6%             43.7%
+                                                                    ═══════          ═══════
+
+          Unit: RMB million
+
+
+Cost of sales decreased by 3.6% from RMB9,547.9 million for the six months ended 31 August 2019 to
+RMB9,204.0 million for the six months ended 31 August 2020. Gross profit of the Group decreased by 11.4% to
+RMB6,565.5 million for the six months ended 31 August 2020 from RMB7,409.7 million for the six months ended
+31 August 2019.
+
+During the Period under Review, the gross profit margin of the Group was 41.6%, decreased by 2.1 percentage
+points, from 43.7% for the six months ended 31 August 2019. Decrease in gross profit margin primarily resulted in
+more discount offers providing to our customers.
+
+Selling and distribution expenses for the six months ended 31 August 2020 were RMB4,207.4 million (six months
+ended 31 August 2019: RMB4,727.8 million), accounting for 26.7% of our revenue (six months ended 31 August
+2019: 27.9%). Our selling and distribution expenses primarily include concessionaire and lease expenses,
+depreciation of right-of-use assets in relation to our stores, sales personnel salaries and commissions, other
+depreciation and amortization charges, and other expenses which mainly include store operation expenses, property
+management fees, logistic expenses and online service fees. With the impact of the Pandemic, the decrease in selling
+and distribution expenses is mainly resulting in a decrease in concessionaire and lease expenses, sales personnel
+salaries and commissions and other store operation expenses compared to same period of last year.
+
+General and administrative expenses for the six months ended 31 August 2020 were RMB606.1 million (six months
+ended 31 August 2019: RMB721.5 million), accounting for 3.8% of our revenue (six months ended 31 August 2019:
+4.3%). Our general and administrative expenses primarily include lease expenses in relation to our offices,
+management and administrative personnel salaries, depreciation and amortization charges, other tax expenses and
+other expenses. Decrease in general and administrative expenses primarily due to (i) the absence of last year listing
+expenses while such expenses of RMB50.7 million recorded for the same period of last year; (ii) the intangible assets
+arising from business combination was RMB2.9 million while such expense of RMB17.8 million recorded for the
+same period of last year; and (iii) decrease in advertising, promotion and other expenses.
+
+
+
+
+                                                       - 21 -
+PROFITABILITY (Continued)
+
+Finance income increased from RMB6.5 million for the six months ended 31 August 2019 to RMB83.8 million for
+the six months ended 31 August 2020. It was mainly due to increase in bank deposits during the Period under
+Review.
+
+Finance costs increased from RMB118.2 million for the six months ended 31 August 2019 to RMB138.5 million for
+the six months ended 31 August 2020, primarily as a result of (i) an increase in interest expense on our lease
+liabilities, as our previously opened new stores under lease agreements resulted in higher lease liabilities; and (ii) an
+increase in interest expense on our short-term bank borrowings.
+
+Income tax expense for the six months ended 31 August 2020 amounted to RMB545.0 million (six months ended 31
+August 2019: RMB509.6 million). The effective income tax rate increased by 3.7 percentage points to 29.4% for the
+six months ended 31 August 2020 from 25.7% for the six months ended 31 August 2019, primarily due to additional
+withholding tax provided on the profits retained by our subsidiaries in the People’s Republic of China (the “PRC”).
+The statutory income tax rate for the Group in Mainland China is generally 25%.
+
+
+OTHER INCOME
+
+Other income for the six months ended 31 August 2020 amounted to RMB181.1 million (six months ended 31
+August 2019: RMB131.8 million) mainly consists of government incentives.
+
+
+CAPITAL EXPENDITURE
+
+The Group’s capital expenditures primarily comprised of expenditures for property, plant and equipment and
+intangible assets. During the six months ended 31 August 2020, the total capital expenditure was RMB175.5 million
+(six months ended 31 August 2019: RMB261.6 million).
+
+
+
+
+                                                         - 22 -
+NON-IFRS MEASURES
+
+Our adjusted operating profit and adjusted profit attributable to the Company’s equity holders are not calculated in
+accordance with IFRS, and they are considered as non-IFRS financial measures. We believe that this information is
+useful for investors in comparing our performance without regard to items that do not affect our ongoing operating
+performance or cash flow, and it allows investors to consider metrics used by our management in evaluating our
+performance. Investors should not consider our non-IFRS financial measure a substitute for or superior to our IFRS
+results.
+
+The following table sets forth the reconciliations of our adjusted operating profit and adjusted profit attributable to
+the Company’s equity holders for the periods indicated:
+
+                                                                                                  Six months ended 31 August
+                                                                                                       2020             2019
+
+Operating profit                                                                                      1,908.8                2,092.2
+Adding back:
+Listing expenses (1)                                                                                      -                    50.7
+Amortization of intangible assets arising from business combination (2)                                 2.9                    17.8
+                                                                                                  ───────                 ───────
+Non-IFRS Measure – Adjusted operating profit                                                        1,911.7                 2,160.7
+                                                                                                  ═══════                 ═══════
+
+Profit attributable to the Company’s equity holders                                                   1,309.1                1,470.9
+Adding back:
+Listing expenses (1)                                                                                          -                  50.7
+Amortization of intangible assets arising from business combination,
+  net of deferred tax (2)                                                                              2.2                    13.4
+                                                                                                  ───────                 ───────
+Non-IFRS Measure – Adjusted profit attributable to the
+  Company’s equity holders                                                                          1,311.3                 1,535.0
+                                                                                                  ═══════                 ═══════
+
+  Unit: RMB million
+
+
+Non-IFRS Measure – Adjusted operating profit margin                                                    12.1%                   12.7%
+Non-IFRS Measure – Adjusted profit margin attributable to the
+  Company’s equity holders                                                                              8.3%                    9.1%
+
+
+  Notes:
+
+  (1)    We did not incur any listing expenses for the six months ended 31 August 2020 which were recognized as expenses (six months
+         ended 31 August 2019: RMB50.7 million).
+
+  (2)    The amortization of our intangible assets arising from business combination is an adjustment item that is non -cash in nature.
+         Our intangible assets arising from business combination were fully amortized in March 2020.
+
+
+
+
+                                                               - 23 -
+BASIC AND DILUTED EARNINGS PER SHARE
+
+Basic and diluted earnings per share for the six months ended 31 August 2020 decreased by 24.4% to RMB21.11
+cents from RMB27.91 cents for the same period of last year.
+
+Basic earnings per share is calculated by dividing profit attributable to the Company’s equity holders of RMB1,309.1
+million for the six months ended 31 August 2020 (six months ended 31 August 2019: RMB1,470.9 million) by the
+weighted average number of ordinary shares of the Company in issue of 6,201,222,024 shares (2019: 5,271,038,024
+shares). The weighted average number of ordinary shares for the purpose of basic and diluted earnings per share for
+the six months ended 31 August 2019 has been retrospectively adjusted for the effect of the Capitalization Issue.
+930,184,000 new shares issued pursuant to the Global offering of the Company was only accounted for in the
+calculation of the basic and diluted earnings per share from 10 October 2019.
+
+Had these new shares been issued throughout the periods since 1 March 2019, our adjusted earnings per share, for
+illustrative purpose, would be as follows:
+
+                                                                                     Six months ended 31 August
+                                                                                             2020         2019
+
+Profit for the period attributable to the Company’s
+   equity holders                                                    RMB million          1,309.1        1,470.9
+                                                                                       ════════       ════════
+
+Weighted average number of ordinary shares for the purpose of           thousand
+  basic and diluted earnings per share                                  of shares        6,201,222      5,271,038
+
+As if 930,184,000 new shares have been issued                           thousand
+    throughout the period                                               of shares             -          930,184
+                                                                                       ────────       ────────
+                                                                        thousand
+                                                                        of shares       6,201,222      6,201,222
+                                                                                       ════════       ════════
+
+Adjusted basic and diluted earnings per share,
+ for illustrative purpose                                             RMB cents            21.11          23.72
+                                                                                       ════════       ════════
+
+
+LIQUIDITY AND FINANCIAL RESOURCES
+
+During the Period under Review, net cash generated from operations increased by RMB183.0 million to
+RMB2,673.8 million for the six months ended 31 August 2020 from RMB2,490.8 million for the six months ended
+31 August 2019.
+
+Net cash generated from investing activities for the six months ended 31 August 2020 was RMB393.5 million (six
+months ended 31 August 2019: net cash used in RMB256.4 million). During the Period under Review, the Group
+invested RMB238.5 million on payments for purchases of property, plant and equipment and intangible assets,
+RMB0.5 million on payments for acquisition of a business and placement of long-term bank deposits and other bank
+deposits of RMB1,460.0 million, partly offset by proceeds from disposals of property, plant and equipment of
+RMB4.2 million, withdrawal of pledged term deposits under the cross-border cash pooling arrangement of
+RMB2,031.2 million and interest received of RMB57.1 million.
+
+During the Period under Review, net cash used in financing activities was RMB2,932.9 million (six months ended
+31 August 2019: RMB3,056.0 million), mainly attributable to the repayment of bank borrowings of RMB400.0
+million, net repayment from drawings as borrowings under the cross-border cash pooling arrangement of RMB540.0
+million, payments of dividends of RMB1,635.3 million to then equity holders of the Group, payments of the 2019/20
+final dividend of RMB434.1 million and payment for lease liabilities (including interest) of RMB868.8 million by
+the Group during the period, partly offset by proceeds from bank borrowings of RMB1,000.0 million.
+
+
+
+                                                       - 24 -
+LIQUIDITY AND FINANCIAL RESOURCES (Continued)
+
+As at 31 August 2020, the Group held bank balances and cash totaling RMB2,265.8 million, after netting off the
+short-term borrowings of RMB2,460.0 million, it was in a net debt position of RMB194.2 million. As at 29 February
+2020, the Group held bank balances and cash totaling RMB2,823.9 million, after netting off the short-term
+borrowings of RMB2,400.0 million, it was in a net cash position of RMB423.9 million.
+
+
+GEARING RATIO
+
+As at 31 August 2020, the gearing ratio (equals net debt divided by total capital (total equity plus net debt)) of the
+Group has a net cash position (29 February 2020: net cash position) and the aggregate balances of long-term bank
+deposits, pledged term deposits and other bank deposits and bank balances and cash exceeded the total balance of
+borrowings by RMB2,829.3 million (29 February 2020: RMB4,018.6 million).
+
+
+PLEDGE OF ASSETS
+
+As at 31 August 2020, term deposits of RMB1,563.5 million were pledged for short-term borrowings of
+RMB1,460.0 million drawn under a cross-border cash pooling arrangement operating among certain subsidiaries
+within the Group.
+
+
+HUMAN RESOURCES
+
+As at 31 August 2020, the Group had a total of 38,005 employees (29 February 2020: 35,773 employees). During the
+six months ended 31 August 2020, total staff cost was RMB1,454.6 million (six months ended 31 August 2019:
+RMB1,622.6 million), accounting for 9.2% (six months ended 31 August 2019: 9.6%) of the revenue of the Group.
+The Group offers a competitive remuneration package to its employees, including mandatory retirement funds,
+insurance and medical coverage. In addition, discretionary bonus may be granted to eligible employees based on the
+Group’s and individual’s performance. The Group also allocated resources for providing continuing education and
+training for management and employees so as to improve their skills and knowledge.
+
+
+
+
+                                                        - 25 -
+GENERAL INFORMATION
+
+INTERIM DIVIDEND AND SPECIAL DIVIDEND
+
+The Board has resolved to declare an interim dividend of RMB12.00 cents per ordinary share (the “Interim
+Dividend”), totaling RMB744.1 million for the six months ended 31 August 2020.
+
+For the benefit of the shareholders of the Company, and having considered the financial position of the Company,
+the Board further resolved to declare a special dividend of RMB40.00 cents per ordinary share (the “Special
+Dividend”, together with the Interim Dividend, the “Dividends”), totaling RMB2,480.5 million.
+
+The Dividends will be paid on or about Thursday, 24 December 2020 to members whose names appear on the
+register of members of the Company on Friday, 11 December 2020.
+
+The actual exchange rate for the purpose of Dividends payment in Hong Kong dollars is the offshore exchange rate
+(Buying TT) of RMB against Hong Kong dollars (RMB1.00 = HK$1.1445) as quoted by the Hong Kong
+Association of Banks on Tuesday, 27 October 2020, being the date on which the Dividends are declared by the
+Board. Accordingly, the amount of the Interim Dividend and Special Dividend are HK$13.73 cents and HK$45.78
+cents per ordinary share, respectively.
+
+The Board is of the view that the Company will be able to pay its debts as they fall due in its ordinary course of
+business immediately following the payment of the Dividends and the declaration of the Dividends will not have an
+adverse impact on the business of the Company.
+
+
+CLOSURE OF REGISTER OF MEMBERS
+
+The Dividends will be paid on or about Thursday, 24 December 2020 to the shareholders whose names appear on the
+register of members of the Company on Friday, 11 December 2020. The register of members of the Company will be
+closed from Wednesday, 9 December 2020 to Friday, 11 December 2020, both days inclusive, during which period
+no transfer of shares will be registered. In order to qualify for the above mentioned Dividends, all transfer documents
+accompanied by the relevant share certificates must be lodged with the Company’s Hong Kong Branch Share
+Registrar, Computershare Hong Kong Investor Services Limited at Shop 1712-1716, 17th Floor, Hopewell Centre,
+183 Queen’s Road East, Hong Kong for registration by no later than 4:30 p.m. on Tuesday, 8 December 2020.
+
+
+
+
+                                                        - 26 -
+CORPORATE GOVERNANCE
+The Company’s corporate governance practices are based on the principles and code provisions of the Corporate
+Governance Code, as set out in Appendix 14 to the Listing Rules (the “CG Code”), and the Company has adopted
+the CG Code as its own corporate governance code for the six months ended 31 August 2020.
+
+The Board believes that the Company has complied with all the code provisions as set out in the CG Code, except
+for the Code Provision A.5.1 of the CG Code.
+
+Code Provision A.5.1
+
+Under the code provision A.5.1 of the Code, the nomination committee shall be chaired by the chairman of the
+Board or an independent non-executive director. Currently, Mr. YU Wu, an executive director of the Company,
+serves as the chairman of the Nomination Committee. For the six months ended 31 August 2020, given Mr. YU is
+the sole executive director of the Company who is responsible for the day-to-day management and operations of the
+Group and his extensive expertise and insight to sportswear industry, the Board considered that Mr. YU is the
+suitable candidate for the chairmanship of the Nomination Committee. Besides, in consideration of the size of the
+Group, the appointment and removal of directors were determined collectively by the Board. The Board is
+empowered under the articles of association of the Company to appoint any person as a director either to fill a casual
+vacancy on or as an addition to the Board. The Board will select and recommend candidates for directorship and
+senior management having regard to the balance of skills, experience and qualifications appropriate to the Group’s
+business.
+
+The Board will periodically review and enhance its corporate governance practices to ensure that the Company
+continues to meet the requirements of the CG Code. The Directors are aware that the Group is expected to comply
+with the Code. Any deviation from the Code should be carefully considered and disclosed in the interim and annual
+reports. Save as disclosed above, the Company will continue to comply with the Code to protect the best interests of
+the shareholders of the Company.
+
+
+MODEL CODE FOR SECURITIES TRANSACTIONS BY DIRECTORS
+
+The Company has adopted the Model Code as set out in Appendix 10 to the Listing Rules as its code of conduct for
+Directors’ securities transactions. After having made specific enquiries, each Director has confirmed that he/she has
+complied with the requirements of the Model Code for the period from 1 March to 31 August 2020.
+
+
+AUDIT COMMITTEE
+
+The primary duties of the Audit Committee are to review and supervise the financial reporting process and internal
+control system of our Group, review the financial information of our Group and consider issues in relation to the
+external auditors and their appointment.
+
+The Audit Committee comprises three Independent Non-executive Directors, namely, Mr. LAM Yiu Kin, Mr. HUA
+Bin and Mr. HUANG Victor. The chairman of the Audit Committee is Mr. LAM Yiu Kin, who has a professional
+qualification in accountancy.
+
+The Audit Committee has reviewed with management the accounting principles and practices adopted by the Group,
+and discussed internal controls and financial reporting matters, including a review of the interim financial
+information for the six months ended 31 August 2020.
+
+
+
+
+                                                        - 27 -
+REMUNERATION COMMITTEE
+
+The primary duties of the Remuneration Committee are to evaluate and make recommendations to the Board on the
+remuneration policy covering the Directors and senior management of our Group.
+
+The Remuneration Committee has three members comprising Mr. HUA Bin, Mr. YU Wu and Mr. LAM Yiu Kin,
+two of whom are Independent Non-executive Directors. The chairman of the Remuneration Committee is Mr. HUA
+Bin.
+
+
+NOMINATION COMMITTEE
+
+The primary duties of the Nomination Committee are to identify, screen and recommend to the Board appropriate
+candidates to serve as the directors of our Company, oversee the process for evaluating the performance of the Board,
+review the structure, size and composition of the Board and assess the independence of the independent non-
+executive Directors.
+
+The Nomination Committee has three members comprising Mr. YU Wu, Mr. HUANG Victor and Mr. LAM Yiu Kin,
+two of whom are Independent Non-executive Directors. The chairman of the Nomination Committee is Mr. YU Wu.
+
+
+PURCHASE, SALE AND REDEMPTION OF THE COMPANY’S LISTED SECURITIES
+
+During the Period under Review, neither the Company nor any of its subsidiaries had purchased, sold or redeemed
+any of the Company’s listed securities.
+
+
+SUFFICIENCY OF PUBLIC FLOAT
+
+Based on the information that is publicly available to the Company and within the knowledge of the Directors as at
+the date of this announcement, the Company has maintained the prescribed minimum public float under the Listing
+Rules.
+
+
+
+
+                                                       - 28 -
+USE OF PROCEEDS FROM THE GLOBAL OFFERING
+The net proceeds (the “Net Proceeds”) from the initial public offering of the shares of the Company in October 2019,
+after deducting the underwriting fees and commissions and other related expenses, of HK$7,689.0 million are and
+will be utilized as stated in the Company’s Prospectus.
+
+                                                                                                      Up to
+                                                                                                  31 August                      As at
+                                                                                                       2020                  31 August
+                                                                                                                                  2020
+ Intended use of Net Proceeds                                                                     Utilized                   Unutilized
+   as stated in the Prospectus                                     Net Proceeds                   Amount                       Amount
+                                                                    HK$ million                 HK$ million                 HK$ million
+
+ Investing in technology initiatives to                                      800.0                       284.0                      516.0 (1)
+   accelerate the digital transformation of the
+   business
+ Repaying outstanding amounts due to Belle                                  3,717.4                   3,717.4                             -
+   International and fellow subsidiaries
+ Repaying short-term bank borrowings                                        2,210.5                   2,210.5                             -
+ Working capital and other general corporate
+   purposes                                                               538.2                       538.2                         -
+ Settlement of dividend payable (2)                                       422.9                       422.9                         -
+                                                                     ────────                    ────────                   ────────
+ Total                                                                  7,689.0                     7,173.0                     516.0
+                                                                     ════════                    ════════                   ════════
+
+  Notes:
+
+  (1) The balance of unutilized amount on Investing in technology initiatives to accelerate the digital transformation
+      of the business is expected to be fully utilized by end of February 2025.
+
+  (2) The balance of settlement of dividend payable was fully utilized during the period ended 31 August 2020.
+
+
+
+                                                                                           By order of the Board
+                                                                             Topsports International Holdings
+                                                                                         Limited
+                                                                                              YU Wu
+                                                                                       CEO & Executive Director
+Hong Kong, 27 October 2020
+As at the date of this announcement, the Board of directors of the Company comprises Mr. YU Wu and Mr. LEUNG Kam Kwan as executive
+directors and Mr. SHENG Baijiao, Mr. SHENG Fang, Ms. YUNG Josephine Yuen Ching and Ms. HU Xiaoling as non-executive directors, Mr.
+LAM Yiu Kin, Mr. HUA Bin and Mr. HUANG Victor as independent non-executive directors.
+
+This interim results announcement is published on the websites of The Stock Exchange of Hong Kong Limited (www.hkexnews.hk) and the
+Company (www.topsports.com.cn), respectively. The interim report of the Company will be dispatched to the Shareholders in due course, and will
+be published on the websites of The Stock Exchange of Hong Kong Limited and the Company, respectively.
+
+
+
+
+                                                                   - 29 -
+

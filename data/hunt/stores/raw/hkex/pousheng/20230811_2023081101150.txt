@@ -1,0 +1,1031 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong
+Limited take no responsibility for the contents of this announcement, make no
+representation as to its accuracy or completeness and expressly disclaim any liability
+whatsoever for any loss howsoever arising from or in reliance upon the whole or any
+part of the contents of this announcement.
+
+
+
+
+  POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+
+                       (Incorporated in Bermuda with limited liability)
+                                    (Stock Code: 3813)
+
+
+                  UNAUDITED INTERIM RESULTS
+             FOR THE SIX MONTHS ENDED JUNE 30, 2023
+
+ THE GROUP’S FINANCIAL HIGHLIGHTS
+                                                     For the six months
+                                                       ended June 30,
+                                                        2023           2022
+ Financial performance                              RMB’000        RMB’000         Change
+                                                  (unaudited)    (unaudited)
+
+ Revenue                                      10,960,001              9,864,815      11.1%
+ Gross profit                                  3,670,684              3,495,946        5.0%
+ Operating profit                                472,818                208,329     127.0%
+ Profit attributable to owners of the Company    305,465                 17,413   1,654.2%
+ Gross profit margin (%)                          33.5%                  35.4%      -1.9 ppt
+ Operating profit margin (%)                       4.3%                   2.1%       2.2 ppt
+ Basic earnings per share (RMB cents)               5.90                   0.34   1,635.3%
+ Dividend per share – interim dividend (HK$)      0.0185                      –         N/A
+
+                                                            As at
+                                                     June 30, December 31,
+                                                        2023          2022
+ Financial position                                 RMB’000       RMB’000
+                                                  (unaudited)     (audited)
+
+ Inventories                                        4,672,120         6,071,858     -23.1%
+ Trade and other receivables                        2,529,744         2,149,713      17.7%
+ Cash and cash equivalents                          2,024,918         1,190,148      70.1%
+ Bank borrowings                                       91,991           456,162     -79.8%
+
+
+
+                                              1
+RESULTS
+The board (the “Board”) of directors (the “Directors”) of Pou Sheng International
+(Holdings) Limited (the “Company”) announces the unaudited interim results of the
+Company and its subsidiaries (collectively referred to as the “Group”) for the six months
+ended June 30, 2023 with the corresponding comparative figures as follows:
+
+CONDENSED CONSOLIDATED INCOME STATEMENT
+For the six months ended June 30, 2023
+
+                                                             For the six months
+                                                               ended June 30,
+                                                                 2023            2022
+                                                Notes       RMB’000          RMB’000
+                                                          (unaudited)      (unaudited)
+
+Revenue                                          3         10,960,001         9,864,815
+Cost of sales                                              (7,289,317)       (6,368,869)
+
+Gross profit                                                3,670,684         3,495,946
+Other operating income and gains (losses)                     112,480           164,243
+Selling and distribution expenses                          (2,913,620)       (3,075,931)
+Administrative expenses                                      (396,726)         (375,929)
+
+Operating profit                                              472,818          208,329
+
+Finance costs                                    5            (49,513)          (91,451)
+Finance income                                                 14,159            10,583
+                                                              (35,354)          (80,868)
+Other losses                                                        –            (6,274)
+
+Profit before taxation                                        437,464          121,187
+Income tax expense                               4           (118,497)         (97,000)
+
+Profit for the period                            5            318,967            24,187
+
+Attributable to:
+  Owners of the Company                                       305,465            17,413
+  Non-controlling interests                                    13,502             6,774
+
+                                                              318,967            24,187
+
+Earnings per share                               7
+  – Basic                                               RMB5.90 cents    RMB0.34 cent
+
+  – Diluted                                             RMB5.90 cents    RMB0.34 cent
+
+
+
+
+                                            2
+CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+For the six months ended June 30, 2023
+
+                                                             For the six months
+                                                               ended June 30,
+                                                                 2023           2022
+                                                            RMB’000         RMB’000
+                                                          (unaudited)     (unaudited)
+
+Profit for the period                                         318,967         24,187
+
+Other comprehensive expense
+An item that will not be reclassified to profit or loss
+Fair value loss on investments in equity instrument at
+  fair value through other comprehensive income                     –          (1,155)
+
+An item that may be reclassified subsequently to profit
+  or loss
+Exchange differences arising on translation of foreign
+  operations                                                   (1,988)          (727)
+
+Other comprehensive expense for the period                     (1,988)         (1,882)
+
+Total comprehensive income for the period                     316,979         22,305
+
+
+Attributable to:
+  Owners of the Company                                       303,477         15,531
+  Non-controlling interests                                    13,502          6,774
+
+                                                              316,979         22,305
+
+
+
+
+                                             3
+CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+At June 30, 2023
+
+                                                                   At              At
+                                                             June 30,   December 31,
+                                                                2023            2022
+                                                   Note     RMB’000        RMB’000
+                                                          (unaudited)       (audited)
+
+Non-current assets
+Investment properties                                          87,700         87,700
+Property, plant and equipment                                 810,690        886,396
+Right-of-use assets                                         2,022,871      2,281,544
+Deposits paid for acquisition of property, plant
+  and equipment                                               30,205          36,934
+Rental deposits                                              128,324         143,467
+Intangible assets                                             70,737          61,815
+Goodwill                                                     522,163         522,163
+Interests in joint ventures                                        –               –
+Equity instrument at fair value through
+  other comprehensive income                                   1,854           1,813
+Deferred tax assets                                          115,675         161,321
+
+                                                            3,790,219      4,183,153
+
+Current assets
+Inventories                                                 4,672,120      6,071,858
+Trade and other receivables                         8       2,529,744      2,149,713
+Taxation recoverable                                            2,451          3,989
+Bank deposits over 3 months                                   200,000              –
+Cash and cash equivalents                                   2,024,918      1,190,148
+
+                                                            9,429,233      9,415,708
+
+
+
+
+                                            4
+                                                               At              At
+                                                         June 30,   December 31,
+                                                            2023            2022
+                                               Note     RMB’000        RMB’000
+                                                      (unaudited)       (audited)
+
+Current liabilities
+Trade and other payables                        9       2,152,978      2,190,904
+Contract liabilities                                      439,058        447,916
+Taxation payable                                           28,954         71,599
+Bank borrowings                                            91,991        456,162
+Lease liabilities                                         671,730        774,164
+
+                                                        3,384,711      3,940,745
+
+Net current assets                                      6,044,522      5,474,963
+
+Total assets less current liabilities                   9,834,741      9,658,116
+
+Non-current liabilities
+Deferred tax liabilities                                   23,750         24,569
+Lease liabilities                                       1,298,634      1,439,627
+
+                                                        1,322,384      1,464,196
+
+Net assets                                              8,512,357      8,193,920
+
+
+Capital and reserves
+Share capital                                              46,438         46,438
+Reserves                                                8,372,750      8,067,815
+
+Equity attributable to owners of the Company            8,419,188      8,114,253
+Non-controlling interests                                  93,169         79,667
+
+Total equity                                            8,512,357      8,193,920
+
+
+
+
+                                          5
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+1.   BASIS OF PREPARATION
+     The condensed consolidated financial statements have been prepared in accordance with Hong
+     Kong Accounting Standard (“HKAS”) 34 “Interim Financial Reporting” issued by the Hong Kong
+     Institute of Certified Public Accountants (“HKICPA”) as well as the applicable disclosure
+     requirements of Appendix 16 to the Rules Governing the Listing of Securities on The Stock
+     Exchange of Hong Kong Limited.
+
+2.   PRINCIPAL ACCOUNTING POLICIES
+     The condensed consolidated financial statements have been prepared on the historical cost basis
+     except for certain properties and financial instruments, which are measured at revalued amounts or
+     fair values, as appropriate.
+
+     Other than additional/change in accounting policies resulting from application of new and
+     amendments to Hong Kong Financial Reporting Standards (“HKFRSs”), the accounting policies and
+     methods of computation used in the condensed consolidated financial statements for the six months
+     ended June 30, 2023 are the same as those presented in the Group’s annual consolidated financial
+     statements for the year ended December 31, 2022.
+
+     Application of new and amendments to HKFRSs
+     In the current interim period, the Group has applied the following new and amendments to HKFRSs
+     issued by the HKICPA, for the first time, which are mandatorily effective for the Group’s annual
+     period beginning on January 1, 2023 for the preparation of the Group’s condensed consolidated
+     financial statements.
+
+     HKFRS 17 (including the October 2020 and         Insurance Contracts
+      February 2022 Amendments to HKFRS 17)
+     Amendments to HKAS 1 and HKFRS                   Disclosure of Accounting Policies
+      Practice Statement 2
+     Amendments to HKAS 8                             Definition of Accounting Estimates
+     Amendments to HKAS 12                            Deferred Tax related to Assets and Liabilities
+                                                        arising from a Single Transaction
+     Amendments to HKAS 12                            International Tax Reform-Pillar Two Model Rules
+
+     Except as described below, the application of the new and amendments to HKFRSs in the current
+     interim period has had no material impact on the Group’s financial positions and performance for
+     the current and prior periods and/or on the disclosures set out in these condensed consolidated
+     financial statements.
+
+
+
+
+                                                  6
+2.1   Impacts and changes in accounting policies on application of Amendments to HKAS 12
+      “Deferred Tax related to Assets and Liabilities arising from a Single Transaction”
+      2.1.1 Accounting policies
+            The application of Amendments to HKAS 12 results in change in accounting policy
+            for taxation:
+
+            Taxation
+            Deferred tax is recognised on temporary differences between the carrying amounts of
+            assets and liabilities in the consolidated financial statements and the corresponding tax
+            bases used in the computation of taxable profit. Deferred tax liabilities are generally
+            recognised for all taxable temporary differences. Deferred tax assets are generally
+            recognised for all deductible temporary differences to the extent that it is probable that
+            taxable profits will be available against which those deductible temporary differences
+            can be utilised. Such deferred tax assets and liabilities are not recognised if the
+            temporary difference arises from the initial recognition (other than in a business
+            combination) of assets and liabilities in a transaction that affects neither the taxable
+            profit nor the accounting profit and at the time of the transaction does not give rise to
+            equal taxable and deductible temporary differences. In addition, deferred tax liabilities
+            are not recognised if the temporary difference arises from the initial recognition of
+            goodwill.
+
+            For leasing transactions in which the tax deductions are attributable to the lease
+            liabilities, the Group applies HKAS 12 requirements to the lease liabilities and the
+            related assets separately. The Group recognises a deferred tax asset related to lease
+            liabilities to the extent that it is probable that taxable profit will be available against
+            which the deductible temporary difference can be utilised and a deferred tax liability
+            for all taxable temporary differences.
+
+      2.1.2 Transition and summary of effects
+            As disclosed in the Group’s annual financial statements for the year ended December
+            31, 2022, the Group previously applied the HKAS 12 requirements to assets and
+            liabilities arising from a single transaction as a whole and temporary differences
+            relating to the relevant assets and liabilities were assessed on a net basis. Upon the
+            application of the amendments, the Group assessed the relevant assets and liabilities
+            separately. In accordance with the transition provision:
+
+            (i)    the Group has applied the new accounting policy retrospectively to leasing
+                   transactions that occurred on or after January 1, 2022;
+
+            (ii)   the Group also, as at January 1, 2022, recognised a deferred tax asset (to the
+                   extent that it is probable that taxable profit will be available against which the
+                   deductible temporary difference can be utilised) and a deferred tax liability for
+                   all deductible and taxable temporary difference associated with
+                   right-of-use-assets and lease liabilities.
+
+
+
+
+                                              7
+            The Group recongised the deferred tax assets associated with the lease liabilities of
+            approximately RMB703.8 million and RMB553.3 million as at January 1, 2022 and
+            December 31, 2022 respectively and deferred tax liabilities associated with the
+            right-of-use assets of approximately RMB671.9 million and RMB520.7 million as at
+            January 1, 2022 and December 31, 2022 respectively on a gross basis but it has no
+            impact on the Group’s financial position as the related deferred tax assets and
+            liabilities continue to offset for the purpose of presentation in the condensed
+            consolidated statement of financial position. There is also no impact on the Group’s
+            performance and the accumulated profits at the earliest period presented.
+
+2.2   Impacts on application of Amendments to HKAS 1 and HKFRS Practice Statement 2
+      “Disclosure of Accounting Policies”
+      In addition, the Group has applied Amendments to HKAS 1 and HKFRS Practice Statement
+      2 “Disclosure of Accounting Policies” which are mandatorily effective for the Group’s
+      annual period beginning on January 1, 2023 for the preparation of the Group’s consolidated
+      financial statements for the year ending December 31, 2023.
+
+      HKAS 1 is amended to replace all instances of the term “significant accounting policies”
+      with “material accounting policy information”. Accounting policy information is material if,
+      when considered together with other information included in an entity’s financial statements,
+      it can reasonably be expected to influence decisions that the primary users of general purpose
+      financial statements make on the basis of those financial statements.
+
+      The amendments also clarify that accounting policy information may be material because of
+      the nature of the related transactions, other events or conditions, even if the amounts are
+      immaterial. However, not all accounting policy information relating to material transactions,
+      other events or conditions is itself material. If an entity chooses to disclose immaterial
+      accounting policy information, such information must not obscure material accounting policy
+      information.
+
+      HKFRS Practice Statement 2 “Making Materiality Judgements” (the “Practice Statement”) is
+      also amended to illustrate how an entity applies the “four-step materiality process” to
+      accounting policy disclosures and to judge whether information about an accounting policy is
+      material to its financial statements. Guidance and examples are added to the Practice
+      Statement.
+
+      The application of the amendments in the current period has had no material impact on the
+      condensed consolidated financial statements but is expected to affect the disclosures of the
+      Group’s accounting policies in the Group’s annual consolidated financial statements for the
+      year ending December 31, 2023.
+
+
+
+
+                                             8
+3.   REVENUE AND SEGMENTAL INFORMATION
+     The Group is principally engaged in the distribution and retailing of sportswear and footwear
+     products and provision of large scale commercial spaces to retailers and distributors for
+     commissions from concessionaire sales. The Group’s results and revenue are reported as a whole on
+     a regular basis to the chief operating decision maker, being the executive directors of the Company,
+     for the purposes of performance assessment and resource allocation.
+
+     The following is an analysis of the Group’s revenue recognised at a point in time:
+
+                                                                           For the six months
+                                                                             ended June 30,
+                                                                              2023               2022
+                                                                          RMB’000            RMB’000
+                                                                        (unaudited)        (unaudited)
+
+     Sales of sportswear and footwear products                            10,897,233           9,807,723
+     Commissions from concessionaire sales                                    62,768              57,092
+
+
+                                                                          10,960,001           9,864,815
+
+
+4.   INCOME TAX EXPENSE
+                                                                           For the six months
+                                                                             ended June 30,
+                                                                              2023               2022
+                                                                          RMB’000            RMB’000
+                                                                        (unaudited)        (unaudited)
+
+     People’s Republic of China Enterprise Income Tax
+       – Current period                                                       88,930            103,746
+       – (Over)underprovision in prior periods                               (15,260)             9,297
+     Withholding tax on dividend                                                   –             13,635
+
+
+     Current tax charge – total                                               73,670            126,678
+     Deferred tax charge (credit)                                             44,827            (29,678)
+
+
+                                                                             118,497              97,000
+
+
+
+
+                                                   9
+5.   FINANCE COSTS/PROFIT FOR THE PERIOD
+                                                                         For the six months
+                                                                           ended June 30,
+                                                                            2023               2022
+                                                                        RMB’000            RMB’000
+                                                                      (unaudited)        (unaudited)
+
+     (a)   Finance costs
+
+           Interest expenses on bank borrowings                             5,250            33,733
+           Interest expenses on advance from a related party                   72                61
+           Interest expenses on lease liabilities                          44,191            57,657
+
+
+                                                                           49,513            91,451
+
+
+     (b)   Profit for the period
+
+           Profit for the period has been arrived at after charging
+             (crediting):
+
+           Total staff costs (included in selling and distribution
+             expenses and administrative expenses)                      1,193,904         1,258,961
+           Depreciation of right-of-use assets                            452,947           568,551
+           Depreciation of property, plant and equipment                  189,048           254,500
+           Net changes in allowance for inventories (included in
+             cost of sales)                                               (15,357)           84,006
+           Amortisation of intangible assets (included in selling
+             and distribution expenses)                                     4,376             4,219
+           Gross rental income from investment properties, net of
+             direct expenses                                               (2,000)            (2,012)
+           Loss on disposal/written off of property, plant and
+             equipment (included in other operating income and
+             gains (losses))                                               18,288             5,600
+           Impairment losses recognised on trade and other
+             receivables, net (included in other operating income
+             and gains (losses))                                            9,826             3,455
+           Impairment losses recognised on property, plant and
+             equipment (included in other losses)                               –             2,471
+           Impairment losses recognised on right-of-use assets
+             (included in other losses)                                         –             3,803
+
+           For the six months ended June 30, 2023 and 2022, cost of inventories recognised as an
+           expense represents cost of sales as shown in the condensed consolidated income statement.
+
+
+
+
+                                                  10
+6.   DIVIDENDS
+                                                                           For the six months
+                                                                             ended June 30,
+                                                                              2023               2022
+                                                                          RMB’000            RMB’000
+                                                                        (unaudited)        (unaudited)
+
+     Dividends recognised as distribution during the period:
+
+     2022 final dividend of nil per share (six months ended
+       June 30, 2022: 2021 final dividend of HK$0.016 per share)                   –              70,805
+
+
+     Subsequent to the end of the current interim period, the Directors have determined that an interim
+     dividend of HK$0.0185 per share amounting to HK$98,534,000 in aggregate (six months ended
+     June 30, 2022: nil) will be paid to the shareholders of the Company whose names appear in the
+     register of members of the Company on Thursday, September 14, 2023.
+
+7.   EARNINGS PER SHARE
+     The calculation of the basic and diluted earnings per share attributable to owners of the Company is
+     based on the following data:
+
+                                                                           For the six months
+                                                                             ended June 30,
+                                                                              2023               2022
+                                                                          RMB’000            RMB’000
+                                                                        (unaudited)        (unaudited)
+
+     Earnings:
+
+     Earnings for the period attributable to owners of the Company
+       for the purposes of basic and diluted earnings per share              305,465              17,413
+
+
+                                                                           For the six months
+                                                                             ended June 30,
+                                                                              2023               2022
+                                                                        (unaudited)        (unaudited)
+
+     Number of shares:
+
+     Weighted average number of ordinary shares for the
+      purpose of basic earnings per share                             5,176,758,596       5,172,690,740
+
+     Effect of dilutive potential ordinary shares:
+       – Unvested awarded shares                                           4,103,788           5,800,905
+
+
+     Weighted average number of ordinary shares for the purpose
+      of diluted earnings per share                                   5,180,862,384       5,178,491,645
+
+
+
+
+                                                     11
+     For the purpose of computation of basic earnings per share, the weighted average number of
+     ordinary shares shown above has been arrived at after deducting the shares held by the trustee of the
+     share award scheme of the Company.
+
+8.   TRADE AND OTHER RECEIVABLES
+     The Group generally allows credit periods of 30 days to 60 days which are agreed with each of its
+     trade customers. The aged analysis of the Group’s trade receivables, net of allowance for credit
+     losses, presented based on the invoice date at the end of the reporting period, which approximated
+     to the respective revenue recognition dates, is as follows:
+
+                                                                                  At                   At
+                                                                            June 30,        December 31,
+                                                                               2023                 2022
+                                                                           RMB’000             RMB’000
+                                                                         (unaudited)            (audited)
+
+     0 – 30 days                                                             966,480             820,300
+     31 – 90 days                                                             49,638              41,784
+
+
+                                                                           1,016,118             862,084
+
+
+9.   TRADE AND OTHER PAYABLES
+     The aged analysis of the Group’s trade and bills payables, presented based on the invoice date/
+     issuance date of the bills at the end of the reporting period, is as follows:
+
+                                                                                  At                   At
+                                                                            June 30,        December 31,
+                                                                               2023                 2022
+                                                                           RMB’000             RMB’000
+                                                                         (unaudited)            (audited)
+
+     0 – 30 days                                                             873,542             518,651
+     31 – 90 days                                                              1,581                 745
+     Over 90 days                                                                  –             300,000
+
+
+                                                                             875,123             819,396
+
+
+
+
+                                                  12
+MANAGEMENT DISCUSSION AND ANALYSIS
+Business Review
+Business Environment
+For the six months ended June 30, 2023 (the “Period”), the Group saw decent recovery
+momentum with increased foot traffic to its brick and mortar (“B&M”) channels and
+improved purchasing intent following the lifting of all control measures in mainland
+China. It also benefited from a low base effect stemming from the escalation of
+lockdowns in the same period of last year. Further, sales recovery in the footwear and
+apparel retail sector showed signs of outperforming the recovery of overall consumer
+spending in mainland China. According to the National Bureau of Statistics of China,
+consumption of garments, footwear, hats and knitwear rose 12.8% year-on-year in the
+first half of 2023, compared to a 8.2% recovery in total retail sales of consumer goods.
+
+Meanwhile, the Group’s omni-channels remained robust during the Period, with its
+private domain channels, including its WeChat stores, Douyin live-streaming shopping
+events and shopping mall membership platforms seeing a strong sales growth of over
+50%. This resilience demonstrated the effectiveness of the Group’s ongoing digital
+transformation and how its implementation is incrementing and complementing offline
+sales.
+
+As the Group continues to position itself to take full advantage of economic recovery in
+the Greater China region, the Group is continuing to be highly agile and flexible in its
+decision-making and in progressing its retail refinement strategy. This includes further
+streamlining and rightsizing its B&M network while strengthening its online public and
+private traffic domains to diversify its channel mix, in order to facilitate clearance of
+slow-moving merchandise and to enhance cash conversion efficiency. Amid the volatile
+market environment, it continues to focus on conversion rates and in-season full-price
+sales, while deepening its engagement with customers and improving its operational
+efficiency. The Group also continues to intensify its collaboration with its brand partners
+to create a seamless shopping experience for its customers in a way that prioritises
+healthier sales while enhancing membership program and inventory integration.
+
+Hybrid Channel Management – B&M
+Sales momentum in the Group’s B&M network has been recovering since the lifting of
+all control measures. Overall B&M performance was fuelled by improving yet still
+unstable offline traffic and is also being enhanced by a low base effect, although the
+influence of this varies considerably from month to month according to lockdown
+conditions in different regions of mainland China in the corresponding period of 2022.
+Throughout the Period, the Group continued to progress its retail refinement strategy,
+closing or upgrading underperforming stores, while adopting a holistic view towards
+new store openings: optimising its investment returns as a whole by prioritising
+geographic regions with an outstanding operating track record and convincing potential,
+with stores only being opened following a thorough assessment and not only in
+accordance with allocations from brands. As at June 30, 2023, the Group had 3,723
+directly operated stores across the Greater China region.
+
+                                            13
+Movement of directly operated stores during the six months ended:
+
+                                                          June 30, 2023        June 30, 2022
+
+At the beginning of the period                                       4,093            4,631
+Net decrease                                                          (370)            (176)
+
+At the end of the period                                             3,723            4,455
+
+
+Numbers and percentages of directly operated stores by size as at:
+
+                                        June 30, 2023                 June 30, 2022
+                                       Number              %         Number               %
+
+Selling area
+300 m2 or smaller                        2,988           80.3          3,702           83.1
+Larger than 300 m2                         735           19.7            753           16.9
+
+Total                                    3,723          100.0          4,455          100.0
+
+
+B&M retail channels remain a critical and irreplaceable sales touchpoint for consumers
+in the Greater China region who want to discover new products and experience a unique,
+personalised and seamless shopping experience for sports products and services. During
+the Period, the Group continued to invest in optimising store formats and accelerated its
+digital transformation by integrating its WeChat stores, membership programmes and
+other digital services and tools into its B&M network, which, in turn, enriched the
+consumer experience and stimulated higher units per transaction and average transaction
+value. The Group continued investing in enhancing repeat purchases and higher-margin
+in-season sales within its core offline network, albeit the tentative higher sales
+contribution from discounted stores.
+
+Hybrid Channel Management – Omni-channels
+The Group’s omni-channels include its public traffic domains, covering the operation of
+third-party platforms such as Tmall, JD and Vipshop, as well as its increasingly
+important private traffic domain – the Pan-WeChat Ecosphere – which covers its
+WeChat stores, Douyin live-streaming shopping events and shopping mall membership
+platforms. During the Period, the Group continued to strengthen and grow its
+omni-channels, further deepening and expanding its engagement with shoppers while
+delivering better operational efficiency.
+
+
+
+
+                                           14
+The Group’s online sales momentum has proven to be highly robust, pushing revenue
+growth and effective inventory management despite the return of foot traffic to its B&M
+network and recovering offline sales. Its omni-channels collectively contributed
+approximately 25% of total sales during the Period, a relatively high level as compared
+to 21% of total sales in the same period last year during which its offline channels were
+adversely affected by control measures.
+
+As the Group further elevated its digital operation capabilities, its private traffic domain
+channels, in particular, experienced strong sales growth during the Period with the
+Pan-WeChat Ecosphere proving to be an increasingly lucrative and effective sales
+channel that is successfully delivering better conversion rates, shorter sales cycles and
+more full-price in-season sales transacted at an earlier time for its direct business.
+
+The Group’s WeChat stores also serve as an extension of its B&M network, providing
+quality and comprehensive customer services. Within the Pan-WeChat Ecosphere, the
+Group has optimised the scope of its Douyin live-streams conducted by designated Key
+Opinion Staff during the Period, further localising content from the regional level to the
+store level. It also continued to embed value-added services, diverse content and
+member-exclusive benefits stemming from its integrated membership programmes with
+its brand partners into the Pan-WeChat Ecosphere to achieve quality incremental sales. It
+will continue to invest in and allocate more resources to its private traffic domain
+channels to generate sustainable consumer loyalty, boosted by the provision of more
+membership-related services.
+
+Enhanced Strategic Alliances with Business Partners
+The Group further deepened its strategic partnerships with its brand partners, particularly
+in areas such as providing an impeccable and diverse shopping experience and consumer
+connectivity. Leveraging its YYsports WeChat Mini-Program in the Greater China
+region, the Group continued to boost its membership programmes while offering
+diversified sports services content, interactive features and other related services to
+support in-depth membership management and to facilitate a premium and seamless
+online and offline customer experience. Through the increased integration and direct
+connection of its membership programmes with brand partners, it further supported
+membership growth and increased in-season sell-through.
+
+Moreover, the Group continued to reinforce its product-sharing platform (“PSP”) and
+enhance its Omni-Hub programme with brand partners to efficiently share products and
+services across different platforms and channels to optimise its inventory mix, accelerate
+its sales, facilitate a virtuous inventory cycle and optimise its services to loyal members
+and consumers.
+
+
+
+
+                                            15
+Strengthened Operational Excellence with Digital Transformation
+During the Period, the Group invested further in upgrading its Enterprise Resource
+Planning (“ERP”) system, business intelligence platform, PSP and other digital tools to
+drive future retail excellence, particularly in areas such as real-time in-store efficiency,
+resource optimisation as well as membership services through digital empowerment. It
+also rolled out Personal Digital Assistants (“PDA”) to its B&M stores, a dashboard-style
+system that enables store staff to manage inventory more effectively, boosting store-level
+efficiency.
+
+The Group’s ongoing investments in its omni-channels, alongside its retail refinement
+strategy, remain essential for developing its unique core competencies, maintaining its
+competitiveness and supporting its long-term development. It continued to streamline its
+operations to enhance people efficiency and cost competitiveness and shorten the sales
+cycle. Through these aforementioned efforts, the Group is confident that it will be more
+adaptable to the ever-changing operating environment while capturing long-term growth
+opportunities.
+
+Performance Analysis
+Financial Review
+During the Period, the Group recorded revenue of RMB10,960.0 million, representing an
+increase of 11.1% compared with the same period of last year. Gross profit was
+RMB3,670.7 million, representing an increase of 5.0% when compared to the same
+period of last year. Profit attributable to owners of the Company for the first half of 2023
+increased by 1,654.2% to RMB305.5 million.
+
+Revenue
+The Group’s total revenue during the Period increased 11.1% to RMB10,960.0 million
+as compared with the same period of last year. The increase was mainly attributed to a
+recovery in offline traffic and purchasing intent following the lifting of all pandemic
+control and social distancing measures in mainland China, the robust sales growth of
+omni-channels, in particular its Pan-WeChat Ecosphere, as well as a low base effect.
+
+                                            For the six months ended
+                                                     June 30,
+                                                   2023           2022             Change
+                                           RMB million     RMB million
+
+Revenue                                          10,960.0          9,864.8          11.1%
+Cost of sales                                    (7,289.3)        (6,368.9)         14.5%
+Gross profit                                      3,670.7          3,495.9            5.0%
+Gross profit margin (%)                            33.5%            35.4%          -1.9 ppt
+
+
+
+
+                                            16
+Gross Profit
+The Group’s gross profit during the Period amounted to RMB3,670.7 million with a
+gross profit margin of 33.5%. Despite the well-managed discount control, the gross
+profit margin decreased 1.9 percentage points compared to the same period of last year.
+The decrease was mainly attributed to negative impact from channel mix.
+
+Selling & Distribution Expenses and Administrative Expenses
+The Group’s selling and distribution expenses during the Period were RMB2,913.6
+million (first half of 2022: RMB3,075.9 million), accounting for 26.6% of the Group’s
+revenue (first half of 2022: 31.2%). Selling and distribution expenses primarily include
+concessionaire fees, depreciation of right-of-use assets in relation to stores, sales
+personnel salaries and commissions, other depreciation and amortisation charges, and
+other expenses that mainly include store operation expenses, property management fees,
+logistic expenses and other expenses.
+
+Administrative expenses during the Period were RMB396.7 million (first half of 2022:
+RMB375.9 million), accounting for 3.6% of the Group’s revenue (first half of 2022:
+3.8%). Administrative expenses primarily include management and administrative
+personnel salaries, depreciation and amortisation charges and other expenses.
+
+The Group’s selling and distribution expenses and administrative expenses during the
+Period were RMB3,310.3 million, a decrease of 4.1% compared to the first half of 2022.
+This was equivalent to 30.2% of total revenue, a decrease of 4.8 percentage points
+year-on-year, with the savings benefited from active management on rental and people
+efficiency that delivered operational excellence, as well as operating leverage.
+
+Operating Profit
+The Group’s operating profit during the Period was RMB472.8 million, representing an
+increase of 127.0% with an operating margin of 4.3%, an increase of 2.2 percentage
+points year-on-year.
+
+Finance Income and Finance Costs
+Finance income during the Period was RMB14.2 million, compared to RMB10.6 million
+in the first half of 2022. Finance costs during the Period recorded a sharp decrease of
+45.9% to RMB49.5 million, compared to RMB91.5 million in the first half of 2022,
+primarily as a result of the efforts in debt repayment and a decrease in interest expenses
+on lease liabilities during the Period.
+
+Profit for the Period
+As a result of the aforementioned efforts, the Group recorded a net profit of RMB319.0
+million during the Period, representing a significant increase of 1,218.8% as compared
+with the corresponding period of 2022. Profit attributable to owners of the Company for
+the first half of 2023 increased by 1,654.2% to RMB305.5 million as compared with the
+corresponding period of 2022.
+
+
+                                           17
+Working Capital Efficiency
+The average inventory turnover period for the first half of 2023 improved significantly
+to 133 days (first half of 2022: 202 days). The balance of inventory as at June 30, 2023
+was RMB4,672.1 million, a decrease from RMB6,071.9 million as at December 31,
+2022, which was attributed to the Group’s efforts to clear excess inventory and to
+enhance inventory efficiency. The average trade receivables turnover period was 16 days
+(first half of 2022: 21 days), which remained consistent with the credit terms of 30 to 60
+days that the Group gave its department store counters and retail distributors. The
+average trade payables turnover period during the Period was 21 days (first half of 2022:
+34 days).
+
+Liquidity and Financial Resources
+As at June 30, 2023, the Group has solid bank balances and cash (which consist of bank
+deposits over 3 months and cash and cash equivalents) amounting to RMB2,224.9
+million (December 31, 2022: RMB1,190.1 million) while working capital (current assets
+minus current liabilities) was RMB6,044.5 million (December 31, 2022: RMB5,475.0
+million). Total bank borrowings were further reduced by 79.8% to RMB92.0 million
+(December 31, 2022: RMB456.2 million). All bank borrowings are short-term in nature
+which are repayable within one year. Bank balances and cash and bank borrowings were
+mainly denominated in Renminbi. The Group’s loans under a fixed rate arrangement
+made up approximately 100% (December 31, 2022: 92%) of its total bank borrowings.
+
+The Group’s gearing ratio as of June 30, 2023, represented by total interest-bearing
+borrowings (excluding lease liabilities) as a percentage of total equity, was 1.1%
+(December 31, 2022: 5.6%). The net cash position (bank balances and cash minus bank
+borrowings) saw a soaring increase to RMB2,132.9 million (December 31, 2022:
+RMB734.0 million).
+
+The net cash generated from operating activities during the Period was RMB2,021.0
+million. The Group believes its liquidity requirements will be satisfied with the
+combination of capital generated from operating activities and future bank borrowings.
+The net cash used in investing activities during the Period was RMB332.7 million, while
+the net cash used in financing activities was RMB853.3 million.
+
+Capital Expenditure
+The Group continued its selective and prudent approach to capital expenditure planning
+in the areas of strategic new store openings, ongoing upgrades and the expansion of
+experience-driven B&M stores that offer a better shopping experience and store
+productivity improvements, as well as further optimising and upgrading its online and
+B&M networks to capture growth opportunities. Total capital expenditure during the
+Period increased to RMB157.3 million (first half of 2022: RMB143.8 million). As at
+June 30, 2023, the Group had no material contingent liabilities.
+
+
+
+
+                                           18
+As at June 30, 2023, capital expenditure in respect of the acquisition of property, plant
+and equipment contracted for but not provided in the consolidated financial statements
+was RMB53.8 million (December 31, 2022: RMB62.7 million). The Group also entered
+into new leases for several retail stores that have not yet commenced, with an average
+non-cancellable period ranging from 1 to 3 years (December 31, 2022: 1 to 3 years),
+with the total future undiscounted cash flows over the non-cancellable period amounting
+to RMB7.6 million (December 31, 2022: RMB21.4 million).
+
+Foreign Exchange
+The Group conducts its business primarily in the Greater China region and the majority
+of its transactions are denominated in Renminbi. As at June 30, 2023, the Group had no
+significant hedging financial instruments for managing its foreign exchange exposure.
+As the exchange rate of the Renminbi against foreign currencies may fluctuate, the
+Group may enter into forward contracts, currency swaps or options to hedge against
+currency risks arising from foreign currency transactions when necessary.
+
+The Group has a dedicated treasury division and internal treasury policies and approval
+guidelines to manage and control the Group’s exposure to structured deposit investments.
+The use of derivatives and approval procedures during the Period was in accordance with
+the Group’s internal policies and guidelines.
+
+PROSPECTS AND FUTURE DEVELOPMENTS
+The Group is reasonably optimistic that the recovery momentum will continue into the
+second half of 2023. Its overall top-line recovery will be supported by purchasing intent
+and a relative low base effect although the extent of this will vary month to month due to
+the uneven impact that control measures had on the Group’s business in the
+corresponding periods of 2022.
+
+The Group is also confident about the ongoing resilience of its omni-channels and the
+outperformance of its higher margin Pan-WeChat Ecosphere as it continues to accelerate
+its digital transformation to drive its profitable growth and further margin improvement.
+The Group will continue to optimise its omni-channels, aiming to become less reliant on
+promotions and improving its inventory management efficiency to achieve a better
+margin profile and operational efficiency.
+
+Regarding offline channel, the Group will continue to prioritise store-level profitability
+and efficiency through implementing its retail refinement strategy of upgrading and
+refining its B&M network to offer a digitally-enabled and superior customer experience,
+while exploring new cooperation opportunities with business partners that will ultimately
+drive sustainable growth. The Group will also further upgrade its ERP system and
+business intelligence platforms, and invest in other digital empowerment tools, such as
+PDA, smart product allocation artificial intelligence, dashboard and E-POS to better
+support its operations, optimise its inventory management and improve its working
+
+
+
+
+                                           19
+capital efficiency. It will continue to drive its offline and online sales growth and
+reinforce its in-season sell-through, off-season clearance and margin growth through its
+PSP, a more agile procurement strategy and more effective inventory management.
+
+The Group will seek to further enhance its strategic cooperation with its brand partners,
+including its Omni-Hub programme for inventory sharing. It is also committed to
+expanding its integrated membership programmes with brand partners and connecting
+these membership services with its growing number of digitally-enabled stores, allowing
+customers to access premium member-exclusive products, offers and experiences that
+are consistent with that available at the directly operated stores of these brands in the
+Greater China region.
+
+Although the current external environment remains challenging, the prospects for the
+sports industry in the Greater China region remain bright, with authorities remaining
+committed to high-quality sports development and with the industry set to grow to
+RMB5 trillion in value by 2025. This will enable the Group to return to and exceed its
+previous growth momentum while strengthening its long-term operating performance
+and profitability.
+
+HUMAN RESOURCES
+As at June 30, 2023, the Group had approximately 23,700 employees in total,
+representing a decrease of 17.1% year-on-year. The Group provides competitive
+remuneration packages that are determined with reference to prevailing salary levels in
+the market and individual performance. The Company offers share awards to eligible
+employees in order to provide them with incentives and to recognise their contributions
+and ongoing efforts. In addition, the Group provides other fringe benefits, such as social
+insurance, mandatory provident funds, medical coverage and training programmes for
+employees based on their respective personal career development.
+
+SHARE AWARD SCHEME
+The share award scheme of the Company was adopted on May 9, 2014 and duly amended
+on November 11, 2016, which is valid and effective for a term of 10 years commencing
+on May 9, 2014 (the “Share Award Scheme”). It is funded by the existing shares of the
+Company (the “Shares”) and does not involve issue of new Shares. Any proposed award
+should be determined on the basis of individual performance and must be recommended
+by the remuneration committee of the Board and approved by the Board.
+
+The total number of Shares to be awarded under the Share Award Scheme should not
+exceed 4% of the number of issued Shares (i.e. 5,326,179,615 Shares) as at the date of
+grant, which is 213,047,184. The maximum number of Shares (including vested and
+non-vested Shares) which may be awarded to a selected participant should not exceed
+1% of the issued Shares from time to time, which is 53,261,796.
+
+
+
+
+                                           20
+Under the Share Award Scheme, a total of 111,721,810 Shares, representing
+approximately 2.10% of the issued Shares, have been awarded and the total number of
+Shares available for being further awarded was/is 101,325,374, representing
+approximately 1.90% of the issued Shares, as at March 15, 2023 (being the date of the
+annual report of the Company for the year ended December 31, 2022) and the date of
+this announcement.
+
+Eligible participant(s) selected by the Board for participation in the Share Award
+Scheme shall have no right to any dividend held under the trust before vesting which
+shall form part of the residual cash or any of the returned Shares. The trustee of the
+Share Award Scheme shall not exercise the voting rights in respect of any Shares held
+under the trust (including but not limited to the awarded Shares, the returned Shares, any
+bonus Shares and scrip dividend).
+
+During the six months ended June 30, 2023, no share awards were granted, 126,400
+share awards lapsed or were cancelled and 377,400 share awards were vested under the
+Share Award Scheme. As at June 30, 2023, an aggregate of 7,659,200 share awards
+which are subject to certain vesting conditions, remain unvested.
+
+INTERIM DIVIDEND
+The Board has resolved to declare an interim dividend of HK$0.0185 in cash per Share
+for the six months ended June 30, 2023 (six months ended June 30, 2022: nil) to the
+holders of the Shares (the “Shareholders”) whose names appear on the register of
+members of the Company (the “Register of Members”) on Thursday, September 14,
+2023. The interim dividend will be paid on Friday, October 6, 2023.
+
+CLOSURE OF REGISTER OF MEMBERS
+The Register of Members will be closed from Thursday, September 14, 2023 to Monday,
+September 18, 2023, both days inclusive, during which period no transfer of Shares will
+be effected. In order to qualify for the interim dividend, all transfer documents
+accompanied by the relevant share certificates must be lodged with the Company’s
+branch share registrar and transfer office in Hong Kong, Computershare Hong Kong
+Investor Services Limited at Shops 1712-1716, 17th Floor, Hopewell Centre, 183
+Queen’s Road East, Wanchai, Hong Kong for registration no later than 4:30 p.m. on
+Wednesday, September 13, 2023. The record date for entitlement to the interim dividend
+will be Thursday, September 14, 2023.
+
+PURCHASE, SALE OR REDEMPTION OF LISTED SECURITIES
+During the six months ended June 30, 2023, neither the Company nor any of its
+subsidiaries purchased, sold or redeemed any of the Company’s listed securities (six
+months ended June 30, 2022: nil).
+
+
+
+
+                                           21
+REVIEW OF ACCOUNTS
+The audit committee of the Board has reviewed, with management and the independent
+auditor of the Company, the Group’s unaudited condensed consolidated interim financial
+information for the six months ended June 30, 2023, the interim report, the accounting
+principles and practices adopted by the Group and has discussed risk management,
+internal controls, and financial reporting matters.
+
+Deloitte Touche Tohmatsu, certified public accountants, the independent auditor of the
+Company has reviewed the unaudited condensed consolidated financial information of
+the Group for the six months ended June 30, 2023 in accordance with Hong Kong
+Standard on Review Engagements 2410 “Review of Interim Financial Information
+Performed by the Independent Auditor of the Entity” issued by the HKICPA.
+
+CORPORATE GOVERNANCE
+The Company has applied the principles of, and has complied with all applicable code
+provisions and, where applicable, the recommended best practices of the Corporate
+Governance Code as set out in Appendix 14 to the Listing Rules throughout the six
+months ended June 30, 2023.
+
+MODEL CODE FOR SECURITIES TRANSACTIONS BY DIRECTORS
+The Company has adopted the Model Code for Securities Transactions by Directors of
+Listed Issuers (the “Model Code”) as set out in Appendix 10 to the Listing Rules as the
+Company’s code of conduct for dealings in securities of the Company by Directors.
+Having made specific enquiry by the Company to all Directors, each of them has
+confirmed that he/she has complied with the required standard set out in the Model Code
+throughout the six months ended June 30, 2023.
+
+PUBLICATION OF RESULTS ANNOUNCEMENT AND INTERIM REPORT
+This announcement is published on the websites of the Company (www.pousheng.com)
+and the Hong Kong Exchanges and Clearing Limited (www.hkexnews.hk). The 2023
+interim report of the Company containing all applicable information required by the
+Listing Rules will be dispatched to the Shareholders and published on the above websites
+in due course.
+
+
+
+
+                                          22
+ACKNOWLEDGEMENT
+I would like to take this opportunity to express our sincere appreciation of the support
+from our customers, suppliers and Shareholders. I would also like to thank my fellow
+Directors for their valuable contribution and the staff of the Group for their commitment
+and dedicated services throughout the period.
+
+                                                             By Order of the Board
+                                                               Yu Huan-Chang
+                                                                  Chairman
+
+Hong Kong, August 11, 2023
+
+As at the date of this announcement, the Board comprises:
+
+Executive Directors
+Mr. Yu Huan-Chang (Chairman), Mr. Liao, Yuang-Whang and Mr. Hu, Chia-Ho
+
+Non-executive Directors
+Ms. Tsai Patty, Pei Chun and Mr. Li I-nan
+
+Independent Non-executive Directors
+Mr. Chen, Huan-Chung, Mr. Feng Lei Ming and Mr. Liu, Hsi-Liang
+
+Website: www.pousheng.com
+
+
+
+
+                                            23
+

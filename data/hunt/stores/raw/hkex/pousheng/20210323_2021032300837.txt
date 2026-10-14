@@ -1,0 +1,969 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong
+Limited take no responsibility for the contents of this announcement, make no
+representation as to its accuracy or completeness and expressly disclaim any liability
+whatsoever for any loss howsoever arising from or in reliance upon the whole or any
+part of the contents of this announcement.
+
+
+
+
+  POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+
+                       (Incorporated in Bermuda with limited liability)
+                                    (Stock Code: 3813)
+
+
+                        FINAL RESULTS
+             FOR THE YEAR ENDED DECEMBER 31, 2020
+
+ THE GROUP’S FINANCIAL HIGHLIGHTS
+                                                      For the year ended
+                                                        December 31,
+ Financial performance                                  2020         2019           Change
+                                                     RMB’000     RMB’000
+
+ Revenue                                            25,611,125      27,189,765       -5.8%
+ Gross profit                                        7,826,305       9,275,469      -15.6%
+ Operating profit                                      661,403       1,471,932      -55.1%
+ Profit attributable to owners
+   of the Company                                       302,840           833,275    -63.7%
+ Gross profit margin (%)                                 30.6%             34.1%    -3.5 ppt
+ Operating profit margin (%)                              2.6%              5.4%    -2.8 ppt
+ Basic earnings per share (RMB cents)                      5.75             15.87    -63.8%
+
+                                                      As at December 31,
+ Financial position                                     2020        2019
+                                                     RMB’000    RMB’000
+
+ Inventories                                         5,869,541        8,021,487     -26.8%
+ Trade and other receivables                         3,360,206        2,993,538      12.2%
+ Bank balances and cash                              1,742,290          613,591     183.9%
+ Bank and other borrowings                           1,948,679        3,545,995     -45.0%
+
+
+
+
+                                              1
+RESULTS
+The board (the “Board”) of directors (the “Directors”) of Pou Sheng International
+(Holdings) Limited (the “Company”) is pleased to announce the audited consolidated
+results of the Company and its subsidiaries (collectively referred to as the “Group”) for
+the year ended December 31, 2020 with comparative figures for the corresponding year
+in 2019 as follows:
+
+CONSOLIDATED INCOME STATEMENT
+For the year ended December 31, 2020
+
+                                                                 2020             2019
+                                                 Notes        RMB’000          RMB’000
+
+Revenue                                            3         25,611,125      27,189,765
+Cost of sales                                               (17,784,820)    (17,914,296)
+
+Gross profit                                                  7,826,305        9,275,469
+Other operating income and gains (losses)                       340,284          377,306
+Selling and distribution expenses                            (6,741,868)      (7,168,952)
+Administrative expenses                                        (763,318)      (1,011,891)
+
+Operating profit                                                661,403        1,471,932
+
+Finance costs                                                  (251,825)        (247,522)
+Finance income                                                   18,773            8,335
+
+                                                               (233,052)        (239,187)
+Share of results of joint ventures                               15,364            1,072
+Other gains (losses)                               4            (10,660)          (9,351)
+
+Profit before taxation                                          433,055        1,224,466
+Income tax expense                                 5           (118,395)        (344,556)
+
+Profit for the year                                6            314,660         879,910
+
+
+Attributable to:
+  Owners of the Company                                         302,840         833,275
+  Non-controlling interests                                      11,820          46,635
+
+                                                                314,660         879,910
+
+
+Earnings per share                                 8
+  – Basic                                                  RMB5.75 cents   RMB15.87 cents
+
+
+  – Diluted                                                RMB5.72 cents   RMB15.73 cents
+
+                                            2
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+For the year ended December 31, 2020
+
+                                                             2020       2019
+                                                          RMB’000    RMB’000
+
+Profit for the year                                        314,660    879,910
+
+Other comprehensive income (expense)
+An item that will not be reclassified to profit or loss
+Fair value gain on investments in equity instrument at
+  fair value through other comprehensive income               827           –
+
+An item that may be reclassified subsequently
+  to profit or loss
+Exchange differences arising on translation of
+  foreign operations                                         1,594       (505)
+
+Other comprehensive income (expense) for the year            2,421       (505)
+
+Total comprehensive income for the year                    317,081    879,405
+
+
+Attributable to:
+  Owners of the Company                                    305,337    832,905
+  Non-controlling interests                                 11,744     46,500
+
+                                                           317,081    879,405
+
+
+
+
+                                            3
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+At December 31, 2020
+
+                                                            2020         2019
+                                                 Note    RMB’000      RMB’000
+
+Non-current assets
+Investment properties                                       94,700       94,700
+Property, plant and equipment                            1,294,239    1,354,186
+Right-of-use assets                                      3,246,941    2,931,822
+Deposits paid for acquisition of property,
+  plant and equipment                                      60,583       87,103
+Rental deposits                                           183,988      178,427
+Intangible assets                                         180,351      283,311
+Goodwill                                                  522,163      533,247
+Interests in joint ventures                               378,779      253,415
+Equity instrument at fair value through
+  other comprehensive income                                3,149         2,323
+Deferred tax assets                                        64,288         9,313
+
+                                                         6,029,181    5,727,847
+
+Current assets
+Inventories                                              5,869,541    8,021,487
+Trade and other receivables                       9      3,360,206    2,993,538
+Taxation recoverable                                           639        5,159
+Bank balances and cash                                   1,742,290      613,591
+
+                                                        10,972,676   11,633,775
+Non-current assets classified as held for sale              20,412       29,160
+
+                                                        10,993,088   11,662,935
+
+
+
+
+                                             4
+                                                          2020        2019
+                                               Note    RMB’000     RMB’000
+
+Current liabilities
+Trade and other payables                       10      3,234,451   2,660,829
+Contract liabilities                                     585,863     414,969
+Taxation payable                                         185,517     262,256
+Bank and other borrowings                              1,948,679   3,545,995
+Lease liabilities                                      1,047,232     889,552
+
+                                                       7,001,742   7,773,601
+
+Net current assets                                     3,991,346   3,889,334
+
+Total assets less current liabilities                 10,020,527   9,617,181
+
+Non-current liabilities
+Deferred tax liabilities                                  60,442      85,658
+Lease liabilities                                      2,084,055   1,825,445
+
+                                                       2,144,497   1,911,103
+
+Net assets                                             7,876,030   7,706,078
+
+
+Capital and reserves
+Share capital                                             46,688      46,685
+Reserves                                               7,723,513   7,565,889
+
+Equity attributable to owners of the Company           7,770,201   7,612,574
+Non-controlling interests                                105,829      93,504
+
+Total equity                                           7,876,030   7,706,078
+
+
+
+
+                                          5
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+
+1.   GENERAL INFORMATION
+     The Company is incorporated in Bermuda as an exempted company with limited liability and its
+     shares are listed on The Stock Exchange of Hong Kong Limited (the “Stock Exchange”). The
+     immediate holding company of the Company is Major Focus Management Limited, a company
+     incorporated in the British Virgin Islands and the ultimate parent of the Company is Pou Chen
+     Corporation, a company listed on the Taiwan Stock Exchange Corporation. The shares of an
+     intermediate holding company of the Company, Yue Yuen Industrial (Holdings) Limited, an
+     exempted company incorporated in Bermuda with limited liability, are also listed on the Stock
+     Exchange.
+
+     The consolidated financial statements are presented in Renminbi (“RMB”), which is also the
+     functional currency of the Company.
+
+2.   APPLICATION OF AMENDMENTS TO HONG KONG FINANCIAL REPORTING
+     STANDARDS (“HKFRSs”)
+     Amendments to HKFRSs that are mandatorily effective for the current year
+     The Group has applied the Amendments to References to the Conceptual Framework in HKFRS
+     Standards and the following amendments to HKFRSs issued by the Hong Kong Institute of Certified
+     Public Accountants (“HKICPA”) for the first time in the current year:
+
+     Amendments to HKAS 1 and HKAS 8                            Definition of Material
+     Amendments to HKFRS 3                                      Definition of a Business
+     Amendments to HKFRS 9, HKAS 39 and HKFRS 7                 Interest Rate Benchmark Reform
+
+     Impacts of application on Amendments to HKAS 1 and HKAS 8 “Definition of Material”
+     The amendments provide a new definition of material that states “information is material if
+     omitting, misstating or obscuring it could reasonably be expected to influence decisions that the
+     primary users of general purpose financial statements make on the basis of those financial
+     statements, which provide financial information about a specific reporting entity”. The amendments
+     also clarify that materiality depends on the nature or magnitude of information, either individually
+     or in combination with other information, in the context of the financial statements taken as a
+     whole.
+
+     The application of the Amendments to References to the Conceptual Framework in HKFRS
+     Standards and amendments to HKFRSs in the current year has had no material impact on the
+     Group’s financial positions and performance for the current and prior years and/or on the
+     disclosures set out in these consolidated financial statements.
+
+
+
+
+                                                  6
+3.   REVENUE AND SEGMENTAL INFORMATION
+     The Group is principally engaged in the distribution and retailing of sportswear and footwear
+     products and provision of large scale commercial spaces to retailers and distributors for
+     commissions from concessionaire sales. The Group’s results and revenue are reported as a whole on
+     a regular basis to the chief operating decision maker, being the executive directors of the Company,
+     for the purposes of performance assessment and resource allocation. No other discrete financial
+     information is presented other than entity-wide disclosures.
+
+     The following is an analysis of the Group’s revenue recognised at a point in time:
+
+                                                                              2020                2019
+                                                                           RMB’000             RMB’000
+
+     Sales of sportswear and footwear products                            25,499,253         27,052,466
+     Commissions from concessionaire sales                                   111,872            137,299
+
+
+                                                                          25,611,125         27,189,765
+
+
+4.   OTHER GAINS (LOSSES) ARISING OTHER THAN OPERATING ACTIVITIES
+                                                                              2020                2019
+                                                                           RMB’000             RMB’000
+
+     Impairment loss recognised on interest in a joint venture                      –             (9,987)
+     Reversal of impairment loss recognised on loan to
+       a joint venture                                                           514                 636
+     Impairment loss recognised on goodwill                                  (11,174)                  –
+
+
+                                                                             (10,660)             (9,351)
+
+
+5.   INCOME TAX EXPENSE
+                                                                              2020                2019
+                                                                           RMB’000             RMB’000
+
+     Taxation attributable to the Company and its subsidiaries:
+
+     People’s Republic of China (“PRC”)
+       Enterprise Income Tax (“EIT”) (note)
+       – Current year                                                        211,400            374,172
+       – (Over) underprovision in prior years                                (12,813)             5,551
+
+
+     Current tax charge                                                      198,587            379,723
+     Deferred tax credit                                                     (80,192)           (35,167)
+
+
+                                                                             118,395            344,556
+
+
+
+
+                                                   7
+note:
+
+PRC EIT is calculated based on the statutory rate of 25% of the assessable profit for those
+subsidiaries established in the PRC, as determined in accordance with the relevant enterprise
+income tax law, implementation rules and notices in the PRC, except as follows:
+
+Pursuant to
+              (Caishui [2011] No. 58) and the Bulletin of the State Administration of Taxation [2012]
+No.12 issued in 2011 and 2012, during the period from January 1, 2011 to December 31, 2020, any
+enterprise that is located in the Western Regions of the PRC and engaged in the business activities
+as listed in the “Catalogue of Encouraged Industries in Western Regions” (the “New Catalogue”) as
+its major business from which the annual revenue accounts for more than 70% of its total revenue
+for the financial year, is entitled to pay EIT at the rate of 15% after its application is approved by
+the in-charge taxation authorities. Certain subsidiaries of the Company which are located in the
+specified provinces of Western Regions of the PRC engaged in the business activities under the
+New Catalogue. The Directors consider that the relevant subsidiaries were eligible for the
+preferential tax rate of 15% until the relevant business activities were no longer included in the
+New Catalogue.
+
+
+
+
+                                              8
+6.   PROFIT FOR THE YEAR
+                                                                            2020               2019
+                                                                         RMB’000            RMB’000
+
+     Profit for the year has been arrived at after charging
+       (crediting):
+
+     Directors’ and chief executive’s emoluments                             3,251              2,770
+     Retirement benefit scheme contributions, excluding
+       directors and the chief executive                                  170,607             428,230
+     Equity-settled share-based payments, excluding directors
+       and the chief executive                                              (3,261)            18,872
+     Other staff costs                                                   2,339,228          2,547,958
+
+
+     Total staff costs                                                   2,509,825          2,997,830
+
+
+     Auditor’s remuneration                                                  5,164              5,301
+     Depreciation of property, plant and equipment                         541,140            473,732
+     Depreciation of right-of-use assets                                 1,182,650            888,960
+     Net changes in allowance for inventories                              (24,157)           (61,026)
+     Amortisation of intangible assets (included in selling
+       and distribution expenses)                                         102,965             104,876
+     Gross rental income from investment properties,
+       net of direct expenses                                               (3,532)            (4,266)
+
+
+     For the years ended December 31, 2020 and 2019, cost of inventories recognised as an expense
+     represents cost of sales as shown in the consolidated income statement.
+
+     For the year ended December 31, 2020, novel coronavirus (COVID-19) pandemic (the “Pandemic”)
+     related government grants/assistances amounted to RMB155,683,000 were deducted from staff
+     costs.
+
+7.   DIVIDENDS
+                                                                            2020               2019
+                                                                         RMB’000            RMB’000
+
+     Dividends recognised as distribution during the year:
+
+     2019 final dividend of nil per share
+       (2019: 2018 final dividend of HK$0.025 per share)                         –            115,326
+
+
+     Subsequent to the end of the reporting period, the Directors resolved not to recommend payment of
+     a final dividend in respect of the year ended December 31, 2020 (2019: nil).
+
+
+
+
+                                                    9
+8.   EARNINGS PER SHARE
+     The calculation of the basic and diluted earnings per share attributable to owners of the Company is
+     based on the following data:
+
+                                                                              2020                2019
+                                                                           RMB’000             RMB’000
+
+     Earnings:
+
+     Earnings for the year attributable to owners of the Company
+       for the purposes of basic and diluted earnings per share              302,840             833,275
+
+
+                                                                                2020                2019
+
+     Number of shares:
+
+     Weighted average number of ordinary shares for
+      the purpose of basic earnings per share                         5,264,380,698       5,250,572,849
+
+     Effect of dilutive potential ordinary shares:
+       – Share options                                                       28,563             393,059
+       – Unvested awarded shares                                         30,465,111          47,156,369
+
+
+     Weighted average number of ordinary shares for
+      the purpose of diluted earnings per share                       5,294,874,372       5,298,122,277
+
+
+     The weighted average number of ordinary shares shown above has been arrived at after deducting
+     the shares held by the trustee of the share award scheme of the Company.
+
+     The computation of diluted earnings per share for the year ended December 31, 2020 does not
+     assume the exercise of certain share options of the Company because the exercise price of those
+     options was higher than the average market price of shares for the year ended December 31, 2020.
+
+
+
+
+                                                     10
+9.    TRADE AND OTHER RECEIVABLES
+      The Group generally allows credit period of 30 days to 60 days which are agreed with each of its
+      trade customers. The aged analysis of the Group’s trade receivables, net of allowance for doubtful
+      debts, presented based on the invoice date at the end of the reporting period, which approximated
+      the respective revenue recognition dates, is as follows:
+
+                                                                             2020                2019
+                                                                          RMB’000             RMB’000
+
+      0 - 30 days                                                         1,634,315           1,297,831
+      31 - 90 days                                                           68,601             107,056
+      Over 90 days                                                               47               2,636
+
+
+                                                                          1,702,963           1,407,523
+
+
+10.   TRADE AND OTHER PAYABLES
+      The aged analysis of the Group’s trade payables, presented based on the invoice date at the end of
+      the reporting period, is as follows:
+
+                                                                             2020                2019
+                                                                          RMB’000             RMB’000
+
+      0 - 30 days                                                         1,451,157             770,845
+      31 - 90 days                                                            8,033                 653
+      Over 90 days                                                            7,170               1,415
+
+
+                                                                          1,466,360             772,913
+
+
+      The credit period for payment of purchases of goods is ranging from 30 days to 60 days. The Group
+      has financial risk management policies in place to ensure that all payables are settled within the
+      credit timeframe.
+
+
+
+
+                                                  11
+MANAGEMENT DISCUSSION AND ANALYSIS
+Business Review
+Business Model and Environment
+Business Environment
+The unprecedented and fast-spreading Pandemic brought about uncertainties and
+challenges that disrupted economic activities and growth around the world. The
+lockdowns in China in the first quarter of 2020 inevitably harmed demand and footfall in
+the brick and mortar (“B&M”) store network operated by the Group across China. This
+in turn affected the operational and financial performance of the Group.
+
+However, the Group swiftly adapted to the changing environment, which both
+accelerated and provided further impetus for implementing its strategies for scaling up
+the accessibility and content of its omni-channels and put more emphasis on our five
+major brands. It also supported the Group’s continued efforts to improve cross-platform
+integration and the operational efficiency of its offline channels. As it navigated the
+challenging operational environment and sustained its sales momentum, the Group
+continued to uphold its long-term objectives and move closer to its vision and mission:
+“Make sports your life!” and “Discover your persistent passion for sports by providing
+convenient and fun sports experiences via unique channels full of quality services and
+products you can access everyday.”
+
+Channel Management – B&M
+The Group’s B&M store network was the sales channel most severely impacted by the
+Pandemic. The offline sales momentum has started to normalise since the second quarter
+of the year as the Group implemented promotional plans, with the support of its sales
+partners, to increase inventory sell-through while further integrating its offline and
+online channels.
+
+The Group continued to enhance its experience-driven B&M stores during the year,
+selectively opening larger-format stores with more experience-driven facilities while
+closing down non-contributing and underperforming stores to increase its operational
+efficiency. As at December 31, 2020, the Group’s retail network consisted of 5,240
+directly operated stores and 3,835 sub-distributor stores across the Greater China region.
+
+
+
+
+                                           12
+Movement of directly operated stores during the year ended:
+
+                                                          December 31,     December 31,
+                                                                 2020             2019
+
+At the beginning of the year                                      5,883            5,648
+Net (decrease)/increase in the number of stores                    (643)             235
+
+At the end of the year                                            5,240            5,883
+
+
+In terms of the number of directly operated stores, we recorded a net decrease of 643
+stores with gross selling area increasing by low single digit as at December 31, 2020 as
+compared with December 31, 2019. The percentage of stores with selling area over 300
+m2 continued to grow. As at December 31, 2020, stores with selling area over 300 m2
+accounted for 13.0%, representing an increase of 4.2 percentage points as compared with
+December 31, 2019.
+
+During the Pandemic, the Group focused on optimising the store composition, by
+upgrading high profiting stores and accelerating the closure of low-productivity and
+loss-making stores. The efficiency of store operations would increase as the Pandemic
+relieves.
+
+B&M retail channels remain a critical and irreplaceable sales touchpoint for consumers
+who seek an unique and personalised shopping experience for sports products and
+services. Although many of the Group’s capital expenditure projects were delayed in
+2020 due to the Pandemic, over the long-term, the Group will continue to invest in
+upgrading its B&M stores while connecting offline store sales with its digital channels
+and sports services to enrich the consumer experience and stimulate more higher-margin
+in-season sales.
+
+Numbers and percentages of directly operated stores by size:
+
+                              December 31, 2020                December 31, 2019
+                              Number                %          Number                 %
+Selling area
+300 m2 or smaller                4,558             87.0           5,363             91.2
+Larger than 300 m2                 682             13.0             520              8.8
+
+Total                            5,240            100.0           5,883            100.0
+
+
+
+
+                                           13
+Channel Management – Omni-channels
+The Group accelerated the further integration of its omni-channels during the Pandemic.
+In addition, the Group made significant improvements in business flow efficiency of
+omni-network, formed strategic alliances with prominent online partners, as well as
+launched WeChat stores in February 2020 to further connect with consumers.
+
+In addition to providing a new and flexible way to attract online customers, the Group’s
+WeChat stores serve as an extension of its B&M network, providing quality customer
+services conducted by designated Key Opinion Staff. The Group’s ExP (Energy x Power)
+membership platform is also introduced into its WeChat stores to provide value-added
+services and diverse content to customers. Driven by these continued efforts, prioritised
+investment and resources injected in its online B2C channels, the contribution of the
+Group’s online B2C channels to its overall omni-channel sales increased in 2020.
+
+Investment in Sports Services
+While physical sports events were curtailed across China due to the Pandemic, the Group
+organised numerous online sports events throughout 2020 to maintain its engagement
+with customers. It also continued to leverage the YYsports mobile application in the
+Greater China region, boosting the Group’s ExP programme while offering diversified
+sports services content, interactive features, and other related services, to support
+in-depth customer relationship management and to facilitate a seamless online and
+offline customer experience.
+
+The Group’s first sports services store ‘Next Store’ opened in Taiwan in the second
+quarter of 2020. More than just a large-format store, ‘Next Store’ acts as a service hub:
+incorporating a wide and diverse range of retail products, alongside training services,
+sports events, colourful experiences, workshops, product and lifestyle consultations, as
+well as health and fitness meals – all derived from grass root sports activities organised
+by branch offices nationwide. These services will further support the growth of the
+Group’s omni-channel capabilities and are being modularised so that they can be easily
+customised and integrated into the Group’s other B&M stores later as required. The
+Group is also continuing to add different story contents and intellectual property
+activities/events to attract consumers to its B&M stores and digital platforms.
+
+Adding a sports services element to the ‘Next Store’ is proved to be a successful
+formula. Since its opening, the first ‘Next Store’ in Taiwan has recorded highly
+satisfactory results, including excellent conversion rates and widespread community
+interest. More ‘Next Stores’ are in the pipeline in 2021 and beyond, including a new
+‘Next Store’ in Shenyang – the Group’s second – which will continue to enhance the
+consumer experience and facilitate sales growth across the omni-channels.
+
+
+
+
+                                           14
+Operational Excellence
+Throughout the year, the Group closely monitored its receivables while extending
+payment terms. Its working capital days further improved to a pleasant level of 142 days
+for the 2020 financial year, compared to 155 days for the first six months of 2020 and
+200 days for the first quarter of 2020. Meanwhile, the Group implemented several cost
+control measures, including rent negotiation with landlords and headcount control, and
+applied for government remedial subsidies. As a result, the Group saw an encouraging
+moderate rebound following the loss in the first quarter of 2020, returned to profit in the
+second quarter of 2020 and maintained this profitable momentum in the second half of
+2020.
+
+The Group reinforced its product sharing platform (“PSP”) to more efficiently share
+products across different platforms, optimise its inventory mix and reduce idle inventory.
+It also continued to invest in its business intelligence system and digital tools to increase
+its operational excellence and operational efficiency, particularly in real-time in-store
+efficiency and resource optimisation.
+
+The Group’s continued investments in its omni-channels and sports services remain
+essential for developing its unique core competencies, maintaining its competitiveness
+and supporting its long-term development. Through these aforementioned efforts, the
+Group is confident that it will overcome various challenges and manage increasing costs
+while capturing long-term opportunities.
+
+Performance Analysis
+Financial Review
+In 2020, the Group recorded revenue of RMB25,611.1 million, representing a decline of
+5.8% compared with the 2019 financial year. Gross profit was RMB7,826.3 million, a
+decline of 15.6% when compared to the 2019 financial year. Profit attributable to owners
+of the Company in 2020 was RMB302.8 million.
+
+
+
+
+                                             15
+Revenue
+The Group’s total revenue in 2020 dropped by 5.8% to RMB25,611.1 million, as
+compared with the 2019 financial year. The decrease was caused by the impact of the
+Pandemic on consumer sentiment, in particular the temporary closure of the B&M stores
+of the Group between Lunar New Year and mid-March 2020, as a result of the various
+strict control measures implemented by the government of China to contain the spread of
+the Pandemic. However, the negative impact was partially offset by the rapid growth of
+the Group’s omni-channel business and a progressive recovery in sales starting from the
+second quarter of 2020, supported by stabilising consumer sentiment.
+
+                                                For the year ended
+                                                   December 31,
+                                                 2020           2019              Change
+                                           RMB million   RMB million
+
+Revenue                                           25,611.1       27,189.8           -5.8%
+Cost of sales                                    (17,784.8)     (17,914.3)          -0.7%
+Gross profit                                       7,826.3        9,275.5          -15.6%
+Gross profit margin (%)                             30.6%          34.1%          -3.5 ppt
+
+Gross Profit
+The Group’s gross profit in 2020 amounted to RMB7,826.3 million with a gross profit
+margin of 30.6%. The gross profit margin declined 3.5 percentage points compared to
+the 2019 financial year, which was mainly attributed to increased promotional activities
+in order to motivate customer demand following the re-opening of the Group’s B&M
+stores in China after Pandemic-related lockdowns, especially in the first half of the year.
+
+Selling & Distribution Expenses and Administrative Expenses
+Selling and distribution expenses in 2020 were RMB6,741.9 million (2019: RMB7,169.0
+million), accounting for 26.3% of the Group’s revenue (2019: 26.4%). The selling and
+distribution expenses primarily include concessionaire fee, depreciation of right-of-use
+assets in relation to stores, sales personnel salaries and commissions, other depreciation
+and amortisation charges, and other expenses which mainly include store operation
+expenses, property management fees, logistic expenses and online service fees.
+
+General and administrative expenses in 2020 were RMB763.3 million (2019:
+RMB1,011.9 million), accounting for 3.0% of the Group’s revenue (2019: 3.7%). The
+general and administrative expenses primarily include management and administrative
+personnel salaries, depreciation and amortisation charges and other expenses.
+
+The Group’s selling and distribution expenses and administrative expenses in 2020 were
+RMB7,505.2 million, a decline of 8.3% compared to the 2019 financial year. This was
+equivalent to 29.3% of total revenue, a decrease of 0.8 percentage point year-on-year.
+The decrease was attributable to strict cost control measures, efficiency improvements
+and positive rent negotiations.
+
+
+                                            16
+Operating Profit
+The Group’s operating profit in 2020 was RMB661.4 million, with an operating margin
+of 2.6%.
+
+Finance Income and Finance Cost
+Finance income increased from RMB8.3 million in 2019 to RMB18.8 million in 2020. It
+was mainly due to increase in bank deposits and an interest-bearing receivable from a
+joint venture during the year. Finance costs increased from RMB247.5 million in 2019 to
+RMB251.8 million in 2020, primarily as a result of an increase in interest expense on
+lease liabilities, as the Group previously opened new stores with greater selling area
+under lease agreements resulted in higher lease liabilities.
+
+Profit for the Year
+As a result of the aforementioned efforts, the Group recorded a net profit of RMB314.7
+million in the 2020 financial year.
+
+Working Capital Efficiency
+The average inventory turnover period for 2020 further improved to 143 days (2019: 150
+days). Inventory efficiency was resilient as a result of efficient in-season procurement
+adjustment and prompt promotional activities. The balance of inventory as at December
+31, 2020 was RMB5,869.5 million as a result of the Group’s continued effort in
+diligently managing inventory levels to optimise working capital efficiency. The average
+trade receivables turnover period was 22 days (2019: 21 days), which remained
+consistent with the credit terms of 30 to 60 days to department store counters and
+wholesale customers. The average trade payables turnover period in 2020 was 23 days
+(2019: 15 days).
+
+Liquidity and Financial Resources
+As at December 31, 2020, mainly due to the increase in operating efficiency and
+asynchronous payment date, the Group had a record high level of cash and cash
+equivalents, which amounted to RMB1,742.3 million (December 31, 2019: RMB613.6
+million), while working capital (current assets minus current liabilities) was RMB3,991.3
+million (December 31, 2019: RMB3,889.3 million). Total bank and other borrowings
+was further reduced to RMB1,948.7 million (December 31, 2019: RMB3,546.0 million)
+and are repayable within one year. In addition, the Group settled the loans from a related
+party outstanding as at December 31, 2019 amounting to RMB555.0 million. Bank and
+other borrowings were mainly denominated in Renminbi and so were cash and cash
+equivalents.
+
+The Group’s gearing ratio as of December 31, 2020, represented by total interest-bearing
+borrowings (excluding lease liabilities) as a percentage of total equity, was 24.7%
+(December 31, 2019: 46.0%).
+
+The net cash generated from operating activities in 2020 was RMB5,119.3 million. The
+Group believes its liquidity requirements will be satisfied with the combination of
+capital generated from operating activities and future bank borrowings. The net cash
+used in investing activities in 2020 was RMB924.8 million, while the net cash used in
+financing activities was RMB3,067.4 million. In 2020, the Group raised and repaid bank
+and other borrowings of RMB3,349.6 million and RMB4,946.8 million respectively.
+
+
+                                           17
+Capital Expenditure
+Due to the Pandemic, many of the Group’s planned capital expenditure projects, such as
+opening of new stores, upgrading existing store formats, and expanding new concept and
+mega stores to provide a better shopping experience, were delayed. As a result, the
+Group’s capital expenditure in 2020 primarily comprised of injecting new resources into
+its online and sports services platform, as well as selectively opening new stores. Total
+capital expenditure in 2020 declined to RMB585.0 million (2019: RMB807.1 million).
+As at December 31, 2020, the Group had no material capital commitments and
+contingent liabilities.
+
+Foreign Exchange
+The Group conducts its business primarily in the Greater China region and the majority
+of its transactions are denominated in Renminbi. As at December 31, 2020, the Group
+had no significant hedging instruments for managing its foreign exchange exposure. As
+the exchange rate of Renminbi against foreign currencies may fluctuate, the Group may
+enter into forward contracts, currency swaps or options to hedge against currency risks
+arising from foreign currency transactions when necessary.
+
+The Group has a dedicated treasury division and internal treasury policies and approval
+guidelines to manage and control the Group’s exposure to structured deposit investments.
+The use of derivatives and approval procedures in 2020 were in accordance to the
+Group’s internal policies and guidelines.
+
+PROSPECTS AND FUTURE DEVELOPMENTS
+The Group’s sales recovery in the second to fourth quarters of 2020 underscores the true
+depth of the long-term growth opportunities present in China’s sportswear and sports
+consumption markets, which will continue to be supported by increasing health
+awareness, growing sports participation rates, and the growth of the athleisure trend in
+the Greater China region.
+
+The Pandemic did not cause consumers to break their exercise habits and spending on
+sports products. In a recent research conducted by the China Sporting Goods Federation
+and AC Nielsen during the Pandemic, 93% of respondents maintained their exercise
+habits and 65% said they have spent an average of RMB4,000 on sports products. The
+government is also continuing to provide official support for growing consumption in
+the sports sector. In August 2020, the General Administration of Sports selected 40
+‘Sports Consumption Trial Cities’ to support the building of sports infrastructure. In
+September 2020, China’s State Council called for the construction of more digitalised
+fitness centres and gymnasiums to promote ‘Internet+Fitness’.
+
+
+
+
+                                           18
+The Group will continue to priortise the acceleration of its digital transformation strategy
+in 2021 as its main goal, especially the Pandemic has permanently changed customers’
+shopping habits. As a result, the Group will maintain its strategy of closing smaller and
+underperforming stores in favour of larger-format stores which also offer premium sports
+services to customers and efficiently and seamlessly complement and integrate with
+omni-channels. With the Group’s continuous diversification of the omni-channels and
+effective inventory management, B2C sales will continue to outstrip B2B sales. This will
+be further supported by new B2C channels such as the Group’s ‘Pan-WeChat
+Ecosphere’, namely through new sales brought in by its WeChat stores and Douyin
+live-streaming shopping events, together with stronger partnerships with major platforms
+that encourage both in-store and omni-channel sales.
+
+The Group will also continue to enhance its business intelligence system and invest in its
+digital tools to better support its inventory management, optimise its resources and
+improve the efficiency of its working capital. It will also continue to drive its offline and
+online sales growth, and reinforce its in-season sell-through and effective off-season
+clearance, and its margin growth through its PSP, dashboard implementation, more
+effective inventory management and better procurement strategy.
+
+The Group will resume its capital expenditure plan in 2021, which includes the on-going
+upgrade and expansion of its experience-driven B&M stores for offering better shopping
+experience, as well as the further optimisation of online and retail networks for capturing
+growth opportunities. However, the actual level of capital expenditure will vary
+depending on the extent of possible regional outbreaks of the Pandemic in China.
+
+The Group will continue to increase its interaction with consumers to 365-day
+communications and encourage normal-day sales by cooperating with brand partners and
+connecting brands’ products to relevant sports events and services. With the
+aforementioned efforts, the Group is well-positioned to benefit from the industry
+recovery, increasing health consciousness among consumers post-Pandemic and
+supportive government measures.
+
+With vaccination programmes set to be rolled out soon across China and the rest of the
+world, the Group is optimistic about its prospects in the coming years, especially as the
+nation gears up for Beijing 2022 Winter Olympics. There is substantial scope of
+long-term growth opportunities that will maximise returns for the Group’s customers,
+partners, employees and shareholders.
+
+
+
+
+                                             19
+HUMAN RESOURCES
+As at December 31, 2020, the Group had approximately 33,300 employees in total. The
+Group provides competitive remuneration packages that are determined with reference to
+prevailing salary levels in the market and individual performance. The Company offers
+share awards to eligible employees in order to provide them with incentives and to
+recognise their contributions and ongoing efforts. In addition, the Group provides other
+fringe benefits, such as social insurance, mandatory provident funds, medical coverage
+and training programs for employees based on their respective personal career
+development.
+
+SHARE OPTION SCHEME
+The share option scheme of the Company was adopted by the shareholders of the
+Company (the “Shareholders”) on May 14, 2008 (the “Share Option Scheme”), certain
+terms of which were amended on March 7, 2012, and was valid and effective for a period
+of ten years from the date of adoption. The Share Option Scheme expired at the end of
+the day on May 13, 2018, after which no further share options should be offered or
+granted. However, the share options granted prior to the expiration of the Share Option
+Scheme shall continue to be valid and exercisable within their respective prescribed
+exercisable periods.
+
+As at December 31, 2020, an aggregate of 31,125,000 ordinary shares of the Company
+(the “Shares”) have been issued and an aggregate of 1,166,320 Shares may be issued
+upon exercise of share options granted under the Share Option Scheme. As at the date of
+this announcement, the total number of Shares available for issue under the Share Option
+Scheme is 1,166,320, representing approximately 0.02% of the issued Shares.
+
+SHARE AWARD SCHEME
+The share award scheme of the Company was adopted on May 9, 2014 and duly amended
+on November 11, 2016, which is valid and effective for a term of 10 years commencing
+on May 9, 2014 (the “Share Award Scheme”). Any proposed award should be determined
+on the basis of individual performance and must be recommended by the remuneration
+committee of the Board and approved by the Board. The total number of Shares to be
+awarded under the Share Award Scheme shall not exceed 4% of the issued Shares as at
+the date of grant. The maximum number of Shares (including vested and non-vested
+Shares) which may be awarded to a selected participant shall not exceed 1% of the
+issued Shares from time to time.
+
+
+
+
+                                          20
+Eligible participant(s) selected by the Board for participation in the Share Award
+Scheme shall have no right to any dividend held under the trust before vesting which
+shall form part of the residual cash or any of the returned Shares. The trustee of the
+Share Award Scheme shall not exercise the voting rights in respect of any Shares held
+under the trust (including but not limited to the awarded Shares, the returned Shares, any
+bonus Shares and scrip dividend).
+
+During the year ended December 31, 2020, 1,500,000 share awards were granted,
+10,638,170 share awards lapsed or were cancelled and 14,007,800 share awards were
+vested under the Share Award Scheme. As at December 31, 2020, an aggregate of
+19,597,200 share awards which are subject to certain vesting conditions, remain
+unvested.
+
+ANNUAL GENERAL MEETING
+The forthcoming 2021 annual general meeting of the Company will be held on Friday,
+May 28, 2021 (the “2021 AGM”). Notice of the 2021 AGM will be published and issued
+to the Shareholders in due course.
+
+FINAL DIVIDEND
+The Directors do not recommend the payment of a final dividend in respect of the year
+ended December 31, 2020 (2019: nil).
+
+CLOSURE OF REGISTER OF MEMBERS
+For the purpose of ascertaining entitlement to attend and vote at the 2021 AGM (the
+“Entitlement to 2021 AGM”), the register of members of the Company will be closed
+from Monday, May 24, 2021 to Friday, May 28, 2021, both days inclusive, during which
+period no transfer of Shares will be effected. In order to be eligible to attend and vote at
+the 2021 AGM, all transfer documents accompanied by the relevant share certificates
+must be lodged with the Company’s branch share registrar and transfer office in Hong
+Kong, Computershare Hong Kong Investor Services Limited at Shops 1712-1716, 17th
+Floor, Hopewell Centre, 183 Queen’s Road East, Wanchai, Hong Kong for registration
+no later than 4:30 p.m. on Friday, May 21, 2021. The record date for Entitlement to 2021
+AGM will be on Friday, May 28, 2021.
+
+
+
+
+                                            21
+PURCHASE, SALE OR REDEMPTION OF LISTED SECURITIES
+During the year ended December 31, 2020, the trustee of the Share Award Scheme,
+pursuant to the terms of the rules and the trust deed of the Share Award Scheme,
+purchased on the Stock Exchange a total of 84,270,000 Shares at a total consideration of
+approximately HK$166.4 million (approximately RMB144.2 million).
+
+Save as disclosed above, neither the Company nor any of its subsidiaries purchased, sold
+or redeemed any of the Company’s Shares listed and traded on the Stock Exchange
+(2019: nil) during the year.
+
+REVIEW OF ACCOUNTS
+The audit committee of the Board has reviewed, with management and Messrs. Deloitte
+Touche Tohmatsu, the independent auditor of the Company (the “Independent Auditor”),
+the Group’s consolidated financial statements for the year ended December 31, 2020, the
+accounting principles and practices adopted by the Group and has discussed auditing,
+risk management and internal controls, and financial reporting matters.
+
+SCOPE OF WORK OF THE INDEPENDENT AUDITOR
+The figures in respect of the Group’s consolidated statement of financial position as at
+December 31, 2020, consolidated income statement and consolidated statement of
+comprehensive income for the year ended December 31, 2020, and the related notes
+thereto as set out in this announcement are in agreement with the amounts as set out in
+the audited consolidated financial statements of the Group for the year as approved by
+the Board on March 23, 2021. Since the work performed by the Independent Auditor in
+this regard did not constitute an assurance engagement performed in accordance with
+Hong Kong Standards on Auditing, Hong Kong Standards on Review Engagements or
+Hong Kong Standards on Assurance Engagements issued by the HKICPA, the
+Independent Auditor does not express any assurance on this announcement.
+
+CORPORATE GOVERNANCE
+During the year ended December 31, 2020, the Company has applied the principles of
+and has complied with all code provisions contained in the Corporate Governance Code
+as set out in Appendix 14 to the Rules Governing the Listing of Securities on the Stock
+Exchange (the “Listing Rules”).
+
+MODEL CODE FOR SECURITIES TRANSACTIONS BY DIRECTORS
+The Company has adopted the Model Code for Securities Transactions by Directors of
+Listed Issuers (the “Model Code”) as set out in Appendix 10 to the Listing Rules as the
+Company’s code of conduct for dealings in securities of the Company by Directors.
+Following specific enquiry by the Company to all Directors, each of them has confirmed
+that he/she has complied with the required standard set out in the Model Code
+throughout the year ended December 31, 2020.
+
+
+
+
+                                          22
+PUBLICATION OF RESULTS ANNOUNCEMENT AND ANNUAL REPORT
+This announcement is published on the website of the Company (www.pousheng.com)
+and the designated issuer website of the Stock Exchange (www.hkexnews.hk). The
+annual report 2020 of the Company will be dispatched to the Shareholders and available
+on the above websites in due course.
+
+ACKNOWLEDGEMENT
+I would like to take this opportunity to express our sincere appreciation of the support
+from our customers, suppliers and Shareholders. I would also like to thank my fellow
+Directors for their valuable contribution and the staff of the Group for their commitment
+and dedicated services throughout the year.
+
+                                                               By Order of the Board
+                                                                  Wu, Pan-Tsu
+                                                                    Chairman
+
+Hong Kong, March 23, 2021
+
+As at the date of this announcement, the Board comprises:
+
+Executive Directors
+Mr. Wu, Pan-Tsu (Chairman) and Mr. Lee, Shao-Wu (Chief Executive Officer)
+
+Non-executive Directors
+Ms. Tsai Patty, Pei Chun and Mr. Li I-nan
+
+Independent Non-executive Directors
+Mr. Chen, Huan-Chung, Mr. Hsieh, Wuei-Jung and Mr. Feng Lei Ming
+
+Website: www.pousheng.com
+
+
+
+
+                                            23
+

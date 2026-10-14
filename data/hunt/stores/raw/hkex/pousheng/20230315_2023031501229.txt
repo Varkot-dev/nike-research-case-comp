@@ -1,0 +1,923 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong
+Limited take no responsibility for the contents of this announcement, make no
+representation as to its accuracy or completeness and expressly disclaim any liability
+whatsoever for any loss howsoever arising from or in reliance upon the whole or any
+part of the contents of this announcement.
+
+
+
+
+  POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+
+                       (Incorporated in Bermuda with limited liability)
+                                    (Stock Code: 3813)
+
+
+                        FINAL RESULTS
+             FOR THE YEAR ENDED DECEMBER 31, 2022
+
+ THE GROUP’S FINANCIAL HIGHLIGHTS
+
+                                                     For the year ended
+                                                       December 31,
+ Financial performance                               2022           2021          Change
+                                                  RMB’000       RMB’000
+
+ Revenue                                       18,638,021         23,350,235      -20.2%
+ Gross profit                                   6,688,046          8,299,283      -19.4%
+ Operating profit                                 414,530            928,457      -55.4%
+ Profit attributable to owners of
+   the Company                                      89,164            356,587      -75.0%
+ Gross profit margin (%)                            35.9%              35.5%       0.4 ppt
+ Operating profit margin (%)                         2.2%               4.0%      -1.8 ppt
+ Basic earnings per share (RMB cents)                 1.72               6.86      -74.9%
+ Dividend per share
+   Final dividend (proposed) (HK$)                        –               0.016   -100.0%
+
+                                                     As at December 31,
+ Financial position                                  2022          2021
+                                                  RMB’000      RMB’000
+
+ Inventories                                      6,071,858         7,578,037     -19.9%
+ Trade and other receivables                      2,149,713         2,807,379     -23.4%
+ Bank balances and cash                           1,190,148         1,233,783      -3.5%
+ Bank borrowings                                    456,162         1,581,640     -71.2%
+
+
+
+
+                                              1
+RESULTS
+The board (the “Board”) of directors (the “Directors”) of Pou Sheng International
+(Holdings) Limited (the “Company”) announces the audited consolidated results of the
+Company and its subsidiaries (collectively referred to as the “Group”) for the year ended
+December 31, 2022 with comparative figures for the corresponding year in 2021 as
+follows:
+
+CONSOLIDATED INCOME STATEMENT
+For the year ended December 31, 2022
+
+                                                               2022               2021
+                                                Notes       RMB’000            RMB’000
+
+Revenue                                          3          18,638,021       23,350,235
+Cost of sales                                              (11,949,975)     (15,050,952)
+
+Gross profit                                                 6,688,046         8,299,283
+Other operating income and gains (losses)                      342,839           458,017
+Selling and distribution expenses                           (5,806,761)       (6,962,403)
+Administrative expenses                                       (809,594)         (866,440)
+
+Operating profit                                              414,530           928,457
+
+Finance costs                                                (166,759)          (202,932)
+Finance income                                                 22,235             28,079
+
+                                                             (144,524)          (174,853)
+Share of results of joint ventures                                  –           (163,512)
+Other losses                                     4             (7,143)           (15,972)
+
+Profit before taxation                                        262,863            574,120
+Income tax expense                               5           (162,625)          (198,365)
+
+Profit for the year                              6            100,238           375,755
+
+
+Attributable to:
+  Owners of the Company                                        89,164           356,587
+  Non-controlling interests                                    11,074            19,168
+
+                                                              100,238           375,755
+
+
+Earnings per share                               8
+  – Basic                                               RMB1.72 cents     RMB6.86 cents
+
+
+  – Diluted                                             RMB1.72 cents     RMB6.84 cents
+
+
+                                            2
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+For the year ended December 31, 2022
+
+                                                             2022        2021
+                                                          RMB’000     RMB’000
+
+Profit for the year                                        100,238     375,755
+
+Other comprehensive expense
+An item that will not be reclassified to profit or loss
+Fair value loss on investments in equity instrument
+  at fair value through other comprehensive income          (1,155)       (106)
+
+An item that may be reclassified subsequently
+  to profit or loss
+Exchange differences arising on the translation of
+  foreign operations                                        (1,790)       (139)
+
+Other comprehensive expense for the year                    (2,945)       (245)
+
+Total comprehensive income for the year                     97,293     375,510
+
+
+Attributable to:
+  Owners of the Company                                     86,219     356,342
+  Non-controlling interests                                 11,074      19,168
+
+                                                            97,293     375,510
+
+
+
+
+                                              3
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+At December 31, 2022
+
+                                                           2022         2021
+                                                 Note   RMB’000      RMB’000
+
+Non-current assets
+Investment properties                                      87,700       88,900
+Property, plant and equipment                             886,396    1,122,074
+Right-of-use assets                                     2,281,544    2,890,219
+Deposits paid for acquisition of property,
+  plant and equipment                                     36,934       44,792
+Rental deposits                                          143,467      168,453
+Intangible assets                                         61,815       70,253
+Goodwill                                                 522,163      522,163
+Interests in joint ventures                                    –            –
+Equity instrument at fair value through
+  other comprehensive income                               1,813        3,019
+Deferred tax assets                                      161,321       56,145
+
+                                                        4,183,153    4,966,018
+
+Current assets
+Inventories                                             6,071,858    7,578,037
+Trade and other receivables                       9     2,149,713    2,807,379
+Taxation recoverable                                        3,989       73,763
+Bank balances and cash                                  1,190,148    1,233,783
+
+                                                        9,415,708   11,692,962
+
+
+
+
+                                             4
+                                                         2022         2021
+                                               Note   RMB’000      RMB’000
+
+Current liabilities
+Trade and other payables                       10     2,190,904    3,542,079
+Contract liabilities                                    447,916      445,644
+Taxation payable                                         71,599       40,332
+Bank borrowings                                         456,162    1,581,640
+Lease liabilities                                       774,164      978,018
+
+                                                      3,940,745    6,587,713
+
+Net current assets                                    5,474,963    5,105,249
+
+Total assets less current liabilities                 9,658,116   10,071,267
+
+Non-current liabilities
+Deferred tax liabilities                                 24,569       26,207
+Lease liabilities                                     1,439,627    1,842,864
+
+                                                      1,464,196    1,869,071
+
+Net assets                                            8,193,920    8,202,196
+
+
+Capital and reserves
+Share capital                                            46,438       46,438
+Reserves                                              8,067,815    8,049,026
+
+Equity attributable to owners of the Company          8,114,253    8,095,464
+Non-controlling interests                                79,667      106,732
+
+Total equity                                          8,193,920    8,202,196
+
+
+
+
+                                          5
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+1.   GENERAL INFORMATION
+     The Company is incorporated in Bermuda as an exempted company with limited liability and its
+     shares are listed on The Stock Exchange of Hong Kong Limited (the “Stock Exchange”). The
+     immediate holding company of the Company is Major Focus Management Limited, a company
+     incorporated in the British Virgin Islands and the ultimate parent of the Company is Pou Chen
+     Corporation, a company listed on the Taiwan Stock Exchange Corporation. The shares of an
+     intermediate holding company of the Company, Yue Yuen Industrial (Holdings) Limited, an
+     exempted company incorporated in Bermuda with limited liability, are also listed on the Stock
+     Exchange.
+
+     The consolidated financial statements are presented in Renminbi (“RMB”), which is also the
+     functional currency of the Company.
+
+2.   APPLICATION OF AMENDMENTS TO HONG KONG FINANCIAL REPORTING
+     STANDARDS (“HKFRSs”)
+     Amendments to HKFRSs that are mandatorily effective for the current year
+
+     In the current year, the Group has applied the following amendments to HKFRSs issued by the
+     Hong Kong Institute of Certified Public Accountants (“HKICPA”) for the first time, which are
+     mandatorily effective for the annual periods beginning on or after January 1, 2022 for the
+     preparation of consolidated financial statements:
+
+     Amendments to HKFRS 3              Reference to the Conceptual Framework
+     Amendments to HKFRS 16             COVID-19-Related Rent Concessions beyond June 30, 2021
+     Amendment to HKAS 16               Property, Plant and Equipment - Proceeds before Intended Use
+     Amendments to HKAS 37              Onerous Contracts - Cost of Fulfilling a Contract
+     Amendments to HKFRSs               Annual Improvements to HKFRSs 2018 - 2020
+
+     In addition, the Group applied the agenda decision of the International Financial Reporting
+     Standards Interpretations Committee (the “Committee”) of the International Accounting Standards
+     Board issued in June 2021 which clarified the costs an entity should include as “estimated costs
+     necessary to make the sale” when determining the net realisable value of inventories. The
+     application of Committee’s agenda decision results in change in accounting policy for inventories.
+
+     The application of amendments to HKFRSs and the Committee’s agenda decision in the current
+     year has had no material impact on the Group’s financial positions and performance for the current
+     and prior years and/or on the disclosures set out in these consolidated financial statements.
+
+
+
+
+                                                  6
+3.   REVENUE AND SEGMENTAL INFORMATION
+     The Group is principally engaged in the distribution and retailing of sportswear and footwear
+     products and provision of large scale commercial spaces to retailers and distributors for
+     commissions from concessionaire sales. The Group’s results and revenue are reported as a whole on
+     a regular basis to the chief operating decision maker, being the executive directors of the Company,
+     for the purposes of performance assessment and resource allocation. No other discrete financial
+     information is presented other than entity-wide disclosures.
+
+     The following is an analysis of the Group’s revenue recognised at a point in time:
+
+                                                                                2022              2021
+                                                                             RMB’000           RMB’000
+
+     Sales of sportswear and footwear products                              18,528,602       23,222,060
+     Commissions from concessionaire sales                                     109,419          128,175
+
+
+                                                                            18,638,021       23,350,235
+
+
+4.   OTHER LOSSES ARISING OTHER THAN OPERATING ACTIVITIES
+                                                                                2022              2021
+                                                                             RMB’000           RMB’000
+
+     Loss on disposal of subsidiaries                                           (5,943)                –
+     Impairment loss recognised on an intangible asset                               –           (10,172)
+     Fair value changes on investment properties                                (1,200)           (5,800)
+
+
+                                                                                (7,143)          (15,972)
+
+
+5.   INCOME TAX EXPENSE
+                                                                                2022              2021
+                                                                             RMB’000           RMB’000
+
+     Taxation attributable to the Company and its subsidiaries:
+
+     People’s Republic of China (“PRC”)
+       Enterprise Income Tax (“EIT”) (note)
+       – Current year                                                          224,851          229,368
+       – Under(over)provision in prior years                                     9,806           (4,807)
+       Withholding tax on dividend                                              34,846                –
+
+
+     Current tax charge                                                        269,503          224,561
+     Deferred tax credit                                                      (106,878)         (26,196)
+
+
+                                                                               162,625          198,365
+
+
+
+
+                                                   7
+     note:
+
+     PRC EIT is calculated based on the statutory rate of 25% of the assessable profit for those
+     subsidiaries established in the PRC, as determined in accordance with the relevant enterprise
+     income tax law, implementation rules and notices in the PRC, except for certain subsidiaries
+     eligible for PRC EIT rate of 15% from local tax bureaus.
+
+6.   PROFIT FOR THE YEAR
+                                                                              2022          2021
+                                                                           RMB’000       RMB’000
+
+     Profit for the year has been arrived at after charging (crediting):
+
+     Directors’ and the chief executives’ emoluments                          3,881         3,244
+     Retirement benefit scheme contributions,
+       excluding directors and the chief executives                         381,645       350,096
+     Equity-settled share-based payments,
+       excluding directors and the chief executives                            3,130        4,553
+     Other staff costs                                                     2,036,942    2,406,214
+
+
+     Total staff costs                                                     2,425,598    2,764,107
+
+
+     Auditor’s remuneration                                                    5,587        5,807
+     Depreciation of property, plant and equipment                           481,651      540,672
+     Depreciation of right-of-use assets                                   1,082,593    1,234,609
+     Amortisation of intangible assets (included in selling and
+       distribution expenses)                                                 8,438        99,913
+     Impairment loss on property, plant and equipment and
+       right-of-use assets (included in selling and
+       distribution expenses)                                                20,000             –
+     Gross rental income from investment properties,
+       net of direct expenses                                                (3,934)       (4,221)
+     Net changes in allowance for inventories                                76,018        32,456
+
+
+     For the years ended December 31, 2022 and 2021, cost of inventories recognised as an expense
+     represents cost of sales as shown in the consolidated income statement.
+
+     For the year ended December 31, 2022, the novel coronavirus (COVID-19) pandemic related
+     government grants/assistance amounted to RMB21,329,000 (2021: RMB7,865,000) were deducted
+     from staff costs.
+
+
+
+
+                                                     8
+7.   DIVIDENDS
+                                                                                2022              2021
+                                                                             RMB’000           RMB’000
+
+     Dividend recognised as distribution during the year:
+
+     2021 final dividend of HK$0.016 per share
+       (2021: nil)                                                              70,805                 –
+
+
+     Subsequent to the end of the reporting period, the Directors resolved not to recommend payment of
+     a final dividend in respect of the year end December 31, 2022.
+
+8.   EARNINGS PER SHARE
+     The calculation of the basic and diluted earnings per share attributable to owners of the Company is
+     based on the following data:
+
+                                                                                2022              2021
+                                                                             RMB’000           RMB’000
+
+     Earnings:
+
+     Earnings for the year attributable to owners of the Company
+       for the purposes of basic and diluted earnings per share                 89,164           356,587
+
+
+                                                                                  2022              2021
+
+     Number of shares:
+
+     Weighted average number of ordinary shares for
+       the purpose of basic earnings per share                          5,174,290,612     5,194,816,603
+     Effect of dilutive potential ordinary shares:
+       – unvested awarded shares                                             2,806,716       17,765,765
+
+
+     Weighted average number of ordinary shares for
+      the purpose of diluted earnings per share                         5,177,097,328     5,212,582,368
+
+
+     The weighted average number of ordinary shares shown above has been arrived at after deducting
+     the shares held by the trustee of the share award scheme of the Company. The computation of
+     diluted earnings per share for the year ended December 31, 2021 did not assume the exercise of
+     share options of the Company because the exercise price of those options was higher than the
+     average market price of shares.
+
+
+
+
+                                                  9
+9.    TRADE AND OTHER RECEIVABLES
+      The Group generally allows credit periods of 30 days to 60 days which are agreed with each of its
+      trade customers.
+
+      Included in trade and other receivables are trade receivables, net of allowance for doubtful debts, of
+      RMB862,084,000 (2021: RMB1,165,003,000) and an aged analysis based on the invoice date at the
+      end of the reporting period, which approximated to the respective revenue recognition dates, is as
+      follows:
+
+                                                                                  2022               2021
+                                                                               RMB’000            RMB’000
+
+      0 – 30 days                                                                820,300         1,105,075
+      31 – 90 days                                                                41,784            59,225
+      Over 90 days                                                                     –               703
+
+
+                                                                                 862,084         1,165,003
+
+
+10.   TRADE AND OTHER PAYABLES
+      Included in trade and other payables are trade and bills payables of RMB819,396,000 (2021:
+      RMB1,655,096,000) and an aged analysis based on the invoice date/issuance date of the bills at the
+      end of the reporting period, is as follows:
+
+                                                                                  2022               2021
+                                                                               RMB’000            RMB’000
+
+      0 – 30 days                                                                518,651         1,654,102
+      31 – 90 days                                                                   745                10
+      Over 90 days                                                               300,000               984
+
+
+                                                                                 819,396         1,655,096
+
+
+      The credit period for payment of purchases of goods is ranging from 30 days to 60 days. The Group
+      has financial risk management policies in place to ensure that all payables are settled within the
+      credit timeframe.
+
+
+
+
+                                                    10
+MANAGEMENT DISCUSSION AND ANALYSIS
+Business Review
+Business Model and Environment
+Business Environment
+Outside of a short-lived spending rebound at the beginning of the year, retailers across
+mainland China faced enormous challenges in 2022. Throughout most of the year,
+control measures aimed at avoiding the mass spread of the COVID-19 pandemic (the
+“Pandemic”), including an escalating number of lockdowns in specific cities and
+transportation controls, pushed down traffic. Low and volatile foot traffic became the
+“new normal” as consumers adjusted their behaviour even in areas not subject to control
+measures. Further, in December, when almost all Pandemic control measures in mainland
+China were lifted, footfalls fell even further as COVID-19 cases in major cities rose
+rapidly and most consumers sheltered at home. According to the figures released by
+National Bureau of Statistics of China, retail value of garments, footwear, hats and
+knitwear fell by 6.5% year-on-year, highlighting the scale of the challenge faced by the
+entire footwear and apparel retail sector.
+
+The Group could not escape these headwinds. Despite starting off the year strongly, its
+sales momentum was soon hit by the temporary shuttering of some of its stores in
+regions subject to government-imposed lockdowns, as well as by a severe drop in store
+traffic nationwide, especially in higher-end shopping venues in higher tier cities where
+the Group operates. Other challenges, such as disrupted logistics and hindered last-mile
+delivery, further dampened the situation, especially in the first half of 2022. Mixed and
+volatile retail sentiment delayed the recovery path throughout the year.
+
+While encouragingly, sales recovered sequentially with improving store traffic in
+selective regions at the end of December, despite a bumpy path of re-opening during the
+last two months of the year 2022. As a result of the Group’s relentless digital
+transformation, its online B2C sales were relatively resilient with its private domain
+channels, including its WeChat stores, Douyin live-streaming shopping events and
+shopping mall membership platforms, continuing to grow robustly throughout the year,
+partially offsetting anaemic sales in its brick and mortar (“B&M”) network.
+
+To best position itself for the coming economic recovery, the Group continued to be
+highly agile and flexible in its decision-making and in progressing its retail refinement
+strategy. This includes further streamlining and upgrading its B&M network while
+strengthening and diversifying its online public and private traffic domains to enhance
+its channel mix, deliver better conversion rates, and more in-season full-price sales.
+Through the course of this undertaking, it also deepened its engagement with customers
+and improved its operational efficiency. More importantly, the Group continued to
+intensify its collaboration with its brand partners to create a seamless shopping
+experience for its customers while prioritising healthier sales, as well as enhancing
+membership and inventory integration.
+
+
+
+
+                                           11
+Hybrid Channel Management – B&M
+Sales momentum within the Group’s B&M network was pressured by the weak consumer
+sentiment caused by outbreaks and lockdowns throughout 2022. The vast surge of the
+Pandemic became especially pronounced following the lifting of control measures
+nationwide in December 2022, which further dampened foot traffic and sales.
+Nevertheless, recovery momentum in the late December benefited from continued
+in-store traffic improvement in certain regions where the outbreaks started earlier.
+
+During the year, it continued to close or upgrade underperforming stores, while adopting
+a holistic view towards new store openings: optimising its investment returns as a whole
+by prioritising geographic regions with an outstanding operating track record and
+convincing potential, with stores only being opened following a thorough assessment
+and not only in accordance with allocations from brands. As at December 31, 2022, the
+Group’s retail network totalled 7,293 stores, consisting of 4,093 directly operated stores
+and 3,200 sub-distributor stores across the Greater China region.
+
+Movement of directly operated stores during the year ended:
+
+                                                December 31, 2022        December 31, 2021
+
+At the beginning of the year                                    4,631                5,240
+Net decrease in the number of stores                             (538)                (609)
+
+At the end of the year                                          4,093                4,631
+
+Numbers and percentages of directly operated stores by size as at:
+
+                                       December 31, 2022             December 31, 2021
+                                       Number            %           Number            %
+
+Selling area
+300 m2 or smaller                         3,332            81            3,879         84
+Larger than 300 m2                          761            19              752         16
+
+Total                                     4,093           100            4,631        100
+
+B&M retail channels remain a critical and irreplaceable sales touchpoint for consumers
+in the Greater China region who want to discover new products and experience a unique,
+personalised and seamless shopping experience for sports products and services.
+Throughout 2022, the Group continued to invest in optimising store formats and
+accelerated its digital transformation by integrating its WeChat stores, membership
+programmes and other digital services and tools into its B&M network, which, in turn, to
+enrich the consumer experience and stimulate more repeat purchases, higher units per
+transaction and higher-margin in-season sales within its offline network.
+
+
+
+
+                                           12
+Hybrid Channel Management – Omni-channels
+The Group’s omni-channels include its public traffic domains, covering the operation of
+third-party platforms such as Tmall, JD and Vipshop, as well as its increasingly
+important private traffic domain – the Pan-WeChat Ecosphere – which covers its
+WeChat stores, Douyin live-streaming shopping events and shopping mall membership
+platforms. In 2022, it continued to strengthen and grow these omni-channels, further
+deepening and expanding its engagement with shoppers while delivering better
+operational efficiency.
+
+The Group’s online sales momentum was relatively resilient, with its omni-channels
+collectively contributing approximately 24% of total sales in 2022, despite volatile retail
+sentiment caused by lockdowns and control measures. Its private traffic domain channels
+experienced strong sales growth throughout the year as the Group further elevated its
+digital sales capabilities. The Pan-WeChat Ecosphere, proving to be an increasingly
+lucrative and effective sales channel, successfully delivering better conversion rates,
+shorter sales cycles and more full-price in-season sales transacted at an earlier time.
+
+WeChat stores serve as an extension of its B&M network, providing quality and
+comprehensive customer services. Within the Pan-WeChat Ecosphere, the Group
+continued to embed Douyin livestreams conducted by designated Key Opinion Staff, as
+well as its more value-added services, diverse content and member-exclusive benefits
+stemming from its integrated membership programmes with its brand customers to
+achieve quality incremental sales. The Group is continuing to invest in and allocate more
+resources to its private traffic domain channels to generate sustainable consumer loyalty,
+boosted by the provision of more membership-related services.
+
+Enhanced Strategic Alliance with Business Partners
+The Group further deepen strategic partnership with its brand customers, particularly in
+areas such as an impeccable and diverse shopping experience and consumer connectivity.
+Leveraging its YYsports WeChat Mini-Program in the Greater China region, it continued
+to boost its membership programmes while offering diversified sports services content,
+interactive features and other related services, to support in-depth membership
+management and to facilitate a premium and seamless online and offline customer
+experience. Through the increased integration and direct connection of our membership
+programmes with brand partners, it further supported membership growth and increased
+in-season sales volumes.
+
+Moreover, Group continued to reinforce its product-sharing platform (“PSP”) and
+enhance its Omni-Hub programme with brand partners to efficiently share products and
+services across different platforms and channels to optimise its inventory mix, accelerate
+sales cycle and optimise its services to loyal members and consumers.
+
+
+
+
+                                            13
+Strengthened Operational Excellence with Digital Transformation
+The Group also invested further in the upgrades of its Enterprise Resource Planning
+(“ERP”) system, business intelligence platform, PSP and other digital tools to drive
+future retail excellence, particularly in areas such as real-time in-store efficiency,
+resource optimisation as well as membership services through digital empowerment.
+
+The Group’s ongoing investments in its omni-channels alongside retail refinement
+strategy remain essential for developing its unique core competencies, maintaining its
+competitiveness and supporting its long-term development. It has also streamlined its
+operations to enhance people efficiency, cost competitiveness and to shorten sales
+cycles. Through these aforementioned efforts, the Group is confident that it will be more
+adaptable to the ever-changing operating environment while capturing long-term growth
+opportunities.
+
+Performance Analysis
+Financial Review
+In 2022, the Group recorded revenue of RMB18,638.0 million, representing a decrease
+of 20.2% compared with the 2021 financial year. Gross profit was RMB6,688.0 million,
+representing a decrease of 19.4% when compared to the 2021 financial year. Profit
+attributable to owners of the Company in 2022 was RMB89.2 million.
+
+Revenue
+The Group’s total revenue in 2022 decreased 20.2% to RMB18,638.0 million, as
+compared with the 2021 financial year. Despite a strong start to the year and the
+continued resilience of the Group’s Pan-WeChat Ecosphere, the decrease in revenue was
+mostly attributed to weak foot traffic and soft consumer sentiment following Pandemic
+control measures across mainland China.
+
+                                    For the year ended December 31,
+                                              2022            2021              Change
+                                      RMB million       RMB million
+
+Revenue                                     18,638.0           23,350.2          -20.2%
+Cost of sales                              (11,950.0)         (15,050.9)         -20.6%
+Gross profit                                 6,688.0            8,299.3          -19.4%
+Gross profit margin (%)                       35.9%              35.5%           0.4 ppt
+
+
+
+
+                                           14
+Gross Profit
+The Group’s gross profit in 2022 amounted to RMB6,688.0 million with a gross profit
+margin of 35.9%. Its gross profit margin was resilient year-over-year, increased by 0.4
+percentage points compared to the 2021 financial year, as it enhanced its channel mix
+within the current volatile retail environment.
+
+Selling & Distribution Expenses and Administrative Expenses
+The Group’s selling and distribution expenses in 2022 were RMB5,806.8 million (2021:
+RMB6,962.4 million), accounting for 31.2% of the Group’s revenue (2021: 29.8%).
+Selling and distribution expenses primarily include concessionaire fees, depreciation of
+right-of-use assets in relation to stores, sales personnel salaries and commissions, other
+depreciation and amortisation charges, and other expenses that mainly include store
+operation expenses, property management fees, logistic expenses and other expenses.
+
+Administrative expenses in 2022 were RMB809.6 million (2021: RMB866.4 million),
+accounting for 4.3% of the Group’s revenue (2021: 3.7%). Administrative expenses
+primarily include management and administrative personnel salaries, depreciation and
+amortisation charges and other expenses.
+
+The Group’s selling and distribution expenses and administrative expenses in 2022 were
+RMB6,616.4 million, representing a decrease of 15.5% compared to the 2021 financial
+year. This was equivalent to 35.5% of total revenue, an increase of 2.0 percentage points
+year-on-year.
+
+Operating Profit
+The Group’s operating profit in 2022 was RMB414.5 million, with an operating margin
+of 2.2%.
+
+Finance Income and Finance Costs
+Finance income in 2022 was RMB22.2 million, compared to RMB28.1 million in the
+2021 financial year. Finance costs in 2022 were RMB166.8 million, decreased by 17.8%
+as compared to RMB202.9 million in the 2021 financial year, primarily as a result of a
+decrease in interest expense on lease liabilities during the year.
+
+Profit for the Year
+The Group recorded a net profit of RMB100.2 million in 2022, representing a decline of
+73.3% as compared to the 2021 financial year.
+
+
+
+
+                                           15
+Working Capital Efficiency
+The average inventory turnover period for 2022 was 208 days (2021: 163 days). The
+balance of inventory as at December 31, 2022 was RMB6,071.9 million, decreased from
+RMB7,578.0 million as at December 31, 2021, attributed to the Group’s efforts to clear
+excess inventory and to enhance inventory efficiency. The average trade receivables
+turnover period was 20 days (2021: 22 days), which remained consistent with the credit
+terms of 30 to 60 days that the Group gave its department store counters and retail
+distributors. The average trade payables turnover period in 2022 was 38 days (2021: 38
+days).
+
+Liquidity and Financial Resources
+As at December 31, 2022, the Group has solid cash and cash equivalents amounting to
+RMB1,190.1 million (December 31, 2021: RMB1,233.8 million) while working capital
+(current assets minus current liabilities) was RMB5,475.0 million (December 31, 2021:
+RMB5,105.2 million). Total bank borrowings were further reduced to RMB456.2 million
+(December 31, 2021: RMB1,581.6 million) and are repayable within one year. Bank
+borrowings and cash equivalents were mainly denominated in Renminbi. The Group’s
+loans under a fixed rate arrangement made up approximately 92% (December 31, 2021:
+99%) of its total bank borrowings.
+
+The Group’s gearing ratio as of December 31, 2022, represented by total interest-bearing
+borrowings (excluding lease liabilities) as a percentage of total equity, was 5.6%
+(December 31, 2021: 19.3%). The net debt to equity ratio turned to net cash (December
+31, 2021: 4.2%).
+
+The net cash generated from operating activities in 2022 was RMB2,666.4 million. The
+Group believes its liquidity requirements will be satisfied with the combination of
+capital generated from operating activities and future bank borrowings. The net cash
+used in investing activities in 2022 was RMB219.8 million, while the net cash used in
+financing activities was RMB2,488.1 million.
+
+Capital Expenditure
+The Group continued its selective and prudent approach of capital expenditure planning
+in the areas of strategic new store openings, ongoing upgrades and the expansion of
+experience-driven B&M stores that offer a better shopping experience and store
+productivity improvements, as well as further optimising its online and B&M networks
+to capture growth opportunities. Total capital expenditure in 2022 declined to RMB311.6
+million (2021: RMB452.4 million). As at December 31, 2022, the Group had no material
+contingent liabilities.
+
+
+
+
+                                          16
+As at December 31, 2022, capital expenditure in respect of the acquisition of property,
+plant and equipment contracted for but not provided in the consolidated financial
+statements was RMB62.7 million (December 31, 2021: RMB70.5 million). The Group
+also entered into new leases for several retail stores that have not yet commenced, with
+an average non-cancellable period ranging from 1 to 3 years (2021: 1 to 5 years), with
+the total future undiscounted cash flows over the non-cancellable period amounting to
+RMB21.4 million (December 31, 2021: RMB15.3 million).
+
+Foreign Exchange
+The Group conducts its business primarily in the Greater China region and the majority
+of its transactions are denominated in Renminbi. As at December 31, 2022, the Group
+had no significant hedging instruments for managing its foreign exchange exposure. As
+the exchange rate of the Renminbi against foreign currencies may fluctuate, the Group
+may enter into forward contracts, currency swaps or options to hedge against currency
+risks arising from foreign currency transactions when necessary.
+
+The Group has a dedicated treasury division and internal treasury policies and approval
+guidelines to manage and control the Group’s exposure to structured deposit investments.
+The use of derivatives and approval procedures in 2022 was in accordance with the
+Group’s internal policies and guidelines.
+
+PROSPECTS AND FUTURE DEVELOPMENTS
+Recent surveys suggest that the first wave of Pandemic infections in many major cities
+and regions in mainland China has already peaked, while near-term consumer sentiment
+among regions remains volatile. With disrupted logistics and last-mile delivery issues no
+longer challenges, plus the encouraging sentiment brought by the earlier Chinese New
+Year in the beginning of year 2023, improving in-store traffic and purchase intent are
+leading the way to a sound recovery. The Group is cautiously optimistic about an overall
+rebound of its business in year 2023 as footfall returns gradually across the nation and
+forthcoming recovery in consumption, paying the way for its sales growth.
+
+The Group will continue to accelerate its digital transformation, in particular leveraging
+the outperformance of its Pan-WeChat Ecosphere to drive its profitable growth and
+margin improvement in 2023. It will further grow and promote its integrated membership
+programmes with brand partners, connecting these membership services with its growing
+number of digitally enabled stores and allowing customers to access premium
+member-exclusive products, offers and experiences that are consistent with that available
+at the directly operated stores of these brands in the Greater China region.
+
+
+
+
+                                           17
+The Group will also push forward its other innovative strategies developed and rolled
+out with its brand partners, including its rapidly expanding Omni-Hub programme that
+focuses on inventory sharing. The Group will continue to optimise its omni-channels,
+aiming to become less reliant on promotions and improving its inventory management
+efficiency to achieve better margin profile and operational efficiency. It will also further
+upgrade its ERP system, business intelligence platforms and invest in other digital
+empowerment tools, such as smart product allocation artificial intelligence, dashboard
+and E-POS to better support its operations, optimise its inventory management and
+improve its working capital efficiency. It will also continue to drive its offline and
+online sales growth, and reinforce its in-season sell-through, off-season clearance and
+margin growth through its PSP with a more agile procurement strategy, and more
+effective inventory management.
+
+Regarding offline channel, the Group remains focused on its retail refinement strategy-
+upgrading and refining its B&M network to offer a digitally-enabled, superior customer
+experience, while exploring new cooperation opportunities with business partners that
+will ultimately drive sustainable growth. The pace of store adjustments in 2023 is poised
+to be more normalised under a more stabilised retail environment.
+
+Although the current external environment remains challenging, the prospects for the
+sports industry in the Greater China region remain bright. The authorities remain
+committed to high-quality sports development, with the industry set to grow to
+RMB5 trillion in value by 2025. This will enable the Group to return to and exceed its
+previous growth momentum while strengthening its long-term financial performance and
+profitability.
+
+HUMAN RESOURCES
+As at December 31, 2022, the Group had approximately 25,800 employees in total. The
+Group provides competitive remuneration packages that are determined with reference to
+prevailing salary levels in the market and individual performance. The Company offers
+share awards to eligible employees in order to provide them with incentives and to
+recognise their contributions and ongoing efforts. In addition, the Group provides other
+fringe benefits, such as social insurance, mandatory provident funds, medical coverage
+and training programmes for employees based on their respective personal career
+development.
+
+
+
+
+                                            18
+SHARE AWARD SCHEME
+The share award scheme of the Company was adopted on May 9, 2014 and duly amended
+on November 11, 2016, which is valid and effective for a term of 10 years commencing
+on May 9, 2014 (the “Share Award Scheme”). It is funded by the existing shares of the
+Company and not involving issue of new shares. Any proposed award should be
+determined on the basis of individual performance and must be recommended by the
+remuneration committee of the Board and approved by the Board. The total number of
+ordinary shares of the Company (the “Shares”) to be awarded under the Share Award
+Scheme shall not exceed 4% of the issued Shares as at the date of grant. The maximum
+number of Shares (including vested and non-vested Shares) which may be awarded to a
+selected participant shall not exceed 1% of the issued Shares from time to time.
+
+Eligible participant(s) selected by the Board for participation in the Share Award
+Scheme shall have no right to any dividend held under the trust before vesting which
+shall form part of the residual cash or any of the returned Shares. The trustee of the
+Share Award Scheme shall not exercise the voting rights in respect of any Shares held
+under the trust (including but not limited to the awarded Shares, the returned Shares, any
+bonus Shares and scrip dividend).
+
+During the year ended December 31, 2022, 1,200,000 share awards were granted,
+2,227,700 share awards lapsed or were cancelled and 6,776,800 share awards were
+vested under the Share Award Scheme. As at December 31, 2022, an aggregate of
+8,163,000 share awards which are subject to certain vesting conditions, remain unvested.
+
+ANNUAL GENERAL MEETING
+The forthcoming 2023 annual general meeting of the Company will be held on Thursday,
+May 25, 2023 (the “2023 AGM”). Notice of the 2023 AGM will be published and issued
+to the shareholders of the Company (the “Shareholders”) in due course.
+
+FINAL DIVIDEND
+The Directors do not recommend the payment of a final dividend in respect of the year
+ended December 31, 2022 (2021: HK$0.016 per Share).
+
+CLOSURE OF REGISTER OF MEMBERS
+For the purpose of ascertaining entitlement to attend and vote at the 2023 AGM (the
+“Entitlement to 2023 AGM”), the register of members of the Company will be closed
+from Monday, May 22, 2023 to Thursday, May 25, 2023, both days inclusive, during
+which period no transfer of Shares will be effected. In order to be eligible to attend and
+vote at the 2023 AGM, all transfer documents accompanied by the relevant share
+certificates must be lodged with the Company’s branch share registrar and transfer office
+in Hong Kong, Computershare Hong Kong Investor Services Limited at Shops
+1712-1716, 17th Floor, Hopewell Centre, 183 Queen’s Road East, Wanchai, Hong Kong
+for registration no later than 4:30 p.m. on Friday, May 19, 2023. The record date for
+Entitlement to 2023 AGM will be on Thursday, May 25, 2023.
+
+
+                                           19
+PURCHASE, SALE OR REDEMPTION OF LISTED SECURITIES
+During the year ended December 31, 2022, neither the Company nor any of its
+subsidiaries had purchased, sold or redeemed any of its listed securities (2021:
+30,668,000 Shares).
+
+REVIEW OF ACCOUNTS
+The audit committee of the Board has reviewed, with management and Messrs. Deloitte
+Touche Tohmatsu, the independent auditor of the Company (the “Independent Auditor”),
+the Group’s consolidated financial statements for the year ended December 31, 2022, the
+accounting principles and practices adopted by the Group and has discussed auditing,
+risk management and internal controls, and financial reporting matters.
+
+SCOPE OF WORK OF THE INDEPENDENT AUDITOR
+The figures in respect of the Group’s consolidated statement of financial position as at
+December 31, 2022, consolidated income statement and consolidated statement of
+comprehensive income for the year ended December 31, 2022, and the related notes
+thereto as set out in this announcement are in agreement with the amounts as set out in
+the audited consolidated financial statements of the Group for the year as approved by
+the Board on March 15, 2023. The work performed by the Independent Auditor in this
+respect did not constitute an assurance engagement and consequently no opinion or
+assurance conclusion has been expressed by the Independent Auditor on this
+announcement.
+
+CORPORATE GOVERNANCE
+The Company has applied the principles of and has complied with all the applicable code
+provisions contained in the Corporate Governance Code as set out in Appendix 14 to the
+Rules Governing the Listing of Securities on the Stock Exchange (the “Listing Rules”)
+throughout the year ended December 31, 2022.
+
+MODEL CODE FOR SECURITIES TRANSACTIONS BY DIRECTORS
+The Company has adopted the Model Code for Securities Transactions by Directors of
+Listed Issuers (the “Model Code”) as set out in Appendix 10 to the Listing Rules as the
+Company’s code of conduct for dealings in securities of the Company by Directors.
+Having made specific enquiry by the Company to all Directors, each of them has
+confirmed that he/she has complied with the required standard set out in the Model Code
+throughout the year ended December 31, 2022.
+
+
+
+
+                                          20
+PUBLICATION OF RESULTS ANNOUNCEMENT AND ANNUAL REPORT
+This announcement is published on the websites of the Company (www.pousheng.com)
+and the Hong Kong Exchanges and Clearing Limited (www.hkexnews.hk). The 2022
+annual report of the Company containing all applicable information required by the
+Listing Rules will be dispatched to the Shareholders and published on the above websites
+in due course.
+
+ACKNOWLEDGEMENT
+I would like to take this opportunity to express our sincere appreciation of the support
+from our customers, suppliers and Shareholders. I would also like to thank my fellow
+Directors for their valuable contribution and the staff of the Group for their commitment
+and dedicated services throughout the year.
+
+                                                               By Order of the Board
+                                                                 Yu Huan-Chang
+                                                                    Chairman
+
+Hong Kong, March 15, 2023
+
+As at the date of this announcement, the Board comprises:
+
+Executive Directors
+Mr. Yu Huan-Chang (Chairman), Mr. Liao, Yuang-Whang and Mr. Hu, Chia-Ho
+
+Non-executive Directors
+Ms. Tsai Patty, Pei Chun and Mr. Li I-nan
+
+Independent Non-executive Directors
+Mr. Chen, Huan-Chung, Mr. Feng Lei Ming and Mr. Liu, Hsi-Liang
+
+Website: www.pousheng.com
+
+
+
+
+                                            21
+
