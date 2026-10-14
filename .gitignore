@@ -5,3 +5,4 @@ data/hunt/*/raw/**/*.jsonl
 data/hunt/*/raw/**/*.log
 data/hunt/*/raw/**/*.html
 data/hunt/*/raw/**/*.pdf
+data/hunt/pricing_catalog/shopify_products_*.csv
