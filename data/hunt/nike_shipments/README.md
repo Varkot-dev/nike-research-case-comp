@@ -7,8 +7,8 @@ No login, no account, no API key, and no personal details were sent in any reque
 ## Headline
 
 1. **A Nike-brand US inbound volume series cannot be built from free data for any month outside Feb 2021 to Nov 2022.** New finding: Nike's consignee name was masked before the 2021-22 window too. ImportGenius counts for "Nike USA, Inc." are 0 (2019), 1 (2020), 41,370 (2021), 96,160 (2022), 0 (2023), 0 (2024); ImportInfo shows the same shape. Panjiva's public page lists 159,052 Nike USA shipments, last one 2022-11-16. The 21 visible months look like a lapse in the 19 CFR 103.31 confidentiality certificate (which must be renewed every two years), not a normal state. Nike's factories disappear as shippers at exactly the same dates (Feng Tay, Chang Shin, Pratama, TK Industrial, Lotus all go from hundreds or thousands a year in 2022 to 0 in 2023), so Nike masks shipper names too.
-2. **What leaks since 2024 is a small, provider-specific sample.** Factory names re-appear with a blank consignee (and notify party "Expeditors International", 2508 N Marine Dr, Portland, Nike's broker), at roughly 1% to 3% of the 2022 visible rate, and the two providers disagree (2026 YTD: PT Chang Shin Indonesia 14 on ImportGenius vs about 150 on ImportInfo). These counts move when a carrier spells a name differently, so they are visibility series, not volume.
-3. **Converse is the one clean, Nike-owned, never-masked US series** (consignee "CONVERSE INC", 2012 to Oct 2026, BOL text gives pairs and containers). Jul-Sep arrivals: 278 (2024), 214 (2025), 154 (2026): -28% YoY, -45% vs 2024; Jan-Sep -53% YoY. This matches Converse's reported collapse (FY23 $2,427M to FY26 $1,174M; Q1 FY27 -$103M).
+2. **What leaks since 2024 is a small, provider-specific sample.** Factory names re-appear with a blank consignee (and notify party "Expeditors International", 2508 N Marine Dr, Portland, Nike's broker), but the strict Nike-factory names total only 1,041 BOLs (2024), 1,212 (2025) and 2,045 (2026 to early Oct) on ImportInfo, against 11,313 for the same names and 95,714 for Nike USA in 2022 (about 1% to 2% of Nike's 2022 visible flow), and the two providers disagree (2026 YTD: PT Chang Shin Indonesia 14 on ImportGenius vs about 150 on ImportInfo). These counts move when a carrier spells a name differently, so they are visibility series, not volume.
+3. **Converse is the one clean, Nike-owned, never-masked US series** (consignee "CONVERSE INC", 2012 to Oct 2026, BOL text gives pairs and containers). Jul-Sep arrivals: 278 (2024), 214 (2025), 154 (2026): -28% YoY, -45% vs 2024; Jan-Sep -53% YoY. This matches Converse's reported results: Q1 FY27 revenue $263M vs $366M, -28% (Q1 FY27 10-Q p. 25), units -34% (p. 31); FY2023 $2,427M (FY23 10-K p. 32) to FY2026 $1,174M (FY26 10-K p. 32).
 4. **Nike Canada (named, routed via Tacoma/Seattle)**: Jul-Sep 955 vs 495 (+93%), Oct 1 to about 9 already 216 vs 111 for all of Oct 2025, but Jan-Sep only +0.5%: a timing or routing shift into holiday, not more annual volume.
 5. Market: US footwear imports Jul-Aug 2026 -1.4% YoY (Aug estimated), -7.6% vs 2024. Clean visible peer consignees (adidas, ASICS, Brooks, New Balance, On, Vans) Jul-Sep median -19% YoY, -2% vs 2024.
 
@@ -99,7 +99,7 @@ Verdict on this crux: **INCONCLUSIVE** (weak lean LONG on holiday timing from vi
 | WARN notices (`../hiring/warn_notices_warntracker.csv`) | WORKED | NIKE Retail Services: 583 in Shelby County TN (Memphis, 3100 New Frayser Blvd and 5151 Shelby Dr) and 193 in Byhalia MS, filed Jan 26-27, 2026, effective Apr 3, 2026; Converse Ontario CA 77 (Sep 2024). Nike said it is consolidating domestic DC operations and adding automation (FreightWaves, Bloomberg Jan 26, 2026). Structural, says nothing on Q3 throughput |
 | Press: JOC, FreightWaves, Supply Chain Dive, Sourcing Journal on Nike volumes in 2026 | PARTIAL | No 2026 article with Nike shipment counts found; only the DC consolidation story |
 | Memphis rail/intermodal volumes | BLOCKED | No free monthly Memphis-specific series found |
-| Nike Q1 FY27 10-Q (repo notes) | WORKED (repo) | NA inventory $3,491M at Aug 31, 2026, -0.9% YoY; total inventory $7,846M, -3.3% |
+| Nike Q1 FY27 10-Q (repo facts CSV) | WORKED (repo) | NA inventory $3,491M at Aug 31, 2026 (Q1 FY27 10-Q p. 17), about -0.9% YoY per repo notes |
 
 ### 6. Non-US Nike entities
 
@@ -129,7 +129,7 @@ Window: Jul-Sep arrivals (October is partial). Compare 2026 with 2025 and 2024.
 
 ## Caveats
 
-- BOL counts are not containers or pairs; carriers split or merge bills. Converse BOLs rose 26% in calendar 2024 while Converse revenue fell in FY24, so even clean counts are noisy.
+- BOL counts are not containers or pairs; carriers split or merge bills. Converse BOLs rose 26% in calendar 2024 (ImportGenius 770 to 971) while Converse revenue fell from $2,082M in FY2024 (FY24 10-K p. 38) to $1,692M in FY2025 (FY25 10-K p. 33), so even clean counts are noisy year to year.
 - ImportInfo and ImportGenius use different name matching and disagree on leak counts; both are shown.
 - Nike Canada counts only Canadian cargo landed at US ports; a routing switch from Vancouver/Prince Rupert to Tacoma would produce the same jump. Jan-Sep is flat (+0.5%), which fits a timing or routing change better than a volume rebuild.
 - US footwear imports Aug 2026 is an estimate (+1.8% YoY, from the earlier hunt); Census Exhibit 15 SITC 85 shows Aug 2026 $2,483M and Jul $2,295M.
