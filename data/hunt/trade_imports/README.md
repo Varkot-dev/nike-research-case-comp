@@ -7,8 +7,9 @@ Pulled 2026-10-14. Purpose: test whether Nike-specific shipments into the US are
 | File | What it is | Rows / period |
 |---|---|---|
 | `us_imports_footwear_apparel_monthly.csv` | US monthly imports by origin (World, Vietnam, China, Indonesia, Cambodia, India, Bangladesh, Brazil, Italy, Mexico), HS 64, 6402, 6403, 6404, 6405, 61, 62. Value in USD, quantity (pairs, qty_unit_code 6) for footwear headings | 6,355 rows, 2019-01 to 2026-07 |
-| `us_imports_hs6_athletic_monthly.csv` | Same, HS6 detail 640411, 640419, 640219, 640299, 640391, 640399 for World, VN, CN, ID (if the pull completed; see gaps) | 2023-01 to 2026-07 |
-| `indonesia_exports_footwear_monthly.csv` | Indonesia exports (reporter 360) to World and US, HS 64/6402/6403/6404/61/62 (if the pull completed) | 2019-01 onward |
+| `us_imports_hs6_athletic_monthly.csv` | Same, HS6 detail 640411, 640419, 640219, 640299, 640391, 640399 for World, VN, CN, ID. 640411 and 640219 are the 'sports footwear' lines | 1,032 rows, 2023-01 to 2026-07 |
+| `indonesia_exports_footwear_monthly.csv` | Indonesia exports (reporter 360) to World and US, HS 64/6402/6403/6404/61/62 | 1,092 rows, 2019-01 to 2026-07 |
+| `vietnam_exports_footwear_monthly_2019_2023.csv` | Vietnam exports (reporter 704) to World and US; Vietnam stops reporting monthly to Comtrade after Dec 2023 | 2019-01 to 2023-12 |
 | `eu_imports_footwear_monthly.csv` | EU27 monthly imports of HS 64, 6402, 6403, 6404 from VN, ID, CN, KH, IN, BD, value in EUR | 2019-01 to 2026-07 |
 | `importinfo_monthly_bols.csv` | Bill-of-lading counts per month for 31 company pages (Nike consignee entities, Nike factories as shippers, Nike forwarder APL Logistics, peer consignees adidas, New Balance, Puma, Under Armour, Vans, Crocs) | 3,808 rows, 2012 to 2026-10 |
 | `importinfo_company_summary.csv` | Totals, first/last shipment, last 30/90 days, past year per page | 23 pages |
@@ -16,6 +17,10 @@ Pulled 2026-10-14. Purpose: test whether Nike-specific shipments into the US are
 | `nike_factory_map_2026-10-14.csv` | Nike manufacturing map: 712 facilities with tier, product type, supplier group, country, total workers | snapshot |
 | `nike_vs_industry_monthly.csv` | Built panel: Feng Tay, Lai Yih, Fulgent Sun, Pou Chen revenue in USD; US footwear imports (World and Nike-sourcing-mix weighted VN 52 / ID 27 / CN 16); EU imports from VN+ID+CN; YoY and gaps | 2019-01 to 2026-09 |
 | `test_industry_yoy.csv` | YoY by origin and HS, windows Jan-Jul, May-Jul, Jul | |
+| `test_bol_holiday.csv` | Jul-Sep BOL counts 2023 to 2026 by group, YoY and seasonal loading ratios | |
+| `test_hs6_athletic_yoy.csv` | Sports vs other footwear imports YoY by origin | |
+| `test_two_year_share.csv` | Feng Tay vs 7 industry pipeline series, H1 2026 vs H1 2024 and H1 2025 | |
+| `indonesia_vs_fengtay_monthly.csv` | Indonesia footwear exports vs Feng Tay YoY | |
 | `test_holiday_gap_history.csv` | Rolling 3-month Feng Tay USD YoY minus US footwear imports YoY (lead 1 month), history | 2020 to 2026 |
 
 ## Sources, URLs and methods
@@ -44,3 +49,10 @@ Tests: `scripts/test_industry.py`, `scripts/test_nike_vs_industry.py`, `scripts/
 ## Blocked or unusable sources
 
 ImportYeti (Cloudflare 403, also no Wayback copy), web.archive.org (connection reset through proxy), api.census.gov (key required), Volza (Cloudflare 403), Trademo (Azure WAF 403), Seair (Cloudflare 403), Panjiva (login), ImportInfo BOL list pages and later company pages (bot challenge 401 after about 60 requests), Comtrade Vietnam and China 2024-2026 monthly (not reported yet).
+
+## Test results (run 2026-10-14)
+
+1. **Holiday 2026, one-year view** (`test_holiday.py`). Pre-registered: LONG if Feng Tay USD Jul-Sep is at or above US footwear imports Jul-Aug; SHORT if 5+ points below and in the bottom quartile of its own history. Result: Feng Tay -8.4% vs US footwear imports -1.3% (Jul -4.6%, Aug about +1.8%); gap -7.1 pts, 25th percentile of 2023-2025 3-month gaps, 36th percentile of 2019-2025. Two-year stack (vs 2024): Feng Tay -5.9%, US footwear imports -7.6%, Lai Yih -5.7%, Pou Chen -7.1%. Verdict: most of the one-year gap is a base effect from Nike's strong H2 2025; not a Nike-specific collapse into holiday. NEUTRAL.
+2. **Two-year share of the athletic supply pipeline** (`test_two_year_share.py`). Pre-registered: SHORT if Feng Tay H1 2026 vs H1 2024 trails the industry pipeline by 10+ points on most benchmarks; LONG if in line or ahead. Result: Feng Tay -6.9%; US footwear imports +1.5%; Nike-sourcing-mix US imports +9.4%; US sports footwear imports +18.8% value, +12.5% pairs; EU 6404 imports from VN+ID+CN +26.1% (EUR); Indonesia footwear exports +19.2%. Gap -8 to -33 pts on all seven benchmarks. SHORT.
+3. **Gap swing (channel fill)** (`test_nike_vs_industry.py`). H2 2025: Feng Tay +0.7% while US footwear imports -11.3% and Nike-mix imports -7.6% (gap +12 to +17 pts monthly). 2026: gap -2 to -7. Consistent with Nike shipping into the channel in H2 2025 while other brands cut after tariff front-loading, then unwinding now. Alternative: other brands front-loaded in H1 2025 ahead of tariffs, which mechanically depresses their H2 2025. Historical gap noise is large (sd about 26 pts), so moderate at best.
+4. **Bills of lading** (`test_bol.py`). Nike USA consignee is masked since Nov 2022, so no US Nike shipment count exists in free data. Nike Canada (still named) Jul-Sep 2026 955 BOLs vs 495 (+93%); seasonal loading ratio 1.50 vs 0.58 in 2025; peers adidas -22%, New Balance -25%, Vans -2%. Routing through US ports and BOL splitting can move this series; treat as weak.
