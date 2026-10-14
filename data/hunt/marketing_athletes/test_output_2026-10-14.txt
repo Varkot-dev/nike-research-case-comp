@@ -1,0 +1,185 @@
+=== T1 Spend vs reach ===
+Nike demand creation $M: {'FY2024': 4285, 'FY2025': 4689, 'FY2026': 4754} FY24->FY26 %: 10.9 | Q1 FY27 1252 vs 1188: 5.4
+adidas marketing EUR M 2024->2025: 2841 3079 8.4
+          entity      jul2021      oct2024      oct2025    oct2026  cagr_2021_2026  growth_last12m  growth_prior12m
+0         Adidas   927082.803  1594316.940  2297614.880  3280000.0           0.270           0.428            0.441
+1     Air Jordan   397992.038   408632.708   422682.482   440000.0           0.019           0.041            0.034
+2          Asics          NaN    42072.251          NaN        NaN             NaN             NaN              NaN
+3      Lululemon   269000.000   300564.987   305898.273   308000.0           0.026           0.007            0.018
+4     Nike, Inc.  1640000.000  2053638.814  2200652.174  2280000.0           0.064           0.036            0.072
+5   Puma (brand)   569100.318   823000.000   892241.192   932000.0           0.098           0.045            0.084
+6         Reebok          NaN   167438.172          NaN        NaN             NaN             NaN              NaN
+7  Salomon Group   194000.000   271750.000   287638.132   299000.0           0.085           0.040            0.058
+8   Under Armour   255000.000   290782.493   298090.211   310000.0           0.038           0.040            0.025
+handle                     championsleague  cristiano  fcbarcelona  instagram  leomessi   nba   nike  realmadrid
+t                                                                                                               
+2016-11-18 18:30:55+00:00              NaN       82.0         42.0      199.0      59.0   NaN   66.0        40.0
+2016-12-22 17:10:07+00:00              NaN       85.0         43.0      203.0      62.0  20.0   68.0        42.0
+2017-01-30 09:47:28+00:00              NaN       87.0         44.0      209.0      63.0  20.0   68.0        42.0
+2017-03-31 23:00:32+00:00              NaN       95.9         48.3      219.0      67.5  22.2   70.4        47.1
+2017-04-30 20:18:20+00:00              NaN       99.0         49.0      222.0      69.0   NaN   71.0        48.0
+2017-05-31 23:56:03+00:00              NaN      102.0         50.0      223.0      72.0   NaN   72.0        49.0
+2018-12-31 11:36:47+00:00              NaN      149.6         63.5      272.5     104.5   NaN   83.3        67.0
+2019-03-31 12:19:54+00:00              NaN      160.0         66.0      290.0     111.0   NaN   85.0        69.0
+2019-06-30 11:54:23+00:00             42.0      173.0         72.0      305.0     123.0   NaN   89.0        74.0
+2019-09-28 18:44:31+00:00             47.0      185.0         77.0      314.0     132.0   NaN   93.0        78.0
+2019-12-31 22:47:34+00:00             52.0      195.0         81.0      324.0     139.0   NaN   97.0        81.0
+2020-03-31 14:57:35+00:00             57.1      209.0         84.7      341.0     146.0  47.1  105.0        85.9
+2020-09-29 16:32:54+00:00             62.0      238.0         89.0      367.0     167.0   NaN  121.0        91.0
+2021-06-28 07:24:16+00:00             75.0      305.0         97.0      400.0     222.0   NaN  154.0        99.0
+2021-09-30 08:29:19+00:00             80.0      348.0        100.0      425.0     270.0   NaN  175.0       104.0
+2021-12-31 19:56:12+00:00             85.0      384.0        103.0      455.0     295.0   NaN  190.0       107.0
+2022-06-29 12:49:43+00:00             95.2      459.0        109.0      523.0     342.0   NaN  226.0       121.0
+2022-09-29 16:56:00+00:00             98.6      484.0        112.0      552.0     363.0   NaN  239.0       125.0
+2022-12-31 15:15:37+00:00            101.0      526.0        115.0      585.0     412.0  74.2  260.0       130.0
+2023-09-24 17:10:55+00:00            109.0      606.0        123.0      656.0     487.0  83.4  305.0       146.0
+2023-12-30 14:48:50+00:00            112.0      616.0        125.0      664.0     496.0  85.0  306.0       150.0
+2024-03-31 19:58:46+00:00            114.0      626.0        126.0      671.0     502.0  87.3  307.0       154.0
+2024-09-30 13:36:15+00:00            116.0      639.0        129.0      676.0     504.0  88.7  304.0       167.0
+2024-12-30 18:41:34+00:00            118.0      646.0        133.0      684.0     504.0  89.2  302.0       170.0
+2025-03-31 10:10:52+00:00            119.0      651.0        136.0      686.0     505.0  90.0  301.0       173.0
+2025-09-11 18:32:20+00:00            121.0      664.0        143.0      694.0     506.0  90.8  299.0       177.0
+2025-12-04 23:43:35+00:00            121.0      668.0        145.0      697.0     510.0  90.4  298.0       180.0
+2026-03-25 15:19:38+00:00            121.0      672.0        147.0      700.0     511.0  90.1  297.0       181.0
+2026-06-27 01:12:04+00:00            119.0      667.0        145.0      685.0     508.0  88.4  292.0       178.0
+2026-09-22 20:25:07+00:00            120.0      679.0        148.0      686.0     517.0  87.9  291.0       181.0
+             handle        date  followers      likes  videos  verified
+0            adidas  2026-10-14   12300000  152200000     702      True
+11             nike  2026-10-14    9300000   49900000    1097      True
+15             puma  2026-10-14    6200000   73100000    1027      True
+19             vans  2026-10-14    1500000   12700000     741      True
+9         lululemon  2026-10-14    1500000   13900000     890      True
+7         jumpman23  2026-10-14    1300000    8000000     324      True
+5          converse  2026-10-14    1200000   16000000      46      True
+18      underarmour  2026-10-14    1000000   12000000    1612      True
+10       newbalance  2026-10-14     981300    5900000     190      True
+14               on  2026-10-14     706200    9200000     836      True
+13     nikefootball  2026-10-14     700000    5800000     200      True
+3             asics  2026-10-14     625100    4000000    1098      True
+16          salomon  2026-10-14     385700    7100000    1025      True
+17         skechers  2026-10-14     382200    2800000     246      True
+6              hoka  2026-10-14     266200    1100000     520      True
+4     brooksrunning  2026-10-14     239600    2500000    1175      True
+2              anta  2026-10-14        771          0       0     False
+1   adidasoriginals  2026-10-14         53          0       0     False
+8            lining  2026-10-14          8          3       2     False
+12   nikebasketball  2026-10-14          7          0       1     False
+=== T2 Elite visibility share ===
+                                                                 arena  year  nike_share_pct  adidas_share_pct   status
+0   World Marathon Majors podiums (6 races; 7 in 2025-26 incl. Sydney)  2018            69.4              16.7  SNIPPET
+1                                        World Marathon Majors podiums  2019            86.1              13.9   OPENED
+2              World Marathon Majors podiums (+Paris Olympic marathon)  2024            26.2              45.2   OPENED
+3                World Marathon Majors podiums (7 majors incl. Sydney)  2025            23.8              42.9   OPENED
+4            World Marathon Majors podiums (6 of 7; NYC Nov 1 pending)  2026            19.4              55.6   OPENED
+5                                World Athletics Championships podiums  2022            57.0              21.9   OPENED
+6                                World Athletics Championships podiums  2023            46.0              22.0   OPENED
+7                                            Olympic athletics podiums  2024            45.8              24.2  SNIPPET
+8                                World Athletics Championships podiums  2025            37.6              28.6   OPENED
+9                              FIFA World Cup boots (share of players)  2018            62.8               NaN  SNIPPET
+10                             FIFA World Cup boots (share of players)  2022            50.1              33.2  SNIPPET
+11                             FIFA World Cup boots (share of players)  2026            42.8              39.7   OPENED
+12                                   FIFA World Cup national team kits  2022            40.6              21.9  SNIPPET
+13                                   FIFA World Cup national team kits  2026            25.0              29.2  SNIPPET
+FIFA World Cup boots (share of players)                 first 2018 62.8 -> last 2026 42.8
+FIFA World Cup national team kits                       first 2022 40.6 -> last 2026 25.0
+World Athletics Championships podiums                   first 2022 57.0 -> last 2025 37.6
+=== T3 NBA court share ===
+brand    NikeInc  Nike  Jordan  adidas  Puma  Anta  New Balance
+season                                                         
+2019-20     74.8  64.6     9.8    12.0   4.5   0.7          1.2
+2020-21     74.8  63.3    10.5    10.6   5.1   0.9          1.7
+2021-22     73.5  64.1     8.0    10.9   4.7   2.1          1.3
+2022-23     72.9  63.2     7.7    11.7   3.8   2.1          2.7
+2023-24     72.5  62.3     9.1    11.7   2.6   2.0          2.9
+2024-25     69.1  59.7     8.1    11.6   2.8   2.8          2.8
+2025-26     70.8  61.1     7.7    10.6   2.9   2.9          2.8
+=== T4 Club kits big leagues ===
+league        Bundesliga  La Liga  Ligue 1  Premier League  Serie A
+season_start                                                       
+2014               0.333     0.30    0.316            0.15     0.25
+2015               0.222      NaN    0.263            0.05     0.20
+2016               0.333     0.25      NaN            0.05     0.15
+2017               0.333     0.15    0.211            0.20     0.15
+2018               0.278     0.15    0.158            0.20     0.10
+2019               0.278     0.20    0.211            0.15     0.10
+2020               0.278     0.20    0.105            0.20     0.10
+2021                 NaN     0.30      NaN            0.20     0.05
+2023               0.222     0.15    0.118            0.20     0.05
+2025               0.111     0.20    0.176            0.15     0.05
+2026                 NaN     0.20      NaN            0.15     0.10
+brand         Nike  adidas  Puma
+season_start                    
+2014            26      18     9
+2015            14      16     8
+2016            15      17     5
+2017            20      16    10
+2018            17      13    14
+2019            18      13    12
+2020            17      20    12
+2021            11       9     5
+2023            14      15    12
+2025            13      23    15
+2026             9      14     5
+direction_for_nike
+LOSS    15
+WIN      5
+Name: count, dtype: int64
+=== T1b Instagram Nike vs top-50 accounts ===
+        start         end  nike_pct  median_top50_pct  share_of_accounts_growing_faster_than_nike  n_accounts  nike_rank_pct
+0  2021-12-31  2023-09-24      60.5              36.8                                        0.02          43           98.0
+1  2023-09-24  2024-03-31       0.7               1.4                                        0.60          48           40.0
+2  2024-03-31  2025-03-31      -2.0              -0.7                                        0.80          49           20.0
+3  2025-03-31  2026-03-25      -1.3               0.0                                        0.75          48           25.0
+4  2024-03-31  2026-09-22      -5.2              -2.2                                        0.77          47           23.0
+5  2025-09-11  2026-09-22      -2.7              -2.0                                        0.58          48           42.0
+=== T4b Big-5 kits 2019 vs 2025 ===
+           brand  2019  2025  chg
+0        Castore     0     3    3
+1         Hummel     2     5    3
+2           Joma     9     7   -2
+3          Kappa     8     4   -4
+4         Macron    10     7   -3
+5    New Balance     3     3    0
+6           Nike    18    13   -5
+7          Other    13    11   -2
+8           Puma    12    15    3
+9          Umbro     8     4   -4
+10  Under Armour     1     0   -1
+11        adidas    13    23   10
+=== YouTube long-form by year ===
+           channel       yr  uploads  total_views  median_views
+0           adidas  last12m       37   21649248.0       22000.0
+1           adidas   12-24m       50   13948100.0       40500.0
+2           adidas   24-36m       51   15231200.0       39000.0
+3           adidas   36-48m       19   23085700.0       45000.0
+4           adidas    older       39    4180400.0       35000.0
+5   adidasfootball  last12m        2     590700.0      295350.0
+6   adidasfootball   12-24m        4    1828000.0      426500.0
+7   adidasfootball   24-36m        2     891000.0      445500.0
+8   adidasfootball   36-48m        1     371000.0      371000.0
+9   adidasfootball    older       98   65056500.0      150500.0
+25          jordan  last12m       15   19777199.0      540000.0
+26          jordan   12-24m       13    2392600.0        7900.0
+27          jordan   24-36m        9     228300.0        7700.0
+28          jordan   36-48m       23     453805.0        6500.0
+29          jordan    older       62   22360600.0       35000.0
+35      newbalance  last12m      134  240243324.0       11000.0
+36      newbalance   12-24m      119  162050894.0       14000.0
+37      newbalance   24-36m      113  126730200.0       24000.0
+38      newbalance   36-48m       69   80163300.0       20000.0
+39      newbalance    older      228  117670232.0       24000.0
+40            nike  last12m       17    4708000.0      184000.0
+41            nike   12-24m       25    4880000.0      149000.0
+42            nike   24-36m       19   31045000.0      125000.0
+43            nike   36-48m       53   15920000.0       39000.0
+44            nike    older      230  270090100.0      185500.0
+50    nikefootball  last12m       10   95291000.0      296000.0
+51    nikefootball   12-24m       11    2566000.0       29000.0
+52    nikefootball   24-36m        8     398600.0       23500.0
+53    nikefootball   36-48m       14     722000.0       40000.0
+54    nikefootball    older       11    3907000.0      250000.0
+60            puma  last12m       34    8093947.0       10200.0
+61            puma   12-24m       88   21429387.0        9950.0
+62            puma   24-36m       73   15931715.0        6400.0
+63            puma   36-48m       49   19274800.0        8500.0
+64            puma    older      478  241755856.0       76500.0

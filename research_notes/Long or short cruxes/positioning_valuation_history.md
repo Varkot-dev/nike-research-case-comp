@@ -346,3 +346,34 @@ Round 3 calls gross margin "not guided" and treats it as the open swing variable
 ### 5. Reviewer verdict
 
 Round 3's numbers are accurate and its gross-margin split is real and robust to dropping the dominant names. I add two things it missed, and they point in opposite directions. (1) The EPS guide implies gross margin flat to up in Q2 and Q3 FY27, so in the pitch window Nike most likely sits in the coin-flip bucket, not the SHORT bucket. That makes history less able to support SHORT than Round 3's "swing variable" framing suggests. (2) The coin-flip bucket is genuinely a coin flip, and the closest sportswear analog (Under Armour 2023 to 2025, the same marketplace-cleanup playbook) lost in 3 of 4 cases at 6 months. The market shrugging off a 25% EPS guide cut is a mild positive at 6 months and nothing at 12. History does not settle it. Verdict: NEUTRAL, moderate. The base-rate SHORT case only becomes live if Q2 gross margin comes in below 40.6% (Dec 2026) or Investor Day frames FY28 below the FY27 trough. Base rates cannot supply a LONG case; that would have to come from the fundamental work elsewhere in the repo.
+
+## Re-weighed with hunt data (2026-10-14)
+
+Previous verdict (Skeptic review, Round 3): NEUTRAL, moderate. History does not settle it; the base-rate SHORT case only becomes live if Q2 FY27 gross margin falls below 40.6% or Investor Day frames FY28 below the FY27 trough.
+
+Only hunt tests the checker did not fail are used. Folders: `data/hunt/people_governance/`, `data/hunt/peers_reported/`, `data/hunt/pricing_catalog/`, `data/hunt/macro_category/`.
+
+### 1. New positioning data from a different source (people_governance)
+
+This question was graded on price, short interest and fundamentals. The hunt adds three positioning series that were not in the repo: SEC insider data sets 2006 to 2026 (Nike and 29 peers), 13F holder breadth for 59 consumer stocks 2014 to 2026, and borrow, short-volume and fails-to-deliver data.
+- 13F breadth: NKE holders fell 14.5% YoY to 2026Q2 (3rd lowest of 56 stocks). After the checker's fix for exits that became eligible for the 13F small-position exemption, net entries are -25 and -39, still the worst since 2018 but about 80% smaller than first stated. Across 2,111 stock-quarters, breadth losers of this size did not underperform (median 126d excess +1.3% vs -2.9% for all). The checker found the deep-drawdown split disagrees across horizons (126d SHORT-looking, 252d LONG-looking).
+- Insiders: Nike open-market buying in 2025 and 2026 is the largest in 20 years ($5.96M, $2.73M). The checker showed that "selling drying up" rests on Parker only, and that both of Nike's own buy rounds (Dec 2025, Apr 2026) lost 31 to 34 pts vs SPY over 126 days.
+- Short side: SI rose 4 straight prints to 99.2M; across about 60 consumer stocks, a 4-print SI run is followed by another rise only 47% of the time (base rate 50%). Borrow is easy (IBKR 0.41%, 8 to 10M shares available; days to cover 2.6). Crowded but not squeezable, which matches the Round 2 skeptic.
+
+### 2. Extra test run for this re-grade (pre-set)
+
+Script: `data/hunt/people_governance/scripts/regrade_positioning_conditional.py` (ARITH on the hunt CSVs).
+Rule set in advance: if, among deeply fallen stocks, insider clusters or breadth losses separate later outcomes (12m median excess beyond +/-10 with at least 60% one way), positioning history would move this question toward LONG or SHORT. Otherwise it stays NEUTRAL.
+- Insider purchase clusters at peers after a prior 12-month fall of 40% or more: N=13, 126d median +7.4 (8 of 13 positive), 252d median -12.8 (5 of 11 positive). At a fall of 50% or more: 126d +17.9 (6/8), 252d -12.8 (3/7). Short-horizon pop, then a fade, with N under 15 and overlapping 2022 events (VFC twice, AEO, WWW).
+- 13F breadth panel restricted to stocks 60% or more below their 5-year high (26 tickers with prices, 449 rows): all such quarters 126d median -8.8 (32/68), 252d -9.0 (22/59). Adding a breadth loss of 10 pts or more: 126d -6.3 (20/41), 252d -3.4 (16/39). Breadth losers did slightly better than other deep fallers, not worse. Nike's own first breadth-loss signal (Feb 2026) was followed by -50.2 excess over 126 days, one in-sample point.
+- Result: neither signal separates outcomes. Deeply fallen stocks drift mildly negative at 12 months (about 38% to 41% positive), which is the same coin flip with a negative median found in Rounds 1 and 3.
+
+### 3. Fundamental data relevant to Round 3's gross-margin split
+
+- peers_reported (checker-adjusted): Nike's gross margin gap to peers closed from -530 bps to -75 bps, but about 145 bps of that is peers falling; Nike GM in Jun to Aug 2026 was +61 bps YoY (42.8%). This is reported data from a different source that agrees with the Round 3 skeptic: Nike sits in the "GM up" (coin-flip) bucket for the pitch window, not the "GM down" (strongly SHORT) bucket.
+- pricing_catalog (checker-adjusted): nike.com discount share was flat YoY over Mar to Sep 2026 (crawl-cluster CI -4.4 to +5.6) with a Jul to Aug rise, partly hidden "price in bag" promotions growing. That is a risk to Q2 FY27 gross margin, but it did not stop Q1 GM from rising, so it does not move Nike into the GM-down bucket yet.
+- macro_category and peers_reported both show share loss in China and EMEA. That is fundamental evidence for other questions, not for whether base rates resolve direction.
+
+### 4. Verdict
+
+Unchanged: NEUTRAL, moderate. The new positioning data are a genuinely different source (insider filings, 13F holder counts, borrow market), and they independently agree that positioning and sentiment history do not call the direction for a stock this far down: insider clusters pop then fade (126d +7, 252d -13, N=13), breadth losses in deep drawdowns are no worse than other deep fallers, SI runs do not extrapolate, and borrow is cheap. That confirms "history does not settle it" rather than pushing it to LONG or SHORT. It is not upgraded to strong because the extra tests have N of 13 to 41 with overlapping events, and the GM-bucket assignment still depends on Q2 FY27 (Dec 2026). For the pitch: do not cite record short interest, 13F exits or insider buying as directional evidence either way; cite them as "crowded, cheap to hold, no squeeze trigger."

@@ -435,3 +435,60 @@ Nike reported after the close on Oct 1, so the pre-print close is **$35.15 (Oct 
 2. Any Nike comment, at Investor Day or in an 8-K, on the tariff rate embedded in guidance.
 3. FINRA short interest for Oct 15 (out about Oct 23) and Oct 31.
 4. The Q2 FY27 gross margin (about Dec 17), against about 41.5% implied by consensus.
+
+## Re-weighed with hunt data (2026-10-14)
+
+**Verdict: stays NEUTRAL (moderate).** The hunt data (in `data/hunt/*/`) firm up the FY28 revenue risk a little and add a small, quantified EPS offset that leans LONG. They give no independent read showing that Q2 FY27 or FY27 consensus is wrong. Only tests the checker did not fail are used, at the checker's corrected strength.
+
+### What the new data says about each leg
+
+**Leg 1: Q2 FY27 and FY27 consensus (-10.1% Q2, EPS $1.26 to $1.29) still matches the evidence.**
+- Supplier flow (`trade_imports`): Feng Tay Jul to Sep 2026 was -8.4% YoY. On a two-year stack it was -5.9%, against US footwear imports at -7.6%. The holiday build shows no Nike-specific collapse, which fits the guided path and the consensus (NEUTRAL, moderate).
+- Discounting (`pricing_catalog`): the nike.com discounted-page share did not improve over 12 months (+0.5 pts YoY; crawl-cluster CI -4.4 to +5.6). Nike flagged "increased discounts" itself, so this is already in the guide.
+- Digital (`apps_digital`): Play-review counts imply about -15% for Q2 digital. The checker found r = -0.17 inside the decline regime, so this is the fit's intercept and not a reading. Weak, and not used to move Q2.
+- NA (`peers_reported`, `macro_category`): NA share of the peer set is flat at about 50%. The NA sell-in vs sell-through split is still not settled (checker: NEUTRAL). Nothing here contradicts the 400 bps Q2 headwind Nike gave.
+- Guide track record (`earnings_calls/guidance_scorecard.csv`): under Hill, next-quarter revenue guides came in as 6 beats and 1 in range out of 7. Q1 FY27 (-4.3%) landed just below the midpoint of -1% to -6%, and Q1 FY27 GM (+60 bps) beat. This record mildly supports the skeptic's view that the bar is achievable. It is not a strong LONG signal, because the latest quarter was the weakest result in the run.
+- Net: no new source points to a miss or a beat against Q2/FY27 consensus. S1 and L1 both stay unmet.
+
+**Leg 2: FY28 consensus (EPS $1.646, revenue +1.1%) is still somewhat high. Revenue risk is firmer; EPS risk is partly offset.**
+- Revenue risk confirmed by independent sources:
+  - China (`peers_reported`): Nike's share of the China peer set went 65% (2022), 62% (2024), 56% (2025), 50% (H1 2026), losing 7 to 8 pts a year with no slowdown. The checker kept this SHORT while noting Nike is sell-in and domestic brands are sell-through.
+  - China doors (`stores`, HKEX filings): Pou Sheng net closures per half went -40, -98, -200. Topsports selling area kept shrinking steadily. The checker re-rated this moderate SHORT. Partner online sales end 2027-01-01, which hits Q3 FY28.
+  - EMEA (`peers_reported`): the gap to peers is not narrowing (-16.9 / -14.0 pts in CQ1 to CQ2 2026 vs -15.7 average in 2025). Share of the EUR peer set fell from 42.7% to 39.2%.
+  - These are the regions where consensus needs the turn to growth from Q2 FY28. They support the investigator's "flat to -2%" FY28 revenue scenarios more than consensus +1.1%.
+- Offsets that lean LONG on FY28 EPS:
+  - Tariffs (`risk_tariffs/tariff_gap_sizing.csv`): the rate in force (about 11.4% blended) is about 3.6 pts below Nike's 15% plan. If Nike keeps 70% to 100% of it, the gap is worth about $0.04 to $0.06 of FY27 EPS and $0.08 to $0.12 of FY28 EPS. That closes roughly half to all of the low scenario gap ($1.53 vs $1.65) and about a third of the high gap ($1.38).
+  - Gross margin (`peers_reported` T2b): the GM gap to peers narrowed, but the checker cut it to weak LONG because part of it is peers falling.
+  - Product pipeline (`hiring`): product and design share of postings rose (US-only like-for-like 32% to 44%), which fits a rebuild with a 12 to 18 month lag. That lands in FY28 at the earliest, so it is not evidence against consensus.
+- Net: FY28 revenue consensus looks about 1 to 3 pts too high on China and EMEA alone. The tariff gap removes much of the EPS consequence. The FY28 EPS gap stays about 0% to 12%, small and known.
+
+**Leg 3: is it priced? Positioning data is two-sided.**
+- Short interest (`people_governance`, `risk_short_interest`): 99.2M shares on Sep 30 after four straight rises. Borrow is easy (IBKR fee 0.41%, days to cover 2.6). Across about 60 consumer stocks, a run of four rises is followed by another rise only 47% of the time. The bearish view is crowded in the stock, which argues against a large unpriced downside surprise.
+- 13F breadth: down 14.5% YoY, the worst since 2018, but about 80% smaller once small-position exemptions are excluded, and it does not predict returns in a 2,111 stock-quarter test (NEUTRAL).
+- Insiders: 2025 and 2026 open-market buying is the largest in 20 years, but both Nike buy rounds lost 31 to 34 pts vs SPY over 126 days, and nobody has bought since Oct 1 (weak LONG at most).
+
+### Scoring against the pre-registered rules
+
+| Rule | Before hunt | After hunt |
+|---|---|---|
+| S1 / L1 (Q2 consensus vs bottom-up) | neither | neither; supplier and pricing data fit -9% to -11% |
+| S2 / L2 (FY27 vs guide, CFO record) | mild S2 on revenue; L2 partial | unchanged; Hill-era guide record adds slight L2 support |
+| S3 (FY28 vs management timing) | holds, moderate | revenue leg firmer (China, EMEA share loss); EPS leg partly offset by tariffs |
+| S4 (revisions still falling) | holds for FY28 | unchanged (no new revision data) |
+| S5 / L4 (price after reset) | L4 in direction, mostly beta | unchanged; crowded short with cheap borrow |
+
+### Why not strong, why not weak
+
+- Not strong: the only legs with firmer data (China and EMEA share loss) are about FY28 revenue, which Investor Day (Nov 16 to 17) will reset anyway. The tariff sizing cuts the other way on EPS. None of the hunt sources speaks to the size of the gap between consensus and the stock price, which is what an expectations trade needs.
+- Not weak: the core finding (Q2 and FY27 bars are fair, FY28 a little high) is confirmed by different sources (supplier revenue, pricing panel, peer-reported share) and nothing in the hunt contradicts it.
+
+### Sources used (all in this repo)
+- `data/hunt/trade_imports/` (Feng Tay vs US imports, two-year stack)
+- `data/hunt/pricing_catalog/` (nike.com discount panel)
+- `data/hunt/peers_reported/` (regional share of peer set, GM gap)
+- `data/hunt/stores/` (Pou Sheng, Topsports HKEX counts)
+- `data/hunt/risk_tariffs/tariff_gap_sizing.csv` (FY27 and FY28 EPS from plan vs actual tariff rate)
+- `data/hunt/earnings_calls/guidance_scorecard.csv` (Hill-era guide outcomes)
+- `data/hunt/people_governance/` and `data/hunt/risk_short_interest/` (SI, borrow, 13F breadth, insiders)
+- `data/hunt/hiring/` (product mix, US-only like-for-like)
+- `data/hunt/apps_digital/` (Play reviews, treated as weak per the checker)

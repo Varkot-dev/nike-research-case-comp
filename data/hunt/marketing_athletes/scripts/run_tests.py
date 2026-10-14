@@ -31,3 +31,10 @@ s = kb.groupby(["season_start", "league"]).brand.apply(lambda x: (x == "Nike").m
 s2 = kb.groupby("season_start").brand.value_counts().unstack(fill_value=0); print(s2[["Nike", "adidas", "Puma"]] if "Puma" in s2 else s2)
 s2.to_csv("test_big5_kit_counts.csv")
 ee = pd.read_csv("endorsement_events.csv"); print(ee.direction_for_nike.str.split().str[0].value_counts())
+
+print("=== T1b Instagram Nike vs top-50 accounts ===")
+print(pd.read_csv("test_instagram_nike_vs_top50.csv").to_string())
+print("=== T4b Big-5 kits 2019 vs 2025 ===")
+print(pd.read_csv("test_big5_kit_2019_vs_2025.csv").to_string())
+print("=== YouTube long-form by year ===")
+yl = pd.read_csv("test_youtube_longform_by_year.csv"); print(yl[yl.channel.isin(["nike","jordan","nikefootball","adidas","adidasfootball","newbalance","puma"])].to_string())

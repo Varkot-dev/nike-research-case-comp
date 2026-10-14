@@ -1,0 +1,370 @@
+{{Short description|none}}
+{{pp-protected|reason=Persistent [[WP:Disruptive editing|disruptive editing]]|small=yes}}
+{{Use American English|date=June 2020}}
+{{Use mdy dates|date=December 2020}}
+{{Dynamic list}}
+This list contains the top 50 accounts with the most followers on the social media platform [[Instagram]].<ref>{{cite web|url=https://socialblade.com/instagram/top/50/followers|title=Top 50 Instagram users sorted by Followers|access-date=December 4, 2025|website=[[Social Blade]]}}</ref><ref>{{Cite web |title=Most Followed Instagram Accounts in the World in 2025 |url=https://notcommon.com/most-followed/instagram |access-date=March 4, 2025 |website=notcommon.com |language=en |archive-date=March 4, 2025 |archive-url=https://web.archive.org/web/20250304001141/https://notcommon.com/most-followed/instagram |url-status=live}}</ref> {{As of|September 2026}}, Instagram's own account is the most-followed with over 686 million followers; the most-followed person is Portuguese footballer [[Cristiano Ronaldo]] with over 679 million followers.
+
+== List ==
+{{multiple image
+| direction         = vertical
+| width             = 150
+| image1            = Instagram logo 2022.svg
+| alt1              = Instagram
+| caption1          = [[Instagram]]'s own account is the most-followed account on the platform.
+| image2            = Cristiano Ronaldo, 2023.jpg
+| alt2              = Cristiano Ronaldo
+| caption2          = [[Cristiano Ronaldo]] is the most-followed person on Instagram.
+| image3            = Selena Gomez at 27th Critics Choice Red Carpet (0'59).jpg
+| alt4              = Nike, Inc.
+| caption3          = [[Selena Gomez]] is the most-followed woman on Instagram.
+| image5            = Logo NIKE.svg
+| caption5          = [[Nike, Inc.|Nike]] is the most-followed brand on Instagram, besides Instagram itself.
+}}
+
+<!-- Please don't expand the section, without discussing on the talk page. Round down to the nearest million. -->
+{|class="wikitable"
+|+Key
+| style="background-color:#F3E7FF" |{{dagger|alt=Brand account}}<!-- Do not remove the dagger; this is a requirement per Wikipedia's guidelines on color. -->
+| Indicates a brand account
+|}
+{{sticky header}}{{table alignment}}{{static row numbers}}{{sort under}}
+{| class="sortable wikitable sticky-header static-row-numbers sort-under col3center"
+|-
+! Username
+! Owner
+! Followers<br/>(millions)
+! Description
+! Country
+|-
+| {{Plain link|https://www.instagram.com/instagram|@instagram}}
+| scope="row" style="background-color:#F3E7FF" | [[Instagram]]{{dagger}}
+| 686
+| Social media platform
+| {{Flag|United States}}
+|-
+| {{Plain link|https://www.instagram.com/cristiano|@cristiano}}
+| [[Cristiano Ronaldo]]
+| 679
+| Footballer
+| {{Flag|Portugal}}
+|-
+| {{Plain link|https://www.instagram.com/leomessi|@leomessi}}
+| [[Lionel Messi]]
+| 517
+| Footballer
+| {{Flag|Argentina}}
+|-
+| {{Plain link|https://www.instagram.com/selenagomez|@selenagomez}}
+| [[Selena Gomez]]
+| 403
+| Musician and actress
+| {{Flag|United States}}
+|-
+| {{Plain link|https://www.instagram.com/therock|@therock}}
+| [[Dwayne Johnson]]
+| 381
+| Actor and professional wrestler
+| {{Flag|United States}}
+|-
+| {{Plain link|https://www.instagram.com/kyliejenner|@kyliejenner}}
+| [[Kylie Jenner]]
+| 380
+| Media personality
+| {{Flag|United States}}
+|-
+| {{Plain link|https://www.instagram.com/arianagrande|@arianagrande}}
+| [[Ariana Grande]]
+| 362
+| Musician and actress
+| {{Flag|United States}}
+|-
+| {{Plain link|https://www.instagram.com/kimkardashian|@kimkardashian}}
+| [[Kim Kardashian]]
+| 343
+| Media personality
+| {{Flag|United States}}
+|-
+| {{Plain link|https://www.instagram.com/beyonce|@beyonce}}
+| [[Beyoncé]]
+| 299
+| Musician and actress
+| {{Flag|United States}}
+|-
+| {{Plain link|https://www.instagram.com/khloekardashian|@khloekardashian}}
+| [[Khloé Kardashian]]
+| 291
+| Media personality
+| {{Flag|United States}}
+|-
+| {{Plain link|https://www.instagram.com/nike|@nike}}
+| scope="row" style="background-color:#F3E7FF" | [[Nike, Inc.|Nike]]{{dagger}}
+| 291
+| Sportswear multinational
+| {{Flag|United States}}
+|-
+| {{Plain link|https://www.instagram.com/lilbieber|@lilbieber}}
+| [[Justin Bieber]]
+| 286
+| Musician
+| {{Flag|Canada}}
+|-
+| {{Plain link|https://www.instagram.com/kendalljenner|@kendalljenner}}
+| [[Kendall Jenner]]
+| 277
+| Media personality
+| {{Flag|United States}}
+|-
+| {{Plain link|https://www.instagram.com/taylorswift|@taylorswift}}
+| [[Taylor Swift]]
+| 272
+| Musician
+| {{Flag|United States}}
+|-
+| {{Plain link|https://www.instagram.com/virat.kohli|@virat.kohli}}
+| [[Virat Kohli]]
+| 271
+| Cricketer
+| {{Flag|India}}
+|-
+| {{Plain link|https://www.instagram.com/natgeo|@natgeo}}
+| scope="row" style="background-color:#F3E7FF" | [[National Geographic]]{{dagger}}
+| 268
+| Magazine
+| {{Flag|United States}}
+|-
+| {{Plain link|https://www.instagram.com/neymarjr|@neymarjr}}
+| [[Neymar]]
+| 241
+| Footballer
+| {{Flag|Brazil}}
+|-
+| {{Plain link|https://www.instagram.com/jlo|@jlo}}
+| [[Jennifer Lopez]]
+| 240
+| Musician and actress
+| {{Flag|United States}}
+<!-- Nicki Minaj deactivated her account in October 2025
+|-
+| {{Plain link|https://www.instagram.com/nickiminaj|@nickiminaj}}
+| [[Nicki Minaj]]
+| 224
+| Musician
+| {{Flag|Trinidad and Tobago}} -->
+|-
+| {{Plain link|https://www.instagram.com/kourtneykardash|@kourtneykardash}}
+| [[Kourtney Kardashian]]
+| 209
+| Media personality
+| {{Flag|United States}}
+|-
+| {{Plain link|https://www.instagram.com/miley|@miley}}
+| [[Miley Cyrus]]
+| 205
+| Musician and actress
+| {{Flag|United States}}
+|-
+| {{Plain link|https://www.instagram.com/katyperry|@katyperry}}
+| [[Katy Perry]]
+| 195
+| Musician
+| {{Flag|United States}}
+|-
+| {{Plain link|https://www.instagram.com/realmadrid|@realmadrid}}
+| scope="row" style="background-color:#F3E7FF" | [[Real Madrid CF]]{{dagger}}
+| 181
+| Football club
+| {{Flag|Spain}}
+|-
+| {{Plain link|https://www.instagram.com/zendaya|@zendaya}}
+| [[Zendaya]]
+| 178
+| Actress and singer
+| {{Flag|United States}}
+|-
+| {{Plain link|https://www.instagram.com/kevinhart4real|@kevinhart4real}}
+| [[Kevin Hart]]
+| 172
+| Comedian and actor
+| {{Flag|United States}}
+|-
+| {{Plain link|https://www.instagram.com/iamcardib|@iamcardib}}
+| [[Cardi B]]
+| 160
+| Musician and actress
+| {{Flag|United States}}
+|-
+| {{Plain link|https://www.instagram.com/kingjames|@kingjames}}
+| [[LeBron James]]
+| 153
+| Basketball player
+| {{Flag|United States}}
+|-
+| {{Plain link|https://www.instagram.com/fcbarcelona|@fcbarcelona}}
+| scope="row" style="background-color:#F3E7FF" | [[FC Barcelona]]{{dagger}}
+| 148
+| Football club
+| {{Flag|Spain}}
+|-
+| {{Plain link|https://www.instagram.com/ddlovato|@ddlovato}}
+| [[Demi Lovato]]
+| 147
+| Musician and actress
+| {{Flag|United States}}
+|-
+| {{Plain link|https://www.instagram.com/badgalriri|@badgalriri}}
+| [[Rihanna]]
+| 145
+| Musician
+| {{Flag|Barbados}}
+|-
+| {{Plain link|https://www.instagram.com/chrisbrownofficial|@chrisbrownofficial}}
+| [[Chris Brown]]
+| 139
+| Musician
+| {{Flag|United States}}
+|-
+| {{Plain link|https://www.instagram.com/champagnepapi|@champagnepapi}}
+| [[Drake (musician)|Drake]]
+| 139
+| Musician
+| {{Flag|Canada}}
+|-
+| {{Plain link|https://www.instagram.com/k.mbappe|@k.mbappe}}
+| [[Kylian Mbappé]]
+| 136
+| Footballer
+| {{Flag|France}}
+|-
+| {{Plain link|https://www.instagram.com/ellendegeneres|@ellendegeneres}}
+| [[Ellen DeGeneres]]
+| 129
+| Comedian and television host
+| {{Flag|United States}}
+|-
+| {{Plain link|https://www.instagram.com/billieeilish|@billieeilish}}
+| [[Billie Eilish]]
+| 123
+| Musician
+| {{Flag|United States}}
+|-
+| {{Plain link|https://www.instagram.com/championsleague|@championsleague}}
+| scope="row" style="background-color:#F3E7FF" | [[UEFA Champions League]]{{dagger}}
+| 120
+| Club football competition
+| {{Flag|Europe}}
+|-
+| {{Plain link|https://www.instagram.com/narendramodi|@narendramodi}}
+| [[Narendra Modi]]
+| 106
+| Prime Minister of India (2014–present)
+| {{Flag|India}}
+|-
+| {{Plain link|https://www.instagram.com/lalalalisa_m|@lalalalisa_m}}
+| [[Lisa (rapper)|Lisa]]
+| 105
+| Musician
+| {{Flag|Thailand}}
+|-
+| {{Plain link|https://www.instagram.com/nasa|@nasa}}
+| scope="row" style="background-color:#F3E7FF" | [[NASA]]{{dagger}}
+| 104
+| Space agency
+| {{Flag|United States}}
+|-
+| {{Plain link|https://www.instagram.com/vindiesel|@vindiesel}}
+| [[Vin Diesel]]
+| 103
+| Actor
+| {{Flag|United States}}
+|-
+| {{Plain link|https://www.instagram.com/gal_gadot|@gal_gadot}}
+| [[Gal Gadot]]
+| 103
+| Actress
+| {{Flag|Israel}}
+|-
+| {{Plain link|https://www.instagram.com/shakira|@shakira}}
+| [[Shakira]]
+| 103
+| Musician
+| {{Flag|Colombia}}
+|-
+| {{Plain link|https://www.instagram.com/shraddhakapoor|@shraddhakapoor}}
+| [[Shraddha Kapoor]]
+| 92.9
+| Actress
+| {{Flag|India}}
+|-
+| {{Plain link|https://www.instagram.com/priyankachopra|@priyankachopra}}
+| [[Priyanka Chopra]]
+| 92.9
+| Actress
+| {{Flag|India}}
+|-
+| {{Plain link|https://www.instagram.com/mrbeast|@mrbeast}}
+| [[MrBeast]]
+| 89.4
+| YouTuber
+| {{Flag|United States}}
+|-
+| {{Plain link|https://www.instagram.com/jennierubyjane|@jennierubyjane}}
+| [[Jennie (singer)|Jennie]]
+| 89.4
+| Musician
+| {{Flag|South Korea}}
+|-
+| {{Plain link|https://www.instagram.com/dualipa|@dualipa}}
+| [[Dua Lipa]]
+| 88.7
+| Musician
+| {{Flag|United Kingdom}}<br>{{Flag|Albania}}<br>{{Flag|Kosovo}}
+|-
+| {{Plain link|https://www.instagram.com/nba|@nba}}
+| scope="row" style="background-color:#F3E7FF" | [[National Basketball Association|NBA]]{{dagger}}
+| 87.9
+| Basketball league
+| {{Flag|United States}}<br>{{Flag|Canada}}
+|-
+| {{Plain link|https://www.instagram.com/davidbeckham|@davidbeckham}}
+| [[David Beckham]]
+| 87.7
+| Footballer
+| {{Flag|United Kingdom}}
+|-
+| {{Plain link|https://www.instagram.com/snoopdogg|@snoopdogg}}
+| [[Snoop Dogg]]
+| 86.7
+| Musician
+| {{Flag|United States}}
+|-
+| {{Plain link|https://www.instagram.com/aliaabhatt|@aliaabhatt}}
+| [[Alia Bhatt]]
+| 85.2
+| Actress
+| {{Flag|India}}
+|- class="sortbottom static-row-header"
+! colspan="6" style="font-size:85%;" | Last updated on 22 September 2026 ({{ayd|22 September 2026}} ago)
+|}
+
+== See also ==
+* [[List of most-liked Instagram posts]]
+* [[List of most-followed Facebook pages]]
+* [[List of most-followed X accounts]]
+* [[List of most-followed TikTok accounts]]
+* [[List of most-subscribed YouTube channels]]
+* [[List of most-viewed YouTube videos]]
+* [[List of most-streamed artists on Spotify]]
+* [[List of most-followed Twitch channels]]
+* [[List of most-followed Bluesky accounts]]
+
+== References ==
+{{Reflist}}
+
+{{Facebook navbox}}
+{{Most popular social media accounts}}
+
+{{DEFAULTSORT:Instagram Users, most-followed}}
+[[Category:Lists of Internet-related superlatives]]
+[[Category:Lists of most popular media|Instagram]]
+[[Category:Instagram-related lists]]

@@ -218,3 +218,24 @@ Reviewer: independent skeptic, 2026-10-14. Labels as above. [my arithmetic] = co
 1. The Wayback capture of nike.com/w/nfl-9bklc (2025-10-16), plus the MLB, NBA and college walls around Oct 2025, once web.archive.org is reachable. These give the 2025 fan-gear denominator, and so the core sale share YoY.
 2. The Q2 FY27 10-Q (late Dec 2026): whether NA and EMEA footwear ASP still cite "higher discounts".
 3. Black Friday 2026 men's and women's shoes sale share vs Nov 2025 (42.7%), using the fan-free walls.
+
+## Re-weighed with hunt data (2026-10-14)
+
+**Verdict: still SHORT, still moderate.** The new data splits the question in two. "The discount clean-up has stalled (no improvement YoY)" is now close to strong, because independent sources agree. "Discounting is getting worse, and it is Nike-specific" stays weak, because the best new control (adidas.com) widened more and the latest month is flat. The crux question asks better or worse, so overall it stays moderate SHORT. No upgrade to strong, no flip.
+
+What confirms SHORT (different sources from the original notes):
+- Common Crawl nike.com product-page panel (data/hunt/pricing_catalog, about 19,700 pages, Mar 2023 to Sep 2026): Mar to Sep discounted share 30.5% (2025) to 31.0% (2026); depth flat at 22% to 26%. No improvement in 12 months. The checker's crawl-cluster CI is wide (-4.4 to +5.6 pts), so this rules out a large improvement, not a small one.
+- Bias runs against LONG: nike.com increasingly hides promotions behind "See Price in Bag" (0 of 117 archived pages in Aug to Sep 2024, 3 of 146 in Aug to Sep 2025, 10 of 150 in Aug to Sep 2026). Adjusted Aug to Sep share 32.9% to 40.7% vs 31.5% to 34.0% as measured. The measured series understates 2026.
+- Promo codes: r/sneakerdeals documents an extra 25% member code (DAYONE) in Aug to Sep 2026 (volume too thin to use the share figure). This partly meets pre-registered rule S2 (extra-% promo codes), which the original notes marked NOT MET.
+- r/RunningShoeGeeks (data/hunt/reviews_sentiment, test 4): Nike's share of deal-flair posts was 32.9% in Jun to Aug 2026 vs 18.8% a year earlier (z = 3.43, p = 0.0006, survives deduping) while its mention share was flat at about 19%. The deal-intensity index of 1.73 is the highest in 4 years. Caveat: the archive has a volume break from Oct 2025, but this is a within-quarter share.
+- Third-party retailers (16 US Shopify stores): on fresh product (0 to 3 months, created_at) Nike is marked down 10.2% vs adidas 1.4%, NB 1.2%, On 0%, HOKA 4.0%, ASICS 3.8%. But within stores Nike beats adidas in only 3 of 9, so this is mostly store mix and weak.
+- The Q1 FY27 10-Q phrase "liquidating inventory through increased markdowns across NIKE Direct" (stores hunt) and the US in-line store closures fit the same picture.
+
+What cuts against an upgrade (or leans LONG):
+- adidas.com control: Aug to Sep discounted share rose +12.7 pts vs Nike +4.6 pts (DiD -8.2, but only two crawls per brand, and Nike's hidden in-bag promos would narrow it to about -3 to -4). The 2026 widening is at least partly market-wide.
+- The "acceleration" is Jul and Aug only. Sep 2026 is +0.7 pts YoY overall, and footwear in Sep is lower (26.6% vs 33.1%) [pdp_nike_month_yoy.csv]. Mar to Jun 2026 was lower YoY (footwear -8.4 pts).
+- Resale (SNKRDUNK): Dunk Low and AF1 resale prices stopped falling in yen, but about 8 pts of that is FX; in USD Nike+Jordan is still about -9.5% YoY and rivals improved more. Neutral, not LONG.
+- Peers reported: Nike's gross-margin YoY gap to peers closed from -530 bps to -75 bps, but about a third of that is peers' tariff hit; weak LONG at most. Nike inventory growth minus sales (+1.2 pp) is slightly above the peer median (-1.35 pp): weak SHORT, no glut.
+- BLS PPI shoe-store margin index at a 24-year low (91.2, Aug 2026) is not confirmed by Caleres or Genesco margins; ignored.
+
+Net: different-source confirmation that discounting is not improving (PDP panel, hidden-promo bias, Reddit deal share, promo codes, 10-Q language). No different-source confirmation that it is getting worse in a Nike-specific way (adidas control and Sep data contradict that). For the pitch, keep the skeptic's wording: "the clean-up has stalled at an elevated level", not "discounting is accelerating". What would move it to strong: Black Friday 2026 fan-free shoe sale share above Nov 2025 (42.7%) with adidas flat, or the Q2 FY27 10-Q still citing "higher discounts" in NA and EMEA.
