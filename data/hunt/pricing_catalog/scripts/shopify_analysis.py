@@ -1,6 +1,6 @@
 # Tidy the Shopify retailer catalogs and test Nike vs peer markdown rates with store and product-age controls.
 import pandas as pd, numpy as np, re, sys
-d=pd.read_csv("shopify_products_20261014.csv",low_memory=False)
+d=pd.read_csv("shopify_products_20261014.csv.gz",low_memory=False)
 d=d.drop_duplicates(["store","product_id"])
 v=d.vendor.astype(str).str.lower().str.strip()
 def brand(x):
@@ -21,7 +21,7 @@ d["age_days"]=(pd.Timestamp("2026-10-14",tz="UTC")-d.pub).dt.days
 d["age_bucket"]=pd.cut(d.age_days,[-1,90,180,365,730,10000],labels=["0-3m","3-6m","6-12m","1-2y","2y+"])
 d["family"]=d.brand.replace({"Jordan":"Nike Inc","Nike":"Nike Inc","Converse":"Nike Inc"})
 t=d[d.brand.notna()].copy()
-t.to_csv("shopify_tidy_brand_products_20261014.csv",index=False)
+t.to_csv("shopify_tidy_brand_products_20261014.csv.gz",index=False)
 x=t[t.avail & t.footwear & t.store.ne("www.playmakers.com")]
 print("available footwear rows by brand:"); print(x.brand.value_counts())
 print("\nmarkdown>=10% share by brand x age bucket (pooled stores)")
@@ -54,3 +54,9 @@ sub=f[f.brand.isin(["Nike","Jordan","adidas","New Balance","ASICS"])]
 pv=sub.pivot_table(index="store",columns="brand",values="md10",aggfunc="mean").round(2)
 print(pv.to_string())
 pv.to_csv("shopify_fresh_markdown_by_store_brand.csv")
+# running shoes only
+pt=(x.product_type.fillna("")+" "+x.title.fillna("")+" "+x.tags.fillna("")).str.lower()
+r=x[pt.str.contains("running|pegasus|vomero|structure|invincible|clifton|bondi|ghost|novablast|gel-|kayano|nimbus|1080|880|cloud|adizero|ultraboost|supernova|endorphin|ride|triumph|speedgoat|mach")]
+R=r.groupby("brand").agg(n=("md10","size"),md10=("md10","mean"),fresh_md10=("md10",lambda s: s[r.loc[s.index,"age_days"]<=180].mean())).round(3)
+print("\nRunning shoes only:"); print(R.to_string()); R.to_csv("shopify_running_markdown_by_brand.csv")
+P=r[r.store=="pacersrunning.com"].groupby("brand").md10.agg(["mean","size"]).round(3); print(P.to_string()); P.to_csv("shopify_pacers_running_markdown_by_brand.csv")

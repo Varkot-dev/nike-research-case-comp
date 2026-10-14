@@ -1,5 +1,5 @@
-# List Common Crawl captures of nike.com product pages ({PAT}) per crawl.
-# usage: python3 -I cc_pdp_idx.py outdir coll1 coll2 ...
+# List Common Crawl captures matching a URL pattern, per crawl.
+# usage: python3 -I cc_pdp_idx_generic.py outdir brandlabel "www.adidas.com/us/*" coll1 coll2 ...
 import sys,subprocess,time,os,json
 out=sys.argv[1]; BR=sys.argv[2]; PAT=sys.argv[3]
 for c in sys.argv[4:]:

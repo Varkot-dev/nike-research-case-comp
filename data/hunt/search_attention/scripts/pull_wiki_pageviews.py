@@ -56,6 +56,20 @@ ARTICLES = [
     ("ja.wikipedia", "ja_asics", "アシックス"),
 ]
 
+# Old titles before page moves. Pageviews are counted per title, so after a move the history sits under
+# the OLD title and the new title only shows redirect hits before the move date. Pulled WITHOUT resolving.
+EXACT = [
+    ("en.wikipedia", "hoka_oldtitle", "Hoka One One"),
+    ("en.wikipedia", "air_force_1_oldtitle", "Air Force 1 (shoe)"),
+    ("en.wikipedia", "converse_oldtitle", "Converse (shoe company)"),
+    ("en.wikipedia", "lululemon_oldtitle", "Lululemon Athletica"),
+    ("en.wikipedia", "on_running_oldtitle", "On (Swiss company)"),
+    ("en.wikipedia", "adidas_gazelle_oldtitle", "Gazelle (shoe)"),
+    ("en.wikipedia", "asics_oldtitle", "ASICS"),
+    ("en.wikipedia", "salomon_oldtitle", "Salomon Group"),
+]
+ARTICLES = ARTICLES + [(p, l, "=" + t) for p, l, t in EXACT]
+
 
 def get(url, tries=8):
     for i in range(tries):
@@ -97,8 +111,11 @@ for project, label, title in ARTICLES:
     fn = os.path.join(OUT, f"{label}.json")
     if os.path.exists(fn):
         continue
-    canon = resolve(project, title)
-    time.sleep(1.5)
+    if title.startswith("="):
+        title = canon = title[1:]
+    else:
+        canon = resolve(project, title)
+        time.sleep(1.5)
     if canon is None:
         print("MISSING", project, title, flush=True)
         json.dump({"label": label, "project": project, "title": title, "missing": True}, open(fn, "w"))

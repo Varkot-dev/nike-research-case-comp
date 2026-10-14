@@ -1,7 +1,7 @@
 # Summarise the live nike.com product-wall API pulls (2026-10-14) by wall: groupings, colourways, share discounted, depth.
 import pandas as pd, glob
 rows=[]
-for f in sorted(glob.glob("raw/api_live_20261014/api_w*.csv")):
+for f in sorted(glob.glob("raw/api_live_20261014/api_w*.csv*")):
     d=pd.read_csv(f); d=d[d.initialPrice>0]
     d=d.drop_duplicates("productCode")
     g=d.drop_duplicates("groupKey",keep="first")
@@ -9,7 +9,7 @@ for f in sorted(glob.glob("raw/api_live_20261014/api_w*.csv")):
     gd=g.currentPrice<g.initialPrice-0.01
     bs=d.featured.fillna("").str.contains("BEST_SELLER")
     nfl=d.subTitle.fillna("").str.contains("NFL|MLB|NBA|WNBA|College",regex=True)
-    rows.append(dict(wall=f.split("api_")[-1][:-4].replace("w_","",1) if "api_w_" in f else "w",groupings=len(g),colourways=len(d),
+    rows.append(dict(wall=(f.split("api_")[-1].replace(".csv.gz","").replace(".csv","").replace("w_","",1) if "api_w_" in f else "w"),groupings=len(g),colourways=len(d),
         share_colourways_disc=round(disc.mean(),3),share_lead_colourway_disc=round(gd.mean(),3),
         mean_depth_disc=round((1-d.currentPrice/d.initialPrice)[disc].mean(),3),
         listprice_weighted_disc_all=round((d.initialPrice-d.currentPrice).sum()/d.initialPrice.sum(),3),

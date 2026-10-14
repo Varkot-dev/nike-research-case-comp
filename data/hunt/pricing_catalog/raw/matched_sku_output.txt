@@ -1,0 +1,17 @@
+       window  n_seen  share_still_listed  n_matched  median_list_change_pct  share_list_up  share_list_down  n_fullprice_then  share_fullprice_then_now_disc  share_disc_then_now_disc
+0  AugSep2024     947               0.075         71                   2.597          0.507            0.014               726                          0.478                     0.500
+1  AugSep2025    1364               0.161        220                   0.000          0.482            0.014               889                          0.436                     0.720
+2  AugSep2026    1716               0.840       1441                   0.000          0.015            0.007              1067                          0.391                     0.901
+3     Oct2024     485               0.078         38                   3.416          0.553            0.000               370                          0.486                     0.333
+4     Oct2025     591               0.161         95                   0.000          0.358            0.021               315                          0.436                     0.529
+                     n  med_list_change  share_up  now_disc
+cat                                                        
+basketball          14            0.000     0.357     0.714
+fan_gear            13            4.167     0.846     0.462
+jordan              20            0.000     0.250     0.400
+lifestyle_classics  52            0.000     0.423     0.500
+lifestyle_other     41            0.000     0.268     0.610
+other               94            0.000     0.436     0.383
+running             38            3.636     0.605     0.421
+soccer_football      5            0.000     0.400     0.200
+training            38            4.396     0.526     0.474
