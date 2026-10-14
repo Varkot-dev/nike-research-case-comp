@@ -8,9 +8,8 @@ def curl(url,tries=8):
         if r.returncode==0 and r.stdout and not r.stdout.startswith(b"<"): return r.stdout
         time.sleep(3+3*t)
     return None
-ci=json.loads(curl("https://index.commoncrawl.org/collinfo.json"))
-colls=sys.argv[2:] if len(sys.argv)>2 else [c["id"] for c in ci if c["id"]>="CC-MAIN-2023"]
-for c in sorted(colls):
+colls=sys.argv[2:] if len(sys.argv)>2 else [c["id"] for c in json.loads(curl("https://index.commoncrawl.org/collinfo.json")) if c["id"]>="CC-MAIN-2023"]
+for c in colls:
     fn=os.path.join(out,f"{c}_nike_w.jsonl")
     if os.path.exists(fn) and os.path.getsize(fn)>0: continue
     for pfx in ["www.nike.com/w/"]:
