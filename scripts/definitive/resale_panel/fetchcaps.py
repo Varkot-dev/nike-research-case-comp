@@ -27,9 +27,10 @@ def fetch(ts,orig):
 
 def prio(s):
     l=s['line']; y=s['release_date'][:4]
-    if l in('AJ4','AJ3') and y<='2025': return (0, 0 if l=='AJ4' else 1, s['release_date'])
-    if l=='AJ1 High OG' and y>='2024': return (1,0,s['release_date'])
-    if l in('AJ4','AJ3'): return (2,0,s['release_date'])
+    if l=='AJ4' and y<='2025': return (0,0,s['release_date'])
+    if l=='AJ3' and y<='2025': return (1,0,s['release_date'])
+    if l=='AJ1 High OG' and y>='2024': return (2,0,s['release_date'])
+    if l in('AJ4','AJ3'): return (2,1,s['release_date'])
     return (3,0,s['release_date'])
 def run(cdxf):
     cdx=json.load(open(cdxf))
