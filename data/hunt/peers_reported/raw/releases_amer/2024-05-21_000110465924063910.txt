@@ -1,0 +1,1885 @@
+SOURCE https://www.sec.gov/Archives/edgar/data/1988894/000110465924063910/tm2414060d2_ex99-1.htm
+ 
+ EX-99.1
+ 2
+ tm2414060d2_ex99-1.htm
+ EXHIBIT 99.1
+ Exhibit 99.1 
+ Management’s
+Discussion and Analysis of Financial Condition and Results of Operations 
+ The following discussion of our financial condition
+and results of operations should be read in conjunction with our unaudited consolidated financial statements and the notes thereto, as
+of and for the three months ended March 31, 2024 included as Exhibit 99.2 to the Report on Form 6-K to which this discussion
+and analysis is included as Exhibit 99.1, together with our audited financial statements and the notes thereto, and the section titled
+ “Item 3. Key Information—D. Risk Factors,” each of which appear in our annual report on Form 20-F for the year
+ended December 31, 2023 filed with the SEC on March 18, 2024 (“Annual Report”) and available at www.sec.gov. As
+discussed in the section titled “Special Note Regarding Forward Looking Statements,” the following discussion and analysis
+includes forward-looking statements. These forward-looking statements are subject to risks, uncertainties and other factors that could
+cause our actual results to differ materially from those expressed or implied by the forward-looking statements. Factors that could cause
+or contribute to these differences include, but are not limited to, those identified below in such section and “Item 3. Key Information—D.
+Risk Factors” in our Annual Report.
+ Unless otherwise indicated or the context otherwise
+requires, all references herein to “Amer Sports, Inc.,” the “Company,” “we,” “our,”
+ “ours,” “us” or similar terms refer to Amer Sports, Inc., together with its subsidiaries. All references
+to “U.S. dollars,” “dollars” or “$” are to the U.S. dollar and all references to “EUR”
+or “€” are to the euro. Unless otherwise indicated or the context otherwise requires, all references to “EMEA”
+refer to Europe, the Middle East and Africa, all references to “Greater China” refer to mainland China, Hong Kong, Macau and
+Taiwan and all references to “Asia Pacific” exclude Greater China.
+ Unless otherwise indicated, all financial information contained herein
+is prepared and presented in accordance with International Financial Reporting Standards (“IFRS”), specifically International
+Accounting Standard (“IAS”) 34, Interim Financial Reporting, as issued by the International Accounting Standards Board
+(“IASB”)
+ Overview 
+ Amer Sports is a global group of iconic sports
+and outdoor brands, including Arc’teryx, Salomon, Wilson, Atomic and Peak Performance. Our brands are known for their detailed craftsmanship,
+unwavering authenticity, premium market positioning and compelling market shares in their categories. Our brands are creators of exceptional
+apparel, footwear, equipment, protective gear and accessories that we believe give our consumers the confidence and comfort to excel.
+ We operate our business through the following
+three reportable business segments, which reflect how we cluster our brands on the basis of similar consumer, product, marketing and operating
+factors:
+ | · | Technical Apparel. Technical Apparel includes outdoor
+apparel, footwear and accessories and consists of our Arc’teryx and Peak Performance brands.
+ | 
+ | · | Outdoor Performance. Outdoor Performance includes
+ outdoor apparel, footwear, accessories and winter sports equipment and consists of our Salomon, Atomic, Armada and ENVE brands. The
+ Company sold ENVE on May 1, 2024.
+ | 
+ | · | Ball & Racquet Sports. Ball & Racquet
+Sports includes sports equipment, apparel and accessories and consists of our Wilson, Louisville Slugger, DeMarini, EvoShield and ATEC
+brands, all of which we refer to as the Wilson Sporting Goods portfolio.
+ | 
+ While Arc’teryx, Salomon and Wilson stand
+tall and lead our three segments, our other brands appropriately fit our sports-oriented portfolio. Peak Performance enhances our scale,
+competitive positioning and diversification across sports categories. Atomic and Armada give us a leading position in winter sports equipment,
+globally. Our baseball brands, which include Louisville Slugger, DeMarini, EvoShield, and ATEC, are market leaders in their respective
+category. Together, our brands enable us to lead and compete in various sports segments and drive the continued success of our portfolio.
+ For additional information about our three reportable
+business segments, see Note 3, “Segment Reporting,” to our unaudited consolidated financial statements included as Exhibit 99.2
+to the Report on Form 6-K to which this discussion and analysis is included as Exhibit 99.1.
+ We generate revenue from the sale of our products
+through direct-to-consumer and wholesale channels:
+ | · | Direct-to-Consumer includes sales of our brands’
+products through (i) owned e-commerce websites and (ii) owned retail stores, which include elevated brand stores that drive
+consumer engagement and factory outlet stores which serve as a liquidation channel for us.
+ | 
+ | · | Wholesale includes sales of our brands’ products
+through general sporting goods retailers, specialty stores, independently-operated partner stores, distributors, retailer-owned and third-party
+e-commerce websites as well as revenue from certain licensing arrangements.
+ | 
+ Seasonality 
+ We experience some seasonal fluctuations in our
+revenue and operating results. Historically, we have realized a slightly higher portion of our revenue and earnings in the fourth quarter
+of the fiscal year, primarily due to higher sales through our DTC channel compared to the rest of the year and a higher share of fall
+and winter collections in our Technical Apparel and Outdoor Performance segments. Our Ball & Racquet Sports segment is generally
+more consistent across fiscal quarters. Working capital requirements typically increase throughout our second and third fiscal quarters
+as inventory builds to support our peak shipping and selling period which typically occurs from August to December. Cash provided
+by operating activities is typically highest in our first fiscal quarter due to the significant inflows associated with our peak selling
+season. We believe our strategy to broaden our assortment within the soft goods categories across all our brands could lead to increasingly
+balanced revenue and results of operations throughout the fiscal year.
+ Foreign Currency Exposure 
+ We report our consolidated financial results in
+U.S. dollars but have significant non-U.S. operations. We face exposure to movements in foreign currency exchange rates as the financial
+results and the financial condition of our businesses outside of the U.S. are translated from local currencies (in particular the euro,
+Canadian dollar and Renminbi (“RMB”)) into U.S. Dollars. Given the strength of the U.S. dollar against our key foreign currencies,
+including the euro, the Canadian dollar and RMB, translation into U.S. dollars, for the periods presented results in lower profitability
+due to foreign currency exposure. In the future, if the U.S. dollar continues to be strong against our local currencies, we will continue
+to see lower profitability due to foreign currency exposure; however, if the U.S. dollar were to weaken against the euro, Canadian dollar
+or RMB, it could result in increased profitability.
+ Where possible, we manage foreign currency exposure
+through a variety of methods, including by financing each business unit in its functional currency and concentrating cash flows through
+centralized entities to limit the number of foreign currencies being utilized for purchases. Additionally, we enter into hedging arrangements
+to limit our exposure to foreign currency fluctuations for a significant portion of our cash flows, in particular with our most commonly
+used foreign currencies, including euros, Canadian dollars and RMB. Such hedging arrangements may include foreign exchange forward contracts
+and options, interest rate swaps, interest rate options and cross-currency swaps. The majority of our hedging arrangements are short-term
+and are usually rolled forward within the standard business cycle. Nonetheless, it is not practical for us to mitigate all of our foreign
+currency exposure, nor are we able to accurately predict the possible impact of future foreign currency exchange rate fluctuations on
+our results of operations, due to our constantly changing exposure to various foreign currencies, difficulty in predicting fluctuations
+in foreign currency exchange rates relative to the U.S. dollar and the significant number of foreign currencies involved. As we continue
+to expand our global operations, our exposure to foreign currency risk could become more significant.
+ Public Company Costs 
+ Since the completion of our IPO, we have begun,
+and will continue, to incur additional costs associated with operating as a public company. In particular, our accounting, legal and personnel-related
+expenses and insurance costs have begun, and will continue, to increase as we establish more comprehensive compliance and governance functions,
+establish, maintain and review internal controls over financial reporting, and prepare and distribute periodic reports in accordance with
+SEC rules. Our financial statements reflect the impact of these expenses.
+ | 2 | | 
+ Key Financial Metrics 
+ The following table summarizes certain key financial
+measures for the three-month periods ended March 31, 2024 and 2023. Management regularly reviews a number of metrics, including the
+following key financial metrics, to evaluate our business, measure our performance, identify trends in our business, prepare financial
+projections and make strategic decisions. Management believes the non-IFRS financial measures presented below are useful in evaluating
+our performance, in addition to our financial results prepared in accordance with IFRS. See “Results of Operations” for additional
+information and for the comparison discussion between the three-month periods ended March 31, 2024 and 2023, and “Non-IFRS
+Financial Measures” for additional information on the non-IFRS financial measures and a reconciliation to the most comparable IFRS
+financial measures.
+ | | 
+ Three months Ended
+ March 31, | | 
+ | | 
+ 2024 | | | 
+ 2023 | | 
+ | | 
+ ($ in millions) | | 
+ Revenue | | 
+ $ | 1,182.9 | | | 
+ $ | 1,050.3 | | 
+ Constant Currency Revenue (1) | | 
+ $ | 1,199.1 | | | 
+ $ | 1,050.3 | | 
+ Net income attributable to equity holders | | 
+ $ | 5.1 | | | 
+ $ | 19.0 | | 
+ Net income margin | | 
+ | 0.4 | % | | 
+ | 1.8 | % | 
+ EBITDA (2) | | 
+ $ | 171.5 | | | 
+ $ | 182.4 | | 
+ Adjusted EBITDA (2) | | 
+ $ | 181.6 | | | 
+ $ | 182.6 | | 
+ Adjusted EBITDA Margin (2) | | 
+ | 15.3 | % | | 
+ | 17.4 | % | 
+ Adjusted Net Income (2) | | 
+ $ | 38.8 | | | 
+ $ | 27.2 | | 
+ Segment Revenue | | 
+ | | | | 
+ | | | 
+ Technical Apparel | | 
+ $ | 510.3 | | | 
+ $ | 355.2 | | 
+ Outdoor Performance | | 
+ $ | 400.0 | | | 
+ $ | 377.5 | | 
+ Ball & Racquet Sports | | 
+ $ | 272.6 | | | 
+ $ | 317.6 | | 
+ Segment Adjusted Operating Profit | | 
+ | | | | 
+ | | | 
+ Technical Apparel | | 
+ $ | 117.3 | | | 
+ $ | 83.1 | | 
+ Outdoor Performance | | 
+ $ | 19.4 | | | 
+ $ | 31.1 | | 
+ Ball & Racquet Sports | | 
+ $ | 10.8 | | | 
+ $ | 45.8 | | 
+ | 
+ (1) | 
+ This is a non-IFRS financial measure. For more information regarding our use of this measure and its usefulness to investors, see “—Non-IFRS Financial Measures” below. | 
+ | 
+ (2) | 
+ This is a non-IFRS financial measure. For more information regarding our use of this measure and its usefulness to investors, as well as a reconciliation to the most comparable IFRS financial measure, see “—Non-IFRS Financial Measures” below. | 
+ 3 
+ Constant Currency Revenue 
+ As we are a global company, the comparability
+of our revenue reported in U.S. dollars is also affected by foreign-currency exchange rate fluctuations because the underlying currencies
+in which we transact change in value over time compared to the U.S. dollar. These rate fluctuations can have a significant effect on our
+reported results. As a result, in addition to financial measures prepared in accordance with IFRS, our revenue discussions often contain
+references to constant currency measures, which are calculated by translating the current period reported amounts using the actual exchange
+rates in use during the comparative prior period, in place of the exchange rates in use during the current period. For a further discussion
+of how we utilize, and limitations of, this non-IFRS financial measure, see “Non-IFRS Financial Measures.”
+ EBITDA, Adjusted EBITDA and Adjusted EBITDA Margin 
+ We define EBITDA as net income attributable
+to equity holders of the Company, plus net income attributable to non-controlling interests, income tax expense, finance cost,
+depreciation and amortization (“D&A”) and minus finance income, from both continuing and discontinued operations. We
+define Adjusted EBITDA as EBITDA with adjustments to exclude results from discontinued operations, restructuring expenses,
+impairment losses on goodwill and intangible assets, expenses related to transaction activities, expenses related to certain legal
+proceedings and share-based payments. We define Adjusted EBITDA Margin as Adjusted EBITDA divided by revenue.
+ EBITDA, Adjusted EBITDA and Adjusted EBITDA Margin
+may not be comparable to similarly titled metrics of other companies due to differences in methods of calculation. We define Adjusted
+EBITDA Margin as Adjusted EBITDA divided by revenue. For a reconciliation of EBITDA and Adjusted EBITDA to net income and a reconciliation
+of Adjusted EBITDA Margin to net income margin and for a further discussion of how we utilize, and limitations of, these non-IFRS measures
+see “Non-IFRS Financial Measures.”
+ Adjusted Net Income 
+ We define Adjusted Net Income as net income
+attributable to equity holders of the Company, with adjustments to exclude certain purchase price adjustments (“PPA”), which includes
+amortizations and depreciations on the fair value adjustments of intangible and tangible assets resulting from Amer Sports'
+acquisition in 2019, loss from discontinued operations, restructuring expenses, impairment losses on goodwill and intangible assets,
+expenses related to transaction activities, expenses related to certain legal proceedings, share-based payments and related income
+tax expense. Adjusted Net Income may not be comparable to similarly titled metrics of other companies due to differences in methods
+of calculation. For a reconciliation of Adjusted Net Income to net income and for a further discussion of how we utilize, and
+limitations of, this non-IFRS measure see “Non-IFRS Financial Measures.”
+ Segment Adjusted Operating Profit 
+ We define Segment Adjusted Operating Profit as
+profit before tax for the segment plus finance cost and minus finance income with adjustments for PPA,
+restructuring expenses, impairment losses on goodwill and intangible assets, expenses related to transaction activities and expenses related
+to certain legal proceedings. Segment Adjusted Operating Profit is a measure of operating performance of our reportable segments and may
+not be comparable to similar measures reported by other companies. Segment Adjusted Operating Profit is a performance metric utilized
+by the Company’s Chief Operating Decision Maker to allocate resources to and assess performance of the Company’s segments.
+See Note 3, “Segment Reporting,” to our unaudited consolidated financial statements included elsewhere in Exhibit 99.2
+to the Report on Form 6-K to which this discussion and analysis is included as Exhibit 99.1.
+ 4 
+ Results of Operations 
+ The following table sets forth our results of
+operations for the periods presented.
+ | | 
+ Three months Ended 
+March 31, | | 
+ | | 
+ 2024 | | | 
+ 2023 | | 
+ | | 
+ ($ in millions) | | 
+ Revenue | | 
+ $ | 1,182.9 | | | 
+ $ | 1,050.3 | | 
+ Cost of goods sold | | 
+ | (544.4 | ) | | 
+ | (495.4 | ) | 
+ Gross profit | | 
+ | 638.5 | | | 
+ | 554.9 | | 
+ Selling, general and administrative expenses | | 
+ | (534.2 | ) | | 
+ | (422.4 | ) | 
+ Impairment losses | | 
+ | (1.3 | ) | | 
+ | (2.8 | ) | 
+ Other operating income | | 
+ | 6.0 | | | 
+ | 0.7 | | 
+ Operating profit | | 
+ | 109.0 | | | 
+ | 130.4 | | 
+ Finance income | | 
+ | 2.7 | | | 
+ | 1.3 | | 
+ Finance cost | | 
+ | (82.3 | ) | | 
+ | (86.1 | ) | 
+ Loss on debt extinguishment | | 
+ | (14.3 | ) | | 
+ | - | | 
+ Net finance cost | | 
+ | (93.9 | ) | | 
+ | (84.8 | ) | 
+ Income before tax | | 
+ | 15.1 | | | 
+ | 45.6 | | 
+ Income tax expense | | 
+ | (8.2 | ) | | 
+ | (26.6 | ) | 
+ Net income | | 
+ $ | 6.9 | | | 
+ $ | 19.0 | | 
+ Income attributable to: | | 
+ | | | | 
+ | | | 
+ Equity holders of the company | | 
+ $ | 5.1 | | | 
+ $ | 19.0 | | 
+ Non-controlling interests | | 
+ $ | 1.8 | | | 
+ $ | - | | 
+ Revenue 
+ The following tables set forth our consolidated
+revenues, and revenues disaggregated by channel, and geography.
+ | 
+ | 
+ Three months Ended 
+March 31, | 
+ | 
+ | 
+ Change | 
+ | 
+ ($ in millions) | 
+ | 
+ 2024 | 
+ | 
+ | 
+ 2023 | 
+ | 
+ | 
+ $ | 
+ | 
+ | 
+ % | 
+ | 
+ Revenue | 
+ | 
+ $ | 
+ 1,182.9 | 
+ | 
+ | 
+ $ | 
+ 1,050.3 | 
+ | 
+ | 
+ $ | 
+ 132.6 | 
+ | 
+ | 
+ | 
+ 12.6 | 
+ % | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ Channel Revenues | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ Wholesale | 
+ | 
+ $ | 
+ 694.4 | 
+ | 
+ | 
+ $ | 
+ 702.8 | 
+ | 
+ | 
+ $ | 
+ (8.4 | 
+ ) | 
+ | 
+ | 
+ (1.2 | 
+ )% | 
+ DTC | 
+ | 
+ | 
+ 488.5 | 
+ | 
+ | 
+ | 
+ 347.5 | 
+ | 
+ | 
+ | 
+ 141.0 | 
+ | 
+ | 
+ | 
+ 40.6 | 
+ % | 
+ Total | 
+ | 
+ $ | 
+ 1,182.9 | 
+ | 
+ | 
+ $ | 
+ 1,050.3 | 
+ | 
+ | 
+ $ | 
+ 132.6 | 
+ | 
+ | 
+ | 
+ 12.6 | 
+ % | 
+ Geographic Revenues | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ EMEA | 
+ | 
+ $ | 
+ 358.7 | 
+ | 
+ | 
+ $ | 
+ 356.9 | 
+ | 
+ | 
+ $ | 
+ 1.8 | 
+ | 
+ | 
+ | 
+ 0.5 | 
+ % | 
+ Americas | 
+ | 
+ | 
+ 409.5 | 
+ | 
+ | 
+ | 
+ 409.6 | 
+ | 
+ | 
+ | 
+ (0.1 | 
+ ) | 
+ | 
+ | 
+ 0.0 | 
+ % | 
+ Greater China (1) | 
+ | 
+ | 
+ 310.3 | 
+ | 
+ | 
+ | 
+ 205.6 | 
+ | 
+ | 
+ | 
+ 104.7 | 
+ | 
+ | 
+ | 
+ 50.9 | 
+ % | 
+ Asia Pacific (2) | 
+ | 
+ | 
+ 104.4 | 
+ | 
+ | 
+ | 
+ 78.2 | 
+ | 
+ | 
+ | 
+ 26.2 | 
+ | 
+ | 
+ | 
+ 33.5 | 
+ % | 
+ Total | 
+ | 
+ $ | 
+ 1,182.9 | 
+ | 
+ | 
+ $ | 
+ 1,050.3 | 
+ | 
+ | 
+ $ | 
+ 132.6 | 
+ | 
+ | 
+ | 
+ 12.6 | 
+ % | 
+ | 
+ (1) | 
+ Consists of mainland China, Hong Kong, Macau and Taiwan. | 
+ | 
+ (2) | 
+ Excludes Greater China. | 
+ Revenue for the three-month period ended March 31, 2024, increased
+by $132.6 million, or 12.6%, compared to the three-month period ended March 31, 2023, driven by an increase in sales volume by the
+Technical Apparel segment. Channel revenues were driven by DTC, which increased 40.6% compared to the prior year. Regional growth was
+led by Greater China and Asia Pacific, which increased 50.9% and 33.5%, respectively. EMEA increased by 0.5% and revenues were flat
+in the Americas, where growth in the Technical Apparel segment was offset by declines in the Ball & Racquet and Outdoor Performance
+segments.
+ Revenue on a constant currency basis for the three-month period ended
+March 31, 2024, increased by $148.8 million, or 14.2%, compared to the three-month period ended March 31, 2023.
+ 5 
+ Cost of Goods Sold 
+ | 
+ | 
+ Three months Ended 
+March 31, | 
+ | 
+ | 
+ Change | 
+ | 
+ ($ in millions) | 
+ | 
+ 2024 | 
+ | 
+ | 
+ 2023 | 
+ | 
+ | 
+ $ | 
+ | 
+ | 
+ % | 
+ | 
+ Cost of Goods Sold | 
+ | 
+ $ | 
+ 544.4 | 
+ | 
+ | 
+ $ | 
+ 495.4 | 
+ | 
+ | 
+ $ | 
+ 49.0 | 
+ | 
+ | 
+ | 
+ 9.9 | 
+ % | 
+ Cost of goods sold for the three-month period
+ended March 31, 2024, increased by 9.9% compared to the three-month period ended March 31, 2023, primarily driven by volume
+growth due to an increase in consumer demand, partially offset by higher raw material costs.
+ Gross Profit 
+ | 
+ | 
+ Three months Ended 
+March 31, | 
+ | 
+ | 
+ Change | 
+ | 
+ ($ in millions) | 
+ | 
+ 2024 | 
+ | 
+ | 
+ 2023 | 
+ | 
+ | 
+ $ | 
+ | 
+ | 
+ % | 
+ | 
+ Gross Profit | 
+ | 
+ $ | 
+ 638.5 | 
+ | 
+ | 
+ $ | 
+ 554.9 | 
+ | 
+ | 
+ $ | 
+ 83.6 | 
+ | 
+ | 
+ | 
+ 15.1 | 
+ % | 
+ Gross profit for three-month period ended March 31, 2024, increased
+by 15.1% compared to the three-month period ended March 31, 2023. Gross margin was 54.0% and 52.8% the three months ended March 31,
+2024 and 2023, respectively. These increases were primarily driven by favorable segment revenue mix, due to a higher proportion of Technical
+Apparel revenues, which has the highest gross margins, and lower logistics costs. These increases were partially offset by higher raw
+material costs and increased discounts compared to prior year. 
+ Selling, General and Administrative Expenses 
+ | 
+ | 
+ Three months Ended
+ March 31, | 
+ | 
+ | 
+ Change | 
+ | 
+ ($ in millions) | 
+ | 
+ 2024 | 
+ | 
+ | 
+ 2023 | 
+ | 
+ | 
+ $ | 
+ | 
+ | 
+ % | 
+ | 
+ Selling, General and Administrative Expenses | 
+ | 
+ $ | 
+ 534.2 | 
+ | 
+ | 
+ $ | 
+ 422.4 | 
+ | 
+ | 
+ $ | 
+ 111.8 | 
+ | 
+ | 
+ | 
+ 26.5 | 
+ % | 
+ Selling, general and administrative expenses for the
+three-month period ended March 31, 2024, increased by 26.5% compared to the three-month period ended March 31, 2023. As a
+percentage of revenues, Selling, general, and administrative expenses increased to 45.2% for the three-month period ended
+March 31, 2024, compared to 40.2% for the three-month period ended March 31, 2023. These increases were due to higher
+selling and marketing costs of $75.8 million, as well as higher administrative and other expenses of $35.4 million. The increase in selling and
+marketing expenses was primarily due to higher retail store rent expense and personnel costs due to a higher mix of DTC sales. In
+e-commerce, there was an increase in online and offline marketing expenses and additional operating costs of e-commerce systems.
+Administrative expenses increased primarily due to transaction costs in connection with the IPO.
+ Finance Cost 
+ | 
+ | 
+ Three months Ended
+ March 31, | 
+ | 
+ | 
+ Change | 
+ | 
+ ($ in millions) | 
+ | 
+ 2024 | 
+ | 
+ | 
+ 2023 | 
+ | 
+ | 
+ $ | 
+ | 
+ | 
+ % | 
+ | 
+ Finance cost | 
+ | 
+ $ | 
+ 82.3 | 
+ | 
+ | 
+ $ | 
+ 86.1 | 
+ | 
+ | 
+ $ | 
+ (3.8 | 
+ ) | 
+ | 
+ | 
+ 4.4 | 
+ % | 
+ Finance cost for the three-month period
+ended March 31, 2024, decreased by 4.4% compared to the three-month period ended March 31, 2023. The decrease is due to
+lower debt outstanding for the three-month period ended March 31, 2024, which resulted in a decrease of interest expense of
+$15.3 million, partially offset by exchange rate losses of $11.7 million.
+ Loss on debt extinguishment 
+ | 
+ | 
+ Three months Ended
+ March 31, | 
+ | 
+ | 
+ Change | 
+ | 
+ ($ in millions) | 
+ | 
+ 2024 | 
+ | 
+ | 
+ 2023 | 
+ | 
+ | 
+ $ | 
+ | 
+ | 
+ % | 
+ | 
+ Loss on debt extinguishment | 
+ | 
+ $ | 
+ 14.3 | 
+ | 
+ | 
+ $ | 
+ - | 
+ | 
+ | 
+ $ | 
+ 14.3 | 
+ | 
+ | 
+ | 
+ nm | 
+ | 
+ Loss on debt extinguishment was 14.3 million for
+the three-month period ended March 31, 2024, compared to nil for the three-month period ended March 31, 2023, due to the repayment
+of the Senior Facilities Agreement on February 16, 2024.
+ 6 
+ Income Tax Expense 
+ | 
+ | 
+ Three months Ended
+ March 31, | 
+ | 
+ | 
+ Change | 
+ | 
+ ($ in millions) | 
+ | 
+ 2024 | 
+ | 
+ | 
+ 2023 | 
+ | 
+ | 
+ $ | 
+ | 
+ | 
+ % | 
+ | 
+ Income tax expense | 
+ | 
+ $ | 
+ 8.2 | 
+ | 
+ | 
+ $ | 
+ 26.6 | 
+ | 
+ | 
+ $ | 
+ (18.4 | 
+ ) | 
+ | 
+ | 
+ (69.2 | 
+ )% | 
+ Income tax expense for the three-month period
+ended March 31, 2024 decreased by 69.2% compared to the three-month period ended March 31, 2023. Our effective income tax rate
+was 55% for the three-month period ended March 31, 2024, compared to 58% for the three-month period ended March 31, 2023. As
+a result of our recent IPO and changes in our capital structure, the Company is currently assessing its tax strategies and expects to
+implement changes in our tax structure to realize an effective tax rate of 35-45% for the year ended December 31, 2024.
+ Segment Results of Operations 
+ Our management evaluates operating performance
+and makes investment and other decisions based on segment revenue and Segment Adjusted Operating Profit. Costs allocated to the segments
+include certain centralized functions provided and administered by the Amer Sports group, such as costs related to sourcing, warehousing,
+distribution and transportation, our global business services center and information technology, based on appropriate metrics such as
+headcount, activity, usage or proportion of revenue.
+ Unallocated costs include costs related to supply
+chain management, general executive management, cybersecurity, and other group functions such as finance, internal audit, tax, legal and
+human resources.
+ The following tables set forth certain financial
+information for our reportable segments for the periods presented.
+ Segment Revenue 
+ | 
+ | 
+ Three months Ended
+ March 31, | 
+ | 
+ | 
+ Change | 
+ | 
+ | 
+ | 
+ 2024 | 
+ | 
+ | 
+ 2023 | 
+ | 
+ | 
+ $ | 
+ | 
+ | 
+ % | 
+ | 
+ | 
+ | 
+ ($ in millions) | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ Segment Revenues | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ Technical Apparel | 
+ | 
+ $ | 
+ 510.3 | 
+ | 
+ | 
+ $ | 
+ 355.2 | 
+ | 
+ | 
+ $ | 
+ 155.1 | 
+ | 
+ | 
+ | 
+ 43.7 | 
+ % | 
+ Outdoor Performance | 
+ | 
+ | 
+ 400.0 | 
+ | 
+ | 
+ | 
+ 377.5 | 
+ | 
+ | 
+ | 
+ 22.5 | 
+ | 
+ | 
+ | 
+ 6.0 | 
+ % | 
+ Ball & Racquet | 
+ | 
+ | 
+ 272.6 | 
+ | 
+ | 
+ | 
+ 317.6 | 
+ | 
+ | 
+ | 
+ (45.0 | 
+ ) | 
+ | 
+ | 
+ (14.2 | 
+ )% | 
+ Total | 
+ | 
+ $ | 
+ 1,182.9 | 
+ | 
+ | 
+ $ | 
+ 1,050.3 | 
+ | 
+ | 
+ $ | 
+ 132.6 | 
+ | 
+ | 
+ | 
+ 12.6 | 
+ % | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ Segment Adjusted Operating Profit (1) 
+ | 
+ | 
+ Three months Ended
+ March 31, | 
+ | 
+ | 
+ Change | 
+ | 
+ | 
+ | 
+ 2024 | 
+ | 
+ | 
+ 2023 | 
+ | 
+ | 
+ $ | 
+ | 
+ | 
+ % | 
+ | 
+ | 
+ | 
+ ($ in millions) | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ Technical Apparel (2) | 
+ | 
+ $ | 
+ 117.3 | 
+ | 
+ | 
+ $ | 
+ 83.1 | 
+ | 
+ | 
+ $ | 
+ 34.2 | 
+ | 
+ | 
+ | 
+ 41.2 | 
+ % | 
+ Outdoor Performance (3) | 
+ | 
+ | 
+ 19.4 | 
+ | 
+ | 
+ | 
+ 31.1 | 
+ | 
+ | 
+ | 
+ (11.7 | 
+ ) | 
+ | 
+ | 
+ (37.6 | 
+ )% | 
+ Ball & Racquet Sports (4) | 
+ | 
+ | 
+ 10.8 | 
+ | 
+ | 
+ | 
+ 45.8 | 
+ | 
+ | 
+ | 
+ (35.0 | 
+ ) | 
+ | 
+ | 
+ (76.4 | 
+ )% | 
+ | (1) | Segment Adjusted Operating Profit for all periods presented excludes D&A expense associated with PPA in connection with the Acquisition. | 
+ | (2) | Total D&A expense for the reportable segment was $28.0 million and $20.5 million for the period ended March 31, 2024, and
+2023, respectively, which includes PPA related to D&A expense of $2.4 million for both periods. | 
+ | (3) | Total D&A expense for the reportable segment was $25.3 million and $23.7 million for the period ended March 31, 2024, and
+2023, respectively, which includes PPA related to D&A expense of $8.0 million and $7.9 million, respectively. | 
+ | (4) | Total D&A expense for the reportable segment was $7.6 million and $6.3 million for the period ended March 31, 2024, and 2023,
+respectively, which includes PPA related to D&A expense of $0.3 million for both periods. | 
+ 7 
+ Technical Apparel 
+ | 
+ | 
+ Three months Ended
+ March 31, | 
+ | 
+ | 
+ Change | 
+ | 
+ | 
+ | 
+ 2024 | 
+ | 
+ | 
+ 2023 | 
+ | 
+ | 
+ $ | 
+ | 
+ | 
+ % | 
+ | 
+ | 
+ | 
+ ($ in millions) | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ Channel Revenues | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ Wholesale | 
+ | 
+ $ | 
+ 166.8 | 
+ | 
+ | 
+ $ | 
+ 119.4 | 
+ | 
+ | 
+ $ | 
+ 47.4 | 
+ | 
+ | 
+ | 
+ 39.7 | 
+ % | 
+ DTC | 
+ | 
+ | 
+ 343.5 | 
+ | 
+ | 
+ | 
+ 235.8 | 
+ | 
+ | 
+ | 
+ 107.7 | 
+ | 
+ | 
+ | 
+ 45.7 | 
+ % | 
+ Total | 
+ | 
+ $ | 
+ 510.3 | 
+ | 
+ | 
+ $ | 
+ 355.2 | 
+ | 
+ | 
+ $ | 
+ 155.1 | 
+ | 
+ | 
+ | 
+ 43.7 | 
+ % | 
+ The following table sets forth certain operating data for our Technical
+Apparel Segment.
+ | | 
+ Three months Ended
+ March 31, | | | 
+ Change | | 
+ | | 
+ 2024 | | | 
+ 2023 | | | 
+ % | | 
+ Store Count (1) | | 
+ | | | | 
+ | | | | 
+ | | | 
+ Arc’teryx | | 
+ | 146 | | | 
+ | 130 | | | 
+ | 12.3 | % | 
+ Peak Performance | | 
+ | 44 | | | 
+ | 41 | | | 
+ | 7.3 | % | 
+ Total | | 
+ | 190 | | | 
+ | 171 | | | 
+ | 11.1 | % | 
+ Omni Comp (2) | | 
+ | 35.9 | % | | 
+ | 60.6 | % | | 
+ | | | 
+ | (1) | Reflects the number of Technical Apparel owned retail stores open at the end of the fiscal period. Management reviews the number of new
+and closed stores to assess revenue growth and drivers of trends in revenue. | 
+ | (2) | Omni comp reflects year over year revenue growth from owned retail stores and e-commerce sites that have been open at least 13 months. | 
+ Technical Apparel revenue for the
+three-month period ended March 31, 2024, increased by 43.7% compared to the three-month period ended March 31, 2023. The
+increase was primarily driven by growth by Arc’teryx within the DTC channel. DTC revenues increased by 45.7%, which includes
+35.9% omni-comp growth, for the three-month period ended March 31, 2024, compared to the three-month period ended
+March 31, 2023. The growth was driven by an expanded retail store network with a net increase of 19 owned retail stores, and
+volume growth in our existing retail stores and e-commerce platforms. Revenues from our wholesale channel increased 39.7% driven by
+an increase in volumes as compared to the prior year. Regionally, growth was led by Asia Pacific, followed by the Americas, Greater
+China, and EMEA. Technical Apparel revenue on a constant currency basis for the three-month period ended March 31, 2024,
+increased by $169.5 million, or 47.7%, to $524.6 million, compared to $355.2 million for the three-month period ended March 31,
+2023.
+ Segment Adjusted Operating Profit in our
+Technical Apparel segment increased by 41.2% for the three-month period ended March 31, 2024, compared to the three-month
+period ended March 31, 2023. This was primarily driven by revenue growth, which was partially offset by an increase in selling,
+general, and administrative expenses. Segment adjusted operating profit margin was 23.0% and 23.4% for the three months ended
+March 31, 2024 and 2023, respectively. The decrease was primarily due to lower gross margins as a result of foreign currency
+exchange losses.
+ Outdoor
+Performance 
+ | 
+ | 
+ Three months Ended
+ March 31, | 
+ | 
+ | 
+ Change | 
+ | 
+ | 
+ | 
+ 2024 | 
+ | 
+ | 
+ 2023 | 
+ | 
+ | 
+ $ | 
+ | 
+ | 
+ % | 
+ | 
+ | 
+ | 
+ ($ in millions) | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ Channel Revenues | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ Wholesale | 
+ | 
+ $ | 
+ 293.1 | 
+ | 
+ | 
+ $ | 
+ 302.0 | 
+ | 
+ | 
+ $ | 
+ (8.9 | 
+ ) | 
+ | 
+ | 
+ (2.9 | 
+ )% | 
+ DTC | 
+ | 
+ | 
+ 106.9 | 
+ | 
+ | 
+ | 
+ 75.5 | 
+ | 
+ | 
+ | 
+ 31.4 | 
+ | 
+ | 
+ | 
+ 41.6 | 
+ % | 
+ Total | 
+ | 
+ $ | 
+ 400.0 | 
+ | 
+ | 
+ $ | 
+ 377.5 | 
+ | 
+ | 
+ $ | 
+ 22.5 | 
+ | 
+ | 
+ | 
+ 6.0 | 
+ % | 
+ Outdoor Performance revenue for the three-month
+period ended March 31, 2024, increased by 6.0% compared to the three-month period ended March 31, 2023, which was primarily
+driven by Salomon growth in softgoods. DTC revenues increased by 41.6% for the three-month period ended March 31, 2024, compared to
+the three-month period ended March 31, 2023, due to an expanded retail store network with a net increase of 27 owned retail stores
+and an increase of online traffic to our owned e-commerce websites. Revenues from our wholesale channel decreased 2.9% due warmer weather
+conditions in EMEA and the Americas, and high inventory levels by our wholesale partners, which impacted our winter sports equipment brands.
+By geography, Outdoor Performance revenue increased in Greater China, Asia Pacific, and EMEA, which was offset by a decline in the Americas.
+Outdoor Performance revenue on a constant currency basis for the three-month period ended March 31, 2024, increased by $24.0 million,
+or 6.4%, to $401.5 million, compared to the three-month period ended March 31, 2023.
+ Segment Adjusted Operating Profit in our
+Outdoor Performance segment decreased by 37.6% for the three-month period ended March 31, 2024, compared to the three-month
+period ended March 31, 2023. Segment adjusted operating profit margin was 4.9% and 8.2% for the three months ended
+March 31, 2024 and 2023, respectively. This was primarily due to increased selling, general, and administrative expenses as a
+result of an increase in the share of DTC sales, which was partially offset by gross margin improvements from a beneficial channel
+and region mix.
+ 8 
+ Ball & Racquet Sports 
+ | 
+ | 
+ Three months Ended 
+March 31, | 
+ | 
+ | 
+ Change | 
+ | 
+ | 
+ | 
+ 2024 | 
+ | 
+ | 
+ 2023 | 
+ | 
+ | 
+ $ | 
+ | 
+ | 
+ % | 
+ | 
+ | 
+ | 
+ ($ in millions) | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ Channel Revenues | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ Wholesale | 
+ | 
+ $ | 
+ 234.6 | 
+ | 
+ | 
+ $ | 
+ 281.3 | 
+ | 
+ | 
+ $ | 
+ (46.7 | 
+ ) | 
+ | 
+ | 
+ (16.6 | 
+ )% | 
+ DTC | 
+ | 
+ | 
+ 38.0 | 
+ | 
+ | 
+ | 
+ 36.3 | 
+ | 
+ | 
+ | 
+ 1.7 | 
+ | 
+ | 
+ | 
+ 4.7 | 
+ % | 
+ Total | 
+ | 
+ $ | 
+ 272.6 | 
+ | 
+ | 
+ $ | 
+ 317.6 | 
+ | 
+ | 
+ $ | 
+ (45.0 | 
+ ) | 
+ | 
+ | 
+ (14.2 | 
+ )% | 
+ Ball & Racquet segment revenue for the
+three-month period ended March 31, 2024, decreased by 14.2%, compared to the three-month period ended March 31, 2023. Revenues
+from our wholesale channel decreased 16.6% for the three-month period ended March 31, 2024, compared to the three-month period ended
+March 31, 2023, as prior year revenues were higher due to the timing of customer orders due to supply chain constraints. The decline
+was due to the baseball, inflatable balls, golf, and racket product categories, which was partially offset by growth in Wilson Softgoods.
+Ball & Racquet revenue on a constant currency basis for the three-month period ended March 31, 2024, decreased by $44.6
+million, or 14.0%, to $273.0 million compared to the three-month period ended March 31, 2023.
+ Segment Adjusted Operating Profit in our
+Ball & Racquet segment decreased by 76.4% for the three-month period ended March 31, 2024, compared for the
+three-month period ended March 31, 2023. Segment adjusted operating profit margin was 4.0% and 14.4% for the three months ended
+March 31, 2024 and 2023, respectively. This was primarily due to the decrease in revenue and increased selling, general, and
+administrative expenses. Additionally, gross margin was negatively impacted by increased discounts and unfavorable product mix.
+ Non-IFRS Financial Measures 
+ Management uses certain non-IFRS financial
+measures to supplement the financial measures prepared in accordance with IFRS, which include constant currency revenue, EBITDA,
+Adjusted EBITDA, Adjusted EBITDA Margin and Adjusted Net Income attributable to equity holders. We use constant currency revenue information to
+provide a framework to assess how our business segments performed excluding the effects of foreign currency exchange rate
+fluctuations. Management believes that EBITDA, Adjusted EBITDA and Adjusted EBITDA Margin enhance an investor’s understanding
+of our financial and operating performance from period to period, because they exclude certain material items relating to income tax
+expense, finance cost and depreciation and amortization which are not reflective of our ongoing operations and performance.
+Management believes Adjusted EBITDA, Adjusted EBITDA Margin, and Adjusted Net Income enhance an investor’s understanding of
+our financial and operating performance because they exclude certain material items relating to restructuring expenses, impairment
+losses on goodwill and intangible assets, expenses related to transaction activities, expenses related to certain legal proceedings,
+share-based payments and the associated income tax expense, which are not reflective of our ongoing operations and performance. In
+addition, management believes constant currency revenue, EBITDA, Adjusted EBITDA, Adjusted EBITDA Margin and Adjusted Net Income are
+measures commonly used by investors to evaluate companies in the apparel, footwear, sports equipment, protective gear and
+accessories industries.
+ However, there are limitations to the use of these
+non-IFRS financial measures as analytical tools and they should not be considered in isolation or as a substitute for other financial
+measures calculated and presented in accordance with IFRS and may not be comparable to similarly titled non-IFRS measures used by other
+companies. Constant currency revenue is limited as a metric to review the Company’s financial results as it does not reflect impacts
+of foreign currency on revenue. Some of the limitations of EBITDA, Adjusted EBITDA and Adjusted EBITDA Margin include: excluding certain
+tax payments that may reduce cash available to us; not reflecting any cash capital expenditure requirements for the assets being depreciated
+and amortized that may have to be replaced in the future; not reflecting changes in, or cash requirements for, our working capital needs;
+and not reflecting the interest expense, or the cash requirements necessary to service interest or principal payments, on our debt. Some
+of the limitations of Adjusted Net Income include: excluding the impact of restructuring expenses, expenses related to transaction activities
+and expenses related to certain legal proceedings.
+ 9 
+ The tables below reconcile each of the following
+non-IFRS financial measures to their respective most directly comparable IFRS measure for the periods presented.
+ EBITDA, Adjusted EBITDA and Adjusted EBITDA Margin 
+ | | 
+ Three months
+ Ended March 31 | | 
+ | | 
+ 2024 | | | 
+ 2023 | | 
+ | | 
+ ($ in millions) | | 
+ Revenue | | 
+ $ | 1,182.9 | | | 
+ $ | 1,050.3 | | 
+ Net income attributable to equity holders of the Company | | 
+ $ | 5.1 | | | 
+ $ | 19.0 | | 
+ Net income attributable to non-controlling interests | | 
+ | 1.8 | | | 
+ | - | | 
+ Income tax expense | | 
+ | 8.2 | | | 
+ | 26.6 | | 
+ Finance cost (1) | | 
+ | 82.3 | | | 
+ | 86.1 | | 
+ Loss on debt extinguishment | | 
+ | 14.3 | | | 
+ | - | | 
+ Depreciation and amortization (2) | | 
+ | 62.5 | | | 
+ | 52.0 | | 
+ Finance income | | 
+ | (2.7 | ) | | 
+ | (1.3 | ) | 
+ EBITDA | | 
+ | 171.5 | | | 
+ | 182.4 | | 
+ Restructuring expenses (3) | | 
+ | 0.9 | | | 
+ | - | | 
+ Impairment losses on goodwill and intangible assets (4) | | 
+ | - | | | 
+ | - | | 
+ Expenses related to transaction activities (5) | | 
+ | 5.8 | | | 
+ | 0.2 | | 
+ Expenses related to certain legal proceedings (6) | | 
+ | - | | | 
+ | - | | 
+ Share-based payments (7) | | 
+ | 3.4 | | | 
+ | - | | 
+ Adjusted EBITDA | | 
+ $ | 181.6 | | | 
+ $ | 182.6 | | 
+ Net income margin | | 
+ | 0.4 | % | | 
+ | 1.8 | % | 
+ Adjusted EBITDA Margin | | 
+ | 15.3 | % | | 
+ | 17.4 | % | 
+ (1) | 
+ Total interest expense on lease liabilities under IFRS 16, Leases was $4.3 and $2.0 for the three-month period ended March 31, 2024, and 2023, respectively. | 
+ (2) | 
+ Total amortization expense for right-of-use assets capitalized under IFRS 16, Leases was $26.5 million and $18.8 million for the three-month period ended March 31, 2024, and 2023, respectively. | 
+ (3) | 
+ Includes expenses for restructuring from severance, exit and termination events. | 
+ (4) | 
+ Includes impairment losses on goodwill and intangible assets. | 
+ (5) | 
+ Includes advisory fees in connection with M&A activities and non-recurring costs associated with our IPO. | 
+ (6) | 
+ Includes expenses related to (1) a certain patent infringement litigation and (2) certain litigation in connection with the divestiture of a business unit. While we face such patent litigation from time to time, the magnitude of costs is rarely significant and this litigation expense is substantially higher than all but one other patent litigation expense in the last 10 years. We view expenses related to these matters as outside our normal course of operations and not representative of our expected and recurring expenses. Legal expenses for other normal, recurring legal proceedings and other legal matters are not included in this adjustment. | 
+ (7) | 
+ Includes expenses for share-based payments and for fixed cash compensation on stock options vested at period end. We granted share-based compensation to employees under our equity compensation plans beginning in 2019, but did not incur any expenses related to share-based payments in periods prior to the fourth quarter of fiscal year 2023, as options granted under our equity compensation plans only vest once certain service and performance conditions are met, as well as upon the occurrence of an exit event, such as an initial public offering, and we did not believe an exit event was probable during such time. We started recognizing expenses related to share-based payments during the fourth quarter of the year ended December 31, 2023, as our IPO became probable. | 
+ 10 
+ Adjusted Net Income 
+ | | 
+ Three months Ended 
+March 31, | | 
+ | | 
+ 2024 | | | 
+ 2023 | | 
+ Net income attributable to equity holders | | 
+ $ | 5.1 | | | 
+ $ | 19.0 | | 
+ PPA (1) | | 
+ | 10.7 | | | 
+ | 10.7 | | 
+ Restructuring expenses (2) | | 
+ | 0.9 | | | 
+ | - | | 
+ Impairment losses on goodwill and intangible assets (3) | 
+ | 
+ | - | | | 
+ | - | | 
+ Expenses related to transaction activities (4) | | 
+ | 23.9 | | | 
+ | 0.2 | | 
+ Expenses related to certain legal proceedings (5) | | 
+ | - | | | 
+ | - | | 
+ Share-based payments (6) | | 
+ | 3.4 | | | 
+ | - | | 
+ Income tax expense | | 
+ | (5.2 | ) | | 
+ | (2.7 | ) | 
+ Adjusted Net Income attributable to equity holders | | 
+ $ | 38.8 | | | 
+ $ | 27.2 | | 
+ (1) | 
+ Adjustment for PPA is related to amortization of intangible assets in connection with the acquisition and delisting of Amer Sports in 2019. | 
+ (2) | 
+ Includes expenses for restructuring from severance, exit and termination events. | 
+ (3) | 
+ Includes impairment losses on goodwill and intangible assets. | 
+ (4) | 
+ Includes advisory fees in connection with M&A activities and non-recurring costs associated with our IPO. | 
+ (5) | 
+ Includes expenses related to (1) a certain patent infringement litigation and (2) certain litigation in connection with the divestiture of a business unit. While we face such patent litigation from time to time, the magnitude of costs is rarely significant and this litigation expense is substantially higher than all but one other patent litigation expense in the last 10 years. We view expenses related to these matters as outside our normal course of operations and not representative of our expected and recurring expenses. Legal expenses for other normal, recurring legal proceedings and other legal matters are not included in this adjustment. | 
+ (6) | 
+ Includes expenses for share-based payments and for fixed cash compensation on stock options vested at period end. We granted share-based compensation to employees under our equity compensation plans beginning in 2019, but did not incur any expenses related to share-based payments in periods prior to the fourth quarter of fiscal year 2023, as options granted under our equity compensation plans only vest once certain service and performance conditions are met, as well as upon the occurrence of an exit event, such as an initial public offering, and we did not believe an exit event was probable during such time. We started recognizing expenses related to share-based payments during the fourth quarter of the year ended December 31, 2023, as our IPO became probable. | 
+ Liquidity and Capital Resources 
+ Our primary need for liquidity is to fund working
+capital requirements, capital expenditures, debt service, lease obligations and for general corporate purposes. Typically, the highest
+level of working capital has been reached in the third quarter when inventory and accounts receivable are at a peak during the fall and
+winter shopping season.
+ Our future contractual obligations are further
+discussed in “Contractual Obligations and Commitments” below. Historically, our main sources of liquidity have been cash flow
+from operating activities, shareholder loans and borrowings under our existing credit facilities. See “Indebtedness” below.
+ We had $337.3 million and $348.3 million of cash
+and cash equivalents as of March 31, 2024 and 2023, respectively. The $11.0 million decrease in cash and cash equivalents as of March 31,
+2024 as compared to March 31, 2023 was primarily due to an increase in cash flows used in financing and investing activities, partially
+offset by improved net cash flows from operating activities.
+ We believe our existing cash and cash equivalent
+balances, cash flow from operations and credit facilities will be sufficient to meet our working capital and capital expenditure needs
+for at least the next 12 months. Our long-term capital requirements may vary materially from those currently planned and will depend on
+many factors, including the rate of revenue growth, the timing and extent of spending on research and development efforts, new owned retail
+store openings and other growth initiatives, the expansion of sales and marketing activities, the timing of new products, and overall
+economic conditions. We are also expecting increased capital expenditures related to the upgrade of our global SAP enterprise resource
+planning system over the next several years, which we are in the process of implementing across each of our brands, and the expansion
+of our warehousing facilities. Our capital expenditures for 2023 were approximately $136.3 million, and our capital expenditure for 2024
+are expected to be approximately $300 million.
+ 11 
+ To the extent that current and anticipated future
+sources of liquidity are insufficient to fund our future business activities and requirements, we may be required to seek additional equity
+or debt financing. The sale of additional equity would result in additional dilution to shareholders. The incurrence of debt financing
+would result in debt service obligations and the instruments governing such debt could provide for operating and financing covenants that
+may restrict our operations. We also regularly evaluate market conditions, our liquidity profile, and various financing alternatives for
+opportunities to enhance our capital structure. If market conditions are favorable, we may refinance our existing debt or issue additional
+securities. There can be no assurances that we will be able to raise additional capital on terms that are attractive to us or at all.
+The inability to raise capital may adversely affect our ability to achieve our business objectives.
+ Cash Flow Information 
+ The following table sets forth our consolidated
+cash flow information for the periods presented:
+ | | 
+ Three months Ended 
+March 31, | | 
+ | | 
+ 2024 | | | 
+ 2023 | | 
+ | | 
+ ($ in millions) | | 
+ Total net cash flows from operating activities | | 
+ $ | 116.5 | | | 
+ $ | 57.3 | | 
+ Net cash flows (used in) investing activities | | 
+ $ | (67.3 | ) | | 
+ $ | (27.8 | ) | 
+ Net cash flows (used in) financing activities | | 
+ $ | (184.9 | ) | | 
+ $ | (86.8 | ) | 
+ Operating Activities 
+ Total net cash flows from operating activities were $116.5 million
+for the three-month period ended March 31, 2024, compared to $57.3 million for the three-month period ended March 31, 2023.
+The increase of $59.2 million in cash inflows from operating activities was primarily due to improved working capital driven by lower
+inventory levels. This was partially offset by an increase of income taxes paid of $23.1 million.
+ Investing Activities 
+ Net cash flows used in investing activities was
+$67.3 million for the three-month period ended March 31, 2024 compared to $27.8 million for the three-month period ended March 31,
+2023. The increase of $39.5 million in cash flows used in investing activities was due to increased investments in property, plant and
+equipment, mainly consisting of the expansion of our retail store network.
+ Our capital expenditures (which we define herein
+to refer to the acquisition of property, plant and equipment and the acquisition of intangible assets, as presented in our consolidated
+statement of cash flows) for the three-month period ended March 31, 2024, and March 31, 2023, totaled $63.2 million and $25.5
+million, respectively.
+ Financing Activities 
+ Net cash flows used in financing activities was $184.9 million for
+the three-month period ended March 31, 2024, compared to $86.8 million for the three-month period ended March 31, 2023. The
+increase of $98.1 million in cash used in financing activities was primarily driven by the repayment of $2.21 billion under the old term
+loan facility under the Senior Facilities Agreement, $1.46 billion that was paid for Loans from related parties, and $31.0 million due
+to the settlements of forward contract and balance sheet hedges. This was partially offset by $2.03 billion in proceeds received from
+the new term loan facilities and senior secured notes, and $1.51 billion of net proceeds received from the IPO.
+ 12 
+ Indebtedness 
+ 6.750% Senior Secured Notes 
+ On February 16, 2024, Amer Sports Company
+(the “Issuer”), our wholly owned subsidiary, entered into an indenture (the “Indenture”) with The Bank of New
+York Mellon, as trustee, Wilmington Trust (London) Limited, as notes collateral agent, and the guarantors party thereto, pursuant to which
+the Issuer issued $800 million principal amount of 6.750% senior secured notes (the “Notes”). Pursuant to the Indenture, the
+Notes will mature on February 16, 2031. Interest on the Notes are payable semi-annually in arrears on each March 1 and September 1,
+beginning on September 1, 2024.
+ The Notes are jointly and severally guaranteed
+by the Company and each of the Company’s subsidiaries (other than the Issuer) that is a borrower or a guarantor under the New Senior
+Secured Credit Facilities (the “Note Guarantors”). The Notes and the guarantees related thereto are senior obligations and
+are secured, subject to permitted liens and certain other exceptions, by the same first priority liens that secure the obligations of
+the Issuer and the Note Guarantors under the New Senior Secured Credit Facilities.
+ The Notes will be redeemable at the option of
+the Issuer, in whole or in part, on or after February 16, 2027, at the redemption prices set forth in the Indenture.
+ In addition, prior to February 16, 2027,
+the Issuer may, at its option and on one or more occasions, redeem up to 10% of the aggregate principal amount of the Notes under the
+Indenture (including any additional Notes) during any 12-month period at a redemption price equal to 103% of the principal amount of the
+Notes being redeemed. Prior to February 16, 2027, the Issuer may on any one or more occasions redeem up to 40% of the aggregate principal
+amount of Notes issued under the indenture at a redemption price of 106.750% of the principal amount thereof, subject to the limitations
+set forth in the Indenture.
+ Upon the occurrence of a Change of Control (as
+defined in the Indenture), unless the Issuer has exercised its right to redeem all of the Notes, as described above, each holder of the
+Notes will have a right to repurchase all or any part of that holder’s Notes at a purchase price equal to 101% of the aggregate
+principal amount of Notes repurchased plus accrued and unpaid interest on the Notes repurchased to, but excluding, the date of purchase.
+ The Indenture contains covenants that limit the
+ability of the Company and any of its Restricted Subsidiaries (as such term is defined in the Indenture), to, among other things incur
+or guarantee additional indebtedness, make certain investments and other restricted payments; create liens, enter into transactions with
+affiliates, engage in mergers, consolidations or amalgamations; and transfer and sell assets. The Indenture also provides for customary
+events of default.
+ New Senior Secured Credit Facilities 
+ On February 16, 2024, the Company entered
+into a Credit Agreement (the “Credit Agreement”) among the Company, certain subsidiaries of the Company as borrowers, the
+financial institutions party thereto as lenders and issuing banks, JPMorgan Chase Bank, N.A. as administrative agent, J.P. Morgan SE,
+as swingline lender, and Wilmington Trust (London) Limited as collateral agent.
+ The Credit Agreement provides for a U.S. dollar
+denominated term loan facility of $500 million with a seven-year term to maturity (the “USD Term Loan Facility”), a Euro denominated
+term loan facility of €700 million with a seven-year term to maturity (the “EUR Term Loan Facility”, and together with
+the USD Term Loan Facility, the “New Term Loan Facilities”) and a five-year revolving credit facility of $710 million (the
+ “New Revolving Credit Facility”). The USD Term Loan Facility is denominated in U.S. dollars, the EUR Term Loan Facility is
+denominated in Euros and borrowings under the New Revolving Credit Facility are available in U.S. dollars or Euros. As of March 31, 2024, no amounts were borrowed on the New Revolving Credit Facility.
+ Interest and Fees 
+ Borrowings under the New Revolving Credit Facility
+in: (i) U.S. dollars will bear interest at a rate per annum equal to, at the option of the Company, either (a) a term SOFR-based
+rate or (b) a U.S. dollar base rate and (ii) Euros will bear interest at a rate per annum equal to EURIBOR (provided, however,
+that the term SOFR-based rate and EURIBOR shall be no less than 0.00% per annum at any time and the U.S. dollar base rate shall be no
+less than 1.00% per annum at any time), in each case, plus an applicable margin. Borrowings under the (i) USD Term Loan Facility
+will bear interest at a rate per annum equal to, at the option of the Company, either (x) a term SOFR-based rate or (y) a U.S.
+dollar base rate and (ii) EUR Term Loan Facility will bear interest at a rate per annum equal to EURIBOR (provided, however, that
+the term SOFR-based rate and EURIBOR shall be no less than 0.00% per annum at any time and the U.S. dollar base rate shall be no less
+than 1.00% per annum at any time), in each case, plus an applicable margin.
+ 13 
+ The applicable interest rate margins for borrowings
+under the New Revolving Credit Facility are between 0.75% to 1.75% with respect to U.S. dollar base rate borrowings and between 1.75%
+to 2.75% with respect to SOFR or EURIBOR borrowings based on the Company’s first lien net leverage ratio (the “Applicable
+Rate”). The applicable interest rate margins for borrowings under the USD Term Loan Facility are between 2.00% to 2.25% with respect
+to U.S. dollar base rate borrowings and between 3.00% to 3.25% with respect to SOFR borrowings based on the Company’s senior unsecured
+non-credit-enhanced long-term debt rating. The applicable interest rate margins for borrowings under the EUR Term Loan Facility are between
+3.25% to 3.50% based on the Company’s senior unsecured non-credit-enhanced long-term debt ratings.
+ In addition, the Company is required to pay quarterly
+commitment fees equal to 30% of the Applicable Rate then in effect for SOFR borrowings under the New Revolving Credit Facility, on a per
+annum basis in respect of the unutilized commitments under the New Revolving Credit Facility, payable quarterly in arrears. The Company
+will also be required to pay letter of credit fees on the maximum amount available to be drawn under all outstanding letters of credit
+in an amount equal to the Applicable Rate on SOFR borrowings under the New Revolving Credit Facility on a per annum basis, payable quarterly
+in arrears, as well as customary fronting fees for the issuance of letters of credit and agency fees.
+ The mandatory annual principal repayment for the
+USD Term Loan Facility is 1.00% per annum, payable in quarterly installments, and the first installment in respect of the USD Term Loan
+Facility is payable on June 30, 2024. The EUR Term Loan Facility is not expected to be subject to scheduled amortization payments.
+The Company may direct that prepayments be applied to such principal payments in order of maturity.
+ Collateral and Guarantors 
+ The New Senior Secured Credit Facilities are secured
+by substantially all of the assets of the Company and certain wholly-owned subsidiaries of the Company that are organized in the United
+States, Austria, Canada, Switzerland, Cayman Islands, Finland, France, Hong Kong and Sweden, subject to certain exceptions and subject
+to the agreed security principles with respect to any such subsidiaries that are not organized in the United States or Canada.
+ The obligations of the Company and the obligations
+of the guarantors under the New Senior Secured Credit Facilities and certain hedging arrangements and cash management arrangements entered
+into with lenders under the New Senior Secured Credit Facilities (or affiliates thereof) are secured by first-priority security interests
+in the collateral securing such facilities subject to certain exclusions set forth in the credit documentation governing the New Senior
+Secured Credit Facilities.
+ Prepayments 
+ Subject to certain exceptions and customary baskets
+set forth in the Credit Agreement, the Company is required to make mandatory prepayments of the loans under the New Term Loan Facilities
+under certain circumstances, including from: (i) 100% of the net cash proceeds of insurance and condemnation proceeds for property
+or asset losses (subject to reinvestment rights, decreases based on leverage ratios and a net proceeds threshold), (ii) 100% of the
+net cash proceeds from the incurrence of debt (other than permitted debt under the Credit Agreement), (iii) 50% of excess cash flow
+subject to decrease based on leverage ratios and subject to a threshold amount and (iv) 100% of net cash proceeds from asset sales
+(subject to reinvestment rights, decrease based on leverage ratios and net proceeds threshold). These mandatory prepayments may be used
+to satisfy future amortization.
+ The Company is permitted to voluntarily reduce
+the unutilized portion of the revolving commitment amount and repay outstanding loans under the New Revolving Credit Facility at any time
+without premium or penalty, other than customary “breakage” costs with respect to SOFR and EURIBOR loans. The Company is permitted
+to voluntarily repay outstanding loans under the New Term Loan Facilities at any time without premium or penalty; provided that that any
+voluntary prepayment, refinancing or repricing of the New Term Loan Facilities in connection with certain repricing transactions that
+occur prior to the six-month anniversary of the closing of the New Senior Secured Credit Facilities shall be subject to a prepayment premium
+of 1.00% of the principal amount of the term loans so prepaid, refinanced or repriced.
+ 14 
+ Certain Covenants and Events of Default 
+ The Credit Agreement contains a number of covenants
+that, among other things and subject to certain exceptions, restrict the Company’s and its subsidiaries’ ability to incur
+additional indebtedness; create liens; enter into agreements and other arrangements that include negative pledge clauses; pay dividends
+on capital stock or redeem, repurchase or retire capital stock or subordinated indebtedness; make investments, loans, advances and acquisitions;
+merge, amalgamate or sell assets, including equity interests of subsidiaries; enter into sale and leaseback transactions; engage in transactions
+with affiliates; and enter into amendments of or waivers under subordinated indebtedness. The Credit Agreement also contains certain customary
+affirmative covenants.
+ The New Revolving Credit Facility also contains
+financial covenants that: (1) require the Company to maintain a maximum first lien net leverage ratio of not greater than 5.00:1.00
+and (2) require the Company to maintain an interest coverage ratio of not less than 2.00:1.00, which shall increase to 2.25:1.00
+as of the fiscal quarter ending December 31, 2025 and shall further increase to 2.50:1.00 as of the fiscal quarter ending December 31,
+2026. The financial covenants contain a customary term loan facility standstill and customary cure rights.
+ The Credit Agreement also contains certain customary
+events of default. If an event of default, as specified in the Credit Agreement shall occur and be continuing, the borrowers thereunder
+may be required to repay all amounts outstanding under the Credit Facilities.
+ Senior Facilities Agreement 
+ On March 20, 2019, our wholly owned subsidiary,
+Amer Sports Holding Oy (f/k/a Mascot Midco 1 Oy) (the “Parent Guarantor”), and certain of its subsidiaries, including Amer
+Sports Holding 1 Oy (f/k/a Mascot Bidco Oy) (“Bidco”) and Mascot Bidco Canada Inc. (“Canada Bidco” and, together
+with Bidco, the “Borrowers”), entered into a senior facilities agreement with, among others, J.P. Morgan SE (f/k/a J.P. Morgan
+Europe Limited) as agent and Wilmington Trust (London) Limited as security agent and, on July 17, 2023, such agreement was amended
+and restated in its entirety (the “Senior Facilities Agreement”). The Senior Facilities Agreement provided for (i) a
+EUR 315 million senior secured revolving facility (the “Revolving Facility”) and (ii) a EUR 1.7 billion senior secured
+term loan facility (the “Term Loan Facility” and, together with the Revolving Facility, the “Senior Credit Facilities”).
+The maturity date of the Revolving Facility and Term Loan Facility was September 29, 2025, and March 29, 2026, respectively.
+The Senior Credit Facilities were guaranteed by the Parent Guarantor and by certain of the Parent Guarantor’s subsidiaries, and
+are secured by security granted by the Parent Guarantor and certain of its subsidiaries. On February 16, 2024, we repaid all outstanding
+borrowings under and terminated the Senior Facilities Agreement.
+ Loans with Related Parties 
+ On March 26, 2019, Amer Sports Holding
+(Cayman) Limited (“JVCo”) (as lender) entered into an intercompany loan agreement with our wholly-owned subsidiary, Amer Sports Holding
+(HK) Limited (“Amer Sports HK”) (as borrower), pursuant to which JVCo advanced to Amer Sports HK a loan with an
+aggregate principal amount outstanding as of December 31, 2023 of EUR 2.489 billion (“JVCo Loan 1” or “Investment Loan”). On
+February 28, 2022, Amer Sports, Inc. assumed all obligations under JVCo Loan 1 from Amer Sports HK. Pursuant to a
+capitalization agreement entered into between us and JVCo, EUR 2.3 billion of JVCo Loan 1 was equitized immediately prior to the
+completion of our IPO and EUR 125.5 million was set off against certain outstanding liabilities of JVCo, and all remaining
+borrowings under JVCo Loan 1 were repaid in full in connection with our IPO, such that there were no borrowings outstanding as of
+March 31, 2024.
+ On March 26, 2019, JVCo (as lender) entered
+into an intercompany loan agreement with our wholly-owned subsidiary, Amer Sports HK (as borrower), pursuant to which JVCo advanced to
+Amer Sports HK a loan with an aggregate principal amount outstanding as of December 31, 2023 of EUR 1.3 billion (“JVCo Loan
+2”). On February 28, 2022, Amer Sports, Inc. assumed all obligations under JVCo Loan 2 from Amer Sports HK. JVCo Loan
+2 was repaid in full in connection with our IPO, such that there were no borrowings outstanding as of March 31, 2024.
+ 15 
+ On February 28, 2022, the Co-Invest entered
+into a loan agreement with us for a loan in an aggregate principal amount outstanding as of December 31, 2023 of EUR 7.1 million
+(“Co-Invest Loan 1”). Pursuant to a capitalization agreement entered into between us and the Co-Invest, EUR 6.7 million of
+Co-Invest Loan 1 was equitized immediately prior to the completion of our IPO and all remaining borrowings under Co-Invest Loan 1 were
+repaid in full in connection with our IPO, such that there were no borrowings outstanding as of March 31, 2024.
+ On February 28, 2022, the Co-Invest entered
+into a loan agreement with us for a loan in an aggregate principal amount outstanding as of December 31, 2023 of EUR 3.7 million
+(“Co-Invest Loan 2”). Co-Invest Loan 2 was repaid in full in connection with our IPO, such that there were no borrowings outstanding
+as of March 31, 2024.
+ Collectively, JVCo Loan 2, Co-Invest Loan 1, and Co-Invest Loan 2, are referred to as the Facility A Loan in Note 2, “Related Party
+Transactions,” to our unaudited consolidated financial statements included as Exhibit 99.2 to the Report on Form 6-K
+ On May 29,
+2020, JVCo (as lender) entered into an intercompany loan agreement with our wholly-owned subsidiary, Amer Sports HK (as borrower), pursuant
+to which JVCo agreed to make available to Amer Sports HK a loan in a principal amount of up to EUR 400 million (“JVCo Loan 3”).
+As of October 1, 2022, Amer Sports, Inc. assumed all obligations under JVCo Loan 3 from Amer Sports HK. JVCo Loan 3 was equitized in connection
+with our IPO.
+ Off-Balance Sheet Arrangements 
+ We have off-balance sheet arrangements in connection
+with certain leases and guarantees. Leases not capitalized mainly relate to short term and low value leases for which IFRS 16, Leases 
+offers an exemption from capitalization, while the guarantees include arrangements with third parties related to the divested Precor business.
+ New Accounting Pronouncements 
+ See Note 2, “Summary of Material Accounting Policies,”
+to our unaudited consolidated financial statements included as Exhibit 99.2 to the Report on Form 6-K, for details regarding
+recent accounting pronouncements.
+ Critical Accounting Policies 
+ See Note 2, “Summary of Material
+Accounting Policies,” to our audited consolidated financial statements in our Annual Report on Form 20-F. During the three months ended
+March 31, 2024, there were no significant changes to our critical accounting policies.
+ Special Note Regarding Forward-Looking Statements 
+ This discussion contains statements that constitute
+forward-looking statements. Many of the forward-looking statements contained herein can be identified by the use of forward-looking words
+such as “anticipate,” “believe,” “could,” “expect,” “should,” “plan,”
+ “intend,” “estimate” and “potential,” among others.
+ Forward-looking statements appear in a number
+of places herein and include, but are not limited to, statements regarding our intent, belief or current expectations. Forward-looking
+statements are based on our management’s beliefs and assumptions and on information currently available to our management. Such
+statements are subject to risks and uncertainties, and actual results may differ materially from those expressed or implied in the forward-looking
+statements due to various factors, including, but not limited to, those identified under the section titled “Item 3. Key Information—D.
+Risk Factors” in our Annual Report on Form 20-F. These risks and uncertainties include factors relating to:
+ | 
+ · | 
+ the strength of our brands; | 
+ | 
+ · | 
+ changes in market trends and consumer preferences; | 
+ | 
+ · | 
+ intense competition that our products, services and experiences face; | 
+ | 
+ · | 
+ harm to our reputation that could adversely impact our ability to attract and retain consumers and wholesale partners, employees, brand ambassadors, partners, and other stakeholders; | 
+ | 
+ · | 
+ reliance on technical innovation and high-quality products; | 
+ | 
+ · | 
+ general economic and business conditions worldwide, including due to inflationary pressures; | 
+ | 
+ · | 
+ the strength of our relationships with and the financial condition of our third-party suppliers, manufacturers, wholesale partners and consumers; | 
+ | 
+ · | 
+ ability to expand our DTC channel, including our expansion and success of our owned retail stores and e-commerce platform; | 
+ 16 
+ | 
+ · | 
+ our plans to innovate, expand our product offerings and successfully implement our growth strategies that may not be successful, and implementation of these plans that may direct divert our operational, managerial and administrative resources; | 
+ | 
+ · | 
+ our international operations, including any related to political uncertainty and geopolitical tensions; | 
+ | 
+ · | 
+ our and our wholesale partners’ ability to accurately forecast demand for our products and our ability to manage manufacturing decisions; | 
+ | 
+ · | 
+ our third-party suppliers, manufacturers and other partners, including their financial stability and our ability to find suitable partners to implement our growth strategy | 
+ | 
+ · | 
+ the cost of raw materials and our reliance on third-party manufacturers; | 
+ | 
+ · | 
+ our distribution system and ability to deliver our brands’ products to our wholesale partners and consumers; | 
+ | 
+ · | 
+ climate change and sustainability or ESG-related matters, or legal, regulatory or market responses thereto; | 
+ | 
+ · | 
+ changes to trade policies, tariffs, import/export regulations and anti-competition regulations in the United States, EU, PRC and other jurisdictions, or our failure to comply with such regulations; | 
+ | 
+ · | 
+ ability to obtain approvals from PRC authorities to list or remain listed on the U.S. exchanges and offer securities in the future; | 
+ | 
+ · | 
+ ability to obtain, maintain, protect and enforce our intellectual property rights in our brands, designs, technologies and proprietary information and processes; | 
+ | 
+ · | 
+ ability to defend against claims of intellectual property infringement, misappropriation, dilution or other violations made by third parties against us; | 
+ | 
+ · | 
+ security breaches or other disruptions to our IT systems; | 
+ | 
+ · | 
+ our reliance on a large number of complex IT systems; | 
+ | 
+ · | 
+ changes in government regulation and tax matters; | 
+ | 
+ · | 
+ our ability to remediate our material weakness in our internal control over financial reporting; | 
+ | 
+ · | 
+ our relationship with ANTA Sports; | 
+ | 
+ · | 
+ our expectations regarding the time during which we will be a foreign private issuer; and | 
+ | 
+ · | 
+ other risk factors discussed
+ under “Item 3. Key Information—D. Risk Factors” in our Annual Report on Form 20-F. | 
+ Forward-looking statements speak only as of the
+date they are made, and we do not undertake any obligation to update them in light of new information or future developments or to release
+publicly any revisions to these statements in order to reflect later events or circumstances or to reflect the occurrence of an unanticipated
+event.
+ 17 

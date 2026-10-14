@@ -1,0 +1,26 @@
+period,metric,value_pct_or_usd_bn,unit,source_publisher,published,url,tag
+CY2024,total_us_footwear_sales,89.2,usd_bn,SGI Europe citing Circana,2025-01,https://www.sgieurope.com/consumer/sales-for-the-us-footwear-industry-reached-892-billion-in-2024/112940.article,SNIPPET
+CY2024,total_us_footwear_dollar_yoy,0,pct (flat),SGI Europe citing Circana,2025-01,https://www.sgieurope.com/consumer/sales-for-the-us-footwear-industry-reached-892-billion-in-2024/112940.article,SNIPPET
+CY2024,sport_lifestyle_dollar_yoy,3,pct,SGB citing Circana,2025-01,https://sgbonline.com/?p=333194,SNIPPET
+CY2024,performance_running_dollar_yoy,6,pct,SGI Europe citing Circana,2025-01,https://www.sgieurope.com/consumer/sales-for-the-us-footwear-industry-reached-892-billion-in-2024/112940.article,SNIPPET
+CY2025,total_us_footwear_sales,90,usd_bn,MR Magazine citing Circana Q4 2025 pulse,2026-02-05,https://mr-mag.com/circana-issues-q4-2025-footwear-industry-pulse-report/,OPENED
+CY2025,total_units_yoy,low single digit decline,text,MR Magazine citing Circana,2026-02-05,https://mr-mag.com/circana-issues-q4-2025-footwear-industry-pulse-report/,OPENED
+CY2025,performance_dollar_yoy,6,pct,MR Magazine citing Circana,2026-02-05,https://mr-mag.com/circana-issues-q4-2025-footwear-industry-pulse-report/,OPENED
+CY2025,running_dollar_yoy,9,pct,MR Magazine citing Circana,2026-02-05,https://mr-mag.com/circana-issues-q4-2025-footwear-industry-pulse-report/,OPENED
+CY2025,sport_lifestyle_dollar_yoy,4,pct,MR Magazine citing Circana,2026-02-05,https://mr-mag.com/circana-issues-q4-2025-footwear-industry-pulse-report/,OPENED
+CY2025,fashion_dollar_yoy,-2,pct,MR Magazine citing Circana,2026-02-05,https://mr-mag.com/circana-issues-q4-2025-footwear-industry-pulse-report/,OPENED
+Q4CY2025,total_dollar_yoy,2,pct,MR Magazine citing Circana,2026-02-05,https://mr-mag.com/circana-issues-q4-2025-footwear-industry-pulse-report/,OPENED
+Q4CY2025,asp_yoy,8,pct,MR Magazine citing Circana,2026-02-05,https://mr-mag.com/circana-issues-q4-2025-footwear-industry-pulse-report/,OPENED
+Q1CY2026,total_dollar_yoy,1,pct,Circana press release,2026-05-04,https://www.circana.com/post/us-footwear-industry-delivers-modest-first-quarter-growth-driven-by-price-increases-and-strength-in,OPENED
+Q1CY2026,total_units_yoy,decline (no figure),text,Circana press release,2026-05-04,https://www.circana.com/post/us-footwear-industry-delivers-modest-first-quarter-growth-driven-by-price-increases-and-strength-in,OPENED
+Q1CY2026,performance_dollar_yoy,5,pct,Circana press release,2026-05-04,https://www.circana.com/post/us-footwear-industry-delivers-modest-first-quarter-growth-driven-by-price-increases-and-strength-in,OPENED
+Q1CY2026,running_dollar_and_unit_yoy,double digit,text,Circana press release,2026-05-04,https://www.circana.com/post/us-footwear-industry-delivers-modest-first-quarter-growth-driven-by-price-increases-and-strength-in,OPENED
+Q1CY2026,fashion_dollar_yoy,2,pct,Circana press release,2026-05-04,https://www.circana.com/post/us-footwear-industry-delivers-modest-first-quarter-growth-driven-by-price-increases-and-strength-in,OPENED
+H1CY2026,total_dollar_yoy,1,pct,Circana press release,2026-08-17,https://www.circana.com/post/performance-shoe-sales-pick-up-the-pace-amid-selective-us-consumer-spending-in-the-footwear-market,OPENED
+H1CY2026,total_units_yoy,decline (no figure),text,Circana press release,2026-08-17,https://www.circana.com/post/performance-shoe-sales-pick-up-the-pace-amid-selective-us-consumer-spending-in-the-footwear-market,OPENED
+H1CY2026,performance_dollar_yoy,6,pct,Circana press release,2026-08-17,https://www.circana.com/post/performance-shoe-sales-pick-up-the-pace-amid-selective-us-consumer-spending-in-the-footwear-market,OPENED
+H1CY2026,running_dollar_yoy,13,pct,Circana press release,2026-08-17,https://www.circana.com/post/performance-shoe-sales-pick-up-the-pace-amid-selective-us-consumer-spending-in-the-footwear-market,OPENED
+H1CY2026,running_unit_yoy,13,pct,Circana press release,2026-08-17,https://www.circana.com/post/performance-shoe-sales-pick-up-the-pace-amid-selective-us-consumer-spending-in-the-footwear-market,OPENED
+H1CY2026,sport_lifestyle_dollar_yoy,decline (no figure),text,Circana press release (as summarized by fetch tool),2026-08-17,https://www.circana.com/post/performance-shoe-sales-pick-up-the-pace-amid-selective-us-consumer-spending-in-the-footwear-market,OPENED
+H1CY2026,fashion_dollar_yoy,flat,text,Circana press release,2026-08-17,https://www.circana.com/post/performance-shoe-sales-pick-up-the-pace-amid-selective-us-consumer-spending-in-the-footwear-market,OPENED
+CY2026F,total_outlook,relatively flat,text,Circana press release,2026-08-17,https://www.circana.com/post/performance-shoe-sales-pick-up-the-pace-amid-selective-us-consumer-spending-in-the-footwear-market,OPENED

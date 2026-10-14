@@ -1,0 +1,672 @@
+region,cal_year,cal_q,series,is_nike,growth_pct,basis
+North America,2019,1,Nike NA,1,6.69,reported(home ccy)
+North America,2019,1,adidas NA,0,3.3,cc
+North America,2019,1,Puma Americas,0,16.3,cc
+North America,2019,1,Under Armour NA,0,-2.8,reported(home ccy)
+North America,2019,1,Columbia US,0,13.61,reported(home ccy)
+North America,2019,1,Vans Americas,0,22.0,cc
+North America,2019,2,Nike NA,1,8.0,cc
+North America,2019,2,adidas NA,0,5.8,cc
+North America,2019,2,Puma Americas,0,19.7,cc
+North America,2019,2,Under Armour NA,0,-3.22,reported(home ccy)
+North America,2019,2,Columbia US,0,12.62,reported(home ccy)
+North America,2019,2,Vans Americas,0,22.0,cc
+North America,2019,3,Nike NA,1,4.0,cc
+North America,2019,3,adidas NA,0,10.4,cc
+North America,2019,3,Puma Americas,0,17.9,cc
+North America,2019,3,Under Armour NA,0,-4.12,reported(home ccy)
+North America,2019,3,Columbia US,0,17.15,reported(home ccy)
+North America,2019,3,Vans Americas,0,15.0,cc
+North America,2019,4,Nike NA,1,5.0,cc
+North America,2019,4,adidas NA,0,10.0,cc
+North America,2019,4,Puma Americas,0,17.6,cc
+North America,2019,4,Under Armour NA,0,1.88,reported(home ccy)
+North America,2019,4,Columbia US,0,7.58,reported(home ccy)
+North America,2019,4,Vans Americas,0,9.0,cc
+North America,2020,1,Nike NA,1,4.0,cc
+North America,2020,1,adidas NA,0,0.8,cc
+North America,2020,1,Puma Americas,0,3.1,cc
+North America,2020,1,Under Armour NA,0,-27.78,reported(home ccy)
+North America,2020,1,Columbia US,0,-8.82,reported(home ccy)
+North America,2020,1,Vans Americas,0,-7.0,cc
+North America,2020,2,Nike NA,1,-46.0,cc
+North America,2020,2,adidas NA,0,-38.2,cc
+North America,2020,2,Puma Americas,0,-43.1,cc
+North America,2020,2,Under Armour NA,0,-44.9,reported(home ccy)
+North America,2020,2,Columbia US,0,-41.92,reported(home ccy)
+North America,2020,2,Vans Americas,0,-64.0,cc
+North America,2020,3,Nike NA,1,-1.0,cc
+North America,2020,3,adidas NA,0,-6.19,fx-translated
+North America,2020,3,Puma Americas,0,20.7,cc
+North America,2020,3,Under Armour NA,0,-5.25,reported(home ccy)
+North America,2020,3,Columbia US,0,-23.34,reported(home ccy)
+North America,2020,3,Vans Americas,0,-17.0,cc
+North America,2020,4,Nike NA,1,1.0,cc
+North America,2020,4,adidas NA,0,-3.81,fx-translated
+North America,2020,4,Puma Americas,0,6.1,cc
+North America,2020,4,Under Armour NA,0,-6.03,reported(home ccy)
+North America,2020,4,Columbia US,0,-5.51,reported(home ccy)
+North America,2020,4,Vans Americas,0,-10.0,cc
+North America,2021,1,Nike NA,1,-11.0,cc
+North America,2021,1,adidas NA,0,8.1,cc
+North America,2021,1,Puma Americas,0,38.5,cc
+North America,2021,1,ASICS NA,0,23.54,fx-translated
+North America,2021,1,Under Armour NA,0,32.31,reported(home ccy)
+North America,2021,1,Columbia US,0,8.72,reported(home ccy)
+North America,2021,1,Vans Americas,0,13.0,cc
+North America,2021,2,Nike NA,1,141.0,cc
+North America,2021,2,adidas NA,0,86.6,cc
+North America,2021,2,Puma Americas,0,181.8,cc
+North America,2021,2,ASICS NA,0,84.84,fx-translated
+North America,2021,2,Under Armour NA,0,101.35,reported(home ccy)
+North America,2021,2,Columbia US,0,106.86,reported(home ccy)
+North America,2021,2,Vans Americas,0,144.0,cc
+North America,2021,3,Nike NA,1,15.0,cc
+North America,2021,3,adidas NA,0,8.6,cc
+North America,2021,3,Puma Americas,0,31.2,cc
+North America,2021,3,ASICS NA,0,10.99,fx-translated
+North America,2021,3,Under Armour NA,0,7.61,reported(home ccy)
+North America,2021,3,Columbia US,0,14.56,reported(home ccy)
+North America,2021,3,Vans Americas,0,9.0,cc
+North America,2021,4,Nike NA,1,12.0,cc
+North America,2021,4,adidas NA,0,-3.7,cc
+North America,2021,4,Puma Americas,0,31.3,cc
+North America,2021,4,ASICS NA,0,10.35,fx-translated
+North America,2021,4,Under Armour NA,0,15.11,reported(home ccy)
+North America,2021,4,Columbia US,0,27.22,reported(home ccy)
+North America,2021,4,Vans Americas,0,11.0,cc
+North America,2022,1,Nike NA,1,9.0,cc
+North America,2022,1,adidas NA,0,12.8,cc
+North America,2022,1,Puma Americas,0,44.1,cc
+North America,2022,1,ASICS NA,0,2.26,fx-translated
+North America,2022,1,Under Armour NA,0,4.37,reported(home ccy)
+North America,2022,1,Columbia US,0,22.81,reported(home ccy)
+North America,2022,1,Skechers Americas,0,30.49,reported(home ccy)
+North America,2022,1,Vans Americas,0,1.0,cc
+North America,2022,2,Nike NA,1,-5.0,cc
+North America,2022,2,adidas NA,0,21.3,cc
+North America,2022,2,Puma Americas,0,25.6,cc
+North America,2022,2,ASICS NA,0,-6.68,fx-translated
+North America,2022,2,Under Armour NA,0,0.43,reported(home ccy)
+North America,2022,2,Columbia US,0,8.82,reported(home ccy)
+North America,2022,2,Skechers Americas,0,20.89,reported(home ccy)
+North America,2022,2,Vans Americas,0,3.0,cc
+North America,2022,3,Nike NA,1,13.0,cc
+North America,2022,3,adidas NA,0,8.2,cc
+North America,2022,3,Puma Americas,0,18.8,cc
+North America,2022,3,ASICS NA,0,-4.91,fx-translated
+North America,2022,3,Under Armour NA,0,-2.32,reported(home ccy)
+North America,2022,3,Columbia US,0,18.92,reported(home ccy)
+North America,2022,3,Skechers Americas,0,16.21,reported(home ccy)
+North America,2022,3,Vans Americas,0,-11.0,cc
+North America,2022,4,Nike NA,1,31.0,cc
+North America,2022,4,adidas NA,0,6.0,cc
+North America,2022,4,Puma Americas,0,29.0,cc
+North America,2022,4,ASICS NA,0,19.89,fx-translated
+North America,2022,4,Under Armour NA,0,-2.41,reported(home ccy)
+North America,2022,4,Columbia US,0,2.45,reported(home ccy)
+North America,2022,4,Skechers Americas,0,22.49,reported(home ccy)
+North America,2022,4,Vans Americas,0,-13.0,cc
+North America,2023,1,Nike NA,1,27.0,cc
+North America,2023,1,adidas NA,0,-19.6,cc
+North America,2023,1,Puma Americas,0,-0.8,cc
+North America,2023,1,ASICS NA,0,8.81,fx-translated
+North America,2023,1,On Americas,0,91.9,reported
+North America,2023,1,Under Armour NA,0,2.47,reported(home ccy)
+North America,2023,1,Columbia US,0,3.1,reported(home ccy)
+North America,2023,1,Skechers Americas,0,-0.1,reported(home ccy)
+North America,2023,1,Vans Americas,0,-18.0,cc
+North America,2023,2,Nike NA,1,5.0,cc
+North America,2023,2,adidas NA,0,-16.4,cc
+North America,2023,2,Puma Americas,0,-4.4,cc
+North America,2023,2,ASICS NA,0,6.01,fx-translated
+North America,2023,2,On Americas,0,71.43,fx-translated
+North America,2023,2,Under Armour NA,0,-9.1,reported(home ccy)
+North America,2023,2,Columbia US,0,-3.24,reported(home ccy)
+North America,2023,2,Skechers Americas,0,-0.66,reported(home ccy)
+North America,2023,2,Vans Americas,0,-27.0,cc
+North America,2023,3,Nike NA,1,-1.0,cc
+North America,2023,3,adidas NA,0,-8.8,cc
+North America,2023,3,Puma Americas,0,2.5,cc
+North America,2023,3,ASICS NA,0,8.84,fx-translated
+North America,2023,3,On Americas,0,60.5,reported
+North America,2023,3,Under Armour NA,0,-2.02,reported(home ccy)
+North America,2023,3,Columbia US,0,4.67,reported(home ccy)
+North America,2023,3,Skechers Americas,0,7.33,reported(home ccy)
+North America,2023,3,Vans Americas,0,-26.0,cc
+North America,2023,4,Nike NA,1,-3.0,cc
+North America,2023,4,adidas NA,0,-20.6,cc
+North America,2023,4,Puma Americas,0,-6.4,cc
+North America,2023,4,ASICS NA,0,-13.6,fx-translated
+North America,2023,4,Under Armour NA,0,-11.79,reported(home ccy)
+North America,2023,4,Columbia US,0,-11.7,reported(home ccy)
+North America,2023,4,Skechers Americas,0,3.21,reported(home ccy)
+North America,2023,4,Vans Americas,0,-31.0,cc
+North America,2024,1,Nike NA,1,3.0,cc
+North America,2024,1,adidas NA,0,-3.6,cc
+North America,2024,1,Puma Americas,0,1.0,cc
+North America,2024,1,ASICS NA,0,12.71,fx-translated
+North America,2024,1,On Americas,0,30.4,cc
+North America,2024,1,Lululemon Americas,0,3.48,reported(home ccy)
+North America,2024,1,Under Armour NA,0,-10.43,reported(home ccy)
+North America,2024,1,Columbia US,0,-8.32,reported(home ccy)
+North America,2024,1,Crocs brand NA,0,9.0,reported(home ccy)
+North America,2024,1,Skechers Americas,0,7.77,reported(home ccy)
+North America,2024,1,Vans Americas,0,-32.0,cc
+North America,2024,2,Nike NA,1,-1.0,cc
+North America,2024,2,adidas NA,0,-7.7,cc
+North America,2024,2,Puma Americas,0,9.0,cc
+North America,2024,2,ASICS NA,0,2.6,fx-translated
+North America,2024,2,On Americas,0,25.8,cc
+North America,2024,2,Lululemon Americas,0,1.26,reported(home ccy)
+North America,2024,2,Under Armour NA,0,-14.2,reported(home ccy)
+North America,2024,2,Amer Americas,0,1.64,reported(home ccy)
+North America,2024,2,Columbia US,0,-14.75,reported(home ccy)
+North America,2024,2,Crocs brand NA,0,2.98,reported(home ccy)
+North America,2024,2,Skechers Americas,0,7.2,reported(home ccy)
+North America,2024,2,Vans Americas,0,-25.0,cc
+North America,2024,3,Nike NA,1,-11.0,cc
+North America,2024,3,adidas NA,0,-7.3,cc
+North America,2024,3,Puma Americas,0,11.4,cc
+North America,2024,3,ASICS NA,0,10.97,fx-translated
+North America,2024,3,On Americas,0,34.5,cc
+North America,2024,3,Lululemon Americas,0,2.19,reported(home ccy)
+North America,2024,3,Under Armour NA,0,-12.91,reported(home ccy)
+North America,2024,3,Amer Americas,0,7.21,reported(home ccy)
+North America,2024,3,Columbia US,0,-10.09,reported(home ccy)
+North America,2024,3,Crocs brand NA,0,2.1,reported(home ccy)
+North America,2024,3,Skechers Americas,0,13.62,reported(home ccy)
+North America,2024,3,Vans Americas,0,-9.0,cc
+North America,2024,4,Nike NA,1,-8.0,cc
+North America,2024,4,adidas NA,0,14.7,cc
+North America,2024,4,Puma Americas,0,6.5,cc
+North America,2024,4,ASICS NA,0,11.47,fx-translated
+North America,2024,4,On Americas,0,29.61,fx-translated
+North America,2024,4,Lululemon Americas,0,6.98,reported(home ccy)
+North America,2024,4,Under Armour NA,0,-7.83,reported(home ccy)
+North America,2024,4,Amer Americas,0,15.06,reported(home ccy)
+North America,2024,4,Columbia US,0,-1.04,reported(home ccy)
+North America,2024,4,Crocs brand NA,0,-0.06,reported(home ccy)
+North America,2024,4,Skechers Americas,0,14.24,reported(home ccy)
+North America,2024,4,Vans Americas,0,-4.0,cc
+North America,2025,1,Nike NA,1,-4.0,cc
+North America,2025,1,adidas NA,0,2.8,cc
+North America,2025,1,Puma Americas,0,-2.7,cc
+North America,2025,1,ASICS NA,0,15.26,fx-translated
+North America,2025,1,On Americas,0,28.6,cc
+North America,2025,1,Lululemon Americas,0,3.22,reported(home ccy)
+North America,2025,1,Under Armour NA,0,-10.68,reported(home ccy)
+North America,2025,1,Amer Americas,0,12.0,reported(home ccy)
+North America,2025,1,Columbia US,0,-0.68,reported(home ccy)
+North America,2025,1,Crocs brand NA,0,-3.76,reported(home ccy)
+North America,2025,1,Skechers Americas,0,8.33,reported(home ccy)
+North America,2025,1,Vans Americas,0,-23.0,cc
+North America,2025,2,Nike NA,1,-11.0,cc
+North America,2025,2,adidas NA,0,8.28,fx-translated
+North America,2025,2,Puma Americas,0,-0.5,cc
+North America,2025,2,ASICS NA,0,8.22,fx-translated
+North America,2025,2,On Americas,0,23.6,cc
+North America,2025,2,Lululemon Americas,0,0.96,reported(home ccy)
+North America,2025,2,Under Armour NA,0,-5.49,reported(home ccy)
+North America,2025,2,Deckers US,0,-2.83,reported(home ccy)
+North America,2025,2,Amer Americas,0,6.32,reported(home ccy)
+North America,2025,2,Columbia US,0,-1.5,reported(home ccy)
+North America,2025,2,Crocs brand NA,0,-6.46,reported(home ccy)
+North America,2025,2,Skechers Americas,0,1.1,reported(home ccy)
+North America,2025,3,Nike NA,1,4.0,cc
+North America,2025,3,adidas NA,0,8.0,cc
+North America,2025,3,Puma Americas,0,-15.2,cc
+North America,2025,3,ASICS NA,0,6.76,fx-translated
+North America,2025,3,On Americas,0,21.0,cc
+North America,2025,3,Lululemon Americas,0,-2.09,reported(home ccy)
+North America,2025,3,Under Armour NA,0,-8.32,reported(home ccy)
+North America,2025,3,Deckers US,0,-1.68,reported(home ccy)
+North America,2025,3,Amer Americas,0,17.71,reported(home ccy)
+North America,2025,3,Columbia US,0,-4.31,reported(home ccy)
+North America,2025,3,Crocs brand NA,0,-8.78,reported(home ccy)
+North America,2025,4,Nike NA,1,9.0,cc
+North America,2025,4,adidas NA,0,3.0,cc
+North America,2025,4,Puma Americas,0,-22.2,cc
+North America,2025,4,ASICS NA,0,-7.87,fx-translated
+North America,2025,4,On Americas,0,23.63,fx-translated
+North America,2025,4,Lululemon Americas,0,-4.05,reported(home ccy)
+North America,2025,4,Under Armour NA,0,-10.3,reported(home ccy)
+North America,2025,4,Deckers US,0,2.7,reported(home ccy)
+North America,2025,4,Amer Americas,0,18.29,reported(home ccy)
+North America,2025,4,Columbia US,0,-8.24,reported(home ccy)
+North America,2025,4,Crocs brand NA,0,-7.37,reported(home ccy)
+North America,2026,1,Nike NA,1,3.0,cc
+North America,2026,1,adidas NA,0,12.0,cc
+North America,2026,1,Puma Americas,0,6.1,cc
+North America,2026,1,ASICS NA,0,19.58,fx-translated
+North America,2026,1,On Americas,0,17.1,cc
+North America,2026,1,Lululemon Americas,0,-3.19,reported(home ccy)
+North America,2026,1,Under Armour NA,0,-7.04,reported(home ccy)
+North America,2026,1,Deckers US,0,0.34,reported(home ccy)
+North America,2026,1,Amer Americas,0,18.1,reported(home ccy)
+North America,2026,1,Columbia US,0,-10.34,reported(home ccy)
+North America,2026,1,Crocs brand NA,0,-6.13,reported(home ccy)
+North America,2026,1,Vans Americas,0,3.0,cc
+North America,2026,2,Nike NA,1,3.0,cc
+North America,2026,2,adidas NA,0,17.0,cc
+North America,2026,2,Puma Americas,0,-15.4,cc
+North America,2026,2,ASICS NA,0,21.34,fx-translated
+North America,2026,2,On Americas,0,13.0,cc
+North America,2026,2,Lululemon Americas,0,-8.04,reported(home ccy)
+North America,2026,2,Under Armour NA,0,-9.03,reported(home ccy)
+North America,2026,2,Deckers US,0,3.23,reported(home ccy)
+North America,2026,2,Amer Americas,0,25.62,reported(home ccy)
+North America,2026,2,Columbia US,0,-4.49,reported(home ccy)
+North America,2026,2,Crocs brand NA,0,0.35,reported(home ccy)
+North America,2026,2,Vans Americas,0,-4.0,cc
+North America,2026,3,Nike NA,1,2.0,cc
+Europe/EMEA,2019,1,Nike EMEA,1,14.66,fx-translated
+Europe/EMEA,2019,1,adidas Europe,0,-3.2,cc
+Europe/EMEA,2019,1,Puma EMEA,0,5.7,cc
+Europe/EMEA,2019,1,Under Armour EMEA,0,12.03,fx-translated
+Europe/EMEA,2019,1,Columbia EMEA,0,7.61,fx-translated
+Europe/EMEA,2019,1,Vans EMEA,0,10.0,cc
+Europe/EMEA,2019,2,Nike EMEA,1,9.0,cc
+Europe/EMEA,2019,2,adidas Europe,0,0.1,cc
+Europe/EMEA,2019,2,Puma EMEA,0,8.4,cc
+Europe/EMEA,2019,2,Under Armour EMEA,0,12.57,fx-translated
+Europe/EMEA,2019,2,Columbia EMEA,0,14.25,fx-translated
+Europe/EMEA,2019,2,Vans EMEA,0,15.0,cc
+Europe/EMEA,2019,3,Nike EMEA,1,12.0,cc
+Europe/EMEA,2019,3,adidas Europe,0,3.5,cc
+Europe/EMEA,2019,3,Puma EMEA,0,9.7,cc
+Europe/EMEA,2019,3,Under Armour EMEA,0,14.09,fx-translated
+Europe/EMEA,2019,3,Columbia EMEA,0,8.86,fx-translated
+Europe/EMEA,2019,3,Vans EMEA,0,9.0,cc
+Europe/EMEA,2019,4,Nike EMEA,1,14.0,cc
+Europe/EMEA,2019,4,adidas Europe,0,14.3,cc
+Europe/EMEA,2019,4,Puma EMEA,0,23.2,cc
+Europe/EMEA,2019,4,Under Armour EMEA,0,5.31,fx-translated
+Europe/EMEA,2019,4,Columbia EMEA,0,9.84,fx-translated
+Europe/EMEA,2019,4,Vans EMEA,0,16.0,cc
+Europe/EMEA,2020,1,Nike EMEA,1,13.0,cc
+Europe/EMEA,2020,1,adidas Europe,0,-8.1,cc
+Europe/EMEA,2020,1,Puma EMEA,0,3.5,cc
+Europe/EMEA,2020,1,Under Armour EMEA,0,5.95,fx-translated
+Europe/EMEA,2020,1,Columbia EMEA,0,-19.35,fx-translated
+Europe/EMEA,2020,1,Vans EMEA,0,-2.0,cc
+Europe/EMEA,2020,2,Nike EMEA,1,-44.0,cc
+Europe/EMEA,2020,2,adidas Europe,0,-40.2,cc
+Europe/EMEA,2020,2,Puma EMEA,0,-30.0,cc
+Europe/EMEA,2020,2,Under Armour EMEA,0,-37.37,fx-translated
+Europe/EMEA,2020,2,Columbia EMEA,0,-34.97,fx-translated
+Europe/EMEA,2020,2,Vans EMEA,0,-46.0,cc
+Europe/EMEA,2020,3,Nike EMEA,1,5.0,cc
+Europe/EMEA,2020,3,Puma EMEA,0,17.7,cc
+Europe/EMEA,2020,3,Under Armour EMEA,0,24.06,fx-translated
+Europe/EMEA,2020,3,Columbia EMEA,0,-9.72,fx-translated
+Europe/EMEA,2020,3,Vans EMEA,0,-4.0,cc
+Europe/EMEA,2020,4,Nike EMEA,1,12.0,cc
+Europe/EMEA,2020,4,Puma EMEA,0,9.8,cc
+Europe/EMEA,2020,4,Under Armour EMEA,0,-17.23,fx-translated
+Europe/EMEA,2020,4,Columbia EMEA,0,-20.37,fx-translated
+Europe/EMEA,2020,4,Vans EMEA,0,-13.0,cc
+Europe/EMEA,2021,1,Nike EMEA,1,-9.0,cc
+Europe/EMEA,2021,1,Puma EMEA,0,14.0,cc
+Europe/EMEA,2021,1,ASICS EMEA,0,34.79,fx-translated
+Europe/EMEA,2021,1,Under Armour EMEA,0,28.55,fx-translated
+Europe/EMEA,2021,1,Columbia EMEA,0,15.85,fx-translated
+Europe/EMEA,2021,1,Vans EMEA,0,-4.0,cc
+Europe/EMEA,2021,2,Nike EMEA,1,107.0,cc
+Europe/EMEA,2021,2,Puma EMEA,0,85.4,cc
+Europe/EMEA,2021,2,ASICS EMEA,0,55.75,fx-translated
+Europe/EMEA,2021,2,Under Armour EMEA,0,112.24,fx-translated
+Europe/EMEA,2021,2,Columbia EMEA,0,38.7,fx-translated
+Europe/EMEA,2021,2,Vans EMEA,0,125.0,cc
+Europe/EMEA,2021,3,Nike EMEA,1,8.0,cc
+Europe/EMEA,2021,3,Puma EMEA,0,22.3,cc
+Europe/EMEA,2021,3,ASICS EMEA,0,1.1,fx-translated
+Europe/EMEA,2021,3,Under Armour EMEA,0,13.89,fx-translated
+Europe/EMEA,2021,3,Columbia EMEA,0,9.2,fx-translated
+Europe/EMEA,2021,3,Vans EMEA,0,7.0,cc
+Europe/EMEA,2021,4,Nike EMEA,1,6.0,cc
+Europe/EMEA,2021,4,Puma EMEA,0,14.9,cc
+Europe/EMEA,2021,4,ASICS EMEA,0,-20.75,fx-translated
+Europe/EMEA,2021,4,Under Armour EMEA,0,29.53,fx-translated
+Europe/EMEA,2021,4,Columbia EMEA,0,38.32,fx-translated
+Europe/EMEA,2021,4,Vans EMEA,0,24.0,cc
+Europe/EMEA,2022,1,Nike EMEA,1,13.0,cc
+Europe/EMEA,2022,1,Puma EMEA,0,25.5,cc
+Europe/EMEA,2022,1,ASICS EMEA,0,-2.81,fx-translated
+Europe/EMEA,2022,1,Under Armour EMEA,0,26.33,fx-translated
+Europe/EMEA,2022,1,Columbia EMEA,0,43.75,fx-translated
+Europe/EMEA,2022,1,Skechers EMEA,0,60.37,fx-translated
+Europe/EMEA,2022,1,Vans EMEA,0,22.0,cc
+Europe/EMEA,2022,2,Nike EMEA,1,20.0,cc
+Europe/EMEA,2022,2,Puma EMEA,0,21.5,cc
+Europe/EMEA,2022,2,ASICS EMEA,0,14.87,fx-translated
+Europe/EMEA,2022,2,Under Armour EMEA,0,12.05,fx-translated
+Europe/EMEA,2022,2,Columbia EMEA,0,-26.48,fx-translated
+Europe/EMEA,2022,2,Skechers EMEA,0,21.78,fx-translated
+Europe/EMEA,2022,2,Vans EMEA,0,2.0,cc
+Europe/EMEA,2022,3,Nike EMEA,1,17.0,cc
+Europe/EMEA,2022,3,Puma EMEA,0,18.5,cc
+Europe/EMEA,2022,3,ASICS EMEA,0,11.02,fx-translated
+Europe/EMEA,2022,3,Under Armour EMEA,0,27.48,fx-translated
+Europe/EMEA,2022,3,Columbia EMEA,0,64.65,fx-translated
+Europe/EMEA,2022,3,Skechers EMEA,0,72.72,fx-translated
+Europe/EMEA,2022,3,Vans EMEA,0,2.0,cc
+Europe/EMEA,2022,4,Nike EMEA,1,33.0,cc
+Europe/EMEA,2022,4,Puma EMEA,0,26.1,cc
+Europe/EMEA,2022,4,ASICS EMEA,0,59.18,fx-translated
+Europe/EMEA,2022,4,Under Armour EMEA,0,48.52,fx-translated
+Europe/EMEA,2022,4,Columbia EMEA,0,31.04,fx-translated
+Europe/EMEA,2022,4,Skechers EMEA,0,44.48,fx-translated
+Europe/EMEA,2022,4,Vans EMEA,0,7.0,cc
+Europe/EMEA,2023,1,Nike EMEA,1,26.0,cc
+Europe/EMEA,2023,1,Puma EMEA,0,25.4,cc
+Europe/EMEA,2023,1,ASICS EMEA,0,32.19,fx-translated
+Europe/EMEA,2023,1,On EMEA,0,51.6,reported
+Europe/EMEA,2023,1,Under Armour EMEA,0,19.05,fx-translated
+Europe/EMEA,2023,1,Columbia EMEA,0,19.6,fx-translated
+Europe/EMEA,2023,1,Skechers EMEA,0,26.74,fx-translated
+Europe/EMEA,2023,1,Vans EMEA,0,-2.0,cc
+Europe/EMEA,2023,2,Nike EMEA,1,7.0,cc
+Europe/EMEA,2023,2,Puma EMEA,0,25.0,cc
+Europe/EMEA,2023,2,ASICS EMEA,0,-2.45,fx-translated
+Europe/EMEA,2023,2,On EMEA,0,35.31,fx-translated
+Europe/EMEA,2023,2,Under Armour EMEA,0,8.05,fx-translated
+Europe/EMEA,2023,2,Columbia EMEA,0,71.45,fx-translated
+Europe/EMEA,2023,2,Skechers EMEA,0,13.17,fx-translated
+Europe/EMEA,2023,2,Vans EMEA,0,-18.0,cc
+Europe/EMEA,2023,3,Nike EMEA,1,6.0,cc
+Europe/EMEA,2023,3,Puma EMEA,0,9.9,cc
+Europe/EMEA,2023,3,ASICS EMEA,0,-1.63,fx-translated
+Europe/EMEA,2023,3,On EMEA,0,19.9,reported
+Europe/EMEA,2023,3,Under Armour EMEA,0,1.13,fx-translated
+Europe/EMEA,2023,3,Columbia EMEA,0,-22.04,fx-translated
+Europe/EMEA,2023,3,Skechers EMEA,0,-5.39,fx-translated
+Europe/EMEA,2023,3,Vans EMEA,0,-12.0,cc
+Europe/EMEA,2023,4,Nike EMEA,1,-3.0,cc
+Europe/EMEA,2023,4,Puma EMEA,0,-5.2,cc
+Europe/EMEA,2023,4,ASICS EMEA,0,-15.39,fx-translated
+Europe/EMEA,2023,4,Under Armour EMEA,0,1.59,fx-translated
+Europe/EMEA,2023,4,Columbia EMEA,0,-6.58,fx-translated
+Europe/EMEA,2023,4,Skechers EMEA,0,-12.03,fx-translated
+Europe/EMEA,2023,4,Vans EMEA,0,-23.0,cc
+Europe/EMEA,2024,1,Nike EMEA,1,-4.0,cc
+Europe/EMEA,2024,1,adidas Europe,0,13.8,cc
+Europe/EMEA,2024,1,Puma EMEA,0,0.0,cc
+Europe/EMEA,2024,1,ASICS EMEA,0,-4.13,fx-translated
+Europe/EMEA,2024,1,On EMEA,0,10.4,cc
+Europe/EMEA,2024,1,Under Armour EMEA,0,8.2,fx-translated
+Europe/EMEA,2024,1,Columbia EMEA,0,-4.61,fx-translated
+Europe/EMEA,2024,1,Skechers EMEA,0,16.05,fx-translated
+Europe/EMEA,2024,1,Vans EMEA,0,-15.0,cc
+Europe/EMEA,2024,2,Nike EMEA,1,1.0,cc
+Europe/EMEA,2024,2,adidas Europe,0,19.4,cc
+Europe/EMEA,2024,2,Puma EMEA,0,-4.3,cc
+Europe/EMEA,2024,2,ASICS EMEA,0,13.5,fx-translated
+Europe/EMEA,2024,2,On EMEA,0,22.2,cc
+Europe/EMEA,2024,2,Under Armour EMEA,0,1.28,fx-translated
+Europe/EMEA,2024,2,Columbia EMEA,0,4.24,fx-translated
+Europe/EMEA,2024,2,Skechers EMEA,0,14.98,fx-translated
+Europe/EMEA,2024,2,Vans EMEA,0,-3.0,cc
+Europe/EMEA,2024,3,Nike EMEA,1,-12.0,cc
+Europe/EMEA,2024,3,adidas Europe,0,18.1,cc
+Europe/EMEA,2024,3,Puma EMEA,0,0.8,cc
+Europe/EMEA,2024,3,ASICS EMEA,0,12.81,fx-translated
+Europe/EMEA,2024,3,On EMEA,0,15.2,cc
+Europe/EMEA,2024,3,Under Armour EMEA,0,-2.29,fx-translated
+Europe/EMEA,2024,3,Amer EMEA,0,2.77,fx-translated
+Europe/EMEA,2024,3,Columbia EMEA,0,8.58,fx-translated
+Europe/EMEA,2024,3,Skechers EMEA,0,29.0,fx-translated
+Europe/EMEA,2024,3,Vans EMEA,0,-8.0,cc
+Europe/EMEA,2024,4,Nike EMEA,1,-10.0,cc
+Europe/EMEA,2024,4,adidas Europe,0,25.0,cc
+Europe/EMEA,2024,4,Puma EMEA,0,14.6,cc
+Europe/EMEA,2024,4,ASICS EMEA,0,37.8,fx-translated
+Europe/EMEA,2024,4,On EMEA,0,33.91,fx-translated
+Europe/EMEA,2024,4,Under Armour EMEA,0,5.73,fx-translated
+Europe/EMEA,2024,4,Amer EMEA,0,8.93,fx-translated
+Europe/EMEA,2024,4,Columbia EMEA,0,24.57,fx-translated
+Europe/EMEA,2024,4,Skechers EMEA,0,25.77,fx-translated
+Europe/EMEA,2024,4,Vans EMEA,0,-9.0,cc
+Europe/EMEA,2025,1,Nike EMEA,1,-6.0,cc
+Europe/EMEA,2025,1,adidas Europe,0,14.0,cc
+Europe/EMEA,2025,1,Puma EMEA,0,5.1,cc
+Europe/EMEA,2025,1,ASICS EMEA,0,22.15,fx-translated
+Europe/EMEA,2025,1,On EMEA,0,33.0,cc
+Europe/EMEA,2025,1,Under Armour EMEA,0,1.16,fx-translated
+Europe/EMEA,2025,1,Amer EMEA,0,15.84,fx-translated
+Europe/EMEA,2025,1,Columbia EMEA,0,6.09,fx-translated
+Europe/EMEA,2025,1,Skechers EMEA,0,18.05,fx-translated
+Europe/EMEA,2025,1,Vans EMEA,0,-15.0,cc
+Europe/EMEA,2025,2,Nike EMEA,1,-10.0,cc
+Europe/EMEA,2025,2,adidas Europe,0,4.45,reported(home ccy)
+Europe/EMEA,2025,2,Puma EMEA,0,-3.1,cc
+Europe/EMEA,2025,2,ASICS EMEA,0,30.31,fx-translated
+Europe/EMEA,2025,2,On EMEA,0,46.1,cc
+Europe/EMEA,2025,2,Under Armour EMEA,0,4.06,fx-translated
+Europe/EMEA,2025,2,Amer EMEA,0,12.53,fx-translated
+Europe/EMEA,2025,2,Columbia EMEA,0,19.32,fx-translated
+Europe/EMEA,2025,2,Skechers EMEA,0,41.06,fx-translated
+Europe/EMEA,2025,3,Nike EMEA,1,1.0,cc
+Europe/EMEA,2025,3,adidas Europe,0,12.0,cc
+Europe/EMEA,2025,3,Puma EMEA,0,-7.1,cc
+Europe/EMEA,2025,3,ASICS EMEA,0,20.26,fx-translated
+Europe/EMEA,2025,3,On EMEA,0,33.0,cc
+Europe/EMEA,2025,3,Under Armour EMEA,0,5.53,fx-translated
+Europe/EMEA,2025,3,Amer EMEA,0,16.02,fx-translated
+Europe/EMEA,2025,3,Columbia EMEA,0,9.11,fx-translated
+Europe/EMEA,2025,4,Nike EMEA,1,-1.0,cc
+Europe/EMEA,2025,4,adidas Europe,0,5.0,cc
+Europe/EMEA,2025,4,Puma EMEA,0,-24.3,cc
+Europe/EMEA,2025,4,ASICS EMEA,0,17.06,fx-translated
+Europe/EMEA,2025,4,On EMEA,0,24.91,fx-translated
+Europe/EMEA,2025,4,Under Armour EMEA,0,-2.77,fx-translated
+Europe/EMEA,2025,4,Amer EMEA,0,11.34,fx-translated
+Europe/EMEA,2025,4,Columbia EMEA,0,-0.96,fx-translated
+Europe/EMEA,2026,1,Nike EMEA,1,-7.0,cc
+Europe/EMEA,2026,1,adidas Europe,0,6.0,cc
+Europe/EMEA,2026,1,Puma EMEA,0,-10.4,cc
+Europe/EMEA,2026,1,ASICS EMEA,0,25.66,fx-translated
+Europe/EMEA,2026,1,On EMEA,0,25.6,cc
+Europe/EMEA,2026,1,Under Armour EMEA,0,-3.69,fx-translated
+Europe/EMEA,2026,1,Amer EMEA,0,13.86,fx-translated
+Europe/EMEA,2026,1,Columbia EMEA,0,21.57,fx-translated
+Europe/EMEA,2026,1,Vans EMEA,0,-13.0,cc
+Europe/EMEA,2026,2,Nike EMEA,1,-6.0,cc
+Europe/EMEA,2026,2,adidas Europe,0,6.0,cc
+Europe/EMEA,2026,2,Puma EMEA,0,-12.9,cc
+Europe/EMEA,2026,2,ASICS EMEA,0,31.86,fx-translated
+Europe/EMEA,2026,2,On EMEA,0,20.5,cc
+Europe/EMEA,2026,2,Under Armour EMEA,0,9.24,fx-translated
+Europe/EMEA,2026,2,Amer EMEA,0,17.25,fx-translated
+Europe/EMEA,2026,2,Columbia EMEA,0,6.82,fx-translated
+Europe/EMEA,2026,2,Vans EMEA,0,-17.0,cc
+Europe/EMEA,2026,3,Nike EMEA,1,-5.0,cc
+Greater China,2019,1,Nike Greater China,1,26.16,fx-translated
+Greater China,2019,2,Nike Greater China,1,22.0,cc
+Greater China,2019,3,Nike Greater China,1,27.0,cc
+Greater China,2019,4,Nike Greater China,1,23.0,cc
+Greater China,2020,1,Nike Greater China,1,-4.0,cc
+Greater China,2020,2,Nike Greater China,1,1.0,cc
+Greater China,2020,3,Nike Greater China,1,8.0,cc
+Greater China,2020,4,Nike Greater China,1,19.0,cc
+Greater China,2021,1,Nike Greater China,1,42.0,cc
+Greater China,2021,1,adidas Greater China,0,155.9,cc
+Greater China,2021,1,ASICS Greater China,0,86.93,fx-translated
+Greater China,2021,1,Skechers China,0,155.63,fx-translated
+Greater China,2021,2,Nike Greater China,1,9.0,cc
+Greater China,2021,2,adidas Greater China,0,-15.9,cc
+Greater China,2021,2,ASICS Greater China,0,11.31,fx-translated
+Greater China,2021,2,Skechers China,0,37.43,fx-translated
+Greater China,2021,3,Nike Greater China,1,1.0,cc
+Greater China,2021,3,adidas Greater China,0,-14.6,cc
+Greater China,2021,3,ASICS Greater China,0,-5.3,fx-translated
+Greater China,2021,3,Skechers China,0,2.9,fx-translated
+Greater China,2021,4,Nike Greater China,1,-24.0,cc
+Greater China,2021,4,adidas Greater China,0,-24.3,cc
+Greater China,2021,4,ASICS Greater China,0,0.8,fx-translated
+Greater China,2021,4,Skechers China,0,4.88,fx-translated
+Greater China,2022,1,Nike Greater China,1,-8.0,cc
+Greater China,2022,1,adidas Greater China,0,-34.6,cc
+Greater China,2022,1,ASICS Greater China,0,-10.63,fx-translated
+Greater China,2022,1,Skechers China,0,6.76,fx-translated
+Greater China,2022,2,Nike Greater China,1,-20.0,cc
+Greater China,2022,2,adidas Greater China,0,-35.1,cc
+Greater China,2022,2,ASICS Greater China,0,-7.99,fx-translated
+Greater China,2022,2,Skechers China,0,-17.68,fx-translated
+Greater China,2022,3,Nike Greater China,1,-13.0,cc
+Greater China,2022,3,adidas Greater China,0,-26.6,cc
+Greater China,2022,3,ASICS Greater China,0,20.79,fx-translated
+Greater China,2022,3,Skechers China,0,-13.68,fx-translated
+Greater China,2022,4,Nike Greater China,1,6.0,cc
+Greater China,2022,4,adidas Greater China,0,-49.7,cc
+Greater China,2022,4,ASICS Greater China,0,14.38,fx-translated
+Greater China,2022,4,Skechers China,0,-14.85,fx-translated
+Greater China,2023,1,Nike Greater China,1,1.0,cc
+Greater China,2023,1,adidas Greater China,0,-9.4,cc
+Greater China,2023,1,ASICS Greater China,0,33.61,fx-translated
+Greater China,2023,1,Skechers China,0,11.28,fx-translated
+Greater China,2023,2,Nike Greater China,1,25.0,cc
+Greater China,2023,2,adidas Greater China,0,16.4,cc
+Greater China,2023,2,ASICS Greater China,0,38.61,fx-translated
+Greater China,2023,2,Skechers China,0,25.93,fx-translated
+Greater China,2023,3,Nike Greater China,1,12.0,cc
+Greater China,2023,3,adidas Greater China,0,5.7,cc
+Greater China,2023,3,ASICS Greater China,0,13.52,fx-translated
+Greater China,2023,3,Skechers China,0,24.84,fx-translated
+Greater China,2023,4,Nike Greater China,1,8.0,cc
+Greater China,2023,4,adidas Greater China,0,36.8,cc
+Greater China,2023,4,ASICS Greater China,0,6.73,fx-translated
+Greater China,2023,4,Skechers China,0,24.22,fx-translated
+Greater China,2024,1,Nike Greater China,1,6.0,cc
+Greater China,2024,1,adidas Greater China,0,7.8,cc
+Greater China,2024,1,ASICS Greater China,0,16.62,fx-translated
+Greater China,2024,1,Lululemon China Mainland,0,45.63,fx-translated
+Greater China,2024,1,Skechers China,0,19.07,fx-translated
+Greater China,2024,2,Nike Greater China,1,7.0,cc
+Greater China,2024,2,adidas Greater China,0,9.3,cc
+Greater China,2024,2,ASICS Greater China,0,24.93,fx-translated
+Greater China,2024,2,Lululemon China Mainland,0,32.56,fx-translated
+Greater China,2024,2,Amer Greater China,0,59.41,fx-translated
+Greater China,2024,2,Skechers China,0,6.79,fx-translated
+Greater China,2024,3,Nike Greater China,1,-3.0,cc
+Greater China,2024,3,adidas Greater China,0,8.9,cc
+Greater China,2024,3,ASICS Greater China,0,15.16,fx-translated
+Greater China,2024,3,Lululemon China Mainland,0,33.13,fx-translated
+Greater China,2024,3,Amer Greater China,0,54.29,fx-translated
+Greater China,2024,3,Skechers China,0,-6.74,fx-translated
+Greater China,2024,4,Nike Greater China,1,-11.0,cc
+Greater China,2024,4,adidas Greater China,0,16.1,cc
+Greater China,2024,4,ASICS Greater China,0,32.42,fx-translated
+Greater China,2024,4,Lululemon China Mainland,0,40.36,fx-translated
+Greater China,2024,4,Amer Greater China,0,53.15,fx-translated
+Greater China,2024,4,Skechers China,0,-11.87,fx-translated
+Greater China,2025,1,Nike Greater China,1,-15.0,cc
+Greater China,2025,1,adidas Greater China,0,12.7,cc
+Greater China,2025,1,ASICS Greater China,0,19.81,fx-translated
+Greater China,2025,1,Lululemon China Mainland,0,20.53,fx-translated
+Greater China,2025,1,Amer Greater China,0,44.83,fx-translated
+Greater China,2025,1,Skechers China,0,-14.92,fx-translated
+Greater China,2025,2,Nike Greater China,1,-20.0,cc
+Greater China,2025,2,adidas Greater China,0,2.05,fx-translated
+Greater China,2025,2,ASICS Greater China,0,21.88,fx-translated
+Greater China,2025,2,Lululemon China Mainland,0,23.47,fx-translated
+Greater China,2025,2,Amer Greater China,0,41.42,fx-translated
+Greater China,2025,2,Skechers China,0,-8.33,fx-translated
+Greater China,2025,3,Nike Greater China,1,-10.0,cc
+Greater China,2025,3,adidas Greater China,0,10.0,cc
+Greater China,2025,3,ASICS Greater China,0,23.88,fx-translated
+Greater China,2025,3,Lululemon China Mainland,0,42.3,fx-translated
+Greater China,2025,3,Amer Greater China,0,47.37,fx-translated
+Greater China,2025,4,Nike Greater China,1,-16.0,cc
+Greater China,2025,4,adidas Greater China,0,15.0,cc
+Greater China,2025,4,ASICS Greater China,0,20.7,fx-translated
+Greater China,2025,4,Lululemon China Mainland,0,21.12,fx-translated
+Greater China,2025,4,Amer Greater China,0,39.78,fx-translated
+Greater China,2026,1,Nike Greater China,1,-10.0,cc
+Greater China,2026,1,adidas Greater China,0,17.0,cc
+Greater China,2026,1,ASICS Greater China,0,18.6,fx-translated
+Greater China,2026,1,Lululemon China Mainland,0,22.35,fx-translated
+Greater China,2026,1,Amer Greater China,0,37.56,fx-translated
+Greater China,2026,2,Nike Greater China,1,-17.0,cc
+Greater China,2026,2,adidas Greater China,0,15.0,cc
+Greater China,2026,2,ASICS Greater China,0,13.29,fx-translated
+Greater China,2026,2,Lululemon China Mainland,0,-2.08,fx-translated
+Greater China,2026,2,Amer Greater China,0,27.52,fx-translated
+Greater China,2026,3,Nike Greater China,1,-26.0,cc
+Greater China (domestic sell-through),2021,4,ANTA brand,0,15.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2022,1,ANTA brand,0,18.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2023,1,ANTA brand,0,5.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2023,2,ANTA brand,0,8.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2023,3,ANTA brand,0,8.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2023,4,ANTA brand,0,18.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2024,1,ANTA brand,0,5.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2024,2,ANTA brand,0,8.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2024,3,ANTA brand,0,5.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2024,4,ANTA brand,0,8.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2025,1,ANTA brand,0,8.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2025,2,ANTA brand,0,2.5,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2025,3,ANTA brand,0,2.5,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2025,4,ANTA brand,0,-2.5,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2026,1,ANTA brand,0,8.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2026,2,ANTA brand,0,2.5,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2021,4,FILA brand,0,8.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2022,1,FILA brand,0,5.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2023,1,FILA brand,0,8.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2023,2,FILA brand,0,18.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2023,3,FILA brand,0,12.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2023,4,FILA brand,0,27.5,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2024,1,FILA brand,0,8.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2024,2,FILA brand,0,5.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2024,3,FILA brand,0,-2.5,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2024,4,FILA brand,0,8.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2025,1,FILA brand,0,8.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2025,2,FILA brand,0,5.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2025,3,FILA brand,0,2.5,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2025,4,FILA brand,0,5.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2026,1,FILA brand,0,12.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2026,2,FILA brand,0,2.5,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2018,1,Li Ning overall platform,0,15.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2018,3,Li Ning overall platform,0,15.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2019,1,Li Ning overall platform,0,22.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2019,3,Li Ning overall platform,0,32.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2020,1,Li Ning overall platform,0,-18.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2020,3,Li Ning overall platform,0,5.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2021,3,Li Ning overall platform,0,42.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2022,1,Li Ning overall platform,0,28.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2022,3,Li Ning overall platform,0,15.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2023,1,Li Ning overall platform,0,5.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2023,3,Li Ning overall platform,0,5.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2024,1,Li Ning overall platform,0,2.5,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2024,3,Li Ning overall platform,0,-5.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2025,1,Li Ning overall platform,0,2.5,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2025,2,Li Ning overall platform,0,2.5,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2025,3,Li Ning overall platform,0,-5.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2025,4,Li Ning overall platform,0,-2.5,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2026,1,Li Ning overall platform,0,5.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2026,2,Li Ning overall platform,0,-2.5,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2019,1,Xtep core brand,0,22.5,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2019,2,Xtep core brand,0,22.5,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2019,3,Xtep core brand,0,20.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2019,4,Xtep core brand,0,22.5,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2020,1,Xtep core brand,0,-22.5,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2020,3,Xtep core brand,0,5.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2020,4,Xtep core brand,0,8.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2021,1,Xtep core brand,0,55.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2021,3,Xtep core brand,0,15.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2021,4,Xtep core brand,0,22.5,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2022,1,Xtep core brand,0,32.5,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2022,3,Xtep core brand,0,22.5,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2022,4,Xtep core brand,0,-8.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2023,1,Xtep core brand,0,20.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2023,2,Xtep core brand,0,18.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2023,3,Xtep core brand,0,18.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2023,4,Xtep core brand,0,32.5,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2024,1,Xtep core brand,0,8.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2024,3,Xtep core brand,0,5.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2024,4,Xtep core brand,0,8.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2025,1,Xtep core brand,0,5.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2025,2,Xtep core brand,0,2.5,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2025,3,Xtep core brand,0,2.5,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2025,4,Xtep core brand,0,0.0,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2026,1,Xtep core brand,0,2.5,"retail sell-through, range midpoint"
+Greater China (domestic sell-through),2026,2,Xtep core brand,0,-5.0,"retail sell-through, range midpoint"

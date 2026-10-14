@@ -1,0 +1,365 @@
+                                  FINANCIAL SUPPLEMENT JANUARY – DECEMBER 2025
+
+
+
+
+FINANCIAL SUPPLEMENT
+
+
+TABLE OF CONTENTS
+
+
+
+
+Consolidated Statement of Financial Position                                     3
+
+Condensed Consolidated Income Statement                                          5
+
+Consolidated Statement of Comprehensive Income                                   6
+
+Consolidated Statement of Changes in Equity                                      7
+
+Consolidated Statement of Cash Flows                                             8
+
+
+
+
+2
+                                           FINANCIAL SUPPLEMENT JANUARY – DECEMBER 2025
+
+1                         2                         3                         4                        5
+CONSOLIDATED STATEMENT    CONDENSED CONSOLIDATED    CONSOLIDATED STATEMENT    CONSOLIDATED STATEMENT   CONSOLIDATED STATEMENT
+OF FINANCIAL POSITION     INCOME STATEMENT          OF COMPREHENSIVE INCOME   OF CHANGES IN EQUITY     OF CASH FLOWS
+
+
+
+
+Consolidated Statement of Financial Position
+
+adidas AG Consolidated Statement of Financial Position (IFRS) € in millions
+
+                                                        December 31, 2025         December 31, 2024             Change in %
+Assets
+Cash and cash equivalents                                            1,617                     2,455                    (34.1)
+Accounts receivable                                                  2,634                     2,413                      9.2
+Other current financial assets                                          518                      950                    (45.4)
+Inventories                                                          5,832                     4,989                     16.9
+Income tax receivables                                                  167                      101                     66.1
+Other current assets                                                 1,208                       997                     21.2
+Total current assets                                                11,977                   11,904                       0.6
+
+
+Property, plant, and equipment                                       1,973                     2,133                     (7.5)
+Right-of-use assets                                                  2,605                     2,779                     (6.3)
+Goodwill                                                             1,203                     1,275                     (5.7)
+Other intangible assets                                                 443                      426                      3.9
+Long-term financial assets                                              353                      340                      3.6
+Other non-current financial assets                                      217                      234                     (7.2)
+Deferred tax assets                                                  1,077                     1,272                    (15.4)
+Other non-current assets                                                415                      291                     42.5
+Total non-current assets                                             8,285                     8,751                     (5.3)
+
+
+Total assets                                                        20,262                   20,655                      (1.9)
+
+
+
+
+3
+                                             FINANCIAL SUPPLEMENT JANUARY – DECEMBER 2025
+
+1                           2                         3                             4                            5
+CONSOLIDATED STATEMENT      CONDENSED CONSOLIDATED    CONSOLIDATED STATEMENT        CONSOLIDATED STATEMENT       CONSOLIDATED STATEMENT
+OF FINANCIAL POSITION       INCOME STATEMENT          OF COMPREHENSIVE INCOME       OF CHANGES IN EQUITY         OF CASH FLOWS
+
+
+
+
+adidas AG Consolidated Statement of Financial Position (IFRS) € in millions
+
+                                                          December 31, 2025             December 31, 2024                 Change in %
+Liabilities and equity
+Short-term borrowings                                                     645                          570                         13.3
+Accounts payable                                                       2,910                         3,096                         (6.0)
+Current lease liabilities                                                 603                          607                         (0.7)
+Other current financial liabilities                                       335                          191                         75.0
+Income taxes                                                              357                          334                          6.9
+Other current provisions                                               1,208                         1,538                        (21.4)
+Current accrued liabilities                                            2,383                         2,659                        (10.4)
+Other current liabilities                                                 652                          598                          8.9
+Total current liabilities                                              9,094                         9,593                         (5.2)
+
+
+Long-term borrowings                                                   1,996                         1,915                          4.3
+Non-current lease liabilities                                          2,310                         2,495                         (7.4)
+Other non-current financial liabilities                                         7                            1                   413.9
+Pensions and similar obligations                                          106                          144                        (26.5)
+Deferred tax liabilities                                                   45                          133                        (65.8)
+Other non-current provisions                                              436                          353                         23.6
+Other non-current liabilities                                             143                          154                         (7.0)
+Total non-current liabilities                                          5,043                         5,194                         (2.9)
+
+
+Share capital                                                             179                          179                          0.1
+Reserves                                                                 (161)                         522                           n.a.
+Retained earnings                                                      5,758                         4,775                         20.6
+Shareholders’ equity                                                   5,776                         5,476                          5.5
+
+
+Non-controlling interests                                                 349                          392                        (10.9)
+
+
+Total equity                                                           6,125                         5,867                          4.4
+
+
+Total liabilities and equity                                          20,262                       20,655                          (1.9)
+
+
+
+
+4
+                                                                       FINANCIAL SUPPLEMENT JANUARY – DECEMBER 2025
+
+                   1                               2                               3                              4                               5
+                   CONSOLIDATED STATEMENT          CONDENSED CONSOLIDATED          CONSOLIDATED STATEMENT         CONSOLIDATED STATEMENT          CONSOLIDATED STATEMENT
+                   OF FINANCIAL POSITION           INCOME STATEMENT                OF COMPREHENSIVE INCOME        OF CHANGES IN EQUITY            OF CASH FLOWS
+
+
+
+
+                   Condensed Consolidated Income Statement
+
+adidas AG Condensed Consolidated Income Statement (IFRS) € in millions
+
+                                                                  Year ending            Year ending                                Fourth quarter        Fourth quarter
+                                                                Dec. 31, 2025          Dec. 31, 2024                   Change                2025                  2024          Change
+Net sales                                                            24,811                 23,683                       4.8%             6,076                 5,965              1.8%
+Cost of sales                                                        12,006                 11,658                       3.0%             2,988                 2,995             (0.2%)
+Gross profit                                                         12,804                 12,026                       6.5%             3,088                 2,970              4.0%
+     (% of net sales)                                                  51.6%                  50.8%                      0.8pp              50.8%                 49.8%            1.0pp
+Royalty and commission income                                             81                     81                     (0.2%)                20                    26          (20.7%)
+Other operating income                                                    41                   174                    (76.6%)                 21                    53          (59.8%)
+Other operating expenses                                             10,871                 10,945                      (0.7%)            2,966                 2,992             (0.9%)
+     (% of net sales)                                                  43.8%                  46.2%                     (2.4pp)             48.8%                 50.2%           (1.3pp)
+     Marketing and point-of-sale expenses                             3,079                  2,841                       8.3%               823                   754              9.2%
+         (% of net sales)                                              12.4%                  12.0%                      0.4pp              13.6%                 12.6%            0.9pp
+     Operating overhead expenses1                                        7,792                 8,103                    (3.8%)              2,142                  2,238          (4.3%)
+         (% of net sales)                                                 31.4%                 34.2%                  (2.8pp)               35.3%                  37.5%         (2.3pp)
+Operating profit                                                         2,056                 1,337                   53.8%                  164                      57       188.4%
+     (% of net sales)                                                       8.3%                  5.6%                   2.6pp                 2.7%                   1.0%         1.7pp
+Financial income                                                            74                   101                  (26.6%)                  20                      30        (34.4%)
+Financial expenses                                                         310                   317                    (2.0%)                 87                    115         (24.5%)
+Income/(loss) before taxes                                               1,820                 1,121                   62.3%                   96                     (29)            n.a.
+     (% of net sales)                                                       7.3%                  4.7%                   2.6pp                 1.6%                  (0.5%)           n.a.
+Income taxes                                                               443                   297                   49.0%                   12                       (2)           n.a.
+     % of income/(loss) before taxes                                      24.3%                 26.5%                  (2.2pp)               12.1%                    6.8%         5.3pp
+
+Net income/(loss) from continuing operations                             1,377                    824                 67.2%                      85                   (27)           n.a.
+
+     (% of net sales)                                                       5.6%                   3.5%                2.1pp                    1.4%                  (0.5%)         n.a.
+Gain from discontinued operations, net of tax                                 8                      8                 1.7%                       6                      7      (16.1%)
+Net income/(loss)                                                        1,385                    832                 66.6%                     91                     (20)          n.a.
+     (% of net sales)                                                       5.6%                   3.5%                2.1pp                    1.5%                  (0.3%)         n.a.
+Net income/(loss) attributable to
+                                                                         1,340                    764                 75.4%                      81                   (39)           n.a.
+shareholders
+      (% of net sales)                                                      5.4%                   3.2%                 2.2pp                   1.3%                  (0.7%)         n.a.
+Net income attributable to non-controlling
+                                                                             45                     68                (33.6%)                      9                   19       (52.8%)
+interests
+
+
+Basic earnings per share from continuing
+                                                                             7.46                  4.24               76.2%                     0.42                 (0.26)          n.a.
+operations (in €)
+Diluted earnings per share from continuing
+                                                                             7.46                  4.24               76.2%                     0.42                 (0.26)          n.a.
+operations (in €)
+
+
+Basic earnings per share from continuing and
+                                                                             7.51                  4.28               75.4%                     0.46                 (0.22)          n.a.
+discontinued operations (in €)
+Diluted earnings per share from continuing and
+                                                                             7.51                  4.28               75.4%                     0.46                 (0.22)          n.a.
+discontinued operations (in €)
+
+1 Aggregated distribution and selling expenses, general and administration expenses, sundry expenses, and impairment losses (net) on accounts receivable and contract assets.
+
+
+
+
+                   5
+                                                      FINANCIAL SUPPLEMENT JANUARY – DECEMBER 2025
+
+1                                2                                3                                 4                                5
+CONSOLIDATED STATEMENT           CONDENSED CONSOLIDATED           CONSOLIDATED STATEMENT            CONSOLIDATED STATEMENT           CONSOLIDATED STATEMENT
+OF FINANCIAL POSITION            INCOME STATEMENT                 OF COMPREHENSIVE INCOME           OF CHANGES IN EQUITY             OF CASH FLOWS
+
+
+
+
+Consolidated Statement of Comprehensive Income
+
+adidas AG Consolidated Statement of Comprehensive Income (IFRS) € in millions
+
+                                                                                                                    Year ending                Year ending
+                                                                                                                  Dec. 31, 2025              Dec. 31, 2024
+Net income                                                                                                                1,385                        832
+Items of other comprehensive income that will not be reclassified
+subsequently to profit or loss
+Remeasurements of defined benefit plans (IAS 19), net of tax1                                                                      22                            (2)
+Net (loss)/gain on other equity investments (IFRS 9), net of tax                                                                  (60)                            1
+Subtotal of items of other comprehensive income that will not be reclassified
+                                                                                                                                  (38)                           (2)
+subsequently to profit or loss
+Items of other comprehensive income that will be reclassified to profit or
+loss when specific conditions are met
+Net (loss)/gain on cash flow hedges and net foreign investment hedges, net of
+                                                                                                                                (320)                       156
+tax
+Net (loss)/gain on cost of hedging reserve – options, net of tax                                                                    (1)                           1
+Net gain on cost of hedging reserve – forward contracts, net of tax                                                                12                            11
+Currency translation differences                                                                                                (391)                       117
+Subtotal of items of other comprehensive income that will be reclassified to
+                                                                                                                                (700)                       285
+profit or loss when specific conditions are met
+
+
+Other comprehensive income                                                                                                      (738)                       283
+
+
+Total comprehensive income                                                                                                       647                     1,115
+
+
+Attributable to shareholders of adidas AG                                                                                        648                     1,023
+Attributable to non-controlling interests                                                                                           (1)                          92
+
+1 Includes actuarial gains or losses relating to defined benefit obligations, return on plan assets (excluding interest income), and the asset ceiling effect.
+
+
+
+
+6
+                                                                         FINANCIAL SUPPLEMENT JANUARY – DECEMBER 2025
+
+                             1                        2                           3                           4                         5
+                             CONSOLIDATED STATEMENT   CONDENSED CONSOLIDATED      CONSOLIDATED STATEMENT      CONSOLIDATED STATEMENT    CONSOLIDATED STATEMENT
+                             OF FINANCIAL POSITION    INCOME STATEMENT            OF COMPREHENSIVE INCOME     OF CHANGES IN EQUITY      OF CASH FLOWS
+
+
+
+
+                          Consolidated Statement of Changes in Equity
+
+adidas AG Consolidated Statement of Changes in Equity (IFRS) € in millions
+
+                                                                                                               Cost of
+                                                                Cumulative                      Cost of      hedging
+                                                                   currency                    hedging      reserve –                                                       Non-
+                                                      Capital   translation      Hedging      reserve –       forward        Other     Retained     Shareholders’    controlling
+                                     Share capital    reserve   differences       reserve       options     contracts     reserves     earnings            equity      interests   Total equity
+Balance at December 31, 2023                 179       1,355           (750)        (217)            (2)            (2)       (126)      4,145             4,580            345          4,925
+Other comprehensive income                      —          —            93            156            1             11           (2)           —              258             24           283
+Net income                                      —          —             —              —            —              —           —           764              764             68           832
+Total comprehensive income                      —          —            93            156            1             11           (2)         764            1,023             92         1,115
+Repurchase of adidas AG shares
+due to equity-settled share-based              (0)         —             —              —            —              —           —            (28)            (28)             —            (28)
+payment
+Reissuance of treasury shares
+due to equity-settled share-based               0          —             —              —            —              —           —            28               28              —             28
+payment
+Dividend payment                                —          —             —              —            —              —           —           (125)           (125)           (40)          (165)
+Equity-settled share-based
+                                                —         12             —              —            —              —           —             (8)              5              —              5
+payment
+Acquisition of shares from non-
+controlling interests shareholders              —          —             (0)            —            —              —           (6)           —                (6)           (6)           (12)
+in accordance with IAS 32
+Balance at December 31, 2024                  179      1,367          (657)            (61)          (1)            8        (134)       4,775             5,476            392         5,867
+
+
+Balance at December 31, 2024                  179      1,367          (657)            (61)          (1)            8        (134)       4,775             5,476            392         5,867
+Other comprehensive income                      —          —          (346)           (320)          (1)           12         (38)            —             (692)           (45)          (738)
+Net income                                      —          —             —              —            —              —           —        1,340             1,340             45         1,385
+Total comprehensive income                      —          —          (346)           (320)          (1)           12         (38)       1,340               648             (1)          647
+Repurchase of adidas AG shares
+due to equity-settled share-based              (0)         —             —              —            —              —           —            (43)            (43)             —            (43)
+payment
+Reissuance of treasury shares
+due to equity-settled share-based               0          —             —              —            —              —           —            43               43              —             43
+payment
+Dividend payment                                —          —             —              —            —              —           —           (357)           (357)           (42)          (399)
+Equity-settled share-based
+                                                —          9             —              —            —              —           —              0               9              —              9
+payment
+Balance at December 31, 2025                  179      1,376        (1,003)           (381)          (2)           21        (172)       5,758             5,776            349         6,125
+
+
+
+
+                          7
+                                           FINANCIAL SUPPLEMENT JANUARY – DECEMBER 2025
+
+1                        2                          3                          4                           5
+CONSOLIDATED STATEMENT   CONDENSED CONSOLIDATED     CONSOLIDATED STATEMENT     CONSOLIDATED STATEMENT      CONSOLIDATED STATEMENT
+OF FINANCIAL POSITION    INCOME STATEMENT           OF COMPREHENSIVE INCOME    OF CHANGES IN EQUITY        OF CASH FLOWS
+
+
+
+
+Consolidated Statement of Cash Flows
+
+adidas AG Consolidated Statement of Cash Flows (IFRS) € in millions
+
+                                                                                             Year ending           Year ending
+                                                                                           Dec. 31, 2025         Dec. 31, 2024
+Operating activities:
+Income before taxes                                                                                 1,820                  1,121
+Adjustments for:
+Depreciation, amortization, and impairment losses                                                   1,154                  1,208
+Reversals of impairment losses                                                                           (19)                 (28)
+Interest income                                                                                          (58)                 (57)
+Interest expense                                                                                        227                  221
+Unrealized foreign exchange losses/(gains), net                                                          24                   (19)
+Losses on sale of property, plant, and equipment and intangible assets, net                              20                    17
+Other non-cash effects from operating activities                                                         22                   (10)
+Cash flows from operating activities before working capital changes                                 3,190                  2,453
+Change in receivables and other assets                                                                  (562)               (839)
+Change in inventories                                                                               (1,104)                 (500)
+Change in accounts payable and other liabilities                                                        (377)              2,024
+Cash flows from operating activities before taxes                                                   1,147                  3,138
+Income taxes paid                                                                                       (399)               (236)
+IAS 29 - Hyperinflation effects in operating cash flow                                                     3                    9
+Cash flows from operating activities                                                                    751                2,910
+Investing activities:
+Purchase of other intangible assets                                                                     (114)               (121)
+Purchase of property, plant, and equipment                                                              (363)               (419)
+Proceeds from sale of property, plant, and equipment                                                       4                   49
+Proceeds from sale of a disposal group from prior years                                                 100                  100
+Change in short-term financial assets                                                                     —                    28
+Change in investments and other long-term assets                                                         (88)                 (50)
+Interest received                                                                                        58                    57
+Cash flows from investing activities                                                                    (404)               (356)
+Financing activities:
+Repayment of eurobonds                                                                                  (500)               (500)
+Proceeds from issuance of bonds                                                                         498                    —
+Interest paid                                                                                           (220)               (217)
+Repayments of lease liabilities                                                                         (643)               (656)
+Dividend paid to shareholders of adidas AG                                                              (357)               (125)
+Dividend paid to non-controlling interest shareholders                                                   (42)                 (40)
+Repurchase of treasury shares due to share-based payments                                                (43)                 (35)
+Proceeds from reissuance of treasury shares due to share-based payments                                  39                    24
+Change in short-term borrowings                                                                         166                     3
+Acquisition of non-controlling interests                                                                  —                   (12)
+Cash flow from financing activities                                                                (1,103)                (1,559)
+Sum of cash flows                                                                                       (755)                995
+Effect of exchange rates on cash                                                                         (82)                  29
+Change in cash and cash equivalents                                                                     (838)              1,024
+Cash and cash equivalents at beginning of year                                                      2,455                  1,431
+Cash and cash equivalents at end of period                                                          1,617                  2,455
+
+
+
+8
+

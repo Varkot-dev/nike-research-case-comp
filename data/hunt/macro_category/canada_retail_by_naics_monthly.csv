@@ -1,0 +1,1381 @@
+ref_date,naics,sales_type,adjustment,value_cad_thousands,vector
+2017-01,Retail trade [44-45],Total retail sales,Unadjusted,41377009,v1446859481
+2017-01,Retail trade [44-45],Total retail sales,Seasonally adjusted,50417235,v1446859483
+2017-01,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1110045,v1446859482
+2017-01,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1236885,v1446859484
+2017-01,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,1977896,v1446859527
+2017-01,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,2806609,v1446859528
+2017-01,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,1548342,v1446859529
+2017-01,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2166905,v1446859530
+2017-01,Shoe retailers [4582],Total retail sales,Unadjusted,230532,v1446859531
+2017-01,Shoe retailers [4582],Total retail sales,Seasonally adjusted,340732,v1446859532
+2017-01,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,952620,v1446859537
+2017-01,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1152635,v1446859538
+2017-02,Retail trade [44-45],Total retail sales,Unadjusted,39819917,v1446859481
+2017-02,Retail trade [44-45],Total retail sales,Seasonally adjusted,49863452,v1446859483
+2017-02,Retail trade [44-45],Retail e-commerce sales,Unadjusted,954186,v1446859482
+2017-02,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1212033,v1446859484
+2017-02,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2011266,v1446859527
+2017-02,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,2874789,v1446859528
+2017-02,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,1552146,v1446859529
+2017-02,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2238134,v1446859530
+2017-02,Shoe retailers [4582],Total retail sales,Unadjusted,224130,v1446859531
+2017-02,Shoe retailers [4582],Total retail sales,Seasonally adjusted,352388,v1446859532
+2017-02,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,823877,v1446859537
+2017-02,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1144279,v1446859538
+2017-03,Retail trade [44-45],Total retail sales,Unadjusted,48413898,v1446859481
+2017-03,Retail trade [44-45],Total retail sales,Seasonally adjusted,49937420,v1446859483
+2017-03,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1143576,v1446859482
+2017-03,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1255537,v1446859484
+2017-03,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2370645,v1446859527
+2017-03,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,2772264,v1446859528
+2017-03,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,1864945,v1446859529
+2017-03,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2160690,v1446859530
+2017-03,Shoe retailers [4582],Total retail sales,Unadjusted,283673,v1446859531
+2017-03,Shoe retailers [4582],Total retail sales,Seasonally adjusted,330612,v1446859532
+2017-03,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,988175,v1446859537
+2017-03,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1161632,v1446859538
+2017-04,Retail trade [44-45],Total retail sales,Unadjusted,50286323,v1446859481
+2017-04,Retail trade [44-45],Total retail sales,Seasonally adjusted,50827438,v1446859483
+2017-04,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1221252,v1446859482
+2017-04,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1281690,v1446859484
+2017-04,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2653757,v1446859527
+2017-04,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,2884378,v1446859528
+2017-04,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2033454,v1446859529
+2017-04,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2216635,v1446859530
+2017-04,Shoe retailers [4582],Total retail sales,Unadjusted,368488,v1446859531
+2017-04,Shoe retailers [4582],Total retail sales,Seasonally adjusted,363614,v1446859532
+2017-04,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1062780,v1446859537
+2017-04,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1175269,v1446859538
+2017-05,Retail trade [44-45],Total retail sales,Unadjusted,55984785,v1446859481
+2017-05,Retail trade [44-45],Total retail sales,Seasonally adjusted,50711634,v1446859483
+2017-05,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1242495,v1446859482
+2017-05,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1262875,v1446859484
+2017-05,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2895883,v1446859527
+2017-05,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,2863147,v1446859528
+2017-05,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2207674,v1446859529
+2017-05,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2199545,v1446859530
+2017-05,Shoe retailers [4582],Total retail sales,Unadjusted,372686,v1446859531
+2017-05,Shoe retailers [4582],Total retail sales,Seasonally adjusted,345217,v1446859532
+2017-05,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1073514,v1446859537
+2017-05,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1142263,v1446859538
+2017-06,Retail trade [44-45],Total retail sales,Unadjusted,54863103,v1446859481
+2017-06,Retail trade [44-45],Total retail sales,Seasonally adjusted,50762624,v1446859483
+2017-06,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1232231,v1446859482
+2017-06,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1276594,v1446859484
+2017-06,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2891829,v1446859527
+2017-06,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,2902689,v1446859528
+2017-06,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2237017,v1446859529
+2017-06,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2242257,v1446859530
+2017-06,Shoe retailers [4582],Total retail sales,Unadjusted,357813,v1446859531
+2017-06,Shoe retailers [4582],Total retail sales,Seasonally adjusted,352905,v1446859532
+2017-06,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1115737,v1446859537
+2017-06,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1171389,v1446859538
+2017-07,Retail trade [44-45],Total retail sales,Unadjusted,52965522,v1446859481
+2017-07,Retail trade [44-45],Total retail sales,Seasonally adjusted,50879002,v1446859483
+2017-07,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1221851,v1446859482
+2017-07,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1363496,v1446859484
+2017-07,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2779162,v1446859527
+2017-07,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,2902972,v1446859528
+2017-07,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2167508,v1446859529
+2017-07,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2248934,v1446859530
+2017-07,Shoe retailers [4582],Total retail sales,Unadjusted,335220,v1446859531
+2017-07,Shoe retailers [4582],Total retail sales,Seasonally adjusted,349657,v1446859532
+2017-07,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1137639,v1446859537
+2017-07,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1177116,v1446859538
+2017-08,Retail trade [44-45],Total retail sales,Unadjusted,54135354,v1446859481
+2017-08,Retail trade [44-45],Total retail sales,Seasonally adjusted,51011588,v1446859483
+2017-08,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1241730,v1446859482
+2017-08,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1354108,v1446859484
+2017-08,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3030989,v1446859527
+2017-08,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,2903480,v1446859528
+2017-08,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2362706,v1446859529
+2017-08,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2259892,v1446859530
+2017-08,Shoe retailers [4582],Total retail sales,Unadjusted,387511,v1446859531
+2017-08,Shoe retailers [4582],Total retail sales,Seasonally adjusted,344028,v1446859532
+2017-08,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1189981,v1446859537
+2017-08,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1153644,v1446859538
+2017-09,Retail trade [44-45],Total retail sales,Unadjusted,52167915,v1446859481
+2017-09,Retail trade [44-45],Total retail sales,Seasonally adjusted,51040384,v1446859483
+2017-09,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1243184,v1446859482
+2017-09,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1323923,v1446859484
+2017-09,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2920400,v1446859527
+2017-09,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,2875191,v1446859528
+2017-09,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2296528,v1446859529
+2017-09,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2234211,v1446859530
+2017-09,Shoe retailers [4582],Total retail sales,Unadjusted,350840,v1446859531
+2017-09,Shoe retailers [4582],Total retail sales,Seasonally adjusted,336130,v1446859532
+2017-09,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1222966,v1446859537
+2017-09,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1162694,v1446859538
+2017-10,Retail trade [44-45],Total retail sales,Unadjusted,52724066,v1446859481
+2017-10,Retail trade [44-45],Total retail sales,Seasonally adjusted,52522532,v1446859483
+2017-10,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1331612,v1446859482
+2017-10,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1377141,v1446859484
+2017-10,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2956366,v1446859527
+2017-10,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,2893498,v1446859528
+2017-10,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2336969,v1446859529
+2017-10,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2252057,v1446859530
+2017-10,Shoe retailers [4582],Total retail sales,Unadjusted,358756,v1446859531
+2017-10,Shoe retailers [4582],Total retail sales,Seasonally adjusted,343140,v1446859532
+2017-10,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1052221,v1446859537
+2017-10,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1164389,v1446859538
+2017-11,Retail trade [44-45],Total retail sales,Unadjusted,53869040,v1446859481
+2017-11,Retail trade [44-45],Total retail sales,Seasonally adjusted,52139092,v1446859483
+2017-11,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1883790,v1446859482
+2017-11,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1452988,v1446859484
+2017-11,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3644346,v1446859527
+2017-11,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,2979884,v1446859528
+2017-11,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2851793,v1446859529
+2017-11,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2315504,v1446859530
+2017-11,Shoe retailers [4582],Total retail sales,Unadjusted,441948,v1446859531
+2017-11,Shoe retailers [4582],Total retail sales,Seasonally adjusted,360692,v1446859532
+2017-11,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1449586,v1446859537
+2017-11,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1208768,v1446859538
+2017-12,Retail trade [44-45],Total retail sales,Unadjusted,55816044,v1446859481
+2017-12,Retail trade [44-45],Total retail sales,Seasonally adjusted,52310573,v1446859483
+2017-12,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1933400,v1446859482
+2017-12,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1362086,v1446859484
+2017-12,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,4412211,v1446859527
+2017-12,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,2885849,v1446859528
+2017-12,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,3307384,v1446859529
+2017-12,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2231703,v1446859530
+2017-12,Shoe retailers [4582],Total retail sales,Unadjusted,458451,v1446859531
+2017-12,Shoe retailers [4582],Total retail sales,Seasonally adjusted,350933,v1446859532
+2017-12,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1947314,v1446859537
+2017-12,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1202331,v1446859538
+2018-01,Retail trade [44-45],Total retail sales,Unadjusted,43593968,v1446859481
+2018-01,Retail trade [44-45],Total retail sales,Seasonally adjusted,52271446,v1446859483
+2018-01,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1298402,v1446859482
+2018-01,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1449736,v1446859484
+2018-01,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2083832,v1446859527
+2018-01,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,2954961,v1446859528
+2018-01,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,1634829,v1446859529
+2018-01,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2280888,v1446859530
+2018-01,Shoe retailers [4582],Total retail sales,Unadjusted,229801,v1446859531
+2018-01,Shoe retailers [4582],Total retail sales,Seasonally adjusted,343408,v1446859532
+2018-01,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,986829,v1446859537
+2018-01,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1184549,v1446859538
+2018-02,Retail trade [44-45],Total retail sales,Unadjusted,41621019,v1446859481
+2018-02,Retail trade [44-45],Total retail sales,Seasonally adjusted,52035465,v1446859483
+2018-02,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1113508,v1446859482
+2018-02,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1414219,v1446859484
+2018-02,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2087767,v1446859527
+2018-02,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,2976768,v1446859528
+2018-02,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,1605761,v1446859529
+2018-02,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2314068,v1446859530
+2018-02,Shoe retailers [4582],Total retail sales,Unadjusted,222779,v1446859531
+2018-02,Shoe retailers [4582],Total retail sales,Seasonally adjusted,349479,v1446859532
+2018-02,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,849616,v1446859537
+2018-02,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1170823,v1446859538
+2018-03,Retail trade [44-45],Total retail sales,Unadjusted,50688807,v1446859481
+2018-03,Retail trade [44-45],Total retail sales,Seasonally adjusted,51946965,v1446859483
+2018-03,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1316846,v1446859482
+2018-03,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1440487,v1446859484
+2018-03,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2625644,v1446859527
+2018-03,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,2976667,v1446859528
+2018-03,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2066625,v1446859529
+2018-03,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2324939,v1446859530
+2018-03,Shoe retailers [4582],Total retail sales,Unadjusted,301417,v1446859531
+2018-03,Shoe retailers [4582],Total retail sales,Seasonally adjusted,338971,v1446859532
+2018-03,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1011137,v1446859537
+2018-03,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1170668,v1446859538
+2018-04,Retail trade [44-45],Total retail sales,Unadjusted,50847451,v1446859481
+2018-04,Retail trade [44-45],Total retail sales,Seasonally adjusted,52101777,v1446859483
+2018-04,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1367019,v1446859482
+2018-04,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1431354,v1446859484
+2018-04,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2639069,v1446859527
+2018-04,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,2970369,v1446859528
+2018-04,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2059454,v1446859529
+2018-04,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2332864,v1446859530
+2018-04,Shoe retailers [4582],Total retail sales,Unadjusted,336355,v1446859531
+2018-04,Shoe retailers [4582],Total retail sales,Seasonally adjusted,346676,v1446859532
+2018-04,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1024711,v1446859537
+2018-04,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1144264,v1446859538
+2018-05,Retail trade [44-45],Total retail sales,Unadjusted,59638970,v1446859481
+2018-05,Retail trade [44-45],Total retail sales,Seasonally adjusted,53447083,v1446859483
+2018-05,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1471741,v1446859482
+2018-05,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1478430,v1446859484
+2018-05,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3190223,v1446859527
+2018-05,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3076481,v1446859528
+2018-05,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2460427,v1446859529
+2018-05,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2390704,v1446859530
+2018-05,Shoe retailers [4582],Total retail sales,Unadjusted,403376,v1446859531
+2018-05,Shoe retailers [4582],Total retail sales,Seasonally adjusted,366156,v1446859532
+2018-05,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1127547,v1446859537
+2018-05,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1182211,v1446859538
+2018-06,Retail trade [44-45],Total retail sales,Unadjusted,57549310,v1446859481
+2018-06,Retail trade [44-45],Total retail sales,Seasonally adjusted,53287940,v1446859483
+2018-06,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1476349,v1446859482
+2018-06,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1520146,v1446859484
+2018-06,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3074101,v1446859527
+2018-06,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3019782,v1446859528
+2018-06,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2392793,v1446859529
+2018-06,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2349300,v1446859530
+2018-06,Shoe retailers [4582],Total retail sales,Unadjusted,363405,v1446859531
+2018-06,Shoe retailers [4582],Total retail sales,Seasonally adjusted,349299,v1446859532
+2018-06,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1115183,v1446859537
+2018-06,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1155709,v1446859538
+2018-07,Retail trade [44-45],Total retail sales,Unadjusted,55306734,v1446859481
+2018-07,Retail trade [44-45],Total retail sales,Seasonally adjusted,53096102,v1446859483
+2018-07,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1345606,v1446859482
+2018-07,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1506466,v1446859484
+2018-07,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2955244,v1446859527
+2018-07,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3089733,v1446859528
+2018-07,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2314507,v1446859529
+2018-07,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2400129,v1446859530
+2018-07,Shoe retailers [4582],Total retail sales,Unadjusted,342776,v1446859531
+2018-07,Shoe retailers [4582],Total retail sales,Seasonally adjusted,359988,v1446859532
+2018-07,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1117180,v1446859537
+2018-07,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1160143,v1446859538
+2018-08,Retail trade [44-45],Total retail sales,Unadjusted,56670722,v1446859481
+2018-08,Retail trade [44-45],Total retail sales,Seasonally adjusted,53376429,v1446859483
+2018-08,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1464345,v1446859482
+2018-08,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1592465,v1446859484
+2018-08,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3260272,v1446859527
+2018-08,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3089830,v1446859528
+2018-08,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2565151,v1446859529
+2018-08,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2435826,v1446859530
+2018-08,Shoe retailers [4582],Total retail sales,Unadjusted,405287,v1446859531
+2018-08,Shoe retailers [4582],Total retail sales,Seasonally adjusted,354888,v1446859532
+2018-08,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1234414,v1446859537
+2018-08,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1181871,v1446859538
+2018-09,Retail trade [44-45],Total retail sales,Unadjusted,53724764,v1446859481
+2018-09,Retail trade [44-45],Total retail sales,Seasonally adjusted,53634932,v1446859483
+2018-09,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1428020,v1446859482
+2018-09,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1514096,v1446859484
+2018-09,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3066396,v1446859527
+2018-09,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3053426,v1446859528
+2018-09,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2446561,v1446859529
+2018-09,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2403342,v1446859530
+2018-09,Shoe retailers [4582],Total retail sales,Unadjusted,341280,v1446859531
+2018-09,Shoe retailers [4582],Total retail sales,Seasonally adjusted,335615,v1446859532
+2018-09,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1226278,v1446859537
+2018-09,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1179446,v1446859538
+2018-10,Retail trade [44-45],Total retail sales,Unadjusted,54953509,v1446859481
+2018-10,Retail trade [44-45],Total retail sales,Seasonally adjusted,53859258,v1446859483
+2018-10,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1630339,v1446859482
+2018-10,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1680675,v1446859484
+2018-10,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3112745,v1446859527
+2018-10,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3060188,v1446859528
+2018-10,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2459007,v1446859529
+2018-10,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2381784,v1446859530
+2018-10,Shoe retailers [4582],Total retail sales,Unadjusted,375295,v1446859531
+2018-10,Shoe retailers [4582],Total retail sales,Seasonally adjusted,365939,v1446859532
+2018-10,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1075003,v1446859537
+2018-10,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1175875,v1446859538
+2018-11,Retail trade [44-45],Total retail sales,Unadjusted,55005546,v1446859481
+2018-11,Retail trade [44-45],Total retail sales,Seasonally adjusted,52976270,v1446859483
+2018-11,Retail trade [44-45],Retail e-commerce sales,Unadjusted,2295160,v1446859482
+2018-11,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1770165,v1446859484
+2018-11,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3806061,v1446859527
+2018-11,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3077611,v1446859528
+2018-11,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2952645,v1446859529
+2018-11,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2384000,v1446859530
+2018-11,Shoe retailers [4582],Total retail sales,Unadjusted,462238,v1446859531
+2018-11,Shoe retailers [4582],Total retail sales,Seasonally adjusted,368740,v1446859532
+2018-11,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1436111,v1446859537
+2018-11,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1196863,v1446859538
+2018-12,Retail trade [44-45],Total retail sales,Unadjusted,55819440,v1446859481
+2018-12,Retail trade [44-45],Total retail sales,Seasonally adjusted,53386574,v1446859483
+2018-12,Retail trade [44-45],Retail e-commerce sales,Unadjusted,2039959,v1446859482
+2018-12,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1449053,v1446859484
+2018-12,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,4485703,v1446859527
+2018-12,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3041240,v1446859528
+2018-12,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,3422853,v1446859529
+2018-12,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2382768,v1446859530
+2018-12,Shoe retailers [4582],Total retail sales,Unadjusted,446579,v1446859531
+2018-12,Shoe retailers [4582],Total retail sales,Seasonally adjusted,351430,v1446859532
+2018-12,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1870714,v1446859537
+2018-12,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1172303,v1446859538
+2019-01,Retail trade [44-45],Total retail sales,Unadjusted,44477439,v1446859481
+2019-01,Retail trade [44-45],Total retail sales,Seasonally adjusted,52907965,v1446859483
+2019-01,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1485282,v1446859482
+2019-01,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1654977,v1446859484
+2019-01,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2216485,v1446859527
+2019-01,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3067967,v1446859528
+2019-01,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,1773858,v1446859529
+2019-01,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2406567,v1446859530
+2019-01,Shoe retailers [4582],Total retail sales,Unadjusted,242474,v1446859531
+2019-01,Shoe retailers [4582],Total retail sales,Seasonally adjusted,357743,v1446859532
+2019-01,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,990455,v1446859537
+2019-01,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1178997,v1446859538
+2019-02,Retail trade [44-45],Total retail sales,Unadjusted,42509487,v1446859481
+2019-02,Retail trade [44-45],Total retail sales,Seasonally adjusted,52997482,v1446859483
+2019-02,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1329557,v1446859482
+2019-02,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1682044,v1446859484
+2019-02,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2131182,v1446859527
+2019-02,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3057200,v1446859528
+2019-02,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,1626575,v1446859529
+2019-02,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2360678,v1446859530
+2019-02,Shoe retailers [4582],Total retail sales,Unadjusted,226237,v1446859531
+2019-02,Shoe retailers [4582],Total retail sales,Seasonally adjusted,357441,v1446859532
+2019-02,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,852785,v1446859537
+2019-02,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1162898,v1446859538
+2019-03,Retail trade [44-45],Total retail sales,Unadjusted,51646707,v1446859481
+2019-03,Retail trade [44-45],Total retail sales,Seasonally adjusted,53627744,v1446859483
+2019-03,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1579907,v1446859482
+2019-03,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1718040,v1446859484
+2019-03,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2757096,v1446859527
+2019-03,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3149967,v1446859528
+2019-03,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2143234,v1446859529
+2019-03,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2434471,v1446859530
+2019-03,Shoe retailers [4582],Total retail sales,Unadjusted,333503,v1446859531
+2019-03,Shoe retailers [4582],Total retail sales,Seasonally adjusted,376703,v1446859532
+2019-03,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,965767,v1446859537
+2019-03,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1117834,v1446859538
+2019-04,Retail trade [44-45],Total retail sales,Unadjusted,53435088,v1446859481
+2019-04,Retail trade [44-45],Total retail sales,Seasonally adjusted,53786070,v1446859483
+2019-04,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1657973,v1446859482
+2019-04,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1726614,v1446859484
+2019-04,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2734341,v1446859527
+2019-04,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3061871,v1446859528
+2019-04,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2133511,v1446859529
+2019-04,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2399915,v1446859530
+2019-04,Shoe retailers [4582],Total retail sales,Unadjusted,325952,v1446859531
+2019-04,Shoe retailers [4582],Total retail sales,Seasonally adjusted,337035,v1446859532
+2019-04,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1056806,v1446859537
+2019-04,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1156066,v1446859538
+2019-05,Retail trade [44-45],Total retail sales,Unadjusted,60512865,v1446859481
+2019-05,Retail trade [44-45],Total retail sales,Seasonally adjusted,54093066,v1446859483
+2019-05,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1846131,v1446859482
+2019-05,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1815197,v1446859484
+2019-05,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3137305,v1446859527
+2019-05,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3027135,v1446859528
+2019-05,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2421258,v1446859529
+2019-05,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2362985,v1446859530
+2019-05,Shoe retailers [4582],Total retail sales,Unadjusted,368056,v1446859531
+2019-05,Shoe retailers [4582],Total retail sales,Seasonally adjusted,328529,v1446859532
+2019-05,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1086356,v1446859537
+2019-05,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1131023,v1446859538
+2019-06,Retail trade [44-45],Total retail sales,Unadjusted,57049684,v1446859481
+2019-06,Retail trade [44-45],Total retail sales,Seasonally adjusted,53802084,v1446859483
+2019-06,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1936049,v1446859482
+2019-06,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1977594,v1446859484
+2019-06,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3181448,v1446859527
+2019-06,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3135602,v1446859528
+2019-06,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2499446,v1446859529
+2019-06,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2457782,v1446859530
+2019-06,Shoe retailers [4582],Total retail sales,Unadjusted,369086,v1446859531
+2019-06,Shoe retailers [4582],Total retail sales,Seasonally adjusted,355119,v1446859532
+2019-06,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1110251,v1446859537
+2019-06,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1142457,v1446859538
+2019-07,Retail trade [44-45],Total retail sales,Unadjusted,57478260,v1446859481
+2019-07,Retail trade [44-45],Total retail sales,Seasonally adjusted,54381960,v1446859483
+2019-07,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1780666,v1446859482
+2019-07,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,2013074,v1446859484
+2019-07,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2957487,v1446859527
+2019-07,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3082882,v1446859528
+2019-07,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2347617,v1446859529
+2019-07,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2426405,v1446859530
+2019-07,Shoe retailers [4582],Total retail sales,Unadjusted,330876,v1446859531
+2019-07,Shoe retailers [4582],Total retail sales,Seasonally adjusted,344250,v1446859532
+2019-07,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1113707,v1446859537
+2019-07,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1134819,v1446859538
+2019-08,Retail trade [44-45],Total retail sales,Unadjusted,57464894,v1446859481
+2019-08,Retail trade [44-45],Total retail sales,Seasonally adjusted,54350184,v1446859483
+2019-08,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1817070,v1446859482
+2019-08,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1971331,v1446859484
+2019-08,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3362007,v1446859527
+2019-08,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3121214,v1446859528
+2019-08,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2617590,v1446859529
+2019-08,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2432885,v1446859530
+2019-08,Shoe retailers [4582],Total retail sales,Unadjusted,423842,v1446859531
+2019-08,Shoe retailers [4582],Total retail sales,Seasonally adjusted,362374,v1446859532
+2019-08,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1234830,v1446859537
+2019-08,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1169485,v1446859538
+2019-09,Retail trade [44-45],Total retail sales,Unadjusted,53951959,v1446859481
+2019-09,Retail trade [44-45],Total retail sales,Seasonally adjusted,54363245,v1446859483
+2019-09,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1878803,v1446859482
+2019-09,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1987014,v1446859484
+2019-09,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3024752,v1446859527
+2019-09,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3112982,v1446859528
+2019-09,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2395466,v1446859529
+2019-09,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2439337,v1446859530
+2019-09,Shoe retailers [4582],Total retail sales,Unadjusted,348168,v1446859531
+2019-09,Shoe retailers [4582],Total retail sales,Seasonally adjusted,352133,v1446859532
+2019-09,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1205569,v1446859537
+2019-09,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1197552,v1446859538
+2019-10,Retail trade [44-45],Total retail sales,Unadjusted,55370415,v1446859481
+2019-10,Retail trade [44-45],Total retail sales,Seasonally adjusted,53625470,v1446859483
+2019-10,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1877598,v1446859482
+2019-10,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1945389,v1446859484
+2019-10,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3240348,v1446859527
+2019-10,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3126744,v1446859528
+2019-10,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2570088,v1446859529
+2019-10,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2434195,v1446859530
+2019-10,Shoe retailers [4582],Total retail sales,Unadjusted,360464,v1446859531
+2019-10,Shoe retailers [4582],Total retail sales,Seasonally adjusted,349640,v1446859532
+2019-10,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1041963,v1446859537
+2019-10,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1118701,v1446859538
+2019-11,Retail trade [44-45],Total retail sales,Unadjusted,56146140,v1446859481
+2019-11,Retail trade [44-45],Total retail sales,Seasonally adjusted,54040294,v1446859483
+2019-11,Retail trade [44-45],Retail e-commerce sales,Unadjusted,2477045,v1446859482
+2019-11,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,1937081,v1446859484
+2019-11,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3869358,v1446859527
+2019-11,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3107823,v1446859528
+2019-11,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,3024798,v1446859529
+2019-11,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2430157,v1446859530
+2019-11,Shoe retailers [4582],Total retail sales,Unadjusted,447943,v1446859531
+2019-11,Shoe retailers [4582],Total retail sales,Seasonally adjusted,350216,v1446859532
+2019-11,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1339911,v1446859537
+2019-11,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1126443,v1446859538
+2019-12,Retail trade [44-45],Total retail sales,Unadjusted,57282492,v1446859481
+2019-12,Retail trade [44-45],Total retail sales,Seasonally adjusted,55349866,v1446859483
+2019-12,Retail trade [44-45],Retail e-commerce sales,Unadjusted,2819549,v1446859482
+2019-12,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,2057275,v1446859484
+2019-12,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,4594027,v1446859527
+2019-12,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3154450,v1446859528
+2019-12,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,3483538,v1446859529
+2019-12,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2451602,v1446859530
+2019-12,Shoe retailers [4582],Total retail sales,Unadjusted,453562,v1446859531
+2019-12,Shoe retailers [4582],Total retail sales,Seasonally adjusted,358981,v1446859532
+2019-12,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1793563,v1446859537
+2019-12,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1155687,v1446859538
+2020-01,Retail trade [44-45],Total retail sales,Unadjusted,46283916,v1446859481
+2020-01,Retail trade [44-45],Total retail sales,Seasonally adjusted,54694567,v1446859483
+2020-01,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1763378,v1446859482
+2020-01,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,2009310,v1446859484
+2020-01,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2265180,v1446859527
+2020-01,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3130917,v1446859528
+2020-01,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,1790867,v1446859529
+2020-01,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2418686,v1446859530
+2020-01,Shoe retailers [4582],Total retail sales,Unadjusted,228907,v1446859531
+2020-01,Shoe retailers [4582],Total retail sales,Seasonally adjusted,337429,v1446859532
+2020-01,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,943328,v1446859537
+2020-01,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1144088,v1446859538
+2020-02,Retail trade [44-45],Total retail sales,Unadjusted,45890822,v1446859481
+2020-02,Retail trade [44-45],Total retail sales,Seasonally adjusted,54879879,v1446859483
+2020-02,Retail trade [44-45],Retail e-commerce sales,Unadjusted,1689265,v1446859482
+2020-02,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,2180212,v1446859484
+2020-02,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2257612,v1446859527
+2020-02,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3062350,v1446859528
+2020-02,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,1742088,v1446859529
+2020-02,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2387584,v1446859530
+2020-02,Shoe retailers [4582],Total retail sales,Unadjusted,230008,v1446859531
+2020-02,Shoe retailers [4582],Total retail sales,Seasonally adjusted,339815,v1446859532
+2020-02,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,913701,v1446859537
+2020-02,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1191220,v1446859538
+2020-03,Retail trade [44-45],Total retail sales,Unadjusted,46279731,v1446859481
+2020-03,Retail trade [44-45],Total retail sales,Seasonally adjusted,48808933,v1446859483
+2020-03,Retail trade [44-45],Retail e-commerce sales,Unadjusted,2379817,v1446859482
+2020-03,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,2632279,v1446859484
+2020-03,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,1350757,v1446859527
+2020-03,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,1568209,v1446859528
+2020-03,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,1054580,v1446859529
+2020-03,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,1215534,v1446859530
+2020-03,Shoe retailers [4582],Total retail sales,Unadjusted,145286,v1446859531
+2020-03,Shoe retailers [4582],Total retail sales,Seasonally adjusted,167587,v1446859532
+2020-03,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,769889,v1446859537
+2020-03,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,899989,v1446859538
+2020-04,Retail trade [44-45],Total retail sales,Unadjusted,37070417,v1446859481
+2020-04,Retail trade [44-45],Total retail sales,Seasonally adjusted,37562059,v1446859483
+2020-04,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3797262,v1446859482
+2020-04,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,4020251,v1446859484
+2020-04,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,551530,v1446859527
+2020-04,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,582595,v1446859528
+2020-04,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,399160,v1446859529
+2020-04,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,422862,v1446859530
+2020-04,Shoe retailers [4582],Total retail sales,Unadjusted,85478,v1446859531
+2020-04,Shoe retailers [4582],Total retail sales,Seasonally adjusted,81661,v1446859532
+2020-04,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,477244,v1446859537
+2020-04,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,517960,v1446859538
+2020-05,Retail trade [44-45],Total retail sales,Unadjusted,50481732,v1446859481
+2020-05,Retail trade [44-45],Total retail sales,Seasonally adjusted,45898194,v1446859483
+2020-05,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4163883,v1446859482
+2020-05,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,4074010,v1446859484
+2020-05,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,1161534,v1446859527
+2020-05,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,1073988,v1446859528
+2020-05,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,880927,v1446859529
+2020-05,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,825543,v1446859530
+2020-05,Shoe retailers [4582],Total retail sales,Unadjusted,166085,v1446859531
+2020-05,Shoe retailers [4582],Total retail sales,Seasonally adjusted,142197,v1446859532
+2020-05,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,821316,v1446859537
+2020-05,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,867967,v1446859538
+2020-06,Retail trade [44-45],Total retail sales,Unadjusted,59829099,v1446859481
+2020-06,Retail trade [44-45],Total retail sales,Seasonally adjusted,55877453,v1446859483
+2020-06,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3495999,v1446859482
+2020-06,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3573099,v1446859484
+2020-06,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2462136,v1446859527
+2020-06,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,2450491,v1446859528
+2020-06,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,1912357,v1446859529
+2020-06,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,1902568,v1446859530
+2020-06,Shoe retailers [4582],Total retail sales,Unadjusted,340401,v1446859531
+2020-06,Shoe retailers [4582],Total retail sales,Seasonally adjusted,328987,v1446859532
+2020-06,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1290940,v1446859537
+2020-06,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1336915,v1446859538
+2020-07,Retail trade [44-45],Total retail sales,Unadjusted,60351134,v1446859481
+2020-07,Retail trade [44-45],Total retail sales,Seasonally adjusted,56307980,v1446859483
+2020-07,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3034263,v1446859482
+2020-07,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3485623,v1446859484
+2020-07,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2652387,v1446859527
+2020-07,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,2666455,v1446859528
+2020-07,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2035730,v1446859529
+2020-07,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2030592,v1446859530
+2020-07,Shoe retailers [4582],Total retail sales,Unadjusted,328392,v1446859531
+2020-07,Shoe retailers [4582],Total retail sales,Seasonally adjusted,321061,v1446859532
+2020-07,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1241756,v1446859537
+2020-07,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1252954,v1446859538
+2020-08,Retail trade [44-45],Total retail sales,Unadjusted,57749654,v1446859481
+2020-08,Retail trade [44-45],Total retail sales,Seasonally adjusted,56079836,v1446859483
+2020-08,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3167082,v1446859482
+2020-08,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3442861,v1446859484
+2020-08,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2889875,v1446859527
+2020-08,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,2778042,v1446859528
+2020-08,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2216926,v1446859529
+2020-08,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2133424,v1446859530
+2020-08,Shoe retailers [4582],Total retail sales,Unadjusted,353684,v1446859531
+2020-08,Shoe retailers [4582],Total retail sales,Seasonally adjusted,313306,v1446859532
+2020-08,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1255498,v1446859537
+2020-08,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1214404,v1446859538
+2020-09,Retail trade [44-45],Total retail sales,Unadjusted,58792801,v1446859481
+2020-09,Retail trade [44-45],Total retail sales,Seasonally adjusted,57985834,v1446859483
+2020-09,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3244443,v1446859482
+2020-09,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3421654,v1446859484
+2020-09,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2817671,v1446859527
+2020-09,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,2836271,v1446859528
+2020-09,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2195910,v1446859529
+2020-09,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2183972,v1446859530
+2020-09,Shoe retailers [4582],Total retail sales,Unadjusted,334382,v1446859531
+2020-09,Shoe retailers [4582],Total retail sales,Seasonally adjusted,324293,v1446859532
+2020-09,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1192276,v1446859537
+2020-09,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1231061,v1446859538
+2020-10,Retail trade [44-45],Total retail sales,Unadjusted,60584344,v1446859481
+2020-10,Retail trade [44-45],Total retail sales,Seasonally adjusted,58530435,v1446859483
+2020-10,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3294369,v1446859482
+2020-10,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3405942,v1446859484
+2020-10,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2976165,v1446859527
+2020-10,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,2812985,v1446859528
+2020-10,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2350067,v1446859529
+2020-10,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2176607,v1446859530
+2020-10,Shoe retailers [4582],Total retail sales,Unadjusted,314611,v1446859531
+2020-10,Shoe retailers [4582],Total retail sales,Seasonally adjusted,301568,v1446859532
+2020-10,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1232483,v1446859537
+2020-10,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1292836,v1446859538
+2020-11,Retail trade [44-45],Total retail sales,Unadjusted,59206335,v1446859481
+2020-11,Retail trade [44-45],Total retail sales,Seasonally adjusted,58735568,v1446859483
+2020-11,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4374918,v1446859482
+2020-11,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3434353,v1446859484
+2020-11,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3245961,v1446859527
+2020-11,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,2746529,v1446859528
+2020-11,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2512201,v1446859529
+2020-11,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2122322,v1446859530
+2020-11,Shoe retailers [4582],Total retail sales,Unadjusted,337852,v1446859531
+2020-11,Shoe retailers [4582],Total retail sales,Seasonally adjusted,281628,v1446859532
+2020-11,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1606782,v1446859537
+2020-11,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1408924,v1446859538
+2020-12,Retail trade [44-45],Total retail sales,Unadjusted,59213642,v1446859481
+2020-12,Retail trade [44-45],Total retail sales,Seasonally adjusted,56372888,v1446859483
+2020-12,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4943411,v1446859482
+2020-12,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3668498,v1446859484
+2020-12,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3357623,v1446859527
+2020-12,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,2279599,v1446859528
+2020-12,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2424205,v1446859529
+2020-12,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,1695325,v1446859530
+2020-12,Shoe retailers [4582],Total retail sales,Unadjusted,339631,v1446859531
+2020-12,Shoe retailers [4582],Total retail sales,Seasonally adjusted,265184,v1446859532
+2020-12,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1725541,v1446859537
+2020-12,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1112435,v1446859538
+2021-01,Retail trade [44-45],Total retail sales,Unadjusted,46296434,v1446859481
+2021-01,Retail trade [44-45],Total retail sales,Seasonally adjusted,55167078,v1446859483
+2021-01,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3962416,v1446859482
+2021-01,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,4445597,v1446859484
+2021-01,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,1407534,v1446859527
+2021-01,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,1958308,v1446859528
+2021-01,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,1079713,v1446859529
+2021-01,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,1462116,v1446859530
+2021-01,Shoe retailers [4582],Total retail sales,Unadjusted,134444,v1446859531
+2021-01,Shoe retailers [4582],Total retail sales,Seasonally adjusted,198994,v1446859532
+2021-01,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,800978,v1446859537
+2021-01,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,986517,v1446859538
+2021-02,Retail trade [44-45],Total retail sales,Unadjusted,47615124,v1446859481
+2021-02,Retail trade [44-45],Total retail sales,Seasonally adjusted,58691211,v1446859483
+2021-02,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3437177,v1446859482
+2021-02,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,4309171,v1446859484
+2021-02,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,1685724,v1446859527
+2021-02,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,2421886,v1446859528
+2021-02,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,1253131,v1446859529
+2021-02,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,1832212,v1446859530
+2021-02,Shoe retailers [4582],Total retail sales,Unadjusted,159445,v1446859531
+2021-02,Shoe retailers [4582],Total retail sales,Seasonally adjusted,251389,v1446859532
+2021-02,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,952484,v1446859537
+2021-02,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1286979,v1446859538
+2021-03,Retail trade [44-45],Total retail sales,Unadjusted,59917861,v1446859481
+2021-03,Retail trade [44-45],Total retail sales,Seasonally adjusted,61692136,v1446859483
+2021-03,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4027641,v1446859482
+2021-03,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,4302730,v1446859484
+2021-03,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2497386,v1446859527
+2021-03,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,2961806,v1446859528
+2021-03,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,1918154,v1446859529
+2021-03,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2265819,v1446859530
+2021-03,Shoe retailers [4582],Total retail sales,Unadjusted,295373,v1446859531
+2021-03,Shoe retailers [4582],Total retail sales,Seasonally adjusted,347972,v1446859532
+2021-03,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1215197,v1446859537
+2021-03,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1390639,v1446859538
+2021-04,Retail trade [44-45],Total retail sales,Unadjusted,58758197,v1446859481
+2021-04,Retail trade [44-45],Total retail sales,Seasonally adjusted,58413210,v1446859483
+2021-04,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4158847,v1446859482
+2021-04,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,4303184,v1446859484
+2021-04,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,1875474,v1446859527
+2021-04,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,2045205,v1446859528
+2021-04,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,1404619,v1446859529
+2021-04,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,1540464,v1446859530
+2021-04,Shoe retailers [4582],Total retail sales,Unadjusted,228373,v1446859531
+2021-04,Shoe retailers [4582],Total retail sales,Seasonally adjusted,229027,v1446859532
+2021-04,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1035408,v1446859537
+2021-04,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1097730,v1446859538
+2021-05,Retail trade [44-45],Total retail sales,Unadjusted,61924347,v1446859481
+2021-05,Retail trade [44-45],Total retail sales,Seasonally adjusted,57034665,v1446859483
+2021-05,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4521780,v1446859482
+2021-05,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,4226917,v1446859484
+2021-05,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,1919045,v1446859527
+2021-05,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,1875286,v1446859528
+2021-05,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,1422544,v1446859529
+2021-05,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,1407612,v1446859530
+2021-05,Shoe retailers [4582],Total retail sales,Unadjusted,239920,v1446859531
+2021-05,Shoe retailers [4582],Total retail sales,Seasonally adjusted,218732,v1446859532
+2021-05,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1059805,v1446859537
+2021-05,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1107841,v1446859538
+2021-06,Retail trade [44-45],Total retail sales,Unadjusted,64177059,v1446859481
+2021-06,Retail trade [44-45],Total retail sales,Seasonally adjusted,59665182,v1446859483
+2021-06,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4049615,v1446859482
+2021-06,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,4021110,v1446859484
+2021-06,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2824299,v1446859527
+2021-06,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,2872325,v1446859528
+2021-06,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2232037,v1446859529
+2021-06,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2267984,v1446859530
+2021-06,Shoe retailers [4582],Total retail sales,Unadjusted,319646,v1446859531
+2021-06,Shoe retailers [4582],Total retail sales,Seasonally adjusted,313383,v1446859532
+2021-06,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1338017,v1446859537
+2021-06,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1362543,v1446859538
+2021-07,Retail trade [44-45],Total retail sales,Unadjusted,64020350,v1446859481
+2021-07,Retail trade [44-45],Total retail sales,Seasonally adjusted,60202542,v1446859483
+2021-07,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3026181,v1446859482
+2021-07,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3412827,v1446859484
+2021-07,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3172515,v1446859527
+2021-07,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3220583,v1446859528
+2021-07,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2453705,v1446859529
+2021-07,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2477322,v1446859530
+2021-07,Shoe retailers [4582],Total retail sales,Unadjusted,360760,v1446859531
+2021-07,Shoe retailers [4582],Total retail sales,Seasonally adjusted,354053,v1446859532
+2021-07,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1355407,v1446859537
+2021-07,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1344913,v1446859538
+2021-08,Retail trade [44-45],Total retail sales,Unadjusted,62764078,v1446859481
+2021-08,Retail trade [44-45],Total retail sales,Seasonally adjusted,61117315,v1446859483
+2021-08,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3201736,v1446859482
+2021-08,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3397592,v1446859484
+2021-08,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3299452,v1446859527
+2021-08,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3302639,v1446859528
+2021-08,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2529971,v1446859529
+2021-08,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2534773,v1446859530
+2021-08,Shoe retailers [4582],Total retail sales,Unadjusted,381011,v1446859531
+2021-08,Shoe retailers [4582],Total retail sales,Seasonally adjusted,351936,v1446859532
+2021-08,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1306119,v1446859537
+2021-08,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1254836,v1446859538
+2021-09,Retail trade [44-45],Total retail sales,Unadjusted,61317147,v1446859481
+2021-09,Retail trade [44-45],Total retail sales,Seasonally adjusted,60798116,v1446859483
+2021-09,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3421731,v1446859482
+2021-09,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3500147,v1446859484
+2021-09,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3130861,v1446859527
+2021-09,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3219391,v1446859528
+2021-09,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2427909,v1446859529
+2021-09,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2472033,v1446859530
+2021-09,Shoe retailers [4582],Total retail sales,Unadjusted,351853,v1446859531
+2021-09,Shoe retailers [4582],Total retail sales,Seasonally adjusted,349557,v1446859532
+2021-09,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1282344,v1446859537
+2021-09,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1310748,v1446859538
+2021-10,Retail trade [44-45],Total retail sales,Unadjusted,62954882,v1446859481
+2021-10,Retail trade [44-45],Total retail sales,Seasonally adjusted,61717971,v1446859483
+2021-10,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3525996,v1446859482
+2021-10,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3560659,v1446859484
+2021-10,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3330211,v1446859527
+2021-10,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3257748,v1446859528
+2021-10,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2645849,v1446859529
+2021-10,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2539370,v1446859530
+2021-10,Shoe retailers [4582],Total retail sales,Unadjusted,341672,v1446859531
+2021-10,Shoe retailers [4582],Total retail sales,Seasonally adjusted,343306,v1446859532
+2021-10,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1303863,v1446859537
+2021-10,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1369206,v1446859538
+2021-11,Retail trade [44-45],Total retail sales,Unadjusted,64036645,v1446859481
+2021-11,Retail trade [44-45],Total retail sales,Seasonally adjusted,62372150,v1446859483
+2021-11,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4519610,v1446859482
+2021-11,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3507179,v1446859484
+2021-11,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3901440,v1446859527
+2021-11,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3303403,v1446859528
+2021-11,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,3049385,v1446859529
+2021-11,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2571658,v1446859530
+2021-11,Shoe retailers [4582],Total retail sales,Unadjusted,391720,v1446859531
+2021-11,Shoe retailers [4582],Total retail sales,Seasonally adjusted,333549,v1446859532
+2021-11,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1584609,v1446859537
+2021-11,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1383213,v1446859538
+2021-12,Retail trade [44-45],Total retail sales,Unadjusted,64425003,v1446859481
+2021-12,Retail trade [44-45],Total retail sales,Seasonally adjusted,61335552,v1446859483
+2021-12,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4535228,v1446859482
+2021-12,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3400846,v1446859484
+2021-12,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,4483771,v1446859527
+2021-12,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3089135,v1446859528
+2021-12,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,3316066,v1446859529
+2021-12,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2361719,v1446859530
+2021-12,Shoe retailers [4582],Total retail sales,Unadjusted,422010,v1446859531
+2021-12,Shoe retailers [4582],Total retail sales,Seasonally adjusted,334331,v1446859532
+2021-12,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1905219,v1446859537
+2021-12,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1244286,v1446859538
+2022-01,Retail trade [44-45],Total retail sales,Unadjusted,51876401,v1446859481
+2022-01,Retail trade [44-45],Total retail sales,Seasonally adjusted,62902231,v1446859483
+2022-01,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3147337,v1446859482
+2022-01,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3518778,v1446859484
+2022-01,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2048861,v1446859527
+2022-01,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,2925597,v1446859528
+2022-01,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,1602796,v1446859529
+2022-01,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2239799,v1446859530
+2022-01,Shoe retailers [4582],Total retail sales,Unadjusted,188123,v1446859531
+2022-01,Shoe retailers [4582],Total retail sales,Seasonally adjusted,290709,v1446859532
+2022-01,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1049214,v1446859537
+2022-01,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1301451,v1446859538
+2022-02,Retail trade [44-45],Total retail sales,Unadjusted,51421620,v1446859481
+2022-02,Retail trade [44-45],Total retail sales,Seasonally adjusted,63226183,v1446859483
+2022-02,Retail trade [44-45],Retail e-commerce sales,Unadjusted,2634197,v1446859482
+2022-02,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3281699,v1446859484
+2022-02,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2303454,v1446859527
+2022-02,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3311099,v1446859528
+2022-02,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,1773455,v1446859529
+2022-02,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2587063,v1446859530
+2022-02,Shoe retailers [4582],Total retail sales,Unadjusted,203134,v1446859531
+2022-02,Shoe retailers [4582],Total retail sales,Seasonally adjusted,326799,v1446859532
+2022-02,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1018310,v1446859537
+2022-02,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1368570,v1446859538
+2022-03,Retail trade [44-45],Total retail sales,Unadjusted,62690640,v1446859481
+2022-03,Retail trade [44-45],Total retail sales,Seasonally adjusted,64010320,v1446859483
+2022-03,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3068036,v1446859482
+2022-03,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3279951,v1446859484
+2022-03,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2943980,v1446859527
+2022-03,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3398285,v1446859528
+2022-03,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2297992,v1446859529
+2022-03,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2640499,v1446859530
+2022-03,Shoe retailers [4582],Total retail sales,Unadjusted,304656,v1446859531
+2022-03,Shoe retailers [4582],Total retail sales,Seasonally adjusted,352777,v1446859532
+2022-03,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1243946,v1446859537
+2022-03,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1389246,v1446859538
+2022-04,Retail trade [44-45],Total retail sales,Unadjusted,64255558,v1446859481
+2022-04,Retail trade [44-45],Total retail sales,Seasonally adjusted,64083589,v1446859483
+2022-04,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3248766,v1446859482
+2022-04,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3379302,v1446859484
+2022-04,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3102202,v1446859527
+2022-04,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3316666,v1446859528
+2022-04,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2383231,v1446859529
+2022-04,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2559251,v1446859530
+2022-04,Shoe retailers [4582],Total retail sales,Unadjusted,346692,v1446859531
+2022-04,Shoe retailers [4582],Total retail sales,Seasonally adjusted,347230,v1446859532
+2022-04,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1320600,v1446859537
+2022-04,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1396676,v1446859538
+2022-05,Retail trade [44-45],Total retail sales,Unadjusted,71452155,v1446859481
+2022-05,Retail trade [44-45],Total retail sales,Seasonally adjusted,65991852,v1446859483
+2022-05,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3858894,v1446859482
+2022-05,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3640416,v1446859484
+2022-05,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3511417,v1446859527
+2022-05,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3430402,v1446859528
+2022-05,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2710763,v1446859529
+2022-05,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2675137,v1446859530
+2022-05,Shoe retailers [4582],Total retail sales,Unadjusted,410900,v1446859531
+2022-05,Shoe retailers [4582],Total retail sales,Seasonally adjusted,380940,v1446859532
+2022-05,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1328479,v1446859537
+2022-05,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1395704,v1446859538
+2022-06,Retail trade [44-45],Total retail sales,Unadjusted,71522092,v1446859481
+2022-06,Retail trade [44-45],Total retail sales,Seasonally adjusted,66813170,v1446859483
+2022-06,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3834021,v1446859482
+2022-06,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3855439,v1446859484
+2022-06,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3489568,v1446859527
+2022-06,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3497328,v1446859528
+2022-06,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2702057,v1446859529
+2022-06,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2703591,v1446859530
+2022-06,Shoe retailers [4582],Total retail sales,Unadjusted,393466,v1446859531
+2022-06,Shoe retailers [4582],Total retail sales,Seasonally adjusted,384064,v1446859532
+2022-06,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1390489,v1446859537
+2022-06,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1404864,v1446859538
+2022-07,Retail trade [44-45],Total retail sales,Unadjusted,68035219,v1446859481
+2022-07,Retail trade [44-45],Total retail sales,Seasonally adjusted,64911949,v1446859483
+2022-07,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3116435,v1446859482
+2022-07,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3533141,v1446859484
+2022-07,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3335977,v1446859527
+2022-07,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3382912,v1446859528
+2022-07,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2619464,v1446859529
+2022-07,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2644004,v1446859530
+2022-07,Shoe retailers [4582],Total retail sales,Unadjusted,346723,v1446859531
+2022-07,Shoe retailers [4582],Total retail sales,Seasonally adjusted,342593,v1446859532
+2022-07,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1360132,v1446859537
+2022-07,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1381576,v1446859538
+2022-08,Retail trade [44-45],Total retail sales,Unadjusted,68026414,v1446859481
+2022-08,Retail trade [44-45],Total retail sales,Seasonally adjusted,65182272,v1446859483
+2022-08,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3540308,v1446859482
+2022-08,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3806625,v1446859484
+2022-08,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3459531,v1446859527
+2022-08,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3407842,v1446859528
+2022-08,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2680559,v1446859529
+2022-08,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2646413,v1446859530
+2022-08,Shoe retailers [4582],Total retail sales,Unadjusted,402619,v1446859531
+2022-08,Shoe retailers [4582],Total retail sales,Seasonally adjusted,368670,v1446859532
+2022-08,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1502664,v1446859537
+2022-08,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1431631,v1446859538
+2022-09,Retail trade [44-45],Total retail sales,Unadjusted,65515662,v1446859481
+2022-09,Retail trade [44-45],Total retail sales,Seasonally adjusted,64874350,v1446859483
+2022-09,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3555420,v1446859482
+2022-09,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3657586,v1446859484
+2022-09,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3487361,v1446859527
+2022-09,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3496669,v1446859528
+2022-09,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2719189,v1446859529
+2022-09,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2705131,v1446859530
+2022-09,Shoe retailers [4582],Total retail sales,Unadjusted,401355,v1446859531
+2022-09,Shoe retailers [4582],Total retail sales,Seasonally adjusted,396127,v1446859532
+2022-09,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1390335,v1446859537
+2022-09,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1417611,v1446859538
+2022-10,Retail trade [44-45],Total retail sales,Unadjusted,66299272,v1446859481
+2022-10,Retail trade [44-45],Total retail sales,Seasonally adjusted,65505091,v1446859483
+2022-10,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3460299,v1446859482
+2022-10,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3510933,v1446859484
+2022-10,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3492522,v1446859527
+2022-10,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3433360,v1446859528
+2022-10,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2765998,v1446859529
+2022-10,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2665304,v1446859530
+2022-10,Shoe retailers [4582],Total retail sales,Unadjusted,374954,v1446859531
+2022-10,Shoe retailers [4582],Total retail sales,Seasonally adjusted,385190,v1446859532
+2022-10,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1324331,v1446859537
+2022-10,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1393167,v1446859538
+2022-11,Retail trade [44-45],Total retail sales,Unadjusted,67944525,v1446859481
+2022-11,Retail trade [44-45],Total retail sales,Seasonally adjusted,65322241,v1446859483
+2022-11,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4499923,v1446859482
+2022-11,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3524832,v1446859484
+2022-11,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,4193921,v1446859527
+2022-11,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3425448,v1446859528
+2022-11,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,3284026,v1446859529
+2022-11,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2656257,v1446859530
+2022-11,Shoe retailers [4582],Total retail sales,Unadjusted,473374,v1446859531
+2022-11,Shoe retailers [4582],Total retail sales,Seasonally adjusted,393154,v1446859532
+2022-11,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1586420,v1446859537
+2022-11,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1389535,v1446859538
+2022-12,Retail trade [44-45],Total retail sales,Unadjusted,68507725,v1446859481
+2022-12,Retail trade [44-45],Total retail sales,Seasonally adjusted,64724032,v1446859483
+2022-12,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4425564,v1446859482
+2022-12,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3400497,v1446859484
+2022-12,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,5068182,v1446859527
+2022-12,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3411365,v1446859528
+2022-12,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,3815462,v1446859529
+2022-12,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2632546,v1446859530
+2022-12,Shoe retailers [4582],Total retail sales,Unadjusted,526686,v1446859531
+2022-12,Shoe retailers [4582],Total retail sales,Seasonally adjusted,404429,v1446859532
+2022-12,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,2166462,v1446859537
+2022-12,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1411349,v1446859538
+2023-01,Retail trade [44-45],Total retail sales,Unadjusted,55163361,v1446859481
+2023-01,Retail trade [44-45],Total retail sales,Seasonally adjusted,66337030,v1446859483
+2023-01,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3112444,v1446859482
+2023-01,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3501939,v1446859484
+2023-01,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2427484,v1446859527
+2023-01,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3455216,v1446859528
+2023-01,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,1927205,v1446859529
+2023-01,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2689109,v1446859530
+2023-01,Shoe retailers [4582],Total retail sales,Unadjusted,268579,v1446859531
+2023-01,Shoe retailers [4582],Total retail sales,Seasonally adjusted,414828,v1446859532
+2023-01,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1185430,v1446859537
+2023-01,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1478540,v1446859538
+2023-02,Retail trade [44-45],Total retail sales,Unadjusted,53718424,v1446859481
+2023-02,Retail trade [44-45],Total retail sales,Seasonally adjusted,65393717,v1446859483
+2023-02,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3021990,v1446859482
+2023-02,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3769070,v1446859484
+2023-02,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2481175,v1446859527
+2023-02,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3524761,v1446859528
+2023-02,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,1897594,v1446859529
+2023-02,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2721027,v1446859530
+2023-02,Shoe retailers [4582],Total retail sales,Unadjusted,256330,v1446859531
+2023-02,Shoe retailers [4582],Total retail sales,Seasonally adjusted,409062,v1446859532
+2023-02,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1053737,v1446859537
+2023-02,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1413165,v1446859538
+2023-03,Retail trade [44-45],Total retail sales,Unadjusted,64501096,v1446859481
+2023-03,Retail trade [44-45],Total retail sales,Seasonally adjusted,65151898,v1446859483
+2023-03,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3634833,v1446859482
+2023-03,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3896372,v1446859484
+2023-03,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3102488,v1446859527
+2023-03,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3527188,v1446859528
+2023-03,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2407499,v1446859529
+2023-03,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2726173,v1446859530
+2023-03,Shoe retailers [4582],Total retail sales,Unadjusted,353610,v1446859531
+2023-03,Shoe retailers [4582],Total retail sales,Seasonally adjusted,402022,v1446859532
+2023-03,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1248589,v1446859537
+2023-03,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1380403,v1446859538
+2023-04,Retail trade [44-45],Total retail sales,Unadjusted,64838369,v1446859481
+2023-04,Retail trade [44-45],Total retail sales,Seasonally adjusted,65543626,v1446859483
+2023-04,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3435243,v1446859482
+2023-04,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3567549,v1446859484
+2023-04,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3354056,v1446859527
+2023-04,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3566401,v1446859528
+2023-04,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2564162,v1446859529
+2023-04,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2733521,v1446859530
+2023-04,Shoe retailers [4582],Total retail sales,Unadjusted,432673,v1446859531
+2023-04,Shoe retailers [4582],Total retail sales,Seasonally adjusted,429231,v1446859532
+2023-04,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1324915,v1446859537
+2023-04,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1393374,v1446859538
+2023-05,Retail trade [44-45],Total retail sales,Unadjusted,72465329,v1446859481
+2023-05,Retail trade [44-45],Total retail sales,Seasonally adjusted,65912418,v1446859483
+2023-05,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3937784,v1446859482
+2023-05,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3732844,v1446859484
+2023-05,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3653592,v1446859527
+2023-05,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3546932,v1446859528
+2023-05,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2780342,v1446859529
+2023-05,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2727033,v1446859530
+2023-05,Shoe retailers [4582],Total retail sales,Unadjusted,453956,v1446859531
+2023-05,Shoe retailers [4582],Total retail sales,Seasonally adjusted,413206,v1446859532
+2023-05,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1332476,v1446859537
+2023-05,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1367041,v1446859538
+2023-06,Retail trade [44-45],Total retail sales,Unadjusted,70863412,v1446859481
+2023-06,Retail trade [44-45],Total retail sales,Seasonally adjusted,65999226,v1446859483
+2023-06,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3833102,v1446859482
+2023-06,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3863030,v1446859484
+2023-06,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3511642,v1446859527
+2023-06,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3477645,v1446859528
+2023-06,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2701308,v1446859529
+2023-06,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2674517,v1446859530
+2023-06,Shoe retailers [4582],Total retail sales,Unadjusted,429341,v1446859531
+2023-06,Shoe retailers [4582],Total retail sales,Seasonally adjusted,407961,v1446859532
+2023-06,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1351952,v1446859537
+2023-06,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1348400,v1446859538
+2023-07,Retail trade [44-45],Total retail sales,Unadjusted,68124865,v1446859481
+2023-07,Retail trade [44-45],Total retail sales,Seasonally adjusted,65934437,v1446859483
+2023-07,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3356461,v1446859482
+2023-07,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3753400,v1446859484
+2023-07,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3411564,v1446859527
+2023-07,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3520019,v1446859528
+2023-07,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2608757,v1446859529
+2023-07,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2682888,v1446859530
+2023-07,Shoe retailers [4582],Total retail sales,Unadjusted,429164,v1446859531
+2023-07,Shoe retailers [4582],Total retail sales,Seasonally adjusted,427982,v1446859532
+2023-07,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1362632,v1446859537
+2023-07,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1379058,v1446859538
+2023-08,Retail trade [44-45],Total retail sales,Unadjusted,69487092,v1446859481
+2023-08,Retail trade [44-45],Total retail sales,Seasonally adjusted,65928521,v1446859483
+2023-08,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3562850,v1446859482
+2023-08,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3819179,v1446859484
+2023-08,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3630700,v1446859527
+2023-08,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3470214,v1446859528
+2023-08,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2786911,v1446859529
+2023-08,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2668306,v1446859530
+2023-08,Shoe retailers [4582],Total retail sales,Unadjusted,461570,v1446859531
+2023-08,Shoe retailers [4582],Total retail sales,Seasonally adjusted,400051,v1446859532
+2023-08,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1478482,v1446859537
+2023-08,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1368267,v1446859538
+2023-09,Retail trade [44-45],Total retail sales,Unadjusted,67179240,v1446859481
+2023-09,Retail trade [44-45],Total retail sales,Seasonally adjusted,66731505,v1446859483
+2023-09,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3762770,v1446859482
+2023-09,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3859893,v1446859484
+2023-09,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3453087,v1446859527
+2023-09,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3442303,v1446859528
+2023-09,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2702293,v1446859529
+2023-09,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2671474,v1446859530
+2023-09,Shoe retailers [4582],Total retail sales,Unadjusted,411459,v1446859531
+2023-09,Shoe retailers [4582],Total retail sales,Seasonally adjusted,402393,v1446859532
+2023-09,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1333103,v1446859537
+2023-09,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1334855,v1446859538
+2023-10,Retail trade [44-45],Total retail sales,Unadjusted,67675476,v1446859481
+2023-10,Retail trade [44-45],Total retail sales,Seasonally adjusted,66669491,v1446859483
+2023-10,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3799403,v1446859482
+2023-10,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3824462,v1446859484
+2023-10,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3526887,v1446859527
+2023-10,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3524439,v1446859528
+2023-10,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2763210,v1446859529
+2023-10,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2709155,v1446859530
+2023-10,Shoe retailers [4582],Total retail sales,Unadjusted,414611,v1446859531
+2023-10,Shoe retailers [4582],Total retail sales,Seasonally adjusted,426117,v1446859532
+2023-10,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1284965,v1446859537
+2023-10,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1358951,v1446859538
+2023-11,Retail trade [44-45],Total retail sales,Unadjusted,69242876,v1446859481
+2023-11,Retail trade [44-45],Total retail sales,Seasonally adjusted,66440630,v1446859483
+2023-11,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4935028,v1446859482
+2023-11,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3860956,v1446859484
+2023-11,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,4410504,v1446859527
+2023-11,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3552414,v1446859528
+2023-11,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,3434886,v1446859529
+2023-11,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2733757,v1446859530
+2023-11,Shoe retailers [4582],Total retail sales,Unadjusted,507809,v1446859531
+2023-11,Shoe retailers [4582],Total retail sales,Seasonally adjusted,411211,v1446859532
+2023-11,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1592629,v1446859537
+2023-11,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1381162,v1446859538
+2023-12,Retail trade [44-45],Total retail sales,Unadjusted,69109518,v1446859481
+2023-12,Retail trade [44-45],Total retail sales,Seasonally adjusted,66326559,v1446859483
+2023-12,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4684495,v1446859482
+2023-12,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,3627709,v1446859484
+2023-12,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,5111220,v1446859527
+2023-12,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3466866,v1446859528
+2023-12,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,3811832,v1446859529
+2023-12,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2649040,v1446859530
+2023-12,Shoe retailers [4582],Total retail sales,Unadjusted,534356,v1446859531
+2023-12,Shoe retailers [4582],Total retail sales,Seasonally adjusted,409394,v1446859532
+2023-12,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1967533,v1446859537
+2023-12,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1313226,v1446859538
+2024-01,Retail trade [44-45],Total retail sales,Unadjusted,56795411,v1446859481
+2024-01,Retail trade [44-45],Total retail sales,Seasonally adjusted,67090062,v1446859483
+2024-01,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4015605,v1446859482
+2024-01,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,4527838,v1446859484
+2024-01,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2429369,v1446859527
+2024-01,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3471296,v1446859528
+2024-01,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,1893151,v1446859529
+2024-01,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2655817,v1446859530
+2024-01,Shoe retailers [4582],Total retail sales,Unadjusted,272872,v1446859531
+2024-01,Shoe retailers [4582],Total retail sales,Seasonally adjusted,419275,v1446859532
+2024-01,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1052527,v1446859537
+2024-01,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1311381,v1446859538
+2024-02,Retail trade [44-45],Total retail sales,Unadjusted,57401452,v1446859481
+2024-02,Retail trade [44-45],Total retail sales,Seasonally adjusted,67161392,v1446859483
+2024-02,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3712135,v1446859482
+2024-02,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,4625696,v1446859484
+2024-02,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2551951,v1446859527
+2024-02,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3490651,v1446859528
+2024-02,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,1942930,v1446859529
+2024-02,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2681809,v1446859530
+2024-02,Shoe retailers [4582],Total retail sales,Unadjusted,269535,v1446859531
+2024-02,Shoe retailers [4582],Total retail sales,Seasonally adjusted,414351,v1446859532
+2024-02,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1006920,v1446859537
+2024-02,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1308277,v1446859538
+2024-03,Retail trade [44-45],Total retail sales,Unadjusted,64047104,v1446859481
+2024-03,Retail trade [44-45],Total retail sales,Seasonally adjusted,66654941,v1446859483
+2024-03,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4382994,v1446859482
+2024-03,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,4718038,v1446859484
+2024-03,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2988144,v1446859527
+2024-03,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3393147,v1446859528
+2024-03,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2323759,v1446859529
+2024-03,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2625906,v1446859530
+2024-03,Shoe retailers [4582],Total retail sales,Unadjusted,350259,v1446859531
+2024-03,Shoe retailers [4582],Total retail sales,Seasonally adjusted,397642,v1446859532
+2024-03,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1186720,v1446859537
+2024-03,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1325049,v1446859538
+2024-04,Retail trade [44-45],Total retail sales,Unadjusted,67576734,v1446859481
+2024-04,Retail trade [44-45],Total retail sales,Seasonally adjusted,67248485,v1446859483
+2024-04,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4511254,v1446859482
+2024-04,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,4698685,v1446859484
+2024-04,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3211717,v1446859527
+2024-04,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3520403,v1446859528
+2024-04,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2469860,v1446859529
+2024-04,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2719411,v1446859530
+2024-04,Shoe retailers [4582],Total retail sales,Unadjusted,397838,v1446859531
+2024-04,Shoe retailers [4582],Total retail sales,Seasonally adjusted,406643,v1446859532
+2024-04,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1236953,v1446859537
+2024-04,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1328445,v1446859538
+2024-05,Retail trade [44-45],Total retail sales,Unadjusted,73949545,v1446859481
+2024-05,Retail trade [44-45],Total retail sales,Seasonally adjusted,66881905,v1446859483
+2024-05,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4760833,v1446859482
+2024-05,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,4580199,v1446859484
+2024-05,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3642635,v1446859527
+2024-05,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3491243,v1446859528
+2024-05,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2780362,v1446859529
+2024-05,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2700680,v1446859530
+2024-05,Shoe retailers [4582],Total retail sales,Unadjusted,457290,v1446859531
+2024-05,Shoe retailers [4582],Total retail sales,Seasonally adjusted,404773,v1446859532
+2024-05,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1315318,v1446859537
+2024-05,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1326986,v1446859538
+2024-06,Retail trade [44-45],Total retail sales,Unadjusted,69462431,v1446859481
+2024-06,Retail trade [44-45],Total retail sales,Seasonally adjusted,66441657,v1446859483
+2024-06,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4566048,v1446859482
+2024-06,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,4637405,v1446859484
+2024-06,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3492477,v1446859527
+2024-06,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3489545,v1446859528
+2024-06,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2720403,v1446859529
+2024-06,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2708280,v1446859530
+2024-06,Shoe retailers [4582],Total retail sales,Unadjusted,407252,v1446859531
+2024-06,Shoe retailers [4582],Total retail sales,Seasonally adjusted,390108,v1446859532
+2024-06,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1305670,v1446859537
+2024-06,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1314896,v1446859538
+2024-07,Retail trade [44-45],Total retail sales,Unadjusted,70864339,v1446859481
+2024-07,Retail trade [44-45],Total retail sales,Seasonally adjusted,67786847,v1446859483
+2024-07,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4455975,v1446859482
+2024-07,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,4937157,v1446859484
+2024-07,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3407798,v1446859527
+2024-07,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3588207,v1446859528
+2024-07,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2646023,v1446859529
+2024-07,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2780334,v1446859530
+2024-07,Shoe retailers [4582],Total retail sales,Unadjusted,388237,v1446859531
+2024-07,Shoe retailers [4582],Total retail sales,Seasonally adjusted,395028,v1446859532
+2024-07,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1288737,v1446859537
+2024-07,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1330164,v1446859538
+2024-08,Retail trade [44-45],Total retail sales,Unadjusted,70817113,v1446859481
+2024-08,Retail trade [44-45],Total retail sales,Seasonally adjusted,67604219,v1446859483
+2024-08,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4398623,v1446859482
+2024-08,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,4739656,v1446859484
+2024-08,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3830586,v1446859527
+2024-08,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3586257,v1446859528
+2024-08,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2944275,v1446859529
+2024-08,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2771907,v1446859530
+2024-08,Shoe retailers [4582],Total retail sales,Unadjusted,497980,v1446859531
+2024-08,Shoe retailers [4582],Total retail sales,Seasonally adjusted,417533,v1446859532
+2024-08,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1408831,v1446859537
+2024-08,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1306329,v1446859538
+2024-09,Retail trade [44-45],Total retail sales,Unadjusted,66645091,v1446859481
+2024-09,Retail trade [44-45],Total retail sales,Seasonally adjusted,68321269,v1446859483
+2024-09,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4813094,v1446859482
+2024-09,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,4967175,v1446859484
+2024-09,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3440613,v1446859527
+2024-09,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3600933,v1446859528
+2024-09,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2687153,v1446859529
+2024-09,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2786878,v1446859530
+2024-09,Shoe retailers [4582],Total retail sales,Unadjusted,391360,v1446859531
+2024-09,Shoe retailers [4582],Total retail sales,Seasonally adjusted,407674,v1446859532
+2024-09,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1314862,v1446859537
+2024-09,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1334953,v1446859538
+2024-10,Retail trade [44-45],Total retail sales,Unadjusted,71758061,v1446859481
+2024-10,Retail trade [44-45],Total retail sales,Seasonally adjusted,69041870,v1446859483
+2024-10,Retail trade [44-45],Retail e-commerce sales,Unadjusted,5018759,v1446859482
+2024-10,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,5044865,v1446859484
+2024-10,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3709382,v1446859527
+2024-10,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3652821,v1446859528
+2024-10,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2920632,v1446859529
+2024-10,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2826697,v1446859530
+2024-10,Shoe retailers [4582],Total retail sales,Unadjusted,408001,v1446859531
+2024-10,Shoe retailers [4582],Total retail sales,Seasonally adjusted,409636,v1446859532
+2024-10,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1265549,v1446859537
+2024-10,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1331619,v1446859538
+2024-11,Retail trade [44-45],Total retail sales,Unadjusted,71853986,v1446859481
+2024-11,Retail trade [44-45],Total retail sales,Seasonally adjusted,69070294,v1446859483
+2024-11,Retail trade [44-45],Retail e-commerce sales,Unadjusted,6432941,v1446859482
+2024-11,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,5051712,v1446859484
+2024-11,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,4515126,v1446859527
+2024-11,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3578595,v1446859528
+2024-11,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,3518725,v1446859529
+2024-11,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2758591,v1446859530
+2024-11,Shoe retailers [4582],Total retail sales,Unadjusted,509524,v1446859531
+2024-11,Shoe retailers [4582],Total retail sales,Seasonally adjusted,404851,v1446859532
+2024-11,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1478697,v1446859537
+2024-11,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1301438,v1446859538
+2024-12,Retail trade [44-45],Total retail sales,Unadjusted,73022887,v1446859481
+2024-12,Retail trade [44-45],Total retail sales,Seasonally adjusted,70891213,v1446859483
+2024-12,Retail trade [44-45],Retail e-commerce sales,Unadjusted,6503046,v1446859482
+2024-12,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,5042880,v1446859484
+2024-12,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,5450651,v1446859527
+2024-12,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3807353,v1446859528
+2024-12,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,4091238,v1446859529
+2024-12,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2922201,v1446859530
+2024-12,Shoe retailers [4582],Total retail sales,Unadjusted,573485,v1446859531
+2024-12,Shoe retailers [4582],Total retail sales,Seasonally adjusted,456118,v1446859532
+2024-12,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,2072386,v1446859537
+2024-12,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1413634,v1446859538
+2025-01,Retail trade [44-45],Total retail sales,Unadjusted,60525808,v1446859481
+2025-01,Retail trade [44-45],Total retail sales,Seasonally adjusted,70573782,v1446859483
+2025-01,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4414056,v1446859482
+2025-01,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,4980050,v1446859484
+2025-01,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2750373,v1446859527
+2025-01,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3829823,v1446859528
+2025-01,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2169070,v1446859529
+2025-01,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2979986,v1446859530
+2025-01,Shoe retailers [4582],Total retail sales,Unadjusted,271847,v1446859531
+2025-01,Shoe retailers [4582],Total retail sales,Seasonally adjusted,406487,v1446859532
+2025-01,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1094251,v1446859537
+2025-01,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1343871,v1446859538
+2025-02,Retail trade [44-45],Total retail sales,Unadjusted,57311827,v1446859481
+2025-02,Retail trade [44-45],Total retail sales,Seasonally adjusted,69400454,v1446859483
+2025-02,Retail trade [44-45],Retail e-commerce sales,Unadjusted,3985960,v1446859482
+2025-02,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,4951163,v1446859484
+2025-02,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2654436,v1446859527
+2025-02,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3779456,v1446859528
+2025-02,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2031066,v1446859529
+2025-02,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2928772,v1446859530
+2025-02,Shoe retailers [4582],Total retail sales,Unadjusted,245258,v1446859531
+2025-02,Shoe retailers [4582],Total retail sales,Seasonally adjusted,398687,v1446859532
+2025-02,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,966370,v1446859537
+2025-02,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1326141,v1446859538
+2025-03,Retail trade [44-45],Total retail sales,Unadjusted,67399909,v1446859481
+2025-03,Retail trade [44-45],Total retail sales,Seasonally adjusted,70269650,v1446859483
+2025-03,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4510425,v1446859482
+2025-03,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,4843867,v1446859484
+2025-03,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3326329,v1446859527
+2025-03,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3847933,v1446859528
+2025-03,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2608807,v1446859529
+2025-03,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,3001902,v1446859530
+2025-03,Shoe retailers [4582],Total retail sales,Unadjusted,347636,v1446859531
+2025-03,Shoe retailers [4582],Total retail sales,Seasonally adjusted,408671,v1446859532
+2025-03,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1210766,v1446859537
+2025-03,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1356270,v1446859538
+2025-04,Retail trade [44-45],Total retail sales,Unadjusted,71181787,v1446859481
+2025-04,Retail trade [44-45],Total retail sales,Seasonally adjusted,70413365,v1446859483
+2025-04,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4881056,v1446859482
+2025-04,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,5043638,v1446859484
+2025-04,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3481840,v1446859527
+2025-04,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3780812,v1446859528
+2025-04,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2711049,v1446859529
+2025-04,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2953541,v1446859530
+2025-04,Shoe retailers [4582],Total retail sales,Unadjusted,392580,v1446859531
+2025-04,Shoe retailers [4582],Total retail sales,Seasonally adjusted,395701,v1446859532
+2025-04,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1252909,v1446859537
+2025-04,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1347031,v1446859538
+2025-05,Retail trade [44-45],Total retail sales,Unadjusted,76831848,v1446859481
+2025-05,Retail trade [44-45],Total retail sales,Seasonally adjusted,69612679,v1446859483
+2025-05,Retail trade [44-45],Retail e-commerce sales,Unadjusted,5047085,v1446859482
+2025-05,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,4873856,v1446859484
+2025-05,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3989721,v1446859527
+2025-05,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3776537,v1446859528
+2025-05,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,3062895,v1446859529
+2025-05,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,2941856,v1446859530
+2025-05,Shoe retailers [4582],Total retail sales,Unadjusted,457016,v1446859531
+2025-05,Shoe retailers [4582],Total retail sales,Seasonally adjusted,399279,v1446859532
+2025-05,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1405309,v1446859537
+2025-05,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1385292,v1446859538
+2025-06,Retail trade [44-45],Total retail sales,Unadjusted,73174736,v1446859481
+2025-06,Retail trade [44-45],Total retail sales,Seasonally adjusted,70579225,v1446859483
+2025-06,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4743938,v1446859482
+2025-06,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,4823340,v1446859484
+2025-06,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3855774,v1446859527
+2025-06,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3955901,v1446859528
+2025-06,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,3026321,v1446859529
+2025-06,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,3099042,v1446859530
+2025-06,Shoe retailers [4582],Total retail sales,Unadjusted,426031,v1446859531
+2025-06,Shoe retailers [4582],Total retail sales,Seasonally adjusted,422618,v1446859532
+2025-06,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1390960,v1446859537
+2025-06,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1400874,v1446859538
+2025-07,Retail trade [44-45],Total retail sales,Unadjusted,74134516,v1446859481
+2025-07,Retail trade [44-45],Total retail sales,Seasonally adjusted,70134576,v1446859483
+2025-07,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4757926,v1446859482
+2025-07,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,5183994,v1446859484
+2025-07,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3778870,v1446859527
+2025-07,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3882458,v1446859528
+2025-07,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2963336,v1446859529
+2025-07,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,3037965,v1446859530
+2025-07,Shoe retailers [4582],Total retail sales,Unadjusted,410732,v1446859531
+2025-07,Shoe retailers [4582],Total retail sales,Seasonally adjusted,407590,v1446859532
+2025-07,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1341729,v1446859537
+2025-07,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1362592,v1446859538
+2025-08,Retail trade [44-45],Total retail sales,Unadjusted,73046640,v1446859481
+2025-08,Retail trade [44-45],Total retail sales,Seasonally adjusted,70780386,v1446859483
+2025-08,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4561453,v1446859482
+2025-08,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,4900198,v1446859484
+2025-08,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,4249940,v1446859527
+2025-08,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3990822,v1446859528
+2025-08,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,3308997,v1446859529
+2025-08,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,3120236,v1446859530
+2025-08,Shoe retailers [4582],Total retail sales,Unadjusted,507992,v1446859531
+2025-08,Shoe retailers [4582],Total retail sales,Seasonally adjusted,425688,v1446859532
+2025-08,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1479001,v1446859537
+2025-08,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1388891,v1446859538
+2025-09,Retail trade [44-45],Total retail sales,Unadjusted,69561507,v1446859481
+2025-09,Retail trade [44-45],Total retail sales,Seasonally adjusted,70059094,v1446859483
+2025-09,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4683201,v1446859482
+2025-09,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,4828931,v1446859484
+2025-09,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3815150,v1446859527
+2025-09,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3958563,v1446859528
+2025-09,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,3020741,v1446859529
+2025-09,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,3104656,v1446859530
+2025-09,Shoe retailers [4582],Total retail sales,Unadjusted,386279,v1446859531
+2025-09,Shoe retailers [4582],Total retail sales,Seasonally adjusted,403919,v1446859532
+2025-09,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1407219,v1446859537
+2025-09,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1402292,v1446859538
+2025-10,Retail trade [44-45],Total retail sales,Unadjusted,73101615,v1446859481
+2025-10,Retail trade [44-45],Total retail sales,Seasonally adjusted,70112774,v1446859483
+2025-10,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4934131,v1446859482
+2025-10,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,4930486,v1446859484
+2025-10,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3991731,v1446859527
+2025-10,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3916092,v1446859528
+2025-10,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,3161934,v1446859529
+2025-10,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,3061533,v1446859530
+2025-10,Shoe retailers [4582],Total retail sales,Unadjusted,400665,v1446859531
+2025-10,Shoe retailers [4582],Total retail sales,Seasonally adjusted,400362,v1446859532
+2025-10,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1303351,v1446859537
+2025-10,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1372977,v1446859538
+2025-11,Retail trade [44-45],Total retail sales,Unadjusted,72845874,v1446859481
+2025-11,Retail trade [44-45],Total retail sales,Seasonally adjusted,70985144,v1446859483
+2025-11,Retail trade [44-45],Retail e-commerce sales,Unadjusted,6150939,v1446859482
+2025-11,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,4826915,v1446859484
+2025-11,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,5023361,v1446859527
+2025-11,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3988159,v1446859528
+2025-11,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,3987667,v1446859529
+2025-11,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,3127205,v1446859530
+2025-11,Shoe retailers [4582],Total retail sales,Unadjusted,528099,v1446859531
+2025-11,Shoe retailers [4582],Total retail sales,Seasonally adjusted,420568,v1446859532
+2025-11,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1555615,v1446859537
+2025-11,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1377744,v1446859538
+2025-12,Retail trade [44-45],Total retail sales,Unadjusted,74513803,v1446859481
+2025-12,Retail trade [44-45],Total retail sales,Seasonally adjusted,70708740,v1446859483
+2025-12,Retail trade [44-45],Retail e-commerce sales,Unadjusted,6569253,v1446859482
+2025-12,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,5052983,v1446859484
+2025-12,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,5796449,v1446859527
+2025-12,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,4007421,v1446859528
+2025-12,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,4441116,v1446859529
+2025-12,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,3136305,v1446859530
+2025-12,Shoe retailers [4582],Total retail sales,Unadjusted,550246,v1446859531
+2025-12,Shoe retailers [4582],Total retail sales,Seasonally adjusted,434812,v1446859532
+2025-12,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,2040558,v1446859537
+2025-12,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1384063,v1446859538
+2026-01,Retail trade [44-45],Total retail sales,Unadjusted,61583860,v1446859481
+2026-01,Retail trade [44-45],Total retail sales,Seasonally adjusted,71650547,v1446859483
+2026-01,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4521777,v1446859482
+2026-01,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,5096915,v1446859484
+2026-01,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2862813,v1446859527
+2026-01,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3912666,v1446859528
+2026-01,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2259019,v1446859529
+2026-01,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,3053344,v1446859530
+2026-01,Shoe retailers [4582],Total retail sales,Unadjusted,267969,v1446859531
+2026-01,Shoe retailers [4582],Total retail sales,Seasonally adjusted,392388,v1446859532
+2026-01,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1161399,v1446859537
+2026-01,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1404006,v1446859538
+2026-02,Retail trade [44-45],Total retail sales,Unadjusted,59716252,v1446859481
+2026-02,Retail trade [44-45],Total retail sales,Seasonally adjusted,72053890,v1446859483
+2026-02,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4052475,v1446859482
+2026-02,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,5042563,v1446859484
+2026-02,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,2778825,v1446859527
+2026-02,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3952355,v1446859528
+2026-02,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2159495,v1446859529
+2026-02,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,3109579,v1446859530
+2026-02,Shoe retailers [4582],Total retail sales,Unadjusted,246104,v1446859531
+2026-02,Shoe retailers [4582],Total retail sales,Seasonally adjusted,398271,v1446859532
+2026-02,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1052693,v1446859537
+2026-02,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1425389,v1446859538
+2026-03,Retail trade [44-45],Total retail sales,Unadjusted,70067715,v1446859481
+2026-03,Retail trade [44-45],Total retail sales,Seasonally adjusted,72725905,v1446859483
+2026-03,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4886046,v1446859482
+2026-03,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,5259301,v1446859484
+2026-03,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3415147,v1446859527
+2026-03,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,4006905,v1446859528
+2026-03,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2692397,v1446859529
+2026-03,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,3139135,v1446859530
+2026-03,Shoe retailers [4582],Total retail sales,Unadjusted,326897,v1446859531
+2026-03,Shoe retailers [4582],Total retail sales,Seasonally adjusted,394814,v1446859532
+2026-03,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1252357,v1446859537
+2026-03,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1422352,v1446859538
+2026-04,Retail trade [44-45],Total retail sales,Unadjusted,73338373,v1446859481
+2026-04,Retail trade [44-45],Total retail sales,Seasonally adjusted,73018478,v1446859483
+2026-04,Retail trade [44-45],Retail e-commerce sales,Unadjusted,4984643,v1446859482
+2026-04,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,5187686,v1446859484
+2026-04,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,3631093,v1446859527
+2026-04,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,3983467,v1446859528
+2026-04,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,2838275,v1446859529
+2026-04,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,3121947,v1446859530
+2026-04,Shoe retailers [4582],Total retail sales,Unadjusted,388820,v1446859531
+2026-04,Shoe retailers [4582],Total retail sales,Seasonally adjusted,394626,v1446859532
+2026-04,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1318047,v1446859537
+2026-04,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1415437,v1446859538
+2026-05,Retail trade [44-45],Total retail sales,Unadjusted,79927499,v1446859481
+2026-05,Retail trade [44-45],Total retail sales,Seasonally adjusted,73779725,v1446859483
+2026-05,Retail trade [44-45],Retail e-commerce sales,Unadjusted,5243242,v1446859482
+2026-05,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,5188013,v1446859484
+2026-05,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,4176238,v1446859527
+2026-05,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,4042651,v1446859528
+2026-05,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,3226679,v1446859529
+2026-05,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,3161963,v1446859530
+2026-05,Shoe retailers [4582],Total retail sales,Unadjusted,445440,v1446859531
+2026-05,Shoe retailers [4582],Total retail sales,Seasonally adjusted,397680,v1446859532
+2026-05,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1465930,v1446859537
+2026-05,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1441685,v1446859538
+2026-06,Retail trade [44-45],Total retail sales,Unadjusted,78475890,v1446859481
+2026-06,Retail trade [44-45],Total retail sales,Seasonally adjusted,74245528,v1446859483
+2026-06,Retail trade [44-45],Retail e-commerce sales,Unadjusted,5706625,v1446859482
+2026-06,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,5693179,v1446859484
+2026-06,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,4152844,v1446859527
+2026-06,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,4165509,v1446859528
+2026-06,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,3226800,v1446859529
+2026-06,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,3221831,v1446859530
+2026-06,Shoe retailers [4582],Total retail sales,Unadjusted,427925,v1446859531
+2026-06,Shoe retailers [4582],Total retail sales,Seasonally adjusted,414424,v1446859532
+2026-06,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1445808,v1446859537
+2026-06,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1433086,v1446859538
+2026-07,Retail trade [44-45],Total retail sales,Unadjusted,77817236,v1446859481
+2026-07,Retail trade [44-45],Total retail sales,Seasonally adjusted,73696547,v1446859483
+2026-07,Retail trade [44-45],Retail e-commerce sales,Unadjusted,5084789,v1446859482
+2026-07,Retail trade [44-45],Retail e-commerce sales,Seasonally adjusted,5494482,v1446859484
+2026-07,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Unadjusted,4009038,v1446859527
+2026-07,"Clothing, clothing accessories, shoes, jewellery, luggage and leather goods retailers [458]",Total retail sales,Seasonally adjusted,4114442,v1446859528
+2026-07,Clothing and clothing accessories retailers [4581],Total retail sales,Unadjusted,3125184,v1446859529
+2026-07,Clothing and clothing accessories retailers [4581],Total retail sales,Seasonally adjusted,3205094,v1446859530
+2026-07,Shoe retailers [4582],Total retail sales,Unadjusted,405489,v1446859531
+2026-07,Shoe retailers [4582],Total retail sales,Seasonally adjusted,402858,v1446859532
+2026-07,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Unadjusted,1378937,v1446859537
+2026-07,"Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Total retail sales,Seasonally adjusted,1421552,v1446859538

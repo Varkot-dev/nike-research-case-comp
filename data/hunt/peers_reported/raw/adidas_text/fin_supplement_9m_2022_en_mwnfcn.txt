@@ -1,0 +1,331 @@
+    CONFIDENTIAL
+
+
+
+
+1
+    CONFIDENTIAL
+
+
+
+
+2
+                                     Sept. 30, 2022   Sept. 30, 2021   Change in %   Dec. 31, 2021
+
+Assets
+Cash and cash equivalents                     806            3,603          (77.6)         3,828
+Accounts receivable                         3,240            2,909           11.4          2,175
+Other current financial assets              1,454              832           74.8            745
+Inventories                                 6,315            3,664           72.4          4,009
+Income tax receivables                        112               75           48.6             91
+Other current assets                        1,289            1,092           18.0          1,062
+Assets classified as held for sale              –            1,965           n.a.          2,033
+Total current assets                       13,217           14,142           (6.5)        13,944
+
+
+Property, plant and equipment               2,347            2,102           11.6          2,256
+Right-of-use assets                         2,575            2,454            4.9          2,569
+Goodwill                                    1,318            1,214            8.6          1,228
+Trademarks                                     16               16              –             16
+Other intangible assets                       434              295           46.8            336
+Long-term financial assets                    302              287            5.2            290
+Other non-current financial
+                                              369              181          104.2            160
+assets
+Deferred tax assets                         1,055            1,173          (10.1)         1,263
+Other non-current assets                      117               82           42.5             74
+Total non-current assets                    8,533            7,804            9.3          8,193
+
+
+Total assets                               21,750           21,946           (0.9)        22,137
+
+
+
+
+3
+                                      Sept. 30, 2022   Sept. 30, 2021   Change in %   Dec. 31, 2021
+
+Liabilities and equity
+Short-term borrowings                        1,036               84        1,136.8             29
+Accounts payable                             3,354            1,958           71.3          2,294
+Current lease liabilities                      605              584            3.6            573
+Other current financial liabilities            552              365           51.1            363
+Income taxes                                   622              727          (14.5)           536
+Other current provisions                     1,377            1,443           (4.5)         1,458
+Current accrued liabilities                  2,487            2,484            0.1          2,684
+Other current liabilities                      571              503           13.6            434
+Liabilities classified as held for
+                                                 –              370           n.a.            594
+sale
+Total current liabilities                   10,605            8,517           24.5          8,965
+
+
+Long-term borrowings                         1,958            2,469          (20.7)         2,466
+Non-current lease liabilities                2,341            2,138            9.5          2,263
+Other non-current financial
+                                                44               67          (34.4)            51
+liabilities
+Pensions and similar obligations                81              256          (68.3)           267
+Deferred tax liabilities                        84              345          (75.6)           122
+Other non-current provisions                   100              139          (27.6)           149
+Non-current accrued liabilities                  7                6           13.0              8
+Other non-current liabilities                    9               18          (48.4)             9
+Total non-current liabilities                4,625            5,438         (15.0)          5,334
+
+
+Share capital                                  179              193           (7.2)           192
+Reserves                                       537                0      122,887.6             69
+Retained earnings                            5,387            7,513          (28.3)         7,259
+Shareholders’ equity                         6,103            7,707         (20.8)          7,519
+
+
+Non-controlling interests                      418              284           47.1            318
+
+
+Total equity                                 6,520            7,991         (18.4)          7,837
+
+
+Total liabilities and equity                21,750           21,946           (0.9)        22,137
+
+
+
+
+4
+                                                                                      Nine months       Nine months                       Third quarter     Third quarter
+                                                                                             2022              2021            Change             2022              2021          Change
+
+ Net sales                                                                               17,306            16,096              7.5%             6,408            5,752           11.4%
+ Cost of sales                                                                             8,697            7,851            10.8%              3,262            2,868           13.8%
+ Gross profit                                                                              8,609            8,245              4.4%             3,146            2,884            9.1%
+     (% of net sales)                                                                     49.7%            51.2%            (1.5pp)            49.1%             50.1%          (1.0pp)
+ Royalty and commission income                                                                86                53           63.8%                 36                22          64.2%
+ Other operating income                                                                      133                13          919.5%                 58                  3       1,814.7%
+ Other operating expenses                                                                  7,435            6,391            16.3%              2,676            2,237           19.6%
+     (% of net sales)                                                                     43.0%            39.7%              3.3pp            41.8%             38.9%            2.9pp
+     Marketing and point-of-sale expenses                                                  1,995            1,831              8.9%               691               674           2.5%
+          (% of net sales)                                                                11.5%            11.4%              0.2pp            10.8%             11.7%          (0.9pp)
+     Operating overhead expenses1                                                          5,440            4,560            19.3%              1,985            1,562           27.0%
+          (% of net sales)                                                                31.4%            28.3%              3.1pp            31.0%             27.2%            3.8pp
+ Operating profit                                                                          1,393            1,920          (27.5%)                564               672         (16.0%)
+     (% of net sales)                                                                      8.0%            11.9%            (3.9pp)             8.8%             11.7%          (2.9pp)
+ Financial income                                                                             32                11          189.3%                   8                 6         29.5%
+ Financial expenses                                                                          302              123           145.6%                162                49         228.5%
+ Income before taxes                                                                       1,122            1,808          (37.9%)                411               629         (34.7%)
+     (% of net sales)                                                                      6.5%            11.2%            (4.7pp)             6.4%             10.9%          (4.5pp)
+ Income taxes                                                                                386              439           (12.0%)               345               150         130.4%
+     (% of income before taxes)                                                           34.4%            24.3%            10.1pp             84.1%             23.8%           60.2pp
+ Net income from continuing operations                                                       736            1,369          (46.2%)                 66               479         (86.3%)
+     (% of net sales)                                                                      4.3%              8.5%           (4.3pp)             1.0%              8.3%          (7.3pp)
+ Gain from discontinued operations, net of tax                                               415              576           (28.0%)               286               504         (43.2%)
+ Net income                                                                                1,151            1,945          (40.8 %)               352               984        (64.2 %)
+     (% of net sales)                                                                      6.7%            12.1%            (5.4pp)             5.5%             17.1%         (11.6pp)
+ Net income attributable to shareholders                                                   1,124            1,915          (41.3%)                347               960         (63.8%)
+     (% of net sales)                                                                      6.5%            11.9%            (5.4pp)             5.4%             16.7%         (11.3pp)
+ Net income attributable to non-controlling interests                                         27                31         (10.9%)                   5               24         (81.0%)
+
+
+ Basic earnings per share from continuing operations (in €)                                 3.83              6.87          (44.2%)              0.34              2.34         (85.7%)
+ Diluted earnings per share from continuing operations (in €)                               3.83              6.87          (44.2%)              0.34              2.34         (85.7%)
+
+
+ Basic earnings per share from continuing and discontinued
+                                                                                            6.08              9.83          (38.1%)              1.91              4.94         (61.3%)
+ operations (in €)
+ Diluted earnings per share from continuing and discontinued
+                                                                                            6.08              9.83          (38.1%)              1.91              4.94         (61.3%)
+ operations (in €)
+
+1 Aggregated distribution and selling expenses, general and administration expenses, sundry expenses and impairment losses (net) on accounts receivable and contract assets.
+
+
+
+
+               5
+                                                                                                                           Nine months             Nine months
+                                                                                                                                  2022                    2021
+ Net income after taxes                                                                                                             1,151                   1,945
+ Items of other comprehensive income that will not be reclassified subsequently
+ to profit or loss
+ Remeasurements of defined benefit plans (IAS 19), net of tax1                                                                        175                        41
+ Net gain on other equity investments (IFRS 9), net of tax                                                                                0                       1
+ Subtotal of items of other comprehensive income that will not be reclassified
+                                                                                                                                      175                        42
+ subsequently to profit or loss
+ Items of other comprehensive income that will be reclassified to profit or loss
+ when specific conditions are met
+ Net gain on cash flow hedges and net foreign investment hedges, net of tax                                                           210                       195
+ Net gain/(loss) on cost of hedging reserve – options, net of tax                                                                         7                     (4)
+ Net (loss)/gain on cost of hedging reserve – forward contracts, net of tax                                                           (36)                       13
+ Reclassification of foreign currency translation differences due to disposal of
+                                                                                                                                     (228)                        –
+ foreign operations
+ Currency translation differences                                                                                                     440                       245
+ Subtotal of items of other comprehensive income that will be reclassified to
+                                                                                                                                      394                       448
+ profit or loss when specific conditions are met
+
+
+ Other comprehensive income                                                                                                           569                       490
+
+
+ Total comprehensive income                                                                                                         1,720                   2,436
+
+
+ Attributable to shareholders of adidas AG                                                                                          1,636                   2,389
+ Attributable to non-controlling interests                                                                                              84                       47
+
+1 Includes actuarial gains or losses relating to defined benefit obligations, return on plan assets (excluding interest income) and the asset ceiling effect.
+
+
+
+
+6
+                                                                                          Cost of
+                                                    Cumulative                Cost of    hedging
+                                                       currency              hedging    reserve –                           Share-          Non-
+                                          Capital   translation   Hedging   reserve –    forward       Other   Retained    holders’   controlling
+                         Share capital   reserve    differences   reserve     options   contracts   reserves   earnings      equity     interests   Total equity
+
+
+Balance at December             195       887          (850)      (250)         (3)        (23)      (235)      6,733      6,454           237         6,691
+31, 2020
+Other comprehensive
+                                                         229        195         (4)         13          42                   474            16           490
+income
+Net income                                                                                                      1,915      1,915            31         1,945
+Total comprehensive
+                                                         229        195         (4)         13          42      1,915      2,389            47         2,436
+income
+Repurchase of adidas
+                                 (2)                                                                            (552)      (554)                        (554)
+AG shares
+Repurchase of adidas
+AG shares due to
+                                 (1)                                                                              (24)       (25)                        (25)
+equity-settled share-
+based payment
+Reissuance of treasury
+shares due to equity-
+                                   1                                                                               27         28                           28
+settled share-based
+payment
+Dividend payment                                                                                                (585)      (585)                        (585)
+Equity-settled share-
+                                                                                                                   (1)        (1)                          (1)
+based payment
+Balance at September
+                                193       887          (621)       (55)         (7)        (10)      (193)      7,513      7,707           284         7,991
+30, 2021
+
+
+Balance at December
+                                192       895          (542)       (64)         (8)        (12)      (200)      7,259      7,519           318         7,837
+31, 2021
+Other comprehensive
+                                                         157        208           7        (36)       175                    512            57           569
+income
+Net income                                                                                                      1,124      1,124            27         1,151
+Total comprehensive
+                                                         157        208           7        (36)       175       1,124      1,636            84         1,720
+income
+Repurchase of adidas
+                                (12)                                                                           (2,398)    (2,411)                     (2,411)
+AG shares
+Repurchase of adidas
+AG shares due to
+                                 (0)                                                                              (15)       (15)                        (15)
+equity-settled share-
+based payment
+Reissuance of treasury
+shares due to equity-
+                                   0                                                                               27         27                           27
+settled share-based
+payment
+Dividend payment                                                                                                (610)      (610)            (1)         (611)
+Equity-settled share-
+                                                                                                                    0           0                           0
+based payment
+Acquisition of shares
+from non-controlling
+interests shareholders                                      4                                         (48)                   (44)           17           (27)
+in accordance with IAS
+32
+Balance at September
+                                179       895          (381)        144         (1)        (48)       (72)      5,387      6,103           418         6,520
+30, 2022
+
+
+
+
+           7
+                                                                                   Nine months   Nine months
+                                                                                          2022          2021
+
+Operating activities:
+Income before taxes                                                                     1,122         1,808
+
+Adjustments for:
+Depreciation, amortization and impairment losses                                        1,030          826
+Reversals of impairment losses                                                             (2)         (10)
+Interest income                                                                           (14)          (9)
+Interest expense                                                                           99          105
+Unrealized foreign exchange losses, net                                                    84           24
+Losses on sale of property, plant and equipment and intangible assets, net                  9            6
+Other non-cash expense                                                                     (8)          (1)
+Operating profit before working capital changes                                         2,320         2,750
+Increase in receivables and other assets                                               (1,563)        (938)
+(Increase)/Decrease in inventories                                                     (2,036)         434
+Increase/(Decrease) in accounts payable and other liabilities                             901         (228)
+Net cash (used in)/generated from operations before taxes                               (379)         2,018
+Income taxes paid                                                                       (330)         (242)
+Net cash (used in)/generated from operating activities – continuing operations          (709)         1,776
+Net cash (used in)/generated from operating activities – discontinued operations          (58)         234
+Net cash (used in)/generated from operating activities                                  (767)         2,010
+
+Investing activities:
+Purchase of trademarks and other intangible assets                                      (165)         (108)
+Proceeds from sale of trademarks and other intangible assets                                1            –
+Purchase of property, plant and equipment                                               (333)         (251)
+Proceeds from sale of property, plant and equipment                                         7            1
+Proceeds from sale of a disposal group from prior years                                    12           12
+Proceeds from disposal of discontinued operations net of cash disposed                  1,165          145
+(Puchase of)/Proceeds from investments and other long-term assets                          (4)          43
+Interest received                                                                          14            9
+Net cash generated from/(used in) investing activities – continuing operations            697         (150)
+Net cash used in investing activities – discontinued operations                            (0)          (6)
+Net cash generated from/(used in) investing activities                                    697         (156)
+
+
+
+Financing activities:
+Repayment of eurobond                                                                       –         (600)
+Interest paid                                                                             (89)         (96)
+Repayments of lease liabilities                                                         (507)         (459)
+Dividend paid to shareholders of adidas AG                                              (610)         (585)
+Dividend paid to non-controlling interest shareholders                                     (1)           –
+Acquisition of non-controlling interests                                                  (27)           –
+Repurchase of treasury shares                                                          (2,269)        (491)
+
+
+
+8
+                                                                          Nine months   Nine months
+                                                                                 2022          2021
+Repurchase of treasury shares due to share-based payments                        (22)          (24)
+Proceeds from reissuance of treasury shares due to share-based payments           19            21
+Proceeds/(repayments) from short-term borrowings                                 496           (19)
+Net cash used in financing activities – continuing operations                 (3,010)       (2,253)
+Net cash used in financing activities – discontinued operations                   (7)          (29)
+Net cash used in financing activities                                         (3,016)       (2,282)
+
+
+Effect of exchange rates on cash                                                  65            38
+Decrease in cash and cash equivalents                                         (3,022)         (391)
+Cash and cash equivalents at beginning of year                                 3,828         3,994
+Cash and cash equivalents at end of period                                       806         3,603
+
+
+
+
+9
+

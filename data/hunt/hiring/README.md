@@ -60,3 +60,51 @@ Pulled 2026-10-14 (UTC). No logins, no personal data in any request. All scripts
 - China: share of all postings 11.7% (2025H2), 7.2% (2026H1), 9.9% (2026Q3), 9.3% (Oct 14). China share of store postings 5.4%, 5.7%, 4.5%, 3.9%. China share of corporate postings 21.6%, 9.6%, 18.6%, 23.1% (88 of 381, mostly product development and design at Nike Sports (China)).
 - WARN: last Nike notices Jan 2026 (Memphis 583, Byhalia MS 193, distribution automation) and Oct 2025 (New York 87). No Oregon notice for 2025 or 2026 despite the Apr 2026 tech cut. Pace role decisions start 2027.
 - Peers: adidas archived totals Aug to Oct 2026 about +23% to +25% YoY (noisy); live adidas 1,194, Deckers 400, On 57.
+
+## Checker review
+
+Reviewed 2026-10-14 by a second agent. Recomputations are in `scripts/checker_recompute.py`.
+
+### Re-pulls from the original sources (all matched)
+
+- Workday API (POST `/wday/cxs/nike/{nke,nke2}/jobs`): nke 835 + nke2 478 = 1,313 later on Oct 14. The file has 1,303 (pulled earlier the same day). The newest IDs are R-95612, R-95601 and R-95597, above the file's frontier of 95,567, which fits the frontier still advancing. careers.nike.com/jobs `totalJob` also read 1,313. So the archived `totalJob` counts and the Workday totals measure the same thing.
+- Common Crawl WARC range re-fetch: careers.nike.com/ko/jobs on 2025-10-11 gave `totalJob` 1396, and /jobs/page/23 on 2026-08-08 gave 1076. Both equal `cc_listing_counts.csv`.
+- QCEW API, area 41067, NAICS 551114 private: 2026Q1 16,111 / 16,026 / 16,066 (OTY -1.1%), 2025Q1 16,200 / 16,228 / 16,241 (-6.6%), 2023Q2 month 3 17,855. All match.
+- h1bdata.info, `em=nike inc`: rows for "Director, Energy White Space Product Design" (5/29/2026), "Director, Global Basketball and Kobe Concept Design" (3/11/2026) and "Senior Director, Applied Footwear Research" (4/15/2026) match on salary and dates. Data end 2026-06-19.
+- warntracker.com/company/nike: shows Byhalia MS 193 (2026-01-26), Memphis 583, NY 87 and OR 740 (2024). It still reads "15 notices, Apr 2009 to Apr 2026". Matches.
+
+### Cleaning checks
+
+- Live census: no duplicate req IDs. nke and nke2 do not overlap.
+- `cc_job_objects.csv` has 22,160 rows, but 15,668 of them repeat the same requisition within a crawl because the same job appears on several language sub-sites. `cc_job_objects_bucketed.csv` is correctly de-duplicated to 5,635 rows with 0 repeats within a crawl. The summary's row count of 22,160 for the bucketed file is wrong; the real count is 5,635.
+- Periods in the composition table pool crawls, so a requisition open across several crawls counts more than once. That makes the shares averages of the stock of open postings, not counts of new postings. Long-open, hard-to-fill roles (senior design jobs, for example) are over-weighted.
+- H-1B dedup across overlapping search terms is fine. The rules give 203 to 136 (Nike, Jan 1 to Jun 15) exactly as reported.
+- Requisition frontier, survivorship and splice: the pre-Feb-2025 old-site points rest on only 13 to 25 IDs per crawl, so those frontiers are understated. That inflates the Dec 2024 to Feb 2025 flows (3.7k to 3.8k a month) that the summary uses as the "year earlier" base. The monthly series also joins lagged Common Crawl points (dated at last capture) to an unlagged live endpoint on Oct 14, which inflates Sep 2026 (3,264). Using only the dense crawls (500 or more IDs each), the conclusions still hold:
+  - Late Mar to late May: 2,547 a month (2025) vs 1,565 (2026), -39%.
+  - Feb to Sep: 2,355 a month vs 1,821, -23%.
+  - Jun to Sep: 1,805 a month vs 2,057, +14%. Both windows end before the late-September seasonal batch, so seasonal timing does not drive this.
+
+### Tests re-run
+
+1. **Hiring growth or cutting.** Holds, with one correction: the October reading is not "flat". The 2025-43 crawl spans Oct 5 to 12, during which the 2025 seasonal batch lifted the total from 1,050 to 1,396. The crawl median (1,306.5, dated Oct 8) is a mid-batch value. On matching dates, Oct 11 to 12, 2025 read about 1,385 against 1,303 to 1,313 on Oct 14, 2026, which is **about -5% to -6% YoY**. Also, the summary says 2026 seasonal postings came "2 to 3 weeks later". The data show the opposite: 2026 US store postings arrived in the week of Sep 21 (208 of 474 live US store postings), while the 2025 jump came on Oct 7 to 10. The 2026 batch was about 2 weeks earlier, and the Sep-to-mid-Oct rise was smaller: about +220 in 2026 vs about +390 in 2025. Jan to Jun -17% to -24% and Aug +20% are confirmed. Sep +9% is confirmed (Sep 9, before both batches; the 835 reading on Sep 11 is an outlier that the median correctly drops). QCEW is confirmed. Verdict: NEUTRAL, moderate. Flow (requisitions) has turned up about +14%, but the stock of open postings is still slightly below last year in October.
+2. **Mix shift to product.** Direction holds, but the headline overstates it. The rise from 15% to 36% mixes in geography: China product roles went from 4% to 21% of archived product postings, and offshored tech moves the denominator. On a like-for-like basis:
+   - US only, product share: 32.2% (2025H2), 34.4% (2026H1), 45.0% (2026Q3), 43.6% (Oct 13 census).
+   - Excluding China, product share: 18.9%, 19.7%, 24.5%, 29.0%.
+   - US sales and merchandising share: 16.6%, 22.2%, 10.8%, 7.3%.
+
+   The H-1B result gets stronger. Product LCAs with an Oct 1 start (cap-season new-hire petitions, not amendments or extensions) were 11 in 2024, 11 in 2025 and 31 in 2026 (Jan 1 to Jun 15). So the +90% is not a re-titling artefact from the reorg, even though "Energy" titles appear. Caveat: cap petitions often convert existing OPT staff, so this is not all net new headcount. The fall in tech LCAs (141 to 64) sits in non-cap filings and fits tech moving offshore. Verdict: LONG for the long-run product engine, moderate. The US-only rise is about 11 to 12 points, not a doubling.
+3. **China floor.** Recomputed shares match: China share of store postings 3.9% (35), China share of corporate postings 23.1% (88 of 381, of which 53 are product roles). Verdict: SHORT, weak, as stated. Store postings are a small and noisy sample.
+4. **Peers.** The H-1B peer comparisons rest on tiny counts (Jan 1 to Jun 15):
+   - adidas 7 to 9 (the "+29%")
+   - Deckers 14 to 16
+   - Skechers 4 to 12
+   - lululemon 20 to 13
+
+   Nike's -33% matches lululemon's -35%, so part of the drop is likely industry-wide H-1B policy (the 2025 fee proclamation) and not Nike-specific. The adidas archived totals come from one page per crawl and swing between 649 and 1,228 from month to month. Verdict: uninformative, weaker than "weak SHORT".
+
+### Bottom line
+
+Every source re-pulled cleanly and matches the files. The core finding holds: requisition flow cut about 23% to 39% YoY through spring 2026, then turned up about 14% in Jun to Sep. Three corrections:
+- October open postings are about -5% YoY, not flat.
+- The 2026 seasonal batch came earlier than in 2025, not later.
+- The product-share jump is about half geography mix. The US-only rise is 32% to 44%, and the H-1B cap-season evidence for product hiring is stronger than reported.

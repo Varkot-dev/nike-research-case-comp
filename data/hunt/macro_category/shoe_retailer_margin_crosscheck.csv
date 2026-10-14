@@ -1,0 +1,7 @@
+company,period,metric,value,unit,source_url,tag
+Caleres (Famous Footwear segment),quarter ended 2026-08-01,famous_footwear_net_sales_yoy,-6.3,pct,https://fashionunited.com/news/business/caleres-brand-portfolio-sales-increase-23-6-percent-famous-footwear-declines/2026091074536,SNIPPET
+Caleres (Famous Footwear segment),quarter ended 2026-08-01,famous_footwear_comp_sales,-5.9,pct,https://secure.businesswire.com/news/home/20260909945245/en/Caleres-Reports-Second-Quarter-2026-Results,SNIPPET
+Caleres (Famous Footwear segment),quarter ended 2026-08-01,famous_footwear_gross_margin,42.7,pct (down 100 bps YoY),https://secure.businesswire.com/news/home/20260909945245/en/Caleres-Reports-Second-Quarter-2026-Results,SNIPPET
+Caleres consolidated,quarter ended 2026-08-01,adjusted_gross_margin_ex_tariff_refunds,46.8,pct (up 340 bps YoY),https://secure.businesswire.com/news/home/20260909945245/en/Caleres-Reports-Second-Quarter-2026-Results,SNIPPET
+Genesco,Q2 (period ended about 2026-08-01; check filing),net_sales_yoy,-3,pct,https://genesco.gcs-web.com/static-files/2c0484be-2440-449d-8f75-51923371b1bc,SNIPPET
+Genesco,Q2 (period ended about 2026-08-01; check filing),adjusted_gross_margin_change,140,bps,https://genesco.gcs-web.com/static-files/2c0484be-2440-449d-8f75-51923371b1bc,SNIPPET

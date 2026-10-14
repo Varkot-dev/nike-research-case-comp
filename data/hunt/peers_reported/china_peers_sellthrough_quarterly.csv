@@ -1,0 +1,146 @@
+series,cal_year,cal_q,metric,value,phrase,source
+ANTA brand,2021,4,retail_sellthrough_yoy_pct,15,mid teens positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0119/2022011900316.pdf
+ANTA brand,2022,1,retail_sellthrough_yoy_pct,18,high teens positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0414/2022041400369.pdf
+ANTA brand,2023,1,retail_sellthrough_yoy_pct,5,mid single digit positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2023/0412/2023041200267.pdf
+ANTA brand,2023,2,retail_sellthrough_yoy_pct,8,high single digit positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2023/0718/2023071800226.pdf
+ANTA brand,2023,3,retail_sellthrough_yoy_pct,8,high single digit positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2023/1012/2023101200333.pdf
+ANTA brand,2023,4,retail_sellthrough_yoy_pct,18,high teens positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0105/2024010500041.pdf
+ANTA brand,2024,1,retail_sellthrough_yoy_pct,5,mid single digit positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0417/2024041700483.pdf
+ANTA brand,2024,2,retail_sellthrough_yoy_pct,8,high single digit positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0708/2024070800326.pdf
+ANTA brand,2024,3,retail_sellthrough_yoy_pct,5,mid single digit positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2024/1010/2024101000298.pdf
+ANTA brand,2024,4,retail_sellthrough_yoy_pct,8,high single digit positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0108/2025010800329.pdf
+ANTA brand,2025,1,retail_sellthrough_yoy_pct,8,high single digit positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0410/2025041000612.pdf
+ANTA brand,2025,2,retail_sellthrough_yoy_pct,2.5,low single digit positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0715/2025071500265.pdf
+ANTA brand,2025,3,retail_sellthrough_yoy_pct,2.5,low single digit positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1027/2025102700389.pdf
+ANTA brand,2025,4,retail_sellthrough_yoy_pct,-2.5,low single digit negative decline,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0120/2026012000384.pdf
+ANTA brand,2026,1,retail_sellthrough_yoy_pct,8,high single digit positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0413/2026041300450.pdf
+ANTA brand,2026,2,retail_sellthrough_yoy_pct,2.5,low single digit positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0717/2026071700328.pdf
+Anta other brands,2021,4,retail_sellthrough_yoy_pct,32.5,30 35% positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0119/2022011900316.pdf
+Anta other brands,2022,1,retail_sellthrough_yoy_pct,42.5,40 45% positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0414/2022041400369.pdf
+Anta other brands,2023,1,retail_sellthrough_yoy_pct,77.5,75 80% positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2023/0412/2023041200267.pdf
+Anta other brands,2023,2,retail_sellthrough_yoy_pct,72.5,70 75% positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2023/0718/2023071800226.pdf
+Anta other brands,2023,3,retail_sellthrough_yoy_pct,47.5,45 50% positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2023/1012/2023101200333.pdf
+Anta other brands,2023,4,retail_sellthrough_yoy_pct,57.5,55 60% positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0105/2024010500041.pdf
+Anta other brands,2025,1,retail_sellthrough_yoy_pct,67.5,65 70% positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0410/2025041000612.pdf
+Anta other brands,2025,3,retail_sellthrough_yoy_pct,47.5,45 50% positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1027/2025102700389.pdf
+Anta other brands,2025,4,retail_sellthrough_yoy_pct,37.5,35 40% positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0120/2026012000384.pdf
+Anta other brands,2026,1,retail_sellthrough_yoy_pct,42.5,40 45% positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0413/2026041300450.pdf
+Anta other brands,2026,2,retail_sellthrough_yoy_pct,27.5,25 30% positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0717/2026071700328.pdf
+FILA brand,2021,4,retail_sellthrough_yoy_pct,8,high single digit positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0119/2022011900316.pdf
+FILA brand,2022,1,retail_sellthrough_yoy_pct,5,mid single digit positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0414/2022041400369.pdf
+FILA brand,2023,1,retail_sellthrough_yoy_pct,8,high single digit positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2023/0412/2023041200267.pdf
+FILA brand,2023,2,retail_sellthrough_yoy_pct,18,high teens positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2023/0718/2023071800226.pdf
+FILA brand,2023,3,retail_sellthrough_yoy_pct,12,low teens positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2023/1012/2023101200333.pdf
+FILA brand,2023,4,retail_sellthrough_yoy_pct,27.5,25 30% positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0105/2024010500041.pdf
+FILA brand,2024,1,retail_sellthrough_yoy_pct,8,high single digit positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0417/2024041700483.pdf
+FILA brand,2024,2,retail_sellthrough_yoy_pct,5,mid single digit positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0708/2024070800326.pdf
+FILA brand,2024,3,retail_sellthrough_yoy_pct,-2.5,low single digit negative decline,https://www1.hkexnews.hk/listedco/listconews/sehk/2024/1010/2024101000298.pdf
+FILA brand,2024,4,retail_sellthrough_yoy_pct,8,high single digit positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0108/2025010800329.pdf
+FILA brand,2025,1,retail_sellthrough_yoy_pct,8,high single digit positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0410/2025041000612.pdf
+FILA brand,2025,2,retail_sellthrough_yoy_pct,5,mid single digit positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0715/2025071500265.pdf
+FILA brand,2025,3,retail_sellthrough_yoy_pct,2.5,low single digit positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1027/2025102700389.pdf
+FILA brand,2025,4,retail_sellthrough_yoy_pct,5,mid single digit positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0120/2026012000384.pdf
+FILA brand,2026,1,retail_sellthrough_yoy_pct,12,low teens positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0413/2026041300450.pdf
+FILA brand,2026,2,retail_sellthrough_yoy_pct,2.5,low single digit positive ,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0717/2026071700328.pdf
+Li Ning overall platform,2018,1,retail_sellthrough_yoy_pct,15,increased by mid teens on a year on year basis,https://www1.hkexnews.hk/listedco/listconews/sehk/2018/0423/ltn20180423302.pdf
+Li Ning overall platform,2018,3,retail_sellthrough_yoy_pct,15,increased by mid teens on a year on year basis,https://www1.hkexnews.hk/listedco/listconews/sehk/2018/1022/ltn20181022261.pdf
+Li Ning overall platform,2019,1,retail_sellthrough_yoy_pct,22,increased by low twenties on a year on year basis,https://www1.hkexnews.hk/listedco/listconews/sehk/2019/0417/ltn20190417290.pdf
+Li Ning overall platform,2019,3,retail_sellthrough_yoy_pct,32,increased by low thirties on a year on year basis,https://www1.hkexnews.hk/listedco/listconews/sehk/2019/1021/2019102100207.pdf
+Li Ning overall platform,2020,1,retail_sellthrough_yoy_pct,-18,decreased by high teens on a year on year basis,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/0417/2020041700821.pdf
+Li Ning overall platform,2020,3,retail_sellthrough_yoy_pct,5,increased by mid single digit on a year on year basis,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/1020/2020102000373.pdf
+Li Ning overall platform,2021,3,retail_sellthrough_yoy_pct,42,increased by low forties on a year on year basis,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1025/2021102500320.pdf
+Li Ning overall platform,2022,1,retail_sellthrough_yoy_pct,28,increased by high twenties on a year on year basis,https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0419/2022041900889.pdf
+Li Ning overall platform,2022,3,retail_sellthrough_yoy_pct,15,increased by mid teens on a year on year basis,https://www1.hkexnews.hk/listedco/listconews/sehk/2022/1019/2022101900269.pdf
+Li Ning overall platform,2023,1,retail_sellthrough_yoy_pct,5,increased by mid single digit on a year on year basis,https://www1.hkexnews.hk/listedco/listconews/sehk/2023/0420/2023042000507.pdf
+Li Ning overall platform,2023,3,retail_sellthrough_yoy_pct,5,increased by mid single digit on a year on year basis,https://www1.hkexnews.hk/listedco/listconews/sehk/2023/1025/2023102500298.pdf
+Li Ning overall platform,2024,1,retail_sellthrough_yoy_pct,2.5,increased by low single digit on a year on year basis,https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0422/2024042200363.pdf
+Li Ning overall platform,2024,3,retail_sellthrough_yoy_pct,-5,declined by mid single digit on a year on year basis,https://www1.hkexnews.hk/listedco/listconews/sehk/2024/1022/2024102200365.pdf
+Li Ning overall platform,2025,1,retail_sellthrough_yoy_pct,2.5,increased by low single digit on a year on year basis,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0428/2025042800951.pdf
+Li Ning overall platform,2025,2,retail_sellthrough_yoy_pct,2.5,increased by low single digit on a year on year basis,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0714/2025071400364.pdf
+Li Ning overall platform,2025,3,retail_sellthrough_yoy_pct,-5,declined by mid single digit on a year on year basis,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1024/2025102400279.pdf
+Li Ning overall platform,2025,4,retail_sellthrough_yoy_pct,-2.5,declined by low single digit on a year on year basis,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0115/2026011500147.pdf
+Li Ning overall platform,2026,1,retail_sellthrough_yoy_pct,5,increased by mid single digit on a year on year basis,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0422/2026042200179.pdf
+Li Ning overall platform,2026,2,retail_sellthrough_yoy_pct,-2.5,decreased by low single digit on a year on year basis,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0715/2026071500286.pdf
+Saucony (China),2024,3,retail_sellthrough_yoy_pct,52.5, more than 50% year on year growth ,https://www1.hkexnews.hk/listedco/listconews/sehk/2024/1023/2024102300067.pdf
+Saucony (China),2024,4,retail_sellthrough_yoy_pct,50.0, around 50% year on year growth ,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0109/2025010900042.pdf
+Saucony (China),2025,1,retail_sellthrough_yoy_pct,42.5, more than 40% year on year growth ,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0417/2025041700073.pdf
+Saucony (China),2025,2,retail_sellthrough_yoy_pct,22.5, more than 20% year on year growth ,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0716/2025071600183.pdf
+Saucony (China),2025,3,retail_sellthrough_yoy_pct,22.5, more than 20% year on year growth ,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1017/2025101700031.pdf
+Saucony (China),2025,4,retail_sellthrough_yoy_pct,32.5, more than 30% year on year growth ,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0123/2026012300217.pdf
+Saucony (China),2026,1,retail_sellthrough_yoy_pct,22.5, more than 20% year on year growth ,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0421/2026042100089.pdf
+Saucony (China),2026,2,retail_sellthrough_yoy_pct,2.5, low single digit year on year growth ,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0717/2026071700195.pdf
+Xtep core brand,2020,1,channel_inventory_turnover_months,5.5,Retail inventory turnover Around 5.5 months,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/0420/2020042000307.pdf
+Xtep core brand,2020,3,channel_inventory_turnover_months,5.0,Retail inventory turnover Around 5 months,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/1016/2020101600363.pdf
+Xtep core brand,2020,4,channel_inventory_turnover_months,5.0,Retail inventory turnover Below 5 months,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/0115/2021011500535.pdf
+Xtep core brand,2021,1,channel_inventory_turnover_months,4.5,Retail inventory turnover Around 4.5 months,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/0415/2021041500198.pdf
+Xtep core brand,2021,2,channel_inventory_turnover_months,4.0,Retail inventory turnover Around 4 months,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/0713/2021071300279.pdf
+Xtep core brand,2021,3,channel_inventory_turnover_months,4.0,Retail inventory turnover Around 4 months,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1019/2021101900305.pdf
+Xtep core brand,2021,4,channel_inventory_turnover_months,4.0,Retail inventory turnover Around 4 months,https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0114/2022011400189.pdf
+Xtep core brand,2022,1,channel_inventory_turnover_months,4.0,Retail inventory turnover Around 4 months,https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0407/2022040700241.pdf
+Xtep core brand,2022,2,channel_inventory_turnover_months,4.5,Retail inventory turnover Around 4.5 months,https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0713/2022071300135.pdf
+Xtep core brand,2022,3,channel_inventory_turnover_months,4.75,Retail inventory turnover 4.5 to 5 months,https://www1.hkexnews.hk/listedco/listconews/sehk/2022/1018/2022101800155.pdf
+Xtep core brand,2022,4,channel_inventory_turnover_months,5.5,Retail inventory turnover Around 5.5 months,https://www1.hkexnews.hk/listedco/listconews/sehk/2023/0116/2023011600175.pdf
+Xtep core brand,2023,3,channel_inventory_turnover_months,4.75,Channel inventory turnover 4.5 to 5 months,https://www1.hkexnews.hk/listedco/listconews/sehk/2023/1016/2023101600201.pdf
+Xtep core brand,2023,4,channel_inventory_turnover_months,4.25,Channel inventory turnover 4 to 4.5 months,https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0109/2024010900131.pdf
+Xtep core brand,2024,1,channel_inventory_turnover_months,4.25,Channel inventory turnover 4 to 4.5 months,https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0418/2024041800231.pdf
+Xtep core brand,2024,2,channel_inventory_turnover_months,4.0,Channel inventory turnover Around 4 months,https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0711/2024071100171.pdf
+Xtep core brand,2024,3,channel_inventory_turnover_months,4.0,Channel inventory turnover Around 4 months,https://www1.hkexnews.hk/listedco/listconews/sehk/2024/1023/2024102300067.pdf
+Xtep core brand,2024,4,channel_inventory_turnover_months,4.0,Channel inventory turnover Around 4 months,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0109/2025010900042.pdf
+Xtep core brand,2025,1,channel_inventory_turnover_months,4.0,Channel inventory turnover Around 4 months,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0417/2025041700073.pdf
+Xtep core brand,2025,2,channel_inventory_turnover_months,4.25,Channel inventory turnover 4 to 4.5 months,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0716/2025071600183.pdf
+Xtep core brand,2025,3,channel_inventory_turnover_months,4.25,Channel inventory turnover 4 to 4.5 months,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1017/2025101700031.pdf
+Xtep core brand,2025,4,channel_inventory_turnover_months,4.5,Channel inventory turnover Around 4.5 months,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0123/2026012300217.pdf
+Xtep core brand,2026,1,channel_inventory_turnover_months,4.5,Channel inventory turnover Around 4.5 months,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0421/2026042100089.pdf
+Xtep core brand,2026,2,channel_inventory_turnover_months,4.75,Channel inventory turnover 4.5 to 5 months,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0717/2026071700195.pdf
+Xtep core brand,2019,2,retail_discount_pct,22.5,20%–25% ,https://www1.hkexnews.hk/listedco/listconews/sehk/2019/0712/ltn20190712345.pdf
+Xtep core brand,2019,3,retail_discount_pct,23.5,22%–25% ,https://www1.hkexnews.hk/listedco/listconews/sehk/2019/1017/ltn20191017155.pdf
+Xtep core brand,2019,4,retail_discount_pct,22.5,20%–25% ,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/0204/2020020401290.pdf
+Xtep core brand,2020,1,retail_discount_pct,32.5,30%–35% ,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/0420/2020042000307.pdf
+Xtep core brand,2020,3,retail_discount_pct,32.5,30%–35% ,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/1016/2020101600363.pdf
+Xtep core brand,2020,4,retail_discount_pct,32.5,30%-35% ,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/0115/2021011500535.pdf
+Xtep core brand,2021,1,retail_discount_pct,27.5,25%-30% ,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/0415/2021041500198.pdf
+Xtep core brand,2021,3,retail_discount_pct,22.5,20%–25% ,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1019/2021101900305.pdf
+Xtep core brand,2021,4,retail_discount_pct,22.5,20%–25% ,https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0114/2022011400189.pdf
+Xtep core brand,2022,1,retail_discount_pct,25.0,Around 25%,https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0407/2022040700241.pdf
+Xtep core brand,2022,3,retail_discount_pct,27.5,25%–30% ,https://www1.hkexnews.hk/listedco/listconews/sehk/2022/1018/2022101800155.pdf
+Xtep core brand,2022,4,retail_discount_pct,30.0,Around 30%,https://www1.hkexnews.hk/listedco/listconews/sehk/2023/0116/2023011600175.pdf
+Xtep core brand,2023,1,retail_discount_pct,27.5,25%–30% ,https://www1.hkexnews.hk/listedco/listconews/sehk/2023/0411/2023041100381.pdf
+Xtep core brand,2023,2,retail_discount_pct,25.0,Around 25%,https://www1.hkexnews.hk/listedco/listconews/sehk/2023/0719/2023071900263.pdf
+Xtep core brand,2023,3,retail_discount_pct,27.5,25%–30% ,https://www1.hkexnews.hk/listedco/listconews/sehk/2023/1016/2023101600201.pdf
+Xtep core brand,2023,4,retail_discount_pct,30.0,Around 30%,https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0109/2024010900131.pdf
+Xtep core brand,2024,1,retail_discount_pct,27.5,25%–30% ,https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0418/2024041800231.pdf
+Xtep core brand,2024,2,retail_discount_pct,25.0,Around 25%,https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0711/2024071100171.pdf
+Xtep core brand,2024,3,retail_discount_pct,25.0,Around 25%,https://www1.hkexnews.hk/listedco/listconews/sehk/2024/1023/2024102300067.pdf
+Xtep core brand,2024,4,retail_discount_pct,27.5,25%–30% ,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0109/2025010900042.pdf
+Xtep core brand,2025,1,retail_discount_pct,27.5,25%–30% ,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0417/2025041700073.pdf
+Xtep core brand,2025,2,retail_discount_pct,27.5,25%–30% ,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0716/2025071600183.pdf
+Xtep core brand,2025,3,retail_discount_pct,27.5,25%–30% ,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1017/2025101700031.pdf
+Xtep core brand,2025,4,retail_discount_pct,27.5,25%–30% ,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0123/2026012300217.pdf
+Xtep core brand,2026,1,retail_discount_pct,27.5,25% – 30% ,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0421/2026042100089.pdf
+Xtep core brand,2026,2,retail_discount_pct,27.5,25%–30% ,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0717/2026071700195.pdf
+Xtep core brand,2019,1,retail_sellthrough_yoy_pct,22.5, 20%+ ,https://www1.hkexnews.hk/listedco/listconews/sehk/2019/0408/ltn20190408369.pdf
+Xtep core brand,2019,2,retail_sellthrough_yoy_pct,22.5, more than 20% ,https://www1.hkexnews.hk/listedco/listconews/sehk/2019/0712/ltn20190712345.pdf
+Xtep core brand,2019,3,retail_sellthrough_yoy_pct,20.0, around 20% ,https://www1.hkexnews.hk/listedco/listconews/sehk/2019/1017/ltn20191017155.pdf
+Xtep core brand,2019,4,retail_sellthrough_yoy_pct,22.5, more than 20% ,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/0204/2020020401290.pdf
+Xtep core brand,2020,1,retail_sellthrough_yoy_pct,-22.5, declined by 20 25% ,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/0420/2020042000307.pdf
+Xtep core brand,2020,3,retail_sellthrough_yoy_pct,5, mid single digit ,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/1016/2020101600363.pdf
+Xtep core brand,2020,4,retail_sellthrough_yoy_pct,8, high single digit ,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/0115/2021011500535.pdf
+Xtep core brand,2021,1,retail_sellthrough_yoy_pct,55, mid fifties growth ,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/0415/2021041500198.pdf
+Xtep core brand,2021,3,retail_sellthrough_yoy_pct,15, mid teens growth ,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1019/2021101900305.pdf
+Xtep core brand,2021,4,retail_sellthrough_yoy_pct,22.5, 20% 25% ,https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0114/2022011400189.pdf
+Xtep core brand,2022,1,retail_sellthrough_yoy_pct,32.5, 30% 35% ,https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0407/2022040700241.pdf
+Xtep core brand,2022,3,retail_sellthrough_yoy_pct,22.5, 20% 25% year on year growth ,https://www1.hkexnews.hk/listedco/listconews/sehk/2022/1018/2022101800155.pdf
+Xtep core brand,2022,4,retail_sellthrough_yoy_pct,-8, high single digit year on year decline ,https://www1.hkexnews.hk/listedco/listconews/sehk/2023/0116/2023011600175.pdf
+Xtep core brand,2023,1,retail_sellthrough_yoy_pct,20.0, around 20% year on year growth ,https://www1.hkexnews.hk/listedco/listconews/sehk/2023/0411/2023041100381.pdf
+Xtep core brand,2023,2,retail_sellthrough_yoy_pct,18, high teens year on year growth ,https://www1.hkexnews.hk/listedco/listconews/sehk/2023/0719/2023071900263.pdf
+Xtep core brand,2023,3,retail_sellthrough_yoy_pct,18, high teens year on year growth ,https://www1.hkexnews.hk/listedco/listconews/sehk/2023/1016/2023101600201.pdf
+Xtep core brand,2023,4,retail_sellthrough_yoy_pct,32.5, more than 30% year on year growth ,https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0109/2024010900131.pdf
+Xtep core brand,2024,1,retail_sellthrough_yoy_pct,8, high single digit year on year growth ,https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0418/2024041800231.pdf
+Xtep core brand,2024,3,retail_sellthrough_yoy_pct,5, mid single digit year on year growth ,https://www1.hkexnews.hk/listedco/listconews/sehk/2024/1023/2024102300067.pdf
+Xtep core brand,2024,4,retail_sellthrough_yoy_pct,8, high single digit year on year growth ,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0109/2025010900042.pdf
+Xtep core brand,2025,1,retail_sellthrough_yoy_pct,5, mid single digit year on year growth ,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0417/2025041700073.pdf
+Xtep core brand,2025,2,retail_sellthrough_yoy_pct,2.5, low single digit year on year growth ,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0716/2025071600183.pdf
+Xtep core brand,2025,3,retail_sellthrough_yoy_pct,2.5, low single digit year on year growth ,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1017/2025101700031.pdf
+Xtep core brand,2025,4,retail_sellthrough_yoy_pct,0, flat year on year ,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0123/2026012300217.pdf
+Xtep core brand,2026,1,retail_sellthrough_yoy_pct,2.5, low single digit year on year growth ,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0421/2026042100089.pdf
+Xtep core brand,2026,2,retail_sellthrough_yoy_pct,-5, mid single digit year on year decline ,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0717/2026071700195.pdf

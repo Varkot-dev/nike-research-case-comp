@@ -1,0 +1,50 @@
+year,n,region,cur,prior,cn,src
+2024,4,Japan,166432.0,135849.0,,asics_3964.txt
+2024,4,North America,135040.0,114617.0,9.6,asics_3964.txt
+2024,4,EMEA,179388.0,147982.0,12.8,asics_3964.txt
+2024,4,Greater China,100497.0,77615.0,22.1,asics_3964.txt
+2024,4,Oceania,42986.0,38460.0,4.5,asics_3964.txt
+2024,4,Southeast and South Asia,37321.0,27122.0,29.1,asics_3964.txt
+2024,4,Others,44840.0,49843.0,-11.3,asics_3964.txt
+2025,1,Japan,50559.0,40079.0,,asics_4009.txt
+2025,1,North America,39133.0,33077.0,16.0,asics_4009.txt
+2025,1,EMEA,58797.0,48377.0,21.3,asics_4009.txt
+2025,1,Greater China,29011.0,23870.0,19.4,asics_4009.txt
+2025,1,Oceania,12480.0,11698.0,8.9,asics_4009.txt
+2025,1,Southeast and South Asia,12536.0,9171.0,31.7,asics_4009.txt
+2025,1,Others,12900.0,12711.0,11.8,asics_4009.txt
+2025,2,Japan,99263.0,79878.0,,asics_4047.txt
+2025,2,North America,73914.0,67748.0,12.6,asics_4047.txt
+2025,2,EMEA,113769.0,91597.0,25.9,asics_4047.txt
+2025,2,Greater China,62032.0,53049.0,20.0,asics_4047.txt
+2025,2,Oceania,21447.0,20662.0,10.7,asics_4047.txt
+2025,2,Southeast and South Asia,23514.0,17631.0,33.8,asics_4047.txt
+2025,2,Others,24698.0,24387.0,13.2,asics_4047.txt
+2025,3,Japan,152095.0,124191.0,,asics_4068.txt
+2025,3,North America,112473.0,104244.0,10.2,asics_4068.txt
+2025,3,EMEA,178934.0,143101.0,24.0,asics_4068.txt
+2025,3,Greater China,92965.0,78262.0,20.6,asics_4068.txt
+2025,3,Oceania,34662.0,31971.0,14.3,asics_4068.txt
+2025,3,Southeast and South Asia,38301.0,28739.0,33.6,asics_4068.txt
+2025,3,Others,39289.0,36271.0,17.1,asics_4068.txt
+2025,4,Japan,204236.0,166432.0,,asics_4124.txt
+2025,4,North America,141192.0,135040.0,5.8,asics_4124.txt
+2025,4,EMEA,225805.0,179388.0,22.1,asics_4124.txt
+2025,4,Greater China,120514.0,100497.0,20.4,asics_4124.txt
+2025,4,Oceania,49649.0,42986.0,19.2,asics_4124.txt
+2025,4,Southeast and South Asia,49780.0,37321.0,33.0,asics_4124.txt
+2025,4,Others,52078.0,44840.0,21.4,asics_4124.txt
+2026,1,Japan,59274.0,50559.0,,asics_4158.txt
+2026,1,North America,48153.0,39133.0,18.8,asics_4158.txt
+2026,1,EMEA,84572.0,58797.0,27.2,asics_4158.txt
+2026,1,Greater China,37196.0,29011.0,20.0,asics_4158.txt
+2026,1,Oceania,15906.0,12480.0,12.4,asics_4158.txt
+2026,1,Southeast and South Asia,16870.0,12536.0,28.7,asics_4158.txt
+2026,1,Others,15916.0,12900.0,13.4,asics_4158.txt
+2026,2,Japan,106094.0,99263.0,,asics_4215.txt
+2026,2,North America,94696.0,73914.0,19.6,asics_4215.txt
+2026,2,EMEA,166600.0,113769.0,29.7,asics_4215.txt
+2026,2,Greater China,81048.0,62032.0,17.6,asics_4215.txt
+2026,2,Oceania,28964.0,21447.0,15.3,asics_4215.txt
+2026,2,Southeast and South Asia,31492.0,23514.0,25.9,asics_4215.txt
+2026,2,Others,32271.0,24698.0,17.5,asics_4215.txt

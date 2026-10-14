@@ -53,7 +53,7 @@ else:
             objs = re.findall(r'\{[^{}]*"reviewDate":\d+[^{}]*\}', h)
             got = 0
             for o in objs:
-                d = {k: v for k, v in re.findall(r'"(reviewDate|overallRating|ratingFit|reviewId|productId|shoeSize|otherShoes)":"?([^",}]*)', o)}
+                d = {k: v for k, v in re.findall(r'"(reviewDate|overallRating|reviewId|id|productId|shoeSize|incentivizedReview|customerRewardReview|premierReview|powerReview|source|comfortRating|hasMedia)":"?([^",}]*)', o)}
                 if "reviewDate" in d:
                     d["pid"] = pid; d["page"] = page; out.write(json.dumps(d) + "\n"); got += 1
             tot = re.search(r'"totalReviews":"?(\d+)', h)

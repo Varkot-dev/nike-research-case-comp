@@ -1,0 +1,42 @@
+test,series,window,value
+T2,sports_recreation,Mar-May 2026 avg,-6.0
+T2,sports_recreation,Jun-Aug 2026 avg,-5.9
+T2,sports_recreation,Jun-Aug 2025 avg,13.4
+T2,sports_recreation_2yr,Mar-May 2026 avg,18.4
+T2,sports_recreation_2yr,Jun-Aug 2026 avg,6.7
+T2,sports_recreation_2yr,Jun-Aug 2025 avg,18.1
+T2,apparel_footwear,Mar-May 2026 avg,4.8
+T2,apparel_footwear,Jun-Aug 2026 avg,0.8
+T2,apparel_footwear,Jun-Aug 2025 avg,2.3
+T2,apparel_footwear_2yr,Mar-May 2026 avg,8.3
+T2,apparel_footwear_2yr,Jun-Aug 2026 avg,3.1
+T2,apparel_footwear_2yr,Jun-Aug 2025 avg,-0.7
+T2,total_retail,Mar-May 2026 avg,0.4
+T2,total_retail,Jun-Aug 2026 avg,0.7
+T2,total_retail,Jun-Aug 2025 avg,4.0
+T2,sports_minus_total,Mar-May 2026 avg,-6.4
+T2,sports_minus_total,Jun-Aug 2026 avg,-6.5
+T2,sports_minus_total,Jun-Aug 2025 avg,9.4
+T3,shoe_store_margin_index,Aug 2026 level,91.2
+T3,shoe_store_margin_index,lowest level before 2026 (since Jun 2002),99.3
+T3,shoe_store_margin_index,months below 100 before 2026,1.0
+T3,shoe_store_margin_index,months below 100 in 2026,4.0
+T3,PCU448210448210_yoy,Jun-Aug 2026 avg,-39.0
+T3,PCU451110451110_yoy,Jun-Aug 2026 avg,0.2
+T3,PCU44814481_yoy,Jun-Aug 2026 avg,2.1
+T3,CUUR0000SEAE_yoy,Jun-Aug 2026 avg,3.7
+T3,PCU316210316210_yoy,Jun-Aug 2026 avg,3.3
+T4,Canada Clothing and clothing accessories retailers [4581],Jun-Jul 2026 YoY (sum),6.0
+T4,Canada Clothing and clothing accessories retailers [4581],Jan-Jul 2026 YoY (sum),5.1
+T4,Canada Shoe retailers [4582],Jun-Jul 2026 YoY (sum),-0.4
+T4,Canada Shoe retailers [4582],Jan-Jul 2026 YoY (sum),-1.7
+T4,"Canada Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Jun-Jul 2026 YoY (sum),3.4
+T4,"Canada Sporting goods, hobby, musical instrument, book retailers and news dealers [459A]",Jan-Jul 2026 YoY (sum),4.8
+T4,UK textile clothing footwear stores volume YoY (IDOG),Jun-Aug 2026 avg,3.1
+T4,UK textile clothing footwear stores volume YoY (IDOG),Jan-Aug 2026 avg,3.8
+T4,Nike revenue_emea reported USD YoY,Q1FY2027,-4.7
+T4,Nike revenue_emea reported USD 2yr,Q1FY2027 vs Q1FY2025,1.0
+T4,Nike revenue_greater_china reported USD YoY,Q1FY2027,-22.0
+T4,Nike revenue_greater_china reported USD 2yr,Q1FY2027 vs Q1FY2025,-29.2
+T4,Nike revenue_north_america reported USD YoY,Q1FY2027,2.1
+T4,Nike revenue_north_america reported USD 2yr,Q1FY2027 vs Q1FY2025,6.2
