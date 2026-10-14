@@ -1,0 +1,30 @@
+           brand  n_skus  share_discounted  ci_lo  ci_hi  mean_depth  share_discounts_excluded  brand_total_results_brandpage
+10  Under Armour     126               1.6    0.0    4.0        32.5                      96.8                            460
+0          ASICS     100              10.0    5.0   16.0        20.1                      76.0                            126
+1         Brooks      81              11.1    4.9   18.5        20.7                      84.0                            132
+8         Reebok     107              12.1    6.5   18.7        19.4                      72.0                            140
+6             On      99              19.2   12.1   27.3        22.6                      69.7                            159
+2           HOKA     101              22.8   14.9   31.7        27.8                     100.0                            184
+3         Jordan     113              30.1   22.1   38.9        25.1                      69.0                           1279
+11        adidas     114              31.6   22.8   40.4        27.7                      58.8                           1664
+4    New Balance     108              33.3   25.0   42.6        38.6                      91.7                            581
+5           Nike      99              33.3   24.2   42.4        22.2                      49.5                           4948
+9        Saucony      48              33.3   20.8   47.9        36.3                      70.8                            315
+7           Puma     110              33.6   24.5   42.7        31.5                      56.4                            306
+url          https://www.footlocker.com/category/sale/mens/shoes.html  https://www.footlocker.com/category/sale/womens/shoes.html
+brand                                                                                                                            
+Brooks                                                     2.0                                                       0.0         
+HOKA                                                       3.0                                                       1.0         
+Jordan                                                     8.0                                                       2.0         
+New Balance                                                4.0                                                      12.0         
+Nike                                                      17.0                                                      13.0         
+On                                                         5.0                                                      11.0         
+Reebok                                                     1.0                                                       0.0         
+Saucony                                                    1.0                                                       2.0         
+Vans                                                       0.0                                                       1.0         
+adidas                                                     2.0                                                       6.0         
+other                                                      5.0                                                       0.0         
+url
+https://www.footlocker.com/category/sale/mens/shoes.html      1.0
+https://www.footlocker.com/category/sale/womens/shoes.html    1.0
+Name: disc, dtype: float64

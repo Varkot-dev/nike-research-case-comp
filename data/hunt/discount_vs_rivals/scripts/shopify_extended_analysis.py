@@ -1,7 +1,7 @@
 # Same method as pricing_catalog/scripts/shopify_analysis.py, run on the original 16 stores plus the new partner stores pulled in this hunt.
 import pandas as pd, numpy as np
 old=pd.read_csv("../pricing_catalog/shopify_products_20261014.csv.gz",low_memory=False)
-new=pd.read_csv("shopify_new_stores_20261014.csv",low_memory=False)
+new=pd.read_csv("shopify_new_stores_20261014.csv.gz",low_memory=False)
 old['grp']='orig16'; new['grp']='new'
 d=pd.concat([old,new]).drop_duplicates(["store","product_id"])
 v=d.vendor.astype(str).str.lower().str.strip()
