@@ -1,0 +1,27 @@
+,coef_vs_adidas,se_cluster_store,set,n_stores
+brand_ASICS,0.057,0.0542,all stores,25
+brand_Brooks,0.0743,0.087,all stores,25
+brand_Converse,0.0968,0.0968,all stores,25
+brand_HOKA,-0.0316,0.061,all stores,25
+brand_Jordan,0.1004,0.0927,all stores,25
+brand_New Balance,0.0509,0.0536,all stores,25
+brand_Nike,0.0263,0.0619,all stores,25
+brand_On,-0.0972,0.0599,all stores,25
+brand_Puma,0.1016,0.0628,all stores,25
+brand_Reebok,0.1201,0.0548,all stores,25
+brand_Salomon,-0.044,0.0563,all stores,25
+brand_Saucony,0.0873,0.0805,all stores,25
+brand_Vans,-0.0443,0.0549,all stores,25
+brand_ASICS,-0.0584,0.0319,new stores only,10
+brand_Brooks,-0.0782,0.0471,new stores only,10
+brand_Converse,-0.0184,0.0887,new stores only,10
+brand_HOKA,-0.0864,0.045,new stores only,10
+brand_Jordan,-0.0375,0.0323,new stores only,10
+brand_New Balance,-0.0477,0.0256,new stores only,10
+brand_Nike,-0.0751,0.0442,new stores only,10
+brand_On,-0.0893,0.0532,new stores only,10
+brand_Puma,0.058,0.083,new stores only,10
+brand_Reebok,-0.0039,0.0128,new stores only,10
+brand_Salomon,-0.051,0.0328,new stores only,10
+brand_Saucony,-0.0523,0.0407,new stores only,10
+brand_Vans,-0.1257,0.0716,new stores only,10
