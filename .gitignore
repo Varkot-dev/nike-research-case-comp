@@ -1,1 +1,7 @@
 data/hunt/hiring/raw/warn_bln/repo/
+# Keep the repo light: raw bulk downloads stay in the cloud container; cleaned CSVs, scripts and READMEs are committed
+data/hunt/*/raw/**/*.gz
+data/hunt/*/raw/**/*.jsonl
+data/hunt/*/raw/**/*.log
+data/hunt/*/raw/**/*.html
+data/hunt/*/raw/**/*.pdf

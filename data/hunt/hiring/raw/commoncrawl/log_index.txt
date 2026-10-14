@@ -1,1 +1,3 @@
 CC-MAIN-2026-39 jobs.nike.com/* 1 10
+FAIL CC-MAIN-2026-39 careers.nike.com/*
+CC-MAIN-2026-39 nike.wd1.myworkdayjobs.com/* 1 14
