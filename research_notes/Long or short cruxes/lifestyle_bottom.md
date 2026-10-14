@@ -196,3 +196,51 @@ Reading: retailers describe retro basketball as still losing mix in mid 2026, an
 | 16 | nike.com catalog discount by franchise, `data/discount/nikecom_discount_by_franchise_20261013.csv` | 2026-10-13 | OPENED (repo) |
 | 17 | StockX, GOAT, eBay, Flight Club live pages | 2026-10-14 | Blocked (HTTP 403) |
 | 18 | web.archive.org CDX | 2026-10-14 | Blocked (connection reset) |
+
+## Skeptic review (2026-10-14)
+
+An independent re-check of the verdict above. Labels as in the rest of this note. No em-dashes.
+
+### A. Numbers re-checked at the source
+
+| Claim | Re-check | Status |
+|---|---|---|
+| Dunk "nearly 50%", "roughly $200 million headwind"; AF1 "stable full-price business"; P-6000 and V5 Runner "grew by strong double digits" | Confirmed word for word, Q1 FY27 official transcript (s1.q4cdn.com PDF, re-downloaded 2026-10-14) | OPENED |
+| Retro cut quote and "North America will feel the biggest impact" | Confirmed. But the very next sentence is "To give you a better sense of the scale of these actions in Q1, the Jordan Brand represented 13% of our global business with revenue falling by mid-teens." | OPENED |
+| FY27 guide "decline in the high single-digit range"; pressure "for the remainder of fiscal '27 and into '28"; Q2 one-off about 400 bps | Confirmed. Also found: Denton says the guide "assumes that China actually gets worse from a revenue perspective for the balance of this year." | OPENED |
+| Q2 to Q4 FY27 implied -7.9% to -10.6%; NIKE Brand ex China ex Converse -2.8% to -6.2% vs -0.8% in Q1 | Re-computed from `data/nike_filing_facts.csv` (revenues 11,720 / 12,427 / 11,279 / 10,972 / 11,213; Greater China 1,423 + 1,615 + 1,297 = 4,335; Converse 300 + 264 + 244 = 808). Arithmetic correct. | OPENED (repo) + [my arithmetic] |
+| Google Trends US Jul to Oct YoY 2026: Dunk Low -27%, AF1 +1%, Jordan 1 -23%, Jordan 4 -31% | Re-computed from the saved CSVs: -26%, +2%, -23%, -30%. Matches within rounding. | OPENED (files in `data/lifestyle_bottom/`) |
+| Q4 FY26 "improvement expected in the back half" | Confirmed: "We expect Sportswear and Jordan Streetwear to continue to be negative this fiscal year with improvement expected in the back half" (Q4 FY26 transcript). Not repeated on Oct 1. | OPENED |
+
+### B. Where the original note is wrong or overstated
+
+1. **The Jordan retro cut is not purely "still ahead". It is already in the Q1 numbers.** Nike framed Jordan's mid-teens Q1 decline as "the scale of these actions in Q1". Jordan was -3% reported (-5% currency-neutral) for all of FY26 (FY26 10-K, repo fact base), so Jordan went from about -3% to about -15% in one quarter [my arithmetic: Q1 FY27 Jordan about 13% x $11.2B = about $1.46B, implying about $1.7B a year earlier]. The repo's own Sole Retriever counts (`data/jordan_retro_release_counts_annual.csv`, branch wonderful-franklin, OPENED repo) also show the cut on specific silhouettes already in calendar 2026: AJ4 adult releases 33 (2025) to 14 (2026 dated, to Oct 13), AJ1 Mid 16 to 5, AJ1 High OG 15 to 10, all Jordan incl. kids 186 to 132. The note's line "the cut has not shown up in counts yet" is wrong for AJ4 and AJ1; only the core-retro total (113 to 91 so far) is ambiguous because the 2026 calendar is not complete. Consequence: the retro cut started around Q4 FY26 to Q1 FY27, so it laps around Q1 FY28 at the earliest, not Q2 to Q3 FY28. This makes the SHORT case on the 2 to 3 quarter horizon slightly weaker in degree (some of the pain is already in the base) but does not flip it, because Nike still says North America "will feel the biggest impact" and North America grew +2% in Q1 (so the NA leg is still ahead).
+2. **The narrow "three classics" drag has in fact shrunk a lot, which the note understates.** Nike's own disclosed classics headwind: about $1B in Q4 FY25, about $550M (4.4 points) in Q2 FY26, "roughly a 5-point headwind" in Q3 FY26, and only the Dunk's $200M (about 1.7 points) called out in Q1 FY27, with AF1 "stable" (Q2 FY26, Q3 FY26 and Q1 FY27 transcripts, OPENED). For Dunk, AF1 and AJ1 alone, the drag has roughly fallen from about 5 points to about 2 points, i.e. that piece is near its bottom. The SHORT verdict survives only because the question also includes Jordan retro and "aged, higher volume, sportswear footwear", and those new legs replace the old one: Sportswear plus Jordan was still "a high single-digit drag" in Q1 FY27.
+3. **Google Trends for Jordan 4 partly measures the supply cut, not only demand.** Search for a silhouette spikes on release weeks. With AJ4 releases down from 33 to 14, a 30% fall in "Jordan 4" search is partly mechanical. So S4 is weaker evidence of falling demand than the note implies. It is still consistent with falling revenue, which is what the crux asks. Dunk Low and Jordan 1 searches fell just as much in Jan to Mar 2026 (US, -19% and -21% YoY, my recompute from the same CSVs) as in Jul to Oct (-26%, -23%), so there is no narrowing; AF1 was +12% in Jan to Mar, so its bottom is confirmed twice.
+4. **World Cup roll-off is under-weighted.** The note dismisses it as a minority of Performance. Nike said Performance was up high single digits "benefiting from the World Cup", and Football grew double digits. If the World Cup added even $250M to $350M to Q1, that alone is 2.5 to 3.5 points of NIKE Brand ex China. That could explain most of the gap between Q1's -0.8% and the -2.8% (top of guide) in the rest of the year. It cannot explain the -6.2% (bottom of guide). So the guide-implied deterioration is real but may be mostly non-lifestyle at the top of the range. The size of the World Cup boost is not disclosed; this remains open.
+
+### C. New evidence found in this review
+
+| # | Fact | Source | Date | Status |
+|---|---|---|---|---|
+| 1 | Circana: US footwear H1 2026 +1% value; performance +6%; running +13% value and volume; fashion footwear flat; "sport lifestyle footwear declined" despite growth in running-inspired styles; full year 2026 expected "relatively flat" | World Footwear, citing Circana | 2026-09-02 | OPENED (secondary summary of Circana; Circana release itself not opened) |
+| 2 | nike.com US sale wall item count, same date YoY: 3,175 (2025-10-01) vs 4,831 (2026-10-01), +52%; 5,131 on 2026-08-20 vs 3,290 on 2025-08-06, +56% | `data/altdata/wayback_nike_us_sale_wall_item_counts.csv` (branch wonderful-franklin), Wayback captures | captures to 2026-10-01 | OPENED (repo) |
+| 3 | Piper Sandler teen survey: latest published is still Fall 2025 ("Nike remains the No. 1 brand in all footwear with mindshare starting to stabilize sequentially"); the survey has moved to once a year, with the 2026 edition due this fall | pipersandler.com/teens (fetched); sgbonline coverage | fetched 2026-10-14 | OPENED (page) / SNIPPET (format change) |
+| 4 | Jordan FY26 revenue $7,034M, -3% reported, -5% currency-neutral; FY25 -16% | FY26 10-K via `data/nike_filing_facts.csv` | 2026-07-15 | OPENED (repo) |
+
+Reading of new evidence: item 1 confirms at the category level (not Nike-specific) that sport lifestyle was still falling in H1 2026 while running grew; this is the taste-shift explanation, which supply cuts do not fix, and points SHORT for the 2 to 3 quarter horizon. Item 2 partly answers the open alternative in section 7 ("heavy discounting on new styles is seasonal clearance"): on the same calendar date, the nike.com sale assortment is about 50% larger than a year ago, so the discounting is not just seasonal timing. It points SHORT. Item 3 is a pending LONG catalyst: if the Fall 2026 survey shows Nike footwear mindshare up, it would be the first independent demand signal of a bottom.
+
+### D. Data that would point the other way (LONG) and was checked
+
+- Nike Q1 FY27 total classics dollar drag: down to about 2 points (above). LONG for the original three classics only.
+- StockX Jordan brand trades +6%, prices +5% in H1 2026 (in the note). LONG for brand heat at the top end, but SneakerPing shows AJ1, AJ3 and AJ4 general releases still 22% to 27% below retail.
+- Piper Sandler Fall 2025 "stabilize sequentially" (above). Mildly LONG, but a year old.
+- Nike's North America +2% in Q1 FY27 despite the cuts. LONG on overall NA health, but Nike says NA takes the biggest retro hit next.
+
+None of these overturn Nike's own Oct 1 statement that supply-cut pressure runs "for the remainder of fiscal '27 and into '28".
+
+### E. Skeptic verdict
+
+**SHORT holds on the question as asked (2 to 3 quarters), but strength is "moderate", not "strong."** Reasons to keep SHORT: Nike's own guide and words ("remainder of fiscal '27 and into '28"; the H2 improvement line dropped); Jordan decline accelerated from -3% to mid-teens and the NA retro leg is still ahead; aged sportswear "impacted our future order books"; category data (Circana) shows sport lifestyle still falling; nike.com sale assortment +52% YoY. Reasons to cut strength: (1) the Dunk/AF1/AJ1 drag has already fallen from about 5 points to about 2 points, so the original classics really are near a bottom; (2) the retro cut started in Q1 FY27, so it laps in Q1 FY28, not later; (3) part of the guided deterioration could be World Cup roll-off rather than lifestyle; (4) the new CFO set the guide to be "reasonable and attainable". For the pitch, the honest framing is: the lifestyle drag does not shrink before Q1 FY28, but by Q1 FY28 both the Dunk and the first year of the retro cut lap, so the case for a bottom is a FY28 story, not a FY27 one.
+
+What would flip this: Q2 FY27 (late December) showing Sportswear plus Jordan drag at low single digits, or Investor Day (Nov 16 to 17) sizing the retro cut as small and front-loaded in Q1 FY27. Fall 2026 Piper Sandler teen survey (due this fall) showing Nike footwear mindshare up would be the first independent demand signal.

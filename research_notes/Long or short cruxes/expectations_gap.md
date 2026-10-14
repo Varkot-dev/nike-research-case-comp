@@ -322,3 +322,116 @@ Positioning (REPO `consensus_and_valuation.md`): short interest rose from 75.6M 
 - Pfizer 8-K Ex. 99 (sec.gov/Archives/edgar/data/78003/): 000007800324000017, 000007800324000103, 000007800324000155, 000007800324000188, 000007800325000017, 000007800325000136, 000007800326000005, 000007800326000094 (OPENED).
 - Motley Fool, Dec 13, 2023, Pfizer consensus $3.16 (SNIPPET).
 - Repo files cited inline: `data/nike_filing_facts.csv`; `data/trackrecord/*.csv`; `research_notes/thesis_tests/consensus_and_valuation.md`; and the crux notes `china_floor.md`, `supplier_nowcast.md` and `na_sell_through.md`.
+
+## Skeptic review
+
+Prepared 2026-10-14 by an independent reviewer. I re-checked the key inputs at source and looked for data pointing the other way. Raw files are in the session scratchpad under `skeptic/`; they are not committed.
+
+### S.1 Verdict
+
+**I keep NEUTRAL (moderate), but for different reasons.** Two of the investigator's three legs are weaker than written, and one new primary fact points the other way:
+- The FY28 "consensus too high" leg is weaker. Consensus FY28 revenue (+1.1%, with Q1 FY28 at -2.0% and the turn to growth from Q2 FY28) matches what Denton actually said: pressure will "probably bleed in a little bit into fiscal '28". The note's paraphrase ("pressure into fiscal 28") overstates it. The EPS leg (+28% on +1% revenue) is still a stretch, but it depends on Pace savings timing, which Investor Day will set. Goldman made the same point on Oct 2 (Stocktwits, OPENED): the key question is "whether fiscal 2027 represents the trough or another step-down".
+- The "stock looked through the cut" leg is weaker in excess-return terms. The stock is back to its pre-print level, but the market and the sector rallied (table S.3). Against athletic peers, Nike lagged badly.
+- New and pointing LONG for the Dec print: I verified the post-Section 122 tariff regime at the primary source (S.2). The Q2 FY26 comparison carried -360 bps of tariffs at IEEPA rates of 19% to 20%. Q2 FY27 receipts face 10% to 12.5%. That supports Q2 gross margin above the 60 to 130 bps rise that consensus implies. The Q2 print (about Dec 17) comes after finals, though, so this cannot carry the pitch.
+
+Net: on the expectations question alone, neither LONG nor SHORT is supported. Investor Day (Nov 16 to 17) remains the event that settles it.
+
+### S.2 New primary evidence: the tariff regime now in force (closes the investigator's open item 5)
+
+- USTR, "Notice of Actions in Section 301 Investigations ... Forced Labor", signed July 23, 2026; FR doc 2026-15181, published Jul 28, 2026 (ustr.gov PDF "FLIP 301 Investigation Final Action FRN 7-23-26", OPENED). Key terms:
+  - Effective 12:01 a.m. ET, July 24, 2026, the moment Section 122 lapsed.
+  - **Vietnam: MFN + 12.5%** (HTS 9903.05.84, "The duty provided in the applicable subheading + 12.5%").
+  - **Indonesia, Cambodia, India, Bangladesh: 10%.**
+  - China: 12.5%, on top of existing Section 301 duties.
+  - The "net of MFN" cap applies only to the EU, Taiwan, Japan, Korea and Switzerland. It does not apply to Vietnam or Indonesia, so footwear gets no relief from its high MFN rates.
+  - I found no chapter 64 (footwear) HTS codes in the Annex exclusions.
+- Nike's sourcing mix (REPO `data/nike_filing_facts.csv`, FY26 10-K): footwear Vietnam 52%, Indonesia 27%, China 16%; apparel Vietnam 34%, China 12%.
+- Blended new rate on footwear: about 11.7% [arith].
+
+How this compares:
+
+| Benchmark | Rate | Source |
+|---|---|---|
+| Nike's own FY27 plan (Jun 2026) | 10% through July, then 15% | Q4 FY26 call, REPO `tariffs_costs.md` |
+| In force now | about 11.5% to 12% | USTR notice above |
+| Q2 FY26 comparison (IEEPA) | about 19% to 20% | Vietnam 20%, Indonesia 19% |
+
+- On Oct 1, Nike did not mention tariffs anywhere in the call; the only reference is "higher input costs" (transcript, OPENED). So whether the Oct 1 guide still embeds 15% is unknown.
+- If it does, the lower actual rate is worth very roughly $0.05 to $0.10 of FY27 EPS [arith]. The basis is Nike's $1.5B annualized gross tariff at IEEPA rates scaled to 15% and to 11.5%, with about 0.6 of a year's flow-through in FY27.
+- The notice is being challenged in court (secondary sources). No stay was found.
+
+Q2 FY27 gross margin cross-check [arith]:
+
+| Step | Estimate |
+|---|---|
+| Q2 FY26 tariff drag | -360 bps |
+| Q2 FY27 tariff drag at about 0.55 to 0.7 of that rate | about -200 to -250 bps |
+| Tariff effect, y/y | about +110 to +160 bps |
+| Non-tariff items, using Q1 FY27 as a guide (total +60 bps, of which product cost only +10 bps) | about +50 bps |
+| **Q2 FY27 GM change, y/y** | **about +150 to +200 bps, to about 42.1% to 42.6%** |
+| Consensus-implied (investigator's range) | 41.2% to 41.9% |
+
+- Each 50 bps of GM on $11.18B of revenue is about $56M of EBIT, or roughly $0.03 of EPS.
+- Q2 EPS upside of $0.03 to $0.07 against the $0.38 consensus is plausible.
+- Risks to this: deeper holiday discounting from the marketplace reset (Denton's "push and pull"), and China (45.7% GM) shrinking 25% to 35%, which hurts mix.
+
+### S.3 Price action re-checked (Nasdaq historical API, closes, fetched 2026-10-14, OPENED)
+
+Nike reported after the close on Oct 1, so the pre-print close is **$35.15 (Oct 1)**, not $35.40 (Sep 30) as the note states. The -3.6% day-1 move is still correct.
+
+| Ticker | Oct 1 | Oct 13 | Change |
+|---|---|---|---|
+| NKE | 35.15 | 35.33 | +0.5% |
+| SPY | 763.99 | 778.01 | +1.8% |
+| XRT | 82.62 | 84.33 | +2.1% |
+| DECK | 79.57 | 84.02 | +5.6% |
+| ONON | 30.20 | 35.49 | +17.5% |
+| LULU | 95.86 | 94.34 | -1.6% |
+
+- Nike's excess return since the print is -1.3% vs SPY and -1.6% vs XRT. It lagged DECK by about 5 points and ONON by about 17 points.
+- That is still far milder than earlier resets (-14% to -25% day-20 excess). L4 holds in direction, but "fully recovered" is mostly beta, not a sign the market priced in a rebound.
+
+### S.4 Other re-checks
+
+- **Consensus (Yahoo, investigator's saved payload re-parsed; Nasdaq/Zacks API re-fetched 2026-10-14, OPENED).** The numbers match:
+  - Yahoo: Q2 0.381, FY27 1.288, FY28 1.646.
+  - Zacks: FY27 1.26 (n 11), FY28 1.78 (n 14, high 3.22), FY29 2.31 (n 6).
+  - Zacks has Q1 FY28 at 0.50 and Q2 FY28 at 0.47 (n 5).
+  - The single stale 3.22 adds about $0.12 to the Zacks FY28 mean [arith]. Excluding it, Zacks is about 1.66, the same as Yahoo.
+  - Yahoo still shows FY27 down 5% in the last 7 days (1.356 to 1.288), so FY27 has not fully settled, contrary to "nearly stopped moving".
+  - A fresh Yahoo re-fetch was blocked (HTTP 429).
+- **Options (investigator's saved chain re-computed, OPENED).**
+  - Event variance = 9.5%^2 minus 8.0%^2, less 7 days at the base variance of 0.00021 per day.
+  - Result: an Investor Day straddle-equivalent move of about 3.4%, or a 1-sigma of about 4.3%. This confirms the low priced event risk.
+- **Short interest (FINRA consolidated short interest API, OPENED).**
+
+  | Settlement date | Shares short (M) | Days to cover |
+  |---|---|---|
+  | Jun 15 | 57.0 | |
+  | Jun 30 | 72.3 | |
+  | Jul 15 | 63.9 | |
+  | Jul 31 | 57.4 | |
+  | Aug 14 | 68.8 | |
+  | Aug 31 | 75.6 | |
+  | Sep 15 | 85.7 | |
+  | Sep 30 | 99.2 | 2.6 |
+
+  - Shorts added 23.6M shares in September into the print. The covering test needs the Oct 15 figure, published around Oct 23 to 24.
+- **"Buy-side about $1.50" (Piper).** I could not re-verify this; the search did not surface the Investing.com wording. The Stocktwits roundup of Oct 2 (OPENED) has no buy-side figure, and Citi says only that the guide was "below market expectations". Treat it as a single-source claim.
+
+### S.5 Alternatives, after review
+
+- **"FY28 consensus revenue contradicts management."** Ruled out by the transcript wording ("bleed in a little bit"). The FY28 risk sits in EPS and Pace timing, not revenue.
+- **"Tariff relief is upside not in numbers."** Partly confirmed:
+  - The regime is verified at 10% to 12.5%, below Nike's 15% plan.
+  - It is still open whether the Oct 1 guide already uses actual rates. Nike was silent.
+- **"The muted reaction proves the market priced through the cut."** Weakened:
+  - The excess return is -1.3%, and peers rallied 5% to 17%.
+  - A record short build (+31% in September) may explain the lack of follow-through selling.
+
+### S.6 What would settle it
+
+1. Investor Day FY28 framework and Pace savings phasing against FY28 EPS of 1.65 and FY29 EBIT margin of 8.9%. This is unchanged from the note.
+2. Any Nike comment, at Investor Day or in an 8-K, on the tariff rate embedded in guidance.
+3. FINRA short interest for Oct 15 (out about Oct 23) and Oct 31.
+4. The Q2 FY27 gross margin (about Dec 17), against about 41.5% implied by consensus.

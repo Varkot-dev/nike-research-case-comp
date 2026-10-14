@@ -160,3 +160,32 @@ Archived Running Warehouse pages could not be re-fetched for model-level history
 | 16 | SGB, Karnan/Circana run specialty 12 months to Sep 2025 | 2025-12-03 | OPENED (repo) |
 | 17 | Brooks specialty No. 1 claim; Pegasus 43 reseller blog; WWD On vs Nike (paywalled) | 2026 | SNIPPET |
 | 18 | web.archive.org (connection reset, not reachable on 2026-10-14) | 2026-10-14 | FAILED |
+
+## Skeptic review (2026-10-14, independent re-check)
+
+**Verdict: holds. SHORT, moderate, and the nike.com discount evidence is stronger than stated above.** The investigator understated discounting on Nike's own site, but overstated what Fleet Feet's clean shelf proves.
+
+### Numbers re-checked at source
+
+1. **Fleet Feet (CSV re-run, OPENED in repo).** Pegasus 42 (any title containing it, in stock): 8 of 30 colourways discounted ($108.97 or $108.75 vs $145), 944 of 4,187 units (23%). Vomero 18 0 of 48. Vomero Plus, Pegasus Plus 2, Structure 26 and Pegasus Premium all 0%. Matches the note (26 vs 30 colourways depends on whether SE and other variants are counted).
+2. **nike.com Vomero 18 figure is wrong, and it understates the discounting.** The "29 of 115 (25%)" figure counts about 70 NFL team, college, By You and GORE-TEX listings that are never discounted. The repo feed (2026-10-13) for the core inline adult shoe titled exactly "Nike Vomero 18" shows **27 of 44 colourways discounted (61%)**. For "Nike Pegasus 42" the same count is **25 of 48 (52%)**, not 43%. [my arithmetic, OPENED (repo)]
+3. **Live re-pull of nike.com, 2026-10-14 (NEW, OPENED).** I read the search pages for "pegasus 42" and "vomero 18" (the page's embedded product data), excluding kids, By You and GORE-TEX. Pegasus 42 was **25 of 46 discounted (54%)**, average 23% off. Vomero 18 was **26 of 41 (63%)**, average 18% off. Vomero Plus was 5 of 32 (16%). Six discounted Pegasus 42 colourways carry Nike's own "Best Seller" badge, for example IB1873-105 at $97.97 vs $145 (32% off) and IB1873-005 at $102.97. **So the discounts are not limited to unpopular colours.** Big Kids' Pegasus 42 is mostly at $65.97 vs $112 (41% off). Saved to `data/marketplace/nike_search_pegasus42_vomero18_20261014.txt`.
+4. **Pegasus 41 control (repo `time_to_markdown_by_colorway.csv`, OPENED (repo)).** Of 15 Pegasus 41 colourways from 2024, 9 had a Wayback capture at full price after day 214. Several were still at full price on days 469 to 539 (FD2722-001, -002, -102, FD2723-001, -002, -102). Pegasus 42 is at 52% to 54% discounted around day 190. The comparison is a stronger contrast than the note's 25% vs 42%. One caveat: Pegasus 42's age is measured from the model launch, and many colourways launched later, so colourway-level ages are younger. That makes Pegasus 42 look faster, not slower.
+
+### Data the investigator missed that points the other way, or weakens their evidence
+
+- **Fleet Feet's clean Nike shelf is new pipeline fill, not proof of sell-through.** Nike and Fleet Feet announced a nationwide vendor partnership on Apr 7, 2026. It moved Nike from select doors to a rollout across more than 285 stores, launched alongside the Pegasus 42 on Apr 9, 2026 (Footwear Magazine, published 2026-04-08 and updated 2026-10-03, OPENED). Stock that arrived recently, in new doors, is expected to be at full price. Shipments into those doors also lift Nike's reported wholesale running growth with sell-in, not consumer demand. Even so, **Pegasus 42 is already 27% to 31% discounted at Fleet Feet**, the new partner, within 6 months. This weakens Fleet Feet as LONG evidence.
+- **Vomero 18 is an older model than the competitor comparisons assume.** Vomero 18 launched on Feb 27, 2025 (Complex, SNIPPET), so it is about 20 months old, while Clifton 11, Nimbus 28 and Ghost 18 are newer. Some Vomero 18 clearance on nike.com may be end of life, and a Vomero 19 is rumoured (Sundried review page, SNIPPET, unreliable). This is the best alternative explanation the investigator did not test, and it **partly survives for Vomero 18**. Three things argue against it: Nike is still adding new Vomero 18 colourways at $165, Fleet Feet holds all 48 Vomero 18 colourways at full price, and Nike has announced no successor. It **does not apply to Pegasus 42** (6 months old, still getting "Just In" colourways), and Pegasus 42 is the clean test.
+- **LONG evidence that survives:** Nike gets 6.0% of Fleet Feet views on 2.2% of its units (ratio 2.78). Nike's premium running models (Vomero Plus 16% discounted on nike.com, Vomero Premium and Pegasus Plus 0%) hold price. Karnan put Nike's 2025 independent run-specialty sales at +35% (Running Insight, 2026-01-20, OPENED). These show real demand at the premium end of Nike's range, which is a small part of its running volume.
+- **Nike's own filing agrees with SHORT.** NIKE Brand footwear in Q1 FY27 had units -5% and ASP -1 point on "channel mix and higher discounts". North America footwear pairs were +2% at a lower ASP (Q1 FY27 10-Q pp. 23 and 26, OPENED (repo) `data/discount/units_vs_asp.csv`). Growth in North America, where running is the stated driver, came with lower prices, not higher ones.
+- Not found: any 2026 Nike-specific run-specialty share or average-price figure. Searches of Running Insight, SGB and Circana-via-press returned only 2025 data (SNIPPET).
+
+### Alternatives after review
+
+- "Only unpopular colourways are discounted": ruled out. Best Seller-badged Pegasus 42 colourways are 25% to 32% off on nike.com.
+- "Vomero 18 is in end-of-life clearance": partly open. Settle it with Nike's spring 2027 calendar (Investor Day) or a Vomero 19 announcement.
+- "The Fleet Feet full-price shelf shows healthy demand": weakened. The stock is weeks to months old after a rollout, and Pegasus 42 is already discounted there.
+
+### Skeptic bottom line
+
+The core claim survives at the source and gets stronger. More than half of Nike's two volume running shoes are discounted in its own channel, faster than in 2024. Nike's filing reports lower footwear ASP on higher discounts, and Circana shows running unit and dollar growth equal (flat ASP). Strength stays **moderate** rather than strong for three reasons: Nike does not disclose running price or margin data, the Vomero 18 age caveat is real, and premium Vomero and Pegasus Plus hold price. Sources added: nike.com search pages (2026-10-14, OPENED); Footwear Magazine on the Fleet Feet partnership (2026-10-03 update, OPENED); Running Insight (2026-01-20, OPENED); Complex on the Vomero 18 launch date (SNIPPET); Sundried on Vomero 19 (SNIPPET).

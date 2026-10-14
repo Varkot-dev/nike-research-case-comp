@@ -186,3 +186,36 @@ Nike's own NA inventory was -0.9% (Q1 FY27 10-Q p. 17, repo). Inventory therefor
 | 19 | Goldman estimate of Amazon deal at $300M to $500M a year of wholesale (Scripps syndication) | 2025 | SNIPPET |
 | 20 | Repo: research_notes/thesis_tests/retailer_sell_through.md and DEEP_DIVE_DEFINITIVE_TESTS.md (wonderful-franklin), us_wholesale_partner_destocking.md (stoic-shannon) | 2026-10-13 | OPENED (repo) |
 
+
+## Skeptic review (2026-10-14, independent re-check)
+
+Labels as above. I re-opened the key sources rather than trusting the notes.
+
+### A. Numbers re-checked at source (all hold)
+
+- Nike Q1 FY27 10-Q, NA segment table (SEC, 2026-10-02, OPENED, local copy of nke-20260831.htm): revenue $5,127M vs $5,020M (+2%); wholesale $2,981M vs $2,736M (+9.0%, +$245M); NIKE Direct $2,146M vs $2,284M (-6.0%, -$138M); footwear $3,259M vs $3,219M (+1%), units +2%, ASP lower on "channel mix and higher discounts"; apparel $1,566M vs $1,474M (+6%), units flat, ASP +6 pts. NA inventory $3,491M at Aug 31 vs $3,320M at May 31.
+- FRED shoe stores NSA (MRTSSM4482USN, fetched 2026-10-14, OPENED): Apr 2,998 vs 2,967 (+1.0%), May 3,328 vs 3,336 (-0.2%), Jun 3,050 vs 2,993 (+1.9%), Jul 3,600 vs 3,569 (+0.9%). August not yet published. CPI footwear Aug 151.979 (index, OPENED). Investigator figures confirmed.
+- FRED advance sporting goods, hobby, musical instrument and book stores SA (RSSGHBMS, OPENED): Aug 2026 8,752 vs Aug 2025 7,987 = +9.6% [my arithmetic]. Strong, but it is the broad hobby/sporting-goods line (trading cards, World Cup), not footwear, so it does not change the crux.
+- DKS Q2 2026 10-Q (SEC, 2026-09-10 filing of period ended Aug 1, 2026, OPENED): Foot Locker pro forma comp -3.6% (Q2) and -1.6% (H1); $40.4M write-down and liquidation of Foot Locker inventory in H1; "inventory grew within the industry, particularly in certain legacy footwear silhouettes ... increasingly aggressive promotional environment for key athletic brands". Investigator quotes confirmed.
+
+### B. Problems found in the investigator's evidence
+
+1. **Misattributed quote.** "The industry is carrying too much inventory" was said about **EMEA**, not North America. Full context (DKS Q2 call, Motley Fool transcript, OPENED): "the Foot Locker business in EMEA has been more challenging than expected ... The promotional environment remains very aggressive in EMEA. The industry is carrying too much inventory and the consumer has been even more cautious than expected". Stack did separately say inventory "built up across the industry supply chains and across the retail marketplace" (no region), so the point survives, but the strongest line should not be used as US evidence in the pitch.
+2. **Foot Locker inventory build is not proven to be NA.** DKS discloses Foot Locker Business inventory only in total ($2.0B rounded at Aug 1, 2026). International was $580.5M of the $1.7B Q2 Foot Locker sales (about 34%; 10-Q geographic revenue note, OPENED), and Stack names EMEA as the overstocked region. The investigator's "about $100M of Nike product at NA cost" assumes the build is spread pro rata; it could be skewed to EMEA. Counter-point that keeps the NA build plausible: Foot Locker closed 84 NA stores in H1 (1,610 to 1,531, including 44 WSS; 10-Q store table, OPENED), so even a flat NA inventory would be up per store.
+3. **Accounting comparability checked, not a problem.** DKS's preliminary fair value of Foot Locker inventory at Sep 8, 2025 was $1,718M (10-Q Note 2, OPENED) against Foot Locker standalone $1,709M at Aug 2, 2025 (repo). The basis change at acquisition was small, so the +14% to +20% derived YoY rise is not an accounting artefact [my inference].
+4. **The +9% wholesale is not mainly footwear.** Total NA footwear grew only $40M while apparel grew $92M, almost all price/mix (units flat). Wholesale footwear growth must be well below +9% unless Direct footwear fell sharply. Part of the "fill" is apparel, where DICK'S said Nike's new fleece line is "doing extremely well" (Stack, call, OPENED). That softens the fill story for apparel, but apparel at flat units is not a demand-growth signal either.
+5. **Stack is on record against the "demand" reading.** "I don't think this is a demand issue going forward from a footwear standpoint"; Nike running (Vomero, Pegasus), Nike Mind and basketball named as strong; Fast Break stores "have definitely outperformed the traditional legacy stores"; ordering changes "nothing really out of the ordinary" (call, OPENED). He also cut the Foot Locker full-year pro forma comp guide from +1.5% to +3% down to -2% to flat, which implies a negative H2 at Foot Locker (Fool summary of the release, OPENED). Net: the retailer view is "legacy and lifestyle glut now, newness later", consistent with the investigator.
+6. **Nike's own guidance language confirms prior-year sell-in.** Friend (Q1 FY27 call, OPENED): Q2 headwind includes "a higher comparison of North America sell-in activities versus last year". Nike is telling investors that Q2 FY26 (Sep to Nov 2025) shipments ran ahead of normal. That is direct company evidence that part of the NA wholesale growth was sell-in, supporting the crux.
+
+### C. Searches for evidence pointing the other way (none found)
+
+- No 2026 Nike-specific US card-spend, Placer.ai or Circana brand figure on open pages (WebSearch, 2026-10-14). Circana H1 2026: footwear dollars +1%, units down, running +13%, sport lifestyle down (WWD and SGB, SNIPPET; already in the notes).
+- No retailer has reported a period ending after Aug 2, 2026 except partial quarter-to-date remarks already cited (Shoe Carnival August -2.7%, Famous flat through Labor Day). DICK'S declined to give back-to-school data.
+
+### D. Skeptic verdict
+
+On the narrow crux (is NA consumer demand for Nike growing?) the answer is **no, demand was roughly flat to slightly down in dollars and down in units/real terms**. The single measured Nike sell-through line, NIKE Direct NA, fell 6%; the partner comps are negative where Nike lifestyle is heavy; and Nike itself says it is lapping NA sell-in and cutting order books for excess aged sportswear. The investigator's conclusion holds.
+
+I downgrade strength from strong to **moderate** because: (a) the most quoted inventory line was about EMEA; (b) the Foot Locker inventory build cannot be split by region; (c) the Nike share of every partner comp is inferred; (d) much of the wholesale gain is apparel price/mix, not footwear fill; (e) the conclusion is already reflected in Nike's guidance (about 400 bps Q2 headwind, FY27 down high single digits), so it supports SHORT only if the unwind proves larger than guided, which this crux cannot show.
+
+What would settle it: Census August shoe-store sales (next MRTS release); DICK'S Q3 (late November) Foot Locker inventory versus sales and any NA/International split; JD Q3 trading statement; Nike Investor Day NA order-book commentary; Nike Q2 FY27 NA wholesale versus the guided headwind.

@@ -173,3 +173,47 @@ What turned the analogs that did bottom: an outside CEO hire (adidas, Starbucks)
 - Nike's November 2026 dividend declaration: a cut (VF and adidas pattern) or a freeze with an explicit capital plan would be the first trigger of the kind that preceded comparable bottoms; another token raise repeats the Starbucks path, which did not end the slide.
 - Q2 FY27 results (expected around Dec 17, 2026): every analog bottom that held was confirmed by the first beat against a reset bar within one to two quarters (UA Feb 13, 2018 +17.4%; adidas May 5, 2023 +8.9%, S1).
 - FINRA short interest for Oct 15 and Oct 30, 2026 (published about Oct 24 and Nov 10): covering into Investor Day with the price flat would be a positioning, not a fundamental, signal.
+
+## Skeptic review
+
+Prepared 2026-10-14 by an independent reviewer. Scripts: `scratchpad/skep/` (`chk.py`, `wide.py`, `uncond.py`, `drop.py`, `drop2.py`), reusing `scratchpad/hist/tool/px.py`. New price files for 30 non-apparel consumer and brand names fetched from the Yahoo v8 chart API on 2026-10-14 (OPENED).
+
+### 1. Numbers re-checked at source (all reproduce)
+
+- NKE close $35.35 on 2026-10-12 and $35.33 on 2026-10-13; low of 2026 was $33.87 on 2026-10-02 (Yahoo v8, fetched 2026-10-14, OPENED).
+- 12m excess after 2023-12-22 (-53), 2024-06-28 (-17), 2024-09-20 (-33), 2025-06-27 (-61), 2025-10-01 (-65), 2022-09-30 (-4), 2017-06-16 (+36): all match section 2 and 3 (fresh download, OPENED, ARITH).
+- FINRA consolidated short interest (api.finra.org, fetched 2026-10-14, OPENED): 99,243,778 shares on 2026-09-30, days to cover 2.59, average daily volume 38.3M. Path: 57.0M (Jun 15), 72.3M (Jun 30), 57.4M (Jul 31), 75.6M (Aug 31), 85.7M (Sep 15), 99.2M (Sep 30). Short interest rose 31% in September while the price fell from $39.06 to $35.40. Against Class B float (about 1.17B to 1.2B shares; Class A is held by Swoosh LLC) that is about 8% to 8.5%, not an extreme level.
+- Dividends (Yahoo events, OPENED): NKE 0.40 to 0.41 from Dec 2025; SBUX 0.61 to 0.62 from Nov 2025. Both match.
+
+### 2. Where the verdict is weaker than stated
+
+**(a) "8 of 8 negative" in Nike's current cycle is one observation, not eight.** The 12-month windows overlap (Dec 2023 to Oct 2026), so they all measure the same slide. This is a description of the last three years, not an independent base rate. It should carry little weight as a forecast.
+
+**(b) The headline -15 median comes from hand-picked events at the 60% threshold, with 5 companies.** I ran a systematic version on the same 31-name universe and price files: every day with a one-day drop of 8% or more (a proxy for a guide cut) when the stock was already at least X% below its 5-year high, one event per 90 days, index trailing 12m above -5% (idiosyncratic), 2020 excluded (ARITH, `drop2.py`):
+
+| Universe and depth | N events | Companies | Median 6m excess | Median 12m excess | 12m positive | Company-weighted median | Companies with positive median |
+|---|---|---|---|---|---|---|---|
+| Brands, 60% or more below peak | 89 | 18 | -8 | -17 | 35 of 89 | -10 | 8 of 18 |
+| Brands, 75% or more below peak (Nike is at 80%) | 40 | 9 | -10 | -4 | 19 of 40 | +14 | 6 of 9 |
+| Brands plus retailers, 60% | 138 | 26 | -1 | -2 | 68 of 138 | +13 | 15 of 26 |
+| Brands plus retailers, 75% | 53 | 14 | -2 | +15 | 29 of 53 | +15 | 10 of 14 |
+
+At the 60% stage the SHORT result holds (median -17). But Nike is not at the 60% stage; it is at 80%. At Nike's actual depth the brand result is about a coin flip on events (-4, 19 of 40) and slightly positive by company (+14, 6 of 9). The 75% bucket is dominated by small caps (Fossil 17 events, Vera Bradley, Wolverine, Carter's), so it is a noisy reference too.
+
+**(c) The benchmark is not zero.** Sampling every month for the same 31 names (2005 to 2025, 2020 excluded), the median single-stock 12m excess versus the index is -3.6 (46% positive, N = 6,436). For months when the stock was already 60% or more below its 5-year high it is -1.2 (49% positive, N = 888) (ARITH, `uncond.py`). So "below zero" is the normal outcome for a single apparel stock against the index. A -4 median at 75% depth is no different from the unconditional rate.
+
+**(d) Wider consumer-brand set (new data).** I added 25 large consumer and brand names outside apparel (EL, CMG, MCD, MAT, HAS, INTC, PTON, KHC, DIS, TGT, PYPL, SBUX, CROX, ANF, BUD, NWL, LVMUY, KER.PA, BURBY and others), first day each year at 60% or 75% below the 5-year high, same idiosyncratic filter (ARITH, `wide.py`):
+- 60% depth: N = 63, median 12m excess -9, 26 of 63 positive, median worst point in the next 12 months -22%.
+- 75% depth: N = 26, median -16, 12 of 26 positive. Altria (MO) cases are spin-off artifacts (Kraft and PMI spin-offs cut the price, not the value); removing them leaves 10 of 24 positive. Losers are mostly levered or broken models (Peloton, PayPal, Newell, Estee Lauder 2024); winners are brand turns (Burberry Sep 2024 +96, Kering 2003 and 2025 +23 and +22, Abercrombie Aug 2017 +68, Crocs 2009 to 2010 +88 and +102).
+- Without the idiosyncratic filter (letting in 2003 and 2009), the 60% sample turns neutral to positive (N = 79, median -3, 24-month median +7), which shows how much of any "bottom" depends on the market tide.
+
+This tilts slightly SHORT but is not decisive; Estee Lauder (most like Nike: iconic brand, China exposure, high P/E on trough EPS, dividend cut, new CEO) shows -72, -13 and +1 after its 60% and 75% crossings, so it fell for two years after the dividend cut and new CEO, which undercuts the "dividend cut is the bottoming trigger" idea in section 8.
+
+### 3. Data the original missed that points LONG
+
+- In the brand universe at 75% or more below peak, company-weighted results are positive (+14, 6 of 9). The right tail is large: VF Feb 2024 +43 and Jun 2025 +32, Wolverine Nov 2023 +164, Carter's Jul 2025 +36, Puma Jul 2025 +33, UA Oct 2017 +71.
+- Short interest rose 31% in September 2026 to a record, but days to cover is only 2.59, so this is a crowded view, not a squeeze setup. It does mean the bearish view is consensus positioning, which a short pitch has to beat.
+
+### 4. Reviewer verdict
+
+The data I re-checked are accurate. The conclusion that history points SHORT is overstated. (1) The Nike current-cycle "8 of 8" is a single overlapping path. (2) The pooled -15 depends on the 60% threshold; at Nike's actual 80% depth the systematic event study gives about -4 by event and +14 by company, against an unconditional benchmark of about -4. (3) The wider consumer-brand set tilts mildly negative at 75% (10 of 24 positive excluding Altria artifacts) but with fat tails both ways. History at this valuation and sentiment does not resolve LONG versus SHORT: it is close to a coin flip with a typical further drawdown of 20% to 25% inside 12 months and a fat right tail. Verdict: NEUTRAL (history does not settle it). The deciding evidence has to be fundamental (Investor Day FY28 framing on Nov 16 to 17, the mid-November dividend declaration, Q2 FY27 around Dec 17), not base rates.

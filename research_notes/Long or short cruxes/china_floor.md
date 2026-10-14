@@ -181,3 +181,53 @@ All three trade below retail. No time series is available, so I cannot tell whet
 - **Tmall Double 11 2026 presale and half-time rankings.** From Oct 15 to early November.
 - **Nike Investor Day, Nov 16 to 17.** A China revenue bridge for the January 2027 online cut.
 - **Not settleable with public data:** Nike-brand sales inside Topsports and Pou Sheng, Nike GMV on Tmall, JD and Douyin, and a Dewu price time series.
+
+## Skeptic review
+
+Reviewer date: 2026-10-14. Independent re-check of the verdict above. Same labels: OPENED = I read the primary text myself today; SNIPPET = search summary only; "my arithmetic" = simple arithmetic on OPENED figures.
+
+### A. Re-checks at source
+
+| Claim in the verdict | Re-check | Status |
+|---|---|---|
+| Denton: guidance "assumes that China actually gets worse from a revenue perspective for the balance of this year" | Q1 FY27 transcript text (s1.q4cdn.com PDF, local copy), lines 603 to 608. Exact. Same answer adds "that's what you should expect from that business for the balance of fiscal '27." | Confirmed, OPENED |
+| Denton: "will further dampen China compared to Q1 from a growth perspective" | Same transcript, line 753. Exact. Denton also says the pain runs "through the balance of this year and probably bleed in a little bit into fiscal '28." | Confirmed, OPENED |
+| Pou Sheng Sep 2026 -2.5%, 9M -3.9% | HKEX 2026101200300 (2026-10-12): RMB1,314,827k vs 1,347,982k, "decreased by 2.5%"; 9M RMB12,402,721k vs 12,902,786k, "decreased by 3.9%". | Confirmed, OPENED |
+| Pou Sheng Q1 FY27 (Jun to Aug) -10.4% | My arithmetic on the table: 3,203,316 vs 3,576,644 = -10.4%. | Confirmed |
+| Q1 FY27 GC -26% c-n, wholesale -31%, Direct -18% (digital -28%, stores -14%) | Q1 FY27 10-Q (nke-20260831), p. 28, local text. Exact. | Confirmed, OPENED |
+| Topsports Q2 FY26/27 update "expected about Oct 21 to 22" | **Corrected.** HKEX 2026101200757, Topsports notice of board meeting dated 2026-10-12, OPENED: board meets **Wednesday, Oct 28, 2026** to approve interim results for the six months to Aug 31, 2026. That is 4 days before the Nov 1 submission. | Date corrected |
+| Pou Sheng next data | HKEX 2026101200332 (2026-10-12), OPENED: board meets **Nov 12, 2026** to approve 9M results. The October monthly revenue should arrive about Nov 10 to 12. Both after Nov 1, before the Nov 19 finals. | New |
+| Anta, Li-Ning, Xtep Q3 2026 updates | HKEX title search for each, Sep 1 to Oct 14, 2026, OPENED: none filed yet. Anta's only October filing is completion of its 29.06% Puma stake (2026-10-07). | Confirmed not out |
+
+Small issue: the "gap to adidas" row compares Nike's Jun to Aug quarter with adidas' Apr to Jun quarter. The direction holds, but the -41 point figure mixes periods.
+
+### B. New evidence the verdict did not use
+
+1. **Nike's own China stores (pure consumer sell-through, untouched by the partner digital cleanup) got worse, not better.** Store sales growth by quarter, from each 10-Q, OPENED from sec.gov today:
+   - Q1 FY26 (Jun to Aug 2025): -4%, comp -5% (nke-20250831)
+   - Q2 FY26: -5%, comp -7% (nke-20251130)
+   - Q3 FY26: +1%, comp -1% (nke-20260228)
+   - FY26 full year: -4% (10-K, REPO), so Q4 FY26 was roughly -7% to -8% (my rough arithmetic, assuming similar quarterly weights)
+   - Q1 FY27 (Jun to Aug 2026): **-14%** (nke-20260831)
+   This is the cleanest Nike-only sell-through series available, and it worsened about 15 points from Q3 FY26 to Q1 FY27. Caveat: Q1 FY27 gives no comp-store figure, so some of the drop could be store closures. Even so, it does not fit "only sell-in is falling".
+2. **Greater China inventory is moving in line with revenue, not ahead of it.** Segment inventory: Aug 31, 2025 $1,097M; Aug 31, 2026 $853M, which is -22% YoY against -22% reported revenue (10-Qs, OPENED; my arithmetic). Inventory rose 7.6% from May to Aug 2026 ($793M to $853M), against +15% in the same months of 2025 ($951M to $1,097M). So Nike is not building a new China glut, but it is not ahead of demand either. This is neutral and does not support a floor.
+3. **The broader consumer was not weak in September and October 2026, which makes Pou Sheng's -2.5% look less like a Nike recovery.**
+   - Ministry of Commerce, Mid-Autumn holiday (around Sep 25): key retail and catering firms' daily sales +6.1% on the lunar calendar; "户外运动装备" (outdoor sports gear) +30.2%. SNIPPET (gmw.cn 2026-09-28, 10jqka 2026-09-27).
+   - Ministry of Commerce, National Day Oct 1 to 6: 78 pedestrian streets footfall +2.5%, sales +4.7%; outdoor sports gear +10.4%. OPENED (gmw.cn 2026-10-08, citing People's Daily of Oct 7).
+   A multi-brand retailer down 2.5% in a month when holiday retail grew about 5% to 6% is still losing ground.
+4. **10-Q text extends the China reset past FY27.** Q1 FY27 10-Q p. 20, OPENED: actions "for Greater China to extend beyond fiscal 2027." The Q3 FY26 10-Q had said negative impacts would continue "throughout fiscal 2027" (REPO). The horizon got longer, not shorter.
+5. **Press coverage of the call.** SFCCN/Chengdu Business Daily (2026-10-03, OPENED) calls Q1 FY27 Nike's ninth straight quarter of decline in Greater China and confirms the partner notices about Jan 1, 2027. It gives no sell-through or GMV data.
+
+### C. The strongest case for the other side, tested
+
+- **Pou Sheng September with a holiday-matched base.** Mid-Autumn fell in September in 2024 (Sep 17) and 2026 (Sep 25) but not in 2025 (Oct 6). So the 2-year stack against Sep 2024 is roughly holiday-matched, and it is -7.2%. That is better than the Jun to Aug 2-year stacks (-14.5% to -23.5%) and the Mar to May average (about -11.7%). This is the best LONG data point, and it survives the calendar objection better than the original note says. It still does not survive three other objections:
+  - It is one month, and Pou Sheng's 2-year stacks swing a lot from month to month (May -5.9%, then Jun -23.5%).
+  - It is multi-brand, adidas is growing, and holiday retail overall was up about 5% to 6%.
+  - Partners may be pulling forward online sales of Nike before the Jan 1 cutoff.
+  The decision rule is Pou Sheng October (about Nov 10 to 12), where National Day falls in both years. If October's 2-year stack is better than -8%, a consumer-level floor becomes plausible.
+- **Some partner online volume will move to Nike's own flagships after Jan 1, at better prices.** This is real. Nike Direct revenue per unit is higher than wholesale. But Denton's guidance already nets this, and it still says China is worse than -26%. It is not an argument for a floor in H2 FY27 reported revenue.
+- **"The market already knows."** This is true for the guidance, but it is a valuation question, not a floor question. It is the main reason this crux alone does not settle LONG vs SHORT on the stock.
+
+### D. Verdict
+
+The verdict holds: **SHORT, strong**. On the question as asked (has the decline found a floor going into H2 FY27), management guidance (OPENED, twice on the call), the 10-Q "beyond fiscal 2027" language and the Jan 1, 2027 channel cut leave little room for a floor in reported revenue. The new store-sales series also cuts against a consumer floor up to August 2026. The only contrary data point (Pou Sheng September) is somewhat stronger than first stated once the base is holiday-matched, but it is one month, from a multi-brand retailer, and it came in a month when holiday retail was up about 5% to 6%. What would change this: Topsports' interim results on **Oct 28** showing Jun to Aug better than low-teens, together with Pou Sheng October with a 2-year stack better than -8%.

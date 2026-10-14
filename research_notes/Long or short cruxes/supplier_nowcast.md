@@ -118,3 +118,43 @@ Regressing Nike Brand footwear YoY on the prior quarter's Feng Tay USD YoY, FY20
 - Feng Tay October 2026 (about Nov 10) and November (about Dec 10) USD YoY better than -5% would be the first sign of a turn (LONG). Worse than -10% would suggest Q3 FY27 below the guided path (stronger SHORT).
 - Feng Tay Q3 2026 results (mid-November): pairs vs ASP split.
 - Nike Investor Day (Nov 16 to 17) order-book commentary for Spring 2027.
+
+## Skeptic review
+
+**Written:** Oct 14, 2026, by an independent reviewer. Labels as above (OPENED, SNIPPET, MIRROR, DERIVED).
+
+### A. Numbers re-checked at source
+
+| Item | Check | Result |
+|---|---|---|
+| Feng Tay NT$ Jul to Sep 2025 and 2026 | FinMind API pulled again Oct 14, 2026 (MIRROR); August also against MOPS t21sc03_115_8_0.html (OPENED Oct 14, 2026: Aug 2026 7,370,345; Aug 2025 7,582,135; Jul 2026 7,394,317) | Match |
+| Feng Tay USD YoY | Recomputed with repo FX file | Jul -8.0%, Aug -8.5%, Sep -8.8%. Match |
+| Feng Tay September | Economic Daily News (money.udn.com/money/amp/story/5607/9803963), Oct 8, 2026, OPENED: NT$6.44bn, -4.7% YoY; Jan to Sep NT$60.82bn, -3.1%; visibility 3 months firm plus 6 months rolling | Match |
+| Lai Yih, Fulgent Sun, Paiho August | MOPS -KY page t21sc03_115_8_1.html, OPENED Oct 14, 2026 (the September -KY page was blocked for me too): Lai Yih 2,717,659 vs 2,635,107; Fulgent Sun 1,694,201 vs 1,252,096 | Match. Lai Yih USD Jul -1.6%, Aug -2.9%, Sep +9.1% (MIRROR plus DERIVED) |
+| Yue Yuen manufacturing | Repo HKEX file | Jul -10.0%, Aug -1.6%, Sep +6.6%. Match |
+
+No arithmetic errors found in the investigator's tables.
+
+### B. One input is off, and it makes the SHORT reading slightly stronger
+
+- The "Nike 88% to 90% of Feng Tay" figure is press (Commercial Times). Feng Tay's audited FY2025 report shows its single largest footwear customer at NT$69.6bn of NT$83.5bn external revenue, **83.3%** (repo `customer_concentration.csv`, VERIFIED from fengtay.com 2025Q4.pdf). Receivables from that customer fell from 66% (Dec 2025) to **60%** (Jun 2026) of the total (2026Q2 report, VERIFIED in repo).
+- Redoing Section 3e with 83% Nike (DERIVED): non-Nike flat gives Nike part -10.1%; non-Nike +10% gives -12.1%; +20% gives -14.1%. So Nike's run rate at Feng Tay is about -10% to -14% in USD, not -9% to -12%.
+
+### C. Evidence the investigator under-weighted that points the OTHER way (or toward neutral)
+
+1. **Yue Yuen's turn is real, not just a base effect.** Two-year stacks of Yue Yuen manufacturing (DERIVED from HKEX monthly announcements in repo): Jul -9.6%, Aug -11.1%, Sep +2.5%. Nike is very likely Yue Yuen's largest customer (24% of 2025 sales, unnamed in the annual report; Nike is named first among its brands). This does not prove Nike is turning: if Nike were -10% at Yue Yuen, the other 76% would need about +12%, which is plausible given Lai Yih and Fulgent Sun. But it keeps "Nike moving orders between factories" open.
+2. **Supplier consensus for 2027 is flat, not down.** MoneyDJ "《DJ在線》Nike力拚走出低潮，台廠訂單止穩、真正復甦看後年", 林昕潔, Aug 25, 2026, OPENED (moneydj.com NewsViewer a=db9de9ff-6762-4d82-b271-cf167550a810): "供應商普遍預期，Nike明(2027)年下單量可能較2026年持平至小幅成長，真正恢復較明顯成長動能，預估要到2028年." Paiho: Nike share of 1H26 revenue 16.1%, "與2025年同期相當，顯示Nike相關材料訂單已逐步止穩". Eclat: Nike apparel orders "維持個位數成長". Sheng Chiang (6768): "北美市場及跑鞋需求已逐步回升". These are analyst and supplier views relayed by press, not orders. Note the headline itself: orders "stabilising", real recovery in 2028.
+3. **The repo's own regression implies Q2 footwear better than guidance.** Recomputed: lag-1 fit (n = 25, r = 0.67, slope 0.38) gives Q2 FY27 Nike footwear about -2.6%; concurrent fit is weak (r = 0.43, signs agree 15 of 25). Against consensus Q2 revenue of -10.1% (`expectations_gap.md`), that would be a beat. I do not trust it: the residual SD is 7 points, and the repo's Test 1 shows Feng Tay fell 10% to 23% in 2023 while Nike footwear grew, and was near flat in FY2025 while Nike footwear fell 11% to 13%. Feng Tay tracks Nike's buying (inventory cycle), not end demand. That cuts both ways and is the main reason this signal cannot be decisive for the stock.
+4. **Nike inventory is not bloated.** Aug 31, 2026 inventory $7,846m vs $8,114m a year earlier, -3.3% (REPORT.md 5.6, from 10-Qs). Last year's May to Aug build was +8% ($7,489m to $8,114m, per repo); this year +4.6%. Buying below sales with lean inventory reads as discipline, which in 2023 preceded a gross margin recovery, not a revenue collapse.
+
+### D. What the factory data mean for the pitch (the point the original verdict understates)
+
+- Feng Tay's Nike run rate (-10% to -14% USD, Jul to Sep) sits at or slightly below Q2 FY27 consensus revenue of -10.1% and Piper's -11% (`expectations_gap.md`, OPENED there). Footwear is roughly two thirds of Nike Brand revenue, so a 2 to 3 point gap is within noise.
+- For Q3 FY27, the only forward read is analyst commentary: 2H26 Feng Tay YoY about the same as Jan to Jul (NT$ -3.0% YTD Jul, MIRROR). With TWD now about 2% to 4% weaker than Oct to Dec 2025, that is roughly -5% to -7% in USD for Oct to Dec production. Consensus implies H2 FY27 revenue about -6.7%. In line again.
+- So the factories answer the literal question (no turn, still falling, Nike-specific) but they do not create a variant view against consensus in either direction.
+
+### E. Skeptic verdict
+
+- **Direction:** I agree. Orders are still falling and the weakness is Nike-specific (Feng Tay flat at about -8.5% USD for three months while Yue Yuen, Lai Yih and Fulgent Sun all turned up in September). Points SHORT on "are orders turning up?".
+- **Strength:** downgrade from strong to **moderate**. Reasons: (1) the run rate matches consensus and guidance, so it is priced; (2) Feng Tay's link to Nike revenue is loose and inventory-driven; (3) Yue Yuen's September inflection and the supplier view of flat 2027 orders leave a credible path to stabilisation by calendar 1H27.
+- **What would flip it:** Feng Tay October 2026 (MOPS, about Nov 10) in USD. Using 83% Nike share: total better than -4% while Yue Yuen stays positive means Nike's part has improved to about -6% or better, a turn (LONG lean). Total worse than -10% with Yue Yuen and Lai Yih positive would mean Nike's cut is deepening against a recovering industry, implying Q3 FY27 below consensus (SHORT strengthens). Yue Yuen's Q3 2026 pairs (results about mid-November) and Feng Tay's Q3 2026 report would test the order-shift and price-versus-volume explanations.
