@@ -171,3 +171,50 @@ Oct 2026 vs Oct 2025: Nike +15.7 pts; Hoka -3.3; adidas -2.9; Brooks +9.7; ASICS
 | Repo investigations/04 (promo days 30 to 0, Jan to Feb 2025) and research note 15 (reserve ratios) | 2025 to 2026 | OPENED (repo) |
 
 Scripts: `scripts/definitive/discount_trend/` (wall.py live API pager; cc.py Common Crawl wall fetcher; ccparse.py count and card parser; pdp_panel.py and pdpsum.py PDP panel). All Python run with `python3 -I`.
+
+## Skeptic review
+
+Reviewer: independent skeptic, 2026-10-14. Labels as above. [my arithmetic] = computed by me from the files named.
+
+### Verdict after review
+
+**Still SHORT, but downgraded from strong to moderate.** Discounting is clearly **not improving**: no measure shows a move back toward pre-2023 levels, and Nike's own Q1 FY27 10-Q names "higher discounts" as a driver in North America, EMEA and APLA footwear. Under the pre-registered rule ("flat or rising = SHORT"), SHORT stands. But the headline "sale share up from 18% to 28%, getting worse" is the weakest version of the evidence. The cleaner measures say **flat at an elevated level since late 2025**, not "re-widening sharply". For the pitch: say "the discount clean-up has stalled", not "discounting is accelerating".
+
+### What I re-checked at the source
+
+| Claim | My check | Result |
+|---|---|---|
+| Live nike.com sale share 27.7% | Re-fetched nike.com/w and /w/sale-3yaep, embedded totalResources, 2026-10-14, OPENED | 5,077 / 18,350 = 27.7%. **Confirmed.** Men's shoes 343 / 756 = 45.4%. Confirmed |
+| Nike says discounts increased | Q1 FY27 10-Q text (SEC, local copy of nke-20260831.htm), OPENED | **Confirmed.** NIKE Brand footwear ASP -1 pt "primarily due to channel mix and higher discounts"; NA footwear "channel mix and higher discounts"; EMEA footwear ASP -6 pts "channel mix and higher discounts"; APLA footwear "higher discounts and channel mix". FY26 10-K NA footwear said only "channel mix" (no discounts), so discounts re-entered the NA explanation this quarter |
+| Size of the effect | Same 10-Q p. 23 and repo fact base | Total NIKE Brand ASP drag on gross margin only **-30 bps** in Q1 FY27, vs -250 bps in Q1 FY26 and +80 bps in Q3 FY26 (repo `data/nike_filing_facts.csv`, OPENED (repo)). NA gross margin +110 bps; apparel ASP +4 pts. Greater China and Converse cite **lower** discounts |
+
+### Problems I found with the investigator's main series (T2)
+
+1. **The catalog denominator is mostly licensed fan gear, and its 2025 size is unknown.** In the investigator's own live catalog file, 9,461 of 17,661 groupings (54%) are NFL, MLB, NBA, WNBA and college fan gear (style codes 01 to 04, 0J, NC, NB, NK, 67, Z1, or subtitles naming those leagues) [my arithmetic, `live_nikecom_catalog_20261014.csv.gz`]. Only 2.3% of fan-gear colourways are discounted, vs **45.9% of non-fan colourways**. Live wall counts today: NFL 3,361, MLB 2,269, NBA 852, WNBA 244 (nike.com/w/nfl-9bklc etc., totalResources, 2026-10-14, OPENED). The US catalog grew from 14,436 (Oct 2025) to 18,347 (+3,911). If that growth was mostly fan gear, the core sale share went from about 36% to about 51% (much worse). If the fan assortment was the same size in 2025, the core share went from about 60% to about 51% (better). So the 22% to 27.7% headline cannot tell us the direction for core product. I tried to settle this: Common Crawl has no captures of the fan walls in the 2025-38, 2025-43 or 2026-39 crawls (index returned "No Captures" or 504). archive.org's availability API shows a Wayback capture of nike.com/w/nfl-9bklc on 2025-10-16, but web.archive.org reset every connection and WebFetch is blocked for that host. **Open.**
+2. **The sale-count rise is robust, but it is not the same thing as more discounting per item.** The sale wall has few fan items (214 of 4,572 groupings), so its count (3,175 to 5,077, +60%) is a real increase in discounted styles. But the core assortment also seems to have grown (men's shoes wall 715 in Nov 2025 to 756 to 777 now), so part of the count rise is a larger assortment.
+3. **The fan-free footwear measure is flat, not rising.** Men's shoes on sale / men's shoes (repo `data/marketplace/nike_sale_share_quarterly.csv`, OPENED (repo), plus live): Nov 2024 42.6%; Nov 2025 42.7%; Feb 2026 44.0%; May 2026 43.3%; Oct 2026 44.0%; live 45.4%. The "rise" exists only against the Aug 2025 trough (37.9%). Compared with Nov 2025, it is +1 to +3 pts. Compared with Nov 2024, it is flat. Women's shoes Oct 2026: 335 / 603 = 55.6%. The level is high, but it is not climbing.
+4. **The investigator's own PDP panel says flat YoY, and it is down slightly once fan gear is removed.** From `cc_pdp_panel_nike_adidas.csv` [my arithmetic], excluding URLs with nfl, mlb, nba, college, jersey, team, club or national: Sep 2025 39.7% (48/121), Oct 2025 37.9% (50/132), Aug 2026 36.0% (49/136), Sep 2026 35.7% (45/126). That is -2 to -4 pts YoY, inside the error band. The PDP panel and the wall series also disagree on 2024 to 2025 (PDP up from 19% to 38%, wall down from 29% to 22%). Two measures moving in opposite directions over the same year means at least one is measuring presentation, not discounting.
+5. **Presentation alternative (not tested by the investigator).** In 2025 Nike may have carried discounted items that were not surfaced on the sale wall (PDP incidence of about 38% vs a wall share of 18% to 22%). In 2026 the gap narrowed (PDP about 36% vs wall about 28%). A rise in the wall share could therefore partly reflect more markdowns being listed on the sale wall, not more markdowns. The first page of the main /w wall points the other way too. Discounted cards were 19 to 21 of 48 (40% to 44%) in Jul to Oct 2025, against 10 to 26 of 72 in Jul 2026 (14% to 36%), 30 of 72 in Aug 2026 (42%) and 19 of 72 in Sep 2026 (26%) [`cc_nikecom_wall_counts.csv`, my arithmetic]. Nike is pushing fewer markdowns to the front of the store than a year ago. This is a weak, small-sample signal.
+6. **Running Warehouse 49% is a seasonal colourway clearance, not clearance of current models.** Item file for 2026-10-13 (`runningwarehouse_items.csv`, OPENED (repo)): every discounted Pegasus 42, Vomero 18, Structure 26 and Vomero Plus is an older colourway flagged "Clearance -24%" or "-25%", while the new holiday colourways ("Gridiron", "Stealth/Purple", GTX) are full price and flagged "New" or "Best Seller". Nike's running colourway count there rose from 87 to 98. That makes the result consistent with more running colourways shipped and the retailer clearing older ones. It still counts as Nike-specific (Hoka fell to 9.5%), but it is one retailer. I give it less weight than the investigator did.
+7. **Nike says Q2 will lap heavy promotion.** On the Q1 FY27 call (official transcript, local copy, OPENED), the CFO says Q2 laps "significant promotional activities in EMEA from Cyber Week" and that this and NA sell-in are a roughly 400 bps revenue headwind. That means Nike plans **less** EMEA Cyber Week promotion in Q2 FY27, a LONG-direction data point for the next quarter that the investigator did not cite.
+
+### New data I gathered
+
+- Live nike.com, 2026-10-14, OPENED: US 5,077 / 18,350 = 27.7%; UK (nike.com/gb) 1,652 / 5,359 = 30.8%; DE 1,649 / 5,362 = 30.8%. The UK and DE levels are higher than the US. I could not build a UK history: only one Common Crawl UK catalog capture exists (gb/w, Oct 15, 2024: 6,081), and there were no UK sale-wall captures in the 2025 to 2026 crawls.
+- Fan-gear composition and fan wall counts (above).
+- Q1 FY27 10-Q region-by-region discount language (above).
+- Web search for third-party markdown trackers in Sep to Oct 2026: only coupon aggregators (couponcabin.com, SNIPPET: Nike sale section "20% to 60% off", average markdown about 31% on Sep 19, 2026). No analyst series found.
+
+### Alternatives: status after review
+
+- Seasonality: ruled out for Sep and Oct same-day comparisons on the sale count (agree).
+- Market-wide promotion: still open (agree). adidas PDP incidence also rose.
+- **Catalog composition (fan gear): open, and it decides whether the share headline means "worse" or "better" for core product.** It is not ruled out as claimed in A1.
+- Presentation (more markdowns surfaced on the sale wall): open, with partial evidence for it.
+- Nike's own words: not an alternative. Discounts were higher YoY in Jun to Aug 2026, but net ASP drag was only -30 bps.
+
+### What would settle it
+
+1. The Wayback capture of nike.com/w/nfl-9bklc (2025-10-16), plus the MLB, NBA and college walls around Oct 2025, once web.archive.org is reachable. These give the 2025 fan-gear denominator, and so the core sale share YoY.
+2. The Q2 FY27 10-Q (late Dec 2026): whether NA and EMEA footwear ASP still cite "higher discounts".
+3. Black Friday 2026 men's and women's shoes sale share vs Nov 2025 (42.7%), using the fan-free walls.

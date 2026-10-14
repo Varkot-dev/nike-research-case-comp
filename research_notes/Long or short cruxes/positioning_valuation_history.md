@@ -217,3 +217,95 @@ This tilts slightly SHORT but is not decisive; Estee Lauder (most like Nike: ico
 ### 4. Reviewer verdict
 
 The data I re-checked are accurate. The conclusion that history points SHORT is overstated. (1) The Nike current-cycle "8 of 8" is a single overlapping path. (2) The pooled -15 depends on the 60% threshold; at Nike's actual 80% depth the systematic event study gives about -4 by event and +14 by company, against an unconditional benchmark of about -4. (3) The wider consumer-brand set tilts mildly negative at 75% (10 of 24 positive excluding Altria artifacts) but with fat tails both ways. History at this valuation and sentiment does not resolve LONG versus SHORT: it is close to a coin flip with a typical further drawdown of 20% to 25% inside 12 months and a fat right tail. Verdict: NEUTRAL (history does not settle it). The deciding evidence has to be fundamental (Investor Day FY28 framing on Nov 16 to 17, the mid-November dividend declaration, Q2 FY27 around Dec 17), not base rates.
+
+## Round 3: conditioning the base rates on reported fundamentals (2026-10-14)
+
+Both earlier rounds agreed that price history alone could not say whether Nike bottoms, and that the deciding factor was the fundamental path (margin recovery). This round tags every deep-drawdown setup since 2010 with what the company had reported at that point (revenue growth, gross margin change, operating margin change, price/sales, trailing P/E) and with the next reported quarter. Nike has already guided its next quarters, so for Nike that is known now, not hindsight.
+
+### 0. Pre-registered test (written before the data pull)
+
+- LONG if: among setups 60% or more below the 5-year high where the last reported quarter matched Nike's state (revenue falling, gross margin up), the median 12-month excess return is positive with more than half positive, and clearly beats the "gross margin contracting" setups.
+- SHORT if: Nike's bucket has a negative median with fewer than half positive, or analog bottoms came only after revenue growth itself turned.
+
+### 1. New primary data
+
+| # | Source | Date | Status |
+|---|---|---|---|
+| F1 | SEC XBRL companyfacts API (data.sec.gov/api/xbrl/companyfacts), 45 US filers: NKE UAA VFC LULU PVH CROX DECK CPRI TPR RL COLM WWW FOSL LEVI CRI GIII OXM VRA SHOO HBI SKX SBUX EL GAP KSS M URBN ANF AEO ZUMZ BBWI BOOT FL GES CHS EXPR PTON PYPL NWL MAT HAS CMG TGT INTC KHC. Quarterly revenue, gross profit (or revenue less cost of sales), operating income (pretax income where operating income is not tagged, e.g. Nike), diluted weighted shares. Q4 derived as annual less nine months. Current quarter uses the first-filed value; the prior-year comparison uses the version on file as of the current filing (same accounting basis after restatements, e.g. VF divestitures). | fetched 2026-10-14 | OPENED |
+| F2 | Yahoo Finance v8 price files from rounds 1 and 2 (scratchpad/hist/dl and skep/dl), plus their split events, used to rebuild unadjusted prices and market caps | fetched 2026-10-14 | OPENED |
+| F3 | Nike Q1 FY27 call transcript (Oct 1, 2026, in repo scratch flat_Q1FY27.txt): gross margin 42.8%, up 60bp, "benefits from our supply chain cost management efforts and FX tailwinds, partially offset by increased discounts"; FY27 revenue "decline in the high single-digit range"; Q2 has "a headwind of approximately 400 basis points to revenues"; supply reductions will pressure "reported revenues for the remainder of fiscal '27 and into '28"; EBIT to decline by a greater percentage than revenue | 2026-10-01 | OPENED |
+| F4 | Nike Q4 FY26 transcript: Q4 gross margin 49.2% including a 900bp IEEPA tariff recovery; 40.2% excluding it, down 10bp | 2026-07 | OPENED |
+| F5 | Nike Q2 FY26 transcript: gross margin down 300bp to 40.6% "primarily due to increased product costs due to higher tariffs in North America as well as inventory obsolescence in Greater China" | 2025-12 | OPENED |
+
+Checks on F1/F2 (ARITH): Nike market cap $52.5B on 2026-10-12 (1,484.2M diluted shares x $35.35), $71.3B on 2014-01-02; UAA $14.6B on 2015-01-02; Deckers $10.4B on 2023-01-03; all in line with published figures. Nike XBRL quarters match the transcripts: Q1 FY27 revenue $11,213M (-4.3%), gross margin 42.8% (+61bp); Q4 FY26 49.2% (+888bp, tariff refund).
+
+Nike now, on the same definitions: revenue -4.3% and guided worse. FY26 revenue $46.4B; a 7% to 9% decline gives $42.2B to $43.2B; less Q1 $11.21B leaves $31.0B to $32.0B for Q2 to Q4 against $34.68B, i.e. -7.8% to -10.6% (ARITH). Gross margin up 61bp; Q2 FY27 laps a 40.6% quarter that carried tariff costs and China obsolescence (F5), so gross margin is likely up again in Q2. Price/sales 1.14x ($52.5B / $45.99B trailing revenue). 5-year drawdown about 80%.
+
+### 2. Method
+
+Universe: the 45 F1 names with price data (39 had both). Two setup definitions, as in round 2: (a) "drop": one-day fall of 8% or more (proxy for a guide cut), one per 90 days; (b) "quarterly": first trading day every third month while below the depth threshold. Filters: event after mid-2010 (XBRL era), 2020 excluded, S&P trailing 12 months above -5% (idiosyncratic only). State = latest quarter ended at least 20 days before the event and filed within 30 days after it (proxy for the earnings release); a strict "filed before the event" version gave the same signs. Excess = stock total return minus S&P 500 total return. coW = median of per-company medians. Scripts: scratchpad/fund2/tool/ (q2.py, val.py, study.py, trough.py).
+
+### 3. Result A: reported margin state alone does not separate outcomes
+
+| Bucket (all 39 names) | Drop, 60% | Drop, 75% | Quarterly, 60% | Quarterly, 75% |
+|---|---|---|---|---|
+| All | N=141, med12 -9, 45% pos | N=59, +3, 51% | N=282, -12, 41% | N=93, -7, 45% |
+| Revenue down, GM down | -10, 41% | 0, 50% | -6, 44% | 0, 50% |
+| Revenue down, GM up (Nike) | -4, 50% (N=50) | +7, 52% (N=31) | -11, 46% (N=90) | -7, 44% (N=45) |
+| Revenue down, GM up, op margin up (Nike exactly) | -17, 40% (N=30) | -14, 41% (N=22) | -17, 40% (N=55) | -15, 40% (N=30) |
+
+Pre-registered LONG test fails in 2 of 4 specifications and passes weakly in 2. No edge either way from the reported state.
+
+### 4. Result B: valuation. Nike is unusually expensive for its drawdown
+
+Among quarterly samples at 75% or more below peak, only 11 of 93 were at 0.8x sales or above (Nike 1.14x). At the 27 clean idiosyncratic troughs since 2011 (section 6) the median price/sales was 0.42x; 5 of 25 bottomed at 1.0x or above (UA Nov 2017 1.03x, Capri Jun 2017 1.19x, Tapestry Sep 2015 1.82x, Hasbro Nov 2023 1.10x, PayPal Oct 2023 1.97x). So premium brands can bottom above 1x sales. Valuation buckets were noisy and not monotonic (0.5x to 1.0x was the worst bucket in all four specifications: 28% to 36% positive).
+
+### 5. Result C: the strongest discriminator is whether the next revenue print gets worse, and it splits on gross margin
+
+| Bucket | Drop 60% | Drop 75% | Quarterly 60% | Quarterly 75% |
+|---|---|---|---|---|
+| Revenue down now, next quarter more than 2 pts worse (Nike's guided path) | N=28/15 cos, med6 -20, med12 -20, 6m pos 7/28, coW6 -19 | N=16/9, -17, -11, 5/16, -19 | N=47/19, -23, -17, 17/47, -13 | N=23/11, -14, -11, 9/23, -10 |
+| Revenue down now, next 3 quarters all better | N=37, med6 +10, med12 +17, 6m pos 21/37 | N=19, +7, +34, 10/19 | N=90, +13, +3, 56/90 | N=28, +19, +5, 19/28 |
+| Nike path AND next-quarter GM down | N=13, med6 -25, med12 -27, 6m pos 1/13 | N=5, -19, -37, 1/5 | N=22, -25, -31, 7/22 | N=7, -29, -41, 1/7 |
+| Nike path AND next-quarter GM up | N=15, -11, -9, 6/15 | N=11, -11, -9, 4/11 | N=25, -20, -1, 10/25 | N=16, +1, +12, 8/16 |
+| Nike path AND GM up now AND next GM up | N=12, -1, -11, 6/12 | N=9, -5, -12, 4/9 | N=18, +2, -6, 9/18 | N=14, +6, -7, 7/14 |
+| Nike path AND P/S 0.9x or more | N=7, +15, -19, 4/7 | N=3, +15, -19, 2/3 | N=8, +9, +8, 6/8 | N=3, +21, -48, 2/3 |
+| Nike path AND P/S under 0.9x | N=20, -27, -22, 3/20 | N=12, -24, -5, 3/12 | N=36, -25, -18, 11/36 | N=20, -18, -10, 7/20 |
+
+Apparel names only (Nike path): drop 60% N=22, med6 -27, 6m pos 4/22; quarterly 60% N=38, med6 -25, 12/38. Apparel names with GM up now and next: 4/9 and 7/14 positive at 6 months.
+
+Read: "revenue about to get worse" is a strong negative on its own (25% to 39% positive at 6 months in all four specifications, 32% for apparel only), but almost all of that comes from cases where gross margin was also contracting (10 of 47 positive at 6 months, medians -19 to -29) or the stock was already cheap and distressed. When gross margin kept rising through the worse revenue prints, outcomes were a coin flip (42% to 50% positive, medians -12 to +6). The premium-valued cases (Capri 2017, Estee Lauder Feb 2025, Hasbro Oct 2023, Kraft Heinz 2022) did better than average, but the sample is 3 to 8 cases from the same few names, so it is not evidence either way.
+
+Cases in the Nike-path, premium-valued group (drop, 60%): Capri 2017-02-07 x6 +15 x12 +63; Estee Lauder 2025-02-04 +28 / +61 (after the Nov 2024 dividend cut and Jan 2025 CEO change); Hasbro 2023-10-26 +16 / +4; Intel 2024-08-02 -22 / -27 (dividend suspended that day); Peloton 2024-11-01 -5 / -19 and 2025-03-06 +15 / -57; Vera Bradley 2016-12-07 -43 / -29.
+
+Nike's own record fits the split: Mar 2025 (revenue -9.3%, next -12.0%, GM -326bp, so the GM-down bucket) was followed by -37 twelve-month excess (round 1).
+
+### 6. Result D: did bottoms wait for the worst revenue quarter? No
+
+Clean troughs: price at its lowest within plus or minus 18 months, 60% or more below the 5-year high, at least 120 days apart, S&P no more than 12% below its 1-year high (removes Apr 2025, 2022 and 2011 market bottoms). N=27 troughs, 20 companies (ARITH, trough.py).
+- 16 of 27 bottomed before the worst revenue quarter was released (10 of them more than 100 days before); 11 of 27 after. Median: trough 22 days before the worst print.
+- 14 of 27 bottomed while the latest reported revenue growth was still negative.
+- 6 of 27 bottomed with a print more than 2 points worse coming next quarter: UA Nov 2017, Deckers Oct 2012, Wolverine Oct 2023, Fossil Apr 2024, Vera Bradley Nov 2017, Hasbro Nov 2023.
+So the strict SHORT test ("bottoms come only after revenue turns") fails: stocks often bottomed before the worst revenue print.
+
+### 7. Alternatives tested
+
+1. "Worse revenue ahead means short." True on average (section 5, first row), but explained by gross margin direction and distress. With GM rising, the edge disappears. Not a sufficient short case for Nike unless its GM turns down.
+2. "Nike's guided decline is already priced, so the historical 'worse next quarter' cases are not comparable (those were surprises)." Partly tested: the drop sample is made of guide-cut days, where the market had just repriced, and results are the same as the quarterly sample. Not fully settled; no historical consensus data were available.
+3. "Premium-valued brands bottom earlier." Weakly supported (5 of 25 troughs at 1x sales or more; 4/7 and 6/8 positive at 6 months in the premium Nike-path cases), but N is 3 to 8 and dominated by Estee Lauder, Capri and Hasbro. Not established.
+4. "Margin recovery is what makes a bottom." Supported in the direction that matters: margin contraction plus worse revenue is reliably negative (10 of 47 positive at 6 months). Margin expansion plus worse revenue is only neutral, not positive.
+5. "Look-ahead bias from using the next quarter." For Nike the next-quarter revenue direction is in guidance (F3); gross margin direction is not guided, which is why it is left as the open variable.
+6. "Results depend on the quarter-release timing proxy." Strict filed-date timing gave the same signs (quarterly 60%: Nike-path GM down 27% to 25% positive at 12 months; GM up 42% to 46%).
+
+### 8. Verdict for this round
+
+History does not settle LONG versus SHORT for Nike on the facts known today. It does settle the conditional: what decides it is the gross margin on Q2 FY27 (reported about Dec 17, 2026) and Q3 FY27 while revenue falls 8% to 11%.
+- If gross margin keeps rising year over year through the worse revenue prints (likely in Q2, given the 40.6% comparison that carried tariffs and China obsolescence), history is a coin flip (about 45% positive, medians near zero at 6 months), with a typical worst point about 28% to 35% below the entry price within 12 months.
+- If gross margin turns down year over year while revenue falls (the discount-driven marketplace reset Nike describes could do this), history is strongly SHORT: 10 of 47 positive at 6 months, medians -19 to -29 at 6 months and -27 to -41 at 12 months.
+Note the mechanical problem for Q4 FY27 (reported about late June 2027): it laps a 49.2% gross margin inflated by the 900bp IEEPA refund, so reported gross margin will be sharply down that quarter. That is outside a 6-month window from Nov 2026, but it is a known bad optic.
+
+### 9. What would settle it
+
+- Nike's Q2 FY27 gross margin versus 40.6% (Dec 2026), and any gross margin framing at the Nov 16 to 17 Investor Day. Down year over year means the strongly negative bucket; up means neutral.
+- Q2 FY27 revenue versus the implied -8% to -11%: a decline smaller than about 6% would move Nike out of the "next quarter worse" bucket into the bucket that has been 54% to 68% positive.
+- Historical consensus revisions (not freely available) would test alternative 2.
