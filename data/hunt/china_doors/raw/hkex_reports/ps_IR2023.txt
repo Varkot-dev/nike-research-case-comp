@@ -1,0 +1,2016 @@
+INTERIM REPORT
+2023
+
+
+
+
+             POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+
+                 (Incorporated in Bermuda with limited liability)
+                         (                           )
+                          (Stock Code         :3813)
+CONTENTS
+Corporate Information                                    2
+The Group’s Financial Highlights                         3
+Interim Results
+
+   Report on Review of Condensed Consolidated            4
+   Financial Statements
+
+   Condensed Consolidated Income Statement               6
+   Condensed Consolidated Statement of                   7
+   Comprehensive Income
+
+   Condensed Consolidated Statement of                   8
+   Financial Position
+
+   Condensed Consolidated Statement of                  10
+   Changes in Equity
+
+   Condensed Consolidated Statement of                  12
+   Cash Flows
+
+   Notes to the Condensed Consolidated                  14
+   Financial Statements
+
+Management Discussion and Analysis                      28
+Other Information                                       39
+
+
+
+
+                                                2023 Interim Report   1
+CORPORATE INFORMATION
+(As of August 11, 2023)
+DIRECTORS                                            PRINCIPAL PLACE OF BUSINESS
+Executive Directors                                  22nd Floor, C-Bons International Center
+Yu Huan-Chang (Chairman)                             108 Wai Yip Street, Kwun Tong
+Liao, Yuang-Whang                                    Kowloon, Hong Kong
+Hu, Chia-Ho
+                                                     INDEPENDENT AUDITOR
+Non-executive Directors                              Deloitte Touche Tohmatsu
+Tsai Patty, Pei Chun                                 Registered Public Interest Entity Auditors
+Li I-nan
+                                                     PRINCIPAL SHARE REGISTRAR AND
+Independent Non-executive Directors                  TRANSFER OFFICE
+Chen, Huan-Chung                                     MUFG Fund Services (Bermuda) Limited
+Feng Lei Ming                                        4th floor North
+Liu, Hsi-Liang                                       Cedar House
+                                                     41 Cedar Avenue
+AUDIT COMMITTEE                                      Hamilton HM 12
+Chen, Huan-Chung (Chairman)                          Bermuda
+Tsai Patty, Pei Chun
+Feng Lei Ming                                        HONG KONG BRANCH SHARE
+                                                     REGISTRAR AND TRANSFER OFFICE
+REMUNERATION COMMITTEE
+                                                     Computershare Hong Kong Investor
+Liu, Hsi-Liang (Chairman)                              Services Limited
+Chen, Huan-Chung                                     Shops 1712-1716, 17th Floor Hopewell Centre
+Li I-nan                                             183 Queen’s Road East Wanchai
+                                                     Hong Kong
+NOMINATION COMMITTEE
+Feng Lei Ming (Chairman)                             SOLICITOR
+Chen, Huan-Chung
+Hu, Chia-Ho                                          Reed Smith Richards Butler LLP
+
+DISCLOSURE COMMITTEE                                 PRINCIPAL BANKERS
+Yu Huan-Chang (Chairman)                             Australia and New Zealand Bank (China)
+Liao, Yuang-Whang                                      Company Limited
+Hu, Chia-Ho                                          Australia and New Zealand Banking Group
+                                                       Limited
+AUTHORISED REPRESENTATIVES                           Citibank (China) Co., Limited
+                                                     Industrial and Commercial Bank of China Limited
+Yu Huan-Chang                                        Mizuho Bank (China), Limited
+Yip Wing Ming                                        Mizuho Bank, Limited
+                                                     Standard Chartered Bank (China) Limited
+CHIEF EXECUTIVE OFFICER                              Standard Chartered Bank (Hong Kong) Limited
+Wang Jun                                             Standard Chartered Bank (Taiwan) Limited
+                                                     Taipei Fubon Commercial Bank Company Limited
+COMPANY SECRETARY                                    Taishin International Bank Company Limited
+Yip Wing Ming                                        United Overseas Bank Limited
+
+REGISTERED OFFICE                                    WEBSITE
+Clarendon House                                      www.pousheng.com
+2 Church Street
+Hamilton HM 11                                       STOCK CODE
+Bermuda                                              3813
+
+2       POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+THE GROUP’S FINANCIAL HIGHLIGHTS
+                                                For the six months ended June 30,
+                                                         2023               2022
+ Financial performance                                RMB’000            RMB’000           Change
+                                                   (unaudited)        (unaudited)
+
+
+ Revenue                                            10,960,001          9,864,815            11.1%
+ Gross profit                                        3,670,684          3,495,946              5.0%
+ Operating profit                                      472,818            208,329           127.0%
+ Profit attributable to owners of the Company          305,465             17,413         1,654.2%
+ Gross profit margin (%)                                 33.5%              35.4%          -1.9 ppt
+ Operating profit margin (%)                              4.3%               2.1%           2.2 ppt
+ Basic earnings per share (RMB cents)                     5.90               0.34         1,635.3%
+ Dividend per share – interim dividend (HK$)            0.0185                  –              N/A
+
+
+                                                              As at
+                                                      June 30,    December 31,
+                                                         2023            2022
+ Financial position                                   RMB’000         RMB’000              Change
+                                                   (unaudited)       (audited)
+
+
+ Inventories                                         4,672,120          6,071,858            -23.1%
+ Trade and other receivables                         2,529,744          2,149,713             17.7%
+ Cash and cash equivalents                           2,024,918          1,190,148             70.1%
+ Bank borrowings                                        91,991            456,162            -79.8%
+
+
+
+
+                                                                            2023 Interim Report       3
+INTERIM RESULTS
+REPORT ON REVIEW OF CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+
+
+
+
+TO THE BOARD OF DIRECTORS OF
+POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+寶勝國際(控股)有限公司
+(incorporated in Bermuda with limited liability)
+
+
+Introduction
+We have reviewed the condensed consolidated financial statements of Pou Sheng
+International (Holdings) Limited (the “Company”) and its subsidiaries (collectively
+referred to as the “Group”) set out on pages 6 to 27, which comprises the condensed
+consolidated statement of financial position as of June 30, 2023 and the related
+condensed consolidated income statement, statement of comprehensive income,
+statement of changes in equity and statement of cash flows for the six-month period
+then ended, and certain explanatory notes. The Rules Governing the Listing of Securities
+on The Stock Exchange of Hong Kong Limited require the preparation of a report on
+interim financial information to be in compliance with the relevant provisions thereof and
+Hong Kong Accounting Standard 34 “Interim Financial Reporting” (“HKAS 34”) issued
+by the Hong Kong Institute of Certified Public Accountants (“HKICPA”). The directors of
+the Company are responsible for the preparation and presentation of these condensed
+consolidated financial statements in accordance with HKAS 34. Our responsibility is to
+express a conclusion on these condensed consolidated financial statements based on
+our review, and to report our conclusion solely to you, as a body, in accordance with our
+agreed terms of engagement, and for no other purpose. We do not assume responsibility
+towards or accept liability to any other person for the contents of this report.
+
+
+
+
+4      POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+INTERIM RESULTS
+REPORT ON REVIEW OF CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS (continued)
+Scope of Review
+We conducted our review in accordance with Hong Kong Standard on Review
+Engagements 2410 “Review of Interim Financial Information Performed by the
+Independent Auditor of the Entity” issued by the HKICPA. A review of these condensed
+consolidated financial statements consists of making inquiries, primarily of persons
+responsible for financial and accounting matters, and applying analytical and other
+review procedures. A review is substantially less in scope than an audit conducted in
+accordance with Hong Kong Standards on Auditing and consequently does not enable
+us to obtain assurance that we would become aware of all significant matters that might
+be identified in an audit. Accordingly, we do not express an audit opinion.
+
+
+Conclusion
+Based on our review, nothing has come to our attention that causes us to believe that
+the condensed consolidated financial statements are not prepared, in all material
+respects, in accordance with HKAS 34.
+
+
+
+
+Deloitte Touche Tohmatsu
+Certified Public Accountants
+Hong Kong
+August 11, 2023
+
+
+
+
+                                                                    2023 Interim Report   5
+INTERIM RESULTS
+The board (the “Board”) of directors (the “Directors”) of Pou Sheng International
+(Holdings) Limited (the “Company”) announces the unaudited interim results of the
+Company and its subsidiaries (collectively referred to as the “Group”) for the six months
+ended June 30, 2023 with the corresponding comparative figures as follows:
+
+
+CONDENSED CONSOLIDATED INCOME STATEMENT
+FOR THE SIX MONTHS ENDED JUNE 30, 2023
+
+
+                                                             For the six months ended June 30,
+                                                                      2023              2022
+                                                     NOTES         RMB’000           RMB’000
+                                                                (unaudited)       (unaudited)
+    Revenue                                            3         10,960,001         9,864,815
+    Cost of sales                                                (7,289,317)       (6,368,869)
+    Gross profit                                                  3,670,684         3,495,946
+    Other operating income and gains (losses)                       112,480           164,243
+    Selling and distribution expenses                            (2,913,620)       (3,075,931)
+    Administrative expenses                                        (396,726)         (375,929)
+    Operating profit                                                472,818           208,329
+
+    Finance costs                                      5            (49,513)          (91,451)
+    Finance income                                                   14,159            10,583
+
+                                                                    (35,354)          (80,868)
+    Other losses                                                          –            (6,274)
+    Profit before taxation                                          437,464           121,187
+    Income tax expense                                 4           (118,497)          (97,000)
+    Profit for the period                              5            318,967            24,187
+    Attributable to:
+      Owners of the Company                                         305,465            17,413
+      Non-controlling interests                                      13,502             6,774
+                                                                    318,967            24,187
+    Earnings per share                                 7
+      – Basic                                                RMB5.90 cents      RMB0.34 cent
+      – Diluted                                              RMB5.90 cents      RMB0.34 cent
+
+
+
+
+6       POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+INTERIM RESULTS
+CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+FOR THE SIX MONTHS ENDED JUNE 30, 2023
+
+
+                                                            For the six months ended June 30,
+
+                                                                      2023                    2022
+                                                                   RMB’000              RMB’000
+                                                               (unaudited)         (unaudited)
+
+  Profit for the period                                            318,967                24,187
+
+
+  Other comprehensive expense
+  An item that will not be reclassified to profit or loss
+  Fair value loss on investments in equity instrument at
+    fair value through other comprehensive income                         –               (1,155)
+
+
+  An item that may be reclassified subsequently to profit
+    or loss
+  Exchange differences arising on translation of foreign
+    operations                                                       (1,988)                  (727)
+  Other comprehensive expense for the period                         (1,988)              (1,882)
+  Total comprehensive income for the period                        316,979                22,305
+
+
+  Attributable to:
+    Owners of the Company                                          303,477                15,531
+    Non-controlling interests                                       13,502                    6,774
+                                                                   316,979                22,305
+
+
+
+
+                                                                        2023 Interim Report       7
+INTERIM RESULTS
+CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+AT JUNE 30, 2023
+
+
+                                                                      At              At
+                                                                June 30,   December 31,
+                                                                   2023            2022
+                                                     NOTES      RMB’000         RMB’000
+                                                             (unaudited)      (audited)
+
+    Non-current assets
+    Investment properties                                         87,700         87,700
+    Property, plant and equipment                      8         810,690        886,396
+    Right-of-use assets                                8       2,022,871       2,281,544
+    Deposits paid for acquisition of property,
+      plant and equipment                                         30,205         36,934
+    Rental deposits                                              128,324        143,467
+    Intangible assets                                  8          70,737         61,815
+    Goodwill                                                     522,163        522,163
+    Interests in joint ventures                                        –               –
+    Equity instrument at fair value through
+      other comprehensive income                                   1,854          1,813
+    Deferred tax assets                                          115,675        161,321
+                                                               3,790,219       4,183,153
+    Current assets
+    Inventories                                                4,672,120       6,071,858
+    Trade and other receivables                        9       2,529,744       2,149,713
+    Taxation recoverable                                           2,451          3,989
+    Bank deposits over 3 months                                  200,000               –
+    Cash and cash equivalents                                  2,024,918       1,190,148
+                                                               9,429,233       9,415,708
+
+
+
+
+8       POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+INTERIM RESULTS
+CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+(continued)
+AT JUNE 30, 2023
+
+
+                                                                  At                     At
+                                                            June 30,     December 31,
+                                                               2023                    2022
+                                                 NOTES      RMB’000             RMB’000
+                                                         (unaudited)           (audited)
+
+  Current liabilities
+  Trade and other payables                        10       2,152,978           2,190,904
+  Contract liabilities                                       439,058             447,916
+  Taxation payable                                            28,954               71,599
+  Bank borrowings                                             91,991             456,162
+  Lease liabilities                                          671,730             774,164
+                                                           3,384,711           3,940,745
+  Net current assets                                       6,044,522           5,474,963
+  Total assets less current liabilities                    9,834,741           9,658,116
+  Non-current liabilities
+  Deferred tax liabilities                                    23,750               24,569
+  Lease liabilities                                        1,298,634           1,439,627
+                                                           1,322,384           1,464,196
+  Net assets                                               8,512,357           8,193,920
+
+  Capital and reserves
+  Share capital                                   11          46,438               46,438
+  Reserves                                                 8,372,750           8,067,815
+  Equity attributable to owners of the Company             8,419,188           8,114,253
+  Non-controlling interests                                   93,169               79,667
+  Total equity                                             8,512,357           8,193,920
+
+
+
+
+                                                                 2023 Interim Report      9
+INTERIM RESULTS
+CONDENSED CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+FOR THE SIX MONTHS ENDED JUNE 30, 2023
+
+                                                                                                               Equity attributable to owners of the Company
+                                                                                                                                                      Shares
+                                                                                                                                                  held under
+                                                                                                                       Property Reserve on             share         Share         Non-                                              Non-
+                                                Share       Share      Special        Other Revaluation      Merger revaluation instrument            award         award distributable Translation Accumulated                controlling
+                                               capital   premium       reserve      reserve     reserve      reserve    reserve at FVTOCI            scheme        reserve      reserve     reserve       profits        Total   interests Total equity
+                                              RMB’000    RMB’000      RMB’000      RMB’000     RMB’000      RMB’000    RMB’000    RMB’000           RMB’000       RMB’000      RMB’000     RMB’000      RMB’000        RMB’000   RMB’000      RMB’000
+                                                                     (note (i))   (note (ii))             (note (iii))                                                      (note (iv))
+
+
+At January 1, 2022 (audited)                    46,438   5,145,233     676,506    (1,492,936)    55,395      29,544        6,381           721      (217,103)       8,246        817,869     (11,782)    3,030,952    8,095,464     106,732    8,202,196
+
+
+Fair value loss on investments in equity
+  instrument at fair value through other
+  comprehensive income                               –           –           –             –          –           –            –        (1,155)               –          –             –           –             –       (1,155)          –       (1,155)
+Exchange differences arising on translation
+  of foreign operations                              –           –           –             –          –           –            –             –                –          –             –        (727)           –          (727)          –        (727)
+Profit for the period                                –           –           –             –          –           –            –             –                –          –             –           –       17,413        17,413       6,774      24,187
+
+
+Total comprehensive (expense) income for
+  the period                                         –           –           –             –          –           –            –        (1,155)               –          –             –        (727)      17,413        15,531       6,774      22,305
+Recognition of equity-settled share-based
+  payments, net of amount lapsed
+  relating to share awards not yet vested            –           –           –             –          –           –            –             –             –         2,610             –           –             –        2,610           –       2,610
+Share award vested                                   –           –           –             –          –           –            –             –         7,580        (5,196)            –           –        (2,384)           –           –           –
+Dividends recognised as
+  distribution (Note 6)                              –           –           –             –          –           –            –             –                –          –             –           –      (70,805)      (70,805)          –     (70,805)
+Transfer                                             –           –           –             –          –           –            –             –                –          –        77,816           –      (77,816)            –           –           –
+
+
+At June 30, 2022 (unaudited)                    46,438   5,145,233     676,506    (1,492,936)    55,395      29,544        6,381          (434)     (209,523)       5,660        895,685     (12,509)    2,897,360    8,042,800     113,506    8,156,306
+
+
+At January 1, 2023 (audited)                   46,438    5,145,233    676,506 (1,484,754)        55,395      29,544        6,381          (434)     (207,701)       4,742      1,072,872     (13,572)   2,783,603     8,114,253     79,667    8,193,920
+
+
+Exchange differences arising on translation
+  of foreign operations                              –           –           –             –          –           –            –             –                –          –             –      (1,988)           –       (1,988)          –       (1,988)
+Profit for the period                                –           –           –             –          –           –            –             –                –          –             –           –      305,465      305,465      13,502      318,967
+Total comprehensive (expense) income for
+  the period                                         –           –           –             –          –           –            –             –                –          –             –      (1,988)     305,465      303,477      13,502      316,979
+Recognition of equity-settled share-based
+  payments, net of amount lapsed
+  relating to share awards not yet vested            –           –           –             –          –           –            –             –            –         1,458             –            –            –        1,458            –       1,458
+Share award vested                                   –           –           –             –          –           –            –             –          523          (375)            –            –         (148)           –            –           –
+Transfer                                             –           –           –             –          –           –            –             –            –             –        27,717            –      (27,717)           –            –           –
+
+
+At June 30, 2023 (unaudited)                   46,438    5,145,233    676,506 (1,484,754)        55,395      29,544        6,381          (434)     (207,178)       5,825      1,100,589     (15,560)   3,061,203     8,419,188     93,169    8,512,357
+
+
+
+
+10                 POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+INTERIM RESULTS
+CONDENSED CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+(continued)
+FOR THE SIX MONTHS ENDED JUNE 30, 2023
+
+
+notes:
+
+
+(i)      The special reserve represents the difference between the nominal value of the share
+         capital issued by the Company and the share premium and the nominal value of the share
+         capital of the subsidiaries comprising the Group prior to the group reorganisation in 2008.
+
+
+(ii)     The other reserve represents the difference between the fair value of the consideration paid
+         or received and the relevant share of carrying value of the subsidiaries’ net assets/liabilities
+         acquired from or disposed of to the non-controlling interests, after reattribution of relevant
+         reserve.
+
+
+(iii)    The merger reserve represents the difference in the fair value of the consideration paid to
+         the Company’s intermediate holding company, Yue Yuen Industrial (Holdings) Limited (“Yue
+         Yuen”) for the acquisition of subsidiaries controlled by Yue Yuen and the share capital and
+         premium of the acquired subsidiaries.
+
+
+(iv)     According to the relevant laws in the People’s Republic of China (the “PRC”), the
+         subsidiaries of the Company established in the PRC are required to transfer at least 10%
+         of their net profit after taxation, as determined under the PRC accounting regulations, to
+         a non-distributable reserve fund until the reserve balance reaches 50% of their registered
+         capital. The transfer to this reserve must be made before the distribution of a dividend to
+         equity owners. The non-distributable reserve fund can be used to offset the previous years’
+         losses, if any.
+
+
+
+
+                                                                                2023 Interim Report   11
+INTERIM RESULTS
+CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS
+FOR THE SIX MONTHS ENDED JUNE 30, 2023
+
+
+                                                          For the six months ended June 30,
+
+                                                                    2023              2022
+                                                                 RMB’000          RMB’000
+                                                             (unaudited)       (unaudited)
+
+  Net cash from operating activities                           2,020,955           324,083
+  Net cash used in investing activities
+  Placement of bank deposits over 3 months                      (200,000)                –
+  Payment for acquisition of property, plant and
+     equipment/deposits paid for acquisition of
+     property, plant and equipment                              (157,277)         (143,806)
+  Payment for acquisition of intangible assets                   (13,298)                –
+  Payments for right-of-use assets                                (1,371)           (2,017)
+  Refund for rental deposits                                      22,072            16,755
+  Interest received                                               14,159            10,583
+  Proceeds from disposal of property, plant and
+     equipment                                                     3,011             8,410
+  Advance to a non-controlling interest of a subsidiary                 –          (34,000)
+  Repayment of advance to a non-controlling interest
+     of a subsidiary                                                    –           34,000
+                                                                (332,704)         (110,075)
+  Net cash used in financing activities
+  Repayments of bank borrowings                                 (788,698)       (1,410,311)
+  Repayments of leases liabilities, including related
+     interests                                                  (480,425)         (615,010)
+  Interest paid on bank borrowings and advance
+     from a related party                                         (6,680)          (36,673)
+  New bank borrowings raised                                     422,491         1,930,672
+  Dividends paid                                                        –          (70,805)
+                                                                (853,312)         (202,127)
+
+
+
+
+12     POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+INTERIM RESULTS
+CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS (continued)
+FOR THE SIX MONTHS ENDED JUNE 30, 2023
+
+
+                                                    For the six months ended June 30,
+
+                                                              2023                    2022
+                                                           RMB’000              RMB’000
+                                                       (unaudited)         (unaudited)
+
+  Net increase in cash and cash equivalents                834,939                11,881
+
+
+  Cash and cash equivalents at beginning of the
+   period                                                1,190,148            1,233,783
+
+
+  Effect of foreign exchange rate changes                     (169)               (1,690)
+                                                         2,024,918            1,243,974
+
+  Cash and cash equivalents at end of the period,
+   represented by
+   Cash and cash equivalents                             2,024,918            1,236,716
+   Cash and cash equivalents included in assets
+     classified as held for sale                                  –                   7,258
+                                                         2,024,918            1,243,974
+
+
+
+
+                                                                2023 Interim Report      13
+INTERIM RESULTS
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+1.   BASIS OF PREPARATION
+     The condensed consolidated financial statements have been prepared in accordance with
+     Hong Kong Accounting Standard (“HKAS”) 34 “Interim Financial Reporting” issued by the
+     Hong Kong Institute of Certified Public Accountants (“HKICPA”) as well as the applicable
+     disclosure requirements of Appendix 16 to the Rules Governing the Listing of Securities on
+     The Stock Exchange of Hong Kong Limited.
+
+
+2.   PRINCIPAL ACCOUNTING POLICIES
+     The condensed consolidated financial statements have been prepared on the historical
+     cost basis except for certain properties and financial instruments, which are measured at
+     revalued amounts or fair values, as appropriate.
+
+
+     Other than additional/change in accounting policies resulting from application of new
+     and amendments to Hong Kong Financial Reporting Standards (“HKFRSs”), the accounting
+     policies and methods of computation used in the condensed consolidated financial
+     statements for the six months ended June 30, 2023 are the same as those presented in the
+     Group’s annual consolidated financial statements for the year ended December 31, 2022.
+
+
+     Application of new and amendments to HKFRSs
+     In the current interim period, the Group has applied the following new and amendments
+     to HKFRSs issued by the HKICPA, for the first time, which are mandatorily effective for the
+     Group’s annual period beginning on January 1, 2023 for the preparation of the Group’s
+     condensed consolidated financial statements.
+
+
+     HKFRS 17 (including the October 2020          Insurance Contracts
+       and February 2022 Amendments to
+       HKFRS 17)
+     Amendments to HKAS 1 and HKFRS                Disclosure of Accounting Policies
+       Practice Statement 2
+     Amendments to HKAS 8                          Definition of Accounting Estimates
+     Amendments to HKAS 12                         Deferred Tax related to Assets and Liabilities arising
+                                                     from a Single Transaction
+     Amendments to HKAS 12                         International Tax Reform-Pillar Two Model Rules
+
+
+
+
+14    POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+INTERIM RESULTS
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+2.   PRINCIPAL ACCOUNTING POLICIES (continued)
+     Application of new and amendments to HKFRSs (continued)
+     Except as described below, the application of the new and amendments to HKFRSs in the
+     current interim period has had no material impact on the Group’s financial positions and
+     performance for the current and prior periods and/or on the disclosures set out in these
+     condensed consolidated financial statements.
+
+
+     2.1   Impacts and changes in accounting policies on application of Amendments
+           to HKAS 12 “Deferred Tax related to Assets and Liabilities arising from a Single
+           Transaction”
+           2.1.1 Accounting policies
+                 The application of Amendments to HKAS 12 results in change in accounting
+                 policy for taxation:
+
+
+                 Taxation
+                 Deferred tax is recognised on temporary differences between the carrying
+                 amounts of assets and liabilities in the consolidated financial statements and
+                 the corresponding tax bases used in the computation of taxable profit. Deferred
+                 tax liabilities are generally recognised for all taxable temporary differences.
+                 Deferred tax assets are generally recognised for all deductible temporary
+                 differences to the extent that it is probable that taxable profits will be available
+                 against which those deductible temporary differences can be utilised. Such
+                 deferred tax assets and liabilities are not recognised if the temporary difference
+                 arises from the initial recognition (other than in a business combination) of
+                 assets and liabilities in a transaction that affects neither the taxable profit nor
+                 the accounting profit and at the time of the transaction does not give rise to
+                 equal taxable and deductible temporary differences. In addition, deferred tax
+                 liabilities are not recognised if the temporary difference arises from the initial
+                 recognition of goodwill.
+
+
+                 For leasing transactions in which the tax deductions are attributable to the
+                 lease liabilities, the Group applies HKAS 12 requirements to the lease liabilities
+                 and the related assets separately. The Group recognises a deferred tax asset
+                 related to lease liabilities to the extent that it is probable that taxable profit will
+                 be available against which the deductible temporary difference can be utilised
+                 and a deferred tax liability for all taxable temporary differences.
+
+
+
+
+                                                                             2023 Interim Report    15
+INTERIM RESULTS
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+2.   PRINCIPAL ACCOUNTING POLICIES (continued)
+     2.1    Impacts and changes in accounting policies on application of Amendments
+            to HKAS 12 “Deferred Tax related to Assets and Liabilities arising from a Single
+            Transaction” (continued)
+            2.1.2 Transition and summary of effects
+                   As disclosed in the Group’s annual financial statements for the year ended
+                   December 31, 2022, the Group previously applied the HKAS 12 requirements to
+                   assets and liabilities arising from a single transaction as a whole and temporary
+                   differences relating to the relevant assets and liabilities were assessed on a
+                   net basis. Upon the application of the amendments, the Group assessed the
+                   relevant assets and liabilities separately. In accordance with the transition
+                   provision:
+
+
+                   (i)    the Group has applied the new accounting policy retrospectively to
+                          leasing transactions that occurred on or after January 1, 2022;
+
+
+                   (ii)   the Group also, as at January 1, 2022, recognised a deferred tax asset
+                          (to the extent that it is probable that taxable profit will be available
+                          against which the deductible temporary difference can be utilised)
+                          and a deferred tax liability for all deductible and taxable temporary
+                          difference associated with right-of-use-assets and lease liabilities.
+
+
+                   The Group recognised the deferred tax assets associated with the lease
+                   liabilities of approximately RMB703.8 million and RMB553.3 million as at January
+                   1, 2022 and December 31, 2022 respectively and deferred tax liabilities
+                   associated with the right-of-use assets of approximately RMB671.9 million and
+                   RMB520.7 million as at January 1, 2022 and December 31, 2022 respectively
+                   on a gross basis but it has no impact on the Group’s financial position as the
+                   related deferred tax assets and liabilities continues to offset for the purpose of
+                   presentation in the condensed consolidated statement of financial position.
+                   There is also no impact on the Group’s performance and the accumulated
+                   profits at the earliest period presented.
+
+
+
+
+16    POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+INTERIM RESULTS
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+2.   PRINCIPAL ACCOUNTING POLICIES (continued)
+     2.2   Impacts on application of Amendments to HKAS 1 and HKFRS Practice Statement 2
+           “Disclosure of Accounting Policies”
+           In addition, the Group has applied Amendments to HKAS 1 and HKFRS Practice
+           Statement 2 “Disclosure of Accounting Policies” which are mandatorily effective for
+           the Group’s annual period beginning on January 1, 2023 for the preparation of the
+           Group’s consolidated financial statements for the year ending December 31, 2023.
+
+
+           HKAS 1 is amended to replace all instances of the term “significant accounting
+           policies” with “material accounting policy information”. Accounting policy information
+           is material if, when considered together with other information included in an entity’s
+           financial statements, it can reasonably be expected to influence decisions that the
+           primary users of general purpose financial statements make on the basis of those
+           financial statements.
+
+
+           The amendments also clarify that accounting policy information may be material
+           because of the nature of the related transactions, other events or conditions, even if
+           the amounts are immaterial. However, not all accounting policy information relating
+           to material transactions, other events or conditions is itself material. If an entity
+           chooses to disclose immaterial accounting policy information, such information must
+           not obscure material accounting policy information.
+
+
+           HKFRS Practice Statement 2 “Making Materiality Judgements” (the “Practice
+           Statement”) is also amended to illustrate how an entity applies the “four-step
+           materiality process” to accounting policy disclosures and to judge whether
+           information about an accounting policy is material to its financial statements.
+           Guidance and examples are added to the Practice Statement.
+
+
+           The application of the amendments in the current period had no material impact
+           on the condensed consolidated financial statements but is expected to affect the
+           disclosures of the Group’s accounting policies in the Group’s annual consolidated
+           financial statements for the year ending December 31, 2023.
+
+
+
+
+                                                                         2023 Interim Report   17
+INTERIM RESULTS
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+3.   REVENUE AND SEGMENTAL INFORMATION
+     The Group is principally engaged in the distribution and retailing of sportswear and footwear
+     products and provision of large scale commercial spaces to retailers and distributors for
+     commissions from concessionaire sales. The Group’s results and revenue are reported as
+     a whole on a regular basis to the chief operating decision maker, being the executive
+     directors of the Company, for the purposes of performance assessment and resource
+     allocation.
+
+
+     The following is an analysis of the Group’s revenue recognised at a point in time:
+
+
+                                                             For the six months ended June 30,
+
+                                                                         2023                 2022
+                                                                     RMB’000               RMB’000
+                                                                 (unaudited)         (unaudited)
+
+       Sales of sportswear and footwear products                  10,897,233              9,807,723
+       Commissions from concessionaire sales                           62,768               57,092
+
+                                                                  10,960,001              9,864,815
+
+
+4.   INCOME TAX EXPENSE
+                                                             For the six months ended June 30,
+
+                                                                         2023                 2022
+                                                                     RMB’000               RMB’000
+                                                                 (unaudited)         (unaudited)
+
+       PRC Enterprise Income Tax
+         – Current period                                              88,930              103,746
+         – (Over)underprovision in prior periods                      (15,260)               9,297
+       Withholding tax on dividend                                           –              13,635
+
+       Current tax charge - total                                      73,670              126,678
+       Deferred tax charge (credit)                                    44,827              (29,678)
+
+                                                                      118,497               97,000
+
+
+
+
+18    POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+INTERIM RESULTS
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+5.   FINANCE COSTS/PROFIT FOR THE PERIOD
+                                                            For the six months ended June 30,
+                                                                     2023                 2022
+                                                                  RMB’000              RMB’000
+                                                               (unaudited)          (unaudited)
+      (a) Finance costs
+
+          Interest expenses on bank borrowings                        5,250                   33,733
+          Interest expenses on advance from
+            a related party                                              72                       61
+          Interest expenses on lease liabilities                     44,191                   57,657
+                                                                     49,513                   91,451
+      (b) Profit for the period
+
+          Profit for the period has been arrived at after
+            charging (crediting):
+
+          Total staff costs (included in selling and
+            distribution expenses and administrative
+            expenses)                                             1,193,904            1,258,961
+          Depreciation of right-of-use assets                       452,947              568,551
+          Depreciation of property, plant and equipment             189,048              254,500
+          Net changes in allowance for inventories
+            (included in cost of sales)                             (15,357)                  84,006
+          Amortisation of intangible assets (included in
+            selling and distribution expenses)                        4,376                    4,219
+          Gross rental income from investment properties,
+            net of direct expenses                                   (2,000)                  (2,012)
+          Loss on disposal/written off of property, plant
+            and equipment (included in other operating
+            income and gains (losses))                               18,288                    5,600
+          Impairment losses recognised on trade and
+            other receivables, net (included in other
+            operating income and gains (losses))                      9,826                    3,455
+          Impairment losses recognised on property,
+            plant and equipment (included in other
+            losses)                                                       –                    2,471
+          Impairment losses recognised on right-of-use
+            assets (included in other losses)                             –                    3,803
+
+
+
+
+                                                                        2023 Interim Report       19
+INTERIM RESULTS
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+5.   FINANCE COSTS/PROFIT FOR THE PERIOD (continued)
+     (b)     Profit for the period (continued)
+             For the six months ended June 30, 2023 and 2022, cost of inventories recognised as
+             an expense represents cost of sales as shown in the condensed consolidated income
+             statement.
+
+
+6.   DIVIDENDS
+                                                           For the six months ended June 30,
+
+                                                                      2023               2022
+                                                                   RMB’000           RMB’000
+                                                               (unaudited)        (unaudited)
+
+      Dividends recognised as distribution during the
+           period:
+
+
+      2022 final dividend of nil per share (six months
+           ended June 30, 2022: 2021 final dividend of
+           HK$0.016 per share)                                            –            70,805
+
+
+     Subsequent to the end of the current interim period, the Directors have determined that
+     an interim dividend of HK$0.0185 per share amounting to HK$98,534,000 in aggregate (six
+     months ended June 30, 2022: nil) will be paid to the shareholders of the Company whose
+     names appear in the register of members of the Company on Thursday, September 14,
+     2023.
+
+
+
+
+20   POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+INTERIM RESULTS
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+7.   EARNINGS PER SHARE
+     The calculation of the basic and diluted earnings per share attributable to owners of the
+     Company is based on the following data:
+                                                              For the six months ended June 30,
+
+                                                                        2023                     2022
+                                                                     RMB’000              RMB’000
+                                                                 (unaudited)          (unaudited)
+
+      Earnings:
+
+
+      Earnings for the period attributable to owners of the
+        Company for the purposes of basic and diluted
+        earnings per share                                           305,465                    17,413
+
+
+                                                              For the six months ended June 30,
+
+                                                                        2023                     2022
+                                                                 (unaudited)          (unaudited)
+
+      Number of shares:
+
+
+      Weighted average number of ordinary shares for
+        the purpose of basic earnings per share                 5,176,758,596       5,172,690,740
+
+
+      Effect of dilutive potential ordinary shares:
+        – Unvested awarded shares                                   4,103,788            5,800,905
+
+
+      Weighted average number of ordinary shares for
+        the purpose of diluted earnings per share               5,180,862,384       5,178,491,645
+
+
+     For the purpose of computation of basic earnings per share, the weighted average number
+     of ordinary shares shown above has been arrived at after deducting the shares held by the
+     trustee of the share award scheme of the Company.
+
+
+
+
+                                                                          2023 Interim Report       21
+INTERIM RESULTS
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+8.   PROPERTY, PLANT AND EQUIPMENT, RIGHT-OF-USE ASSETS AND INTANGIBLE ASSETS
+     During the current interim period, the Group acquired property, plant and equipment of
+     RMB134,561,000 (six months ended June 30, 2022: RMB109,165,000).
+
+
+     During the current interim period, the Group has disposed of/written off certain property,
+     plant and equipment with an aggregate carrying amount of RMB21,299,000 (six months
+     ended June 30, 2022: RMB14,010,000) for cash proceeds of RMB3,011,000 (six months ended
+     June 30, 2022: RMB8,410,000), resulting in a loss on disposal/written off of RMB18,288,000 (six
+     months ended June 30, 2022: RMB5,600,000).
+
+
+     During the current interim period, the Group entered into several new lease agreements for
+     the use of retail stores with lease terms generally between 1 to 5 years (six months ended
+     June 30, 2022: 1 to 5 years). Some of the leases in which the Group is the lessee contain
+     variable lease payments terms that are linked to sales generated from retail stores. The
+     Group recognised right-of-use assets resulting from new leases and lease modifications
+     amounting to RMB113,826,000 and RMB195,007,000, respectively (six months ended June
+     30, 2022: RMB109,130,000 and RMB170,030,000, respectively). The Group derecognised
+     the right-of-use assets resulting from lease modifications amounting to RMB114,604,000 (six
+     months ended June 30, 2022: RMB59,520,000).
+
+
+     At the end of the current interim period, capital expenditure in respect of acquisition of
+     property, plant and equipment and intangible assets contracted for but not provided in
+     the condensed consolidated financial statements as was RMB53,775,000 (December 31,
+     2022: RMB62,728,000), and the Group entered into new leases for several retail stores that
+     have not yet commenced, with an average non-cancellable period ranging from 1 to 3
+     years (December 31, 2022: 1 to 3 years), the total future undiscounted cash flows over the
+     non-cancellable period amounted to RMB7,640,000 (December 31, 2022: RMB21,391,000).
+
+
+     During the current interim period, the Group incurred RMB13,298,000 (six months ended
+     June 30, 2022: nil) for computer software recorded under intangible assets.
+
+
+
+
+22    POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+INTERIM RESULTS
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+9.    TRADE AND OTHER RECEIVABLES
+      The Group generally allows credit periods of 30 days to 60 days which are agreed with each
+      of its trade customers. The aged analysis of the Group’s trade receivables, net of allowance
+      for credit losses, presented based on the invoice date at the end of the reporting period,
+      which approximated to the respective revenue recognition dates, is as follows:
+
+
+                                                                              At                       At
+                                                                        June 30,       December 31,
+                                                                            2023                    2022
+                                                                        RMB’000              RMB’000
+                                                                    (unaudited)             (audited)
+
+       0 - 30 days                                                      966,480               820,300
+       31 - 90 days                                                       49,638                   41,784
+
+                                                                      1,016,118               862,084
+
+
+10.   TRADE AND OTHER PAYABLES
+      The aged analysis of the Group’s trade and bills payables, presented based on the invoice
+      date/issuance date of the bills at the end of the reporting period, is as follows:
+
+
+                                                                              At                       At
+                                                                        June 30,       December 31,
+                                                                            2023                    2022
+                                                                        RMB’000              RMB’000
+                                                                    (unaudited)             (audited)
+
+       0 - 30 days                                                      873,542               518,651
+       31 - 90 days                                                        1,581                     745
+       Over 90 days                                                             –             300,000
+
+                                                                        875,123               819,396
+
+
+
+
+                                                                             2023 Interim Report       23
+INTERIM RESULTS
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+11.   SHARE CAPITAL
+
+                                                          Number of         Nominal
+                                                              shares           value
+                                                                             HK$’000
+
+       Ordinary shares of HK$0.01 each
+
+
+       Authorised:
+         At January 1, 2022, June 30, 2022,
+           January 1, 2023 and June 30, 2023           30,000,000,000        300,000
+
+       Issued and fully paid:
+         At January 1, 2022 and June 30, 2022,
+           January 1, 2023 and June 30, 2023            5,326,179,615         53,261
+
+
+                                                                  At              At
+                                                            June 30,    December 31,
+                                                                2023            2022
+                                                            RMB’000         RMB’000
+                                                         (unaudited)       (audited)
+
+       Shown in the condensed consolidated financial
+         statements                                           46,438          46,438
+
+
+
+
+24    POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+INTERIM RESULTS
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+12.   SHARE AWARD SCHEME
+      The Company’s share award scheme was adopted pursuant to a board resolution passed
+      on May 9, 2014 and amended on November 11, 2016. Movements in the number of share
+      awards outstanding are as follows:
+
+
+                                                                 Number of share awards
+                                                                        2023                   2022
+
+       As at January 1, (audited)                                  8,163,000           15,967,500
+       Vested                                                       (377,400)          (5,464,000)
+       Lapsed                                                       (126,400)            (443,500)
+
+
+       As at June 30, (unaudited)                                  7,659,200           10,060,000
+
+
+      A total of 149,331,360 ordinary shares of the Company were held by the trustee of the Share
+      Award Scheme as at June 30, 2023 (December 31, 2022: 149,708,760 ordinary shares).
+
+
+
+
+                                                                         2023 Interim Report     25
+INTERIM RESULTS
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+13.   RELATED PARTY DISCLOSURES
+      Transactions and balances
+      The Group had the following significant related party transactions and balances:
+
+
+                                                                             For the six months ended June 30,
+
+                                                                                       2023             2022
+        Relationship                      Nature of transactions                    RMB’000          RMB’000
+                                                                                (unaudited)      (unaudited)
+
+        Intermediate holding
+          company:
+        Yue Yuen and its subsidiaries     Purchase of footwear products by
+                                            the Group                                      –            1,903
+                                          Operating lease payment paid
+                                            by the Group                                644              614
+                                          Management fees charged to
+                                            the Group                                  2,777            2,443
+
+
+        Companies owned by a trust
+          set up for the benefits of
+          the family members of a
+          director of the Company
+          and the director is one of
+          the ultimate beneficiaries of
+          the trust:
+        Hung Tak Investment Limited       Operating lease payment paid
+                                            by the Group                               1,693            1,693
+
+
+        Non-controlling interest of a     Sales of sportswear products by
+          subsidiary                        the Group                                16,160           21,082
+                                          Interest income charged by the
+                                            Group                                          –             890
+                                          Interest expense charged to the
+                                            Group                                        72               61
+
+
+
+
+26     POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+INTERIM RESULTS
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+13.   RELATED PARTY DISCLOSURES (continued)
+      Transactions and balances (continued)
+
+                                                                                At                  At
+                                                                          June 30,    December 31,
+                                                                             2023                2022
+       Relationship                    Nature of balances                 RMB’000           RMB’000
+                                                                       (unaudited)         (audited)
+
+       Ultimate holding company:
+       Pou Chen Corporation and its Other payables of the Group
+         subsidiaries                                                           37                 24
+
+
+       Intermediate holding
+         company:
+       Yue Yuen and its subsidiaries   Other payables of the Group             144               1,801
+
+
+       Non-controlling interest        Trade receivable of the Group         3,918                   –
+         of a subsidiary               Other payables of the Group           2,800               2,800
+
+
+
+
+                                                                           2023 Interim Report      27
+MANAGEMENT DISCUSSION AND ANALYSIS
+BUSINESS REVIEW
+Business Environment
+     For the six months ended June 30, 2023 (the “Period”), the Group saw decent
+recovery momentum with increased foot traffic to its brick and mortar (“B&M”) channels
+and improved purchasing intent following the lifting of all control measures in mainland
+China. It also benefited from a low base effect stemming from the escalation of
+lockdowns in the same period of last year. Further, sales recovery in the footwear and
+apparel retail sector showed signs of outperforming the recovery of overall consumer
+spending in mainland China. According to the National Bureau of Statistics of China,
+consumption of garments, footwear, hats and knitwear rose 12.8% year-on-year in the first
+half of 2023, compared to a 8.2% recovery in total retail sales of consumer goods.
+
+
+     Meanwhile, the Group’s omni-channels remained robust during the Period, with its
+private domain channels, including its WeChat stores, Douyin live-streaming shopping
+events and shopping mall membership platforms seeing a strong sales growth of over
+50%. This resilience demonstrated the effectiveness of the Group’s ongoing digital
+transformation and how its implementation is incrementing and complementing offline
+sales.
+
+
+     As the Group continues to position itself to take full advantage of economic recovery
+in the Greater China region, the Group is continuing to be highly agile and flexible in
+its decision-making and in progressing its retail refinement strategy. This includes further
+streamlining and rightsizing its B&M network while strengthening its online public and
+private traffic domains to diversify its channel mix, in order to facilitate clearance of
+slow-moving merchandise and to enhance cash conversion efficiency. Amid the volatile
+market environment, it continues to focus on conversion rates and in-season full-price
+sales, while deepening its engagement with customers and improving its operational
+efficiency. The Group also continues to intensify its collaboration with its brand partners
+to create a seamless shopping experience for its customers in a way that prioritises
+healthier sales while enhancing membership program and inventory integration.
+
+
+
+
+28       POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+MANAGEMENT DISCUSSION AND ANALYSIS
+BUSINESS REVIEW (continued)
+Hybrid Channel Management – B&M
+  Sales momentum in the Group’s B&M network has been recovering since the lifting
+of all control measures. Overall B&M performance was fuelled by improving yet still
+unstable offline traffic and is also being enhanced by a low base effect, although
+the influence of this varies considerably from month to month according to lockdown
+conditions in different regions of mainland China in the corresponding period of 2022.
+Throughout the Period, the Group continued to progress its retail refinement strategy,
+closing or upgrading underperforming stores, while adopting a holistic view towards new
+store openings: optimising its investment returns as a whole by prioritising geographic
+regions with an outstanding operating track record and convincing potential, with stores
+only being opened following a thorough assessment and not only in accordance with
+allocations from brands. As at June 30, 2023, the Group had 3,723 directly operated
+stores across the Greater China region.
+
+
+  Movement of directly operated stores during the six months ended:
+
+
+                                                             June 30,            June 30,
+                                                                2023                2022
+
+
+ At the beginning of the period                                 4,093                   4,631
+ Net decrease                                                    (370)                   (176)
+
+
+ At the end of the period                                       3,723                   4,455
+
+
+  Numbers and percentages of directly operated stores by size as at:
+
+
+                                     June 30, 2023                June 30, 2022
+                                    Number              %       Number                     %
+
+
+ Selling area
+ 300 m2 or smaller                        2,988       80.3         3,702                 83.1
+ Larger than 300 m2                         735       19.7           753                 16.9
+
+
+ Total                                    3,723      100.0         4,455                100.0
+
+
+
+
+                                                                  2023 Interim Report      29
+MANAGEMENT DISCUSSION AND ANALYSIS
+BUSINESS REVIEW (continued)
+Hybrid Channel Management – B&M (continued)
+     B&M retail channels remain a critical and irreplaceable sales touchpoint for
+consumers in the Greater China region who want to discover new products and
+experience a unique, personalised and seamless shopping experience for sports
+products and services. During the Period, the Group continued to invest in optimising
+store formats and accelerated its digital transformation by integrating its WeChat stores,
+membership programmes and other digital services and tools into its B&M network,
+which, in turn, enriched the consumer experience and stimulated higher units per
+transaction and average transaction value. The Group continued investing in enhancing
+repeat purchases and higher-margin in-season sales within its core offline network, albeit
+the tentative higher sales contribution from discounted stores.
+
+
+Hybrid Channel Management – Omni-channels
+     The Group’s omni-channels include its public traffic domains, covering the operation
+of third-party platforms such as Tmall, JD and Vipshop, as well as its increasingly
+important private traffic domain – the Pan-WeChat Ecosphere – which covers its WeChat
+stores, Douyin live-streaming shopping events and shopping mall membership platforms.
+During the Period, the Group continued to strengthen and grow its omni-channels,
+further deepening and expanding its engagement with shoppers while delivering better
+operational efficiency.
+
+
+     The Group’s online sales momentum has proven to be highly robust, pushing revenue
+growth and effective inventory management despite the return of foot traffic to its
+B&M network and recovering offline sales. Its omni-channels collectively contributed
+approximately 25% of total sales during the Period, a relatively high level as compared
+to 21% of total sales in the same period last year during which its offline channels were
+adversely affected by control measures.
+
+
+     As the Group further elevated its digital operation capabilities, its private traffic
+domain channels, in particular, experienced strong sales growth during the Period with
+the Pan-WeChat Ecosphere proving to be an increasingly lucrative and effective sales
+channel that is successfully delivering better conversion rates, shorter sales cycles and
+more full-price in-season sales transacted at an earlier time for its direct business.
+
+
+
+
+30      POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+MANAGEMENT DISCUSSION AND ANALYSIS
+BUSINESS REVIEW (continued)
+Hybrid Channel Management – Omni-channels (continued)
+  The Group’s WeChat stores also serve as an extension of its B&M network, providing
+quality and comprehensive customer services. Within the Pan-WeChat Ecosphere, the
+Group has optimised the scope of its Douyin live-streams conducted by designated
+Key Opinion Staff during the Period, further localising content from the regional level to
+the store level. It also continued to embed value-added services, diverse content and
+member-exclusive benefits stemming from its integrated membership programmes with
+its brand partners into the Pan-WeChat Ecosphere to achieve quality incremental sales.
+It will continue to invest in and allocate more resources to its private traffic domain
+channels to generate sustainable consumer loyalty, boosted by the provision of more
+membership-related services.
+
+
+Enhanced Strategic Alliances with Business Partners
+  The Group further deepened its strategic partnerships with its brand partners,
+particularly in areas such as providing an impeccable and diverse shopping experience
+and consumer connectivity. Leveraging its YYsports WeChat Mini-Program in the Greater
+China region, the Group continued to boost its membership programmes while offering
+diversified sports services content, interactive features and other related services to
+support in-depth membership management and to facilitate a premium and seamless
+online and offline customer experience. Through the increased integration and direct
+connection of its membership programmes with brand partners, it further supported
+membership growth and increased in-season sell-through.
+
+
+  Moreover, the Group continued to reinforce its product-sharing platform (“PSP”) and
+enhance its Omni-Hub programme with brand partners to efficiently share products and
+services across different platforms and channels to optimise its inventory mix, accelerate
+its sales, facilitate a virtuous inventory cycle and optimise its services to loyal members
+and consumers.
+
+
+
+
+                                                                    2023 Interim Report   31
+MANAGEMENT DISCUSSION AND ANALYSIS
+BUSINESS REVIEW (continued)
+Strengthened Operational Excellence with Digital Transformation
+     During the Period, the Group invested further in upgrading its Enterprise Resource
+Planning (“ERP”) system, business intelligence platform, PSP and other digital tools to
+drive future retail excellence, particularly in areas such as real-time in-store efficiency,
+resource optimisation as well as membership services through digital empowerment. It
+also rolled out Personal Digital Assistants (“PDA”) to its B&M stores, a dashboard-style
+system that enables store staff to manage inventory more effectively, boosting store-level
+efficiency.
+
+
+     The Group’s ongoing investments in its omni-channels, alongside its retail refinement
+strategy, remain essential for developing its unique core competencies, maintaining its
+competitiveness and supporting its long-term development. It continued to streamline its
+operations to enhance people efficiency and cost competitiveness and shorten the sales
+cycle. Through these aforementioned efforts, the Group is confident that it will be more
+adaptable to the ever-changing operating environment while capturing long-term growth
+opportunities.
+
+
+PERFORMANCE ANALYSIS
+Financial Review
+     During the Period, the Group recorded revenue of RMB10,960.0 million, representing
+an increase of 11.1% compared with the same period of last year. Gross profit was
+RMB3,670.7 million, representing an increase of 5.0% when compared to the same
+period of last year. Profit attributable to owners of the Company for the first half of 2023
+increased by 1,654.2% to RMB305.5 million.
+
+
+
+
+32      POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+MANAGEMENT DISCUSSION AND ANALYSIS
+PERFORMANCE ANALYSIS (continued)
+Revenue
+   The Group’s total revenue during the Period increased 11.1% to RMB10,960.0 million
+as compared with the same period of last year. The increase was mainly attributed to
+a recovery in offline traffic and purchasing intent following the lifting of all pandemic
+control and social distancing measures in mainland China, the robust sales growth of
+omni-channels, in particular its Pan-WeChat Ecosphere, as well as a low base effect.
+
+
+                                         For the six months ended
+                                                   June 30,
+
+                                                 2023               2022            Change
+                                         RMB million          RMB million
+
+
+ Revenue                                      10,960.0            9,864.8              11.1%
+ Cost of sales                                (7,289.3)          (6,368.9)             14.5%
+ Gross profit                                  3,670.7            3,495.9                  5.0%
+ Gross profit margin (%)                        33.5%              35.4%             -1.9 ppt
+
+
+Gross Profit
+   The Group’s gross profit during the Period amounted to RMB3,670.7 million with a
+gross profit margin of 33.5%. Despite the well-managed discount control, the gross profit
+margin decreased 1.9 percentage points compared to the same period of last year. The
+decrease was mainly attributed to negative impact from channel mix.
+
+
+Selling & Distribution Expenses and Administrative Expenses
+   The Group’s selling and distribution expenses during the Period were RMB2,913.6
+million (first half of 2022: RMB3,075.9 million), accounting for 26.6% of the Group’s
+revenue (first half of 2022: 31.2%). Selling and distribution expenses primarily include
+concessionaire fees, depreciation of right-of-use assets in relation to stores, sales
+personnel salaries and commissions, other depreciation and amortisation charges, and
+other expenses that mainly include store operation expenses, property management
+fees, logistic expenses and other expenses.
+
+
+
+
+                                                                     2023 Interim Report     33
+MANAGEMENT DISCUSSION AND ANALYSIS
+PERFORMANCE ANALYSIS (continued)
+Selling & Distribution Expenses and Administrative Expenses (continued)
+     Administrative expenses during the Period were RMB396.7 million (first half of 2022:
+RMB375.9 million), accounting for 3.6% of the Group’s revenue (first half of 2022: 3.8%).
+Administrative expenses primarily include management and administrative personnel
+salaries, depreciation and amortisation charges and other expenses.
+
+
+     The Group’s selling and distribution expenses and administrative expenses during
+the Period were RMB3,310.3 million, a decrease of 4.1% compared to the first half of
+2022. This was equivalent to 30.2% of total revenue, a decrease of 4.8 percentage points
+year-on-year, with the savings benefited from active management on rental and people
+efficiency that delivered operational excellence, as well as operating leverage.
+
+
+Operating Profit
+     The Group’s operating profit during the Period was RMB472.8 million, representing
+an increase of 127.0% with an operating margin of 4.3%, an increase of 2.2 percentage
+points year-on-year.
+
+
+Finance Income and Finance Costs
+     Finance income during the Period was RMB14.2 million, compared to RMB10.6 million
+in the first half of 2022. Finance costs during the Period recorded a sharp decrease of
+45.9% to RMB49.5 million, compared to RMB91.5 million in the first half of 2022, primarily
+as a result of the efforts in debt repayment and a decrease in interest expenses on lease
+liabilities during the Period.
+
+
+Profit for the Period
+     As a result of the aforementioned efforts, the Group recorded a net profit of RMB319.0
+million during the Period, representing a significant increase of 1,218.8% as compared
+with the corresponding period of 2022. Profit attributable to owners of the Company for
+the first half of 2023 increased by 1,654.2% to RMB305.5 million as compared with the
+corresponding period of 2022.
+
+
+
+
+34      POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+MANAGEMENT DISCUSSION AND ANALYSIS
+PERFORMANCE ANALYSIS (continued)
+Working Capital Efficiency
+   The average inventory turnover period for the first half of 2023 improved significantly to
+133 days (first half of 2022: 202 days). The balance of inventory as at June 30, 2023 was
+RMB4,672.1 million, a decrease from RMB6,071.9 million as at December 31, 2022, which
+was attributed to the Group’s efforts to clear excess inventory and to enhance inventory
+efficiency. The average trade receivables turnover period was 16 days (first half of 2022:
+21 days), which remained consistent with the credit terms of 30 to 60 days that the Group
+gave its department store counters and retail distributors. The average trade payables
+turnover period during the Period was 21 days (first half of 2022: 34 days).
+
+
+Liquidity and Financial Resources
+   As at June 30, 2023, the Group has solid bank balances and cash (which consist of
+bank deposits over 3 months and cash and cash equivalents) amounting to RMB2,224.9
+million (December 31, 2022: RMB1,190.1 million) while working capital (current assets
+minus current liabilities) was RMB6,044.5 million (December 31, 2022: RMB5,475.0 million).
+Total bank borrowings were further reduced by 79.8% to RMB92.0 million (December
+31, 2022: RMB456.2 million). All bank borrowings are short-term in nature which are
+repayable within one year. Bank balances and cash and bank borrowings were mainly
+denominated in Renminbi. The Group’s loans under a fixed rate arrangement made up
+approximately 100% (December 31, 2022: 92%) of its total bank borrowings.
+
+
+   The Group’s gearing ratio as of June 30, 2023, represented by total interest-bearing
+borrowings (excluding lease liabilities) as a percentage of total equity, was 1.1%
+(December 31, 2022: 5.6%). The net cash position (bank balances and cash minus bank
+borrowings) saw a soaring increase to RMB2,132.9 million (December 31, 2022: RMB734.0
+million).
+
+
+   The net cash generated from operating activities during the Period was RMB2,021.0
+million. The Group believes its liquidity requirements will be satisfied with the combination
+of capital generated from operating activities and future bank borrowings. The net cash
+used in investing activities during the Period was RMB332.7 million, while the net cash
+used in financing activities was RMB853.3 million.
+
+
+
+
+                                                                      2023 Interim Report   35
+MANAGEMENT DISCUSSION AND ANALYSIS
+PERFORMANCE ANALYSIS (continued)
+Capital Expenditure
+     The Group continued its selective and prudent approach to capital expenditure
+planning in the areas of strategic new store openings, ongoing upgrades and the
+expansion of experience-driven B&M stores that offer a better shopping experience and
+store productivity improvements, as well as further optimising and upgrading its online
+and B&M networks to capture growth opportunities. Total capital expenditure during the
+Period increased to RMB157.3 million (first half of 2022: RMB143.8 million). As at June 30,
+2023, the Group had no material contingent liabilities.
+
+
+     As at June 30, 2023, capital expenditure in respect of the acquisition of property, plant
+and equipment contracted for but not provided in the consolidated financial statements
+was RMB53.8 million (December 31, 2022: RMB62.7 million). The Group also entered
+into new leases for several retail stores that have not yet commenced, with an average
+non-cancellable period ranging from 1 to 3 years (December 31, 2022: 1 to 3 years), with
+the total future undiscounted cash flows over the non-cancellable period amounting to
+RMB7.6 million (December 31, 2022: RMB21.4 million).
+
+
+Foreign Exchange
+     The Group conducts its business primarily in the Greater China region and the majority
+of its transactions are denominated in Renminbi. As at June 30, 2023, the Group had no
+significant hedging financial instruments for managing its foreign exchange exposure. As
+the exchange rate of the Renminbi against foreign currencies may fluctuate, the Group
+may enter into forward contracts, currency swaps or options to hedge against currency
+risks arising from foreign currency transactions when necessary.
+
+
+     The Group has a dedicated treasury division and internal treasury policies and
+approval guidelines to manage and control the Group’s exposure to structured deposit
+investments. The use of derivatives and approval procedures during the Period was in
+accordance with the Group’s internal policies and guidelines.
+
+
+
+
+36      POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+MANAGEMENT DISCUSSION AND ANALYSIS
+PROSPECTS AND FUTURE DEVELOPMENTS
+  The Group is reasonably optimistic that the recovery momentum will continue into
+the second half of 2023. Its overall top-line recovery will be supported by purchasing
+intent and a relative low base effect although the extent of this will vary month to month
+due to the uneven impact that control measures had on the Group’s business in the
+corresponding periods of 2022.
+
+
+  The Group is also confident about the ongoing resilience of its omni-channels and the
+outperformance of its higher margin Pan-WeChat Ecosphere as it continues to accelerate
+its digital transformation to drive its profitable growth and further margin improvement.
+The Group will continue to optimise its omni-channels, aiming to become less reliant
+on promotions and improving its inventory management efficiency to achieve a better
+margin profile and operational efficiency.
+
+
+  Regarding offline channel, the Group will continue to prioritise store-level profitability
+and efficiency through implementing its retail refinement strategy of upgrading and
+refining its B&M network to offer a digitally-enabled and superior customer experience,
+while exploring new cooperation opportunities with business partners that will ultimately
+drive sustainable growth. The Group will also further upgrade its ERP system and business
+intelligence platforms, and invest in other digital empowerment tools, such as PDA,
+smart product allocation artificial intelligence, dashboard and E-POS to better support
+its operations, optimise its inventory management and improve its working capital
+efficiency. It will continue to drive its offline and online sales growth and reinforce its
+in-season sell-through, off-season clearance and margin growth through its PSP, a more
+agile procurement strategy and more effective inventory management.
+
+
+  The Group will seek to further enhance its strategic cooperation with its brand
+partners, including its Omni-Hub programme for inventory sharing. It is also committed to
+expanding its integrated membership programmes with brand partners and connecting
+these membership services with its growing number of digitally-enabled stores, allowing
+customers to access premium member-exclusive products, offers and experiences that
+are consistent with that available at the directly operated stores of these brands in the
+Greater China region.
+
+
+
+
+                                                                     2023 Interim Report   37
+MANAGEMENT DISCUSSION AND ANALYSIS
+PROSPECTS AND FUTURE DEVELOPMENTS (continued)
+     Although the current external environment remains challenging, the prospects for
+the sports industry in the Greater China region remain bright, with authorities remaining
+committed to high-quality sports development and with the industry set to grow to RMB5
+trillion in value by 2025. This will enable the Group to return to and exceed its previous
+growth momentum while strengthening its long-term operating performance and
+profitability.
+
+
+HUMAN RESOURCES
+     As at June 30, 2023, the Group had approximately 23,700 employees in total,
+representing a decrease of 17.1% year-on-year. The Group provides competitive
+remuneration packages that are determined with reference to prevailing salary levels
+in the market and individual performance. The Company offers share awards to eligible
+employees in order to provide them with incentives and to recognise their contributions
+and ongoing efforts. In addition, the Group provides other fringe benefits, such as social
+insurance, mandatory provident funds, medical coverage and training programmes for
+employees based on their respective personal career development.
+
+
+
+
+38      POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+OTHER INFORMATION
+INTERIM DIVIDEND
+   The Board has resolved to declare an interim dividend of HK$0.0185 in cash per
+ordinary share of the Company (the “Share”) for the six months ended June 30, 2023 (six
+months ended June 30, 2022: nil) to the holders of the Shares (the “Shareholders”) whose
+names appear on the register of members of the Company (the “Register of Members”)
+on Thursday, September 14, 2023. The interim dividend will be paid on Friday, October 6,
+2023.
+
+
+CLOSURE OF REGISTER OF MEMBERS
+   The Register of Members will be closed from Thursday, September 14, 2023 to Monday,
+September 18, 2023, both days inclusive, during which period no transfer of Shares will be
+effected. In order to qualify for the interim dividend, all transfer documents accompanied
+by the relevant share certificates must be lodged with the Company’s branch share
+registrar and transfer office in Hong Kong, Computershare Hong Kong Investor Services
+Limited at Shops 1712-1716, 17th Floor, Hopewell Centre, 183 Queen’s Road East,
+Wanchai, Hong Kong for registration no later than 4:30 p.m. on Wednesday, September
+13, 2023. The record date for entitlement to the interim dividend will be Thursday,
+September 14, 2023.
+
+
+DIRECTORS’ AND CHIEF EXECUTIVE’S INTERESTS AND SHORT POSITIONS
+IN SHARES, UNDERLYING SHARES AND DEBENTURES
+   As at June 30, 2023, the interests or short positions of the Directors and chief executive
+of the Company (the “Chief Executive”) in the shares, underlying shares and debentures
+of the Company and its associated corporations (within the meaning of Part XV of the
+Securities and Futures Ordinance (Chapter 571 of the Laws of Hong Kong) (the “SFO”))
+which (a) as required to be notified to the Company and The Stock Exchange of Hong
+Kong Limited (the “Stock Exchange”) pursuant to Divisions 7 and 8 of Part XV of the
+SFO (including interests or short positions which they were taken or deemed to have
+under such provisions of the SFO); or (b) as recorded in the register required to be
+kept by the Company pursuant to Section 352 of the SFO; or (c) as otherwise notified
+to the Company and the Stock Exchange pursuant to the Model Code for Securities
+Transactions by Directors of Listed Issuers (the “Model Code”) contained in Appendix
+10 to the Rules Governing the Listing of Securities on the Stock Exchange (the “Listing
+Rules”), were as follows:
+
+
+
+                                                                      2023 Interim Report   39
+OTHER INFORMATION
+DIRECTORS’ AND CHIEF EXECUTIVE’S INTERESTS AND SHORT POSITIONS
+IN SHARES, UNDERLYING SHARES AND DEBENTURES (continued)
+Long Positions in shares and underlying shares
+(a)   The Company
+      Ordinary shares of HK$0.01 each of the Company
+
+                                                               Number of Shares/underlying Shares held
+                                                                                                                       Percentage
+      Name of Directors/                       Personal             Family    Corporate        Other                  of the issued
+      Chief Executive      Capacity            interests          interests    interests    interests         Total         Shares1
+
+
+      Tsai Patty, Pei Chun Beneficial Owner   19,523,000                 –            –            –     19,523,000          0.37%
+      Yu Huan-Chang        Beneficial Owner    1,200,000   2
+                                                                         –            –            –      1,200,000          0.02%
+      Liao, Yuang-Whang Beneficial Owner       1,307,000                 –            –            –      1,307,000          0.02%
+      Wang Jun             Beneficial Owner    3,759,974   3
+                                                                         –            –            –      3,759,974          0.07%
+
+      notes:
+
+
+      1
+                The total number of issued Shares as at June 30, 2023 was 5,326,179,615.
+
+
+      2
+                1,200,000 awarded Shares granted under the share award scheme of the Company
+                (the “Share Award Scheme”), which are subject to certain vesting conditions and
+                remain unvested as at June 30, 2023. Details of the awarded Shares are set out in the
+                section “Share Award Scheme” in this interim report.
+
+
+      3
+                Included interests in 384,000 awarded Shares granted under the Share Award
+                Scheme, which are subject to certain vesting conditions and remain unvested as at
+                June 30, 2023. Details of the awarded Shares are set out in the section “Share Award
+                Scheme” in this interim report.
+
+
+
+
+40        POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+OTHER INFORMATION
+DIRECTORS’ AND CHIEF EXECUTIVE’S INTERESTS AND SHORT POSITIONS
+IN SHARES, UNDERLYING SHARES AND DEBENTURES (continued)
+Long Positions in shares and underlying shares (continued)
+(b)   Associated Corporation – Yue Yuen
+      Ordinary shares of HK$0.25 each of Yue Yuen
+
+                                                                                                                 Percentage
+                                                            Number of shares/underlying shares held
+                                                                                                                of the issued
+      Name of Directors/                      Personal           Family    Corporate        Other                    shares of
+      Chief Executive      Capacity           interests        interests    interests    interests      Total        Yue Yuen1
+
+
+      Yu Huan-Chang        Beneficial Owner    120,0002               –            –            –     120,000           0.01%
+      Liao, Yuang-Whang Beneficial Owner      120,000   2
+                                                                      –            –            –     120,000           0.01%
+      Hu, Chia-Ho          Beneficial Owner   380,000   3
+                                                                      –            –            –     380,000           0.02%
+
+      notes:
+
+
+      1
+               The total number of issued shares of Yue Yuen as at June 30, 2023 was 1,612,183,986.
+
+
+      2
+               Included interests in 90,000 awarded shares granted by Yue Yuen under the share
+               award scheme of Yue Yuen (the “YY Share Award Scheme”), which are subject
+               to certain vesting conditions and remain unvested as at June 30, 2023. Details of
+               the awarded Shares are set out in the section “Arrangement to Acquire Shares or
+               Debentures” in this interim report.
+
+
+      3
+               Included interests in 45,000 awarded shares granted by Yue Yuen under the YY
+               Share Award Scheme, which are subject to certain vesting conditions and remain
+               unvested as at June 30, 2023. Details of the awarded shares are set out in the section
+               “Arrangement to Acquire Shares or Debentures” in this interim report.
+
+
+
+
+                                                                                               2023 Interim Report        41
+OTHER INFORMATION
+DIRECTORS’ AND CHIEF EXECUTIVE’S INTERESTS AND SHORT POSITIONS
+IN SHARES, UNDERLYING SHARES AND DEBENTURES (continued)
+     Save as disclosed above, as at June 30, 2023, none of the Directors nor Chief
+Executive had or was deemed to have any interests or short positions in the shares,
+underlying shares and debentures of the Company or any of its associated corporations
+(within the meaning of Part XV of the SFO) which (a) were required to be notified to the
+Company and the Stock Exchange pursuant to Divisions 7 and 8 of Part XV of the SFO
+(including interests or short positions which they were taken or deemed to have under
+such provisions of the SFO); or (b) were recorded in the register required to be kept by
+the Company pursuant to Section 352 of the SFO; or (c) were required to be notified to
+the Company and the Stock Exchange pursuant to the Model Code.
+
+
+SHARE AWARD SCHEME
+     The Share Award Scheme was adopted on May 9, 2014 and duly amended on
+November 11, 2016 for recognising the contributions by certain persons, including
+Directors and employees of the Group, providing incentives to retain them for continual
+operation and development of the Group, and to attract suitable personnel for further
+development of the Group. All personnel of the Group are entitled to participate. It is
+funded by the existing Shares of the Company and does not involve issue of new Shares.
+The Share Award Scheme is valid and effective for a term of 10 years commencing on
+May 9, 2014 and ending on May 8, 2024. No further share awards should be granted
+upon termination or expiry of the term of the Share Award Scheme.
+
+
+     Any proposed award should be determined on the basis of individual performance
+and must be recommended by the remuneration committee of the Board and approved
+by the Board. All the awarded Shares granted under the Share Award Scheme should
+be vested in accordance with the conditions (such as employment status, individual
+performance and common key performance indicators) and timetable (i.e. vesting
+period) as determined by the Board. In the case of a Director or an employee of the
+Group, the grantee must remain at all times a Director or an employee of the Group.
+Clawback will be applied where there is exceptionally poor performance, misconduct or
+material breach of terms of employment or rules or policies of the Company prior to the
+vesting date and the Board will determine to vary or cancel the relevant award.
+
+
+
+
+42      POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+OTHER INFORMATION
+SHARE AWARD SCHEME (continued)
+   Awarded Shares are generally granted on the basis of the individual performance
+of the relevant grantee, and vested in three tranches over three years with dates
+determined by the Board subject to fulfilment of performance target(s) and condition(s).
+The most common performance target is “attaining “good” or better performance rating
+for all appraisals conducted during the vesting period”. Taking ‘vest-in-tranches’ into
+consideration, vesting periods of awarded Shares granted generally range from 1 to 3
+years.
+
+
+   According to the letter of award, the amount payable on acceptance of the grant of
+awarded Shares is HK$1.00 with no deadline specified. No monetary payment has to be
+made by grantee to acquire awarded Shares under the Share Award Scheme.
+
+
+   The total number of Shares to be awarded under the Share Award Scheme should
+not exceed 4% of the number of issued Shares (i.e. 5,326,179,615 Shares) as at the date
+of grant, which is 213,047,184. The maximum number of Shares (including vested and
+non-vested Shares) which may be awarded to a selected participant should not exceed
+1% of the issued Shares from time to time, which is 53,261,796.
+
+
+   Under the Share Award Scheme, a total of 111,721,810 Shares, representing
+approximately 2.10% of the issued Shares, have been awarded and the total number
+of Shares available for being further awarded was/is 101,325,374, representing
+approximately 1.90% of the issued Shares, as at March 15, 2023 (being the date of the
+annual report of the Company for the year ended December 31, 2022) and the date of
+this report.
+
+
+   Eligible participant(s) selected by the Board for participation in the Share Award
+Scheme shall have no right to any dividend held under the trust before vesting which
+shall form part of the residual cash or any of the returned Shares. The trustee of the Share
+Award Scheme shall not exercise the voting rights in respect of any Shares held under
+the trust (including but not limited to the awarded Shares, the returned Shares, any
+bonus Shares and scrip dividend).
+
+
+
+
+                                                                     2023 Interim Report   43
+OTHER INFORMATION
+SHARE AWARD SCHEME (continued)
+     Pursuant to the Share Award Scheme, movements in awarded Shares during the
+period are set out below:
+
+
+                                                                        Number of awarded Shares
+                                                          Balance     Granted     Lapsed/      Vested     Balance
+                                                             as at     during   cancelled      during        as at
+                     Date of                            January 1,        the       during        the     June 30,
+                     grant               Vesting period      2023      period   the period     period        2023
+
+Director/Chief Executive
+Yu Huan-Chang 11.11.2022          11.11.2022-10.11.2023    360,000          –            –           –     360,000
+                  11.11.2022      11.11.2022-10.11.2024    360,000          –            –           –     360,000
+                  11.11.2022      11.11.2022-10.11.2025    480,000          –            –           –     480,000
+Wang Jun          24.03.2021      24.03.2021-23.09.2023    144,000          –            –           –     144,000
+                  24.03.2021      24.03.2021-23.03.2024    240,000          –            –           –     240,000
+
+Sub-total                                                 1,584,000         –            –           –    1,584,000
+
+Employees in aggregate
+                 24.03.2021       24.03.2021-23.09.2023   1,759,500         –      (28,800)          –    1,730,700
+                 24.03.2021       24.03.2021-23.03.2024   2,932,500         –      (48,000)          –    2,884,500
+                 13.08.2021       13.08.2021-12.02.2023     377,400         –            –    (377,400)           –
+                 13.08.2021       13.08.2021-12.02.2024     566,100         –      (18,600)          –      547,500
+                 13.08.2021       13.08.2021-12.08.2024     943,500         –      (31,000)          –      912,500
+
+Sub-total                                                 6,579,000         –    (126,400)    (377,400)   6,075,200
+
+Grand total                                               8,163,000         –    (126,400)    (377,400)   7,659,200
+
+
+     The weighted average closing price of the Shares immediately before the date on
+which the awards that were vested during the period was HK$0.87 per Share.
+
+
+
+
+44          POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+OTHER INFORMATION
+ARRANGEMENT TO ACQUIRE SHARES OR DEBENTURES
+   Under the YY Share Award Scheme and subject to certain vesting conditions, three of
+the Directors have been awarded with ordinary shares of Yue Yuen, details of which are
+as follows:
+
+
+                                         Number                    Number           Number
+                                        of shares      Date of    of shares        of shares
+Name of Directors     Date of award     awarded        vesting       vested        unvested
+
+
+Yu Huan-Chang             01.06.2021       30,000   31.05.2023       30,000                  –
+                          28.06.2023       90,000   31.05.2025             –            90,000
+
+
+Liao, Yuang-Whang         01.06.2021       30,000   31.05.2023       30,000                  –
+                          28.06.2023       90,000   31.05.2025             –            90,000
+
+
+Hu, Chia-Ho               01.06.2021       60,000   31.05.2023       60,000                  –
+                          23.03.2023       62,000   01.06.2023       62,000                  –
+                          28.06.2023       45,000   31.05.2025             –            45,000
+
+
+   Save as disclosed herein and as stated in the section “Share Award Scheme” above,
+at no time during the period was the Company or any of its holding companies, fellow
+subsidiaries or subsidiaries a party to any arrangements to enable the Directors to
+acquire benefits by means of the acquisition of shares in, or debt securities (including
+debentures) of the Company or any other body corporate.
+
+
+
+
+                                                                  2023 Interim Report      45
+OTHER INFORMATION
+SUBSTANTIAL SHAREHOLDERS’ INTERESTS AND SHORT POSITIONS IN
+SHARES AND UNDERLYING SHARES
+     As at June 30, 2023, the register of interests in Shares and short positions of substantial
+Shareholders maintained by the Company pursuant to Section 336 of the SFO showed
+that other than the interests disclosed in the section “Directors’ and Chief Executive’s
+Interests and Short Positions in Shares, Underlying Shares and Debentures”, the following
+Shareholders had notified the Company of their relevant interests in the issued Shares:
+
+
+Long Positions in the Shares
+
+                                                                                            Percentage
+                                                             Capacity/       Number of     of the issued
+Name of Shareholders                notes             Nature of interest    Shares held          Shares
+
+
+Major Focus Management               (a)               Beneficial owner    3,331,551,560         62.55%
+  Limited (“Major Focus”)
+
+
+Yue Yuen                           (a), (b)    Interest of a controlled    3,331,551,560         62.55%
+                                               corporation/Beneficial
+                                                                 owner
+
+
+Wealthplus Holdings Limited          (b)       Interest of a controlled    3,331,551,560         62.55%
+  (“Wealthplus”)                                            corporation
+
+
+Pou Chen Corporation                 (b)       Interest of a controlled    3,331,551,560         62.55%
+  (“PCC”)                                                   corporation
+
+
+
+
+46       POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+OTHER INFORMATION
+SUBSTANTIAL SHAREHOLDERS’ INTERESTS AND SHORT POSITIONS IN
+SHARES AND UNDERLYING SHARES (continued)
+Long Positions in the Shares (continued)
+notes:
+
+
+The total number of issued Shares as at June 30, 2023 was 5,326,179,615.
+
+
+(a)      3,331,551,560 Shares are held by Major Focus, a wholly-owned subsidiary of Yue Yuen.
+
+
+(b)      The entire issued shares of Major Focus is held by Yue Yuen, in which Wealthplus and Win
+         Fortune Investments Limited (“Win Fortune”) respectively hold 47.95% and 3.16% voting
+         shares. Wealthplus and Win Fortune are in turn wholly-owned by PCC. Accordingly, Yue
+         Yuen, Wealthplus and PCC are all deemed to be interested in these Shares under the SFO.
+
+
+         Ms. Tsai Patty, Pei Chun, a Director, is also a director of Yue Yuen, Wealthplus and PCC.
+         Mr. Chen, Huan-Chung, a Director, is also an independent director of PCC.
+
+
+      Save as disclosed above, as at June 30, 2023, the Directors were not aware of any
+other person (other than the Directors or Chief Executive) who had or was deemed to
+have an interest or short position in the Shares or underlying Shares which were required
+to be disclosed to the Company and the Stock Exchange under the provisions of Divisions
+2 and 3 of Part XV of the SFO or which were required, pursuant to Section 336 of the SFO,
+to be entered into the register referred to therein.
+
+
+PURCHASE, SALE OR REDEMPTION OF LISTED SECURITIES
+      Neither the Company nor any of its subsidiaries purchased, sold or redeemed any of
+the Company’s listed securities during the six months ended June 30, 2023 (six months
+ended June 30, 2022: nil).
+
+
+
+
+                                                                           2023 Interim Report   47
+OTHER INFORMATION
+UPDATE ON DIRECTORS’ AND CHIEF EXECUTIVE’S INFORMATION
+     Pursuant to Rule 13.51B(1) of the Listing Rules, the changes in information of the
+Directors and Chief Executive since the date of publication of the Company’s 2022
+annual report are set out below:
+
+
+     (a)     On May 2, 2023, Ms. Tsai Patty, Pei Chun entered into a supplemental letter
+             of appointment with the Company for renewal of her term of appointment
+             as a non-executive Director for a further term of three years commencing on
+             June 6, 2023 and ending on June 5, 2026, subject to retirement by rotation
+             and re-election at annual general meetings pursuant to the bye-laws of the
+             Company (the “Bye-laws”).
+
+
+     (b)     On May 2, 2023, Mr. Chen, Huan-Chung entered into a supplemental letter
+             of appointment with the Company for renewal of his term of appointment
+             as an independent non-executive Director for a further term of three years
+             commencing on June 6, 2023 and ending on June 5, 2026, subject to retirement
+             by rotation and re-election at annual general meetings pursuant to the Bye-laws.
+
+
+     (c)     With effect from June 1, 2023, Mr. Liao, Yuang-Whang has additionally served
+             as the chief strategy officer & chief investment officer of strategy & investment
+             department of PCC. PCC, a company listed on Taiwan Stock Exchange
+             Corporation, is a controlling shareholder of Yue Yuen, a controlling Shareholder,
+             and through its interests in Yue Yuen, is deemed to be interested in the Shares
+             which would fall to be disclosed under the provisions of Divisions 2 and 3 of Part
+             XV of the SFO.
+
+
+CORPORATE GOVERNANCE
+     The Company has applied the principles of, and has complied with all applicable
+code provisions and, where applicable, the recommended best practices of the
+Corporate Governance Code as set out in Appendix 14 to the Listing Rules throughout
+the six months ended June 30, 2023.
+
+
+
+
+48         POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+OTHER INFORMATION
+MODEL CODE FOR SECURITIES TRANSACTIONS BY DIRECTORS AND
+EMPLOYEES
+  The Company has adopted the Model Code as set out in Appendix 10 to the Listing
+Rules as the Company’s code of conduct for dealings in securities of the Company by
+Directors. Having made specific enquiry by the Company to all Directors, each of them
+has confirmed that he/she has complied with the required standard set out in the Model
+Code throughout the six months ended June 30, 2023.
+
+
+  The Company has also established and adopted internal guidelines for securities
+transactions by relevant employees (the “Employees Guidelines”). The Employees
+Guidelines are updated from time to time according to the Model Code. Specified
+employees who are likely to be in possession of unpublished inside information relating to
+the Company and its securities must comply with the Employees Guidelines.
+
+
+REVIEW OF ACCOUNTS
+  The audit committee of the Board has reviewed, with management and the
+independent auditor of the Company, the Group’s unaudited condensed consolidated
+financial information for the six months ended June 30, 2023, the interim report, the
+accounting principles and practices adopted by the Group and has discussed risk
+management, internal controls, and financial reporting matters.
+
+
+  Deloitte Touche Tohmatsu, certified public accountants and the independent auditor
+of the Company, has reviewed the unaudited condensed consolidated financial
+information of the Group for the six months ended June 30, 2023 in accordance
+with Hong Kong Standard on Review Engagements 2410 “Review of Interim Financial
+Information Performed by the Independent Auditor of the Entity” issued by the HKICPA.
+
+
+ACKNOWLEDGEMENT
+  I would like to take this opportunity to express our sincere appreciation of the support
+from our customers, suppliers and Shareholders. I would also like to thank my fellow
+Directors for their valuable contribution and the staff members of the Group for their
+commitment and dedicated services throughout the period.
+
+
+
+
+                                                                    2023 Interim Report   49
+OTHER INFORMATION
+DIRECTORS
+     As at the date of this report, the Board comprises:
+
+
+Executive Directors
+     Mr. Yu Huan-Chang (Chairman), Mr. Liao, Yuang-Whang and Mr. Hu, Chia-Ho
+
+
+Non-executive Directors
+     Ms. Tsai Patty, Pei Chun and Mr. Li I-nan
+
+
+Independent Non-executive Directors
+     Mr. Chen, Huan-Chung, Mr. Feng Lei Ming and Mr. Liu, Hsi-Liang
+
+
+
+
+                                                               By Order of the Board
+                                                                 Yu Huan-Chang
+                                                                      Chairman
+
+
+Hong Kong, August 11, 2023
+
+
+Website: www.pousheng.com
+
+
+
+
+50      POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+

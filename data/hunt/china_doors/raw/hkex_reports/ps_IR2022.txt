@@ -1,0 +1,2031 @@
+                                                     INTERIM REPORT
+                                                     中期報告
+
+
+
+
+POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+      寶 勝 國 際（控 股）有 限 公 司
+  (Incorporated in Bermuda with limited liability)
+          (於 百 慕 達 註 冊 成 立 之 有 限 公 司 )
+           (Stock Code 股份代號:3813)
+CONTENTS
+
+
+2    Corporate Information
+
+
+3    The Group’s Financial Highlights
+
+     Interim Results
+
+
+4       Report on Review of Condensed Consolidated
+        Financial Statements
+
+
+6       Condensed Consolidated Income Statement
+
+
+7       Condensed Consolidated Statement of
+        Comprehensive Income
+
+
+8       Condensed Consolidated Statement of
+        Financial Position
+
+
+10      Condensed Consolidated Statement of
+        Changes in Equity
+
+
+12      Condensed Consolidated Statement of
+        Cash Flows
+
+
+14      Notes to the Condensed Consolidated
+        Financial Statements
+
+
+25   Management Discussion and Analysis
+
+
+35   Other Information
+    CORPORATE INFORMATION
+    DIRECTORS                                           PRINCIPAL PLACE OF BUSINESS
+    Executive Directors                                 22nd Floor, C-Bons International Center
+    Lee, Shao-Wu (Chairman) (appointed as               108 Wai Yip Street, Kwun Tong
+       Chairman and resigned as Chief Executive         Kowloon, Hong Kong
+       Officer on July 1, 2022)
+    Liao, Yuang-Whang (resigned as Chief Financial      INDEPENDENT AUDITOR
+       Officer on June 1, 2022)                         Deloitte Touche Tohmatsu
+    Hu, Chia-Ho (appointed on July 1, 2022)             Registered Public Interest Entity Auditors
+    Wu, Pan-Tsu (retired as Chairman on July 1, 2022)
+                                                        PRINCIPAL SHARE REGISTRAR AND
+    Non-executive Directors
+    Tsai Patty, Pei Chun                                TRANSFER OFFICE
+    Li I-nan                                            MUFG Fund Services (Bermuda) Limited
+                                                        4th floor North
+    Independent Non-executive Directors                 Cedar House
+    Chen, Huan-Chung                                    41 Cedar Avenue
+    Feng Lei Ming                                       Hamilton HM 12
+    Liu, Hsi-Liang (appointed on March 25, 2022)        Bermuda
+    Hsieh, Wuei-Jung (resigned on March 25, 2022)
+                                                        HONG KONG BRANCH SHARE
+    AUDIT COMMITTEE                                     REGISTRAR AND TRANSFER OFFICE
+    Chen, Huan-Chung (Chairman)                         Computershare Hong Kong Investor Services
+    Tsai Patty, Pei Chun                                  Limited
+    Feng Lei Ming                                       Shops 1712-1716, 17th Floor Hopewell Centre
+                                                        183 Queen’s Road East Wanchai
+    REMUNERATION COMMITTEE                              Hong Kong
+    Liu, Hsi-Liang (Chairman)
+    Chen, Huan-Chung                                    SOLICITOR
+    Li I-nan                                            Reed Smith Richards Butler LLP
+
+    NOMINATION COMMITTEE                                PRINCIPAL BANKERS
+    Feng Lei Ming (Chairman)                            Australia and New Zealand Bank (China)
+    Chen, Huan-Chung                                       Company Limited
+    Hu, Chia-Ho                                         Australia and New Zealand Banking Group
+                                                           Limited
+    DISCLOSURE COMMITTEE                                Bank SinoPac Company Limited
+    Lee, Shao-Wu (Chairman)                             Citibank (China) Co., Limited
+    Liao, Yuang-Whang                                   Industrial and Commercial Bank of China Limited
+    Hu, Chia-Ho                                         Jih Sun International Bank
+                                                        Mizuho Bank (China), Limited
+                                                        Mizuho Bank, Limited
+    AUTHORISED REPRESENTATIVES                          Standard Chartered Bank (China) Limited
+    Lee, Shao-Wu                                        Standard Chartered Bank (Hong Kong) Limited
+    Yip Wing Ming                                       Taishin International Bank Company Limited
+                                                        United Overseas Bank Limited
+    COMPANY SECRETARY
+    Yip Wing Ming                                       WEBSITE
+                                                        www.pousheng.com
+    REGISTERED OFFICE
+    Clarendon House                                     STOCK CODE
+    2 Church Street                                     3813
+    Hamilton HM 11
+    Bermuda
+
+2
+                                                         2022 INTERIM REPORT
+
+THE GROUP’S FINANCIAL HIGHLIGHTS
+                                                For the six months ended June 30,
+                                                         2022               2021
+ Financial performance                                RMB’000            RMB’000    Change
+                                                   (unaudited)        (unaudited)
+
+
+ Revenue                                             9,864,815         13,073,865     -24.5%
+ Gross profit                                        3,495,946          4,722,074     -26.0%
+ Operating profit                                      208,329            933,383     -77.7%
+ Profit attributable to owners of the Company           17,413            635,852     -97.3%
+ Gross profit margin (%)                                 35.4%              36.1%   -0.7 ppt
+ Operating profit margin (%)                              2.1%               7.1%   -5.0 ppt
+ Basic earnings per share (RMB cents)                     0.34              12.24     -97.2%
+
+
+                                                              As at
+                                                      June 30,    December 31,
+                                                         2022            2021
+ Financial position                                   RMB’000         RMB’000       Change
+                                                   (unaudited)       (audited)
+
+
+ Inventories                                         6,649,444          7,578,037    -12.3%
+ Trade and other receivables                         3,108,387          2,807,379     10.7%
+ Bank balances and cash                              1,236,716          1,233,783      0.2%
+ Bank borrowings                                     2,099,883          1,581,640     32.8%
+
+
+
+
+                                                                                               3
+    INTERIM RESULTS
+    REPORT ON REVIEW OF CONDENSED CONSOLIDATED FINANCIAL
+    STATEMENTS
+
+
+
+
+    TO THE BOARD OF DIRECTORS OF
+    POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+    寶勝國際(控股)有限公司
+    (incorporated in Bermuda with limited liability)
+
+
+    Introduction
+    We have reviewed the condensed consolidated financial statements of Pou Sheng
+    International (Holdings) Limited (the “Company”) and its subsidiaries (collectively
+    referred to as the “Group”) set out on pages 6 to 24, which comprises the condensed
+    consolidated statement of financial position as of June 30, 2022 and the related
+    condensed consolidated income statement, statement of comprehensive income,
+    statement of changes in equity and statement of cash flows for the six-month period then
+    ended, and certain explanatory notes. The Rules Governing the Listing of Securities on
+    The Stock Exchange of Hong Kong Limited require the preparation of a report on interim
+    financial information to be in compliance with the relevant provisions thereof and Hong
+    Kong Accounting Standard 34 “Interim Financial Reporting” (“HKAS 34”) issued by the
+    Hong Kong Institute of Certified Public Accountants (the “HKICPA”). The directors of the
+    Company are responsible for the preparation and presentation of these condensed
+    consolidated financial statements in accordance with HKAS 34. Our responsibility is to
+    express a conclusion on these condensed consolidated financial statements based on
+    our review, and to report our conclusion solely to you, as a body, in accordance with our
+    agreed terms of engagement, and for no other purpose. We do not assume responsibility
+    towards or accept liability to any other person for the contents of this report.
+
+
+
+
+4
+                                                     2022 INTERIM REPORT
+
+INTERIM RESULTS
+REPORT ON REVIEW OF CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS (continued)
+Scope of Review
+We conducted our review in accordance with Hong Kong Standard on Review
+Engagements 2410 “Review of Interim Financial Information Performed by the
+Independent Auditor of the Entity” issued by the HKICPA. A review of these condensed
+consolidated financial statements consists of making inquiries, primarily of persons
+responsible for financial and accounting matters, and applying analytical and other
+review procedures. A review is substantially less in scope than an audit conducted in
+accordance with Hong Kong Standards on Auditing and consequently does not enable
+us to obtain assurance that we would become aware of all significant matters that might
+be identified in an audit. Accordingly, we do not express an audit opinion.
+
+
+Conclusion
+Based on our review, nothing has come to our attention that causes us to believe that
+the condensed consolidated financial statements are not prepared, in all material
+respects, in accordance with HKAS 34.
+
+
+
+
+Deloitte Touche Tohmatsu
+Certified Public Accountants
+Hong Kong
+August 11, 2022
+
+
+
+
+                                                                                          5
+    INTERIM RESULTS
+    The board (the “Board”) of directors (the “Directors”) of Pou Sheng International
+    (Holdings) Limited (the “Company”) announces the unaudited interim results of the
+    Company and its subsidiaries (collectively referred to as the “Group”) for the six months
+    ended June 30, 2022 with the corresponding comparative figures as follows:
+
+
+    CONDENSED CONSOLIDATED INCOME STATEMENT
+    FOR THE SIX MONTHS ENDED JUNE 30, 2022
+
+                                                           For the six months ended June 30,
+                                                                    2022               2021
+                                                   NOTES         RMB’000            RMB’000
+                                                              (unaudited)        (unaudited)
+      Revenue                                        3           9,864,815        13,073,865
+      Cost of sales                                             (6,368,869)       (8,351,791)
+      Gross profit                                               3,495,946         4,722,074
+      Other operating income and gains (losses)                    164,243           222,758
+      Selling and distribution expenses                         (3,075,931)       (3,606,935)
+      Administrative expenses                                     (375,929)         (404,514)
+      Operating profit                                             208,329           933,383
+
+      Finance costs                                  5             (91,451)         (109,509)
+      Finance income                                                10,583            14,557
+
+                                                                   (80,868)          (94,952)
+      Share of results of joint ventures                                 –            24,649
+      Other losses                                                  (6,274)          (10,172)
+      Profit before taxation                                       121,187           852,908
+      Income tax expense                             4             (97,000)         (202,640)
+      Profit for the period                          5              24,187           650,268
+      Attributable to:
+        Owners of the Company                                       17,413           635,852
+        Non-controlling interests                                    6,774            14,416
+                                                                    24,187           650,268
+      Earnings per share                             7
+        – Basic                                              RMB0.34 cent     RMB12.24 cents
+        – Diluted                                            RMB0.34 cent     RMB12.20 cents
+
+
+
+
+6
+                                                            2022 INTERIM REPORT
+
+INTERIM RESULTS
+CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+FOR THE SIX MONTHS ENDED JUNE 30, 2022
+
+
+                                                             For the six months ended June 30,
+
+                                                                       2022              2021
+                                                                    RMB’000          RMB’000
+                                                                (unaudited)       (unaudited)
+
+  Profit for the period                                               24,187          650,268
+
+
+  Other comprehensive expense
+  An item that will not be reclassified to profit or loss
+  Fair value loss on investments in equity instrument at
+    fair value through other comprehensive income                     (1,155)             (88)
+
+
+  An item that may be reclassified subsequently
+    to profit or loss
+  Exchange differences arising on translation
+    of foreign operations                                               (727)            (453)
+  Other comprehensive expense for the period                          (1,882)            (541)
+  Total comprehensive income for the period                           22,305          649,727
+
+
+  Attributable to:
+    Owners of the Company                                             15,531          635,311
+    Non-controlling interests                                          6,774           14,416
+                                                                      22,305          649,727
+
+
+
+
+                                                                                                 7
+    INTERIM RESULTS
+    CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+    AT JUNE 30, 2022
+
+
+                                                                    At              At
+                                                              June 30,   December 31,
+                                                                 2022            2021
+                                                   NOTES      RMB’000         RMB’000
+                                                           (unaudited)      (audited)
+
+      Non-current assets
+      Investment properties                                     88,900         88,900
+      Property, plant and equipment                  8         959,723       1,122,074
+      Right-of-use assets                            8       2,537,121       2,890,219
+      Deposits paid for acquisition of property,
+        plant and equipment                                     31,639         44,792
+      Rental deposits                                          153,569        168,453
+      Intangible assets                                         66,034         70,253
+      Goodwill                                                 522,163        522,163
+      Interests in joint ventures                                    –               –
+      Equity instrument at fair value through
+        other comprehensive income                               1,800           3,019
+      Deferred tax assets                                       84,948         56,145
+                                                             4,445,897       4,966,018
+      Current assets
+      Inventories                                            6,649,444       7,578,037
+      Trade and other receivables                    9       3,108,387       2,807,379
+      Taxation recoverable                                      15,717         73,763
+      Bank balances and cash                                 1,236,716       1,233,783
+                                                            11,010,264      11,692,962
+      Assets classified as held for sale                        27,918               –
+                                                            11,038,182      11,692,962
+
+
+
+
+8
+                                                        2022 INTERIM REPORT
+
+INTERIM RESULTS
+CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+(continued)
+AT JUNE 30, 2022
+
+
+                                                                    At              At
+                                                              June 30,   December 31,
+                                                                 2022            2021
+                                                  NOTES       RMB’000         RMB’000
+                                                           (unaudited)      (audited)
+
+  Current liabilities
+  Trade and other payables                         10        2,175,723       3,542,079
+  Contract liabilities                                         516,034        445,644
+  Taxation payable                                              20,528         40,332
+  Bank borrowings                                            2,099,883       1,581,640
+  Lease liabilities                                            875,562        978,018
+                                                             5,687,730       6,587,713
+  Liabilities associated with assets classified
+    as held for sale                                            12,918               –
+                                                             5,700,648       6,587,713
+  Net current assets                                         5,337,534       5,105,249
+  Total assets less current liabilities                      9,783,431      10,071,267
+  Non-current liabilities
+  Deferred tax liabilities                                      25,388         26,207
+  Lease liabilities                                          1,601,737       1,842,864
+                                                             1,627,125       1,869,071
+  Net assets                                                 8,156,306       8,202,196
+
+  Capital and reserves
+  Share capital                                    11           46,438         46,438
+  Reserves                                                   7,996,362       8,049,026
+  Equity attributable to owners of the Company               8,042,800       8,095,464
+  Non-controlling interests                                    113,506        106,732
+  Total equity                                               8,156,306       8,202,196
+
+
+
+
+                                                                                         9
+ INTERIM RESULTS
+ CONDENSED CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+ FOR THE SIX MONTHS ENDED JUNE 30, 2022
+
+                                                                                                              Equity attributable to owners of the Company
+                                                                                                                                   Shares held
+                                                                                                               Property Reserve on under share              Share Share-based          Non-                                              Non-
+                                        Share       Share      Special        Other Revaluation      Merger revaluation instrument      award              award compensation distributable Translation Accumulated                controlling        Total
+                                       capital   premium       reserve      reserve     reserve      reserve    reserve at FVTOCI     scheme              reserve      reserve      reserve     reserve       profits        Total   interests       equity
+                                      RMB’000    RMB’000      RMB’000      RMB’000     RMB’000      RMB’000    RMB’000    RMB’000     RMB’000            RMB’000      RMB’000      RMB’000     RMB’000      RMB’000        RMB’000   RMB’000       RMB’000
+                                                             (note (i))   (note (ii))             (note (iii))                                                                   (note (iv))
+
+
+     At January 1, 2021 (audited)       46,688   5,175,342    676,506     (1,486,701)    55,395      29,544         6,381          827      (233,775)        13,333        893      730,933     (11,643)     2,766,478    7,770,201    105,829    7,876,030
+
+
+     Fair value loss on investments
+       in equity instrument at
+       fair value through other
+       comprehensive income                  –           –           –             –          –           –             –          (88)            –              –          –            –           –              –          (88)         –          (88)
+     Exchange differences
+       arising on translation of
+       foreign operations                    –           –           –             –          –           –             –            –             –              –          –            –        (453)            –          (453)         –         (453)
+     Profit for the period                   –           –           –             –          –           –             –            –             –              –          –            –           –       635,852       635,852     14,416      650,268
+
+
+     Total comprehensive
+       income for the period                 –           –           –             –          –           –             –          (88)            –              –          –            –        (453)      635,852       635,311     14,416      649,727
+     Recognition of equity-settled
+       share-based payments,
+       net of amount lapsed
+       relating to share awards
+       not yet vested                        –           –           –             –          –           –             –            –             –          2,601          –            –           –              –        2,601          –        2,601
+     Share award vested                      –           –           –             –          –           –             –            –        12,331         (7,559)         –            –           –         (4,772)           –          –            –
+     Dividend declared to
+       non-controlling interests
+       of subsidiaries                       –           –           –             –          –           –             –            –             –              –          –            –           –              –            –    (28,000)     (28,000)
+     Deemed disposal of partial
+       interest in a subsidiary              –           –           –        (6,235)         –           –             –            –             –              –          –            –           –              –       (6,235)     6,235            –
+     Capital contribution by
+       a non-controlling interest
+       of a subsidiary                       –           –           –             –          –           –             –            –             –              –          –            –           –             –             –      3,500        3,500
+     Transfer                                –           –           –             –          –           –             –            –             –              –          –       34,107           –       (34,107)            –          –            –
+
+
+     At June 30, 2021 (unaudited)       46,688   5,175,342    676,506     (1,492,936)    55,395      29,544         6,381          739      (221,444)         8,375        893      765,040     (12,096)     3,363,451    8,401,878    101,980    8,503,858
+
+
+     At January 1, 2022 (audited)      46,438    5,145,233    676,506 (1,492,936)        55,395     29,544         6,381           721     (217,103)         8,246           –     817,869      (11,782)    3,030,952     8,095,464    106,732    8,202,196
+
+
+     Fair value loss on investments
+       in equity instrument at
+       fair value through other
+       comprehensive income                  –           –           –             –          –           –             –       (1,155)            –              –          –            –           –              –       (1,155)         –       (1,155)
+     Exchange differences arising
+       on translation of foreign
+       operations                            –           –           –             –          –           –             –            –             –              –          –            –        (727)            –         (727)          –        (727)
+     Profit for the period                   –           –           –             –          –           –             –            –             –              –          –            –           –        17,413       17,413       6,774      24,187
+
+
+     Total comprehensive income
+       for the period                        –           –           –             –          –           –             –       (1,155)            –              –          –            –        (727)       17,413       15,531       6,774      22,305
+     Recognition of equity-settled
+       share-based payments,
+       net of amount lapsed
+       relating to share awards
+       not yet vested                        –           –           –             –          –           –             –            –             –          2,610          –            –           –             –        2,610           –       2,610
+     Share award vested                      –           –           –             –          –           –             –            –         7,580         (5,196)         –            –           –        (2,384)           –           –           –
+     Dividends recognised as
+       distribution (Note 6)                 –           –           –             –          –           –             –            –             –              –          –           –            –       (70,805)     (70,805)          –     (70,805)
+     Transfer                                –           –           –             –          –           –             –            –             –              –          –      77,816            –       (77,816)           –           –           –
+
+
+     At June 30, 2022 (unaudited)      46,438    5,145,233    676,506 (1,492,936)        55,395     29,544         6,381          (434)    (209,523)         5,660           –     895,685      (12,509)    2,897,360     8,042,800    113,506    8,156,306
+
+
+
+
+10
+                                                               2022 INTERIM REPORT
+
+INTERIM RESULTS
+CONDENSED CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+(continued)
+FOR THE SIX MONTHS ENDED JUNE 30, 2022
+
+
+notes:
+
+
+(i)      The special reserve represents the difference between the nominal value of the share
+         capital issued by the Company and the share premium and the nominal value of the share
+         capital of the subsidiaries comprising the Group prior to the group reorganisation in 2008.
+
+
+(ii)     The other reserve represents the difference between the fair value of the consideration paid
+         or received and the relevant share of carrying value of the subsidiaries’ net assets/liabilities
+         acquired from or disposed of to the non-controlling interests, after reattribution of relevant
+         reserve.
+
+
+(iii)    The merger reserve represents the difference in the fair value of the consideration paid to
+         the Company’s intermediate holding company, Yue Yuen Industrial (Holdings) Limited (“Yue
+         Yuen”) for the acquisition of subsidiaries controlled by Yue Yuen and the share capital and
+         premium of the acquired subsidiaries.
+
+
+(iv)     According to the relevant laws in the People’s Republic of China (the “PRC”), the
+         subsidiaries of the Company established in the PRC are required to transfer at least 10%
+         of their net profit after taxation, as determined under the PRC accounting regulations, to
+         a non-distributable reserve fund until the reserve balance reaches 50% of their registered
+         capital. The transfer to this reserve must be made before the distribution of a dividend to
+         equity owners. The non-distributable reserve fund can be used to offset the previous years’
+         losses, if any.
+
+
+
+
+                                                                                                        11
+ INTERIM RESULTS
+ CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS
+ FOR THE SIX MONTHS ENDED JUNE 30, 2022
+
+
+                                                             For the six months ended June 30,
+
+                                                                       2022              2021
+                                                                    RMB’000          RMB’000
+                                                                (unaudited)       (unaudited)
+
+     Net cash from operating activities                             324,083           989,350
+     Net cash used in investing activities
+     Payment for acquisition of property, plant and
+       equipment/deposits paid for acquisition of
+       property, plant and equipment                                (143,806)        (223,532)
+     Advance to a non-controlling interest of a subsidiary           (34,000)         (68,000)
+     Payments for right-of-use assets                                 (2,017)          (7,865)
+     Repayment of advance to a non-controlling
+       interest of a subsidiary                                       34,000           68,000
+     Receipt for rental deposits                                      16,755           10,854
+     Interest received                                                10,583           14,557
+     Proceeds from disposal of property, plant and
+       equipment                                                       8,410            5,836
+     Proceeds received from disposal of non-current
+       assets classified as held for sale                                  –            4,657
+                                                                    (110,075)        (195,493)
+     Net cash used in financing activities
+     Repayment of bank and other borrowings                       (1,410,311)      (1,301,634)
+     Repayments of lease liabilities, including
+       related interests                                            (615,010)        (679,475)
+     Dividends paid                                                  (70,805)               –
+     Interest paid on bank and other borrowings                      (36,673)         (37,270)
+     New bank and other borrowings raised                          1,930,672        1,268,850
+     Capital contribution by a non-controlling interest                    –            3,500
+                                                                    (202,127)        (746,029)
+
+
+
+
+12
+                                                    2022 INTERIM REPORT
+
+INTERIM RESULTS
+CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS (continued)
+FOR THE SIX MONTHS ENDED JUNE 30, 2022
+
+
+                                                     For the six months ended June 30,
+
+                                                               2022              2021
+                                                            RMB’000          RMB’000
+                                                        (unaudited)       (unaudited)
+
+  Net increase in cash and cash equivalents                   11,881           47,828
+
+
+  Cash and cash equivalents at beginning of
+   the period                                              1,233,783        1,742,290
+
+
+  Effect of foreign exchange rate changes                     (1,690)            (238)
+                                                           1,243,974        1,789,880
+
+  Cash and cash equivalents at end of the period,
+   represented by
+   Bank balances and cash                                  1,236,716        1,789,880
+   Cash and cash equivalents included in assets
+     classified as held for sale                               7,258                –
+                                                           1,243,974        1,789,880
+
+
+
+
+                                                                                         13
+ INTERIM RESULTS
+ NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+ 1.   BASIS OF PREPARATION
+      The condensed consolidated financial statements have been prepared in accordance with
+      the applicable disclosure requirements of Appendix 16 to the Rules Governing the Listing of
+      Securities on The Stock Exchange of Hong Kong Limited and with Hong Kong Accounting
+      Standard (“HKAS”) 34 “Interim Financial Reporting” issued by the Hong Kong Institute of
+      Certified Public Accountants (“HKICPA”).
+
+
+ 2.   PRINCIPAL ACCOUNTING POLICIES
+      The condensed consolidated financial statements have been prepared on the historical
+      cost basis except for certain properties and financial instruments, which are measured at
+      revalued amount or fair values, as appropriate.
+
+
+      Other than the change in accounting policy resulting from agenda decision of the
+      International Financial Reporting Standards Interpretations Committee (the “Committee”) of
+      the International Accounting Standards Board (the “IASB”), the accounting policies applied
+      and methods of computation used in the condensed consolidated financial statements for
+      the six months ended June 30, 2022 are the same as those presented in the Group’s annual
+      financial statements for the year ended December 31, 2021.
+
+
+      2.1   Application of amendments to Hong Kong Financial Reporting Standards (“HKFRSs”)
+            In the current interim period, the Group has applied the following amendments to
+            HKFRSs issued by the HKICPA for the first time, which are mandatorily effective for
+            the Group’s annual period beginning on January 1, 2022 for the preparation of the
+            Group’s condensed consolidated financial statements:
+
+
+            Amendments to HKFRS 3                Reference to the Conceptual Framework
+            Amendment to HKFRS 16                Covid-19-Related Rent Concessions beyond
+                                                  June 30, 2021
+            Amendment to HKAS 16                 Property, Plant and Equipment – Proceeds before
+                                                  Intended Use
+            Amendments to HKAS 37                Onerous Contracts - Cost of Fulfilling a Contract
+            Amendments to HKFRSs                 Annual Improvements to HKFRSs 2018 – 2020
+
+
+
+
+14
+                                                        2022 INTERIM REPORT
+
+INTERIM RESULTS
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+2.   PRINCIPAL ACCOUNTING POLICIES (continued)
+     2.1   Application of amendments to Hong Kong Financial Reporting Standards (“HKFRSs”)
+           (continued)
+           In addition, the Group applied the agenda decision of the Committee of the IASB
+           issued in June 2021 which clarified the costs an entity should include as “estimated
+           costs necessary to make the sale” when determining the net realisable value of
+           inventories.
+
+
+           Except as described below, the application of amendments to HKFRSs and the
+           Committee’s agenda decision in the current period has had no material impact on
+           the Group’s financial positions and performance for the current and prior periods
+           and/or on the disclosures set out in these condensed consolidated financial
+           statements.
+
+
+     2.2   Impacts on application of the agenda decision of the Committee – Costs
+           necessary to sell inventories
+           2.2.1 Accounting policy
+                 The application of the Committee’s agenda decision results in change in
+                 accounting policy for inventories:
+
+
+                 Inventories
+                 Net realisable value represents the estimated selling price for inventories less
+                 all estimated costs of completion and costs necessary to make the sale. Costs
+                 necessary to make the sale include incremental costs directly attributable to
+                 the sale and non-incremental costs which the Group must incur to make the
+                 sale.
+
+
+           2.2.2 Transition and summary of effects
+                 The application of the Committee’s agenda decision has had no material
+                 impact on the Group’s condensed consolidated financial statements and
+                 performance.
+
+
+
+
+                                                                                                15
+ INTERIM RESULTS
+ NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+ (continued)
+ 3.   REVENUE AND SEGMENTAL INFORMATION
+      The Group is principally engaged in the distribution and retailing of sportswear and footwear
+      products and provision of large scale commercial spaces to retailers and distributors for
+      commissions from concessionaire sales. The Group’s results and revenue are reported as
+      a whole on a regular basis to the chief operating decision maker, being the executive
+      directors of the Company, for the purposes of performance assessment and resource
+      allocation. No other discrete financial information is presented.
+
+
+      The following is an analysis of the Group’s revenue recognised at a point in time:
+
+
+                                                               For the six months ended June 30,
+
+                                                                             2022             2021
+                                                                          RMB’000          RMB’000
+                                                                   (unaudited)        (unaudited)
+
+       Sales of sportswear and footwear products                      9,807,723        13,008,017
+       Commissions from concessionaire sales                               57,092           65,848
+
+                                                                      9,864,815        13,073,865
+
+
+ 4.   INCOME TAX EXPENSE
+                                                               For the six months ended June 30,
+
+                                                                             2022             2021
+                                                                          RMB’000          RMB’000
+                                                                   (unaudited)        (unaudited)
+
+       PRC Enterprise Income Tax
+         – Current period                                                 103,746          221,755
+         – Under(over)provision in prior periods                            9,297           (4,252)
+       Withholding tax on dividend                                         13,635                –
+
+       Current tax charge – total                                         126,678          217,503
+       Deferred tax credit                                                (29,678)         (14,863)
+
+                                                                           97,000          202,640
+
+
+
+
+16
+                                                            2022 INTERIM REPORT
+
+INTERIM RESULTS
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+5.   FINANCE COSTS/PROFIT FOR THE PERIOD
+                                                             For the six months ended June 30,
+                                                                      2022              2021
+                                                                   RMB’000           RMB’000
+                                                                (unaudited)       (unaudited)
+
+      (a) Finance costs
+
+          Interest expenses on bank and other
+            borrowings                                                33,794            38,027
+          Interest expenses on lease liabilities                      57,657            71,482
+                                                                      91,451           109,509
+
+      (b) Profit for the period
+
+          Profit for the period has been arrived at after
+            charging (crediting):
+
+          Total staff costs (included in selling and
+            distribution expenses and administrative
+            expenses)                                              1,258,961         1,412,691
+          Depreciation of right-of-use assets                        568,551           624,544
+          Depreciation of property, plant and
+            equipment                                               254,500            270,914
+          Net changes in allowance for inventories
+            (included in cost of sales)                               84,006           (12,861)
+          Amortisation of intangible assets (included
+            in selling and distribution expenses)                      4,219            50,520
+          Gross rental income from investment
+            properties, net of direct expenses                        (2,012)           (2,296)
+          Loss on disposal of property, plant and
+            equipment (included in other operating
+            income and gains (losses))                                 5,600            19,191
+          Impairment losses(reversal) recognised
+            on trade and other receivables, net
+            (included in other operating income
+            and gains (losses))                                        3,455            (3,953)
+          Impairment losses recognised on property,
+            plant and equipment (included in other
+            losses) (note)                                             2,471                 –
+          Impairment losses recognised on right-of-use
+            assets (included in other losses) (note)                   3,803                 –
+          Impairment loss of an intangible asset
+            (included in other losses)                                     –            10,172
+
+
+                                                                                                 17
+ INTERIM RESULTS
+ NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+ (continued)
+ 5.   FINANCE COSTS/PROFIT FOR THE PERIOD (continued)
+      (b)     Profit for the period (continued)
+              For the six months ended June 30, 2022 and 2021, cost of inventories recognised as
+              an expense represents cost of sales as shown in the condensed consolidated income
+              statement.
+
+
+              note: The amounts represent impairment losses allocated to the respective assets
+                     immediately before the initial classification of certain assets classified as held
+                     for sale of certain subsidiaries as fair value less cost of disposal are less than
+                     the carrying amount of the relevant assets minus associated liabilities.
+
+
+ 6.   DIVIDENDS
+                                                                 For the six months ended June 30,
+
+                                                                             2022                  2021
+                                                                         RMB’000                RMB’000
+                                                                     (unaudited)         (unaudited)
+
+        Dividends recognised as distribution during
+            the period:
+
+
+        2021 final dividend of HK$0.016 per share
+            (six months ended June 30, 2021: nil)                          70,805                     –
+
+
+      Subsequent to the end of the current interim period, the Directors have determined that no
+      interim dividend will be paid in respect of the interim period (six months ended June 30,
+      2021: nil).
+
+
+
+
+18
+                                                        2022 INTERIM REPORT
+
+INTERIM RESULTS
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+7.   EARNINGS PER SHARE
+     The calculation of the basic and diluted earnings per share attributable to owners of the
+     Company is based on the following data:
+
+
+                                                           For the six months ended June 30,
+
+                                                                      2022              2021
+                                                                   RMB’000          RMB’000
+                                                               (unaudited)       (unaudited)
+
+      Earnings:
+
+
+      Earnings for the period attributable to owners
+        of the Company for the purposes of basic and
+        diluted earnings per share                                   17,413          635,852
+
+
+                                                           For the six months ended June 30,
+
+                                                                      2022              2021
+                                                               (unaudited)       (unaudited)
+
+      Number of shares:
+
+
+      Weighted average number of ordinary shares for
+        the purpose of basic earnings per share              5,172,690,740     5,193,775,897
+
+
+      Effect of dilutive potential ordinary shares:
+        – Unvested awarded shares                                 5,800,905       18,199,130
+
+      Weighted average number of ordinary shares for
+        the purpose of diluted earnings per share            5,178,491,645     5,211,975,027
+
+
+     For the purpose of computation of basic earnings per share, the weighted average number
+     of ordinary shares shown above has been arrived at after deducting the shares held by the
+     trustee of the share award scheme of the Company.
+
+
+     The computation of diluted earnings per share for the six months ended June 30, 2021 did
+     not assume the exercise of share options of the Company because the exercise price of
+     those options was higher than the average market price for shares.
+
+
+
+                                                                                               19
+ INTERIM RESULTS
+ NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+ (continued)
+ 8.   PROPERTY, PLANT AND EQUIPMENT AND RIGHT-OF-USE ASSETS
+      During the current interim period, the Group acquired property, plant and equipment of
+      RMB109,165,000 (six months ended June 30, 2021: RMB162,867,000).
+
+
+      During the current interim period, the Group has disposed of/written off certain property,
+      plant and equipment with an aggregate carrying amount of RMB14,010,000 (six months
+      ended June 30, 2021: RMB25,027,000) for cash proceeds of RMB8,410,000 (six months ended
+      June 30, 2021: RMB5,836,000), resulting in a loss on disposal/written off of RMB5,600,000 (six
+      months ended June 30, 2021: RMB19,191,000).
+
+
+      During the current interim period, the Group entered into several new lease agreements
+      for the use of retail stores with lease terms generally between 1 to 5 years. Some of the
+      leases in which the Group is the lessee contain variable lease payments terms that are
+      linked to sales generated from retail stores. The Group recognised right-of-use assets
+      resulting from new leases and lease modifications amounting to RMB109,130,000 and
+      RMB170,030,000, respectively (six months ended June 30, 2021: RMB466,162,000 and
+      RMB175,676,000, respectively). The Group derecognised the right-of-use assets resulting
+      from lease modifications amounting to RMB59,520,000 (six months ended June 30, 2021:
+      RMB57,951,000).
+
+
+      At the end of the current interim period, capital expenditure in respect of acquisition
+      of property, plant and equipment contracted for but not provided in the condensed
+      consolidated financial statements as was RMB89,127,000 (December 31, 2021:
+      RMB70,541,000), and the Group entered into new leases for several retail stores that have
+      not yet commenced, with an average non-cancellable period ranging from 1 to 5 years
+      (2021: 1 to 5 years), the total future undiscounted cash flows over the non-cancellable
+      period amounted to RMB5,320,000 (December 31, 2021: RMB15,315,000).
+
+
+
+
+20
+                                                          2022 INTERIM REPORT
+
+INTERIM RESULTS
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+9.    TRADE AND OTHER RECEIVABLES
+      The Group generally allows credit periods of 30 days to 60 days which are agreed with each
+      of its trade customers. The aged analysis of the Group’s trade receivables, net of allowance
+      for doubtful debts, presented based on the invoice date at the end of the reporting period,
+      which approximated the respective revenue recognition dates, is as follows:
+
+
+                                                                           At                  At
+                                                                     June 30,       December 31,
+                                                                        2022                2021
+                                                                     RMB’000             RMB’000
+                                                                 (unaudited)           (audited)
+
+        0 – 30 days                                                1,055,810            1,105,075
+        31 – 90 days                                                   54,987             59,225
+        Over 90 days                                                        –                703
+
+                                                                   1,110,797            1,165,003
+
+
+10.   TRADE AND OTHER PAYABLES
+      The aged analysis of the Group’s trade payables, presented based on the invoice date at
+      the end of the reporting period, is as follows:
+
+
+                                                                           At                  At
+                                                                     June 30,       December 31,
+                                                                        2022                2021
+                                                                     RMB’000             RMB’000
+                                                                 (unaudited)           (audited)
+
+        0 – 30 days                                                  749,351            1,654,102
+        31 – 90 days                                                        –                 10
+        Over 90 days                                                    1,305                984
+
+                                                                     750,656            1,655,096
+
+
+
+
+                                                                                                    21
+ INTERIM RESULTS
+ NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+ (continued)
+ 11.   SHARE CAPITAL
+
+
+
+                                                    Number of          Nominal
+                                                        shares            value
+                                                                        HK$’000
+
+        Ordinary shares of HK$0.01 each
+
+
+        Authorised:
+          At January 1, 2021, June 30, 2021,
+           January 1, 2022 and June 30, 2022     30,000,000,000         300,000
+
+        Issued and fully paid:
+          At January 1, 2021 and June 30, 2021    5,356,847,615          53,568
+          Repurchase of own shares                  (30,668,000)           (307)
+
+          At January 1, 2022 and June 30, 2022    5,326,179,615          53,261
+
+
+                                                             At              At
+                                                      June 30,     December 31,
+                                                          2022             2021
+                                                      RMB’000          RMB’000
+                                                   (unaudited)        (audited)
+
+        Shown in the condensed consolidated
+          financial statements                          46,438           46,438
+
+
+
+
+22
+                                                          2022 INTERIM REPORT
+
+INTERIM RESULTS
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+12.   SHARE OPTION SCHEME AND SHARE AWARD SCHEME
+      (a)   Share Option Scheme
+            The Company’s share option scheme was adopted pursuant to a shareholder’s
+            resolution passed on May 14, 2008 and amended on March 7, 2012. Movements in
+            the number of share options outstanding and their related weighted average exercise
+            prices for the six months ended June 30, 2021 were as follows:
+
+
+                                                                    Weighted
+                                                                     average            Number
+                                                                     exercise           of share
+                                                                        price            options
+                                                                         HK$
+             As at January 1, 2021 (audited)                             2.49          1,166,320
+             Exercised                                                   N/A                   –
+             Lapsed                                                      N/A                   –
+             As at June 30, 2021 (unaudited)                                           1,166,320
+             Exercisable at June 30, 2021 (unaudited)                    2.49          1,166,320
+
+            The above share options lapsed during the year ended December 31, 2021 and no
+            share option was outstanding during the six months ended June 30, 2022.
+
+
+      (b)   Share Award Scheme
+            The Company’s share award scheme was adopted pursuant to a board resolution
+            passed on May 9, 2014 and amended on November 11, 2016. Movements in the
+            number of share awards outstanding are as follows:
+
+
+                                                                  Number of share awards
+                                                                        2022               2021
+             As at January 1, (audited)                           15,967,500          19,597,200
+             Granted                                                         –         8,340,000
+             Vested                                               (5,464,000)         (8,888,000)
+             Lapsed                                                 (443,500)         (1,163,600)
+             As at June 30, (unaudited)                           10,060,000          17,885,600
+
+            A total of 151,021,560 ordinary shares of the Company were held by the trustee of the
+            Share Award Scheme as at June 30, 2022 (December 31, 2021: 156,485,560 ordinary
+            shares).
+
+
+                                                                                                   23
+ INTERIM RESULTS
+ NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+ (continued)
+ 13.   RELATED PARTY DISCLOSURES
+       Transactions and balances
+       The Group had the following significant related party transactions and balances:
+
+
+                                                                         For the six months ended June 30,
+
+                                                                                   2022             2021
+        Relationship                    Nature of transactions                  RMB’000          RMB’000
+                                                                            (unaudited)      (unaudited)
+
+        Yue Yuen and its subsidiaries   Purchase of footwear products
+                                          by the Group                             1,903            1,641
+                                        Operating lease payment                     614              621
+                                        Management fees charged to
+                                          the Group                                2,443            1,175
+
+
+        Joint venture of                Sales of sportswear products
+          the Group                       by the Group                                 –        1,142,087
+                                        Logistic service income by
+                                          the Group                                    –          18,940
+                                        Management fees charged to
+                                          the Group                                    –         145,828
+                                        Interest expenses charged to
+                                          the Group                                    –            6,109
+
+
+        Non-controlling interest of     Interest income charged by
+          a subsidiary                    the Group                                 890              927
+
+
+                                                                                      At               At
+                                                                                June 30,   December 31,
+                                                                                   2022             2021
+        Relationship                    Nature of balances                      RMB’000          RMB’000
+                                                                            (unaudited)         (audited)
+
+        Non-controlling interest of     Other receivables of the Group           34,000           34,000
+          a subsidiary                  Other payables of the Group                2,800            2,800
+
+
+
+
+24
+                                                        2022 INTERIM REPORT
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+BUSINESS REVIEW
+Business Environment
+   Despite a spending rebound in January this year, retailers across mainland China faced
+tremendous pressures in the first half of 2022, which resulted from the control measures
+for avoiding mass spread of COVID-19 pandemic (the “Pandemic”), such as lockdowns in
+specific regions, transportation controls across the country. Traffic down in shopping mall
+as a new normal as well as consumer behaviour changes due to the continuing Pandemic
+impact since 2020. Total retail sales of consumer goods in the first half of 2022 in China fell
+0.7% year-on-year, indicating a sluggish consumer demand across the market.
+
+
+   The Group was not spared, despite starting the year off strong, the resurgence of
+Pandemic causing temporary shuttering of some of its retail stores and a significant drop
+of store traffic in shopping venues across cities in which it operates, not just those which
+experienced government-imposed lockdowns. Other challenges such as a shortage of
+product supplies and the hindered last-mile delivery further dampened the situation,
+which led to soft sales performance in the first half of 2022. However, owing to the
+Group’s relentless efforts in digital transformation, the online B2C sales showed relative
+resilient performance, particularly the private domain channels, covering WeChat stores,
+Douyin and shopping mall membership platforms that continue to register robust growth.
+Situation started to improve from late May, supported by a sequential improvement of
+footfall and logistics.
+
+
+   Throughout the challenging headwinds, the Group continued to progress its
+retail refinement strategy to prepare itself for recovery later in the year. This included
+strengthening and diversifying its online public and private traffic domains to enhance its
+channel mix, deliver better conversion rates and more in-season full-price sales, further
+streamlining and refining its brick and mortar (“B&M”) network, as well as deepening
+engagement with customers and increasing operational efficiency. The Group also
+deepened its collaboration with brands to create seamless shopping experience,
+prioritise healthier sales and enhance inventory integration.
+
+
+
+
+                                                                                              25
+ MANAGEMENT DISCUSSION AND ANALYSIS
+ BUSINESS REVIEW (continued)
+ Channel Management – B&M
+      Sales momentum within the Group’s B&M network was acutely affected by continued
+ sporadic outbreaks of the Pandemic, movement restrictions and weak overall consumer
+ sentiment in mainland China. Sales recovered sequentially in May and June which
+ benefited from improved in-store traffic, despite a higher proportion of the Group’s
+ stores are located in higher-end shopping venues in higher tier cities. The Group also
+ continued to close or upgrade underperforming stores while opening stores with holistic
+ views, which optimising the investment returns by considering all business regions as a
+ whole and prioritising regions with convincing potential and outstanding operating track
+ records, and to open stores after thorough assessments, not according to the allocation
+ from brands only. As at June 30, 2022, the Group’s retail network totalled 7,961 stores,
+ consisting of 4,455 directly operated stores and 3,506 sub-distributor stores across the
+ Greater China region.
+
+
+      Movement of directly operated stores during the six months ended:
+
+
+                                                                June 30,              June 30,
+                                                                   2022                  2021
+
+
+     At the beginning of the period                                   4,631              5,240
+     Net decrease in the number of stores                              (176)              (272)
+
+
+     At the end of the period                                         4,455              4,968
+
+
+      Numbers and percentages of directly operated stores by size as at:
+
+
+                                                June 30, 2022              June 30, 2021
+                                               Number         %          Number          %
+
+
+     Selling area
+     300 m2 or smaller                            3,702        83.1           4,267       85.9
+     Larger than 300 m2                             753        16.9             701       14.1
+
+
+     Total                                        4,455      100.0            4,968      100.0
+
+
+
+
+26
+                                                       2022 INTERIM REPORT
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+BUSINESS REVIEW (continued)
+Channel Management – B&M (continued)
+  B&M retail channels remain a critical and irreplaceable sales touchpoint for
+consumers in the Greater China region who want to discover new products and
+experience a unique, personalised and seamless shopping experience for sports
+products and services. During the first half of 2022, the Group continued to invest
+in optimising store formats and accelerated its digital transformation by integrating
+its WeChat stores, membership programme and sports services into its B&M network
+to enrich the consumer experience and stimulate more repeated purchases with
+higher-margin and in-season sales within its offline network.
+
+
+Channel Management – Omni-channels
+  The Group’s omni-channels include its public traffic domains, covering the operation
+on third-party platforms such as Tmall, JD and Vipshop, as well as its increasingly
+important private traffic domain – the Pan-WeChat Ecosphere – which covers its WeChat
+stores, Douyin live-streaming shopping events and shopping mall digital platforms.
+
+
+  In the first half of 2022, logistics and last-mile delivery were also hindered by continuous
+lockdown and control measures across mainland China. These adversely impacted the
+Group’s overall online performance despite the situation started to improve in the second
+half of May. Encouragingly, Pan-WeChat Ecosphere is proving to be an increasingly
+lucrative and effective sales channel for the Group, delivering better conversion rates,
+shorter sales cycles and more full-price in-season sales launched at an earlier time.
+The Group digital sales capabilities in private domain channels were further elevated
+and experienced a strong growth during the first half of 2022. Through the Pan-WeChat
+Ecosphere, the Group continued to embed its ExP (Energy x Power) membership
+programme operated under the brand name of YYsports with more value-added services,
+diverse content and member-exclusive benefits, as well as with Douyin livestreams
+conducted by designated Key Opinion Staff. By continuing to invest in and allocate more
+resources to its private traffic domain, the Group aims to establish sustainable consumer
+loyalty, which was boosted by the provision of more grass-root sports-related services.
+
+
+  During the first half of 2022, the Group continued to strengthen and grow its
+omni-channels in order to deepen and expand its engagement with shoppers and
+to deliver better operational efficiency. During the period, the Group’s omni-channels
+contributed approximately 21% of its total sales.
+
+                                                                                             27
+ MANAGEMENT DISCUSSION AND ANALYSIS
+ BUSINESS REVIEW (continued)
+ Investment in Sports Services
+     The Group continued to leverage the YYsports WeChat Mini-Program in the Greater
+ China region, boosting the Group’s ExP membership programme while offering diversified
+ sports services content, interactive features, and other related services, to support
+ in-depth membership management, and to facilitate a seamless online and offline
+ customer experience.
+
+
+     The ‘Next Stores’ in Taiwan and Shenyang of the Group that specialised for sports
+ services continued to serve as an integrated innovative touchpoint, empowering its
+ ExP sports services ecosystem. These large-scale stores are designed to support the
+ growth of the Group’s omni-channel capabilities, allowing different sports services to
+ be modularised and customised in ways that can be easily integrated into the Group’s
+ other B&M stores as required. ‘Next Stores’ also act as a service hub, offering a wide
+ and diverse range of sports products digitally, alongside sports travel packages, regular
+ broadcasts, unique reading/meditation environments, café corners, training services,
+ sports events, colourful experiences, workshops, product and lifestyle consultations, as
+ well as health and fitness meals – all derived from grass root sports activities organised by
+ professional teams located in the Group’s headquarters and branch offices nationwide.
+
+
+ Enhanced Sharing Mechanism and Continued Retail Excellence
+     The Group continued to reinforce its product sharing platform (“PSP”) and enhance
+ its Omni-Hub programme with brand and shopping mall partners to efficiently share
+ products and services across different online platforms to optimise its services to loyal
+ members and consumers.
+
+
+     The Group also continued to invest in its business intelligence system and digital tools
+ to drive future retail excellence, particularly in areas such as real-time in-store efficiency
+ and resource optimisation.
+
+
+     The Group’s continued investments in its omni-channels and sports services remain
+ essential for developing its unique core competencies, maintaining its competitiveness,
+ and supporting its long-term development. Through these aforementioned efforts,
+ the Group is confident that it will be more adaptable to the ever-changing operating
+ environment while capturing long-term growth opportunities.
+
+
+
+28
+                                                      2022 INTERIM REPORT
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+PERFORMANCE ANALYSIS
+Financial Review
+   In the first half of 2022, the Group recorded revenue of RMB9,864.8 million,
+representing a decrease of 24.5% compared with the same period of last year. Gross
+profit was RMB3,495.9 million, a decrease of 26.0% when compared to the same period
+of last year. Profit attributable to owners of the Company for the first half of 2022 was
+RMB17.4 million.
+
+
+Revenue
+   The Group’s total revenue in the first half of 2022 decreased 24.5% to RMB9,864.8
+million, as compared with the same period of last year. The decrease was mainly
+attributed to weak foot traffic in the shopping venues and cities where the Group
+operates following the Pandemic lockdowns and local government’s closed-loop
+management across mainland China, despite of experiencing a good start at the
+beginning of the year with continued resilient performance of its Pan-WeChat Ecosphere.
+
+
+                                      For the six months ended June 30,
+                                                2022              2021         Change
+                                           RMB million       RMB million
+
+
+ Revenue                                       9,864.8          13,073.9          -24.5%
+ Cost of sales                                (6,368.9)         (8,351.8)         -23.7%
+ Gross profit                                  3,495.9           4,722.1          -26.0%
+ Gross profit margin (%)                        35.4%             36.1%         -0.7 ppt
+
+
+Gross Profit
+   The Group’s gross profit in the first half of 2022 amounted to RMB3,495.9 million with
+a gross profit margin of 35.4%. The gross profit margin decreased by 0.7 percentage
+point compared to the same period of last year. Gross profit margin showed resilience
+year-over-year, which was mainly attributed to an enhanced channel mix and effective
+promotion strategy within the current volatile retail environment.
+
+
+
+
+                                                                                           29
+ MANAGEMENT DISCUSSION AND ANALYSIS
+ PERFORMANCE ANALYSIS (continued)
+ Selling & Distribution Expenses and Administrative Expenses
+     The Group’s selling and distribution expenses in the first half of 2022 were RMB3,075.9
+ million (first half of 2021: RMB3,606.9 million), accounting for 31.2% of the Group’s
+ revenue (first half of 2021: 27.6%). Selling and distribution expenses primarily include
+ concessionaire fees, depreciation of right-of-use assets in relation to stores, sales
+ personnel salaries and commissions, other depreciation and amortisation charges, and
+ other expenses that mainly include store operation expenses, property management
+ fees, logistic expenses and other expenses.
+
+
+     Administrative expenses in the first half of 2022 were RMB375.9 million (first half of 2021:
+ RMB404.5 million), accounting for 3.8% of the Group’s revenue (first half of 2021: 3.1%).
+ Administrative expenses primarily include management and administrative personnel
+ salaries, depreciation and amortisation charges and other expenses.
+
+
+     The Group’s selling and distribution expenses and administrative expenses in the first
+ half of 2022 were RMB3,451.8 million, a decrease of 13.9% compared to the first half of
+ 2021. This was equivalent to 35.0% of total revenue, an increase of 4.3 percentage points
+ year-on-year.
+
+
+ Operating Profit
+     The Group’s operating profit in the first half of 2022 was RMB208.3 million, with an
+ operating margin of 2.1%.
+
+
+ Finance Income and Finance Cost
+     Finance income in the first half of 2022 was RMB10.6 million, compared to RMB14.6
+ million in the first half of 2021. Finance costs in the first half of 2022 was RMB91.5 million,
+ compared to RMB109.5 million in the first half of 2021, primarily as a result of a decrease
+ in interest expense on lease liabilities during the period under review.
+
+
+ Profit for the Period
+     The Group recorded a net profit of RMB24.2 million in the first half of 2022, representing
+ a decline of 96.3% as compared with the same period of 2021.
+
+
+
+
+30
+                                                       2022 INTERIM REPORT
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+PERFORMANCE ANALYSIS (continued)
+Working Capital Efficiency
+  The average inventory turnover period for the first half of 2022 was 202 days (first half
+of 2021: 129 days). The balance of inventory as at June 30, 2022 was RMB6,649.4 million
+as a result of the acquisition of a joint venture and weak sales that was partially offset by
+efforts to digest excessive inventory. The average trade receivables turnover period was
+21 days (first half of 2021: 21 days), which remained consistent with the credit terms of 30
+to 60 days that the Group gave its department store counters and retail distributors. The
+average trade payables turnover period in the first half of 2022 was 34 days (first half of
+2021: 30 days).
+
+
+Liquidity and Financial Resources
+  As at June 30, 2022, the Group had solid cash and cash equivalents amounting
+to RMB1,236.7 million (December 31, 2021: RMB1,233.8 million) while working capital
+(current assets minus current liabilities) was RMB5,337.5 million (December 31, 2021:
+RMB5,105.2 million). Total bank and other borrowings increased to RMB2,099.9 million
+(December 31, 2021: RMB1,581.6 million) and are repayable within one year. Bank and
+other borrowings were mainly denominated in Renminbi and so were cash and cash
+equivalents. The Group’s loans under fixed rate arrangement made up approximately
+98% (December 31, 2021: 99%) of its total bank borrowings.
+
+
+  The Group’s gearing ratio as of June 30, 2022, represented by total interest-bearing
+borrowings (excluding lease liabilities) as a percentage of total equity, was 25.7%
+(December 31, 2021: 19.3%). The net debt to equity ratio was 10.6% (December 31, 2021:
+4.2%).
+
+
+  The net cash from operating activities in the first half of 2022 was RMB324.1 million. The
+Group believes its liquidity requirements will be satisfied with the combination of capital
+generated from operating activities and future bank borrowings. The net cash used in
+investing activities in the first half of 2022 was RMB110.1 million, while the net cash used
+in financing activities was RMB202.1 million.
+
+
+
+
+                                                                                            31
+ MANAGEMENT DISCUSSION AND ANALYSIS
+ PERFORMANCE ANALYSIS (continued)
+ Capital Expenditure
+     The Group continued its selective and prudent approach of capital expenditure
+ planning in areas of strategic opening of new stores, ongoing upgrades and expanding
+ experience-driven B&M stores that offer a better shopping experience and store
+ productivity improvements, as well as further optimising its online and B&M networks to
+ capture growth opportunities. As a result, total capital expenditure in the first half of 2022
+ declined to RMB143.8 million (first half of 2021: RMB223.5 million). As at June 30, 2022, the
+ Group had no material contingent liabilities.
+
+
+     As at June 30, 2022, capital expenditure in respect of the acquisition of property, plant
+ and equipment contracted for but not provided in the consolidated financial statements
+ was RMB89.1 million (December 31, 2021: RMB70.5 million). The Group also entered
+ into new leases for several retail stores that have not yet commenced, with an average
+ non-cancellable period ranging from 1 to 5 years (2021: 1 to 5 years), with the total
+ future undiscounted cash flows over the non-cancellable period amounting to RMB5.3
+ million (December 31, 2021: RMB15.3 million).
+
+
+ Foreign Exchange
+     The Group conducts its business primarily in the Greater China region and the
+ majority of its transactions are denominated in Renminbi. As at June 30, 2022, the Group
+ had no significant hedging instruments for managing its foreign exchange exposure. As
+ the exchange rate of Renminbi against foreign currencies may fluctuate, the Group may
+ enter into forward contracts, currency swaps or options to hedge against currency risks
+ arising from foreign currency transactions when necessary.
+
+
+     The Group has a dedicated treasury division and internal treasury policies and
+ approval guidelines to manage and control the Group’s exposure to structured deposit
+ investments. The use of derivatives and approval procedures in the first half of 2022 was
+ in accordance with the Group’s internal policies and guidelines.
+
+
+
+
+32
+                                                       2022 INTERIM REPORT
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+PROSPECTS AND FUTURE DEVELOPMENTS
+   Even though the current external conditions impacting the Group have started to
+show some signs of easing, the Pandemic situation in mainland China remains volatile.
+However, disrupted logistics and last-mile delivery have largely improved, combined with
+supportive policies such as stimulus programs, the Group is cautiously optimistic about a
+gradual recovery in the second half of the year.
+
+
+   Meanwhile, the Group will continue to accelerate its digital transformation by
+strengthening its public and private channel domains. The Group’s earlier acquisition of
+the remaining equity interest in its former joint venture with Vipshop is having a positive
+impact. This helps the sales of the Group become less reliant on holiday promotions and
+improve its inventory management efficiency, pave the way for improved profit margins
+and greater efficiency when market conditions normalise. Meanwhile, the Group will
+continue to expand its Pan-WeChat Ecosphere, which saw resilient performance within
+current weak consumer sentiment. All above initiatives will continue to facilitate the
+Group to strategically pivot its online focus towards more full-price in-season sales, drive
+repeat purchases through better customer engagement and loyalty.
+
+
+   Elsewhere, the Group aims to further grow its membership services with brand partners
+to further maximise value for consumers. It will continue to connect membership services
+with its growing number of digitally-enabled stores to allow more customers to access
+member-exclusive products, offers and experiences consistent with that available at
+brand’s directly operated stores in Greater China Region.
+
+
+   The Group will also push forward its other innovative strategies developed and rolled
+out in partnership with brands, especially the rapidly-expanding Omni-Hub programme
+that focuses on inventory sharing. It will also continue to enhance its business intelligence
+system and invest in its digital tools, such as smart product allocation artificial
+intelligence, dashboard and E-POS to better support its operations, optimise its inventory
+management and improve its working capital efficiency. It will also continue to drive its
+offline and online sales growth, reinforce its in-season sell-through, off-season clearance
+and margin growth through its PSP with a better procurement strategy, and more
+effective inventory management. The Group will uphold its focus upgrading and refining
+its experience-driven B&M stores to offer an even more excellent shopping experience,
+as well as exploring new co-operation opportunities with business partners that ultimately
+drives sustainable growth.
+
+                                                                                            33
+ MANAGEMENT DISCUSSION AND ANALYSIS
+ PROSPECTS AND FUTURE DEVELOPMENTS (continued)
+     In the longer term, the prospects for sports industry in the Greater China region
+ remain bright. Following the highly-successful 2022 Winter Olympics in Beijing, in which
+ China won a record number of medals, the authorities remain committed to high-quality
+ sports development, with the industry set to grow to RMB5 trillion in value by 2025. This
+ will enable the Group to return to and exceed its previous growth momentum while
+ strengthening its long-term financial performance and profitability.
+
+
+ HUMAN RESOURCES
+     As at June 30, 2022, the Group had approximately 28,600 employees in total. The
+ Group provides competitive remuneration packages that are determined with reference
+ to prevailing salary levels in the market and individual performance. The Company offers
+ share awards to eligible employees in order to provide them with incentives and to
+ recognise their contributions and ongoing efforts. In addition, the Group provides other
+ fringe benefits, such as social insurance, mandatory provident funds, medical coverage
+ and training programmes for employees based on their respective personal career
+ development.
+
+
+
+
+34
+                                                      2022 INTERIM REPORT
+
+OTHER INFORMATION
+INTERIM DIVIDEND
+   The board of directors of Pou Sheng International (Holdings) Limited (the “Company”
+and the “Board”, respectively) has resolved not to declare any interim dividend for the six
+months ended June 30, 2022 (six months ended June 30, 2021: nil).
+
+
+DIRECTORS’ AND CHIEF EXECUTIVES’ INTERESTS AND SHORT POSITIONS
+IN SHARES, UNDERLYING SHARES AND DEBENTURES
+   As at June 30, 2022, the interests or short positions of the Company’s directors (the
+“Directors”) and chief executives in the shares, underlying shares and debentures of
+the Company and its associated corporations (within the meaning of Part XV of the
+Securities and Futures Ordinance (Chapter 571 of the Laws of Hong Kong) (the “SFO”))
+which (a) as required to be notified to the Company and The Stock Exchange of Hong
+Kong Limited (the “Stock Exchange”) pursuant to Divisions 7 and 8 of Part XV of the
+SFO (including interests or short positions which they were taken or deemed to have
+under such provisions of the SFO); or (b) as recorded in the register required to be
+kept by the Company pursuant to Section 352 of the SFO; or (c) as otherwise notified
+to the Company and the Stock Exchange pursuant to the Model Code for Securities
+Transactions by Directors of Listed Issuers (the “Model Code”) contained in the Rules
+Governing the Listing of Securities on the Stock Exchange (the “Listing Rules”), were as
+follows:
+
+
+
+
+                                                                                          35
+ OTHER INFORMATION
+ DIRECTORS’ AND CHIEF EXECUTIVES’ INTERESTS AND SHORT POSITIONS
+ IN SHARES, UNDERLYING SHARES AND DEBENTURES (continued)
+ Long Positions in shares and underlying shares
+ (a)   The Company
+       Ordinary shares of HK$0.01 each of the Company (the “Shares”)
+
+                                                                  Number of Shares/underlying Shares held
+                                                                                                                          Percentage
+       Name of Directors/                         Personal             Family    Corporate        Other                  of the issued
+       chief executives       Capacity            interests          interests    interests    interests         Total        Shares1
+
+
+       Tsai Patty, Pei Chun Beneficial Owner     19,523,000                 –            –            –     19,523,000          0.37%
+       Lee, Shao-Wu   2
+                              Beneficial Owner    5,000,000   3
+                                                                            –            –            –      5,000,000          0.09%
+       Liao, Yuang-Whang Beneficial Owner
+                          4
+                                                  1,307,000                 –            –            –      1,307,000          0.02%
+
+       notes:
+
+
+       1
+                The total number of issued Shares as at June 30, 2022 was 5,326,179,615.
+
+
+       2
+                Mr. Lee, Shao-Wu resigned as the chief executive officer of the Company (the “CEO”)
+                on July 1, 2022.
+
+
+       3
+                Included interests in 1,000,000 awarded Shares granted under the share award
+                scheme of the Company (the “Share Award Scheme”), which are subject to certain
+                vesting conditions and remain unvested as at June 30, 2022. Details of the awarded
+                Shares are set out in the section “Share Award Scheme” in this interim report.
+
+
+       4
+                Mr. Liao, Yuang-Whang resigned as the chief financial officer of the Company (the
+                “CFO”) on June 1, 2022.
+
+
+
+
+36
+                                                                               2022 INTERIM REPORT
+
+OTHER INFORMATION
+DIRECTORS’ AND CHIEF EXECUTIVES’ INTERESTS AND SHORT POSITIONS
+IN SHARES, UNDERLYING SHARES AND DEBENTURES (continued)
+Long Positions in shares and underlying shares (continued)
+(b)   Associated Corporation – Yue Yuen Industrial (Holdings) Limited (“Yue Yuen”)
+      Ordinary shares of HK$0.25 each of Yue Yuen
+
+                                                                                                                     Percentage
+                                                                Number of shares/underlying shares held
+                                                                                                                    of the issued
+      Name of Directors/                        Personal             Family    Corporate        Other                  shares of
+      chief executives       Capacity           interests          interests    interests    interests      Total     Yue Yuen1
+
+
+      Lee, Shao-Wu2          Beneficial Owner    301,0003                 –            –            –     301,000          0.02%
+      Liao, Yuang-Whang Beneficial Owner
+                         4
+                                                  30,000    5
+                                                                          –            –            –      30,000          0.00%
+      Wu, Pan-Tsu   6
+                             Beneficial Owner     73,000                  –            –            –      73,000          0.00%
+
+      notes:
+
+
+      1
+               The total number of issued shares of Yue Yuen as at June 30, 2022 was 1,612,183,986.
+
+
+      2
+               Mr. Lee, Shao-Wu resigned as the CEO of the Company on July 1, 2022.
+
+
+      3
+               Included interests in 60,000 awarded shares granted by Yue Yuen under the share
+               award scheme of Yue Yuen (the “YY Share Award Scheme”), which are subject
+               to certain vesting conditions and remain unvested as at June 30, 2022. Details of
+               the awarded Shares are set out in the section “Arrangement to Acquire Shares or
+               Debentures” in this interim report.
+
+
+      4
+               Mr. Liao, Yuang-Whang resigned as the CFO of the Company on June 1, 2022.
+
+
+      5
+               30,000 awarded shares granted by Yue Yuen under the YY Share Award Scheme,
+               which are subject to certain vesting conditions and remain unvested as at June
+               30, 2022. Details of the awarded shares are set out in the section “Arrangement to
+               Acquire Shares or Debentures” in this interim report.
+
+
+      6
+               Mr. Wu, Pan-Tsu retired from all his positions with the Company on July 1, 2022.
+
+
+
+
+                                                                                                                                37
+ OTHER INFORMATION
+ DIRECTORS’ AND CHIEF EXECUTIVES’ INTERESTS AND SHORT POSITIONS
+ IN SHARES, UNDERLYING SHARES AND DEBENTURES (continued)
+     Save as disclosed above, as at June 30, 2022, none of the Directors nor chief
+ executives of the Company had or was deemed to have any interests or short positions
+ in the shares, underlying shares and debentures of the Company or any of its associated
+ corporations (within the meaning of Part XV of the SFO) which (a) were required to be
+ notified to the Company and the Stock Exchange pursuant to Divisions 7 and 8 of Part
+ XV of the SFO (including interests or short positions which they were taken or deemed
+ to have under such provisions of the SFO); or (b) were recorded in the register required
+ to be kept by the Company under Section 352 of the SFO; or (c) were required to be
+ notified to the Company and the Stock Exchange pursuant to the Model Code.
+
+
+ SHARE AWARD SCHEME
+     The Share Award Scheme was adopted on May 9, 2014 and duly amended on
+ November 11, 2016 for recognising the contributions by certain persons, including
+ Directors and employees of the Company and its subsidiaries (the “Group”), providing
+ incentives to retain them for continual operation and development of the Group, and to
+ attract suitable personnel for further development of the Group. The scheme is valid and
+ effective for a term of 10 years commencing on May 9, 2014. No further share awards
+ should be granted upon termination or expiry of the term of the Share Award Scheme.
+
+
+     Any proposed award should be determined on the basis of individual performance
+ and must be recommended by the remuneration committee of the Board (the
+ “Remuneration Committee”) and approved by the Board. All the share awards granted
+ under the Share Award Scheme should be vested in accordance with the conditions
+ (such as employment status, individual performance and common key performance
+ indicators) as determined by the Board.
+
+
+     The total number of Shares to be awarded under the Share Award Scheme should
+ not exceed 4% of the issued Shares as at the date of grant. The maximum number of
+ Shares (including vested and non-vested Shares) which may be awarded to a selected
+ participant should not exceed 1% of the issued Shares from time to time.
+
+
+
+
+38
+                                                                 2022 INTERIM REPORT
+
+OTHER INFORMATION
+SHARE AWARD SCHEME (continued)
+    Eligible participant(s) selected by the Board for participation in the Share Award
+Scheme shall have no right to any dividend held under the trust before vesting which
+shall form part of the residual cash or any of the returned Shares. The trustee of the Share
+Award Scheme shall not exercise the voting rights in respect of any Shares held under
+the trust (including but not limited to the awarded Shares, the returned Shares, any
+bonus Shares and scrip dividend).
+
+
+    Pursuant to the Share Award Scheme, movements in awarded Shares during the
+period are set out below:
+
+
+                                                                 Number of awarded Shares
+                                                     Balance    Granted      Vested       Lapsed/     Balance
+                                                        as at    during      during     cancelled        as at
+              Date of                              January 1,       the         the         during    June 30,
+              grant              Vesting period         2022     period      period     the period       2022
+
+Director
+Lee, Shao-Wu 23.03.2019    23.03.2019-22.03.2022      500,000         –    (500,000)             –           –
+             31.03.2020    31.03.2020-30.03.2022      500,000         –    (500,000)             –           –
+             31.03.2020    31.03.2020-30.03.2023      500,000         –           –              –     500,000
+             24.03.2021    24.03.2021-23.09.2022      100,000         –           –              –     100,000
+             24.03.2021    24.03.2021-23.09.2023      150,000         –           –              –     150,000
+             24.03.2021    24.03.2021-23.03.2024      250,000         –           –              –     250,000
+
+Sub-total                                           2,000,000         –   (1,000,000)            –    1,000,000
+
+Employees
+              23.03.2019   23.03.2019-22.03.2022    4,520,500         –   (4,464,000)     (56,500)            –
+              24.03.2021   24.03.2021-23.09.2022    1,441,400         –            –      (50,800)    1,390,600
+              24.03.2021   24.03.2021-23.09.2023    2,162,100         –            –      (76,200)    2,085,900
+              24.03.2021   24.03.2021-23.03.2024    3,603,500         –            –     (127,000)    3,476,500
+              13.08.2021   13.08.2021-12.02.2023      448,000         –            –      (26,600)      421,400
+              13.08.2021   13.08.2021-12.02.2024      672,000         –            –      (39,900)      632,100
+              13.08.2021   13.08.2021-12.08.2024    1,120,000         –            –      (66,500)    1,053,500
+
+Sub-total                                          13,967,500         –   (4,464,000)    (443,500)    9,060,000
+
+Grand total                                        15,967,500         –   (5,464,000)    (443,500)   10,060,000
+
+
+
+
+                                                                                                              39
+ OTHER INFORMATION
+ ARRANGEMENT TO ACQUIRE SHARES OR DEBENTURES
+     Under the YY Share Award Scheme and subject to certain vesting conditions, three of
+ the Directors have been awarded with ordinary shares of Yue Yuen, details of which are
+ as follows:
+
+
+                                                  Number                        Number       Number
+                                                 of shares       Date of      of shares     of shares
+ Name of Directors          Date of award        awarded         vesting         vested     unvested
+
+
+ Lee, Shao-Wu                   01.06.2021         60,000     31.05.2023               –      60,000
+                                23.03.2022         88,000     01.06.2022         88,000             –
+
+
+ Liao, Yuang-Whang              01.06.2021         30,000     31.05.2023               –      30,000
+
+
+ Wu, Pan-Tsu1                   23.03.2022         73,000     01.06.2022         73,000             –
+
+ note:
+
+
+ 1
+         Mr. Wu, Pan-Tsu retired from all his positions with the Company on July 1, 2022.
+
+
+     Save as disclosed herein and as stated in the section “Share Award Scheme” above,
+ at no time during the period was the Company or any of its holding companies, fellow
+ subsidiaries or subsidiaries a party to any arrangements to enable the Directors to
+ acquire benefits by means of the acquisition of shares in, or debt securities (including
+ debentures) of the Company or any other body corporate.
+
+
+
+
+40
+                                                               2022 INTERIM REPORT
+
+OTHER INFORMATION
+SUBSTANTIAL SHAREHOLDERS’ INTERESTS AND SHORT POSITIONS IN
+SHARES AND UNDERLYING SHARES
+   As at June 30, 2022, the register of interests in Shares and short positions of substantial
+shareholders of the Company (the “Shareholder(s)”) maintained by the Company
+pursuant to Section 336 of the SFO showed that other than the interests disclosed in the
+section “Directors’ and Chief Executives’ Interests and Short Positions in Shares, Underlying
+Shares and Debentures”, the following Shareholders had notified the Company of their
+relevant interests in the issued Shares:
+
+
+Long Positions in the Shares
+
+                                                                                      Percentage
+                                                      Capacity/        Number of     of the issued
+Name of Shareholders            notes          Nature of interest     Shares held          Shares
+
+
+Major Focus Management          (a)              Beneficial owner    3,331,551,560         62.55%
+  Limited (“Major Focus”)
+
+
+Yue Yuen                       (a), (b)   Interest of a controlled   3,331,551,560         62.55%
+                                                    corporation/
+                                                Beneficial owner
+
+
+Wealthplus Holdings Limited      (b)      Interest of a controlled   3,331,551,560         62.55%
+  (“Wealthplus”)                                     corporation
+
+
+Pou Chen Corporation (“PCC”)     (b)      Interest of a controlled   3,331,551,560         62.55%
+                                                     corporation
+
+
+
+
+                                                                                                 41
+ OTHER INFORMATION
+ SUBSTANTIAL SHAREHOLDERS’ INTERESTS AND SHORT POSITIONS IN
+ SHARES AND UNDERLYING SHARES (continued)
+ Long Positions in the Shares (continued)
+ notes:
+
+
+ The total number of issued Shares as at June 30, 2022 was 5,326,179,615.
+
+
+ (a)      3,331,551,560 Shares are held by Major Focus, a wholly-owned subsidiary of Yue Yuen.
+
+
+ (b)      The entire issued shares of Major Focus is held by Yue Yuen, in which Wealthplus and Win
+          Fortune Investments Limited (“Win Fortune”) respectively hold 47.95% and 3.16% voting
+          shares. Wealthplus and Win Fortune are in turn wholly-owned by PCC. Accordingly, Yue
+          Yuen, Wealthplus and PCC are all deemed to be interested in these Shares under the SFO.
+
+
+          Ms. Tsai Patty, Pei Chun, a Director, is also a director of Yue Yuen, Wealthplus and PCC.
+          Mr. Chen, Huan-Chung, a Director, is also an independent director of PCC. Mr. Wu, Pan-Tsu,
+          a Director who retired on July 1, 2022, is also a director of PCC.
+
+
+       Save as disclosed above, as at June 30, 2022, the Directors were not aware of any
+ other person (other than the Directors or chief executives of the Company) who had
+ or was deemed to have an interest or short position in the Shares or underlying Shares
+ which were required to be disclosed to the Company and the Stock Exchange under the
+ provisions of Divisions 2 and 3 of Part XV of the SFO or which were required, pursuant to
+ Section 336 of the SFO, to be entered into the register referred to therein.
+
+
+ PURCHASE, SALE OR REDEMPTION OF LISTED SECURITIES
+       Neither the Company nor any of its subsidiaries purchased, sold or redeemed any of
+ the Company’s listed securities during the six months ended June 30, 2022 (six months
+ ended June 30, 2021: nil).
+
+
+
+
+42
+                                                     2022 INTERIM REPORT
+
+OTHER INFORMATION
+UPDATE ON DIRECTORS’ INFORMATION
+   Pursuant to Rule 13.51B(1) of the Listing Rules, the changes in information of the
+Directors since the date of publication of the Company’s 2021 annual report are set out
+below:
+
+  (a)   On March 22, 2022, Mr. Li I-nan entered into a supplemental letter of
+        appointment with the Company for renewal of his term of appointment as a
+        non-executive Director for a further term of three years commencing on March
+        26, 2022 and ending on March 25, 2025, subject to retirement by rotation
+        and re-election at annual general meetings pursuant to the bye-laws of the
+        Company (the “Bye-laws”).
+
+  (b)   On March 25, 2022, Mr. Hsieh, Wuei-Jung resigned as an independent
+        non-executive Director (“INED”) and the chairman of the Remuneration
+        Committee.
+
+  (c)   On March 25, 2022, Mr. Liu, Hsi-Liang was appointed as an INED and the
+        chairman of the Remuneration Committee. A letter of appointment as an INED
+        for a term of three years commencing on March 25, 2022 and ending on March
+        24, 2025, subject to retirement by rotation and re-election at annual general
+        meetings pursuant to the Bye-laws, was entered into between the Company and
+        Mr. Liu on March 15, 2022.
+
+  (d)   On April 1, 2022, Mr. Wu, Pan-Tsu ceased to be a director of Elitegroup Computer
+        Systems Co., Ltd., the shares of which are listed on Taiwan Stock Exchange
+        Corporation (“TWSE”).
+
+  (e)   On June 1, 2022, Mr. Liao, Yuang-Whang resigned as the CFO and became
+        an executive assistant vice president of PCC working at CEO office. PCC, a
+        company listed on TWSE, is a controlling shareholder of Yue Yuen, a controlling
+        Shareholder, and through its interests in Yue Yuen, is deemed to be interested
+        in the Shares which would fall to be disclosed under the provisions of Divisions 2
+        and 3 of Part XV of the SFO.
+
+  (f)   On June 1, 2022, Mr. Liao, Yuang-Whang entered into the second supplementary
+        agreement to the service agreement, which entered into between the Company
+        and Mr. Liao on June 1, 2021 and amended on July 13, 2021, pursuant to which,
+        the salary that he is entitled under the service agreement has been adjusted to
+        HK$480,000 per annum with effect from June 1, 2022.
+
+
+
+
+                                                                                         43
+ OTHER INFORMATION
+ UPDATE ON DIRECTORS’ INFORMATION (continued)
+     (g)   On June 12, 2022, the term of appointment of Mr. Chen, Huan-Chung as a
+           member of the nomination committee of PCC expired.
+
+     (h)   On June 15, 2022, Mr. Chen, Huan-Chung was appointed as a member of the
+           remuneration committee of PCC.
+
+     (i)   On June 15, 2022, Mr. Liao, Yuang-Whang was re-designated from working at
+           CEO office to the head of global supply chain department of PCC.
+
+     (j)   On June 24, 2022, Mr. Liu, Hsi-Liang was appointed as an independent director,
+           and a member of the audit committee and remuneration committee of Sino
+           Horizon Holdings Limited, the shares of which are listed on TWSE.
+
+     (k)   On July 1, 2022, Mr. Wu, Pan-Tsu retired from all his positions with the
+           Company, including (i) the chairman of the Company (the “Chairman”); (ii)
+           an executive Director; (iii) the chairman of the nomination committee and
+           disclosure committee of the Board (the “Nomination Committee” and the
+           “Disclosure Committee”, respectively); and (iv) an authorised representative
+           of the Company as required under Rule 3.05 of the Listing Rules (“Authorised
+           Representative”).
+
+     (l)   On July 1, 2022, Mr. Lee, Shao-Wu was appointed as the Chairman, the
+           chairman of the Disclosure Committee and an Authorised Representative; and
+           resigned as the CEO. In respect of these changes of positions of Mr. Lee, he
+           entered into a supplementary agreement to the service agreement, which
+           entered into between the Company and Mr. Lee on December 4, 2019, with the
+           Company on June 27, 2022. Pursuant to the supplementary agreement, certain
+           minor amendments, with effect from July 1, 2022, were made to reflect Mr. Lee’s
+           latest positions held with the Company.
+
+     (m) On July 1, 2022, Mr. Hu, Chia-Ho, was appointed as an executive Director, and
+         a member of the Nomination Committee and Disclosure Committee. He holds
+         the office until the next following annual general meeting and be eligible for
+         re-election thereafter pursuant to the Bye-laws. A service agreement as an
+         executive Director for a term of three years commencing from July 1, 2022 to
+         June 30, 2025 was entered into between the Company and Mr. Hu on June 27,
+         2022.
+
+     (n)   On July 1, 2022, Mr. Feng Lei Ming was appointed as the chairman of the
+           Nomination Committee.
+
+44
+                                                     2022 INTERIM REPORT
+
+OTHER INFORMATION
+UPDATE ON DIRECTORS’ INFORMATION (continued)
+  (o)   On July 1, 2022, Mr. Liao, Yuang-Whang was appointed as a member of the
+        Disclosure Committee.
+
+  (p)   In June and July 2022, Mr. Liao, Yuang-Whang resigned as a director of various
+        subsidiaries of the Company.
+
+
+CORPORATE GOVERNANCE
+   The Company has applied the principles of, and has complied with all code provisions
+contained in, the Corporate Governance Code as set out in Appendix 14 to the Listing
+Rules throughout the six months ended June 30, 2022.
+
+
+MODEL CODE FOR SECURITIES TRANSACTIONS BY DIRECTORS AND
+EMPLOYEES
+   The Company has adopted the Model Code as set out in Appendix 10 to the Listing
+Rules as the Company’s code of conduct for dealings in securities of the Company by
+Directors. Having made specific enquiry by the Company to all Directors, each of them
+has confirmed that he/she has complied with the required standard set out in the Model
+Code throughout the six months ended June 30, 2022.
+
+   The Company has also established and adopted internal guidelines for securities
+transactions by relevant employees (the “Employees Guidelines”). The Employees
+Guidelines are updated from time to time according to the Model Code. Specified
+employees who are likely to be in possession of unpublished inside information relating to
+the Company and its securities must comply with the Employees Guidelines.
+
+
+REVIEW OF ACCOUNTS
+   The audit committee of the Board has reviewed, with management and the
+independent auditor of the Company, the Group’s unaudited condensed consolidated
+interim financial information for the six months ended June 30, 2022, the interim report,
+the accounting principles and practices adopted by the Group and has discussed risk
+management, internal controls, and financial reporting matters.
+
+   Deloitte Touche Tohmatsu, certified public accountants and the independent auditor
+of the Company, has reviewed the unaudited condensed consolidated financial
+information of the Group for the six months ended June 30, 2022 in accordance
+with Hong Kong Standard on Review Engagements 2410 “Review of Interim Financial
+Information Performed by the Independent Auditor of the Entity” issued by the Hong Kong
+Institute of Certified Public Accountants.
+
+                                                                                         45
+ OTHER INFORMATION
+ ACKNOWLEDGEMENT
+    I would like to take this opportunity to express our sincere appreciation of the support
+ from our customers, suppliers and shareholders. I would also like to thank my fellow
+ Directors for their valuable contribution and the staff of the Group for their commitment
+ and dedicated services throughout the period.
+
+
+ DIRECTORS
+     As at the date of this report, the Board comprises:
+
+ Executive Directors
+     Mr. Lee, Shao-Wu (Chairman), Mr. Liao, Yuang-Whang and Mr. Hu, Chia-Ho
+
+ Non-executive Directors
+     Ms. Tsai Patty, Pei Chun and Mr. Li I-nan
+
+ Independent Non-executive Directors
+     Mr. Chen, Huan-Chung, Mr. Feng Lei Ming and Mr. Liu, Hsi-Liang
+
+
+
+
+                                                                By Order of the Board
+                                                                    Lee, Shao-Wu
+                                                                      Chairman
+
+ Hong Kong, August 11, 2022
+
+ Website: www.pousheng.com
+
+
+
+
+46
+             生
+          入你的 活 讓運
+        動融
+
+
+
+
+                  動融
+         運
+     生活 讓
+
+
+
+
+                    入你的
+                       生活 讓
+  入你的
+動融
+
+
+
+
+                           運
+         動融
+           入你的    運
+              生活 讓
+

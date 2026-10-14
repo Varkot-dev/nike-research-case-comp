@@ -1,0 +1,1948 @@
+2026
+INTERIM REPORT
+中期報告
+CONTENTS
+Corporate Information                           2
+The Group’s Financial Highlights                3
+Interim Results
+
+   Report on Review of Condensed Consolidated   4
+   Financial Statements
+
+   Condensed Consolidated Income Statement      6
+   Condensed Consolidated Statement of          7
+   Comprehensive Income
+
+   Condensed Consolidated Statement of          8
+   Financial Position
+
+   Condensed Consolidated Statement of          10
+   Changes in Equity
+
+   Condensed Consolidated Statement of          12
+   Cash Flows
+
+   Notes to the Condensed Consolidated          14
+   Financial Statements
+
+Management Discussion and Analysis              24
+Other Information                               35
+CORPORATE INFORMATION
+(As of August 12, 2026)
+
+DIRECTORS                                            PRINCIPAL PLACE OF BUSINESS
+Non-executive Directors                              22nd Floor, C-Bons International Center
+Chiu, Hui-Yao (Chairman)                             108 Wai Yip Street, Kwun Tong
+Tsai Patty, Pei Chun                                 Kowloon, Hong Kong
+Li I-nan
+                                                     INDEPENDENT AUDITOR
+Executive Directors                                  Deloitte Touche Tohmatsu
+Hu, Chia-Ho                                          Registered Public Interest Entity Auditors
+Chang, Su-Ching (Chief Executive Officer)
+Chen, Li-Chieh (Chief Financial Officer)             PRINCIPAL SHARE REGISTRAR AND
+                                                     TRANSFER OFFICE
+Independent Non-executive Directors                  Computershare Investor Services
+Feng Lei Ming                                          (Bermuda) Limited
+Liu, Hsi-Liang                                       5 Reid Street, PO Box HM 1475
+Leung Pui Yee                                        Hamilton HM FX
+                                                     Bermuda
+AUDIT COMMITTEE
+Leung Pui Yee (Chairlady)                            HONG KONG BRANCH SHARE
+Tsai Patty, Pei Chun                                 REGISTRAR AND TRANSFER OFFICE
+Feng Lei Ming                                        Computershare Hong Kong Investor
+                                                       Services Limited
+REMUNERATION COMMITTEE                               Shops 1712-1716, 17th Floor Hopewell Centre
+Liu, Hsi-Liang (Chairman)                            183 Queen’s Road East Wanchai
+Li I-nan                                             Hong Kong
+Leung Pui Yee
+                                                     PRINCIPAL BANKERS
+NOMINATION COMMITTEE                                 Australia and New Zealand Bank (China)
+Feng Lei Ming (Chairman)                               Company Limited
+Chang, Su-Ching                                      Australia and New Zealand Banking Group
+Leung Pui Yee                                          Limited
+                                                     Bank SinoPac
+DISCLOSURE COMMITTEE                                 Citibank (China) Co., Limited
+                                                     Industrial and Commercial Bank of China Limited
+Hu, Chia-Ho (Chairman)
+                                                     Mizuho Bank (China), Limited
+Chen, Li-Chieh
+                                                     Mizuho Bank, Limited
+                                                     Standard Chartered Bank (China) Limited
+AUTHORISED REPRESENTATIVES                           Standard Chartered Bank (Hong Kong) Limited
+Chen, Li-Chieh                                       Standard Chartered Bank (Taiwan) Limited
+Yip Wing Ming                                        Taipei Fubon Commercial Bank Company
+                                                       Limited
+COMPANY SECRETARY                                    Taishin International Bank Company Limited
+Yip Wing Ming
+                                                     WEBSITE
+REGISTERED OFFICE                                    www.pousheng.com
+Richmond House
+12 Par-la-Ville Road                                 STOCK CODE
+Hamilton HM 08                                       3813
+Bermuda
+
+
+
+
+2       POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+THE GROUP’S FINANCIAL HIGHLIGHTS
+                                                For the six months ended June 30,
+                                                         2026               2025
+ Financial performance                                RMB’000            RMB’000          Change
+                                                   (unaudited)        (unaudited)
+
+
+ Revenue                                             8,964,585          9,159,425            -2.1%
+ Gross profit                                        3,042,544          3,069,210            -0.9%
+ Operating profit                                      347,969            281,596            23.6%
+ Profit attributable to owners of the Company          243,652            187,615            29.9%
+ Gross profit margin (%)                                 33.9%             33.5%           0.4 ppt
+ Operating profit margin (%)                              3.9%              3.1%           0.8 ppt
+ Basic earnings per share (RMB cents)                      4.70              3.62            29.8%
+ Dividend per share
+    Interim dividend (HK$)                               0.016             0.0115            39.1%
+    Special dividend (HK$)                               0.016             0.0115            39.1%
+
+
+                                                              As at
+                                                      June 30,    December 31,
+                                                         2026            2025
+ Financial position                                   RMB’000         RMB’000             Change
+                                                   (unaudited)       (audited)
+
+
+ Inventories                                         4,668,280          5,020,147            -7.0%
+ Trade and other receivables                         1,983,450          2,094,184            -5.3%
+ Cash and cash equivalents                           1,330,301            640,441          107.7%
+
+
+
+
+                                                                            2026 Interim Report      3
+INTERIM RESULTS
+REPORT ON REVIEW OF CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+
+
+
+
+TO THE BOARD OF DIRECTORS OF
+POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+寶勝國際（控股）有限公司
+(incorporated in Bermuda with limited liability)
+
+
+Introduction
+We have reviewed the condensed consolidated financial statements of Pou Sheng
+International (Holdings) Limited (the “Company”) and its subsidiaries (collectively
+referred to as the “Group”) set out on pages 6 to 23, which comprise the condensed
+consolidated statement of financial position as of June 30, 2026 and the related
+condensed consolidated income statement, condensed consolidated statement of
+comprehensive income, condensed consolidated statement of changes in equity and
+condensed consolidated statement of cash flows for the six-month period then ended,
+and notes to the condensed consolidated financial statements. The Rules Governing the
+Listing of Securities on The Stock Exchange of Hong Kong Limited require the preparation
+of a report on interim financial information to be in compliance with the relevant
+provisions thereof and Hong Kong Accounting Standard 34 “Interim Financial Reporting”
+(“HKAS 34”) as issued by the Hong Kong Institute of Certified Public Accountants
+(“HKICPA”). The directors of the Company are responsible for the preparation and
+presentation of these condensed consolidated financial statements in accordance with
+HKAS 34. Our responsibility is to express a conclusion on these condensed consolidated
+financial statements based on our review, and to report our conclusion solely to you, as
+a body, in accordance with our agreed terms of engagement, and for no other purpose.
+We do not assume responsibility towards or accept liability to any other person for the
+contents of this report.
+
+
+
+
+4      POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+INTERIM RESULTS
+REPORT ON REVIEW OF CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS (Continued)
+Scope of Review
+We conducted our review in accordance with Hong Kong Standard on Review
+Engagements 2410 “Review of Interim Financial Information Performed by the
+Independent Auditor of the Entity” as issued by the HKICPA. A review of these condensed
+consolidated financial statements consists of making inquiries, primarily of persons
+responsible for financial and accounting matters, and applying analytical and other
+review procedures. A review is substantially less in scope than an audit conducted in
+accordance with Hong Kong Standards on Auditing and consequently does not enable
+us to obtain assurance that we would become aware of all significant matters that might
+be identified in an audit. Accordingly, we do not express an audit opinion.
+
+
+Conclusion
+Based on our review, nothing has come to our attention that causes us to believe that
+the condensed consolidated financial statements are not prepared, in all material
+respects, in accordance with HKAS 34.
+
+
+
+
+Deloitte Touche Tohmatsu
+Certified Public Accountants
+Hong Kong
+August 12, 2026
+
+
+
+
+                                                                    2026 Interim Report   5
+INTERIM RESULTS
+The board (the “Board”) of directors (the “Directors”) of Pou Sheng International
+(Holdings) Limited (the “Company”) announces the unaudited condensed consolidated
+results of the Company and its subsidiaries (collectively referred to as the “Group”) for
+the six months ended June 30, 2026 with the comparative figures for the corresponding
+period as follows:
+
+
+CONDENSED CONSOLIDATED INCOME STATEMENT
+FOR THE SIX MONTHS ENDED JUNE 30, 2026
+
+
+                                                             For the six months ended June 30,
+                                                                       2026             2025
+                                                     NOTES          RMB’000          RMB’000
+                                                                (unaudited)      (unaudited)
+    Revenue                                            3          8,964,585         9,159,425
+    Cost of sales                                                (5,922,041)       (6,090,215)
+    Gross profit                                                  3,042,544         3,069,210
+    Other operating income and gains (losses)                        74,635           102,671
+    Selling and distribution expenses                            (2,416,447)       (2,508,356)
+    Administrative expenses                                        (352,763)         (381,929)
+    Operating profit                                                347,969           281,596
+
+
+    Finance costs                                      5            (21,913)          (28,091)
+    Finance income                                                   18,252            21,599
+                                                                      (3,661)          (6,492)
+    Other gains                                                        1,385                –
+    Profit before taxation                                          345,693           275,104
+    Income tax expense                                 4            (91,582)          (74,998)
+    Profit for the period                              5            254,111           200,106
+    Attributable to:
+      Owners of the Company                                         243,652           187,615
+      Non-controlling interests                                      10,459            12,491
+                                                                    254,111           200,106
+    Earnings per share                                 7
+      – Basic                                                 RMB4.70 cents     RMB3.62 cents
+      – Diluted                                               RMB4.68 cents     RMB3.61 cents
+
+
+
+6       POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+INTERIM RESULTS
+CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+FOR THE SIX MONTHS ENDED JUNE 30, 2026
+
+
+                                                            For the six months ended June 30,
+
+                                                                      2026                    2025
+                                                                   RMB’000             RMB’000
+                                                               (unaudited)        (unaudited)
+
+  Profit for the period                                            254,111              200,106
+
+
+  Other comprehensive income (expense)
+  An item that will not be reclassified to profit or loss
+  Fair value gain (loss) on investments in equity
+   instrument at fair value through other
+   comprehensive income                                                521                    (716)
+
+
+  An item that may be reclassified subsequently to
+   profit or loss
+  Exchange differences arising on the translation of
+   foreign operations                                                  291                (1,626)
+  Other comprehensive income (expense) for the
+   period                                                              812                (2,342)
+  Total comprehensive income for the period                        254,923              197,764
+
+  Attributable to:
+    Owners of the Company                                          244,464              185,273
+    Non-controlling interests                                       10,459                12,491
+                                                                   254,923              197,764
+
+
+
+
+                                                                        2026 Interim Report      7
+INTERIM RESULTS
+CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+AT JUNE 30, 2026
+
+
+                                                                       At              At
+                                                                 June 30,   December 31,
+                                                                    2026            2025
+                                                      NOTES      RMB’000         RMB’000
+                                                              (unaudited)      (audited)
+
+    Non-current assets
+    Investment properties                                         120,700        120,700
+    Property, plant and equipment                       8         604,730        689,212
+    Right-of-use assets                                 8       1,143,326       1,106,919
+    Deposits paid for acquisition of property,
+     plant and equipment                                           42,809         38,518
+    Rental deposits                                                85,344         94,208
+    Intangible assets                                   8          99,422         99,623
+    Goodwill                                                      522,163        522,163
+    Interests in joint ventures                                         –               –
+    Equity instrument at fair value through
+      other comprehensive income                                    2,906          2,508
+    Other financial assets at amortised cost                      149,180         49,734
+    Bank deposits over three months                               477,840        527,840
+    Deferred tax assets                                           140,664        145,752
+                                                                3,389,084       3,397,177
+    Current assets
+    Inventories                                                 4,668,280       5,020,147
+    Trade and other receivables                         9       1,983,450       2,094,184
+    Taxation recoverable                                           25,747         34,752
+    Financial assets at fair value through
+      profit or loss                                              280,825        220,581
+    Bank deposits over three months                               353,420        653,627
+    Cash and cash equivalents                                   1,330,301        640,441
+                                                                8,642,023       8,663,732
+
+
+
+
+8        POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+INTERIM RESULTS
+CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+(Continued)
+AT JUNE 30, 2026
+
+
+                                                          At                      At
+                                                    June 30,     December 31,
+                                                       2026                    2025
+                                          NOTE      RMB’000             RMB’000
+                                                 (unaudited)           (audited)
+
+  Current liabilities
+  Trade and other payables                 10      1,381,706           1,739,264
+  Contract liabilities                               310,722             249,788
+  Taxation payable                                    18,387                   8,130
+  Lease liabilities                                  472,455             487,688
+                                                   2,183,270           2,484,870
+  Net current assets                               6,458,753           6,178,862
+  Total assets less current liabilities            9,847,837           9,576,039
+  Non-current liabilities
+  Deferred tax liabilities                            33,837               19,656
+  Lease liabilities                                  704,119             654,532
+                                                     737,956             674,188
+  Net assets                                       9,109,881           8,901,851
+
+  Capital and reserves
+  Share capital                                       46,343               46,438
+  Reserves                                         8,966,223           8,740,557
+
+  Equity attributable to owners of the
+    Company                                        9,012,566           8,786,995
+  Non-controlling interests                           97,315             114,856
+  Total equity                                     9,109,881           8,901,851
+
+
+
+
+                                                         2026 Interim Report       9
+INTERIM RESULTS
+CONDENSED CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+FOR THE SIX MONTHS ENDED JUNE 30, 2026
+
+                                                                                                                 Equity attributable to owners of the Company
+                                                                                                                                             Shares held
+                                                                                                                         Property Reserve on under share               Share         Non-                                             Non-
+                                                 Share       Share       Special        Other Revaluation      Merger revaluation instrument      award               award distributable Translation Accumulated               controlling        Total
+                                                capital   premium        reserve      reserve     reserve      reserve    reserve at FVTOCI     scheme               reserve      reserve     reserve       profits       Total   interests       equity
+                                               RMB’000    RMB’000       RMB’000      RMB’000     RMB’000      RMB’000    RMB’000    RMB’000     RMB’000             RMB’000      RMB’000     RMB’000      RMB’000       RMB’000   RMB’000       RMB’000
+                                                                       (note (i))   (note (ii))             (note (iii))                                                      (note (iv))
+
+
+At January 1, 2025 (audited)                     46,438   5,145,233      676,506    (1,484,754)    55,395      29,544        6,381           901      (197,652)       3,491      1,111,583     (11,517)   3,392,936    8,774,485     96,311    8,870,796
+
+
+Fair value loss on investments in equity
+  instrument at fair value through other
+  comprehensive income                                –           –            –             –          –           –            –          (716)               –         –              –           –            –        (716)          –        (716)
+Exchange differences arising on translation
+  of foreign operations                               –           –            –             –          –           –            –             –                –         –              –      (1,626)           –       (1,626)         –       (1,626)
+Profit for the period                                 –           –            –             –          –           –            –             –                –         –              –           –      187,615      187,615     12,491      200,106
+
+
+Total comprehensive (expense) income
+  for the period                                      –           –            –             –          –           –            –          (716)               –         –              –      (1,626)     187,615      185,273     12,491      197,764
+Recognition of equity-settled share-based
+  payments, net of amount lapsed relating
+  to share awards not yet vested                      –           –            –             –          –           –            –             –                –     3,534             –            –            –        3,534          –        3,534
+Release upon deregistration of subsidiaries           –           –            –             –          –           –            –             –                –         –        (5,512)           –        5,512            –          –            –
+Dividend recognised as distribution (Note 6)          –           –            –             –          –           –            –             –                –         –             –            –      (94,736)     (94,736)         –      (94,736)
+Transfer                                              –           –            –             –          –           –            –             –                –         –        14,883            –      (14,883)           –          –            –
+
+
+At June 30, 2025 (unaudited)                     46,438   5,145,233      676,506    (1,484,754)    55,395      29,544        6,381           185      (197,652)       7,025      1,120,954     (13,143)   3,476,444    8,868,556    108,802    8,977,358
+
+
+At January 1, 2026 (audited)                    46,438    5,145,233     676,506 (1,484,754)        55,395      29,544        6,381           185     (184,819)        5,288     1,137,419      (12,174)   3,366,353    8,786,995    114,856    8,901,851
+
+
+Fair value loss on investments in equity
+  instrument at fair value through other
+  comprehensive income                                –           –            –             –          –           –            –           521                –         –              –           –            –         521           –         521
+Exchange differences arising on translation
+  of foreign operations                               –           –            –             –          –           –            –             –                –         –              –        291             –         291           –         291
+Profit for the period                                 –           –            –             –          –           –            –             –                –         –              –          –       243,652     243,652      10,459     254,111
+
+
+Total comprehensive income for the period             –           –            –             –          –           –            –           521                –         –              –        291       243,652     244,464      10,459     254,923
+Recognition of equity-settled share-based
+  payments, net of amount lapsed relating
+  to share awards not yet vested                     –            –            –             –          –           –            –             –                –     3,566             –            –            –        3,566          –        3,566
+Release upon deregistration of subsidiaries          –            –            –             –          –           –            –             –                –         –        (2,246)           –        2,246            –          –            –
+Share repurchased and cancelled                    (95)      (4,340)           –             –          –           –            –             –                –         –             –            –            –       (4,435)         –       (4,435)
+Dividend paid to a non-controlling interest
+  of a subsidiary                                     –           –            –             –          –           –            –             –                –         –             –            –            –           –     (28,000)    (28,000)
+Dividend recognised as distribution (Note 6)          –           –            –             –          –           –            –             –                –         –             –            –      (18,024)    (18,024)          –     (18,024)
+Transfer                                              –           –            –             –          –           –            –             –                –         –        51,479            –      (51,479)          –           –           –
+
+
+At June 30, 2026 (unaudited)                    46,343    5,140,893     676,506 (1,484,754)        55,395      29,544        6,381           706     (184,819)        8,854     1,186,652      (11,883)   3,542,748    9,012,566     97,315    9,109,881
+
+
+
+
+10                 POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+INTERIM RESULTS
+CONDENSED CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+(Continued)
+FOR THE SIX MONTHS ENDED JUNE 30, 2026
+
+
+notes:
+
+
+(i)      The special reserve represents the difference between the nominal value of the share
+         capital issued by the Company and the share premium and the nominal value of the share
+         capital of the subsidiaries comprising the Group prior to the group reorganisation in 2008.
+
+
+(ii)     The other reserve represents the difference between the fair value of the consideration paid
+         or received and the relevant share of carrying value of the subsidiaries’ net assets/liabilities
+         acquired from or disposed of to the non-controlling interests, after re-attribution of relevant
+         reserve.
+
+
+(iii)    The merger reserve represents the difference in the fair value of the consideration paid to
+         the Company’s intermediate holding company, Yue Yuen Industrial (Holdings) Limited (“Yue
+         Yuen”) for the acquisition of subsidiaries controlled by Yue Yuen and the share capital and
+         premium of the acquired subsidiaries.
+
+
+(iv)     According to the relevant laws in the People’s Republic of China (the “PRC”), the
+         subsidiaries of the Company established in the PRC are required to transfer at least 10%
+         of their net profit after taxation, as determined under the PRC accounting regulations, to
+         a non-distributable reserve fund until the reserve balance reaches 50% of their registered
+         capital. The transfer to this reserve must be made before the distribution of a dividend to
+         equity owners. The non-distributable reserve fund can be used to offset the previous years’
+         losses, if any.
+
+
+
+
+                                                                                2026 Interim Report   11
+INTERIM RESULTS
+CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS
+FOR THE SIX MONTHS ENDED JUNE 30, 2026
+
+
+                                                       For the six months ended June 30,
+
+                                                                 2026             2025
+                                                              RMB’000          RMB’000
+                                                          (unaudited)      (unaudited)
+
+  Net cash from operating activities                          945,069          399,258
+  Net cash from (used in) investing activities
+  Placement of bank deposits over three months               (201,158)        (750,108)
+  Payment/deposits paid for acquisition of property,
+     plant and equipment                                      (88,817)        (111,627)
+  Payment for acquisition of intangible assets                  (7,514)          (7,797)
+  Payments for right-of-use assets                              (9,973)          (1,548)
+  Withdrawal of bank deposits over three months               550,111          572,509
+  Refund for rental deposits                                   11,798             2,468
+  Interest received                                            16,626           21,599
+  Proceeds from disposal of property, plant and
+     equipment                                                   3,768             791
+  Purchase of financial assets at fair value through
+     profit or loss                                          (330,000)                –
+  Proceeds from disposal of financial assets at fair
+     value through profit or loss                             271,141                 –
+  Purchases of other financial assets at amortised
+     cost                                                     (99,553)                –
+                                                              116,429         (273,713)
+
+
+
+
+12      POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+INTERIM RESULTS
+CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS (Continued)
+FOR THE SIX MONTHS ENDED JUNE 30, 2026
+
+
+                                                        For the six months ended June 30,
+
+                                                                  2026                    2025
+                                                               RMB’000             RMB’000
+                                                           (unaudited)        (unaudited)
+
+  Net cash used in financing activities
+  Repayments of bank borrowings                               (200,000)            (100,000)
+  Repayments of leases liabilities, including related
+   interests                                                  (322,365)            (371,561)
+  Share repurchased and cancelled                                (4,435)                      –
+  Interest paid on bank borrowings and advances
+   from a related party                                           (852)               (1,523)
+  New bank borrowings raised                                   200,000              252,510
+  Dividends paid                                               (18,024)             (94,736)
+  Dividends paid to a non-controlling interest of a
+   subsidiary                                                  (28,000)                       –
+                                                              (373,676)            (315,310)
+  Net increase (decrease) in cash and cash
+   equivalents                                                 687,822             (189,765)
+
+
+  Cash and cash equivalents at beginning of the
+   period                                                      640,441            1,419,052
+
+
+  Effect of foreign exchange rate changes                         2,038                   2,882
+
+
+  Cash and cash equivalents at end of the period             1,330,301            1,232,169
+
+
+
+
+                                                                    2026 Interim Report      13
+INTERIM RESULTS
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+1.   BASIS OF PREPARATION
+     The condensed consolidated financial statements have been prepared in accordance with
+     Hong Kong Accounting Standard 34 “Interim Financial Reporting” as issued by the Hong
+     Kong Institute of Certified Public Accountants (“HKICPA”) as well as the applicable disclosure
+     requirements of Appendix D2 to the Rules Governing the Listing of Securities on The Stock
+     Exchange of Hong Kong Limited.
+
+
+2.   ACCOUNTING POLICIES
+     The condensed consolidated financial statements have been prepared on the historical
+     cost basis except for certain properties and financial instruments, which are measured at
+     revalued amounts or fair values, as appropriate.
+
+
+     Other than changes in accounting policies resulting from application of amendments to
+     HKFRS Accounting Standards, the accounting policies and methods of computation used in
+     the condensed consolidated financial statements for the six months ended June 30, 2026
+     are the same as those presented in the Group’s annual consolidated financial statements
+     for the year ended December 31, 2025.
+
+
+     Application of amendments to HKFRS Accounting Standards
+     In the current interim period, the Group has applied the following amendments to HKFRS
+     Accounting Standards as issued by the HKICPA, for the first time, which are mandatorily
+     effective for the Group’s annual period beginning on January 1, 2026 for the preparation of
+     the Group’s condensed consolidated financial statements:
+
+
+     Amendments to HKFRS 9 and HKFRS 7             Amendments to the Classification and
+                                                    Measurement of Financial Instruments
+     Amendments to HKFRS 9 and HKFRS 7             Contracts Referencing Nature-dependent
+                                                    Electricity
+     Amendments to HKFRS                           Annual Improvements to HKFRS
+       Accounting Standards                         Accounting Standards – Volume 11
+
+     The application of the amendments to HKFRS Accounting Standards in the current interim
+     period has had no material impact on the Group’s financial position and performance
+     for the current and prior periods and/or on the disclosures set out in these condensed
+     consolidated financial statements.
+
+
+
+
+14    POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+INTERIM RESULTS
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Continued)
+3.   REVENUE AND SEGMENTAL INFORMATION
+     The Group is principally engaged in the distribution and retailing of sportswear and footwear
+     products and provision of large scale commercial spaces to retailers and distributors for
+     commissions from concessionaire sales. The Group’s results and revenue are reported as
+     a whole on a regular basis to the chief operating decision maker, being the executive
+     directors of the Company, for the purposes of performance assessment and resource
+     allocation.
+
+
+     The following is an analysis of the Group’s revenue recognised at a point in time:
+
+
+                                                             For the six months ended June 30,
+
+                                                                         2026                    2025
+                                                                     RMB’000               RMB’000
+                                                                 (unaudited)          (unaudited)
+
+      Sales of sportswear and footwear products                     8,915,555             9,105,516
+      Commissions from concessionaire sales                            49,030                   53,909
+
+                                                                    8,964,585             9,159,425
+
+
+4.   INCOME TAX EXPENSE
+                                                             For the six months ended June 30,
+
+                                                                         2026                    2025
+                                                                     RMB’000               RMB’000
+                                                                 (unaudited)          (unaudited)
+
+      PRC Enterprise Income Tax
+         – Current period                                              88,506              121,652
+         – Overprovision in prior periods                             (16,193)             (24,819)
+      Withholding tax on dividend                                            –                  15,000
+
+      Current tax charge – total                                       72,313              111,833
+      Deferred tax charge (credit)                                     19,269              (36,835)
+
+                                                                       91,582                   74,998
+
+
+
+
+                                                                          2026 Interim Report       15
+INTERIM RESULTS
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Continued)
+5.   FINANCE COSTS/PROFIT FOR THE PERIOD
+                                                             For the six months ended June 30,
+
+                                                                       2026              2025
+                                                                    RMB’000           RMB’000
+                                                                (unaudited)       (unaudited)
+
+      (a) Finance costs
+
+
+           Interest expenses on bank borrowings                         797              1,482
+           Interest expenses on advances from a related
+             party                                                        43                47
+           Interest expenses on lease liabilities                     21,073            26,562
+                                                                      21,913            28,091
+
+      (b) Profit for the period
+
+
+           Profit for the period has been arrived at after
+             charging (crediting):
+
+
+           Total staff costs (included in selling and
+             distribution expenses and administrative
+             expenses)                                              969,637          1,053,815
+           Depreciation of right-of-use assets                      309,212            337,733
+           Depreciation of property, plant and equipment            140,624            153,813
+           Net changes in allowance for inventories
+             (included in cost of sales)                                160             18,754
+           Amortisation of intangible assets (included in
+             selling and distribution expenses)                        7,710             6,856
+           Gross rental income from investment properties,
+             net of direct expenses                                   (2,691)           (2,760)
+           Subsidy income from government (included in
+             other operating income and gains (losses))              (14,154)          (25,837)
+           Loss on disposal/written off of property, plant
+             and equipment (included in other operating
+             income and gains (losses))                                6,304             6,450
+           Impairment losses reversal on trade and other
+             receivables, net (included in other operating
+             income and gains (losses))                               (1,735)           (4,403)
+
+
+
+16   POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+INTERIM RESULTS
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Continued)
+5.   FINANCE COSTS/PROFIT FOR THE PERIOD (Continued)
+     (b)     Profit for the period (Continued)
+             For the six months ended June 30, 2026 and 2025, cost of inventories recognised as
+             an expense represents cost of sales as shown in the condensed consolidated income
+             statement.
+
+
+6.   DIVIDENDS
+                                                           For the six months ended June 30,
+
+                                                                      2026                     2025
+                                                                   RMB’000              RMB’000
+                                                               (unaudited)          (unaudited)
+
+      Dividends recognised as distribution during the
+           period:
+
+
+      2025 final dividend of HK$0.002 per share
+           (six months ended June 30, 2025:
+           2024 final dividend of HK$0.01 per share)                  9,012                   47,368
+
+
+      2025 special dividend of HK$0.002 per share
+           (six months ended June 30, 2025:
+           2024 special dividend of HK$0.01 per share)                9,012                   47,368
+
+                                                                     18,024                   94,736
+
+
+     Subsequent to the end of the current interim period, the Directors have determined
+     that an interim dividend of HK$0.016 per ordinary share of the Company (the “Share”)
+     and a special dividend of HK$0.016 per Share (six months ended June 30, 2025: interim
+     dividend of HK$0.0115 per Share and special dividend of HK$0.0115 per Share) amounting
+     to approximately HK$170,096,000 (six months ended June 30, 2025: HK$122,502,000) in
+     aggregate will be paid to the holders of the Shares (the “Shareholders”) whose names
+     appear in the register of members of the Company (the “Register of Members”) on
+     Wednesday, September 16, 2026.
+
+
+
+
+                                                                        2026 Interim Report       17
+INTERIM RESULTS
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Continued)
+7.   EARNINGS PER SHARE
+     The calculation of the basic and diluted earnings per share attributable to owners of the
+     Company is based on the following data:
+
+
+                                                              For the six months ended June 30,
+
+                                                                        2026              2025
+                                                                     RMB’000           RMB’000
+                                                                 (unaudited)       (unaudited)
+
+      Earnings:
+
+
+      Earnings for the period attributable to owners of the
+        Company for the purposes of basic and diluted
+        earnings per share                                           243,652            187,615
+
+
+                                                              For the six months ended June 30,
+
+                                                                        2026              2025
+                                                                 (unaudited)       (unaudited)
+
+      Number of shares:
+
+
+      Weighted average number of ordinary shares for
+        the purpose of basic earnings per share                 5,184,724,701     5,183,714,855
+
+
+      Effect of dilutive potential ordinary shares:
+        – Unvested awarded shares                                  20,063,828        11,983,003
+
+      Weighted average number of ordinary shares for
+        the purpose of diluted earnings per share               5,204,788,529     5,195,697,858
+
+
+     The weighted average number of ordinary shares shown above has been arrived at after
+     deducting the shares held by the trustee of the share award scheme of the Company.
+
+
+
+
+18   POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+INTERIM RESULTS
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Continued)
+8.   PROPERTY, PLANT AND EQUIPMENT, RIGHT-OF-USE ASSETS AND INTANGIBLE ASSETS
+     During the current interim period, the Group acquired property, plant and equipment of
+     RMB66,579,000 (six months ended June 30, 2025: RMB97,796,000).
+
+
+     During the current interim period, the Group has disposed of/written off certain property,
+     plant and equipment with an aggregate carrying amount of RMB10,072,000 (six months
+     ended June 30, 2025: RMB7,241,000) for cash proceeds of RMB3,768,000 (six months ended
+     June 30, 2025: RMB791,000), resulting in a loss on disposal/written off of RMB6,304,000 (six
+     months ended June 30, 2025: RMB6,450,000).
+
+
+     During the current interim period, the Group entered into several new lease agreements for
+     the use of retail stores with lease terms generally between 1 to 5 years (six months ended
+     June 30, 2025: 1 to 6 years). Some of the leases in which the Group is the lessee contain
+     variable lease payments terms that are linked to sales generated from retail stores. The
+     Group recognised right-of-use assets resulting from new leases and lease modifications
+     amounting to RMB266,191,000 and RMB225,684,000, respectively (six months ended June
+     30, 2025: RMB157,629,000 and RMB76,218,000, respectively). The Group derecognised the
+     right-of-use assets resulting from lease modifications amounting to RMB146,256,000 (six
+     months ended June 30, 2025: RMB56,738,000).
+
+
+     At the end of the current interim period, capital expenditure in respect of acquisition
+     of property, plant and equipment contracted for but not provided in the condensed
+     consolidated financial statements as was RMB17,267,000 (December 31, 2025:
+     RMB13,310,000), and the Group entered into new leases for several retail stores that have
+     not yet commenced, with an average non-cancellable period ranging from 1 to 5 years
+     (December 31, 2025: 1 to 3 years), the total future undiscounted cash flows over the
+     non-cancellable period amounted to RMB21,771,000 (December 31, 2025: RMB11,871,000).
+
+
+     During the current interim period, the Group incurred RMB7,514,000 (six months ended June
+     30, 2025: RMB7,797,000) for computer software recorded under intangible assets.
+
+
+
+
+                                                                         2026 Interim Report   19
+INTERIM RESULTS
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Continued)
+9.    TRADE AND OTHER RECEIVABLES
+      The Group generally allows credit periods of 30 days to 60 days which are agreed with each
+      of its trade customers. The aged analysis of the Group’s trade receivables, net of allowance
+      for doubtful debts, presented based on the invoice date at the end of the reporting period,
+      which approximated the respective revenue recognition dates, is as follows:
+
+
+                                                                           At                 At
+                                                                     June 30,       December 31,
+                                                                        2026                2025
+                                                                     RMB’000            RMB’000
+                                                                 (unaudited)           (audited)
+
+        0 – 30 days                                                  935,166             807,770
+        31 – 90 days                                                   17,336              7,911
+        Over 90 days                                                      630                  –
+
+                                                                     953,132             815,681
+
+
+10.   TRADE AND OTHER PAYABLES
+      The aged analysis of the Group’s trade payables, presented based on the invoice date at
+      the end of the reporting period, is as follows:
+
+
+                                                                           At                 At
+                                                                     June 30,       December 31,
+                                                                        2026                2025
+                                                                     RMB’000            RMB’000
+                                                                 (unaudited)           (audited)
+
+        0 – 30 days                                                  213,958             517,127
+        31 – 90 days                                                        –              3,577
+        Over 90 days                                                        –              7,199
+
+                                                                     213,958             527,903
+
+
+
+
+20     POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+INTERIM RESULTS
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Continued)
+11.   SHARE AWARD SCHEME
+      The Company’s share award scheme was adopted pursuant to a board resolution passed
+      on May 9, 2014, duly amended on November 11, 2016, and further amended and restated
+      on November 13, 2023. Movements in the number of share awards outstanding are as
+      follows:
+
+
+                                                                 Number of share awards
+
+                                                                        2026                   2025
+
+        As at January 1, (audited)                                33,930,000           22,080,000
+        Vested                                                             –                      –
+        Lapsed                                                             –           (2,880,000)
+        Cancelled                                                          –                      –
+
+        As at June 30, (unaudited)                                33,930,000           19,200,000
+
+
+      A total of 133,214,760 ordinary shares of the Company were held by the trustee of the share
+      award scheme as at June 30, 2026 (December 31, 2025: 133,214,760 ordinary shares).
+
+
+
+
+                                                                         2026 Interim Report     21
+INTERIM RESULTS
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Continued)
+12.   FAIR VALUE MEASUREMENTS OF FINANCIAL INSTRUMENTS
+      Set out below is the information about how the fair values of the Group’s financial assets
+      that are measured at fair value are determined, including the valuation techniques and
+      inputs used:
+
+
+                                                               Fair value as at
+
+                                                             June 30, December 31,       Fair value
+                                                                2026              2025   hierarchy
+                                                             RMB’000         RMB’000
+                                                          (unaudited)       (audited)
+
+        Financial assets at fair value through
+          profit or loss
+
+
+        Unlisted investment funds (note)                      280,825         220,581      Level 2
+
+
+      note:
+
+
+      The fair values of unlisted investment funds are determined with reference to prices provided
+      by the respective issuing financial institutions.
+
+
+      Except as described above, the Directors consider that the carrying amounts of the
+      financial assets and financial liabilities recognised in the condensed consolidated financial
+      statements approximate their fair values at the end of the reporting period. There were no
+      transfers between level 1 and 2 during the period.
+
+
+
+
+22     POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+INTERIM RESULTS
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Continued)
+13.   RELATED PARTY DISCLOSURES
+      Transactions and balances
+      The Group had the following significant related party transactions and balances:
+
+                                                                         For the six months ended June 30,
+                                                                                  2026              2025
+       Relationship                    Nature of transactions                  RMB’000           RMB’000
+                                                                            (unaudited)       (unaudited)
+       Intermediate holding
+          company:
+       Yue Yuen and its subsidiaries   Operating lease payment paid
+                                        by the Group                                 545                 570
+                                       Management fees charged
+                                        to the Group                               1,429                2,481
+
+       Non-controlling interest of     Sales of sportswear products by
+         a subsidiary                     the Group                              12,570                16,421
+                                       Commission from concessionaire
+                                          sales by the Group                         372                 435
+                                       Other operating income received
+                                          by the Group                               125                 157
+                                       Interest expense charged to the
+                                          Group                                       43                  47
+
+
+                                                                                     At               At
+                                                                               June 30,     December 31,
+                                                                                  2026             2025
+       Relationship                    Nature of balances                      RMB’000          RMB’000
+                                                                            (unaudited)        (audited)
+       Intermediate holding
+          company:
+       Yue Yuen and its subsidiaries   Other payables of the Group                1,491                1,535
+
+       Non-controlling interest of     Trade receivable of the Group                  –                2,794
+        a subsidiary                   Other payables of the Group                2,800                2,800
+
+
+
+
+                                                                                 2026 Interim Report       23
+MANAGEMENT DISCUSSION AND ANALYSIS
+BUSINESS REVIEW
+Business Environment
+     In the six months ended June 30, 2026 (the “Period”), mainland China’s retail
+landscape remained dynamic and ever-evolving, with diversified and segmented
+demand firmly established in the mainstream. While the drop in offline foot traffic
+narrowed, consumers remained cautious and more inclined to spend on products
+and services that offer emotional value. At the same time, the continuous integration
+of artificial intelligence (“AI”) is helping retailers gain more precise insights into target
+customers, enabling them to optimise products and service experiences to meet rising
+expectations for efficiency and convenience. Meanwhile, in April 2026, mainland China’s
+Rules on Pricing Practices for Internet Platforms came into effect, regulating pricing
+competition mechanisms on e-commerce platforms and steering the industry back onto
+a sound path that prioritises efficiency and profitability.
+
+
+     In response to these market conditions and in active support of relevant policies,
+the Group continued to strengthen its cross-channel capabilities by maintaining a high
+degree of agility and flexibility in decision-making. Meanwhile, it implemented rigorous
+inventory management, optimised its inventory mix, strictly controlled discounting to
+improve sales quality and leveraged its restructuring strategy to enhance synergies, all of
+which drove a solid improvement in the Group’s profitability.
+
+
+     At the same time, the Group experienced improved conversion rates within its directly
+operated brick-and-mortar (“B&M”) network and enhanced in-season full-price sales. This
+was achieved by dynamically managing its store portfolio and enhancing productivity
+and operational efficiency at key stores, while deepening engagement with consumers
+and the services provided to them. The Group also prioritised healthier and balanced
+sales, strengthened its membership programmes and inventory integration, and
+broadened its appeal to a wider consumer base.
+
+
+
+
+24      POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+MANAGEMENT DISCUSSION AND ANALYSIS
+BUSINESS REVIEW (Continued)
+Hybrid Channel Management – B&M
+  During the Period, the Group’s B&M retail channels saw more resilient sales
+momentum, with the decline in foot traffic narrowing markedly despite ongoing changes
+in the market environment. The Group continued to develop its multi-brand outlet
+stores network and diversify its geographic footprint with sub-distributors to deepen its
+penetration and reach in lower-tier cities, achieving a more balanced sales distribution
+across different city tiers. However, footfall in lower‑tier cities remained more volatile,
+weighing on the performance of sub‑distributor channels relative to the Group’s directly
+operated stores.
+
+
+  The Group continued to progress its retail refinement strategy by selectively
+rightsizing or upgrading stores, improving cost competitiveness, and boosting store-level
+productivity. It continued to adopt a holistic view towards new store openings, including
+for its existing brand portfolio and new brands, optimising total investment returns by
+prioritising geographic regions and store formats with high potential. New stores were
+only opened following thorough assessments that prioritise margins and business quality.
+As of June 30, 2026, the Group directly operated 3,110 stores across the Greater China
+region.
+
+
+  Movement of directly operated stores during the six months ended:
+
+
+                                                               June 30,            June 30,
+                                                                   2026                   2025
+
+At the beginning of the Period                                    3,310                   3,448
+Net decrease                                                       (200)                   (40)
+At the end of the Period                                          3,110                   3,408
+
+
+
+
+                                                                    2026 Interim Report      25
+MANAGEMENT DISCUSSION AND ANALYSIS
+BUSINESS REVIEW (Continued)
+Hybrid Channel Management – B&M (Continued)
+     B&M retail channels remain a critical and irreplaceable sales touchpoint for
+consumers in the Greater China region who want to discover must-have in-season new
+sports products that are both trendy and functional, while pursuing unique, personalised
+and seamless shopping experiences. Amid the current dynamic consumer backdrop,
+the Group continued to optimise its store formats and enhance its digital capabilities by
+integrating its B&M network, highly-integrated membership programmes and other digital
+services and tools into its B&M network, which, combined with cross-channel capabilities,
+further enriched the consumer experience. During the Period, the Group also further
+expanded its self-owned “YYQUALITY” – a multi-brand outlet store concept, offering
+consumers high-quality merchandise at great value, along with a one-stop diverse
+shopping experience. It also continued to conduct a review of regional operational
+structures and develop efficiency enhancement projects to optimise store entry and
+transaction rates, repeat purchases and higher-margin in-season sales within its offline
+network.
+
+
+Hybrid Channel Management – Online channels
+     During the Period, the Group further strengthened its digital capabilities by leveraging
+a differentiated and multi-faceted operation matrix to deepen its engagement with
+diverse shopping groups, while enhancing operational efficiency. The Group operates
+three broad categories of online channels: private domain WeChat stores, live-streaming
+e-commerce and shelf-based e-commerce such as Tmall, JD and Vipshop. The Group’s
+digital sales momentum remained resilient, led by its online multi-channel footprint and
+live-streaming e-commerce, supporting effective inventory management.
+
+
+     The Group consolidated its multiple regional WeChat stores into a single national store
+to drive greater efficiency. At the same time, the Group leveraged new AI technology
+to drive cost reduction and efficiency gains, while enriching its shelf-based e-commerce
+content. The Group also heightened the traffic efficiency of its Douyin live-streams
+conducted by designated Key Opinion Staff and influencers, fully integrating its inventory
+across mainland China to achieve higher-quality sales and encourage more repeat
+purchases. It also continued to support conversion rates by embedding value-added
+services, diverse content, and member-exclusive benefits into its online channels, while
+providing quality, personalised and comprehensive customer service with a human
+touch.
+
+26       POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+MANAGEMENT DISCUSSION AND ANALYSIS
+BUSINESS REVIEW (Continued)
+Enhanced Strategic Alliances with Business Partners
+  The Group continued to deepen its strategic partnerships with its business partners
+to provide an impeccable and diverse shopping experience and strengthen consumer
+connectivity. To strengthen its connected digital membership programmes across the
+Greater China region, the Group leveraged AI to gain deeper insights into member
+profiles and needs, seize current consumer opportunities and build predictive-trend
+capabilities to develop diversified content, interactive features and other related services,
+while supporting in-depth membership management and providing a premium and
+seamless online and offline consumer experience. The Group also further supported
+membership growth and increased in-season sell-through by strengthening the
+integration of its membership programmes with that of its brand partners.
+
+
+  Moreover, the Group continued to reinforce its product-sharing platform (“PSP”) and
+further improve its efficiency in product allocation and logistics management. It also
+expanded its connected inventory programme with brand partners to efficiently share
+products and services across different platforms and channels, optimising its inventory
+mix and accelerating sales cycles.
+
+
+Strengthened Operational Excellence with Digital Transformation
+  During the Period, the Group advanced its digital transformation agenda by
+deepening the integration and upgrade of its SAP system. Leveraging its multi-functional
+modules, the Group integrated and optimised its business and finance functions, while
+improving the efficiency of strategic decision-making at the management level. Through
+its further-upgraded and fully integrated business intelligence platform, the Group is
+able to monitor all of its operations through digital cloud-based financial dashboards
+with enhanced efficiency. It is continuing to optimise other digital tools and dashboards
+to drive its retail excellence, particularly in areas such as real-time in-store efficiency,
+resource optimisation and membership services through digital empowerment.
+
+
+
+
+                                                                      2026 Interim Report   27
+MANAGEMENT DISCUSSION AND ANALYSIS
+PERFORMANCE ANALYSIS
+Financial Review
+     During the Period, the Group recorded revenue of RMB8,964.6 million, maintaining
+solid revenue scale. Gross profit was RMB3,042.5 million, representing a decrease of
+0.9% when compared to the same period of last year. Profit attributable to owners of the
+Company for the Period increased by 29.9% to RMB243.7 million, supported by effective
+inventory ageing optimisation, stringent discount management and synergies achieved
+following its organisational restructure.
+
+
+Revenue
+     During the Period, the Group’s total revenue decreased by 2.1% to RMB8,964.6
+million, with the revenue decline narrowing year-on-year due to the Group’s continuous
+enhancement of its operational efficiency and strategic dynamic inventory management,
+as well as the establishment of fully integrated, one-stop operations. Meanwhile, the
+Group’s direct retail channels performing better than its sub-distributor channels.
+
+
+Gross Profit
+     The Group’s gross profit during the Period amounted to RMB3,042.5 million. The
+Group’s gross profit margin increased by 0.4 percentage points, supported by effective
+inventory ageing optimisation and stringent discount management.
+
+
+Selling & Distribution Expenses and Administrative Expenses
+     The Group’s selling and distribution expenses during the Period were RMB2,416.4
+million (first half of 2025: RMB2,508.4 million), accounting for 27.0% of the Group’s
+revenue (first half of 2025: 27.4%). Selling and distribution expenses primarily include
+concessionaire fees, depreciation of right-of-use assets in relation to stores, sales
+personnel salaries and commissions, other depreciation and amortisation charges, and
+other expenses that mainly include store operation expenses, property management
+fees, logistics expenses and other expenses.
+
+
+
+
+28      POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+MANAGEMENT DISCUSSION AND ANALYSIS
+PERFORMANCE ANALYSIS (Continued)
+Selling & Distribution Expenses and Administrative Expenses (Continued)
+   In line with the Group’s restructuring strategy and active expense management,
+administrative expenses during the Period decreased by 7.6% year-on-year to RMB352.8
+million (first half of 2025: RMB381.9 million), accounting for 3.9% of the Group’s revenue
+(first half of 2025: 4.2%). Administrative expenses primarily include management and
+administrative personnel salaries, depreciation and amortisation charges and other
+expenses.
+
+
+   The Group’s selling and distribution expenses and administrative expenses during the
+Period were RMB2,769.2 million, a decrease of 4.2% year-on-year. This was equivalent to
+30.9% of total revenue, with the savings accruing from the active management of rentals
+and people efficiency.
+
+
+Operating Profit
+   The Group’s operating profit during the Period was RMB348.0 million, an increase
+of 23.6%. The operating margin was 3.9%, an increase of 0.8 percentage points
+year-on-year, supported by synergies achieved following the Group’s organisational
+restructure.
+
+
+Finance Income and Finance Costs
+   Finance income during the Period was RMB18.3 million, compared to RMB21.6 million
+in the first half of 2025. Finance costs during the Period decreased by 22.0% to RMB21.9
+million, compared to RMB28.1 million in the first half of 2025. This reduction was mainly
+attributed to a decrease in interest expenses on lease liabilities.
+
+
+Profit for the Period
+   During the Period, the Group recorded a net profit of RMB254.1 million, representing
+an increase of 27.0% year-on-year. Profit attributable to owners of the Company was
+RMB243.7 million, representing an increase of 29.9% year-on-year. The margin of profit
+attributable to owners of the Company was 2.7%, representing an increase of 0.7
+percentage points year-on-year.
+
+
+
+
+                                                                      2026 Interim Report   29
+MANAGEMENT DISCUSSION AND ANALYSIS
+PERFORMANCE ANALYSIS (Continued)
+Working Capital Efficiency
+     The average inventory turnover period for the Period was 148 days (first half of 2025:
+146 days). At the end of the Period, inventory aged over 12 months represented less
+than 9% of total inventory, reflecting the Group’s successful efforts to maintain healthy
+inventory levels and enhance inventory efficiency. The balance of inventory as at
+June 30, 2026 was RMB4,668.3 million (December 31, 2025: RMB5,020.1 million). The
+average trade receivables turnover period was 18 days (first half of 2025: 19 days),
+which remained consistent with the credit terms of 30 to 60 days that the Group gives its
+department store counters and retail distributors. The average trade payables turnover
+period during the Period was 11 days (first half of 2025: 25 days).
+
+
+Liquidity and Financial Resources
+     As at June 30, 2026, the Group maintained a strong financial position, with bank
+balances and cash (which consist of bank deposits over three months and cash and
+cash equivalents) amounting to RMB2,161.6 million (December 31, 2025: RMB1,821.9
+million) while working capital (current assets minus current liabilities) was RMB6,458.8
+million (December 31, 2025: RMB6,178.9 million). As at June 30, 2026, the Group had
+no bank borrowings (December 31, 2025: nil). Bank balances and cash and bank
+borrowings were mainly denominated in Renminbi.
+
+
+     The Group’s gearing ratio as at June 30, 2026, represented by total interest-bearing
+borrowings (excluding lease liabilities) as a percentage of total equity, was nil (December
+31, 2025: nil). The Group maintained a solid net cash position (bank balances and cash
+minus bank borrowings) of RMB2,161.6 million (December 31, 2025: RMB1,821.9 million).
+
+
+     The net cash generated from operating activities during the Period was RMB945.1
+million. The Group believes its liquidity requirements will continue to be satisfied by the
+combination of capital generated from operating activities and future bank borrowings.
+The net cash generated from investing activities during the Period was RMB116.4 million,
+while the net cash used in financing activities was RMB373.7 million.
+
+
+
+
+30      POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+MANAGEMENT DISCUSSION AND ANALYSIS
+PERFORMANCE ANALYSIS (Continued)
+Capital Expenditure
+  The Group maintained its selective and prudent approach to capital expenditure
+planning, which covers: the strategic opening of new stores; the ongoing upgrade of
+experience-driven B&M stores that offer a better shopping experience; store productivity
+improvements; and the further roll-out of its long-term digital transformation strategy,
+namely the optimisation of its SAP ERP system. Total capital expenditure during the Period
+decreased to RMB96.3 million (first half of 2025: RMB119.4 million). As at June 30, 2026,
+the Group had no material contingent liabilities.
+
+
+  As at June 30, 2026, capital expenditure in respect of the acquisition of property, plant
+and equipment contracted for but not provided in the consolidated financial statements
+was RMB17.3 million (December 31, 2025: RMB13.3 million). The Group also entered
+into new leases for several retail stores that have not yet commenced, with an average
+non-cancellable period ranging from 1 to 5 years (December 31, 2025: 1 to 3 years), with
+the total future undiscounted cash flows over the non-cancellable period amounting to
+RMB21.8 million (December 31, 2025: RMB11.9 million).
+
+
+Foreign Exchange
+  The Group conducts its business primarily in the Greater China region and the majority
+of its transactions are denominated in Renminbi. As at June 30, 2026, the Group had
+no hedging financial instruments for managing its foreign exchange exposure. As the
+exchange rate of the Renminbi against foreign currencies may fluctuate, the Group may
+enter into forward contracts, currency swaps or options to hedge against currency risks
+arising from foreign currency transactions when necessary.
+
+
+  The Group has a dedicated treasury division and internal treasury policies and
+approval guidelines to manage and control its exposure to financial derivatives-related
+risk. The use of financial derivatives and approval procedures were in accordance with
+the Group’s internal policies and guidelines.
+
+
+
+
+                                                                    2026 Interim Report   31
+MANAGEMENT DISCUSSION AND ANALYSIS
+PROSPECTS AND FUTURE DEVELOPMENTS
+     Supported by recent global sporting events, footwear and apparel retailers
+outperformed the broader retail market, with sales growth in the segment outpacing the
+overall growth of total retail sales of consumer goods in the first half of 2026, according
+to the National Bureau of Statistics of China. As it continues to adapt to the dynamic
+and ever-evolving retail landscape, the Group remains focused on improving sales
+quality while advancing operational excellence and its digital transformation strategy.
+Key priorities include enhancing its business portfolio, diversifying its channel mix,
+boosting operational efficiency, upholding its strategic approach to dynamic inventory
+management, and enforcing stringent expense control. With segmented markets and
+lower-tier markets penetration emerging as important growth drivers, the Group will
+continue to adopt a holistic approach to resource allocation to capture opportunities,
+mitigate challenges and strengthen its competitive advantages as it progresses toward
+becoming an efficient, fully integrated one stop operation.
+
+
+     Within its B&M retail channels, the Group will continue to advance its retail refinement
+strategy and strengthen offline-online integration to deliver digitally enhanced in‑store
+experiences, while remaining closely aligned with market trends, broadening its presence
+across a wider range of sports categories and adopting more innovative retail formats.
+This includes accelerating its capture of the fast-growing segmented market – through
+Dynafit in the outdoor segment, Pony 1972 in the casual outdoor segment and XEXYMIX
+in the yoga market – using its directly operated online stores network, while further
+bolstering its footprint in online channels, as well as the launch of themed multi-brand
+stores. The Group will also continue to strategically develop its self‑owned multi‑brand
+YYQUALITY outlets as both an efficient inventory‑clearance channel and an incubation
+platform for emerging brands, while offering consumers high-quality merchandise at
+exceptional value. The Group will also continue working with franchise partners to
+deepen its penetration and reach in lower-tier cities.
+
+
+
+
+32      POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+MANAGEMENT DISCUSSION AND ANALYSIS
+PROSPECTS AND FUTURE DEVELOPMENTS (Continued)
+   Within its online channels, the Group will build on the efficiencies gained from the
+consolidation of its regional WeChat stores. It will further strengthen the operational
+structure of its Douyin livestreaming teams, continuously leverage AI to enhance its
+operational capabilities and efficiency and attract targeted traffic at more competitive
+costs. The Group will also continue to further integrate inventory within its Douyin
+livestreams, introduce more enhancements to its online multi-channel footprint, and
+refine product selection and stock planning to accelerate the time to market for new
+products. It will also pursue a multifaceted approach, such as advancing Xiaohongshu
+grass‑planting, content‑driven e‑commerce initiatives and in‑house livestreaming and
+more closely linking its offline presence with the online community to further improve
+online profitability. The Group will also continue to capture opportunities arising from
+instant retail through intelligent product-to-store matching to support faster fulfilment and
+more efficient delivery.
+
+
+   The Group will continue to strengthen its strategic partnerships with business
+associates, broaden its collaborations in inventory sharing and mutually-connected
+membership programmes, which enable consumers to enjoy the same premium,
+member-exclusive products, offers and experiences found in the directly operated stores
+of these brands in the Greater China region, driving high-quality growth.
+
+
+   Simultaneously, the Group will continue to advance the integration and optimisation
+of its SAP system by leveraging its multi-functional modular capabilities and integrated
+business and financial operations to enable efficient decision-making. The Group will
+also leverage its upgraded business intelligence platforms to enable the real-time
+monitoring of its overall operations through cloud-based financial dashboards and other
+digital empowerment tools. Furthermore, the Group will continue to reinforce its in-season
+sell-through, off-season clearance and solid margins through its PSP, while pursuing a
+more agile procurement strategy and inventory management.
+
+
+
+
+                                                                      2026 Interim Report   33
+MANAGEMENT DISCUSSION AND ANALYSIS
+PROSPECTS AND FUTURE DEVELOPMENTS (Continued)
+     Despite the near-term challenges and uncertainties, the prospects for the sports
+industry in the Greater China region remain bright, supported by the ongoing
+commitment of mainland Chinese authorities to high-quality sports development and
+with the industry’s projected expansion to over RMB7 trillion in value in 2030. Sportswear
+consumption growth will be further supported by the recent FIFA World Cup, and the
+upcoming 2027 FIFA Women’s World Cup and 2028 Summer Olympic Games. These
+trends will continue to underpin the Group’s sustainable growth momentum and
+strengthen its long-term operating performance, while safeguarding its dividend paying
+capacity.
+
+
+HUMAN RESOURCES
+     As at June 30, 2026, the Group had approximately 17,300 employees in total. The
+Group provides competitive remuneration packages that are determined with reference
+to prevailing salary levels in the market and individual performance. The Company offers
+share awards to eligible employees in order to provide them with incentives and to
+recognise their contributions and ongoing efforts. In addition, the Group provides other
+fringe benefits, such as social insurance, mandatory provident funds, medical coverage
+and training programmes for employees based on their respective personal career
+development.
+
+
+
+
+34      POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+OTHER INFORMATION
+INTERIM DIVIDEND AND SPECIAL DIVIDEND
+   The Board has resolved to declare an interim dividend of HK$0.016 in cash per
+Share for the six months ended June 30, 2026 (six months ended June 30, 2025: interim
+dividend of HK$0.0115 per Share). In addition to the interim dividend, to reward the
+Shareholders’ continued support, the Board has resolved to declare a special dividend
+of HK$0.016 in cash per Share (six months ended June 30, 2025: special dividend of
+HK$0.0115 per Share), bringing the total dividends declared for the Period to HK$0.032
+per Share, representing a payout ratio of 60%. The interim dividend and special dividend
+will be paid on Friday, October 9, 2026 to the Shareholders whose names appear on the
+Register of Members on Wednesday, September 16, 2026.
+
+
+CLOSURE OF REGISTER OF MEMBERS
+   The Register of Members will be closed from Wednesday, September 16, 2026 to Friday,
+September 18, 2026, both days inclusive, during which period no transfer of Shares will
+be effected. In order to qualify for the interim dividend and special dividend, all transfer
+documents accompanied by the relevant share certificates must be lodged with the
+Company’s branch share registrar and transfer office in Hong Kong, Computershare
+Hong Kong Investor Services Limited at Shops 1712-1716, 17th Floor, Hopewell Centre,
+183 Queen’s Road East, Wanchai, Hong Kong for registration no later than 4:30 p.m. on
+Tuesday, September 15, 2026. The record date for entitlement to the interim dividend and
+special dividend will be Wednesday, September 16, 2026.
+
+
+DIRECTORS’ AND CHIEF EXECUTIVE’S INTERESTS AND SHORT POSITIONS
+IN SHARES, UNDERLYING SHARES AND DEBENTURES
+   As at June 30, 2026, the interests or short positions of the Directors and chief
+executive of the Company (the “Chief Executive”) in the shares, underlying shares and
+debentures of the Company and its associated corporations (within the meaning of Part
+XV of the Securities and Futures Ordinance (Chapter 571 of the Laws of Hong Kong)
+(the “SFO”)) (a) as required to be notified to the Company and The Stock Exchange
+of Hong Kong Limited (the “Stock Exchange”) pursuant to Divisions 7 and 8 of Part XV
+of the SFO (including interests or short positions which they were taken or deemed to
+have under such provisions of the SFO); or (b) as recorded in the register required to be
+kept by the Company pursuant to Section 352 of the SFO; or (c) as otherwise notified
+to the Company and the Stock Exchange pursuant to the Model Code for Securities
+Transactions by Directors of Listed Issuers (the “Model Code”) contained in Appendix
+C3 to the Rules Governing the Listing of Securities on the Stock Exchange (the “Listing
+Rules”), were as follows:
+
+
+                                                                     2026 Interim Report   35
+OTHER INFORMATION
+DIRECTORS’ AND CHIEF EXECUTIVE’S INTERESTS AND SHORT POSITIONS
+IN SHARES, UNDERLYING SHARES AND DEBENTURES (Continued)
+Long Positions in shares and underlying shares
+(a)   The Company
+      Ordinary shares of HK$0.01 each of the Company
+
+                                                              Number of Shares/underlying Shares held
+                                                                                                                      Percentage
+                                                  Personal          Family    Corporate       Other                  of the issued
+      Name of Directors      Capacity             interests       interests    interests   interests         Total         Shares1
+
+
+      Chiu, Hui-Yao          Beneficial owner    1,200,0002              –            –           –      1,200,000         0.02%
+      Tsai Patty, Pei Chun   Beneficial owner   19,523,000               –            –           –     19,523,000         0.37%
+      Chang Su-Ching         Beneficial owner    2,647,0003              –            –           –      2,647,000         0.05%
+      Chen, Li-Chieh         Beneficial owner      700,0004              –            –           –        700,000         0.01%
+
+      notes:
+
+
+      1
+                The total number of issued Shares of the Company as at June 30, 2026 was
+                5,315,514,615.
+
+
+      2
+                Included interests in 1,200,000 awarded Shares granted under the share award
+                scheme of the Company (the “Share Award Scheme”), which are subject to certain
+                vesting conditions and remain unvested as at June 30, 2026. Details of the award
+                Shares are set out in the section “Share Award Scheme”.
+
+
+      3
+                Included interests in 1,400,000 awarded Shares granted under the Share Award
+                Scheme, which are subject to certain vesting conditions and remain unvested as at
+                June 30, 2026. Details of the awarded Shares are set out in the section “Share Award
+                Scheme”.
+
+
+      4
+                Included interests in 700,000 awarded Shares granted under the Share Award
+                Scheme, which are subject to certain vesting conditions and remain unvested as at
+                June 30, 2026. Details of the awarded Shares are set out in the section “Share Award
+                Scheme”.
+
+
+
+
+36        POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+OTHER INFORMATION
+DIRECTORS’ AND CHIEF EXECUTIVE’S INTERESTS AND SHORT POSITIONS
+IN SHARES, UNDERLYING SHARES AND DEBENTURES (Continued)
+Long Positions in shares and underlying shares (Continued)
+(b)   Associated Corporation – Yue Yuen
+      Ordinary shares of HK$0.25 each of Yue Yuen
+
+                                                                                                                 Percentage
+                                                            Number of shares/underlying shares held
+                                                                                                                of the issued
+                                             Personal            Family    Corporate        Other                    shares of
+      Name of Directors   Capacity           interests         interests    interests    interests      Total        Yue Yuen1
+
+
+      Chiu, Hui-Yao       Beneficial owner   698,0002                 –            –            –     698,000           0.04%
+      Hu, Chia-Ho         Beneficial owner   611,000    2
+                                                                      –            –            –     611,000           0.04%
+      Chen, Li-Chieh      Beneficial owner     40,000   3
+                                                                      –            –            –      40,000           0.00%
+
+      notes:
+
+
+      1
+               The total number of issued shares of Yue Yuen as at June 30, 2026 was 1,604,556,486.
+
+
+      2
+               Included interests in 80,000 awarded shares granted by Yue Yuen under the share
+               award scheme of Yue Yuen (the “YY Share Award Scheme”), which are subject
+               to certain vesting conditions and remain unvested as at June 30, 2026. Details of
+               the awarded shares are set out in the section “Arrangement to Acquire Shares or
+               Debentures”.
+
+
+      3
+               Included interests in 40,000 awarded shares granted by Yue Yuen under the YY
+               Share Award Scheme, which are subject to certain vesting conditions and remain
+               unvested as at June 30, 2026. Details of the awarded shares are set out in the section
+               “Arrangement to Acquire Shares or Debentures”.
+
+
+
+
+                                                                                               2026 Interim Report        37
+OTHER INFORMATION
+DIRECTORS’ AND CHIEF EXECUTIVE’S INTERESTS AND SHORT POSITIONS
+IN SHARES, UNDERLYING SHARES AND DEBENTURES (Continued)
+     Save as disclosed above, as at June 30, 2026, none of the Directors nor Chief
+Executive had or was deemed to have any interests or short positions in the shares,
+underlying shares and debentures of the Company or any of its associated corporations
+(within the meaning of Part XV of the SFO) which (a) were required to be notified to the
+Company and the Stock Exchange pursuant to Divisions 7 and 8 of Part XV of the SFO
+(including interests or short positions which they were taken or deemed to have under
+such provisions of the SFO); or (b) were recorded in the register required to be kept by
+the Company pursuant to Section 352 of the SFO; or (c) were required to be notified to
+the Company and the Stock Exchange pursuant to the Model Code.
+
+
+SHARE AWARD SCHEME
+     The Share Award Scheme was adopted on May 9, 2014 and duly amended on
+November 11, 2016, and further amended and restated on November 13, 2023 by the
+Board upon the recommendation by the remuneration committee of the Company
+(the “Remuneration Committee”) for recognising the contributions by certain persons,
+including Directors and employees of the Group, providing incentives to retain them for
+continual operation and development of the Group, and to attract suitable personnel for
+further development of the Group. All personnel of the Group are entitled to participate.
+It is funded by the existing Shares of the Company and not involving issue of new Shares.
+
+
+     The Share Award Scheme was valid and effective for a period of 10 years commencing
+on the date of adoption (i.e. from May 9, 2014 to May 8, 2024), and has been further
+extended for another 10 years upon expiration of the initial term (i.e. from May 9, 2024 to
+May 8, 2034) by amending and restating the rules and trust deed relating to the Share
+Award Scheme. No further share awards should be granted upon termination or expiry of
+the Share Award Scheme.
+
+
+
+
+38      POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+OTHER INFORMATION
+SHARE AWARD SCHEME (Continued)
+  Any proposed award should be determined on the basis of individual performance
+and must be recommended by the Remuneration Committee and approved by the
+Board. All the awarded Shares granted under the Share Award Scheme should be vested
+in accordance with the conditions (such as employment status, individual performance
+and common key performance indicators) and timetable (i.e. vesting period) as
+determined by the Board. In the case of a Director or an employee of the Group, the
+grantee must remain at all times a Director or an employee of the Group. Clawback
+will be applied where there is exceptionally poor performance, misconduct or material
+breach of terms of employment or rules or policies of the Company prior to the vesting
+date and the Board will determine to vary or cancel the relevant award.
+
+
+  Awarded Shares are generally granted on the basis of the individual performance
+of the relevant grantee, and vested in tranches over a period of consecutive years
+with dates determined by the Board subject to fulfilment of performance target(s) and
+condition(s). Performance targets for outstanding awarded Shares granted on or before
+May 8, 2024 require a “good” or better performance rating for all appraisals conducted
+during the vesting period. For awarded Shares granted on or after May 9, 2024, “good” or
+better performance rating is required for the appraisal conducted immediately preceding
+the vesting date of the relevant tranche of awarded Shares. Taking ‘vest-in-tranches’ into
+consideration, vesting periods of awarded Shares granted generally range from 1 to 3
+years.
+
+
+  According to the letter of award, the amount payable on acceptance of the grant
+of awarded Shares is HK$1.00 with no deadline specified. Apart from this, no monetary
+payment has to be made by grantee to acquire share awards under the Share Award
+Scheme.
+
+
+
+
+                                                                    2026 Interim Report   39
+OTHER INFORMATION
+SHARE AWARD SCHEME (Continued)
+     The total number of Shares to be awarded under the Share Award Scheme should
+not exceed 4% of the number of issued Shares (i.e. 5,315,514,615 Shares) as at the date
+of grant, which is 212,620,584. The maximum number of Shares (including vested and
+non-vested Shares) which may be awarded to a selected participant should not exceed
+1% of the issued Shares from time to time, which is 53,155,146. None of the participants
+had been awarded with Shares exceeding 0.1% of the total issued Shares in any
+12-month period.
+
+
+     Under the Share Award Scheme, a total of 114,985,240 Shares, constituting
+approximately 2.16% of the issued Shares, have been awarded. As at January 1, 2026,
+June 30, 2026 and August 12, 2026 (i.e. the date of this report), the total number
+of Shares available for being further awarded under the Share Award Scheme was
+98,061,944 Shares, 97,635,344 Shares and 97,635,344 Shares, respectively, representing
+1.84%, 1.84% and 1.84% of the issued Shares as at January 1, 2026, June 30, 2026 and
+the date of this report, respectively.
+
+
+     Eligible participant(s) selected by the Board for participation in the Share Award
+Scheme shall have no right to any dividend held under the trust before vesting which
+shall form part of the residual cash or any of the returned Shares. The trustee of the Share
+Award Scheme shall not exercise the voting rights in respect of any Shares held under
+the trust (including but not limited to the awarded Shares, the returned Shares, any
+bonus Shares and scrip dividend).
+
+
+     Reference is made to pages 41, 42 and 146 of the Company’s annual report for the
+year ended December 31, 2025 regarding movements in the Company’s share awards
+under the Share Award Scheme during the years ended December 31, 2024 and 2025
+(“Relevant Period”). The Company confirms that no share awards were cancelled during
+the Relevant Period.
+
+
+
+
+40      POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+OTHER INFORMATION
+SHARE AWARD SCHEME (Continued)
+    Pursuant to the Share Award Scheme, movements in awarded Shares during the
+Period are set out below:
+
+
+                                                                                     Number of awarded Shares
+                                                                 Balance                                                 Balance
+                                                                    as at Granted      Lapsed Cancelled      Vested         as at
+                                                               January 1,    during     during     during     during     June 30,
+                          Date of grant         Vesting period      2026 the Period the Period the Period the Period        2026
+
+
+Directors/Chief Executive
+Chiu, Hui-Yao             18.08.2025      18.08.2025-17.02.2027     240,000      –            –          –         –      240,000
+                          18.08.2025      18.08.2025-17.02.2028     360,000      –            –          –         –      360,000
+                          18.08.2025      18.08.2025-17.08.2028     600,000      –            –          –         –      600,000
+Chang, Su-Ching           19.08.2024      19.08.2024-18.08.2026     400,000      –            –          –         –      400,000
+                          18.08.2025      18.08.2025-17.02.2027     200,000      –            –          –         –      200,000
+                          18.08.2025      18.08.2025-17.02.2028     300,000      –            –          –         –      300,000
+                          18.08.2025      18.08.2025-17.08.2028     500,000      –            –          –         –      500,000
+Chen, Li-Chieh            18.08.2025      18.08.2025-17.02.2027     140,000      –            –          –         –      140,000
+                          18.08.2025      18.08.2025-17.02.2028     210,000      –            –          –         –      210,000
+                          18.08.2025      18.08.2025-17.08.2028     350,000      –            –          –         –      350,000
+
+
+Sub-total                                                          3,300,000     –            –          –         –     3,300,000
+
+
+Employees in aggregate
+                          19.08.2024      19.08.2024-18.08.2026 8,700,000        –            –          –         – 8,700,000
+                          18.08.2025      18.08.2025-17.02.2027 4,386,000        –            –          –         – 4,386,000
+                          18.08.2025      18.08.2025-17.02.2028 6,579,000        –            –          –         – 6,579,000
+                          18.08.2025      18.08.2025-17.08.2028 10,965,000       –            –          –         – 10,965,000
+
+
+Sub-total                                                         30,630,000     –            –          –         – 30,630,000
+
+
+Grand total                                                       33,930,000     –            –          –         – 33,930,000
+
+
+
+
+                                                                                                   2026 Interim Report       41
+OTHER INFORMATION
+ARRANGEMENT TO ACQUIRE SHARES OR DEBENTURES
+     Under the YY Share Award Scheme and subject to certain vesting conditions, the
+following Directors have been awarded with ordinary shares of Yue Yuen, details of which
+are as follows:
+
+
+                                                                                                                 Closing
+                                                                                                                 price of
+                                                                                                               Yue Yuen
+                                                                                                                  shares
+                                                                                                                  before
+                                      Number                   Number      Number      Number      Number     the vesting
+                                     of shares     Date of    of shares   of shares   of shares   of shares         date1
+Name of Directors    Date of award   awarded        vesting     vested      lapsed    cancelled   unvested         (HK$)
+
+
+Chiu, Hui-Yao           01.06.2025     80,000    31.05.2027           –           –           –     80,000              –
+                        13.03.2026     45,000    01.06.2026     45,000            –           –           –        14.67
+Hu, Chia-Ho             01.06.2025     80,000    31.05.2027           –           –           –     80,000              –
+                        13.03.2026     37,000    01.06.2026     37,000            –           –           –        14.67
+Chen, Li-Chieh          01.06.2025     40,000    31.05.2027           –           –           –     40,000              –
+
+
+note:
+
+
+1
+         Refers to the closing price of Yue Yuen shares immediately before the date on which the
+         relevant awarded shares were vested on June 1, 2026.
+
+
+     Save as disclosed herein and as stated in the section “Share Award Scheme” above,
+at no time during the Period or at the end of the Period was the Company or any of its
+holding companies, fellow subsidiaries or subsidiaries a party to any arrangements to
+enable the Directors to acquire benefits by means of the acquisition of shares in, or debt
+securities (including debentures) of the Company or any other body corporate.
+
+
+
+
+42        POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+OTHER INFORMATION
+SUBSTANTIAL SHAREHOLDERS’ INTERESTS AND SHORT POSITIONS IN
+SHARES AND UNDERLYING SHARES
+   As at June 30, 2026, the register of interests in Shares and short positions of substantial
+Shareholders maintained by the Company pursuant to Section 336 of the SFO showed
+that other than the interests disclosed in the section “Directors’ and Chief Executive’s
+Interests and Short Positions in Shares, Underlying Shares and Debentures”, the following
+Shareholders had notified the Company of their relevant interests in the issued Shares:
+
+
+Long Positions in the Shares
+
+                                                                                       Percentage
+                                                    Capacity/         Number of       of the issued
+Name of Shareholders           notes          Nature of interest     Shares held             Shares
+
+
+Major Focus Management          (a)            Beneficial owner     3,331,551,560            62.67%
+ Limited (“Major Focus”)
+
+Yue Yuen                      (a), (b)   Interest of a controlled   3,331,551,560            62.67%
+                                         corporation/Beneficial
+                                                          owner
+
+Wealthplus Holdings Limited     (b)      Interest of a controlled   3,331,551,560            62.67%
+ (“Wealthplus”)                                      corporation
+
+Pou Chen Corporation            (b)      Interest of a controlled   3,331,551,560            62.67%
+  (“PCC”)                                            corporation
+
+
+
+
+                                                                           2026 Interim Report   43
+OTHER INFORMATION
+SUBSTANTIAL SHAREHOLDERS’ INTERESTS AND SHORT POSITIONS IN
+SHARES AND UNDERLYING SHARES (Continued)
+Long Positions in the Shares (Continued)
+notes:
+
+
+The total number of issued Shares as at June 30, 2026 was 5,315,514,615.
+
+
+(a)      3,331,551,560 Shares are held by Major Focus, a wholly-owned subsidiary of Yue Yuen.
+
+
+(b)      The entire issued shares of Major Focus is held by Yue Yuen, in which Wealthplus and Win
+         Fortune Investments Limited (“Win Fortune”) respectively hold 48.18% and 3.17% voting
+         shares. Wealthplus and Win Fortune are in turn wholly-owned by PCC. Accordingly, Yue
+         Yuen, Wealthplus and PCC are all deemed to be interested in these Shares under the SFO.
+
+
+         Ms. Tsai Patty, Pei Chun, a Director, is also a director of Yue Yuen, Wealthplus and PCC.
+
+
+      Save as disclosed above, as at June 30, 2026, the Directors were not aware of any
+other person (other than the Directors or Chief Executive) who had or was deemed to
+have an interest or short position in the Shares or underlying Shares which were required
+to be disclosed to the Company and the Stock Exchange under the provisions of Divisions
+2 and 3 of Part XV of the SFO or which were required, pursuant to Section 336 of the SFO,
+to be entered into the register referred to therein.
+
+
+
+
+44        POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+OTHER INFORMATION
+PURCHASE, SALE OR REDEMPTION OF THE COMPANY’S LISTED
+SECURITIES
+   During the six months ended June 30, 2026, the Company repurchased a total of
+10,665,000 Shares on the Stock Exchange for an aggregate consideration of HK$4,902,301
+(before expenses). All the repurchased Shares were subsequently cancelled. As at June
+30, 2026, the total number of Shares in issue was 5,315,514,615.
+
+
+Particulars of the repurchases of Shares are as follows:
+
+
+                                                                                    Aggregate
+                                                                                 consideration
+                                                     Purchase price per Share
+                                        Number                                             (before
+                                      of Shares        Highest        Lowest        expenses)
+Date                               repurchased             (HK$)       (HK$)                (HK$)
+
+
+January 2, 2026                          90,000            0.470             –             42,300
+January 5, 2026                        560,000             0.475       0.470           265,075
+January 6, 2026                        447,000             0.475             –         212,325
+January 9, 2026                      3,850,000             0.485             –      1,867,250
+March 12, 2026                       2,446,000             0.440       0.425        1,056,680
+March 13, 2026                       3,272,000             0.450       0.435        1,458,671
+
+
+Total                               10,665,000                                      4,902,301
+
+
+   Save as disclosed above, neither the Company nor any of its subsidiaries had
+purchased, sold or redeemed any of the Company’s listed securities (including sale of
+treasury shares as defined in the Listing Rules) (six months ended June 30, 2025: nil).
+As at June 30, 2026 and up to the date of this report, the Company did not hold any
+treasury shares whether in the Central Clearing and Settlement System, or otherwise.
+
+
+
+
+                                                                     2026 Interim Report       45
+OTHER INFORMATION
+UPDATE ON DIRECTORS’ AND CHIEF EXECUTIVE’S INFORMATION UNDER
+RULE 13.51B(1) OF THE LISTING RULES
+     Pursuant to Rule 13.51B(1) of the Listing Rules, the changes in information of the
+Directors and Chief Executive since the date of publication of the Company’s 2025
+annual report are set out below:
+
+
+(a)     On April 1, 2026, Ms. Chang, Su-Ching acted as the Head of Brand Development
+        Division of the Group.
+
+
+(b)     On May 22, 2026, Mr. Chen, Huan-Chung retired from all his positions with the
+        Company, including an independent non-executive Director, the chairman of
+        the audit committee, a member of the nomination committee and remuneration
+        committee.
+
+
+(c)     On May 22, 2026, Ms. Leung Pui Yee (“Ms. Leung”) 1 was appointed as an
+        independent non-executive Director, the chairlady of the audit committee, a
+        member of the nomination committee and remuneration committee. A letter of
+        appointment as an independent non-executive Director for a term of three years
+        commencing on May 22, 2026 and ending on May 21, 2029, subject to retirement
+        by rotation and re-election at annual general meetings pursuant to the bye-laws
+        of the Company, was entered into between the Company and Ms. Leung on the
+        same date.
+
+
+(d)     On May 22, 2026, Ms. Tsai Patty, Pei Chun entered into a supplemental letter of
+        appointment with the Company for renewal of her term of appointment as a
+        non-executive Director for a further term of three years from June 6, 2026 to June 5,
+        2029.
+
+
+note:
+
+
+1
+        After the date of this report, Ms. Leung resigned as a board committee member and
+        treasurer of TTR Trailwalker Teaching Room Charity Foundation Limited, an exempted
+        charitable organisation registered in Hong Kong, on August 15, 2026.
+
+
+
+
+46       POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+OTHER INFORMATION
+CORPORATE GOVERNANCE
+   The Company has applied the principles of, and has complied with all applicable
+code provisions and, where applicable, the recommended best practices set out in
+Corporate Governance Code contained in Appendix C1 to the Listing Rules throughout
+the six months ended June 30, 2026.
+
+
+MODEL CODE FOR SECURITIES TRANSACTIONS BY DIRECTORS AND
+EMPLOYEES
+   The Company has adopted the Model Code as set out in Appendix C3 to the Listing
+Rules as the Company’s code of conduct for dealings in securities of the Company by
+Directors. Having made specific enquiry by the Company to all Directors, each of them
+has confirmed that he/she had complied with the required standards set out in the
+Model Code throughout the six months ended June 30, 2026.
+
+
+   The Company has also established and adopted internal guidelines for securities
+transactions by relevant employees (the “Employees Guidelines”). The Employees
+Guidelines are updated from time to time according to the Model Code. Relevant
+employees who are likely to be in possession of unpublished inside information relating to
+the Company and its securities must comply with the Employees Guidelines.
+
+
+REVIEW OF ACCOUNTS
+   The audit committee of the Company has reviewed, with management and Messrs.
+Deloitte Touche Tohmatsu, the independent auditor of the Company (“Messrs. Deloitte
+Touche Tohmatsu”), the Group’s unaudited condensed consolidated interim financial
+information for the six months ended June 30, 2026, the interim report, the accounting
+principles and practices adopted by the Group and has discussed risk management,
+internal controls, and financial reporting matters.
+
+
+   In addition, Messrs. Deloitte Touche Tohmatsu has reviewed the unaudited condensed
+consolidated financial information of the Group for the six months ended June 30,
+2026 in accordance with Hong Kong Standard on Review Engagements 2410 “Review
+of Interim Financial Information Performed by the Independent Auditor of the Entity” as
+issued by the HKICPA.
+
+
+
+
+                                                                    2026 Interim Report   47
+OTHER INFORMATION
+ACKNOWLEDGEMENT
+     I would like to take this opportunity to express our sincere appreciation of the support
+from our customers, suppliers and Shareholders. I would also like to thank my fellow
+Directors for their valuable contribution and the staff members of the Group for their
+commitment and dedicated services throughout the Period.
+
+
+DIRECTORS
+     As at the date of this report, the Board comprises:
+
+
+Non-executive Directors
+     Mr. Chiu, Hui-Yao (Chairman), Ms. Tsai Patty, Pei Chun and Mr. Li I-nan
+
+
+Executive Directors
+     Mr. Hu, Chia-Ho, Ms. Chang, Su-Ching (Chief Executive Officer) and Mr. Chen, Li-Chieh
+(Chief Financial Officer)
+
+
+Independent Non-executive Directors
+     Mr. Feng Lei Ming, Mr. Liu, Hsi-Liang and Ms. Leung Pui Yee
+
+
+
+
+                                                                    By Order of the Board
+                                                                        Chiu, Hui-Yao
+                                                                          Chairman
+
+
+Hong Kong, August 12, 2026
+
+
+Website: www.pousheng.com
+
+
+
+
+48      POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+
