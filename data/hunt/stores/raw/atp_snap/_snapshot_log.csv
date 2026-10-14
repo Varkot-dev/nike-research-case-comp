@@ -1,0 +1,29 @@
+2019-01-09-03-36-01,nike,393,tar
+2019-04-11-02-15-18,ERROR,IncompleteRead(33128394 bytes read, 1113189 more expected),
+2019-07-04-14-42-51,nike,273,tar
+2019-10-08-13-21-23,nike,0,tar
+2020-01-29-14-39-55,nike,0,tar
+2020-04-01-14-42-45,nike,0,tar
+2020-07-01-14-42-36,nike,0,tar
+2020-10-07-14-42-45,dsw,133,tar
+2020-10-07-14-42-45,nike,0,tar
+2021-01-06-14-43-02,dsw,157,tar
+2021-01-06-14-43-02,nike,0,tar
+2021-04-07-14-42-21,nike,0,tar
+2021-04-07-14-42-21,dsw,119,tar
+2021-07-07-14-42-19,nike,1409,tar
+2021-07-07-14-42-19,academy,0,tar
+2021-07-07-14-42-19,dsw,175,tar
+2021-10-06-14-42-44,dsw,159,tar
+2021-10-06-14-42-44,academy,0,tar
+2021-10-06-14-42-44,nike,0,tar
+2022-01-01-13-31-44,hibbett_sports,0,tar
+2022-01-01-13-31-44,academy,259,tar
+2022-01-01-13-31-44,ERROR,JSONDecodeError('Expecting value: line 1 column 571 (char 570)'),
+2022-04-02-13-32-16,hibbett_sports,702,tar
+2022-04-02-13-32-16,ERROR,JSONDecodeError('Expecting value: line 1 column 571 (char 570)'),
+2022-07-02-13-31-54,dsw,538,tar
+2022-07-02-13-31-54,nike,0,tar
+2022-07-02-13-31-54,hibbett_sports,0,tar
+2022-07-02-13-31-54,academy,0,tar
+2022-10-01-13-32-15,ERROR,IncompleteRead(156106743 bytes read, 282247 more expected),

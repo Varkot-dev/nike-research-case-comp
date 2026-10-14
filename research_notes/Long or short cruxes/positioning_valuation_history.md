@@ -309,3 +309,40 @@ Note the mechanical problem for Q4 FY27 (reported about late June 2027): it laps
 - Nike's Q2 FY27 gross margin versus 40.6% (Dec 2026), and any gross margin framing at the Nov 16 to 17 Investor Day. Down year over year means the strongly negative bucket; up means neutral.
 - Q2 FY27 revenue versus the implied -8% to -11%: a decline smaller than about 6% would move Nike out of the "next quarter worse" bucket into the bucket that has been 54% to 68% positive.
 - Historical consensus revisions (not freely available) would test alternative 2.
+
+## Skeptic review (Round 3)
+
+Prepared 2026-10-14 by an independent reviewer of Round 3. Scripts: `scratchpad/skep3/` (`study_om.py`, a copy of `fund2/tool/study.py` with next-quarter operating margin, second-next-quarter gross margin, earnings-reaction and P/E splits added; `rec.py`, a release-anchored event study). Same SEC XBRL and Yahoo files as Round 3 (fetched 2026-10-14, OPENED).
+
+### 1. Numbers re-checked at source
+
+- Round 3 tables reproduce exactly when `study.py` is re-run (drop 60%: Nike path N=28, 6m positive 7/28, next-GM-down 1/13, next-GM-up 6/15; quarterly 75%: next-GM-down 1/7, next-GM-up 8/16) (ARITH, OPENED).
+- Nike XBRL (data.sec.gov companyfacts, fetched 2026-10-14, OPENED): Q2 FY26 gross profit $5,045M on $12,427M = 40.6%; Q3 FY26 $4,530M on $11,279M = 40.2%; Q4 FY26 $5,393M on $10,972M = 49.2%; Q1 FY27 $4,798M on $11,213M = 42.8%. Q1 FY27 SG&A $3,910M vs $4,016M (-2.6%), pretax $921M, tax $209M (22.7%), diluted shares 1,484.2M. All match Round 3.
+- Q1 FY27 transcript (Oct 1, 2026, OPENED, scratch flat_Q1FY27.txt): Round 3 quoted the gross margin and revenue lines correctly. It left out one sentence that matters: "We currently expect EBIT to decline by a greater percentage than revenue. This outlook reflects continued pressure on gross margin and fixed cost deleverage associated with lower revenue levels, higher input costs." Taken alone, that reads like a gross margin decline. Section 2 resolves what it means.
+- Q4 FY26 transcript (Jul 2026, OPENED): before the reset, Nike guided "gross margins to inflect positive in Q2" and then "gross margin expansion earlier beginning in Q1", with tariff costs assumed at 10% through July and 15% after that.
+
+### 2. New: the EPS guide pins down the gross margin direction for Q2 to Q4 (ARITH from section 1 data)
+
+Round 3 calls gross margin "not guided" and treats it as the open swing variable. The EPS and revenue guide, combined with the SG&A statement, largely closes that gap.
+- FY26 Q2 to Q4: revenue $34,678M; gross profit $14,968M, which is $13,981M after removing the roughly $987M IEEPA refund (900bp x $10,972M); gross margin excluding the refund 40.3% (43.2% reported). SG&A $12,098M. Non-operating items +$108M.
+- FY27 Q2 to Q4 implied by the guide: revenue $31.0B to $31.9B (FY down 7% to 9%, less Q1). EPS $1.15 to $1.35 less Q1 $0.48 gives $0.67 to $0.87, which is net income $995M to $1,292M and pretax $1,287M to $1,671M at Q1's 22.7% tax rate. If SG&A falls 3% (Q1's rate), gross profit is $12.9B to $13.3B and gross margin about 41.6% at matched ends (range 40.4% to 42.9%). That is about +130bp against the 40.3% base excluding the refund. If SG&A falls 6%, gross margin is about 40.5%, roughly flat. Pretax margin is 4.1% to 5.2% against 5.7%.
+- Reading: the guide implies gross margin flat to up in Q2 and Q3 against the weak 40.6% and 40.2% comparisons. It implies operating margin down, and reported gross margin down only in Q4 (against 49.2%) and for the full year (against 42.9%). So "continued pressure on gross margin" fits the reported full-year and Q4 optics, not a decline in Q2 or Q3. A Q2 or Q3 gross margin decline would require missing Nike's own guide or cutting SG&A much faster than the 2.6% Q1 pace.
+- Consequence: the 6-month window that matters for the Nov 2026 pitch (to about May 2027) contains the Q2 and Q3 prints, and both should land in Round 3's "gross margin up" bucket. The strongly SHORT bucket (10 of 47) is a tail risk for this window, not the base case. The Q4 FY27 print (late June 2027) falls outside it.
+
+### 3. New: guide-cut reaction and consensus (SNIPPET and OPENED)
+
+- AskTraders, 2026-10-01 (OPENED): FY27 revenue consensus before the print was $45.34B, and analysts expected FY27 EPS of $1.66. The guide midpoint of about $1.25 is roughly 25% below that, and revenue is about 6 points below consensus. The stock was indicated at $33.20 after hours (-5.55% from $35.15).
+- Finviz/RTTNews, 2026-10-02 (OPENED): "nearly 9%" down pre-market. Q1 revenue $11.21B vs $11.35B expected; EPS $0.48 vs $0.44 expected.
+- Yahoo closes (OPENED): Oct 2 $33.87 (-3.6%), Oct 12 $35.35, above the pre-print $35.15. The stock absorbed a roughly 25% EPS reset within 7 trading days and did not register as an 8% "drop" event. This is the strongest datum against SHORT that Round 3 did not use: the guided decline looks priced, and short interest had already risen 31% in September (Round 2 review).
+- Historical test of that pattern (`rec.py`, release-anchored, Nike path, 60% depth, N=40, 17 companies): over all releases, 6m median excess -10 (17/40 positive) and 12m median -12 (14/38). When the stock had recovered to the pre-release close within 7 trading days: 6m +1 (8/15) but 12m -15 (4/15). Only one exact analog had a down day of 3% or more followed by full recovery: Under Armour, 2024-05-23 (-3.3%, then +1.0%; next gross margin up): 6m +31, 12m -19. At 75% depth: recovered 3/6, not recovered 5/13. Read: absorbing the news helps a little at 6 months and nothing at 12. Not decisive.
+
+### 4. Robustness problems in the "gross margin up" bucket (points neither way)
+
+- Concentration: Fossil (0.05x to 0.4x sales, near-distressed) is 6 of 25 quarterly-60% cases and 5 of 15 drop-60% cases in the "next gross margin up" bucket, and Peloton adds 2 more. Excluding FOSL and PTON: next GM up 6m positive 3/8, 1/5, 7/17, 5/7 (12m 5/8, 3/5, 8/17, 5/7). Next GM down 1/12, 1/4, 7/18, 1/5. The gross-margin split survives; the GM-up bucket stays a coin flip at 6 months and leans slightly positive at 12.
+- Nike's forward state is revenue worse, gross margin up, operating margin down. That bucket gives 6m positive 2/6, 1/5, 4/12, 4/6 and 12m 4/6, 3/5, 5/12, 4/6 (N=5 to 12): too small to read.
+- P/E of 20x or more inside the Nike path: 6m 1/6, 3/8, 2/6 positive (VFC 2023, Fossil 2018, ANF 2014 to 2016 lost; Gap 2023 and Vera Bradley won). N too small, but this does not support the idea that premium names bottom early.
+- Closest brand analogs in the GM-up bucket: Under Armour 2023 to 2025 (6m -20, +15, -24, -29; 12m -8, -24, -40) and VF Nov 2023 (-24 / +27) lean negative. Capri 2017 (+11 / +60) and Estee Lauder Feb 2025 (+7 / +28) lean positive. Two and two.
+
+### 5. Reviewer verdict
+
+Round 3's numbers are accurate and its gross-margin split is real and robust to dropping the dominant names. I add two things it missed, and they point in opposite directions. (1) The EPS guide implies gross margin flat to up in Q2 and Q3 FY27, so in the pitch window Nike most likely sits in the coin-flip bucket, not the SHORT bucket. That makes history less able to support SHORT than Round 3's "swing variable" framing suggests. (2) The coin-flip bucket is genuinely a coin flip, and the closest sportswear analog (Under Armour 2023 to 2025, the same marketplace-cleanup playbook) lost in 3 of 4 cases at 6 months. The market shrugging off a 25% EPS guide cut is a mild positive at 6 months and nothing at 12. History does not settle it. Verdict: NEUTRAL, moderate. The base-rate SHORT case only becomes live if Q2 gross margin comes in below 40.6% (Dec 2026) or Investor Day frames FY28 below the FY27 trough. Base rates cannot supply a LONG case; that would have to come from the fundamental work elsewhere in the repo.
