@@ -1,0 +1,49 @@
+# Extracts (pdftotext) used for Xtep and 361 door counts. Source PDFs not stored (size).
+## xtep_interim_2023_int
+684:As at 30 June 2023, there were 6,443 Xtep Adult branded stores mainly operated by authorized distributors in Mainland
+706:1,588 Xtep Kids stores in Mainland China (31 December 2022: 1,520), mainly operated by authorized distributors of the
+## xtep_interim_2024_int
+701:                                      As at 30 June 2024, there were 6,578 Xtep Adult branded
+736:As at 30 June 2024, there were 1,706 Xtep Kids stores in Mainland China (31 December 2023: 1,703), predominantly
+## xtep_interim_2025_int
+36: •   As at 30 June 2025, there were 6,360 Xtep Adult and 1,564 X Young branded stores in
+720:     Retail management and branding                                       As at 30 June 2025, there were 6,360 Xtep Adult
+788:                                                       As at 30 June 2025, there were 1,564 X Young
+## xtep_interim_2026_int
+40: •   As at 30 June 2026, there were 6,308 Xtep Adult and 1,455 X Young branded stores in
+605:As at 30 June 2026, there were 6,308 Xtep Adult branded stores, mainly operated by authorized distributors in the Chinese
+650:As at 30 June 2026, there were 1,455 X Young stores in the Chinese Mainland (31 December 2025: 1,488), predominantly
+## xtep_annual_2023_ar2023
+1026:                                           As at 31 December 2023, there were 6,571 Xtep Adult
+## xtep_annual_2024_ar2024
+1261:     As at 31 December 2024, there were 6,382 Xtep Adult branded stores, mainly operated by authorized
+1297:Xtep Kids stores in Mainland China (31 December 2023: 1,703), predominantly operated by the Group’s
+## xtep_annual_2025_ar2025
+881:                                                                 As at 31 December 2025, there were 6,357 Xtep Adult
+## s361_2026081800247
+319:As of 30 June 2026, the Group had a total of 5,076 361º branded stores in the Chinese mainland. During the period under review,
+679:branded stores in the Chinese mainland. Geographically,              stores actively launch multiple marketing initiatives. Highly
+715:Total                                                                              5,076                  100.0                   5,394           100.0
+1384:Total                                                                              2,202                  100.0                   2,364                100.0
+## s361_2026032400135
+933:     As of 31 December 2025, the Group had a total of 5,394 361º branded stores in the Chinese mainland, with an average
+1001:       Total                                                                   5,394                     100.0                      5,750             100.0
+1775:  Total                                                                   2,364                     100.0                        2,548                          100.0
+## s361_2025081200135
+788:Total                                                                             5,669                  100.0                   5,750           100.0
+1412:Total                                                                             2,494                  100.0                   2,548            100.0
+## s361_2025031200235
+954:       Total                                                                          5,750                      100                   5,734              100
+1662:  Total                                                                          2,548                      100                    2,545             100
+## s361_2024081200163
+798:Total                                                                                 5,740                       100                   5,734               100
+1309:Total                                                                                 2,550                         100                    2,545               100
+## s361_2024031300227
+1031:  Total                                                                          5,734                      100                    5,480                 100
+1576:  Total                                                                  2,545                        100                       2,288                         100
+## s361_2023081500175
+818:Total                                                                        5,642                     100                    5,480                     100
+1246:Total                                                                        2,448                     100                    2,288                  100
+## s361_2023031600320
+983:Total                                                                     5,480                    100                 5,270              100
+1371:     Total                                                                     2,288                    100                 1,896            100

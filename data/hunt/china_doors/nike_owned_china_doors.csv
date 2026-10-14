@@ -1,12 +1,12 @@
 run_date,listed,prelisted_future_opening,operating_est,window_note
-2023-01-07,250,0,250,consistent static-JSON source
-2023-04-01,252,0,252,consistent static-JSON source
-2023-07-01,253,0,253,consistent static-JSON source
-2023-10-07,135,0,135,source changed 2023-10..2024-10 (about 130 records; unusable)
-2024-01-06,132,0,132,source changed 2023-10..2024-10 (about 130 records; unusable)
-2024-04-06,128,0,128,source changed 2023-10..2024-10 (about 130 records; unusable)
-2024-07-06,129,0,129,source changed 2023-10..2024-10 (about 130 records; unusable)
-2024-10-05,129,0,129,source changed 2023-10..2024-10 (about 130 records; unusable)
+2023-01-07,250,0,250,"earlier ATP source (record set changed 2023-10, about 130); not comparable with 2025+"
+2023-04-01,252,0,252,"earlier ATP source (record set changed 2023-10, about 130); not comparable with 2025+"
+2023-07-01,253,0,253,"earlier ATP source (record set changed 2023-10, about 130); not comparable with 2025+"
+2023-10-07,135,0,135,"earlier ATP source (record set changed 2023-10, about 130); not comparable with 2025+"
+2024-01-06,132,0,132,"earlier ATP source (record set changed 2023-10, about 130); not comparable with 2025+"
+2024-04-06,128,0,128,"earlier ATP source (record set changed 2023-10, about 130); not comparable with 2025+"
+2024-07-06,129,0,129,"earlier ATP source (record set changed 2023-10, about 130); not comparable with 2025+"
+2024-10-05,129,0,129,"earlier ATP source (record set changed 2023-10, about 130); not comparable with 2025+"
 2025-02-22,236,0,236,consistent static-JSON source
 2025-03-15,236,0,236,consistent static-JSON source
 2025-04-17,237,0,237,consistent static-JSON source

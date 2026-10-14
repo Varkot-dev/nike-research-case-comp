@@ -89,6 +89,6 @@ for dte,n in sorted(wk.items()):
     # stores listed on that date but with a future opening date (pre-listed). Only knowable for stores still listed today.
     pre=[i for i,o in fut if o>dte and any(e['ref']==i and e['first_seen']<=dte for e in ev)]
     res.append(dict(run_date=dte,listed=n,prelisted_future_opening=len(pre),operating_est=n-len(pre),
-        window_note='source changed 2023-10..2024-10 (about 130 records; unusable)' if '2023-10'<=dte<'2025-01' else 'consistent static-JSON source'))
+        window_note='earlier ATP source (record set changed 2023-10, about 130); not comparable with 2025+' if dte<'2025-01' else 'consistent static-JSON source'))
 w=csv.DictWriter(open('nike_owned_china_doors.csv','w'),fieldnames=list(res[0])); w.writeheader(); w.writerows(res)
 print('future-dated owned CN:',len(fut)); print(res[-1])
