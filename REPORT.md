@@ -429,7 +429,7 @@ Earlier evidence in this report leans on what Nike says and on proxies such as r
 | 1. Factory orders | Monthly revenue of Nike's footwear factories, 2013 to Sep 2026 | Feng Tay revenue fell 10% to 23% a year from Dec 2022 to Nov 2023 while Nike footwear grew; in FY2025 Nike footwear fell 11.7%, Feng Tay only 4.7% | No factory cut matches the FY2025 decline; the 2023 cut was inventory correction |
 | 2. Time to markdown | Days until each release is first discounted, nike.com and Foot Locker | No Air Jordan 1 High, 3 or 4 release from 2024 to 2026 seen discounted on nike.com within 90 days; running controls mark down from about day 50; Foot Locker already discounts 2026 retros | Nike holds list price; markdowns move to its retailers |
 | 3. Size runs after launch | Which sizes are still in stock at nike.com, Foot Locker and Champs | Pre-cut retros in full size runs at full price four to ten weeks after launch | Oversupply on the shelf; post-cut releases decided by re-runs on Oct 24 and Nov 7 |
-| 4. Resale over time | Same shoes re-priced over time, Air Jordan 1 High (cut) vs Air Jordan 3 (raised) | Air Jordan 1 did 22.7 points worse after its cut (95% interval -48.3 to +3.5) | Directional against "scarcity works"; not decided, Air Jordan 4 control still being collected |
+| 4. Resale over time | 54 shoes re-priced over time on StockX, Air Jordan 1 High (supply cut) vs Air Jordan 3 and 4 (supply raised) | Air Jordan 1 premiums fell 10 to 23 points relative to Air Jordan 3 and 4 after the 2024 cut in every estimate (95% intervals include zero) | No evidence that scarcity worked |
 | 5. Units vs price | All 694 unit and price statements in Nike's 10-Ks and 10-Qs since FY2017 | Only Greater China and Converse show fewer pairs at steady prices; North America sells more pairs at lower prices | The deliberate-cut pattern is absent where the Jordan cut is aimed |
 
 ![Factory orders vs Nike footwear](charts/20_factory_vs_nike_footwear.png)
@@ -446,6 +446,7 @@ Earlier evidence in this report leans on what Nike says and on proxies such as r
   - In FY2025, when Nike footwear fell 11.7%, Feng Tay fell only 4.7% (chart 20).
   - Feng Tay's revenue growth also leads Nike footwear growth by about one quarter (correlation 0.68 excluding FY2020 to FY2022). Its Q1 FY2027 reading of -8.8% points to continued footwear weakness in Q2.
 - **Nike's own filings show the supply-cut pattern only where Nike is shrinking.** Greater China: "Unit sales of footwear decreased 26%, while ASP per pair was flat as lower discounts were offset primarily by channel mix" (Q1 FY27 10-Q p. 28). North America sold 2% more footwear pairs at lower ASP in the same quarter (Q1 FY27 10-Q p. 26).
+- **Scarcity has not lifted Air Jordan 1 resale prices.** After the 2024 cut, Air Jordan 1 High premiums fell 10 to 23 points relative to Air Jordan 3 and 4 in every pooled estimate (54 shoes; StockX pages via the Wayback Machine; my arithmetic; the 95% intervals include zero). Air Jordan 3 and 4 carry more listings per shoe yet trade at or above retail, while Air Jordan 1 High trades 25% to 35% below.
 - **The FY2018 reset began with discounting, not a supply cut.** "Unit sales of footwear for the first quarter of fiscal 2018 were flat, while lower ASP per pair reduced footwear revenues by approximately 3 percentage points primarily due to lower full-price ASP, driven by product mix and higher discounts" (North America, Q1 FY18 10-Q p. 26). This changes how the FY2018 analog in Section 5.12 should be used.
 
 **What this means for the thesis (my inference).**
@@ -685,7 +686,7 @@ Ordered by value for a case built on the leadership thesis:
 - *Why is Nike discounting, and when does full price return?* `research_notes/15_why_nike_discounts.md` and `research_notes/16_full_price_recovery.md`; a definitive-test programme is in `DEEP_DIVE_DEFINITIVE_TESTS.md`.
 
 **Still open:**
-- *Definitive tests still to finish* (`DEEP_DIVE_DEFINITIVE_TESTS.md`): the Air Jordan 4 control for the resale panel (Test 4), the size-run re-checks of post-cut releases (Test 3), and the full time-to-markdown history beyond the 91-colourway priority subset (Test 2).
+- *Definitive tests still to finish* (`DEEP_DIVE_DEFINITIVE_TESTS.md`): the size-run re-checks of post-cut releases (Test 3), the full time-to-markdown history beyond the 91-colourway priority subset (Test 2), and 2026 releases in the resale panel (Test 4).
 - Why did Greater China collapse?
 - Why did NIKE Direct shrink?
 - What is NIKE Direct's average markdown depth, measured against the 8% to 16% break-even range?
@@ -719,7 +720,7 @@ Ordered by value for a case built on the leadership thesis:
 - Filings are now downloaded from Nike's investor-site copy of EDGAR, with no personal contact information sent.
 - Peer data comes from annual report PDFs and company IR documents. A few Under Armour quotes were read through a web tool and not checked against a downloaded copy; `10_peer_channel_margins.md` marks them.
 
-**Added later on October 13, 2026: definitive tests.** Section 5.13, chart 20, `DEEP_DIVE_DEFINITIVE_TESTS.md`, `data/definitive/` (factory orders, units vs price, time to markdown, size runs, resale panel) and `scripts/definitive/` (including the re-runnable size tracker). Test 4 is directional only until its Air Jordan 4 control is collected.
+**Added later on October 13, 2026: definitive tests.** Section 5.13, chart 20, `DEEP_DIVE_DEFINITIVE_TESTS.md`, `data/definitive/` (factory orders, units vs price, time to markdown, size runs, resale panel) and `scripts/definitive/` (including the re-runnable size tracker). Test 4 was completed on Oct 14 with Air Jordan 3 and 4 controls (54 shoes).
 
 **Corrections to the previous draft (all verified against the filings unless noted):**
 - FY2020 diluted EPS was **$1.60**, not $1.62 (FY20 10-K).
