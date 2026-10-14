@@ -1,0 +1,11 @@
+revenue_case,revenue_usd_m,ebit_margin,eps,price,pe,peer_fy2_median_pe,premium_vs_peer_median,inputs
+"FY28 consensus revenue 43,645",43645,0.072,1.67,35.33,21.1,13.2,0.602,"net interest income 50 (FY26 XBRL), tax 22.5% (dig_1), diluted shares 1,481.0M (FY26 XBRL); DERIVED"
+"FY28 consensus revenue 43,645",43645,0.083,1.92,35.33,18.4,13.2,0.393,"net interest income 50 (FY26 XBRL), tax 22.5% (dig_1), diluted shares 1,481.0M (FY26 XBRL); DERIVED"
+"FY28 consensus revenue 43,645",43645,0.1,2.31,35.33,15.3,13.2,0.159,"net interest income 50 (FY26 XBRL), tax 22.5% (dig_1), diluted shares 1,481.0M (FY26 XBRL); DERIVED"
+"FY28 consensus revenue 43,645",43645,0.118,2.72,35.33,13.0,13.2,-0.016,"net interest income 50 (FY26 XBRL), tax 22.5% (dig_1), diluted shares 1,481.0M (FY26 XBRL); DERIVED"
+"FY28 consensus revenue 43,645",43645,0.127,2.93,35.33,12.1,13.2,-0.085,"net interest income 50 (FY26 XBRL), tax 22.5% (dig_1), diluted shares 1,481.0M (FY26 XBRL); DERIVED"
+"FY31 revenue at 3% CAGR 47,692",47692,0.072,1.82,35.33,19.4,13.2,0.468,"net interest income 50 (FY26 XBRL), tax 22.5% (dig_1), diluted shares 1,481.0M (FY26 XBRL); DERIVED"
+"FY31 revenue at 3% CAGR 47,692",47692,0.083,2.1,35.33,16.8,13.2,0.276,"net interest income 50 (FY26 XBRL), tax 22.5% (dig_1), diluted shares 1,481.0M (FY26 XBRL); DERIVED"
+"FY31 revenue at 3% CAGR 47,692",47692,0.1,2.52,35.33,14.0,13.2,0.061,"net interest income 50 (FY26 XBRL), tax 22.5% (dig_1), diluted shares 1,481.0M (FY26 XBRL); DERIVED"
+"FY31 revenue at 3% CAGR 47,692",47692,0.118,2.97,35.33,11.9,13.2,-0.099,"net interest income 50 (FY26 XBRL), tax 22.5% (dig_1), diluted shares 1,481.0M (FY26 XBRL); DERIVED"
+"FY31 revenue at 3% CAGR 47,692",47692,0.127,3.2,35.33,11.1,13.2,-0.162,"net interest income 50 (FY26 XBRL), tax 22.5% (dig_1), diluted shares 1,481.0M (FY26 XBRL); DERIVED"
