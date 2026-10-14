@@ -1,0 +1,36 @@
+"""Run the store-footprint tests on the tidy CSVs in this folder. Usage: python3 -I run_tests.py <stores_dir>"""
+import sys, os, pandas as pd
+D = sys.argv[1]; P = lambda f: os.path.join(D, f)
+pd.set_option("display.width", 250)
+print("=== T1 US Nike-owned stores (locator, weekly) vs 10-K ===")
+w = pd.read_csv(P("nike_locator_weekly_counts.csv"))
+us = w[(w.bucket == "US") & (w["owner:type"] == "NIKE_OWNED_STORE")].copy()
+us["kind"] = us.brand.map(lambda b: "factory_clearance" if b in ("Nike Factory Store", "Nike Clearance Store") else "inline")
+t = us.groupby(["run_date", "kind"]).n.sum().unstack().fillna(0).astype(int)
+t = t[t.index >= "2025-04"]
+print(t.iloc[::4].to_string()); print(t.tail(8).to_string())
+print("\n=== T1b closures (refs last seen before final run), US owned, by month ===")
+e = pd.read_csv(P("nike_locator_store_events.csv"))
+last = e.last_seen.max()
+c = e[(e.country == "US") & (e.owner_type == "NIKE_OWNED_STORE") & (e.last_seen < last) & (e.last_seen >= "2025-04")]
+print(c.groupby([c.last_seen.str[:7], c.brand]).size().to_string())
+o = e[(e.country == "US") & (e.owner_type == "NIKE_OWNED_STORE") & (e.first_seen > "2025-04-17")]
+print("US owned new refs since 2025-04-17:", len(o), o.brand.value_counts().to_dict())
+print("\n=== T2 US athletic partner doors (filings) ===")
+f = pd.read_csv(P("partner_doors_filings.csv"))
+print(f[f.metric.isin(["north_america_stores", "stores", "dicks_banner_stores"])].pivot_table(index="as_at", columns="partner", values="value").to_string())
+pw = pd.read_csv(P("partner_doors_weekly_atp.csv"))
+pw["m"] = pw.run_date.str[:7]
+print(pw[pw.run_date >= "2025-01"].groupby(["m", "spider"]).n_us.median().unstack().iloc[::3].to_string())
+print("\n=== T3 China partner doors: Topsports, Pou Sheng vs Anta, Li Ning controls ===")
+ts = pd.read_csv(P("topsports_store_counts.csv")); ps = pd.read_csv(P("pousheng_store_counts.csv"))
+an = pd.read_csv(P("anta_store_counts.csv")); ln = pd.read_csv(P("lining_pos_counts.csv"))
+print(ts[["as_at", "directly_operated_stores"]].to_string(index=False))
+print(ps[["as_at", "directly_operated_stores", "net_change_in_period"]].to_string(index=False))
+print(an[["as_at", "anta_brand_stores_mainland_and_overseas"]].to_string(index=False))
+print(ln[["as_at", "lining_core_pos_china"]].to_string(index=False))
+q = pd.read_csv(P("topsports_quarterly_updates.csv"))
+print(q[["as_at", "selling_area_qoq_pct", "selling_area_yoy_pct", "retail_wholesale_sales_yoy_band"]].to_string(index=False))
+print("\n=== T3b Nike locator China (data quality) ===")
+cn = w[w.bucket == "China mainland"].groupby(["run_date", "owner:type"]).n.sum().unstack().fillna(0).astype(int)
+print(cn[cn.index >= "2025-04"].iloc[::4].to_string())

@@ -1,0 +1,1811 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility for the contents of
+this announcement, make no representation as to its accuracy or completeness and expressly disclaim any liability whatsoever for any
+loss howsoever arising from or in reliance upon the whole or any part of the contents of this announcement.
+
+
+
+
+                            INTERIM RESULTS ANNOUNCEMENT
+                          FOR THE SIX MONTHS ENDED 30 JUNE 2021
+
+ FINANCIAL HIGHLIGHTS
+
+ •      Net profit attributable to equity holders increased by 187% to RMB1,962 million, and the net profit
+        margin raised from 11.1% to 19.2%:
+
+        –       Revenue increased by 65% to RMB10,197 million
+
+        –       Gross profit margin expanded 6.4 percentage points to 55.9%
+
+        –       Enhanced operating leverage help drove operating profit margin expanded 10.4 percentage points
+                to 24.9%
+
+ •      Operating cash flow increased by over 590% to RMB3,325 million.
+
+ •      Significant improvement in working capital continued:
+
+        –       Gross average working capital improved (reduced) by over 10% while revenue increased by 65%
+
+        –       Cash conversion cycle further improved (shortened) by 17 days (2020 H1: 30 days/2021 H1: 13
+                days)
+
+ OPERATIONAL HIGHLIGHTS
+
+ •      The retail sell-through for the overall platform increased by low-nineties, including online and offline
+        channels.
+
+ •      Channel inventory declined mid-single-digit with improved aging structure, notwithstanding the above
+        retail sell-through expansion, the inventory turnover has still been greatly improved.
+
+ •      Offline channel new product sell-through increase accelerated to mid-nineties:
+
+        –       Improvement in retail discount rate recorded high-single-digit percentage points
+
+        –       Sell-out rate: Both 6-month and 3-month improved by approximately 21 percentage points
+
+
+
+
+                                                               -1-
+INTERIM RESULTS
+
+The board of directors (the “Board”) of Li Ning Company Limited (the “Company” or “Li Ning Company”) is
+pleased to announce the unaudited condensed consolidated interim results of the Company and its subsidiaries
+(collectively, the “Group”) for the six months ended 30 June 2021, together with comparative figures of 2020,
+as follows:
+
+INTERIM CONDENSED CONSOLIDATED BALANCE SHEET
+
+                                                                               Unaudited           Audited
+                                                                                   As at              As at
+                                                                                 30 June       31 December
+                                                                   Note             2021              2020
+                                                                                RMB’000           RMB’000
+
+ASSETS
+Non-current assets
+Property, plant and equipment                                                    1,217,045         1,065,058
+Right-of-use assets                                                                978,793         1,065,979
+Investment properties                                                            1,790,520           115,200
+Land use rights                                                                    164,478           166,377
+Intangible assets                                                                  180,216           190,746
+Deferred income tax assets                                                         638,777           590,635
+Other assets                                                                             –           138,518
+Investments accounted for using the equity method                                1,222,015         1,101,116
+Investments measured at fair value through profit or loss                          130,100                 –
+Other receivables                                                                  140,754           128,714
+Long-term bank deposits                                                          2,103,488           254,966
+
+Total non-current assets                                                         8,566,186         4,817,309
+
+Current assets
+
+Inventories                                                         4            1,307,280         1,345,539
+Other assets – current portion                                                     705,523           518,902
+Trade receivables                                                   5              800,679           658,796
+Other receivables – current portion                                                 66,503            65,196
+Restricted bank deposits                                                             1,076             1,084
+Short-term bank deposits                                                           100,216                 –
+Cash and cash equivalents                                                        6,108,102         7,187,039
+
+Total current assets                                                             9,089,379         9,776,556
+
+Total assets                                                                   17,655,565         14,593,865
+
+
+
+
+                                                     -2-
+                                                                    Unaudited         Audited
+                                                                        As at            As at
+                                                                      30 June     31 December
+                                                             Note        2021            2020
+                                                                     RMB’000         RMB’000
+
+EQUITY
+Capital and reserves attributable to equity holders of the
+ Company
+Ordinary shares                                                        228,717         228,285
+Share premium                                                        4,050,617       4,037,767
+Shares held for Restricted Share Award Scheme                          (47,471)       (148,995)
+Other reserves                                                         959,940         874,574
+Retained earnings                                                    5,142,253       3,695,232
+
+                                                                    10,334,056       8,686,863
+
+Non-controlling interests in equity                                      2,554           2,554
+
+Total equity                                                        10,336,610       8,689,417
+
+LIABILITIES
+Non-current liabilities
+License fees payable                                                   22,249          23,395
+Derivative financial instruments                                            –          10,181
+Lease liabilities                                                     636,530         688,642
+Deferred income tax liabilities                                       435,537         102,738
+Deferred income                                                        69,908          64,435
+
+Total non-current liabilities                                        1,164,224        889,391
+
+Current liabilities
+Trade payables                                                6      1,377,468       1,227,129
+Contract liabilities                                                   337,951         286,134
+Lease liabilities – current portion                                    342,430         360,895
+Other payables and accruals                                          3,296,404       2,500,991
+License fees payable – current portion                                  74,552          39,494
+Current income tax liabilities                                         716,184         591,860
+Derivative financial instruments – current portion                       9,742           8,554
+
+Total current liabilities                                            6,154,731       5,015,057
+
+Total liabilities                                                    7,318,955       5,904,448
+
+Total equity and liabilities                                        17,655,565     14,593,865
+
+
+
+
+                                                     -3-
+INTERIM CONDENSED CONSOLIDATED INCOME STATEMENT
+
+                                                                                  Unaudited
+                                                                           Six months ended 30 June
+                                                                    Note         2021             2020
+                                                                              RMB’000         RMB’000
+
+Revenue                                                              3      10,196,584       6,180,935
+Cost of sales                                                        7      (4,497,520)     (3,124,144)
+
+Gross profit                                                                 5,699,064       3,056,791
+
+Distribution expenses                                                7      (2,857,021)     (1,948,689)
+Administrative expenses                                              7        (437,460)       (346,276)
+Provision for expected credit loss allowance for financial assets
+  – net                                                                         (6,622)        (24,420)
+Other income and other gains – net                                   8         140,452         160,502
+
+Operating profit                                                             2,538,413         897,908
+
+Finance income                                                       9          45,388          19,394
+Finance expenses                                                     9         (37,925)        (31,888)
+
+Finance income/(expenses) – net                                      9           7,463         (12,494)
+Share of profit of investments accounted for using the equity
+  method                                                                        79,571          21,767
+
+Profit before income tax                                                     2,625,447         907,181
+
+Income tax expense                                                  10        (663,224)       (223,910)
+
+Profit for the period                                                        1,962,223         683,271
+
+Profit is attributable to:
+
+Equity holders of the Company                                                1,962,223         683,271
+Non-controlling interests                                                            –               –
+
+                                                                             1,962,223         683,271
+
+Earnings per share attributable to equity holders of the
+ Company for the period (expressed in RMB cents per
+ share)
+
+Basic earnings per share                                            11           79.04           27.98
+
+Diluted earnings per share                                          11           77.96           27.30
+
+
+
+
+                                                      -4-
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+
+                                                               Unaudited
+                                                         Six months ended 30 June
+                                                               2021            2020
+                                                           RMB’000         RMB’000
+
+Profit for the period                                     1,962,223         683,271
+Other comprehensive (loss)/income:
+Items that may be reclassified to profit or loss
+  Currency translation differences                           (1,568)          2,737
+
+Total comprehensive income for the period                 1,960,655         686,008
+
+Attributable to:
+Equity holders of the Company                             1,960,655         686,008
+Non-controlling interests                                         –               –
+
+                                                          1,960,655         686,008
+
+
+
+
+                                                   -5-
+Notes:
+
+1.       General information
+
+         Li Ning Company Limited (the “Company”) and its subsidiaries (together, the “Group”) are principally engaged in brand
+         development, design, manufacture, sale and distribution of sport-related footwear, apparel, equipment and accessories in the
+         People’s Republic of China (the “PRC”).
+
+         The Company was incorporated on 26 February 2004 in the Cayman Islands as an exempted company with limited liability under
+         the Companies Law, Cap.22 (Law 3 of 1961, as consolidated and revised) of the Cayman Islands. The address of its registered
+         office is Cricket Square, Hutchins Drive, P.O. Box 2681, Grand Cayman KY1-1111, Cayman Islands.
+
+         The Company’s shares are listed on the Main Board of The Stock Exchange of Hong Kong Limited.
+
+         This condensed consolidated interim financial information is presented in Renminbi (“RMB”), unless otherwise stated. This
+         condensed consolidated interim financial information was approved for issue by the Board on 12 August 2021.
+
+         This condensed consolidated interim financial information has not been audited.
+
+2.       Accounting policies
+
+         The accounting policies applied to the preparation of this condensed consolidated interim financial information are consistent
+         with those applied in the annual financial statements for the year ended 31 December 2020, except for the estimation of income
+         tax using the tax rate that would be applicable to expected total annual earnings.
+
+         Impact of standards issued but not yet applied by the Group
+
+         Certain new accounting standards and interpretations have been published but are not mandatory for reporting period commencing
+         1 January 2021 and have not been early adopted by the Group. These standards are not expected to have a material impact on
+         the Group in the current or future reporting periods and on foreseeable future transactions.
+
+3.       Segment information and revenue
+
+         The management of the Company (“Management”) is the Group’s chief operating decision-maker. Management reviews the
+         Group’s internal reports periodically in order to assess results and allocate resources. Management has determined the operating
+         segments based on these reports.
+
+         The Group was principally engaged in a single line of business of sporting goods. Management reviewed the performance of the
+         Group as a whole, thus there was only one reportable segment and no segment information was presented.
+
+         The Group derives revenue in the following major product lines and geographical regions:
+
+                                                                                                            Unaudited
+                                                                                                     Six months ended 30 June
+                                                                                                           2021               2020
+                                                                                                       RMB’000             RMB’000
+
+         Footwear                                                                                       4,594,177              2,924,956
+         Apparel                                                                                        5,061,494              2,941,172
+         Equipment and accessories                                                                        540,913                314,807
+
+         Total                                                                                         10,196,584              6,180,935
+
+
+
+
+                                                                   -6-
+Geographical information of revenue
+
+                                                                                                   Unaudited
+                                                                                            Six months ended 30 June
+                                                                                                  2021               2020
+                                                                                              RMB’000             RMB’000
+
+The PRC (including the Hong Kong Special Administrative Region and the Macau
+  Special Administrative Region)                                                             10,074,827              6,112,666
+Other regions                                                                                   121,757                 68,269
+
+Total                                                                                        10,196,584              6,180,935
+
+
+Revenue by geographical location is determined on the basis of destination of shipment/delivery.
+
+The Group has a large number of customers. For the six months ended 30 June 2021 and 2020, no revenue derived from transactions
+with a single external customer represented 10% or more of the Group’s total revenue.
+
+
+
+
+                                                         -7-
+4.   Inventories
+
+                                                                                                 Unaudited               Audited
+                                                                                                   30 June           31 December
+                                                                                                      2021                  2020
+                                                                                                  RMB’000               RMB’000
+
+     Raw materials                                                                                   13,820                 8,078
+     Work in progress                                                                                17,621                 9,345
+     Finished goods                                                                               1,361,096             1,441,249
+
+                                                                                                  1,392,537             1,458,672
+     Less: provision for write-down of inventories to net realisable value                          (85,257)             (113,133)
+
+                                                                                                  1,307,280             1,345,539
+
+
+     The cost of inventories recognised as expenses and included in cost of sales amounted to RMB4,374,285,000 for the six months
+     ended 30 June 2021 (30 June 2020: RMB3,026,834,000). Inventory provision and the amount of reversal have been included in
+     cost of sales in the interim condensed consolidated income statement for the six months ended 30 June 2021 and 2020.
+
+5.   Trade receivables
+
+                                                                                                 Unaudited               Audited
+                                                                                                   30 June           31 December
+                                                                                                      2021                  2020
+                                                                                                  RMB’000               RMB’000
+
+     Accounts receivable                                                                          1,089,228               939,233
+
+     Less: expected credit loss allowance for trade receivables                                    (288,549)             (280,437)
+
+                                                                                                    800,679               658,796
+
+
+     Customers are normally granted credit terms within 90 days. As at 30 June 2021 and 31 December 2020, ageing analysis of trade
+     receivables based on invoice date is as follows:
+
+                                                                                                 Unaudited               Audited
+                                                                                                   30 June           31 December
+                                                                                                      2021                  2020
+                                                                                                  RMB’000               RMB’000
+
+     0 – 30 days                                                                                    738,724               437,604
+     31 – 60 days                                                                                    29,425               193,041
+     61 – 90 days                                                                                    49,392                44,213
+     91 – 180 days                                                                                   44,782                35,026
+     Over 180 days                                                                                  226,905               229,349
+
+                                                                                                  1,089,228               939,233
+
+
+
+
+                                                                  -8-
+     The movement in the expected credit loss allowance for trade receivables is shown as follows:
+
+                                                                                                       Unaudited
+                                                                                                Six months ended 30 June
+                                                                                                      2021               2020
+                                                                                                  RMB’000             RMB’000
+
+     Opening balance                                                                                  280,437              258,193
+     Provision for expected credit loss allowance for trade receivables                                 9,925               25,976
+     Trade receivables written off during the period as uncollectible and exchange rate
+       impact                                                                                           (1,813)               (563)
+
+     Closing balance                                                                                  288,549              283,606
+
+
+6.   Trade payables
+
+     The normal credit period for trade payables generally ranges from 30 to 60 days. Ageing analysis of trade payables based on
+     invoice date at the respective balance sheet date is as follows:
+
+                                                                                                  Unaudited                Audited
+                                                                                               30 June 2021       31 December 2020
+                                                                                                   RMB’000                RMB’000
+
+     0 – 30 days                                                                                     1,308,241             967,798
+     31 – 60 days                                                                                       59,791             241,063
+     61 – 90 days                                                                                        2,411               9,253
+     91 – 180 days                                                                                       1,285               3,048
+     181 – 365 days                                                                                      1,466               1,374
+     Over 365 days                                                                                       4,274               4,593
+
+                                                                                                     1,377,468           1,227,129
+
+
+7.   Expenses by nature
+
+                                                                                                       Unaudited
+                                                                                                Six months ended 30 June
+                                                                                                      2021               2020
+                                                                                                  RMB’000             RMB’000
+
+     Cost of inventories recognised as expenses and included in cost of sales                        4,374,285           3,026,834
+     Depreciation on property, plant and equipment (Note a)                                            279,027             250,696
+     Amortisation of land use rights and intangible assets                                              19,624              19,706
+     Depreciation on right-of-use assets                                                               219,909             217,560
+     Advertising and marketing expenses                                                                746,551             555,709
+     Commission and trade fair related expenses                                                        307,744             144,286
+     Staff costs, including directors’ emoluments (Note a)                                             838,660             622,981
+     Short-term lease rentals and variable lease payments not included in lease liabilities
+       and rental related expenses                                                                    347,289              190,961
+     Research and product development expenses (Note a)                                               187,549              139,007
+     Transportation and logistics expenses                                                            376,240              225,563
+     Auditor’s remuneration
+       – Audit services                                                                                 3,110                2,800
+       – Non-audit services                                                                               398                  600
+     Management consulting expenses                                                                    38,099               30,775
+
+     Note:
+
+     (a)     Research and product development expenses include depreciation on property, plant and equipment and staff costs in
+             Research & Development Department, which are also included in depreciation expense and staff costs as disclosed above.
+
+
+
+
+                                                                -9-
+8.    Other income and other gains – net
+
+                                                                                                   Unaudited
+                                                                                            Six months ended 30 June
+                                                                                                  2021               2020
+                                                                                              RMB’000             RMB’000
+
+      Government grants                                                                         64,652             92,384
+      License fees income                                                                       26,258             19,429
+      Interest income from wealth management products measured at fair value through
+        profit or loss                                                                          41,851             48,460
+      Rental income                                                                             28,572                  –
+      Depreciation on investment properties under operating leases                             (21,054)                 –
+      Fair value gains on derivative financial instruments measured at fair value through
+        profit or loss                                                                             173               229
+
+                                                                                               140,452            160,502
+
+
+9.    Finance income/(expenses) – net
+
+
+                                                                                                   Unaudited
+                                                                                            Six months ended 30 June
+                                                                                                  2021               2020
+                                                                                              RMB’000             RMB’000
+
+      Finance income
+      Interest income on bank balances and deposits                                             44,916             17,407
+      Net foreign currency exchange gain                                                           472              1,987
+
+                                                                                                45,388             19,394
+
+      Finance expenses
+      Amortisation of discount – license fees payable                                           (1,300)            (1,409)
+      Amortisation of discount – lease liabilities                                             (29,375)           (25,506)
+      Others                                                                                    (7,250)            (4,973)
+
+                                                                                               (37,925)           (31,888)
+
+      Finance income/(expenses) – net                                                            7,463            (12,494)
+
+
+10.   Income tax expense
+
+                                                                                                   Unaudited
+                                                                                            Six months ended 30 June
+                                                                                                  2021               2020
+                                                                                              RMB’000             RMB’000
+
+      Current income tax
+        – Corporate income tax                                                                 730,393            329,745
+
+      Deferred income tax credit                                                               (67,169)          (105,835)
+
+      Income tax expense                                                                       663,224            223,910
+
+
+
+
+                                                               - 10 -
+11.   Earnings per share
+
+      Basic
+
+      Basic earnings per share are calculated by dividing the profit attributable to equity holders of the Company by the weighted
+      average number of shares in issue less shares held for Restricted Share Award Scheme during the period. Such weighted average
+      number of shares outstanding shall be adjusted for events such as bonus issue and stock dividend.
+
+      In April 2013, the Company completed the issuance of convertible securities. In January 2015, the Company completed the issuance
+      of offer securities which included the issuance of both ordinary shares and convertible securities. The below market subscription
+      price of these two events had effectively resulted in 282,000 ordinary shares (30 June 2020: 286,000 ordinary shares) to be issued
+      upon conversion for nil consideration (i.e. the bonus element), and such impact has been taken into account in calculating the
+      weighted average number of shares for the purpose of basic earnings per share. The shares issued for nil consideration arising
+      from the issuance of convertible securities have been adjusted retrospectively and treated as outstanding as if the issuance had
+      occurred at the beginning of 2020.
+
+                                                                                                           Unaudited
+                                                                                                    Six months ended 30 June
+                                                                                                          2021               2020
+
+      Profit attributable to equity holders of the Company (RMB’000)                                   1,962,223               683,271
+
+
+      Deemed weighted average number of shares and convertible securities after
+       adjustment for related bonus element for basic earnings per share (in thousands)                2,482,621             2,441,780
+
+
+      Basic earnings per share (RMB cents)                                                                 79.04                  27.98
+
+
+      Diluted
+
+      Diluted earnings per share are calculated by adjusting the weighted average number of shares in issue to assume conversion of
+      all dilutive potential shares. The Company’s dilutive potential shares comprise shares to be issued under share option schemes
+      and Restricted Share Award Scheme. In relation to shares issued under share option schemes, a calculation is done to determine
+      the number of shares that could have been acquired at fair value (determined as the average market share price of the Company’s
+      shares during the period) based on the monetary value of the subscription rights attached to outstanding share options. The
+      number of shares calculated as above is compared with the number of shares that would have been issued assuming the exercise
+      of the share options.
+
+
+                                                                                                           Unaudited
+                                                                                                    Six months ended 30 June
+                                                                                                          2021               2020
+
+      Profit attributable to equity holders of the Company, used to determine diluted
+        earnings per share (RMB’000)                                                                   1,962,223               683,271
+
+
+      Deemed weighted average number of shares and convertible securities after
+       adjustment for related bonus element for basic earnings per share (in thousands)                2,482,621             2,441,780
+      Adjustment for the restricted shares (in thousands)                                                 10,034                21,023
+      Adjustment for the share option schemes (in thousands)                                              24,222                39,615
+
+      Deemed weighted average number of shares for diluted earnings per share (in
+       thousands)                                                                                      2,516,877             2,502,418
+
+
+      Diluted earnings per share (RMB cents)                                                               77.96                  27.30
+
+
+      Note:
+
+      As at 30 June 2021, there were no share options that could potentially have a dilutive impact in the future but were anti-dilutive
+      during the six months ended 30 June 2021. As at 30 June 2020, there were 3,156,000 share options that could potentially have
+      dilutive impact in the future but were anti-dilutive during the six months ended 30 June 2020.
+
+
+
+                                                                - 11 -
+12.   Business combination
+
+      (a)   Summary of acquisition
+
+            On 31 December 2020, the Group entered into an equity and creditor’s rights transfer agreement (the “Transfer Agreement”)
+            with two independent third parties (collectively, the “Transferors”), pursuant to which the Group has conditionally agreed
+            to acquire (1) the entire share capital of Matsunichi Communications (Hong Kong) Limited (the “Target Company”,
+            a company incorporated under the laws of Hong Kong with limited liability) (the “Target Shares”) and (2) the rights
+            of the Transferors in the loans extended to the Target Company and its subsidiary (collectively, the “Target Group”)
+            respectively (collectively, the “Transferred Creditor’s Rights”). The Target Company is an investment holding company
+            and its principal asset is the entire equity interest in its subsidiary, which owns certain investment properties located in
+            the Greater Bay Area of the PRC.
+
+            The above acquisition of the Target Shares and the Transferred Creditor’s Rights was completed on 28 January 2021.
+            Details of the purchase consideration, the net assets acquired and goodwill are as follows:
+
+                                                                                                                             RMB’000
+
+            Cash consideration for the Target Shares                                                                           495,497
+            Cash consideration for the Transferred Creditor’s Rights                                                           730,770
+
+            Provisional total purchase consideration (which is subject to adjustment as
+              agreed in the Transfer Agreement)                                                                              1,226,267
+
+
+            The assets and liabilities recognised as a result of the acquisition are as follows:
+
+                                                                                                                            Unaudited
+                                                                                                                           Provisional
+                                                                                                                            fair value
+                                                                                                                             RMB’000
+
+            Current assets
+            Cash and cash equivalents                                                                                            47,587
+            Other receivables – current portion                                                                                     389
+            Other assets – current portion                                                                                        9,325
+
+            Non-current assets
+            Property, plant and equipment                                                                                           16
+            Investment properties                                                                                            1,798,310
+
+            Current liabilities
+            Other payables and accruals                                                                                       (281,836)
+
+            Non-current liabilities
+            Deferred tax liabilities                                                                                          (351,828)
+
+            Net identifiable assets acquired                                                                                 1,221,963
+
+            Add: goodwill                                                                                                         4,304
+
+                                                                                                                             1,226,267
+
+
+            (i)    Acquisition-related costs
+
+                   Acquisition-related costs of RMB2,319,000 are included in administrative expenses in profit or loss.
+
+            (ii)   Revenue and profit contribution
+
+                   The acquired business contributed revenues and net profit of nil and RMB1,735,000 respectively to the Group for
+                   the period from 29 January 2021 to 30 June 2021. If the acquisition had occurred on 1 January 2021, consolidated
+                   revenue and consolidated profit after tax for the half-year ended 30 June 2021 would have been RMB10,196,584,000
+                   and RMB1,896,622,000 (taking into consideration the one-off expense of RMB70,659,000 incurred by the Target
+                   Group in relation to the acquisition) respectively, which are calculated by aggregating the consolidated financial
+                   information of the Target Group and the Group.
+
+                                                               - 12 -
+      (b)    Purchase consideration – cash outflow
+
+                                                                                                                        Unaudited
+                                                                                                                 Six months ended
+                                                                                                                     30 June 2021
+                                                                                                                         RMB’000
+
+             Outflow of cash to acquire subsidiaries, net of cash acquired
+             Cash consideration                                                                                           1,226,267
+             Cash paid to settle the payables of the Target Group in relation to the business combination
+               (which were included in other payables and accruals as at the date of acquisition)                           153,978
+             Refundable consideration due from the Transferors                                                                9,492
+             Less: Cash acquired                                                                                            (47,587)
+                   Prepayment for consideration for acquisition of subsidiaries                                             (47,904)
+
+                                                                                                                          1,294,246
+
+
+13.   Dividends
+
+      On 11 June 2021, the shareholders of the Company approved to declare a final dividend of RMB20.46 cents per ordinary share
+      of the Company issued or to be issued upon conversion of convertible securities for the year ended 31 December 2020. The final
+      dividend was paid in June 2021.
+
+      On 12 June 2020, the shareholders of the Company approved to declare a final dividend of RMB15.47 cents per ordinary share
+      of the Company issued or to be issued upon conversion of convertible securities for the year ended 31 December 2019. The final
+      dividend was paid in June 2020.
+
+      The Board did not propose interim dividend for the six months ended 30 June 2021 (30 June 2020: nil).
+
+
+
+
+                                                              - 13 -
+DIVIDENDS
+
+The Board resolved not to distribute any interim dividend for the six months ended 30 June 2021 (30 June
+2020: nil).
+
+The proposed final dividend of RMB20.46 cents per ordinary share of the Company issued or to be issued upon
+conversion of convertible securities for the year ended 31 December 2020 was declared payable and approved
+by the shareholders at the annual general meeting of the Company on 11 June 2021.
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+FINANCIAL OVERVIEW
+
+The key operating and financial performance indicators of the Group for the six months ended 30 June 2021
+are set out below:
+
+                                                                               Unaudited
+                                                                        Six months ended 30 June
+                                                                        2021         2020 Change (%)
+
+Income statement items
+(All amounts in RMB thousands unless otherwise stated)
+Revenue (Note 1)                                                  10,196,584      6,180,935           65.0
+Gross profit                                                       5,699,064      3,056,791           86.4
+Operating profit                                                   2,538,413        897,908          182.7
+Earnings before interest, tax, depreciation and amortisation
+  (EBITDA) (Note 1)                                                3,157,598      1,407,637          124.3
+Profit attributable to equity holders (Note 2)                     1,962,223        683,271          187.2
+Basic earnings per share (RMB cents) (Note 3)                          79.04          27.98          182.5
+
+Key financial ratios
+
+Profitability ratios
+Gross profit margin (%)                                                  55.9          49.5
+Operating profit margin (%)                                              24.9          14.5
+Effective tax rate (%)                                                   25.3          24.7
+Margin of profit attributable to equity holders (%)                      19.2          11.1
+Return on equity attributable to equity holders (%)                      20.6           9.3
+
+Expenses to revenue ratios
+Staff costs (%)                                                           8.2          10.1
+Advertising and marketing expenses (%)                                    7.3           9.0
+Research and product development expenses (%)                             1.8           2.2
+
+
+
+Asset efficiency
+Average inventory turnover (days) (Note 4)                                53             84
+Average trade receivables turnover (days) (Note 5)                        13             22
+Average trade payables turnover (days) (Note 6)                           53             76
+
+
+                                                                     30 June 31 December
+                                                                        2021        2020
+
+Debt-to-equity ratio (%) (Note 7)                                       70.8           68.0
+Net asset value per share (RMB cents)                                 415.22         351.24
+
+
+
+
+                                                      - 14 -
+Notes:
+
+1.       The calculation of earnings before interest, tax, depreciation and amortisation (EBITDA) is based on profit for the period, excluding
+         income tax expense, finance (expenses)/income – net, depreciation on property, plant and equipment, depreciation on investment
+         properties under operating leases, amortisation of land use rights and intangible assets and depreciation on right-of-use assets.
+
+2.       Including profit attributable to equity holders for the period from 1 January to 31 March 2021: RMB709,349,000.
+
+3.       The calculation of basic earnings per share is based on the profit attributable to equity holders of the Company for the period,
+         divided by the weighted average number of shares in issue less ordinary shares held for Restricted Share Award Scheme.
+
+4.       The calculation of average inventory turnover (days) is based on the average of opening and closing inventory balances of the
+         period, divided by cost of sales and multiplied by the total number of days in the period.
+
+5.       The calculation of average trade receivables turnover (days) is based on the average of opening and closing balances of trade
+         receivables of the period, divided by revenue and multiplied by the total number of days in the period.
+
+6.       The calculation of average trade payables turnover (days) is based on the average of opening and closing balances of trade
+         payables of the period, divided by total purchases and multiplied by the total number of days in the period.
+
+7.       The calculation of debt-to-equity ratio is based on total liabilities divided by capital and reserves attributable to equity holders
+         of the Company at the end of the period.
+
+*        The aforesaid indicators provided by the Group may not necessarily be the same in terms of calculation methods as those provided
+         by other issuers.
+
+**       The Group adopted the aforesaid non-GAAP financial indicators such as EBITDA, margin of profit attributable to equity holders,
+         return on equity attributable to equity holders, staff costs/advertising and marketing expenses/research and product development
+         expenses to revenue ratio, average inventory/trade receivables/trade payables turnover days, debt-to-equity ratio and net asset
+         value per share because comparable companies in the industry in which the Group operates use the aforesaid common indicators
+         as a supplementary measurement for results of operation, which are also widely used by investors to measure the results of
+         operation of the comparable companies.
+
+Revenue
+
+The Group’s revenue for the six months ended 30 June 2021 amounted to RMB10,196,584,000, representing
+a significant increase of 65.0% as compared to the corresponding period of 2020. During the period, various
+sales improvement initiatives of the Group that were designed for COVID-19 continued to bear fruits as the
+Chinese government stabilised the domestic pandemic situation with effective pandemic prevention and control
+measures. At the same time, the pursuit of a healthier lifestyle and the high recognition and vigorous support
+towards domestic sports brands among Chinese consumers resulted in solid revenue from all channels of the
+Group during the first half of 2021: (1) located mostly in first or second-tier cities, directly-operated stores took
+a particularly heavy hit from the pandemic in the same period last year, but offline terminal sales recovered fast
+and sell-through from directly-operated stores increased drastically by 88.5% during the current period, due to the
+success in pandemic control and consumers’ preference towards Chinese brands; (2) given that the e-commerce
+channel is swift in responding to consumers’ needs, the Group invested into the establishment of such channel
+and relevant products in recent years, which received recognition from consumers and contributed to the rapid
+revenue growth of 77.8% in the current period; and (3) the surge in orders from franchised distributors resulting
+from significantly-increased sell-through boosted sales revenue by 47.7% and demonstrated these distributors’
+confidence in the domestic market and brands.
+
+
+
+
+                                                                    - 15 -
+Revenue breakdown by product category
+
+                                               Six months ended 30 June
+                                            2021                      2020
+                                                      % of                            % of      Revenue
+                                                      total                           total      Change
+                                      RMB’000      revenue     RMB’000             revenue          (%)
+
+Footwear                              4,594,177              45.1    2,924,956        47.3         57.1
+Apparel                               5,061,494              49.6    2,941,172        47.6         72.1
+Equipment and accessories               540,913               5.3      314,807         5.1         71.8
+
+Total                                10,196,584             100.0    6,180,935       100.0         65.0
+
+Revenue breakdown (in %) by sales channel
+
+                                                                     Six months ended 30 June
+                                                                    2021            2020        Change
+                                                            % of revenue    % of revenue           (%)
+PRC market
+  Sales to franchised distributors                                   45.0           50.3           (5.3)
+  Sales from direct operation                                        24.7           21.6            3.1
+  Sales from e-commerce channel                                      29.1           27.0            2.1
+International markets                                                 1.2            1.1            0.1
+
+Total                                                               100.0          100.0              –
+
+Revenue breakdown by geographical location
+
+                                                 Six months ended 30 June
+                                              2021                      2020
+                                                                                                Revenue
+                                                          % of                        % of       Change
+                             Note     RMB’000          revenue        RMB’000      revenue          (%)
+
+PRC market
+  Northern region            1        4,966,189              48.7     3,249,723       52.6         52.8
+  Southern region            2        3,844,473              37.7     2,134,725       34.5         80.1
+  South China region         3        1,264,165              12.4      728,218        11.8         73.6
+International markets                  121,757                1.2       68,269         1.1         78.3
+
+Total                                 10,196,584            100.0     6,180,935      100.0         65.0
+
+
+
+
+                                                   - 16 -
+Notes:
+
+1.       The Northern region includes provinces, municipalities and autonomous regions covering Beijing, Tianjin, Shanxi, Shandong,
+         Hebei, Inner Mongolia, Henan, Heilongjiang, Jilin, Liaoning, Shaanxi, Gansu, Ningxia, Xinjiang and Qinghai.
+
+2.       The Southern region includes provinces, municipalities and an autonomous region covering Yunnan, Guizhou, Sichuan, Jiangxi,
+         Chongqing, Tibet, Shanghai, Zhejiang, Jiangsu, Hunan, Hubei and Anhui.
+
+3.       The South China region includes provinces, an autonomous region and a special administrative region covering Guangdong,
+         Guangxi, Fujian, Hainan and Macau.
+
+Cost of Sales and Gross Profit
+
+For the six months ended 30 June 2021, the overall cost of sales of the Group amounted to RMB4,497,520,000
+(2020: RMB3,124,144,000), and the overall gross profit margin was 55.9% (2020: 49.5%). During the period,
+retail discount rates improved greatly; given the decrease in the original value of inventories and the improvement
+in the age of inventory, the Group decreased the provision for some inventories; and the revenue contribution
+of direct-to-consumer channels (direct operation and e-commerce channels) owning higher gross profit margin
+also increased. All factors above drove the significant increase in gross profit margin. As a result, the gross
+profit margin of the Group increased by 6.4 percentage points for the period as compared to the corresponding
+period last year.
+
+Distribution Expenses
+
+For the six months ended 30 June 2021, the Group’s overall distribution expenses amounted to RMB2,857,021,000
+(2020: RMB1,948,689,000), accounting for 28.0% (2020: 31.5%) of the Group’s total revenue.
+
+The distribution expenses of the Group increased by 46.6% as compared to the corresponding period last year,
+and its percentage to revenue fell by 3.5 percentage points. Along with the increase in revenue, rental, wages
+and bonuses of direct sales staff, investment in advertising and marketing, and commission for the e-commerce
+channel that related to revenue recorded increases to varying degrees. Nonetheless, their overall growth rate was
+lower than that of revenue. Thus, the percentage of distribution expenses to revenue declined in the current period.
+
+Administrative Expenses
+
+For the six months ended 30 June 2021, the Group’s overall administrative expenses amounted to RMB437,460,000
+(2020: RMB346,276,000), accounting for 4.3% (2020: 5.6%) of the Group’s total revenue with a year-on-year
+decrease of 1.3 percentage point. Administrative expenses mainly comprised staff costs, management consulting
+fees, office rental, depreciation and amortisation charges, technological development fees, taxes and other
+miscellaneous daily expenses.
+
+The increase in administrative expenses is mainly attributable to: (1) the increase in wage and bonus expenses
+as bonuses were partially linked to the overall operating results of the Group; (2) the growth in net income
+which led to the increase in various additional tax related to value-added tax; and (3) the increase in investment
+in research and development.
+
+Share of Profit of Investments Accounted for Using the Equity Method
+
+For the six months ended 30 June 2021, the Group’s share of profit of investments accounted for using the
+equity method amounted to RMB79,571,000 (2020: RMB21,767,000).
+
+
+
+
+                                                                - 17 -
+Significant Investment
+
+As of 30 June 2021, the significant investment held by the Group is the 47.5% equity interest in Double Happiness
+(30 June 2020: 47.5%). The cost of the Group’s investment in Double Happiness is RMB587,335,000 (30 June
+2020: RMB587,335,000). As of 30 June 2021, the carrying value of the interest in Double Happiness held by the
+Group calculated using the equity method is RMB996,834,000 (30 June 2020: RMB953,176,000), representing
+a percentage of approximately 5.6% (30 June 2020: 7.5%) of the Group’s total assets.
+
+Double Happiness is principally engaged in the manufacturing and sales of sports products. As a world-renowned
+brand of table-tennis related products, the Double Happiness brand owned by it is the supplier of equipment and
+gears for use in various major tournaments in the PRC or globally. The Double Happiness brand products are
+mainly sold by means of wholesale and integrated sports goods shops. Double Happiness has a relatively stable
+customer base in nearly 30 provinces and municipalities in the PRC. It has put more resources in expanding its
+business presence in online sales in recent years. Leveraging its excellent product R&D and design capabilities
+and long-established brand popularity, the Double Happiness brand manages to maintain its leading position in
+the domestic market of similar products consistently. The investment in Double Happiness will create synergy
+with Li Ning brand in terms of sales and marketing of brand products, tournament sponsorship and channel
+expansion.
+
+Earnings before Interest, Tax, Depreciation and Amortisation (EBITDA)
+
+For the six months ended 30 June 2021, the Group’s EBITDA amounted to RMB3,157,598,000 (2020:
+RMB1,407,637,000), representing a year-on-year increase of 124.3%.
+
+Reconciliations of EBITDA and the profit for the period are as follows:
+
+                                                                                 Six months ended 30 June
+                                                                                       2021             2020
+                                                                                    RMB’000         RMB’000
+
+Reconciliation of profit for the period to EBITDA:
+Profit for the period                                                               1,962,223           683,271
+Income tax expense                                                                    663,224           223,910
+Finance income                                                                        (45,388)          (19,394)
+Finance expenses (including amortisation of discount on lease liabilities)             37,925            31,888
+Depreciation on property, plant and equipment                                         279,027           250,696
+Amortisation of land use rights and intangible assets                                  19,624            19,706
+Depreciation on right-of-use assets                                                   219,909           217,560
+Depreciation on investment properties under operating leases                           21,054                 –
+
+EBITDA                                                                              3,157,598         1,407,637
+
+
+
+
+                                                      - 18 -
+Finance Income/(Expenses)- Net
+
+For the six months ended 30 June 2021, the Group’s net finance income amounted to RMB7,463,000 (2020:
+net finance expenses of RMB12,494,000). The change in net finance income/(expenses) was mainly due to the
+increase in the average disposable capital of the Group for the period as compared to the corresponding period
+last year, as well as the adjustment of the Group’s currency investment portfolio where more funds were deposited
+in the form of fixed term deposits for more stable returns and led to the year-on-year growth of interest income.
+In addition, bank service charges and interest expenses recognised on lease liabilities increased as well, which
+partially offset the increase in interest income.
+
+Income Tax Expense
+
+For the six months ended 30 June 2021, the income tax expense of the Group amounted to RMB663,224,000
+(2020: RMB223,910,000) and the effective tax rate was 25.3% (2020: 24.7%). Currently, the Group’s income
+tax expense is almost in line with the standard level.
+
+Overall Profitability Indicators
+
+Benefiting from the government’s effective prevention and control of the pandemic and consumers’ support
+for domestic brands, the Group recorded significant growth in sales revenue and improvement of gross profit
+margin for the period. Meanwhile, effective cost control measures drove down expenses ratio and boosted
+overall profitability indicators drastically. During the period, the Group’s profit attributable to equity holders
+amounted to RMB1,962,223,000 (2020: RMB683,271,000), representing a year-on-year increase of 187.2%.
+The margin of profit attributable to equity holders was 19.2% (2020: 11.1%). Return on equity attributable to
+equity holders was 20.6% (2020: 9.3%).
+
+Provision for Inventories
+
+The Group’s policy in respect of provision for inventories for the first half of 2021 was the same as that in 2020.
+Inventories of the Group are stated at the cost or net realisable value, whichever is lower. In the event that net
+realisable value falls below cost, the difference is taken as provision for inventories. The Group considers this
+policy to be adequate in ensuring appropriate provision for inventories is made by the Group.
+
+As at 30 June 2021, the accumulated provision for inventories was RMB85,257,000 (31 December 2020:
+RMB113,133,000). The original value of inventory decreased from the beginning of the year due to the growth
+in sales revenue generated from increased sell-through during the period. Credited to inventory control initiative,
+the Group witnessed improvement in the inventory ageing structure and inventory turnover rate as well. Therefore,
+the provision for inventories decreased.
+
+
+
+
+                                                       - 19 -
+Expected Credit Loss Allowance
+
+The Group’s policy in respect of expected credit loss allowance for the first half of 2021 was the same as that in
+2020. The expected credit loss allowance was recorded at an amount equal to the lifetime expected credit losses
+of the trade receivables that do not contain a significant financing component, and 12 months expected credit
+losses or lifetime expected credit losses of other receivables, depending on whether there has been a significant
+increase in credit risk since initial recognition.
+
+As at 30 June 2021, the accumulated expected credit loss allowance was RMB292,015,000 (31 December 2020:
+RMB287,344,000), among which the accumulated expected credit loss allowance for trade receivables was
+RMB288,549,000 (31 December 2020: RMB280,437,000) and the accumulated expected credit loss allowance
+for other receivables was RMB3,466,000 (31 December 2020: RMB6,907,000). The trade receivables and other
+receivables written off during the six months ended 30 June 2021 as uncollectible and the effect of exchange
+rate amounted to RMB1,951,000 (2020: RMB349,000). During the period, the original value of receivables rose
+with the growth of revenue, hence the expected credit loss allowance increased slightly.
+
+Liquidity and Financial Resource
+
+The Group’s net cash from operating activities for the six months ended 30 June 2021 amounted to
+RMB3,324,543,000 (2020: RMB478,986,000). As at 30 June 2021, cash and cash equivalents (including cash
+at banks and in hand, and fixed term deposits with original maturity of no more than three months) amounted to
+RMB6,108,102,000, representing a net decrease of RMB1,078,937,000, as compared with the position as at 31
+December 2020. Adding back the amount recorded as fixed-term deposits held at banks, cash balance amounted
+to RMB8,311,806,000, which represented a net increase of RMB869,801,000 as compared to 31 December 2020.
+The increase was due to the following items:
+
+                                                                                                      Unaudited
+                                                                                                     Six months
+                                                                                                          ended
+                                                                                                   30 June 2021
+                                                                                                       RMB’000
+
+Item
+Operating activities:
+Net cash generated from operating activities                                                           3,324,543
+Investing activities:
+Net cash used in investing activities (including payment for short-term and
+  long-term bank deposits)                                                                            (3,687,894)
+Financing activities:
+Net cash used in financing activities                                                                   (713,900)
+Add: Exchange losses on cash and cash equivalents                                                         (1,686)
+
+Net decrease in cash and cash equivalents                                                             (1,078,937)
+Add: Net increase in short-term and long-term bank deposits                                            1,948,738
+
+Net increase in cash balance                                                                             869,801
+
+
+
+
+                                                      - 20 -
+The Group’s cash flow from operating activities increased significantly year-on-year, which was attributable
+to the remarkable growth in revenue from all channels and the substantial improvement in settlements from
+franchised distributors. In addition, the Group completed the acquisition of equity and creditor’s rights of
+Matsunichi Communications (Hong Kong) Limited during the period, which led to the drastic year-on-year
+increase in cash used in investing activities.
+
+As at 30 June 2021, the Group’s banking facilities amounted to RMB1,758,000,000, without outstanding
+borrowings.
+
+During the period, the Group did not hedge its exposure to interest rate risks via interest-rate swaps.
+
+Foreign Exchange Risk
+
+The Group’s operations are mainly carried out in the PRC, with most transactions settled in Renminbi. The
+reporting currency of the Group is Renminbi. The Group’s subsidiaries in South Korea and Hong Kong use
+South Korean Won and Hong Kong Dollars as their respective functional currencies. The Group has a small
+amount of cash and bank deposits denominated in Hong Kong Dollars, United States Dollars, Euros and South
+Korean Won. The Company pays dividends in Hong Kong Dollars, certain license fees, sponsorship fees and
+consultation fees in United States Dollars or Euros, and certain investments in Hong Kong Dollars, United
+States Dollars or Pound Sterling.
+
+The Group did not hedge its foreign exchange exposure during the period. Any significant exchange rate
+fluctuations of foreign currencies against Renminbi may have had financial impact on the Group.
+
+Pledge of Assets
+
+As at 30 June 2021 and 31 December 2020, the Group had no pledged assets.
+
+Contingent Liabilities
+
+As at 30 June 2021, the Group had no significant contingent liabilities.
+
+BUSINESS REVIEW
+
+During the first half of 2021, against the backdrop of the globally volatile COVID-19 pandemic, China has
+maintained its stable situation in general despite some volatility in individual local areas. Following the increase
+in the vaccine take-up rate for COVID-19, China has solidified its achievement in containing the pandemic
+and thereby maintained the stable recovery of the economy. With a promising beginning of the year in view of
+the national economy of China, the GDP growth for the first half of 2021 achieved 12.7% year-on-year. The
+consumption market remained its good momentum of recovery with expanded demand and enhanced market
+vitality during the first half of year. Regarding the sports industry, the Chinese sports consumption market
+remained active. Amidst the post-pandemic era, it was expected that the public awareness of fitness and health
+would further increase across China, resulting in higher consumption demands for sports and health products and
+in turn facilitating the continuous consumption growth of sports products. As such, we continued to optimize
+the sales and marketing strategy based on the individual needs of consumers, striving to enhance customers’
+consumption experience and further focus on LI-NING’s experience value. Meanwhile, in order to strengthen
+the core values of our brand and products, we have endeavored to build the reputation as a professional sports
+brand, keep ourselves abreast of fashion trends and stay in tune with the times. With enhancement in technological
+research and development, design capability and product quality, domestic brands have been gaining awareness
+and recognition from domestic consumers. Benefiting from this, during the first half of the year, the principal
+operational indicators of the Group have significantly improved with a substantial revenue growth and further
+enhanced profitability.
+
+
+
+
+                                                       - 21 -
+During the period, pursuing the strategy of “Single Brand, Multi-categories, Diversified Channels”, we put
+consistent efforts in upgrading our products, channels and retail capability as well as supply chain to consolidate
+LI-NING’s experience value. In terms of products, we continued to place emphasis on the development of the
+professional aspects and enhance the professional sports attributes of our products. We have dedicated to the
+research and development of sports technology with an aim to optimize product performance. At the same
+time, we paid close attention to the latest fashion trends in the market and the aspect of cultural creativity in an
+attempt to incorporate fashionable elements and diversified styles into our professional sports products, which
+has not only offered more diversified products and consumption choices to consumers, but also enhanced our
+brand value. In terms of operation, we continued to optimize the operation model, stress on enhancing the retail
+operation capability of our stores with diversifying development in various channels as our main strategic focus,
+and boost channel efficiency by improving the online and offline integrated operation mode. Meanwhile, we
+have promoted the strategy of expanding big stores with high efficiency across China, establishing an assortment
+and operation management model that embodies the sporty and trendy image of LI-NING brand. In addition,
+we have improved consumers’ experience by upgrading the image of stores to keep abreast of the times in a
+bid to enhance brand’s recognition and loyalty. In terms of supply chain, we have optimized the supply chain
+management in line with the business needs and continuously established our own supply chain system to increase
+flexibility of our supply. We also pushed forward the changes from passive production to proactive production.
+
+Latest operational update for the second quarter of 2021
+
+For the second quarter ended 30 June 2021, in respect of LI-NING point of sale (“POS”) (excluding LI-NING
+YOUNG) which have been in operation since the beginning of the same quarter of last year, the same-store-
+sales for the overall platform registered a low-eighties growth on a year-on-year basis. In terms of channels,
+retail (direct operation) channel registered a low-nineties growth and wholesale (franchised distributors) channel
+registered a low-seventies growth, while the e-commerce virtual stores business registered a high-eighties growth
+on a year-on-year basis.
+
+For the second quarter ended 30 June 2021, the retail sell-through of LI-NING POS (excluding LI-NING
+YOUNG) for the overall platform increased by low-nineties on a year-on-year basis. In terms of channels,
+offline channel (including retail and wholesale) registered a low-nineties growth, with retail channel increased
+by high-eighties and wholesale channel increased by low-nineties, while the e-commerce virtual stores business
+registered a high-nineties growth.
+
+As at 30 June 2021, the total number of LI-NING POS (excluding LI-NING YOUNG) in China amounted to
+5,704, representing a net decrease of 80 POS since the end of previous quarter and a net decrease of 208 POS
+since the beginning of this year. Among the net decrease of 208 POS, direct retail accounts for a net decrease
+of 61 POS, and wholesale accounts for a net decrease of 147 POS.
+
+As at 30 June 2021, the total number of LI-NING YOUNG POS in China amounted to 1,041, representing a
+net increase of 26 POS since the end of previous quarter and a net increase of 20 POS since the beginning of
+this year.
+
+Further promoting the strategy of “Single Brand, Multi-categories, Diversified Channels” to unleash our
+brand value continuously
+
+Driving product upgrade with technology to build professional reputation of the brand
+
+During the period, we stayed focus on our five core categories, namely basketball, running, training, badminton
+and sports casual. Placing emphasis on the scientific research of sports, we continued to conduct the R&D and
+upgrade of product technology platform to further strengthen the brand’s sports DNA. Meanwhile, we conveyed
+our brand value with unique design concepts which integrated the elements of both Chinese culture and popular
+culture as well as avant-garde arts.
+
+
+
+
+                                                       - 22 -
+In terms of professional aspect, by accelerating the layout of functional products, we continued to upgrade the
+technology and materials and promote the application of high-end technology on more categories and products,
+so as to communicate with consumers from all walks of life and further expand consumers’ mentality to enhance
+consumers’ recognition of the professional image of LI-NING and thereby further unleash the professional value
+of LI-NING brand.
+
+–     Running category accelerated the expansion of the matrix for professional running shoes based on multi-
+      level demands of runners. The Boom series, represented by “Feidian 2.0 Elite” (飛電2.0 Elite), focused
+      on the racing needs of elite runners and opened up the carbon plate running shoes market; “Shadow”
+      (絕影) and “Shadow Essential” (絕影Essential) focused on jogging scenarios and integrated “LI-NING
+      BOOM” (李寧䨻) technology and “LI-NING JIANG” (李寧弜) structure technology to create a unique
+      technological barrier. The focused lightweight and comfortable “Super Light 18th” (超輕18) utilized the
+      “LI-NING BOOM” (李寧䨻) technology, which not only ensures the functional professional experience
+      of mass runners in daily jogging, but also meets the demands of ordinary consumers for casual needs.
+
+–     The basketball category focuses on more specific sports resources and star matrix. Through planning for
+      professional star series products and integrating with high-end technology and sports star resources, the
+      category has enhanced the brand image and status of LI-NING basketball shoes in the industry. “Sonic
+      IX” (音速IX), a well-received professional basketball shoes series for tournaments, was developed and
+      has been fully exposed to public through the platform of CBA All-Star League, driving product sales.
+      Continuing to further explore the business opportunities of “Yushuai XIV BOOM” (馭帥XIV䨻), we
+      successively launched multiple color matching story-packed themes and the player exclusive version of
+      Jimmy Butler, which brought continuous output to meet demands from the professional basketball sector.
+      “All City 9” (全城9) of the WADE series applied the “LI-NING BOOM” (李寧䨻) technology for the
+      first time, which was well recognized by fans in terms of on-site operating performance.
+
+–     The training category has refined the professional product matrix ranging from comprehensive training
+      to sub-scenarios such as strength training and dance, providing functional products of different styles and
+      degrees of professionalism to meet the growing demands for sports consumptions. Continuing to upgrade
+      the protective outfit with wind- and water-proof functions and younger product style, we combined sports
+      with the popular trend and created more dynamic techwear products. We also continued to upgrade “AT
+      DRY” technological material so as to bring consumers better sports experience and product experience.
+      Catering for the women’s market, we set up an exclusive product and design team to focus on the R&D of
+      cutting-edged technological materials, the pattern design and craftsmanship. In view of the development
+      trend of women’s sports, we expanded our core products oriented from the women’s favorite sports.
+
+–     We continued to enhance our badminton category in terms of its functional attributes. The “Ambush 9” (突
+      襲9) rackets has applied the high-density anti-shock system for the first time. The handle grip for striking
+      has been improved through the use of high technological light anti-shock materials aiming to reduce the
+      risks of injury arising from sports. We have re-organised the rackets according to their performance and
+      features into three categories: Attack, Speed and Control. A new generation of rackets series focusing on
+      multiple performances have also been released. In addition, we have extended our classic IP of badminton
+      shoes products and launched a new generation of “Flying shoe” (貼地飛行) for badminton games with
+      the “LI-NING BOOM” (李寧䨻) technology applied on the entire foot to provide better performance of
+      kick-off and shock-relieving in sports games.
+
+
+
+
+                                                     - 23 -
+In respect of sports fashion, we have made breakthroughs with bold innovation. Our products have integrated
+with Chinese culture, avant-garde art and popular elements. We continued to launch products with distinctive
+design concepts in order to echo with the young consumer groups in pursuit of their own personality.
+
+–     Persisting in taking “Sports, Technology, Fashion” as its design DNA to enhance the sports attributes of
+      basketball, the WADE series apparels have applied more technological fabrics and high street fashion
+      elements while maintaining the high-class fashionable sporty style of the WADE series. Through the
+      influence of NBA player D’Angelo Russell, the WADE series apparels were able to associate more with
+      youth culture and basketball, which helped to attract more young consumers. Wade remained active in
+      different areas despite his retirement. He showcased the high-end brand tonality of the apparel products of
+      WADE series with his unique personality of heightened sense of fashion, thereby enhancing the loyalty of
+      our original high-quality customers. Further, we have launched a limited-edition theme series “WE ARE
+      ONE” with the French artist DFT, promoting the philosophy of the products and high-class style of The
+      WADE series to consumers with the unique artistic line design.
+
+–     Persisting in applying “China”, “Street” and “Basketball” as the core concepts of the series’ development,
+      our “BADFIVE” street basketball series continued to develop products with its own unique brand tonality
+      leveraging the trend of popular culture and street basketball, allowing more young fashion consumers to
+      experience the charm of the basketball culture successfully. Combining the inspiration from one-on-one
+      battle on the street basketball court and the Chinese ancient and treacherous military tactics “Empty Fort
+      Strategy” (空城計), we have launched the “Deception is fair in war” (兵不厭詐) packaged product on
+      April Fools’ Day with enriched storyline and product tonality to boost product sales performance. We
+      have also launched a new season of “Too Young To Stay” (少不入川) series partnering with Chengdu’s
+      popular local brand and promoted consumer awareness of the limited-edition city series’ IP continuously,
+      thus enhancing the popularity of the brand and the recognition of the mainstream consumers.
+
+–     As for sports casual products, we had in-depth communications with the young consumer groups continuously
+      by such ways as product crossover and original IP story. We have published original packaged stories
+      successively, namely “Rich Everyday” (日進斗金), “Cherry Blossoms” (櫻花) and “Earth Day” (地球日),
+      integrating Chinese culture with the hot topics among teenager groups, which have stirred up overwhelming
+      market response. We continued to crossover with DISNEY and LINE FRIENDS and launch high-quality
+      products to make breakthroughs in daily life occasion for consumers’ fashion style and expand our products
+      lines’ style to cover more target groups. Further, we have launched the skateboarding series products and
+      developed sneaker culture group exclusively for Li Ning brand users so as to constantly echo with both
+      skateboarding and popular culture bases.
+
+–     China LI-NING series continued to promote new popularity through cross-sector collaboration. We
+      cooperated with “Chinese Robots Godfather” Sun Shiqian (孫世前) to develop the first pair of robot-styled
+      shoes in China “Xuan Kong” (玄空). With its unique design style and the globally leading performance
+      of robotic art, it has perfectly showcased LI-NING brand’s current understanding and leadership of the
+      world fashion trend. We have also launched a new footwear product “Never stop infinity” (超越infinity)
+      and cooperated with Kiko Mizuhara (水原希子), a Japanese actress and model, for the promotional
+      photoshoot to introduce more fashion elements in the product. Meanwhile, we collaborated with the popular
+      movie under the same name “Never Stop” (《超越》) to anchor the image of the main character “Hao
+      Chaoyue” (郝超越) with the style of the footwear product, delivering to the market the brand image of
+      self-breakthrough and our never-stop pursuit of innovation of the “Never stop infinity’ footwear product.
+
+
+
+
+                                                     - 24 -
+Continue to enrich diversified and comprehensive marketing resources matrix with a focus on characteristics
+of professional and sports casual categories
+
+With a focus on the characteristics of professional and sports casual categories, we continued to enrich our
+diversified and comprehensive marketing resources. Continuous exposure of our professional products through
+sports stars and professional events as well as promotional efforts in tandem with hot topics have further scaled
+up our consumer groups. Besides, we drew the attention of young consumer groups by continuously enriching
+our cross-sector collaboration and marketing resources with entertainment elements allocated to the sports
+casual category and deploying for flexible and diversified crossover and digital marketing resources. Under
+the guidance of fashion opinion leaders, we have gained more recognition from mainstream consumers and
+enhanced our brand image and value.
+
+–     In terms of professional basketball, we further strengthened the sponsorship and collaboration with the
+      CBA League. We successfully created the CBA Championship project that integrates marketing of the
+      Finals with the champion jersey, and adopts the innovative business model of product lucky draw, which
+      successfully expanded CBA products beyond the existing fan base and enlarged the consumer group of
+      the championship series. As international leading basketball resources continuously being added to the
+      pipeline, we have gradually established the shoes and apparel product lines under the star player series.
+      Meanwhile, we continued to expand the business layout of LI-NING basketball with Jimmy Butler as
+      the major resources at the moment. On the basis of the player exclusive signature shoes, we launched
+      storyline-based, sensational and professional star player shoes and apparel package with fashionable
+      lifestyle elements to complement the sales of shoes products, which has received overwhelming market
+      response.
+
+–     In regard to the basketball culture, inspired by one-on-one battle on street basketball courts, at the beginning
+      of the year of Ox, we invited renowned artists in China to jointly created the “Bullfighting” (鬥牛)
+      product package embodying overpowering basketball elements. We have also hosted the “Chinese Street
+      Basketball Brand Contest” (中國街球籃球廠牌爭霸賽) and “BADFIVE One-on-one Finals” (反伍鬥牛總
+      決賽) in Changsha in January, which posed a great influence on the street basketball culture in China and
+      enhanced the status of branded basketball products. We have also conducted in-depth research on street
+      basketball and deeply explored the special culture of various Chinese cities, so as to precisely determine
+      the positioning of our products. In conjunction with activities such as “3+1” Street Basketball League
+      (「3+1」街頭籃球聯賽), BADFIVE’s Night (反伍之夜) and sales of limited editions, we successively
+      created themed products such as “Too Young To Stay” (少不入川), “Unstoppable Power of Chongqing”
+      (霧都大勢) and “Deception is fair in war” (兵不厭詐), all of which have attracted the attention of more
+      young and fashionable consumers.
+
+–     For our running products, we rapidly built up the reputation of our racing shoes under the “LI-NING
+      BOOM” (李寧䨻) series by capitalizing on the marathon event in Qingdao. With the aid of the Boom
+      series racing shoes, advanced runners not only secured the championships of four major categories, but
+      also broke the match records of both the male and female full marathon categories with much faster times.
+      This product also helped many runners to successfully surpass their own best records, which sparked media
+      interest and discussions of netizens, and significantly raised the standard for the professional features of
+      LI-NING’s racing products. Employing the “LI-NING BOOM” (李寧䨻) technology, “Super Light 18th”
+      (超輕18) is a star IP product that brought in millions of sales. “Lightweight, High Resilience and Strong
+      Kick-off” (輕彈䨻發) was featured as a key advertising headline for this product to create an image and
+      impression of “the strongest IP + the strongest technology”. In large-scale promotional campaign, we
+      highlighted its core features of lightweight and high resilience as selling points and positioned it as the
+      must-have running shoes suitable for versatile scenarios, aiming to arouse more attention from consumers.
+
+
+
+
+                                                        - 25 -
+–   As to our badminton products, our vision is to become the leading professional badminton sports brand
+    for consumers in China. Centering on the theme of “China Li-Ning, Get along with You” (中國李寧，
+    羽你更合拍), we engaged in brand and product promotion, sports marketing and amateur competitions,
+    which were coupled with store activities to support the achievement of marketing goals and accomplish
+    mutual growth of both our business and brand. In terms of sports resources, we continued to push forward
+    internationalization and secure endorsement of our professional products with sports resources, with a view
+    to facilitating promotion and enhancing demand. In connection with domestic contracted resources, we
+    created “Thunderstorm” (雷霆), “Shadow” (鋒影) and “Thundercloud” (雲霆) series products for Olympic
+    champions, Chen Long (諶龍) and Zhang Nan (張楠), respectively. These products first appeared in the
+    Chinese National Games Qualification, and thus garnered unprecedented popularity.
+
+–   In respect of sports fashion, we further explored platforms where target consumer groups gather, such as
+    Xiaohongshu (小紅書) and Dewu (得物), and highlighted the variety and playability of product matching
+    by way of “unboxing and recommending matching ideas”. With the creative marketing approach targeting
+    female consumers, we created exclusive IP series of LI-NING brand for female consumers so as to drive
+    the business of our women’s products. We invited designers and fashion pioneers to participate in the
+    themed party of “Sakura” series organized at offline stores, and improved in-store experience of consumers
+    with themed ambience and display. We launched a crossover series with Steven Harrington and organized
+    offline campaigns integrating pop culture and lifestyle by assembling top promotional resources from
+    fashion and artistic sectors. Meanwhile, given the media matrix covering pop culture, fashion, artistic and
+    lifestyle sectors formed to analyze in depth the crossover series, products of the entire series were sold
+    out promptly leveraging products with heated discussions.
+
+–   We diversified our entertainment marketing model by carrying out comprehensive and in-depth collaboration
+    with variety shows, media and artists, ensuring multi-dimensional exposure of products from catalogues,
+    personal fashions, variety shows and marketing events. We focused on resources from large-scale platforms
+    for more exposure opportunities. In order to integrate the Company’s resources in both entertainment and
+    sports, we invited Cai Chengyu (蔡程昱), an artist who we had in-depth cooperation relationship with,
+    as the lead singer of national anthem during the CBA All-star Weekend. With full set of WADE series
+    product as his outfit, we demonstrated the trendiness of our lifestyle products in sports events, thereby
+    producing more topics and contents for promotion. We signed up with Xiao Zhan (肖戰), a young actor
+    and singer, to be the global spokesperson for LI-NING’s fashionable sports products. By joining hands
+    with high-quality spokesperson, it is expected that the passion for sports fashion among consumers will
+    be ignited from more perspectives and in a more diversified manner.
+
+
+
+
+                                                   - 26 -
+Accelerating the development of quality channels with a focus on expansion and optimization of channels
+
+During the first half of 2021, the Company remained focused on optimizing the structure and efficiency of
+channels and enhanced the cooperation with high-quality retailers, which optimized the efficiency of retail channel
+and improved the quality of market coverage. During the period, the Company accelerated the development
+of quality channels with a focus on big stores in shopping malls and launched big stores with high efficiency
+including flagship stores on a continuous basis. Meanwhile, the Company further optimized the store structure
+by accelerating the closure of loss-making, low efficiency and small stores.
+
+During the period, the Company continued to enhance the visual image of its stores, and expedited the development
+of the 8th generation image store in full force, at the same time phasing out old image stores such as the 6th
+generation ones. As at 30 June 2021, the percentage of 8th generation image stores has increased to over 30%.
+The Company also accelerated the innovation of store image with an emphasis on improving sports and shopping
+experience. The flagship store at Teemall (天河城) in Guangzhou innovatively adopted the ultra-high glass curtain
+wall, making it a popular spot for young consumers in Guangzhou to take photo. Types of store props have also
+been upgraded constantly to improve brand recognition among consumers. Meanwhile, it devoted more efforts
+in member and omni-channel development, so as to boost business growth through online and offline synergy.
+
+As at 30 June 2021, the number of conventional stores, flagship stores, China LI-NING stores, factory outlets
+and multi-brand stores under LI-NING brand (including LI-NING Core Brand and LI-NING YOUNG) amounted
+to 6,745, representing a net decrease of 188 POS as compared to 31 December 2020. The number of distributors
+was 63 (including sales channels of China LI-NING stores), representing a net decrease of 2 as compared to 31
+December 2020. The number of POS breakdown as at 30 June 2021 is as follows:
+
+                                                                        30 June      31 December
+LI-NING Brand                                                              2021             2020                Change
+
+Franchised                                                                 4,616                4,763            -3.1%
+Directly-operated retail                                                   1,088                1,149            -5.3%
+LI-NING YOUNG                                                              1,041                1,021               2%
+
+Total                                                                      6,745                6,933            -2.7%
+
+Number of LI-NING Brand POS by geographical location
+
+                                         30 June 2021                           31 December 2020
+                             LI-NING        LI-NING                      LI-NING     LI-NING
+Regions                    Core Brand       YOUNG           Total      Core Brand    YOUNG              Total   Change
+
+Northern Region (Note 1)         2,938          681         3,619           2,989        678            3,667    -1.3%
+Southern Region (Note 2)         2,158          323         2,481           2,243        304            2,547    -2.6%
+Southern China Region
+  (Note 3)                         608           37              645         680          39             719     -10.3%
+
+Total                            5,704         1,041        6,745           5,912       1,021           6,933    -2.7%
+
+
+
+
+                                                        - 27 -
+Notes:
+
+1.       The Northern region includes provinces, municipalities and autonomous regions covering Beijing, Tianjin, Hebei, Shanxi, Inner
+         Mongolia, Shandong, Henan, Heilongjiang, Jilin, Liaoning, Shaanxi, Ningxia, Qinghai, Gansu and Xinjiang;
+
+2.       The Southern region includes provinces, municipalities and an autonomous region covering Shanghai, Jiangsu, Zhejiang, Anhui,
+         Jiangxi, Hubei, Hunan, Chongqing, Sichuan, Yunnan, Guizhou and Tibet;
+
+3.       The Southern China region includes provinces, an autonomous region and a special administrative region covering Guangdong,
+         Guangxi, Fujian, Hainan and Macau.
+
+Optimize product management system to improve product operation efficiency
+
+During the first half of 2021, the Company continued to push forward the transformation and optimization of
+product operation models to facilitate continuous improvement of product operation efficiency.
+
+–        The Company has established and optimized the product management system. During the period, consumers
+         demonstrated stronger preference for the LI-NING brand, which has driven significant growth in foot
+         traffic and continuous improvement of store operation efficiency. Taking the advantages of the external
+         environment, together with the constant improvement of internal product planning, the Company adopted
+         measures such as “enhance the depth of core products” and “prevent out-of-stock or short-in-size” to
+         ensure product inventory and efficiency with an aim to further unleash its product operation efficiency,
+         which has underpinned the continuous rapid growth of sell-through of stores.
+
+–        The Company has strengthened inventory management and optimized the inventory structure. Since
+         the outbreak of the pandemic, the Company firmly proceeded with destocking of the inventories of old
+         products. Besides, by means of increasing the number of orders for products with multifold sales growth,
+         the Company increased the investment in the core models of new products, through which it has optimized
+         the level of total inventory and the inventory ageing structure, at the same time promoting the constant
+         launch of new products.
+
+–        With a focus on the development of functional product categories, the Company has established and
+         improved the footwear product matrix and hence increased the percentage of its footwear business. During
+         the period, the Company has gradually established and continuously improved the footwear product matrix
+         with “LI-NING BOOM” (李寧䨻) technology platform as the core, which increased the percentage of
+         footwear sales and acted as a strong driving force for the professional products of the LI-NING brand.
+
+–        The Company continued to implement the product planning management system so as to improve product
+         operation efficiency. Looking forward, the Company will stay focused on the implementation of the
+         product sales planning system, enabling it to control the inventory risks of old products while ensuring
+         reasonable inventory for new products. In addition, the Company will pay more attention to core products
+         and enhance product operation efficiency so as to maintain strong momentum for business growth.
+
+
+
+
+                                                                 - 28 -
+Explore standardized store operation model to promote the implementation of retail operation standards
+
+During the first half of 2021, the Company remained focused on the exploration of highly-efficient and profitable
+single-store operation model and further developed the store business in a bid to realise standardized, professional
+and simplified operation of stores and terminals.
+
+–     The Company continued to explore operation model for big stores. Based on the three directions, namely
+      establishing platform for headquarters, enhancing operation efficiency of stores and building standardized
+      retail operation system, the Company has put into practice the operation model for big stores. It has also
+      strengthened the support of the functional departments at headquarters for terminal business, which helped
+      enhancing the single-store efficiency in terms of staff, product and space. Furthermore, the Company
+      further clarified the personnel and organization system, business implementation system, conference and
+      communication system and talent cultivation system of the big stores in an effort to enhance the single-
+      store operation capability of the big stores on the basis of standardization.
+
+–     The Company edged up its efforts in sports marketing and improved the sports experience of customers.
+      During the period, the Company established the sports marketing business system to facilitate further
+      development of stores in local markets. By appointing professional sports consultants for basketball, running
+      and training at stores for on-site marketing, the Company has highlighted the advantages and uniqueness
+      of LI-NING brand in the field of professional sports, which has enhanced the recognition of LI-NING’s
+      image of professional sports among consumers, and hence boosted the store sales and improved the sports
+      experience of the customers simultaneously.
+
+–     Setting the retail operation standards. During the first half of 2021, the Company streamlined and optimized
+      the retail operation manual, fundamental showcasing manual, daily work log and mentoring manual for
+      stores comprehensively. Looking forward, all retail stores will adhere to these standards and implement
+      the abovementioned operation standards and tools persistently to realize our retail operation sites of high
+      standard. In the future, the Company will continue to achieve digitalization and systemization of various
+      operation tools based on the trend of business development.
+
+–     Strengthening the retail platform management to drive implementation of the execution standards. During
+      the period, through the retail operation system platform, the Company has developed the retail platform
+      task system and transparent business closed-loop of full-process retail management which comprises
+      processes such as giving and receiving business instructions, implementation at stores and confirmation
+      at headquarters and on-site, thereby enabling the headquarters to make more prompt responses to the
+      changing situations at stores.
+
+–     Enhancing the training for retail talents to develop expanded workforce for the transformation of retail. The
+      Company has established the talent system for sustainable development and specified the job descriptions
+      and standards of the business capability system for personnel of all levels based on the capability model of
+      retail talents. Through improving the training system for retail talents, the Company enhanced the training
+      culture in this respect and continued to upgrade the abilities of retail talents in organic development.
+      In the future, the Company will prepare ways for talents of store functions to grow and develop with
+      headquarters’ functions so as to broaden the career paths of employees.
+
+
+
+
+                                                       - 29 -
+Optimizing the logistics network and strengthening construction of logistics supporting capacity continuously
+
+During the first half of 2021, the Company continued to develop and improve the logistics service system.
+Based on the features of different business models and diversified business scenarios, the Company provided
+differentiated, refined and efficient logistics service support in line with the requirement of relevant business
+sectors for its principal business and each business division, which promoted the service support capability of
+the logistics system for all business units.
+
+–     The Company continued to further optimize the existing logistics network and allocate resources based on
+      key sales regions to enhance our service capability and quality. Coupling with the progressive efforts put
+      in the entire product supply chain, the Company accelerated its pace to optimize and allocate resources
+      for warehouse storage, manpower and transportation, allowing consumers to experience LI-NING brand
+      products more conveniently and rapidly.
+
+–     The Company continued to align with the strategy of highly effective merchandising operation and
+      accelerate the turnover of goods. It optimized the existing procedure of store deployment and return of
+      goods, enabling the stores to deploy goods promptly and effectively with the aid of the information system.
+      This has ensured the deployed goods to be delivered to the target stores ahead of the prime time of sales,
+      so as to seize the business opportunities.
+
+–     The Company developed new regional logistics center model to fulfil the high demands for logistics arising
+      from the increase in business volumes. During the period, the first regional logistics center has been put
+      into operation and offered consumer experience of faster and more convenient logistics services by way of
+      inventory centralization in close proximity to the regions of consumption. With the integration of national
+      distribution centre (“NDC”) and regional distribution centre (“RDC”) by the regional logistics centers,
+      we have sped up the delivery of products from factory to stores and increased the operating efficiency of
+      warehouses at the same time.
+
+Steady execution of omni-channel strategy to drive sustainable growth of e-commerce platform
+
+In the first half of 2021, the e-commerce of Li Ning Company maintained its high operating efficiency while
+exploring new business opportunities. By optimizing the business structure and rationalizing the sustainable
+operation modes, it added great momentum to e-commerce growth in the future.
+
+Complementing the key marketing resources of the Group, the e-commerce of Li Ning Company rolled out a
+series of marketing campaigns during the period. Centring on celebrity endorsement, product launch and fashion
+week, it reached out to various fan bases, capitalized on the influence of the artists and appealed to female
+consumers. In addition, it devoted more efforts to promote technology products such as basketballs and running
+shoes, which continuously shaped consumers’ perception and raised their awareness of the professional features of
+the brand. In order to tap into new business opportunities, it took advantage of Douyin (抖音), Kuaishou (快手)
+and other emerging livestreaming platforms, where it interacted with consumers frequently through livestreaming
+marketing. This not only helped to increase brand exposure, but also offered access to new consumer groups.
+
+Apart from the above, the e-commerce platform has been developing the COUNTERFLOW BY LI-NING series,
+which is an independent sports casual product line with cultural elements at its core. Inspired by traditional
+Chinese culture, the “COUNTERFLOW” series is an interpretation of Chinese cultural heritage through original
+design. This crossover between ancient Chinese culture and trendy sports products aims to share the aesthetics
+of Chinese civilization with the broader consumer community.
+
+
+
+
+                                                      - 30 -
+At the same time, the Company made steady progress in member and omni-channel development. During the
+period, the full connection between the online channel system and the offline directly-operated stores was
+basically completed. The Company also sets up the preliminary member service system and the inter-connected
+member service mechanism across all channels. To facilitate long-term development, we will remain concentrated
+on four aspects including member recruitment, consumer communication and education, member service and
+interaction, and member data insights.
+
+Looking forward, the e-commerce of Li Ning Company will continue to focus on the consumer big data and
+product data analysis system, thereby building its brand reputation and product competitiveness. Through online
+marketing campaigns and consumer education, it will maintain the operating efficiency of the e-commerce
+platform and support the sustainable growth of the e-commerce business.
+
+Consolidating resources from supply chain to improve supply chain capabilities
+
+In the first half of 2021, the “value supply chain” management model remained the centre of the supply chain
+system. To reduce wastage and improve efficiency, the Company used consumer satisfaction as the final
+indicator of supply chain value, so as to enhance product quality and price-performance ratio. It also carried
+on consolidating the resources of the footwear and apparel supply chain. In addition, it advanced the transition
+of the supply chain from “passive production” to “proactive production” by building a precise, flexible and
+efficient supply chain management system for more agile supply and rapid response.
+
+–     The Company focused on the promotion and adoption of R&D technology to pursue technology-driven
+      business growth. To enhance the professional features, functionality, novelty and uniqueness of products,
+      it engaged in cooperation and exchange of R&D projects in multiple aspects, enhanced the research
+      collaboration with high-quality suppliers, and capitalized on their resources advantages in the R&D of
+      functional materials. Furthermore, it continued to strengthen R&D and innovation capabilities, optimized
+      the management and appraisal mechanism for R&D projects, created a culture of innovation among team
+      members, and introduced competent talents in R&D and innovation. These efforts paved the way for the
+      constant stream of innovative products.
+
+–     The Company collectively coordinated and managed supply chain resources to encourage resource sharing
+      among various departments and product categories, which laid a foundation for bulk purchasing and
+      centralised management. To restructure supply resources, it developed a system to retain high-quality
+      suppliers and eliminate underperforming ones. It also continued to increase cooperation with good suppliers
+      to ensure the efficiency and preciseness of supply chain resources.
+
+–     The Company pushed forward the transition of the supply chain from “passive production” to “proactive
+      production”. It orchestrated merchandise, production and sales planning to form an effective interaction
+      mechanism, and established a win-win mechanism for the long-term development and synergetic growth
+      with strategic suppliers, so as to meet the business needs of diversified channels and boost business with
+      top-quality supply chain resources.
+
+–     In respect of cost management, the Company maintained stringent cost planning and practised the concept
+      of cost control and management in all areas ranging from design, development to various production stages,
+      with a view to driving the optimization and upgrade of cost structure with concerted efforts. Meanwhile,
+      the Company continued to tighten the requirements on labour, occupational health and environmental
+      protection to ensure sustainable development.
+
+–     The Company maintained its focus on the establishment of its own supply chain system for more flexible
+      and efficient performance. It was committed to gradually instilling the core industrial capabilities into
+      LI-NING’s system over time. As a result, it strengthened its own supply chain management and the
+      application of technological research and development knowledge, which led to a more precise and swift
+      supply chain system.
+
+
+
+                                                     - 31 -
+NEW BUSINESS
+
+LI-NING YOUNG
+
+In the first half of 2021, LI-NING YOUNG positioned itself to be “the fashionable professional sports kidswear
+brand originated from China” and optimised the business model to drive brand growth.
+
+–     The Company launched professional sports products for kids as our key offerings. Under this context,
+      we developed technology with professional functions for children, provided professional competition
+      equipment for young athletes in China, and built a reputation as a professional sports brand for kids with
+      a focus on basketball and running products. During the period, we completed the review of our current
+      technology for children’s sports products. Leveraging the technological resources of the LI-NING brand,
+      we will continue to develop the technology matrix for the kidswear business in the future.
+
+–     In terms of the supply chain, we continued to develop and enhance supply chain resources to improve the
+      supply chain system of the kidswear business. We consolidated our production processes and resources
+      advantages to minimize product cost, boost product efficiency, ensure product quality, optimize production
+      procedures, promote the flexible response of the supply chain system and facilitate efficiency upgrade.
+
+–     For channel development, we focused on the mid-to-high tier market, strengthened the shopping mall and
+      clearance channels, and improved store image to promote channel efficiency and health. In line with the
+      omni-channel strategy of the Company, we actively expanded new retail channels and adapted to external
+      changes to explore new sales channels and business opportunities.
+
+–     For brand marketing, we explored specific promotion and sales channels for kidswear such as Mama’s
+      Community and members of WeChat groups by fully leveraging and consolidating existing promotional
+      resources, including KOLs, sports experts, celebrities and business partners. With reference to the special
+      features of the kidswear business, we made use of various digital marketing platforms, thereby continuously
+      developing new sales channels and expanding brand and product influence.
+
+As of 30 June 2021, LI-NING YOUNG business covered 31 provinces, municipalities and autonomous regions
+with a total of 1,041 stores. Looking forward, we will continue to intensely develop our kidswear business.
+Leveraging the LI-NING brand, we will enhance the marketing efforts of the kidswear brand, take a product-
+focused approach to upgrade core product technology and design, and advance the exploration of market
+demands and product categorization. Consistent efforts will be devoted to channel expansion, retail operations
+and supply chain resources, so as to develop LI-NING YOUNG into a leading professional sportswear brand
+for kids in China.
+
+
+
+
+                                                     - 32 -
+HUMAN RESOURCES
+
+In the first half of 2021, based on the long-term development goal of the Company, the human resources
+department continued to optimize the Company’s organisation, talents, incentives and cultural system.
+
+–     Regarding organisational development, in order to achieve breakthroughs in multi-categories, the Company
+      established the female product team and e-commerce apparel supply chain, at the same time continuing
+      to strengthen its research and development organisation and optimize the organisational structure of the
+      Group’s business systems, thereby fostering a more efficient organisational structure.
+
+–     In terms of talent management, the Company expedited the improvement of the talent supply chain
+      management system and the dual career development paths for employees. It has also stepped up its efforts
+      in nurturing internal retail talents so as to explore and recruit talents to drive business transformation on
+      a continuous basis, and identify young talents for building up teams of hand-picked elites.
+
+–     In terms of remuneration and performance management, in order to realise performance growth stemmed
+      from capability improvement, the Company has incorporated the strengthening of organizational capabilities
+      into its business evaluation system. It has also improved the remuneration system for retail business with
+      a view to enhancing its market competitiveness in terms of remuneration and hence pushing forward the
+      reform of the Company’s organizational capabilities and achieving its long-term goals.
+
+–     Regarding culture and staff relationship, the Company improved its culture management system with
+      continuous efforts, aiming to further develop the core values of the Company, improve staff satisfaction
+      and engagement and increase its staff’s sense of honor and mission. Meanwhile, the Company has created
+      a more positive, transparent, fair play and trustworthy corporate culture and nurtured a more active and
+      cheerful working style.
+
+In the future, the Company will remain focused on the exploration and consolidation of the domestic market
+in China, in a bid to become the most favourite sports brand of Chinese consumers. Pursuing its medium- and
+long-term goals, the Company will enhance its organisational efficiency and accelerate the development of talent
+teams as well as optimize the incentive mechanisms. The Company will effectively manage the investments in
+human resources, while continuing to strengthen its organisational capacity and employee competencies, which
+underpin the business growth of the Company.
+
+As at 30 June 2021, the Group had 3,928 employees (31 December 2020: 3,625 employees), among which 3,755
+employees were at the Group’s headquarters and retail subsidiaries (31 December 2020: 3,466 employees), and
+173 employees were at other subsidiaries (31 December 2020: 159 employees).
+
+
+
+
+                                                      - 33 -
+OUTLOOK
+
+In the first half of 2021, China has brought the COVID-19 pandemic generally under control, enabling the
+recovery trend of its national economy to continue. Against this favourable backdrop, we will consistently adhere
+to the strategy of “Single Brand, Multi-categories, Diversified Channels”, enhance LI-NING’s experience value
+and provide sustainable impetus to the growth of the Company’s results performance:
+
+–     In respect of products, we will continue to actively explore technological innovation, strengthen product
+      research and development, strive to improve product performance and enhance the professional sports
+      attributes of our products. Meanwhile, we will further closely keep up with fashion trends and sports
+      culture, launch products better tailored to consumer needs, provide consumers with diversified consumption
+      experience, expand consumer bases, improve customer loyalty and expand our brand influence;
+
+–     In respect of channel development, with the aim of improving efficiency, we will seek expansion of big
+      stores with high efficiency and promote the synergistic effect of the omni-channel by establishing diversified
+      sales channel network and optimizing the structure of channels so as to maximize the efficiency of our
+      sales channels;
+
+–     In respect of retail operation and supply chain, we will continue to enhance the standards of store operation
+      on the focused basis of both product and consumption experience, promote store management ability and
+      further strengthen the online and offline integrated operation mode. In addition, we will consolidate and
+      optimize the supply chain system to enhance our capabilities in terms of our own supply chain management
+      and the application of technology and expertise resulted from the research and development;
+
+–     In respect of marketing, we will make full use of diversified platforms and digitalized approaches, give full
+      play to our comprehensive marketing networks to increase consumers’ brand awareness and accessibility.
+      Considering primarily the actual consumer demand, we will keep abreast of hot market trends and expand
+      the brand influence to convey our brand value;
+
+–     In respect of new business, enhancing single store profitability will remain as our major development
+      goal. We will make reasonable and prudent use of resources to explore business opportunities and market
+      potential in order to foster new opportunities for the profit growth of the Company in the long run.
+
+As the pandemic is generally under control, China’s economy is steadily recovering with increasing national
+consumer demand, which benefits sports consumption, facilitates the development of the sports industry and helps
+promote a healthy lifestyle of the public. Being optimistic about the prospects of China’s sports industry, we are
+confident in the huge potential of the sports industry in the future. We also believe Chinese consumers will pay
+more attention to health and fitness in the post-pandemic era. This will help boost the demand for sports and
+health consumption and may bring a new look to the sports industry, thereby promoting further breakthroughs
+and development of the industry. As one of the leading brands in the professional sports sector in China, LI-
+NING will keep closely abreast of the development trend of the industry, seize the new opportunities arising
+from the surging sports industry after the pandemic, and deliver more diversified and refined products and
+services to the public. We will continue our down-to-earth manner to actively explore more room for business
+development and develop LI-NING from a Chinese brand to an internationally recognized top-class global,
+fashionable and professional sports brand.
+
+
+
+
+                                                       - 34 -
+PURCHASE, SALE OR REDEMPTION OF THE COMPANY’S SHARES
+
+Neither the Company nor any of its subsidiaries purchased, sold or redeemed any of its shares during the six
+months ended 30 June 2021.
+
+EVENTS AFTER THE REPORTING PERIOD
+
+The Group does not have any significant event requiring disclosure under the Rules Governing the Listing of
+Securities on The Stock Exchange of Hong Kong Limited (the “Listing Rules”) that has taken place subsequent
+to 30 June 2021 and up to the date of this announcement.
+
+MODEL CODE FOR SECURITIES TRANSACTIONS BY DIRECTORS
+
+The Company has adopted the “Model Code for Securities Transactions by Directors of Listed Issuers” (“Model
+Code”) contained in Appendix 10 to the Listing Rules regarding securities transactions by the directors. The
+directors of the Company are reminded regularly of their obligations under the Model Code. Following specific
+enquiry by the Company, all directors of the Company have confirmed that they have complied with the required
+standard set out in the Model Code throughout the six months ended 30 June 2021, except for the non-compliance
+as disclosed below.
+
+Pursuant to paragraph A.3 of the Model Code, a director of a listed issuer must not deal in any securities of the
+listed issuer on any day on which its financial results are published and during the period of 60 days immediately
+preceding the publication date of the annual results of the listed issuer, unless the circumstances are exceptional.
+
+Further, pursuant to paragraph B.8 of the Model Code, a director of a listed issuer must not deal in any securities
+of the listed issuer without first notifying in writing the chairman or a director (otherwise than himself/herself)
+designated by the board for the specific purpose and receiving a dated written acknowledgement.
+
+On 18 January 2021, the Board was informed by Ms. Wang Ya Fei, an independent non-executive director, that
+she had disposed of 3,243 shares of the Company on that date. Such dealings in shares did not comply with
+the Model Code since (i) the black-out period of the Company for the purpose of publication of 2020 annual
+results announcement of the Company commenced on 17 January 2021 and was expected to end on 19 March
+2021, and (ii) prior written notification for such dealings in shares was not given by Ms. Wang Ya Fei to the
+chairman or designated director of the Company.
+
+The Company has taken immediate remedial action to re-circulate the Model Code to all directors of the Company
+and received acknowledgements from them. To further enhance the directors’ knowledge and awareness of good
+corporate governance practices, the Company has conducted trainings in respect of internal control, corporate
+governance and compliance with the Listing Rules in June 2021 for the directors and senior management of
+the Company.
+
+Except the above, the directors of the Company and employees of the Group have always complied with the
+required standards set out in the Model Code.
+
+
+
+
+                                                       - 35 -
+CORPORATE GOVERNANCE
+
+For the period from 1 January 2021 to 30 June 2021, the Company has complied with all the code provisions
+of the Corporate Governance Code (“Code Provisions”) contained in Appendix 14 to the Listing Rules with the
+exception of paragraph A.2.1 of the Code Provisions.
+
+According to paragraph A.2.1 of the Code Provisions, the roles of the chairman and chief executive of a listed
+issuer should be separate and should not be performed by the same individual. During the six months ended
+30 June 2021, Mr. Li Ning, the Executive Chairman and Joint Chief Executive Officer (“Joint CEO”) of the
+Company, and Mr. Kosaka Takeshi, the Executive Director and Joint CEO, jointly assumed the role of chief
+executive officer of the Company. Therefore, there was no separation of the roles of the chairman and the chief
+executive as both roles were undertaken by Mr. Li Ning. Notwithstanding the above, the Board is of the view that
+given that Mr. Li Ning is familiar with the business operations and management of the Group, the assumption
+of the roles of Executive Chairman and Joint CEO by Mr. Li Ning will provide the Group with consistent and
+steady leadership, and is particularly beneficial to the planning and implementation of the Group’s business
+strategies. The Board also believes that Mr. Li Ning and Mr. Kosaka Takeshi can complement with each other
+in performing the roles of the Joint CEOs, and create synergy effect which is in the interest of the Company
+and its shareholders as a whole.
+
+The audit committee of the Company, consisting of three independent non-executive directors, has reviewed the
+accounting principles and practices adopted by the Group, and has also reviewed the auditing, risk management,
+internal control and financial reporting matters, including the review of the interim results for the six months
+ended 30 June 2021.
+
+The Company’s external auditor, PricewaterhouseCoopers, has performed a review of the Group’s interim
+financial information for the six months ended 30 June 2021 in accordance with the International Standard on
+Review Engagements 2410, “Review of Interim Financial Information Performed by the Independent Auditor of
+the Entity”. Based on their review, PricewaterhouseCoopers confirmed that nothing has come to their attention
+that causes them to believe that the interim financial information is not prepared, in all material respects, in
+accordance with International Accounting Standard 34 “Interim Financial Reporting”.
+
+                                                                                    By order of the Board
+                                                                                 Li Ning Company Limited
+                                                                                           Li Ning
+                                                                                   Executive Chairman and
+                                                                                 Joint Chief Executive Officer
+
+Hong Kong, 12 August 2021
+
+As at the date of this announcement, the executive directors of the Company are Mr. Li Ning, Mr. Kosaka Takeshi
+and Mr. Li Qilin. The independent non-executive directors of the Company are Mr. Koo Fook Sun, Louis, Ms.
+Wang Ya Fei and Dr. Chan Chung Bun, Bunny.
+
+
+
+
+                                                     - 36 -
+

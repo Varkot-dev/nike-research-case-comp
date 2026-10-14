@@ -1,0 +1,2348 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take
+no responsibility for the contents of this announcement, make no representation as to its accuracy or
+completeness and expressly disclaim any liability whatsoever for any loss howsoever arising from or
+in reliance upon the whole or any part of the contents of this announcement.
+
+
+
+
+                     LI NING COMPANY LIMITED
+                                     李寧有限公司
+                     (Incorporated in the Cayman Islands with limited liability)
+                   Stock Codes: 2331 (HKD counter) and 82331 (RMB counter)
+
+                      ANNUAL RESULTS ANNOUNCEMENT
+                    FOR THE YEAR ENDED 31 DECEMBER 2025
+
+ FINANCIAL HIGHLIGHTS
+ •    During the year, the Group recorded the following operating results:
+      –     Revenue rose by 3.2% to RMB29,598 million; gross profit margin declined by 0.4
+            percentage points to 49%
+      –     Net operating cash inflow was RMB4,852 million
+      –     Net profit attributable to equity holders was RMB2,936 million with net profit margin
+            of 9.9%, and EBITDA margin was 20.8%
+ •    Working capital remained at a healthy level:
+      –     The percentage of gross average working capital to revenue was 7.7%
+      –     The cash conversion cycle was 37 days, two days longer than last year
+ •    The Board has recommended the payment of final dividend of RMB23.36 cents per
+      ordinary share for the year ended 31 December 2025, together with the interim dividend
+      of RMB33.59 cents per ordinary share paid in September 2025, the total dividend for the
+      year ended 31 December 2025 will amount to RMB56.95 cents per ordinary share or a total
+      dividend payout ratio of 50%.
+ OPERATIONAL HIGHLIGHTS
+ •    The retail sell-through for the overall platform remained flat, including online and offline
+      channels.
+ •    Offline new product sell-through accounted for 83% of overall offline sell-through,
+      maintaining at healthy and reasonable level.
+ •    The overall channel inventory turnover was at 4 months, channel inventory level and ageing
+      structure remained healthy.
+
+
+                                                -1-
+ANNUAL RESULTS
+
+The board of directors (the “Board”) of Li Ning Company Limited (the “Company” or “Li Ning
+Company ” ) announces the audited consolidated results of the Company and its subsidiaries
+(collectively, the “Group”) for the year ended 31 December 2025, together with comparative figures
+of 2024, as follows:
+
+CONSOLIDATED STATEMENT OF PROFIT OR LOSS
+For the year ended 31 December 2025
+
+                                                             Notes        2025             2024
+                                                                       RMB ’000         RMB ’000
+
+Revenue                                                       4       29,598,417       28,675,643
+Cost of sales                                                 7      (15,109,580)     (14,519,540)
+
+Gross profit                                                          14,488,837       14,156,103
+Other income and other gains – net                            5          228,433          154,191
+Selling and distribution expenses                             7       (9,189,675)      (9,198,907)
+Administrative expenses                                       7       (1,630,412)      (1,427,907)
+Reversal of/(provision for) expected credit loss allowance
+  for financial assets – net                                                1,025          (5,274)
+
+Operating profit                                                        3,898,208       3,678,206
+
+Finance income                                                6           296,709         429,525
+Finance expenses                                              6          (263,591)       (254,421)
+
+Finance income – net                                          6            33,118         175,104
+Share of profits and losses of:
+  Associates                                                             208,823          184,933
+  Joint ventures                                                          49,074           71,366
+
+Profit before income tax                                                4,189,223       4,109,609
+
+Income tax expense                                            8        (1,253,480)     (1,096,691)
+
+Profit for the year                                                     2,935,743       3,012,918
+
+Profit is attributable to:
+
+Equity holders of the Company                                           2,935,743       3,012,918
+
+                                                                        2,935,743       3,012,918
+
+Earnings per share for profit attributable to equity
+  holders of the Company for the year
+  (expressed in RMB cents per share)
+
+Basic earnings per share                                      10           113.91          116.98
+
+Diluted earnings per share                                    10           113.53          116.52
+
+
+                                                -2-
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+For the year ended 31 December 2025
+
+                                                               2025         2024
+                                                            RMB ’000     RMB ’000
+
+Profit for the year                                         2,935,743    3,012,918
+Other comprehensive (loss)/income:
+Other comprehensive income that may be classified to
+  profit or loss in subsequent periods:
+
+Exchange differences:
+Exchange differences on translation of foreign operations     (85,120)     52,205
+
+Total comprehensive income for the year                     2,850,623    3,065,123
+
+
+Attributable to:
+Equity holders of the Company                               2,850,623    3,065,123
+
+Total comprehensive income for the year                     2,850,623    3,065,123
+
+
+
+
+                                                -3-
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+As at 31 December 2025
+
+
+                                                                    31 December    31 December
+                                                            Notes          2025           2024
+                                                                       RMB ’000       RMB ’000
+
+ASSETS
+Non-current assets
+Property, plant and equipment                                          4,753,734     4,610,454
+Rights-of-use assets                                                   1,561,724     1,576,667
+Investment properties                                                  2,557,640     2,913,826
+Land use rights                                                          147,074       150,864
+Intangible assets                                                        156,823       234,736
+Deferred income tax assets                                               984,539       949,424
+Other assets                                                               8,226         5,450
+Investments accounted for using the equity method                      1,827,940     1,743,938
+Investments measured at fair value through profit or loss                436,738       450,316
+Other receivables                                                        165,693       166,519
+Time deposits                                                          2,164,314     2,377,970
+
+Total non-current assets                                              14,764,445    15,180,164
+
+Current assets
+Inventories                                                  11        2,693,793     2,598,226
+Other assets – current portion                                           822,253       893,775
+Trade receivables                                            12        1,388,679     1,004,591
+Other receivables – current portion                                      235,571       245,432
+Restricted bank deposits                                                     200        23,261
+Time deposits – current portion                                        1,092,575     8,264,361
+Cash and cash equivalents                                             16,716,551     7,498,596
+
+Total current assets                                                  22,949,622    20,528,242
+
+Total assets                                                          37,714,067    35,708,406
+
+
+
+
+                                                -4-
+                                                      31 December     31 December
+                                               Note          2025            2024
+                                                         RMB ’000        RMB ’000
+
+
+EQUITY
+Equity attributable to equity holders
+  of the Company
+Ordinary shares                                            235,854        235,853
+Share premium                                            9,003,738      9,011,394
+Treasury shares                                           (248,744)      (290,896)
+Other reserves                                           2,375,190      2,251,666
+Retained earnings                                       16,261,461     14,895,672
+
+Total equity                                            27,627,499     26,103,689
+
+LIABILITIES
+Non-current liabilities
+Licence fees payable                                             –         16,500
+Lease liabilities                                        1,465,551      1,384,527
+Deferred income tax liabilities                            514,968        568,753
+Deferred income                                             44,967         48,991
+
+Total non-current liabilities                            2,025,486      2,018,771
+
+Current liabilities
+Trade payables                                 13        1,901,694      1,625,132
+Contract liabilities                            4          369,001        368,518
+Lease liabilities – current portion                        589,603        551,610
+Other payables and accruals                              4,093,380      4,049,422
+Licence fees payable – current portion                      34,652         40,917
+Current income tax liabilities                           1,072,752        950,347
+
+Total current liabilities                                8,061,082      7,585,946
+
+Total liabilities                                       10,086,568      9,604,717
+
+Total equity and liabilities                            37,714,067     35,708,406
+
+
+
+
+                                         -5-
+Notes:
+
+1.   General information
+
+     Li Ning Company Limited (the “Company”) and its subsidiaries (together, the “Group”) are principally engaged
+     in brand development, design, manufacture, sale and distribution of sport-related footwear, apparel, equipment
+     and accessories in the People’s Republic of China (the “PRC”).
+
+     The Company was incorporated on 26 February 2004 in the Cayman Islands as an exempted company with limited
+     liability under the Companies Law, Cap.22 (Law 3 of 1961, as consolidated and revised) of the Cayman Islands.
+     The address of its registered office is Cricket Square, Hutchins Drive, P.O. Box 2681, Grand Cayman KY1-1111,
+     Cayman Islands.
+
+     The Company’s shares are listed on the Main Board of The Stock Exchange of Hong Kong Limited.
+
+     These consolidated financial results are presented in Renminbi (“RMB”), unless otherwise stated. These
+     consolidated financial results have been approved for issue by the Board on 19 March 2026.
+
+2.   Basis of preparation
+
+     These financial results have been prepared in accordance with IFRS Accounting Standards as issued by the
+     International Accounting Standards Board and the disclosure requirements of the Hong Kong Companies
+     Ordinance. In addition, the consolidated financial results include applicable disclosures required by the Rules
+     Governing the Listing of Securities on The Stock Exchange of Hong Kong Limited. They have been prepared
+     under the historical cost convention, except for investments measured at fair value through profit or loss. These
+     financial results are presented in RMB and all values are rounded to the nearest thousand except when otherwise
+     indicated.
+
+
+
+
+                                                        -6-
+3.   Accounting policies
+
+     (a)   Changes in accounting policies and disclosure
+
+           The Group has adopted amendments to IAS 21 Lack of Exchangeability for the first time for the current
+           year’s financial results. The Group has not early adopted any other standard or amendment that has been
+           issued but is not yet effective.
+
+           Amendments to IAS 21 specify how an entity shall assess whether a currency is exchangeable into another
+           currency and how it shall estimate a spot exchange rate at a measurement date when exchangeability
+           is lacking. The amendments require disclosures of information that enable users of financial results
+           to understand the impact of a currency not being exchangeable. As the currencies that the Group had
+           transacted in and the functional currencies of overseas subsidiaries, joint ventures and associates for
+           translation into the Group’s presentation currency were exchangeable, the amendments did not have any
+           impact on the Group’s financial results.
+
+     (b)   Issued but not yet effective IFRS Accounting Standards
+
+           The Group has not applied the following new and amended IFRS Accounting Standards, that have been
+           issued but are not yet effective, in the financial information. The Group intends to apply these new and
+           amended IFRS Accounting Standards, if applicable, when they become effective.
+
+           IFRS 18                                       Presentation and Disclosure in Financial Statements 2
+           IFRS 19 and its amendments                    Subsidiaries without Public Accountability: Disclosures 2
+           Amendments to IFRS 9 and IFRS 7               Amendments to the Classification and Measurement of
+                                                           Financial Instruments 1
+           Amendments to IFRS 9 and IFRS 7               Contracts Referencing Nature- dependent Electricity 1
+           Amendments to IFRS 10 and IAS 28              Sale or Contribution of Assets between an Investor and its
+                                                           Associate or Joint Venture 3
+           Amendments to IAS 21                          Translation to a Hyperinflationary Presentation Currency 2
+           Annual Improvements to IFRS Accounting        Amendments to IFRS 1, IFRS 7, IFRS 9, IFRS 10
+             Standards – Volume 11                         and IAS 7 1
+
+           1
+                 Effective for annual periods beginning on or after 1 January 2026
+           2
+                 Effective for annual/reporting periods beginning on or after 1 January 2027
+           3
+                 No mandatory effective date yet determined but available for adoption
+
+
+
+
+                                                      -7-
+4.   Segment information and revenue
+
+     The Group’s management (“Management”) monitors the results of the Group’s operating segments separately for
+     the purpose of making decisions about resource allocation and performance assessment. Segment performance is
+     evaluated based on reportable segment profit/loss, which is a measure of adjusted profit/loss before tax.
+
+     The Group is principally engaged in a single line of business of sporting goods. Management reviews the
+     performance of the Group as a whole and there is only one reportable segment and no segment information is
+     presented.
+
+     The Group’s principal market is the PRC (including the Hong Kong Special Administrative Region and the Macau
+     Special Administrative Region) and its sales to overseas customers contributed to less than 10% of revenue. Also,
+     none of the Group’s non-current assets is located outside the PRC. Accordingly, no geographical information is
+     presented.
+
+     (a)   Revenue from contracts with customers
+
+           The Group derived revenue in the following major product categories and sales channels:
+
+           Revenue by product category:
+
+                                                                                        Year ended 31 December
+                                                                                              2025           2024
+                                                                                         RMB’000         RMB’000
+
+           Footwear                                                                     14,650,546         14,300,341
+           Apparel                                                                      12,327,039         12,050,245
+           Equipment and accessories                                                     2,620,832          2,325,057
+
+
+           Total                                                                        29,598,417         28,675,643
+
+
+           Revenue by sales channel:
+
+                                                                                        Year ended 31 December
+                                                                                              2025           2024
+                                                                                         RMB’000         RMB’000
+
+           The PRC market
+             Sales to franchised distributors                                           13,773,187         12,956,716
+             Sales from direct operation                                                 6,654,917          6,883,319
+             Sales from e-commerce channel                                               8,743,238          8,304,759
+           Other regions                                                                   427,075            530,849
+
+
+           Total                                                                        29,598,417         28,675,643
+
+
+           Revenue by geographical location above is determined on the basis of destination of shipment/delivery.
+
+           For the years ended 31 December 2025 and 2024, no revenue derived from transactions with a single
+           external customer represented 10% or more of the Group’s total revenue.
+
+
+
+                                                        -8-
+(b)   Liabilities related to contracts with customers
+
+                                                                                   2025              2024
+                                                                                RMB’000           RMB’000
+
+      Contract liabilities – advances from customers                              321,514           303,785
+      Contract liabilities – customer loyalty programme                            47,487            64,733
+
+
+      Total                                                                       369,001           368,518
+
+
+      The Group applied the practical expedient of not disclosing the transaction prices allocated to the
+      unsatisfied performance obligations as the contract terms are less than 12 months.
+
+      Revenue recognised in relation to contract liabilities
+
+                                                                               Year ended 31 December
+                                                                                     2025           2024
+                                                                                RMB’000         RMB’000
+      Revenue recognised that was included in the contract liability balance
+        at the beginning of the year
+
+      Contract liabilities – advances from customers                              303,785           480,425
+      Contract liabilities – customer loyalty programme                            64,733            72,112
+
+
+      Total                                                                       368,518           552,537
+
+
+      As at 1 January 2024, the Group had contract liabilities amounting to RMB552,537,000, all of which had
+      been recognised as revenue during the year ended 31 December 2024.
+
+
+
+
+                                                    -9-
+5.   Other income and other gains – net
+
+                                                                                         Year ended 31 December
+                                                                                               2025           2024
+                                                                                          RMB’000         RMB’000
+
+              Government grants (Note a)                                                    413,550            381,078
+              Rental income                                                                 110,726             97,467
+              Licence fees income                                                            51,690             64,527
+              Gains on redemption of wealth management products measured at
+                fair value through profit or loss                                             65,145            35,195
+              Fair value (losses)/gains and dividend income on investments
+                measured at fair value through profit or loss – net                         (11,772)            23,081
+              Depreciation and related expenses on investment properties                   (131,886)          (113,785)
+              Impairment of investment properties (Note b)                                 (269,020)          (333,372)
+
+
+                                                                                            228,433            154,191
+
+
+     Notes:
+
+     (a)      Government grants were received from several local government authorities as a recognition of the Group’s
+              contribution towards the local economic development. Among the government grants recognised during
+              the year ended 31 December 2025, the entitlement of an aggregate amount of RMB402,675,000 (2024:
+              RMB354,062,000) was unconditional and at the discretion of the relevant authorities, while the remaining
+              amount of RMB10,875,000 (2024: RMB27,016,000) were recognised as income upon the fulfillment of
+              respective conditions attaching to the government grants.
+
+     (b)      During the year ended 31 December 2025, the property market in Chinese mainland and Hong Kong was
+              confronted with a highly challenging and uncertain environment. This environment led to sluggish demand
+              and soft sentiments, ultimately resulted in an overall decline in both the price and rental indices. As a
+              result, Management concluded that there were impairment indications for the Group’s investment properties
+              and conducted impairment assessments on the investment properties as at 31 December 2025 in accordance
+              with IAS 36 Impairment of Assets . The Group estimated the recoverable amounts of the investment
+              properties with reference to their respective fair values as at 31 December 2025 which were determined
+              using the income approach.
+
+              Based on the results of the impairment assessments, impairment losses of RMB269,020,000 were
+              recognised against the carrying amount of investment properties during the year ended 31 December 2025
+              (2024: RMB333,372,000).
+
+
+
+
+                                                         - 10 -
+6.   Finance income and expenses
+
+                                                                Year ended 31 December
+                                                                      2025           2024
+                                                                 RMB’000         RMB’000
+
+     Finance income
+     Interest income on bank balances and deposits                296,709         429,525
+
+
+                                                                  296,709         429,525
+
+
+     Finance expenses
+     Discounted interest expenses – licence fees payable             (597)         (1,362)
+     Lease interest expenses                                     (101,423)       (126,994)
+     Net foreign currency exchange loss                           (91,842)        (73,893)
+     Borrowing interest                                           (26,828)        (28,176)
+     Others                                                       (42,901)        (23,996)
+
+
+                                                                 (263,591)       (254,421)
+
+
+     Finance income – net                                          33,118         175,104
+
+
+
+
+                                                       - 11 -
+7.   Profit before income tax
+
+                                                                                        Year ended 31 December
+                                                                                              2025           2024
+                                                                                         RMB’000         RMB’000
+
+     Cost of inventories recognised as expenses and included in cost of sales           14,648,186         14,099,802
+     Advertising and marketing expenses                                                  3,165,794          2,721,226
+     Staff costs, including directors’ emoluments (Note a)                               2,453,741          2,452,157
+     – Wages and salaries                                                                2,129,764          2,141,557
+     – Share options and restricted shares                                                  72,776             77,700
+     – Pension scheme contributions                                                        251,201            232,900
+     Short-term lease rentals and variable lease payments not
+        included in lease liabilities and rental related expenses                        1,239,545          1,263,000
+     Commission and trade fair related expenses                                            939,920            921,686
+     Transportation and logistics expenses                                                 926,995            914,984
+     Research and product development expenses (Note a)                                    702,167            675,955
+     Depreciation on property, plant and equipment (Note a)                                709,648          1,095,092
+     Depreciation on right-of-use assets                                                   498,114            613,087
+     Impairment of right-of-use assets                                                     283,411            171,942
+     Impairment of intangible assets (including goodwill)                                   76,428             23,535
+     Impairment of property, plant and equipment                                            72,281             81,807
+     Amortisation of land use rights and intangible assets                                  69,150             63,093
+     Auditor’s remuneration
+     – Audit services                                                                         5,000             5,950
+     – Non-audit services                                                                       385             2,878
+
+
+     Note:
+
+     (a)     Research and product development expenses include depreciation on property, plant and equipment and
+             staff costs for research and development activities of the Group, which are also included in depreciation
+             expense and staff costs as disclosed above.
+
+
+
+
+                                                        - 12 -
+8.   Income tax expense
+
+                                                                                            Year ended 31 December
+                                                                                                  2025           2024
+                                                                                             RMB’000         RMB’000
+
+     Current income tax
+     – Corporate income tax (Note a)                                                         1,174,880          1,181,428
+     – Withholding income tax on dividends and interest from subsidiaries
+         in Chinese mainland (Note b)                                                          167,500            122,205
+
+
+                                                                                             1,342,380          1,303,633
+     Deferred income tax                                                                       (88,900)          (206,942)
+
+
+     Income tax expense                                                                      1,253,480          1,096,691
+
+
+     The Company was incorporated in the Cayman Islands. Under the laws of the Cayman Islands, there is no income
+     tax payable by the Company. The Company’s subsidiary, RealSports Pte Ltd., a company incorporated under
+     the International Business Companies Acts of the British Virgin Islands, is exempted from British Virgin Islands
+     income taxes.
+
+     Notes:
+
+     (a)      The Group’s subsidiaries established in Chinese mainland are subject to corporate income tax rate of 25%
+              (2024: 25%), except for a subsidiary established in Guangxi Zhuang Autonomous Region which is subject
+              to preferential tax rate of 9% (2024: 9%) and a subsidiary established in Guangdong Province which is
+              subject to preferential tax rate of 15% (2024: 25%). Hong Kong profits tax has been provided at the rate
+              of 16.5% (2024: 16.5%) on the estimated assessable profits arising in Hong Kong for the year ended 31
+              December 2025.
+
+     (b)      The Group’s dividends and interest from subsidiaries established in Chinese mainland are subject to
+              withholding tax of 5% and 7% respectively, according to prevailing tax rules of Chinese mainland.
+
+     (c)      The Group is within the scope of the Organisation for Economic Co-operation and Development Pillar
+              Two model rules. Pillar Two legislation was enacted in certain jurisdictions in which some of the Group’s
+              overseas subsidiaries are incorporated/established, and has come into effect from 1 January 2024 and 1
+              January 2025 respectively. The Group applies the exception to recognising and disclosing information
+              about deferred tax assets and liabilities related to Pillar Two income taxes, as stipulated in the amendments
+              to IAS 12 issued in May 2023.
+
+              Under the legislation, entities may be liable to pay a top-up tax (if any) for the difference between the
+              Global Anti-Base Erosion Proposal effective tax rate for the jurisdictions in which they operate and
+              the 15% minimum rate. Based on the assessment of the Management, there is no material impact from
+              exposure to Pillar Two legislation on the annual effective tax rate of the Group for the year ended 31
+              December 2025.
+
+
+
+
+                                                          - 13 -
+9.    Dividends
+
+                                                                                           Year ended 31 December
+                                                                                                 2025           2024
+                                                                                            RMB’000         RMB’000
+
+      Interim - RMB33.59 cents (2024: RMB37.75 cents) per ordinary
+         share of the Company issued or to be issued upon conversion of
+         convertible securities                                                               863,742            970,385
+      Proposed final - RMB23.36 cents (2024: RMB20.73 cents) per ordinary share
+         of the Company issued or to be issued upon conversion of convertible
+         securities                                                                           604,130            536,148
+
+
+                                                                                            1,467,872          1,506,533
+
+
+      The proposed final dividend for the current year is subject to the approval of the Company’s shareholders at the
+      forthcoming annual general meeting.
+
+10.   Earnings per share
+
+      The calculation of the basic earnings per share amounts is based on the profit for the year attributable to ordinary
+      equity holders of the Company, and the weighted average number of ordinary shares outstanding during the year.
+
+      The calculation of the diluted earnings per share amounts is based on the profit for the year attributable to
+      ordinary equity holders of the Company. The weighted average number of ordinary shares used in the calculation
+      is the number of ordinary shares outstanding during the year, as used in the basic earnings per share calculation,
+      and the weighted average number of ordinary shares assumed to have been issued at no consideration on the
+      deemed exercise or conversion of all dilutive potential ordinary shares into ordinary shares.
+
+      The calculations of basic and diluted earnings per share are based on:
+
+                                                                                           Year ended 31 December
+                                                                                                 2025           2024
+                                                                                            RMB’000         RMB’000
+
+      Earnings
+      Profit attributable to ordinary equity holders of the Company,
+        used in the basic earnings per share calculation                                    2,935,743          3,012,918
+
+
+
+
+                                                         - 14 -
+                                                                                            Number of shares
+                                                                                         Year ended 31 December
+                                                                                               2025           2024
+
+      Shares
+      Weighted average number of ordinary shares outstanding during
+        the year used in the basic earnings per share calculation (in “000”)              2,577,193#        2,575,562#
+
+
+      Effect of dilution – weighted average number of ordinary shares (in “000”) :
+        Restricted shares                                                                     8,672            10,012
+        Share options                                                                            54               101
+
+
+      Total                                                                               2,585,919         2,585,675
+
+
+      #       The calculation of the weighted average number of shares has excluded the number of treasury shares held
+              by the Company.
+
+11.   Inventories
+
+                                                                                            2025               2024
+                                                                                         RMB’000            RMB’000
+
+      Raw materials                                                                          30,112            19,355
+      Work in progress                                                                       17,795            19,486
+      Finished goods                                                                      2,804,565         2,726,202
+
+
+                                                                                          2,852,472         2,765,043
+      Less: Provision for write-down of inventories to net realisable value                (158,679)         (166,817)
+
+
+                                                                                          2,693,793         2,598,226
+
+
+      The cost of inventories recognised as expenses and included in cost of sales amounted to RMB14,648,186,000 for
+      the year ended 31 December 2025 (2024: RMB14,099,802,000), which included reversal of inventory provision of
+      RMB8,138,000 (2024: inventory provision of RMB32,090,000).
+
+
+
+
+                                                         - 15 -
+12.   Trade receivables
+
+                                                                                             2025               2024
+                                                                                          RMB’000            RMB’000
+
+      Accounts receivable                                                                 1,426,585          1,046,249
+      Less: Expected credit loss allowance for trade receivables                            (37,906)           (41,658)
+
+
+                                                                                          1,388,679          1,004,591
+
+
+      Trade receivables are mainly denominated in RMB.
+
+      Customers are normally granted credit terms within 90 days. As at 31 December 2025 and 2024, ageing analysis
+      of trade receivables based on invoice date is as follows:
+
+                                                                                             2025               2024
+                                                                                          RMB’000            RMB’000
+
+      0 to 30 days                                                                          623,072               578,293
+      31 to 60 days                                                                         562,397               395,312
+      61 to 90 days                                                                         188,609                28,912
+      91 to 180 days                                                                         22,891                13,085
+      Over 180 days                                                                          29,616                30,647
+
+
+                                                                                          1,426,585          1,046,249
+
+
+      The movements in the expected credit loss allowance for trade receivables during the year are as follows:
+
+                                                                                             2025               2024
+                                                                                          RMB’000            RMB’000
+
+      As at 1 January                                                                         41,658               38,215
+      (Reversal of) / provision for expected credit loss allowance for trade
+        receivables                                                                           (3,267)               8,704
+      Trade receivables written off during the year as uncollectible                            (482)              (4,980)
+      Exchange realignment                                                                        (3)                (281)
+
+
+      As at 31 December                                                                       37,906               41,658
+
+
+      Due to the short-term maturity of the current receivables, their carrying amounts are considered reasonably
+      approximate to their fair values.
+
+
+
+
+                                                          - 16 -
+13.   Trade payables
+
+      Trade payables are mainly denominated in RMB. The normal credit period for trade payables generally ranges
+      from 30 to 60 days. The carrying amounts of trade payables are considered reasonably approximate to their fair
+      values, due to their short-term maturity.
+
+      Ageing analysis of trade payables based on invoice date at the end of reporting period is as follows:
+
+                                                                                              2025               2024
+                                                                                           RMB’000            RMB’000
+
+      0 to 30 days                                                                          1,283,123         1,256,889
+      31 to 60 days                                                                           554,018           324,869
+      61 to 90 days                                                                            58,478            23,734
+      91 to 180 days                                                                            2,157            19,364
+      181 to 365 days                                                                           3,918                28
+      Over 365 days                                                                                 –               248
+
+
+                                                                                            1,901,694         1,625,132
+
+
+14.   Contingent liabilities
+
+      Two wholly-owned subsidiaries of the Company (the “Purchasers”) entered into a transfer agreement on 31
+      December 2020 with Blooming Target Investments Ltd. (the “Vendor”) and 中銀投資資產管理有限公司 (Bank
+      of China Investment Asset Management Company Limited) (“BOCIAM”), pursuant to which the Purchasers
+      agreed to acquire the entire share capital in Matsunichi Communications (Hong Kong) Limited (the “Target
+      Company”), the Vendor’s rights in the loan extended to the Target Company, and BOCIAM’s rights in the loan
+      extended to the subsidiary of the Target Company (Matsunichi High-tech Electronic (Shenzhen) Company
+      Limited). The share transfer of the Target Company was completed on 28 January 2021, and since then, the
+      Target Company has become an indirect wholly-owned subsidiary of the Company. The Target Company was
+      subsequently renamed as Li Ning Communications (Hong Kong) Limited. Details are set out in the announcement
+      of the Company dated 31 December 2020.
+
+      The Target Company received a statutory demand (the “Statutory Demand”) from the joint and several liquidators
+      (the “Liquidators”) of Vast Gold Holdings Limited (in liquidation) (“Vast Gold”) and Active Legend Limited (in
+      liquidation) (“Active Legend”) on 24 March 2025, alleging that Active Legend had extended a short-term loan
+      in the principal amount of HK$500,000,000 (the “Subject Loan”) pursuant to a loan facility letter from Active
+      Legend dated 20 August 2018, which was confirmed by the Target Company and Mr. Pan Sutong (the sole
+      shareholder of the Target Company prior to the Vendor taking over the Target Company on 26 March 2019). In the
+      Statutory Demand, the Liquidators further alleged that the Subject Loan remained outstanding at a total amount
+      of HK$1,955,338,833 (including the loan principal, interest and default interest amounts). On 29 April 2025,
+      upon the Target Company’s application to restrain the Liquidators from commencing any winding up proceedings
+      against the Target Company based on the alleged loan stated in the Statutory Demand, the Liquidators withdrew
+      the Statutory Demand. Details are set out in the Company’s annual results announcement for the year ended 31
+      December 2024 dated 28 March 2025.
+
+
+
+
+                                                         - 17 -
+On 24 June 2025, Active Legend and Vast Gold served the Target Company a writ of summons issued by the High
+Court (the “Court”) of the Hong Kong Special Administration Region (the “Writ of Summons”) for the claim on
+the principal amount and the contractual interest on the Subject Loan up to the earlier of the date of the judgement
+and the date of earlier payment, other relief and costs.
+
+On 7 July 2025, the Target Company filed the Acknowledgement of Service to the Court. On 15 December 2025,
+the Target Company filed its amended defence. On 12 January 2026, Active Legend and Vast Gold filed their reply
+to the defence.
+
+Before the Target Company received the Statutory Demand, the Company was not aware of the existence of the
+Subject Loan and any matter related thereto, and the Target Company had never received any repayment demand
+or other correspondence from Active Legend or Vast Gold or the Liquidators.
+
+Having taken legal advice and based on the facts and circumstances available to the Group, the Group believes
+that there is no obligation for the Target Company to repay the Subject Loan. The Target Company will vigorously
+defend against the claim referred to in the Writ of Summons. The Company will make further announcement(s) on
+this matter when there is substantial development.
+
+
+
+
+                                                   - 18 -
+FINAL DIVIDEND
+
+The Board has recommended the payment of final dividend of RMB23.36 cents per ordinary share of
+the Company issued or to be issued upon conversion of convertible securities for the year ended 31
+December 2025 (2024: RMB20.73 cents). The proposed final dividend is subject to approval by the
+shareholders of the Company at the forthcoming annual general meeting (the “AGM”) to be held on
+11 June 2026 and is payable in Hong Kong Dollars based on the official exchange rate of Renminbi
+against Hong Kong Dollars as quoted by the People’s Bank of China on 11 June 2026. Such dividend
+will not be subject to any withholding tax. Upon approval by the shareholders of the Company, the
+proposed final dividend will be paid:
+
+(i)    on 29 June 2026 to ordinary shareholders whose names shall appear on the register of members
+       of the Company on 18 June 2026;
+
+(ii)   on 29 June 2026 to holders of convertible securities issued under the open offer of offer
+       securities of the Company as set out in the listing document of the Company dated 9 January
+       2015 and remain outstanding on 18 June 2026; and
+
+(iii) on 3 July 2026 (i.e. the third business day after 29 June 2026) to holders of convertible
+      securities issued under the open offer of convertible securities of the Company as set out in
+      the listing document of the Company dated 27 March 2013 and remain outstanding on 18 June
+      2026.
+
+For the avoidance of doubt, any convertible securities subject to a conversion notice completed,
+executed and deposited on or before the final dividend record date (being 18 June 2026) shall be
+entitled to the distribution of such final dividend of the Company. For details of calculation of
+distribution of the final dividend that each convertible security is entitled to, please refer to the
+listing documents of the Company dated 27 March 2013 and 9 January 2015 respectively.
+
+The Company declared on 21 August 2025 an interim dividend of RMB33.59 cents per ordinary
+share of the Company issued or to be issued upon conversion of convertible securities for the six
+months ended 30 June 2025 (2024: RMB37.75 cents), and such interim dividend has been paid in
+September 2025.
+
+
+
+
+                                                - 19 -
+CLOSURE OF REGISTER OF MEMBERS AND HOLDERS OF CONVERTIBLE
+SECURITIES
+
+For the purpose of determining shareholders of the Company who are entitled to attend and vote
+at the forthcoming AGM to be held on 11 June 2026 and shareholders and holders of convertible
+securities of the Company qualifying for the proposed final dividend to be approved at the AGM, the
+register of members and register of holders of convertible securities of the Company will be closed
+as set out below:
+
+(i)    For ascertaining eligibility to attend and vote at the AGM:
+
+       Latest time to lodge transfer documents      4:30 p.m. on 5 June 2026 (Friday)
+       Period of closure of register of members     8 June 2026 (Monday) to 11 June 2026
+                                                      (Thursday) (both days inclusive)
+       Record date                                  11 June 2026 (Thursday)
+       AGM date                                     11 June 2026 (Thursday)
+
+       In order to qualify for attending and voting at the AGM, all transfer documents must be lodged
+       with the Company’s Hong Kong branch share registrar and transfer office, Computershare
+       Hong Kong Investor Services Limited, at Shops 1712-1716, 17th Floor, Hopewell Centre, 183
+       Queen’s Road East, Wanchai, Hong Kong for registration before the above latest time to lodge
+       transfer documents.
+
+(ii)   For ascertaining entitlement to the proposed final dividend to be approved at the AGM:
+
+       Latest time to lodge transfer documents      4:30 p.m. on 16 June 2026 (Tuesday)
+       Period of closure of register of members     17 June 2026 (Wednesday) to 18 June 2026
+         and register of holders of convertible       (Thursday) (both days inclusive)
+         securities
+       Final dividend record date                   18 June 2026 (Thursday)
+
+       In order to qualify for the proposed final dividend, all transfer documents must be lodged
+       with the Company’s Hong Kong branch share registrar and transfer office, Computershare
+       Hong Kong Investor Services Limited, at Shops 1712-1716, 17th Floor, Hopewell Centre, 183
+       Queen’s Road East, Wanchai, Hong Kong for registration before the above latest time to lodge
+       transfer documents.
+
+During the above closure periods, no transfer of shares or convertible securities of the Company will
+be registered.
+
+
+
+
+                                                  - 20 -
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+Financial Overview
+
+The key operating and financial performance indicators of the Group for the year ended 31
+December 2025 are set out below:
+
+                                                           Year ended 31 December    Change
+                                                                 2025         2024     (%)
+
+Income statement items
+(All amounts in RMB thousands unless
+  otherwise stated)
+
+Revenue                                                    29,598,417   28,675,643      3.2
+Gross profit                                               14,488,837   14,156,103      2.4
+Operating profit                                            3,898,208    3,678,206      6.0
+Earnings before interest, tax, depreciation and
+  amortisation (EBITDA) (Note 1)                            6,160,940    6,379,193      (3.4)
+Profit attributable to equity holders                       2,935,743    3,012,918      (2.6)
+Basic earnings per share (RMB cents) (Note 2)                  113.91       116.98      (2.6)
+
+Key financial ratios
+
+Profitability ratios
+Gross profit margin (%)                                          49.0         49.4      (0.4)
+Operating profit margin (%)                                      13.2         12.8       0.4
+Effective tax rate (%)                                           29.9         26.7       3.2
+Margin of profit attributable to equity holders (%)               9.9         10.5      (0.6)
+Return on equity attributable to equity holders (%)
+  (Note 3)                                                       10.9         11.9      (1.0)
+
+Expenses to revenue ratios
+Staff costs (%)                                                   8.3          8.6      (0.3)
+Advertising and marketing expenses (%)                           10.7          9.5       1.2
+Research and product development expenses (%)                     2.4          2.4         –
+
+
+
+
+                                                  - 21 -
+                                                                                       31 December         31 December
+                                                                                              2025                2024
+
+Balance sheet items
+(All amounts in RMB thousands unless otherwise stated)
+
+Total assets                                                                              37,714,067          35,708,406
+Equity attributable to equity holders                                                     27,627,499          26,103,689
+
+Key financial ratios
+
+Asset efficiency
+Average inventory turnover (days) (Note 4)                                                          64                   64
+Average trade receivables turnover (days) (Note 5)                                                  15                   14
+Average trade payables turnover (days) (Note 6)                                                     42                   43
+
+Asset ratios
+Debt-to-equity ratio (%) (Note 7)                                                                36.5                36.8
+Net asset value per share (RMB cents) (Note 8)                                               1,072.16            1,013.56
+
+Notes:
+
+1.       The calculation of earnings before interest, tax, depreciation and amortisation (EBITDA) is based on profit for the
+         year, excluding the sum of income tax expense, finance income – net, depreciation and impairment on property,
+         plant and equipment, depreciation and impairment on investment properties, amortisation and impairment of land
+         use rights and intangible assets (excluding goodwill) and depreciation and impairment on right-of-use assets.
+
+2.       Basic earnings per share is calculated by dividing the profit attributable to equity holders of the Company
+         by the weighted average number of shares in issue less shares held for Restricted Share Award Scheme and
+         shares repurchased by the Company for cancellation during the year. Such weighted average number of shares
+         outstanding shall be adjusted for events such as bonus issue and stock dividend.
+
+3.       The calculation of return on equity attributable to equity holders is based on the profit attributable to equity
+         holders of the Company for the year, divided by the average of opening and closing balances of equity attributable
+         to equity holders of the Company of the year.
+
+4.       The calculation of average inventory turnover (days) is based on the average of opening and closing inventory
+         balances for the year, divided by cost of sales and multiplied by the total number of days in the year.
+
+5.       The calculation of average trade receivables turnover (days) is based on the average of opening and closing
+         balances of trade receivables for the year, divided by revenue and multiplied by the total number of days in the
+         year.
+
+
+
+
+                                                            - 22 -
+6.   The calculation of average trade payables turnover (days) is based on the average of opening and closing balances
+     of trade payables for the year, divided by total purchases and multiplied by the total number of days in the year.
+
+7.   The calculation of debt-to-equity ratio is based on total liabilities divided by equity attributable to equity holders
+     of the Company at the end of the year.
+
+8.   The calculation of net asset value per share is based on the net asset value, divided by the number of shares in
+     issue less shares held for Restricted Share Award Scheme and shares repurchased by the Company for cancellation
+     at the end of the year.
+
+*    The aforesaid indicators provided by the Group may not necessarily be the same in terms of similar calculation
+     methods as those provided by other issuers.
+
+**   The Group adopted the aforesaid non-GAAP financial indicators such as EBITDA, margin of profit attributable
+     to equity holders, return on equity attributable to equity holders, expenses (staff costs/advertising and marketing
+     expenses/research and product development expenses) to revenue ratio, average inventory/trade receivables/trade
+     payables turnover days, debt-to-equity ratio and net asset value per share because comparable companies in the
+     industry in which the Group operates use the aforesaid common indicators as a supplementary measurement for
+     results of operation, which are also widely used by investors to measure the results of operation of the comparable
+     companies.
+
+Revenue
+
+The Group’s total revenue for the year ended 31 December 2025 increased by 3.2% year-on-year to
+RMB29,598,417,000 (2024: RMB28,675,643,000). The changes in revenue from all channels were
+as follows: (1) during the year, the franchised distributors channel continued to serve as a core pillar,
+with revenue growing steadily by 6.3% year-on-year, further increasing its contribution to 46.6%;
+(2) the Group enhanced its online marketing strategies, strengthening collaboration with mainstream
+e-commerce ecosystems while closely monitoring the growth opportunities of marketing in emerging
+e-commerce channels, resulting in increased revenue from the e-commerce channel by 5.3% year-
+on-year; and (3) the retail channel remained under pressure, with revenue decreasing by 3.3% year-
+on-year, due to adjustments to the directly-operated store layout and a shift in consumer scenarios.
+The Company will continue to precisely target consumer needs, strengthen user engagement and
+optimise the store matrix to achieve deep complementarity and synergistic growth across online and
+offline channels.
+
+
+
+
+                                                         - 23 -
+Revenue by product category
+
+                                                Year ended 31 December
+                                             2025                    2024                   Revenue
+                                                % of total               % of total         Change
+                                     RMB ’000     revenue    RMB ’000     revenue               (%)
+
+Footwear                          14,650,546                49.5   14,300,341       49.9        2.4
+Apparel                           12,327,039                41.6   12,050,245       42.0        2.3
+Equipment and accessories          2,620,832                 8.9    2,325,057        8.1       12.7
+
+Total                             29,598,417               100.0   28,675,643      100.0        3.2
+
+
+Revenue (in %) by sales channel
+
+                                                               Year ended 31 December
+                                                                     2025          2024
+                                                                    % of           % of     Change
+                                                                 revenue        revenue       (%)
+
+The PRC market
+  Sales to franchised distributors                                    46.6         45.1         1.5
+  Sales from direct operation                                         22.5         24.0        (1.5)
+  Sales from e-commerce channel                                       29.5         29.0         0.5
+Other regions                                                          1.4          1.9        (0.5)
+
+Total                                                                100.0        100.0           –
+
+
+Revenue by geographical location
+
+                                                  Year ended 31 December
+                                          2025                       2024                   Revenue
+                                                       % of                          % of    Change
+                         Notes       RMB ’000       revenue      RMB ’000         revenue       (%)
+
+The PRC market
+  Northern region           1        13,989,249             47.3   13,640,169        47.6        2.6
+  Southern region           2        15,182,093             51.3   14,504,625        50.5        4.7
+Other regions                           427,075              1.4      530,849         1.9      (19.5)
+
+Total                                29,598,417            100.0    28,675,643      100.0        3.2
+
+
+
+                                                  - 24 -
+Notes:
+
+1.       The Northern region includes provinces, municipalities and autonomous regions covering Beijing, Tianjin, Shanxi,
+         Shandong, Hebei, Inner Mongolia, Henan, Heilongjiang, Jilin, Liaoning, Shaanxi, Gansu, Ningxia, Xinjiang and
+         Qinghai.
+
+2.       The Southern region includes provinces, municipalities, autonomous regions and special administrative regions
+         covering Yunnan, Guizhou, Sichuan, Jiangxi, Chongqing, Tibet, Shanghai, Zhejiang, Jiangsu, Hunan, Hubei,
+         Anhui, Guangdong, Guangxi, Fujian, Hainan, Macau and Hong Kong.
+
+
+Cost of Sales and Gross Profit
+
+For the year ended 31 December 2025, the overall cost of sales of the Group amounted to
+RMB15,109,580,000 (2024: RMB14,519,540,000), and the overall gross profit margin was 49.0%
+(2024: 49.4%). During the year, the gross profit margin decreased by 0.4 percentage points as
+compared to the corresponding period of last year. The decline in gross profit margin was primarily
+attributable to adjustments in channel structure, with a lower proportion of revenue generated from
+the direct-to-customer channels, the increase in discount offerings due to intensified promotional
+competition in self-operated channels, resulting in a slight decline in gross profit margin.
+
+Selling and Distribution Expenses
+
+For the year ended 31 December 2025, the Group ’s overall selling and distribution expenses
+amounted to RMB9,189,675,000 (2024: RMB9,198,907,000), accounting for 31.0% (2024: 32.1%)
+of the Group’s total revenue.
+
+The selling and distribution expenses decreased by 0.1% as compared to the corresponding period
+of last year. The refined cost control enhanced the operational efficiency. By optimising store
+operations and closing underperforming stores, the Company effectively reduced key costs such
+as store rent, labor, and amortisation of operating store decoration and fixture while maintaining
+consumer experience. Meanwhile, to strengthen brand competitiveness and support long-term growth
+momentum, the Company strategically increased investment in marketing, with a particular focus
+on sports marketing campaigns centered on Olympic and national team partnerships, as well as
+premium brand building, thereby achieving a dynamic optimisation of the cost structure.
+
+Administrative Expenses
+
+For the year ended 31 December 2025, the Group’s overall administrative expenses amounted to
+RMB1,630,412,000 (2024: RMB1,427,907,000), accounting for 5.5% (2024: 5.0%) of the Group’s
+total revenue with a year-on-year increase of 0.5 percentage points. Administrative expenses mainly
+comprised staff costs, management consulting fees, office rental, depreciation and amortisation
+charges, research and product development expenses, taxes and other miscellaneous daily expenses.
+
+
+
+
+                                                          - 25 -
+The increase in administrative expenses was mainly attributable to the increase in staff costs due to
+the recruitment of product research and development talents and adjustments to the social insurance
+base, and increased taxes resulted from revenue growth. In addition, the impairment of goodwill
+in the amount of RMB72,387,000 was fully recognised during the year, which resulted from the
+acquisition of Kason Sports (Hong Kong) Limited in 2009.
+
+Share of Profit of Investments Accounted for Using the Equity Method
+
+For the year ended 31 December 2025, the Group’s share of profit of investments accounted for
+using the equity method amounted to RMB257,897,000 (2024: RMB256,299,000).
+
+Earnings before Interest, Tax, Depreciation and Amortisation (EBITDA)
+
+For the year ended 31 December 2025, the Group’s EBITDA amounted to RMB6,160,940,000
+(2024: RMB6,379,193,000), representing a year-on-year decrease of 3.4%.
+
+Reconciliations of EBITDA to profit for the year are as follows:
+
+                                                                            2025             2024
+                                                                         RMB ’000         RMB ’000
+
+Reconciliation of profit for the year to EBITDA:
+Profit for the year                                                       2,935,743        3,012,918
+  Income tax expense                                                      1,253,480        1,096,691
+  Finance income                                                           (296,709)        (429,525)
+  Finance expenses (including amortisation of discount
+    on lease liabilities)                                                   263,591          254,421
+  Depreciation on property, plant and equipment                             709,648        1,095,092
+  Impairment of property, plant and equipment (Note 1)                       72,281           81,807
+  Amortisation of land use rights and intangible assets                      69,150           63,093
+  Impairment of trademark rights under intangible assets (Note 1)             4,041                –
+  Depreciation on right-of-use assets                                       498,114          613,087
+  Impairment of right-of-use assets (Note 1)                                283,411          171,942
+  Depreciation on investment properties                                      99,170           86,295
+  Impairment of investment properties (Notes 1,2)                           269,020          333,372
+
+EBITDA                                                                    6,160,940        6,379,193
+
+
+
+
+                                                - 26 -
+Notes:
+
+1.       Impairment charges included as an adjustment item in EBITDA primarily resulted from our impairment evaluation
+         of non-current assets whenever events or changes in circumstances indicate that the carrying value of the assets
+         may not be recoverable. If these non-current assets were not impaired, depreciation of the assets would have
+         been recorded as an adjustment item in EBITDA. Therefore, impairment charges were a non-cash item similar to
+         depreciation and amortization of non-current assets.
+
+2.       During the year ended 31 December 2025, the property market in Chinese mainland and Hong Kong was
+         confronted with a highly challenging and uncertain environment. This environment led to sluggish demand
+         and soft sentiments, ultimately resulting in an overall decline in both the price and rental indices. As a result,
+         Management concluded that there were impairment indications for the Group’s investment properties and
+         conducted impairment assessment on the investment properties as at 31 December 2025 in accordance with
+         IAS 36 Impairment of Assets. The Group estimated the recoverable amounts of the investment properties with
+         reference to their respective fair values as at 31 December 2025 which were determined using the income
+         approach. Based on the results of the impairment assessments, impairment losses of RMB269,020,000 were
+         recognised against the carrying amount of investment properties during the year ended 31 December 2025 (31
+         December 2024: RMB333,372,000).
+
+
+Finance Income – Net
+
+For the year ended 31 December 2025, the Group’s net finance income amounted to RMB33,118,000
+(2024: RMB175,104,000). The year-on-year decrease in net finance income was due to the decrease
+of interest income as a result of the decrease in interest rates.
+
+Income Tax Expense
+
+For the year ended 31 December 2025, the income tax expense of the Group amounted to
+RMB1,253,480,000 (2024: RMB1,096,691,000) and the effective tax rate was 29.9% (2024: 26.7%).
+With exchange rate fluctuations, fund yield and other comprehensive factors, the Company made
+some reasonable plannings for the domestic and foreign capital structures, causing the corresponding
+withholding income tax to be accrued, resulting in an increase in tax rate for the year.
+
+Overall Profitability Indicators
+
+During the year ended 31 December 2025, the Group recorded steady revenue growth. Although
+the expenses achieved a slight optimization, gross profit margin has declined year-on-year with
+the effective tax rate increased significantly. As a result of these combined factors, the margin
+of profit attributable to equity holders has decreased. The Group’s profit attributable to equity
+holders amounted to RMB2,935,743,000 during the year ended 31 December 2025 (2024:
+RMB3,012,918,000). The margin of profit attributable to equity holders was 9.9% (2024: 10.5%),
+and the return on equity attributable to equity holders was 10.9% (2024: 11.9%).
+
+
+
+
+                                                           - 27 -
+Provision for Inventories
+
+The Group’s policy in respect of provision for inventories for 2025 was the same as that in 2024.
+Inventories of the Group are stated at the cost or net realisable value, whichever is lower. In the event
+that net realisable value falls below cost, the difference is taken as provision for inventories. The
+Group considers this policy to be adequate in ensuring appropriate provision for inventories is made
+by the Group.
+
+As at 31 December 2025, the accumulated provision for inventories was RMB158,679,000 (31
+December 2024: RMB166,817,000). During the year, through the implementation of smart inventory
+management, the responsiveness of the supply chain has been enhanced and the inventory structure
+has been optimized, resulting in a decrease in provision for inventories.
+
+Expected Credit Loss Allowance
+
+The Group’s policy in respect of expected credit loss allowance for 2025 was the same as that in
+2024. The expected credit loss allowance was recorded at an amount equal to the lifetime expected
+credit losses of the trade receivables that do not contain a significant financing component, and 12
+months expected credit losses or lifetime expected credit losses of other receivables, depending on
+whether there has been a significant increase in credit risk since initial recognition.
+
+As at 31 December 2025, the accumulated expected credit loss allowance was RMB43,932,000 (31
+December 2024: RMB45,678,000), among which the accumulated expected credit loss allowance for
+trade receivables was RMB37,906,000 (31 December 2024: RMB41,658,000) and the accumulated
+expected credit loss allowance for other receivables was RMB6,026,000 (31 December 2024:
+RMB4,020,000). The trade receivables and other receivables of the Group written off during the year
+ended 31 December 2025 as uncollectible and the effect of change in exchange rate amounted to
+RMB721,000 (2024: RMB5,334,000). The Group will continue to monitor the ageing structure and
+settlements to maintain a sound receivable turnover ratio.
+
+
+
+
+                                                  - 28 -
+Liquidity and Financial Resource
+
+The Group’s net cash generated from operating activities for the year ended 31 December 2025
+amounted to RMB4,851,532,000 (2024: RMB5,267,935,000). As at 31 December 2025, cash and
+cash equivalents (including cash at banks and in hand, and fixed term deposits with original maturity
+of no more than three months) amounted to RMB16,716,551,000, representing a net increase
+of RMB9,217,955,000 as compared with the position as at 31 December 2024. Adding back the
+amount recorded as time deposits held at banks, cash balance amounted to RMB19,973,440,000,
+representing a net increase of RMB1,832,513,000 as compared to 31 December 2024. The increase
+was due to the following items:
+
+                                                                                         Year ended
+                                                                                       31 December
+                                                                                               2025
+Item                                                                                      RMB ’000
+
+Operating activities:
+Net cash generated from operating activities                                               4,851,532
+Investing activities:
+Net cash generated from investing activities (including placement and
+  redemption of time deposits)                                                             6,633,971
+Financing activities:
+Net cash used in financing activities                                                     (2,155,034)
+Add: Exchange losses on cash and cash equivalents                                           (112,514)
+
+Net increase in cash and cash equivalents                                                  9,217,955
+Add: Net decrease in time deposits                                                        (7,385,442)
+
+Net increase in cash balance                                                               1,832,513
+
+
+During the year, revenue increased year-on-year, while cash-based expenses including marketing
+costs and tax payments rose, coupled with the settlement time lag of e-commerce platforms, leading
+to a year-on-year decrease in net cash generated from operating activities. Meanwhile, the maturity
+and redemption of time deposits led to a significant increase in net cash generated from investing
+activities. The Group will continue to place extra emphasis on cash flow management to ensure the
+stable development of the Company in the long term.
+
+
+
+
+                                                - 29 -
+On 27 October 2021, the Company, a wholly-owned subsidiary of Viva China Holdings Limited
+(subsequently renamed as Viva Goods Company Limited) and the placing agents entered into the
+placing and subscription agreement, pursuant to which the parties jointly proceeded with the top-
+up placing of existing shares of the Company and the subscription of new shares of the Company
+under the general mandate, and agreed to the top-up placing and subscription of 120,000,000
+shares of the Company at HK$87.50 per share. On 3 November 2021, both parties completed the
+top-up placing and the subscription. The net proceeds from the top-up placing of shares amounted
+to HK$10,433,042,000 (equivalent to approximately RMB8,571,787,000). Please refer to the
+announcements of the Company dated 28 October 2021 and 3 November 2021 respectively for
+details.
+
+For the year ended 31 December 2025, RMB570,601,000 of the net proceeds from the top-up
+placing had been used. As at 31 December 2025, RMB341,020,000 of the net proceeds from the top-
+up placing were unutilised and are intended to be used as follows:
+
+                                                                                       Amount used
+                                                                    Unutilised net       during the    Unutilised net
+                                                    Percentage      proceeds as at       year ended    proceeds as at   Expected timeframe for
+                                                    of total net     31 December       31 December      31 December     utilising the unutilised
+Intended use of net proceeds                          proceeds               2024              2025             2025    net proceeds (1)
+                                                                   (approximately    (approximately   (approximately
+                                                (approximately)        RMB’000)          RMB’000)         RMB’000)
+
+Investment in newly launched product
+   categories as well as future business
+   investments when opportunity arises,
+   including international business expansion              40%                  –                –                 –
+Investment in reengineered infrastructure and
+   further improvement of the supply chain
+   system                                                  30%            911,621          570,601           341,020    Before 31 December 2026
+Development of the brand and IT system                     20%                  –                –                 –
+General working capital                                    10%                  –                –                 –
+
+Total                                                    100%             911,621          570,601           341,020    Before 31 December 2026
+
+
+Note:
+
+1.      The net proceeds have been applied in the manner consistent with the use of proceeds as disclosed in the
+        announcement of the Company dated 3 November 2021. The expected timeframe for utilising the unutilised
+        net proceeds is subject to change based on the current and future development of market conditions and market
+        opportunities made available to the Group.
+
+
+
+
+                                                                      - 30 -
+As at 31 December 2025, the Group’s banking facilities amounted to RMB13,922,000,000, without
+outstanding borrowings.
+
+During the year, the Group did not hedge its exposure to interest rate risks via interest-rate swaps.
+
+Foreign Exchange Risk
+
+The Group’s operations are mainly carried out in the PRC, with most transactions settled in RMB.
+The reporting currency of the Group is RMB. The Group’s subsidiaries in South Korea, Hong Kong
+and Macau use South Korean Won, Hong Kong Dollars and Macau Pataca, respectively, as their
+functional currencies. The Group has a partial amount of cash and bank deposits denominated in
+Hong Kong Dollars, United States Dollars, Euros, South Korean Won, Pound Sterling and Macau
+Pataca. The Company pays dividends in Hong Kong Dollars, certain licence fees, sponsorship fees
+and consultation fees in United States Dollars or Euros, and certain investments in Hong Kong
+Dollars or United States Dollars.
+
+The Group did not hedge its foreign exchange exposure during the year. Any significant exchange
+rate fluctuations of foreign currencies against RMB may have had financial impact on the Group.
+
+Material Acquisitions and Disposals of Subsidiaries, Associates and Joint Ventures
+
+In order to satisfy the needs of the Group’s commercialization layout, expand its international
+business by establishing a footing in Hong Kong and explore global business opportunities, a
+subsidiary of the Group (the “ Purchaser ” ) and a subsidiary of Henderson Land Development
+Company Limited (the “Vendor”) entered into a sale and purchase agreement (the “SPA”) on 10
+December 2023. To the best knowledge, information and belief of the directors having made all
+reasonable enquiries, the Vendor and its ultimate beneficial owner were independent third parties of
+the Company and its connected person(s). Pursuant to the SPA, the Purchaser conditionally agreed
+to (1) acquire the entire share capital of Vansittart Investment Limited (the “Target Company”,
+a company incorporated in Hong Kong with limited liability) and (2) take up the assignment
+of the loan amount owing by the Target Company to one of its related parties as at the date of
+completion of the above acquisition (the “Acquisition”). The adjusted aggregate consideration for
+the Acquisition is HK$2,221 million (equivalent to approximately RMB2,013 million). The Target
+Company is principally engaged in property investment and is the sole legal and beneficial owner of
+a property comprising 22 storeys of commercial/office space and two storeys of retail areas in Hong
+Kong (the “Property”), which is the principal asset of the Target Company. For details, please refer
+to the announcement of the Company dated 10 December 2023.
+
+
+
+
+                                                 - 31 -
+The Acquisition was completed on 28 January 2024 and the consideration has been fully paid. The
+Acquisition was funded by the Group’s net proceeds from the top-up placing of shares and internal
+resources. Upon completion, the Target Company has become an indirect wholly-owned subsidiary
+of the Company and the financial results of which are consolidated into the financial statements
+of the Group. Following the completion of the Acquisition, the Group will continue to perform the
+original leases of the major portion of the Property, and the remaining portion of the Property will be
+used as the Hong Kong headquarters of the Group.
+
+The investment cost of the Property was RMB2,021,450,000. The Group adopted the cost method for
+subsequent measurement of the portion of the Property classified as investment properties. As of 31
+December 2025, the carrying value of the Property was RMB1,761,911,000 after depreciation and
+impairment, representing a percentage of approximately 4.7% of the Group’s total assets.
+
+During the year ended 31 December 2025, the Group has not made any other material acquisitions or
+disposals of subsidiaries, associates and joint ventures.
+
+Future Plans for Significant Investments and Capital Assets
+
+In order to establish a high-end intelligent manufacturing and flexible supply chain base and a
+high-level research and development (R&D) and experience center to meet the Group ’s future
+development needs, a subsidiary of the Group (the “Subsidiary”) entered into and updated an
+investment agreement with a local governmental authority in Guangxi Zhuang Autonomous Region
+of the PRC on 8 November 2019 and 23 May 2023 respectively, pursuant to which the Subsidiary
+had agreed to acquire the land use right over a piece of industrial land through the listing-for-sale
+bidding process, and construct a supply chain base over the land for the production and packaging
+of high-end sports equipment (including but not limited to sports shoes, sports apparels and sports
+equipment) to expand its production capacity and output of differentiated sports products, as well
+as focusing on putting resources into R&D and experience to enhance the Group’s technological
+R&D capability and to provide consumers with better product experience, sports experience and
+consumption experience.
+
+The maximum investment amount pursuant to the investment agreement was estimated to be
+approximately RMB3.3 billion, which refers to the total cost of completing the project and putting
+it into operation, including the cost of acquiring the land use right, the expenditure involved in the
+construction of the supply chain base, investment in purchasing machinery and equipment, and
+working capital.
+
+As of 31 December 2025, the Subsidiary had successfully acquired the land use right over the
+relevant land and had been making investments on the construction of the supply chain base. As at
+31 December 2025, the carrying amount of the non-current assets after depreciation and impairment
+under the investment was RMB2,057,527,000, representing approximately 5.5% of the Group’s total
+assets. The remaining investment amount will be funded by the Group ’s unutilised net proceeds from
+the top-up placing of shares and internal resources.
+
+
+
+
+                                                 - 32 -
+Pledge of Assets
+
+As at 31 December 2025 and 31 December 2024, the Group had no pledged assets.
+
+Contingent Liabilities
+
+Two wholly-owned subsidiaries of the Company (the “Purchasers”) entered into a transfer agreement
+on 31 December 2020 with Blooming Target Investments Ltd. (the “Vendor”) and 中銀投資資產
+管理有限公司 (Bank of China Investment Asset Management Company Limited) (“BOCIAM”),
+pursuant to which the Purchasers agreed to acquire the entire share capital in Matsunichi
+Communications (Hong Kong) Limited (the “Target Company”), the Vendor’s rights in the loan
+extended to the Target Company, and BOCIAM’s rights in the loan extended to the subsidiary of
+the Target Company (Matsunichi High-tech Electronic (Shenzhen) Company Limited). The share
+transfer of the Target Company was completed on 28 January 2021, and since then, the Target
+Company has become an indirect wholly-owned subsidiary of the Company. The Target Company
+was subsequently renamed as Li Ning Communications (Hong Kong) Limited. Details are set out in
+the announcement of the Company dated 31 December 2020.
+
+The Target Company received a statutory demand (the “Statutory Demand”) from the joint and
+several liquidators (the “ Liquidators ” ) of Vast Gold Holdings Limited (in liquidation) ( “ Vast
+Gold”) and Active Legend Limited (in liquidation) (“Active Legend”) on 24 March 2025, alleging
+that Active Legend had extended a short-term loan in the principal amount of HK$500,000,000
+(the “Subject Loan”) pursuant to a loan facility letter from Active Legend dated 20 August 2018,
+which was confirmed by the Target Company and Mr. Pan Sutong (the sole shareholder of the
+Target Company prior to the Vendor taking over the Target Company on 26 March 2019). In the
+Statutory Demand, the Liquidators further alleged that the Subject Loan remained outstanding at
+a total amount of HK$1,955,338,833 (including the loan principal, interest and default interest
+amounts). On 29 April 2025, upon the Target Company’s application to restrain the Liquidators
+from commencing any winding up proceedings against the Target Company based on the alleged
+loan stated in the Statutory Demand, the Liquidators withdrew the Statutory Demand. Details are set
+out in the Company’s annual results announcement for the year ended 31 December 2024 dated 28
+March 2025.
+
+On 24 June 2025, Active Legend and Vast Gold served the Target Company a writ of summons
+issued by the High Court (the “Court”) of the Hong Kong Special Administration Region (the “Writ
+of Summons”) for the claim on the principal amount and the contractual interest on the Subject Loan
+up to the earlier of the date of the judgement and the date of earlier payment, other relief and costs.
+
+On 7 July 2025, the Target Company filed the Acknowledgement of Service to the Court. On 15
+December 2025, the Target Company filed its amended defence. On 12 January 2026, Active Legend
+and Vast Gold filed their reply to the defence.
+
+Before the Target Company received the Statutory Demand, the Company was not aware of the
+existence of the Subject Loan and any matter related thereto, and the Target Company had never
+received any repayment demand or other correspondence from Active Legend or Vast Gold or the
+Liquidators.
+
+
+                                                 - 33 -
+Having taken legal advice and based on the facts and circumstances available to the Group, the
+Group believes that there is no obligation for the Target Company to repay the Subject Loan. The
+Target Company will vigorously defend against the claim referred to in the Writ of Summons. The
+Company will make further announcement(s) on this matter when there is substantial development.
+
+BUSINESS REVIEW
+
+In 2025, global economic development faced numerous uncertainties, while the Chinese economy
+demonstrated strong resilience. According to data released by the National Bureau of Statistics,
+the annual gross domestic product recorded a year-on-year growth of approximately 5%, and
+residents’ income and consumption capacity steadily improved. Driven by a series of policies to
+expand domestic demand and promote consumption, the consumer market continued to recover
+and its structure was further optimised. Benefiting from this, the Group adhered to the dual
+drive of technological innovation and Olympic cooperation momentum, deepened its presence
+in the professional sports sector while simultaneously expanding into niche markets. The Group
+continuously enhanced the technological features of its products, optimised the channel efficiency,
+and enhanced the brand’s professional positioning. The overall operating performance remained
+stable throughout the year, laying a solid foundation for the Company’s long-term high-quality
+development.
+
+In terms of product upgrades, the Group anchored its “Single Brand, Multi-categories, Diversified
+Channels” strategy, fully leveraged its own research and development advantages, and drove iterative
+upgrades of core categories with cutting-edge technology, thereby enhancing the technological
+competitiveness of the product matrix and reinforcing the brand’s professional sports attributes.
+By the end of the year, the Group launched the “Super BOOM Capsule” （超䨻膠囊） midsole
+cushioning technology and realised its commercial application, which has been applied to flagship
+products such as “Feidian 6 ULTRA”（飛電6 ULTRA ）, “Feidian 6 ELITE”（飛電6 ELITE ）and
+“Red Hare 9 ULTRA”（赤兔 9 ULTRA ）, and it was well received by consumers.
+
+In terms of channel optimisation, the Group deeply cultivated the channel layout and strived to
+steadily enhance channel efficiency. While online business maintained steady growth, offline
+operations focused on efficiency optimisation and innovative upgrades of business formats. During
+the year, the Group successfully launched its first “Loong Store”（龍店）and the standalone outdoor
+category store “ COUNTERFLOW 溯” , and through business format innovation and scenario
+upgrades, carefully created a consumer space integrating resonance of sports spirit, in-depth cultural
+exchange and immersive product experience, thereby promoting the coordinated improvement of
+terminal experience and commercial efficiency.
+
+In terms of brand marketing, the Group adopted “China’s Glory, Together with LI-NING”（中國榮
+耀，李寧同行）as the core narrative, deepened cooperation with the Chinese Olympic Committee
+and the Chinese Sports Delegation, actively promoted the integration of sportsmanship with top-
+tier technology and Eastern aesthetics, and transformed top-tier scarce sports resources into a
+driving force for brand reputation and market recognition, continuously strengthening consumers’
+perception of LI-NING’s professional capabilities and product reliability.
+
+
+
+                                                - 34 -
+Joining hands with the Chinese Olympic Committee to drive development with technology and
+brand as dual engines
+
+In 2025, guided by “China’s Glory, Together with LI-NING”, the Group advanced in alignment
+with China ’s sports undertakings. By integrating sports culture, cutting-edge technology and
+Eastern aesthetics, the Group not only provided professional equipment for major events, but
+also systematically transformed top-tier sports resource partnerships into momentum for brand
+enhancement.
+
+In terms of brand communication, the LI-NING brand actively promoted marketing communications
+around major milestones such as the cooperation signing with the Chinese Olympic Committee,
+Olympic Day, the National Fitness Day on 8 August, the World Games 2025 Chengdu and the
+launch of the award uniforms for the Chinese Sports Delegation at the 2026 Milan Winter Olympics,
+coordinated with retail to launch consumer engagement activities, and continuously reinforced
+consumers ’ recognition of LI-NING as the “Partner of the Chinese Olympic Committee ” and
+solidified LI-NING as a professional sports brand.
+
+In the field of professional equipment, the Group tailor-made a range of competition equipment for
+the Chinese Sports Delegation, fully demonstrating technological leadership and cultural confidence.
+For example, the award uniforms for the 12th World Games incorporated environmentally friendly
+technology and the bamboo culture of Sichuan; the outdoor award uniforms for the Chinese Sports
+Delegation at the Milan Winter Olympics 2026 adopted “China Red” and the “Double Victory
+Snowflake Pattern” as the design core, combined with top sports technologies such as “Aerospace
+Thermal Lock Cotton” and “Basalt Far-Infrared”, further consolidating the brand’s leadership in the
+field of top professional equipment while refining Eastern aesthetics.
+
+In December 2025, the Group opened the world ’s first LI-NING “ Loong Store ”（龍店） and
+simultaneously launched the “Glory Gold Label”（榮耀金標）product series. This series, for the
+first time, jointly adopted the Chinese Olympic Committee emblem and the LI-NING brand logo
+in product design, carrying the glory of Chinese sports and the spirit of the LI-NING brand and
+realising the deep extension of sports culture into daily consumption scenarios. Supported by
+professional sports technology and complemented by minimalist design, the “Glory Gold Label”
+（榮耀金標）series precisely targets consumers pursuing a high-quality lifestyle and establishes a
+high-end product matrix and retail system covering commuting, business and light sports scenarios.
+Among them, apparel, under the theme of “Borderless Arena – Beyond Limits”（無邊競技場 – 無
+止於境）, adopts high-quality fabrics and ergonomic tailoring to provide multifunctional dressing
+solutions. Footwear, centred on the spirit of “Refined into Gold through Hundred Trials”, is divided
+into two major series, namely “Chao”（超） and “ Zheng”（征）: the “ Chaoran”（超燃） series is
+equipped with the visible cushioning technology “LI-NING Arc”（李寧弧）and the “Super BOOM”
+（超䨻） midsole, balancing convenience and comfort; the “Zhengcheng”（征程） series adopts a
+minimalist mountain-style design, complemented by Vibram wet-grip outsole compound and upper
+protection technology to meet diversified scenario needs.
+
+
+
+                                                - 35 -
+In addition, the Group adheres to technological innovation as the core driving force and, relying
+on the “Aerospace Dynamic Thermal Technology Platform ”（航天動態保暖科技平台）, applies
+functionally innovative technologies to real sports scenarios and the equipment of the Chinese Sports
+Delegation, continuously consolidating its core positioning as a professional sports brand.
+
+The Group efficiently coordinated brand activities, marketing resources and product innovation,
+strengthening differentiated brand recognition and laying a solid foundation for Olympic marketing
+in the new cycle. The Group continuously consolidates its technological core and steadily builds a
+long-term development framework driven by professional sports and event resources, supporting the
+advancement of China’s sports undertakings with glory.
+
+Consolidating the “Single Brand, Multi-categories, Diversified Channels ” Strategic Layout to
+Promote the Comprehensive Upgrade of the LI-NING Brand Experience
+
+Building competitiveness in the professional sports field, expanding multi-scenario applications
+and enhancing brand market penetration and influence
+
+In 2025, the Group firmly implemented its core strategy, driven by technological innovation and
+professional sports resources as dual engines, making comprehensive efforts in six core categories,
+namely running, basketball, training, badminton, table tennis and sports casual, and successfully
+expanding into emerging tracks such as outdoor, tennis and pickleball, while continuously improve
+brand competitiveness and market influence.
+
+Running
+
+In 2025, the Group continued to deepen the layout of its professional running shoe matrix, precisely
+covering runners’ needs in different scenarios and expanding into the trail running field, establishing
+an industry-leading advantage from “core IP deep cultivation” to “full-scenario segmentation”. By
+deeply binding top national race resources and signing top athletes, important support was provided
+for the brand’s professional sports mindset. Leveraging the outstanding performance of professional
+products, the running category achieved high-quality growth throughout the year, and its category
+market share continued to increase.
+
+
+
+
+                                                 - 36 -
+In terms of professional running shoes, the two core IPs “Feidian”（飛電）and “Red Hare”（赤兔）
+reached new record highs in total annual sales. Together with key IPs such as “Yueying”（越影）and
+“Super Light”（超輕）, a complete product matrix was established. The Group continued to iterate
+and upgrade flagship products. The “Feidian”（飛電）family was fully equipped with “Super BOOM”
+（超䨻）midsole technology and innovatively upgraded with the “Fastest Curve” system. The “Red
+Hare”（赤兔）family, positioned as the “hexagon warrior”（六邊形戰士）, integrates “BOOM”（䨻）
+technology with trendy design, is deeply supported by young runners, and successfully ranked first
+in the running shoe category search rate on the Xiaohongshu（小紅書）platform in 2025, becoming
+a word-of-mouth choice for tens of millions of runners. “Super Light”（超輕）continued its core
+advantage of balancing professional performance and daily wear, deeply cultivating the female
+consumer mindset and meeting multi-scenario needs including light running, light exercise and light
+outdoor activities, continuously accumulating the user base and market popularity among entry-level
+runners. The “Yueying”（越影）family, built with the differentiated technology concept of “golden
+cushioning rebound ratio”, filled the gap of top-level cushioned running shoes in the core matrix,
+with cumulative annual sales exceeding one million pairs.
+
+In terms of running apparel, the Group was committed to solving the core pain points of runners in
+different scenarios such as marathons, daily road running and trail running through technological
+innovation, enhancing the product experience of core consumers. The “LN AIR” breathable quick-
+dry technology specially designed for running achieves dual functions of breathability and quick
+drying through visualised perforations and high-performance quick-dry materials. Newly created
+lightweight breathable sport-grade running jackets, under the innovative concept that “jackets can
+also be non-stuffy”, ensure portability in sports while providing protection. During the year, the
+racing “Dragonflight”（龍雀）vest launched based on the concept product “Dragonflight Set”（龍
+雀套裝）became a phenomenal product in the running apparel circle due to its differentiated selling
+points. In addition, the Group entered the new track of trail running and launched the “Pangolin”（川
+山甲）core product family. Among them, the trail running shell jackets “Pangolin GTX”（川山甲
+GTX ）and “Pangolin”（川山甲）, equipped with top outdoor fabrics, enable runners to calmly face
+complex weather conditions in trail races.
+
+In terms of marketing, the Group seized new product launch to build brand traffic and enhance
+market attention, and continuously strengthened the brand’s professional sports image through
+strategic deployment of athlete and top race resources. During the year, the Group successfully
+signed multiple elite athletes domestically and abroad, winning 73 championships and achieving 145
+podium finishes in international and domestic competitions, demonstrating the brand’s outstanding
+professional competitive strength. In race deployment, the Group supported key events such as
+the Beijing Half Marathon and the Wuxi, Hangzhou and Shenzhen Marathons. In the Beijing
+Half Marathon, LI-NING running shoes ranked first with a 61.35% share among elite runners
+finishing within 90 minutes, further consolidating its leading position in professional running shoes.
+Meanwhile, the Group deepened strategic cooperation with the Chinese Middle School Students
+Sports Association to comprehensively expand the campus running ecosystem.
+
+
+
+
+                                                - 37 -
+Basketball
+
+The Group’s basketball category has formed three clearly positioned and distinctive core pillars:
+professional basketball, “ Wade ” （韋德） basketball and “ BADFIVE ” （反伍） street basketball.
+During the year, the Group not only introduced new products but also integrated global event
+resources, transforming league popularity, star traffic and basketball enthusiasts’ support into
+product popularity and sales momentum, significantly enhancing brand influence.
+
+In professional basketball, the Group aimed to move from “ product leadership to ecosystem
+leadership”, closely focusing on NBA and CBA event marketing to deepen brand penetration and
+commercial conversion. The Jimmy Butler product line and Yang Hansen series performed strongly.
+Jimmy Butler’s fourth-generation signature shoes “JB4” successfully set a benchmark for signature
+shoe popularity with top performance. “Yushuai 20”（馭帥20 ）integrated Forbidden City culture
+with Yang Hansen’s star popularity, achieving cultural output and sell-out at first launch. The
+direct retail exclusive “ULTRALIGHT” exceeded cumulative sales of 204,000 pairs. Professional
+basketball apparel leveraged star endorsement and trending event exposure to efficiently drive brand
+voice and business growth.
+
+For “Wade”（韋德）basketball, the Group officially released “Way of Wade 12” during the NBA
+China Games. The product was the first to carry the top midsole technology of “dual-layer Super
+BOOM（超䨻）+ full-length carbon plate”, significantly improving performance while lowering the
+wearing threshold, and was listed among major annual rankings as the “Strongest Basketball Shoe
+of 2025” with the “Way of Wade 12 LUX” debuting in dual colourways and sold out instantly on
+launch day. The upgraded “808 ULTRA V2”, centred on “embedded Super BOOM（超䨻）midsole
+technology ” , continuously strengthened IP recognition and technological credibility. Apparel
+maintained high quality, premium aesthetics and high value-for-money, combined with NBA and
+CBA stars exposure to solidify the high-end positioning of “professional technology, basketball
+streetwear, refined trend”.
+
+“BADFIVE”（反伍） basketball shoes introduced Super BOOM（超䨻） technology and the new
+DBR ultra-durable rare-earth rubber technology（DBR超耐磨稀土橡膠科技）, successfully building
+China’s first outdoor street basketball shoe matrix. Combined with self-owned IP events such as the
+“LI-NING BADFIVE Streetball League”, the Group launched the “BADFIVE Species Invasion”
+product initiative, providing street basketball enthusiasts with equipment that combines professional
+performance and trendy design through youthful, playful product experiences. Apparel centred on
+the theme “LIVE WITH HOOPS”, strengthening differentiation of “BADFIVE”（反伍） through
+trendy design and stimulating emotional resonance and brand affinity among the target group.
+
+
+
+
+                                                - 38 -
+Training
+
+In 2025, the Group’s training category, driven by technological innovation as its core momentum,
+continued to expand its all-scenario product matrix, precisely addressing the diverse needs of
+consumers, achieving a dual leap in both category performance and brand professional recognition.
+
+During the year, the Group placed strong focus on female sports consumers, positioning “urban light
+exercise” as the core scenario. Through feminine tailoring and vibrant color palettes, a dynamic
+brand image was shaped. Our product advantage centered on technology-driven solutions, releasing
+aerospace-certified “Air-Cooling T-Shirts”（冷氣涼感T恤）; outdoor technology was integrated into
+mass sports, offering practical items such as sun-protective and impact-resistant pieces for daily
+activities; windbreakers equipped with “Smart Protection Technology”（智能防護科技）and ultra-
+soft sweatshirts and pants were highly acclaimed by the market. In terms of marketing, the Group
+launched its first cross-category women’s footwear and apparel campaign, “Grace in Motion”（美
+妙如輕而至）, collaborating with celebrities, KOLs, through both online and offline channels to
+effectively enhance content penetration, search buzz, and brand loyalty.
+
+Men’s training adhered to the product philosophy of “professional function + sports gene”（專業功
+能＋運動基因）to deepen multi-scenario training experiences and strive to create multi-scenario
+functional gear suitable for both “sports + daily”（運動＋日常）wear. During the year, the Group
+leveraged LI-NING’s Aerospace Dynamic Thermal Technology Platform（航天動態保暖科技平
+台）to systematically build a professional product matrix covering various scenarios such as high-
+intensity training. Through the deep integration of advanced fabric technology, dynamic styles,
+and technological IP, the Group reinforced the professional functional barriers of its products
+and consolidated core competitiveness. Core product “ Functional Pants ”（功能褲裝） achieved
+annual sales exceeding one million units; new winter training jackets and thermal pants equipped
+with “Aerospace Dynamic Thermal Technology ”（航天動態保暖科技）, featuring outstanding
+performance of “heat retention at rest, moisture-permeable in motion”（靜鎖溫、動透濕）, became
+the choice of both professional athletes and mass consumers. In terms of marketing, the Group
+capitalised on the dual endorsement of the “Aerospace Dynamic Thermal Technology Platform”（航
+天動態保暖科技平台）and professional athletes, co-created in-depth content with science-focused
+media, and built immersive sports experience scenarios in offline stores. These efforts strengthened
+consumer perception of LI-NING’s training category as “professional and high-tech”（專業、高科
+技）, securing leading positions in both online share of voice and user engagement metrics.
+
+
+
+
+                                               - 39 -
+Badminton
+
+The Group continued to advance the professional depth and market expansion of its badminton
+category. By refining its footwear, apparel, and equipment matrix and expanding top-tier tournament
+and athlete resources, the Group further consolidated its leading position in the professional market.
+
+Regarding badminton shoe products, the Group focused on two flagship models: “HERO 3PRO”
+（貼地飛行3PRO ） equipped with the latest technological materials and “ Blade 2PRO ” （刀鋒
+2PRO ）, which features large-area low extension microfiber, integrated carbon plates and TPU
+technology, and LI-NING BOOM（李寧䨻）. Both products maintained stable sales performance in
+the professional market and continued to gain recognition among core sports consumers.
+
+In terms of badminton apparel, the Group segmented consumer needs and provided targeted
+solutions across different themes. The “International Team Competition Series”（國際球隊大賽
+服）, serving national teams such as Indonesia and Singapore, adopted highly breathable fabrics that
+balance dryness with high resilience and stretch performance. The series designed for elite athletes
+drew color inspiration from nature, blending professionalism with fashion. Meanwhile, the exclusive
+series for the national youth team of the PRC covered both on-court and off-court scenarios,
+reinforcing LI-NING’s technological image and resonating with younger consumers.
+
+The Group consistently enhanced its badminton racket product lines in three major series of
+attack, control and speed. New launches included “Thunderstorm 100II”（雷霆100II ）, “Halberd
+9000POWER ” （戰戟9000POWER ）, “ Shadow 800SPEED ” （鋒影800SPEED ）, and “ Shadow
+800POWER”（鋒影800POWER ）, driving racket sales to a historic high. In addition, with increased
+investment in materials, processes, and automation equipment, the Group successfully introduced
+L67N, the first PRC-manufactured competitive badminton racket string, filling the gap in domestic
+production of competitive badminton racket string. Professional equipment such as stringing
+machines and competition-grade court mats also gained wide recognition from the market and
+professional teams.
+
+In terms of marketing, LI-NING Badminton adopted “Quality Products, Made by LI-NING, Made in
+China”（好產品，李寧造，中國造）as its core campaign theme, focusing on systematic promotion
+in professional scenarios. During the year, the Group served as the designated equipment sponsor
+of the Singapore Open and the title and designated equipment sponsor of the Hong Kong Open,
+while continuing to expand the resource cooperation in markets such as Indonesia and East Asia,
+and strengthened athlete resource systems in Hong Kong and Macau. Contracted athletes actively
+participated in the online and offline activities such as Sudirman Cup, proprietary IP tournaments,
+etc. Combined with wide media communication, these efforts effectively enhanced brand reputation
+and strongly supported the achievement of sales targets.
+
+
+
+
+                                                - 40 -
+Table Tennis
+
+In 2025, as the global table tennis market accelerates its development, the Group keenly seized
+industry opportunities. Guided by the dual-core drivers of “technology empowering products and
+marketing strengthening brands”（科技賦能產品、營銷激活品牌）, the Group steadily enhanced its
+competitive edge and market share, further solidifying its leading position in the industry.
+
+The Group consistently committed to technology-driven product innovation, focusing on
+enhancing the professional performance and wearing experience of footwear. The upper employs
+“BOOM Fiber”（䨻絲）technology, combining lightweight breathability with sturdy support. The
+midsole integrated multiple technologies including “BOOM”（䨻）, “Bounse+”, “Cloud Plus”（雲
+plus ）, “Cushion”, and carbon plates, delivering sustained power for high-intensity competitions.
+The outsole incorporates “ GCU ” and “ Sharp Slip Resistance ”（鋒襲止滑） to ensure stable
+traction across diverse scenarios. Additionally, a wide-last version was launched to expand user
+compatibility, embodying Li-Ning’s philosophy of “Technology as the Foundation, Experience as
+the Priority”（科技為本，體驗為先）, which advanced our table tennis footwear to gain widespread
+consumer recognition and boosted brand influence and market share.
+
+In the field of apparel, the Group also leveraged technology to enhance its product portfolio and
+expand market reach. The Competition Series adopted aerospace materials and yarn antibacterial
+processing, seamlessly blending professional performance with eco-conscious design. Through
+a three-tiered product matrix including the “Champion Series” （冠軍系列）, “Elite Series”（菁
+英系列）, and “Rookie Series”（新秀系列）, we comprehensively addressed the diverse needs of
+consumers across different segments. Leveraging the “Table Tennis Carnival”（乒乓嘉年華） IP
+and its derivative merchandise development, the Group has successfully reached a broad sports-
+enthusiast audience, extending its brand influence across diverse demographics.
+
+In marketing and promotion, the Group deepened strategic collaborations with premier international
+events such as WTT and WTMG, strengthening the brand ’s deep integration with top-tier
+competitions. Throughout the year, the Group participated in 32 international-level tournaments. In
+particular, during the Doha World Table Tennis Championships, it reached over 760 million viewers
+nationwide, with topic viewing volume on Weibo exceeding 16.08 billion. This significantly boosted
+brand exposure and public discourse, laying a solid foundation for sustained high-quality growth in
+the medium to long term.
+
+
+
+
+                                               - 41 -
+Sports Casual
+
+In 2025, the Group adhered to its core concept of “integrating sports with lifestyle aesthetics.”
+Centering on two main pillars of technology-driven innovation and IP collaborations, it continued
+to expand its product portfolio. By keenly identifying emerging trends and societal hotspots, the
+Group strategically deployed its products across diverse areas to provide target consumers with
+differentiated products that delivered both premium performance and emotional resonance, thereby
+solidifying its competitive edge across categories.
+
+The Group strengthened its professional brand image through specialized technological narrative.
+During the year, it successfully applied the achievements of its “Aerospace Dynamic Warmth”（航
+天動態保暖）technology platform to its winter product line, launching a dynamic warmth down
+jacket series which received positive market feedback. Meanwhile, the Group focused investments
+in winter thermal footwear categories which injected additional momentum into sales growth. The
+“SOFT” series exceeded 3.5 million pairs in annual sales leveraging the comprehensive upgrade of
+its “CONFORMMAX” midsole material.
+
+In IP collaborations and trend-driven marketing, the Group has proactively positioned itself to
+deepen emotional connections and lead consumer trends. To celebrate the 100th anniversary of
+the Palace Museum, the Group launched the Chinese cultural products named “LI-NING Palace
+Museum Special Series”（李寧故宮博物院特別系列）, and collaborated with Disney on multi-
+city pop-up events, and upgraded the Chinese New Year Gold Medal IP at the start of the year by
+revitalising the “Rich Everyday”（日進鬥金） series into the “Training Good Luck Body”（練成
+好運體質）S-tier marketing campaign, achieving over 600 million views and discussions across
+all online platforms which successfully strengthened brand recognition and expanded its young
+customer base. In addition, the Group proactively integrated into annual sports and cultural events
+by launching trending limited-edition product series tied to Olympic Cultural Day, the World Games
+2025 Chengdu, and Scottish Premier League matches. This strategy deeply anchored the brand’s
+professional image to sports enthusiasm, elevating marketing from “following trends” to “defining
+pivotal moments” and driving both brand visibility and sales.
+
+Additionally, the Group has consistently explored the core needs of women’s sports and leisure wear.
+Its signature sports-inspired product line has achieved both sales success and positive reputation
+through decent fashion design and comfortable wearing experience. Meanwhile, the women’s trendy
+skate shoes lineup has actively revitalised its matrix by drawing inspiration from diverse styles
+like table tennis and racing, which resulted in stocking over 2,000 stores and implementing special
+displays in more than 260 stores.
+
+
+
+
+                                               - 42 -
+“China LI-NING” deepened into Chinese culture to integrate athletic heritage with trend aesthetics
+by collaborating with renowned artists and top-tier fashion brands for cross-industry co-brand
+collaborations. In 2025, China LI-NING launched the “Unveiling New Chapter with the Square
+Seal” campaign, partnering with Chinese table tennis athlete Wang Chuqin to seamlessly integrate
+traditional table tennis culture with modern fashion, which ignited a sports trend within the young
+generation. Through a systematic presentation of its product matrix, the brand clearly showcases
+its distinctive Eastern aesthetic philosophy: from the fashion-forward reimagining of professional
+athletic gear of the retro-style “Ping Pong”（乒乓）sports sneakers to the technologically advanced
+“Furious Rider ACE 3.0”（烈駿ACE 3.0 ）shoes embodying dual evolution in both technology and
+fashion; and from the “Kung Fu”（功夫）and “Essence”（悟道）IP collections infused with Chinese
+philosophies to global collaborations with ARIES, Andersson Bell, TYAKASHA, Pokémon, etc.,
+all of these products and collaborations demonstrated “China LI-NING”’s commitment to breaking
+boundaries while deepening its foundation in professional sports and achieved a harmonious
+integration of professional functions, cultural depths, and trend aesthetics, boldly interpreting the
+competitive spirit and pioneering attitude of the youth in the PRC.
+
+ “LI-NING 1990” drew inspiration from golf, solidifying its premium fashion-sport positioning
+through comprehensive upgrades in functional fabrics and technological innovation. The “Golf
+Collection ” applied “Hybrid Patchwork Technology”（Hybrid拼接工藝）, featuring technologies
+such as thermal insulation, wind resistance, water repellency, and moisture-absorbing and quick-
+dry, to enhance players’ sports performance. Meanwhile, the “Sports Classic”（運動經典） and
+“Sports Business Collection”（運動商務系列） respectively enhanced wearability from the golf
+course to the office and daily commutes by leveraging retro aesthetics and functional fabrics.
+During the year, professional golf footwear launched gradually. The “Qi Cheng Series”（啟承系
+列）golf shoes incorporate flagship “Carbon Core” technology, delivering a new level of experience
+of stability and explosiveness. The newly released lightweight “Eagle Stance”（鷹姿）golf shoes,
+offered groundbreaking lightness with just 240 grams per shoe. In particular, the men’s colorway of
+“Eagle Stance” achieved over 60% sell-through within 60 days of launch. Additionally, the “Guan
+Lan”（觀嵐）urban commuter shoes and “Yun Shang”（雲裳）women’s fashion athletic shoes made
+their debuts successively. The Group continued to cultivate its “Gold Medal” series brand IP which
+promotes the Olympic spirit, while the “Blue” series showcases Eastern aesthetic design. It also
+collaborated with Korean golf brand CloveClub to launch the co-branded “Graceful Moments”,
+interpreting a youthful golf style.
+
+
+
+
+                                                - 43 -
+Outdoor
+
+In 2025, the outdoor category continued to grow. Leveraging its expertise in professional sports
+technology, the Group comprehensively advanced product development, terminal operations, and
+marketing and promotion initiatives to drive its outdoor business toward achieving its annual sales
+targets. In particular, outdoor footwear demonstrated a strong performance, exceeding industry
+averages. As a key initiative of the strategic deployment, the first standalone outdoor concept store
+“COUNTERFLOW溯” opened in Beijing by the end of 2025. This innovative offline outdoor space
+integrates retail, experiential activities, and community engagement, which clearly establishes the
+differentiated positioning in the outdoor business of LI-NING.
+
+In terms of products, the Group continued to expand its outdoor product matrix. The “Wanlongjia”
+（萬龍甲） windbreaker jacket series applied exclusive industry-leading fabric technologies and
+manufacturing processes, such as ultra-lightweight 7D fabric, all meeting the national standard for
+windbreaker jackets of the PRC. This forms a complete matrix encompassing the active breathable
+and rainstorm-proof “ Wanlongjia Breath ”（萬龍甲Breath ）, the rainstorm-proof “ Wanlongjia
+Protection”（萬龍甲Protection ） and the ultra-light and rainproof “Wanlongjia Ultralight”（萬龍
+甲Ultralight ）, precisely addressing diverse outdoor scenarios. For autumn and winter wearing
+and layering needs, the Group introduced the “Longke Protection”（瓏殼Protection ） series. Its
+functional design and innovative layering system effectively meet consumers’ composite demands
+for wind resistance, light rain protection, and versatile styling across multiple occasions. In terms
+of outdoor footwear, the Group optimised core technologies, structures, and designs to refine its
+product matrix across different price range and usage scenarios. The Group successively launched
+the all-terrain hiking shoes “Counter Flow”（行川）and “Counter Mist”（行嵐）; the urban hiking
+shoes “Lin Ying”（林影）and “Lin Yun”（林韻）from the “Lin”（林）series integrating youth fashion
+with classic dad-style outdoor aesthetics; the versatile business-casual commuter styles “Xing Jing”
+（行景）and “Xing Ji”（行際）; and the outdoor relaxed-style “Xun” series featuring river-trekking
+shoes and sandals. During the year, the series “Counter”（行）“Lin,”（林）and “Xun”（潯）garnered
+strong market reception, with sales exceeding 500,000 pairs.
+
+In terms of store operations, the outdoor category achieved a breakthrough from zero to one during
+the year. The Group first introduced independent displays in flagship stores, benchmark stores, and
+comprehensive stores, subsequently launched S-level marketing campaigns in major stores during
+the second half of the year, and ultimately opened the first outdoor store. In major store channels, the
+Group utilized tools such as Visual marketing and Retail marketing, using independent focal points
+and independent wall displays to enhance storytelling, unifying the internal positioning and visual
+presentation of the outdoor category, and clearly establishing the positioning of LI-NING’s outdoor
+lifestyle at the stores.
+
+
+
+
+                                                 - 44 -
+In terms of marketing promotion, the Group focused on three core products to drive internal and
+external resources. Through the integration of authoritative resources and refined communication,
+the Group enhanced the awareness of the LI-NING brand in the outdoor market. The Group
+introduced national-level research institutes and the endorsement of the ISPO Award for the
+“LI-NING Yushui System”（李寧御水系統）, and collaborated with authoritative resources such as
+the China Photographers Association（中國攝影家協會）, the Daocaoren Hiking Platform（稻草
+人徒步平台）, and the China Outdoor Sports Industry Conference（中國戶外運動產業大會）to
+strengthen professional perception in hiking and travel scenarios. Meanwhile, leveraging celebrity
+endorsements, exposure through stars wearing the products, and refined operations on social media,
+the Group successfully shaped the brand’s dressing style, reaching the mass public and dressing
+enthusiasts. With the completion of the first outdoor category store, the Group achieved concentrated
+exposure through a multi-dimensional matrix composed of industry, outdoor, trend, and local
+lifestyle media and KOLs, effectively consolidating the recognition of LI-Ning Outdoor among the
+industry and consumers.
+
+Tennis and Pickleball
+
+In 2025, the Group made efforts in the two emerging market segments of tennis and pickleball.
+Through continuous R&D and innovation, apparel products for tennis and pickleball have been fully
+launched, with the full series of products covering competition series, club series, culture series, and
+youth series.
+
+In terms of tennis shoes, targeting different playing styles, the Group launched the stability model
+“Secure Pro” focusing on baseline style, the comprehensive model “Surpass Pro” for all-court
+play, and the speed model “Accel Pro” for both baseline and net play, respectively. The Group also
+introduced training models to enrich the product matrix. For pickleball shoes, the “Sortie Pro” was
+adjusted according to sports needs, combining BOOM（䨻）technology with carbon plates and paired
+with a multi-directional tread design to provide better stability, flexibility, and grip.
+
+In terms of equipment R&D, the Group established a dedicated tennis technology platform to
+create unique technological attributes for tennis. The new generation tennis racket is scheduled for
+launch in the first half of 2026 and has already received preliminary recognition from professional
+athletes. In terms of pickleball, the Group is dedicated to expanding the product line and promoting
+the iteration of project craftsmanship and materials. High-end paddles and balls have obtained dual
+certifications from USPA and UPA-A, providing professional equipment support for sponsored
+players participating in international events. In addition to the systematic launch of full series
+products, the Group used events as a vehicle to rapidly build brand influence and professional
+recognition in these emerging fields.
+
+
+
+
+                                                 - 45 -
+Deepening channel layout strategy to enhance competitiveness comprehensively
+
+In 2025, the Group focused on key areas including channel development, retail operations, product
+management, e-commerce operations, supply chain, and logistics, comprehensively improving
+operational efficiency and market competitiveness.
+
+In terms of channel development, the Group focused on two core areas, channel innovation and
+optimization of channel costs, and continued to advance a multi-dimensional channel network
+layout, expanding market coverage while enhancing operational efficiency. In high-end markets, the
+Group deepened synergistic collaborations with top-tier commercial complexes and leading outlet
+malls, jointly promoting the planning and implementation of innovative store. During the year, the
+Group successfully launched an independent outdoor store, marking an important milestone for
+the brand’s official entry into the outdoor segment. The Group actively carried out cross-industry
+collaborations, partnering with top IPs embodying Chinese cultural heritage such as the Palace
+Museum, and launched marketing campaigns by collaborating with channel partners through diverse
+initiatives, effectively improving brand reach and conversion. In terms of efficiency optimisation, the
+Group continued to optimize the channel structure and improved rental structures and cooperation
+models, enhancing overall channel health and operational sustainability through a series of strategic
+optimization measures.
+
+As of 31 December 2025, the number of conventional stores, flagship stores, China LI-NING stores,
+factory outlets and multi-brand stores under the LI-NING brand (including LI-NING Core Brand
+and LI-NING YOUNG) amounted to 7,609, representing a net increase of 24 POS as compared to 31
+December 2024. The number of POS breakdown as of 31 December 2025 is as follows:
+
+                                                          31 December    31 December
+LI-NING Brand                                                    2025           2024          Change
+
+Franchised                                                       4,853           4,820           0.7%
+Directly-operated retail                                         1,238           1,297          (4.5%)
+LI-NING YOUNG                                                    1,518           1,468           3.4%
+
+Total                                                            7,609           7,585           0.3%
+
+
+
+
+                                                 - 46 -
+Number of LI-NING Brand POS by geographical location
+
+                                        31 December 2025                          31 December 2024
+                                LI-NING     LI-NING                      LI-NING      LI-NING
+Regions                       Core Brand     YOUNG             Total   Core Brand      YOUNG          Total     Change
+
+Northern Region (Note 1)            3,026          877        3,903         3,076          856        3,932       (0.7%)
+Southern Region (Note 2)            3,065          641        3,706         3,041          612        3,653        1.5%
+
+Total                               6,091        1,518        7,609         6,117        1,468        7,585        0.3%
+
+Notes:
+
+1.       The Northern region includes provinces, municipalities and autonomous regions covering Beijing, Tianjin, Hebei,
+         Shanxi, Inner Mongolia, Shandong, Henan, Heilongjiang, Jilin, Liaoning, Shaanxi, Ningxia, Qinghai, Gansu and
+         Xinjiang.
+
+2.       The Southern region includes provinces, municipalities, autonomous regions and special administrative regions
+         covering Shanghai, Jiangsu, Zhejiang, Anhui, Jiangxi, Hubei, Hunan, Chongqing, Sichuan, Yunnan, Guizhou,
+         Tibet, Guangdong, Guangxi, Fujian, Hainan, Macau and Hong Kong.
+
+
+In terms of retail operations, the Group built a highly profitable, efficient and replicable single-
+store operating model. It was driven by four major strategies: constructing a high-level market
+operation model, establishing a distribution business management system, promoting supply
+chain cost reduction and efficiency gains, and optimizing the entire product lifecycle. In high-tier
+markets, targeted brand strategies were implemented among key regions. From channel structure,
+store product mix and shopping experience, the Group strengthened brand image, improved
+product operation efficiency, and achieved steady growth in sales and profit. To support the
+development of the distributor system, the Group established a distribution management model to
+improve operational efficiency and sustainable development capabilities of the distribution system.
+By strengthening management capabilities, distributors were supported to achieve systematic
+improvements in channel layout, product operations and retail execution, jointly achieving business
+goals. In addition, the Group strengthened the efficient coordination between retail outlets and the
+logistics system. Through refined planning systems, flexible supply chain construction and digital
+support, channel inventory turnover and full lifecycle product management were realized, thereby
+comprehensively improving operational quality and efficiency.
+
+
+
+
+                                                          - 47 -
+In terms of e-commerce operations, the Group actively promoted the development of e-commerce
+business. Through online-offline integration, building an exclusive IP matrix and seizing major
+promotional events, the Group effectively enhanced brand influence and converted it into
+business growth momentum. During the year, core IP products represented by “ Zhui Feng ”
+（追風）, “ DLO ” , “ ULTRALIGHT ” and “ LI REN ” （利刃） delivered outstanding performance,
+successfully penetrating multiple consumer segments including Gen Z, professional sports and
+trendy fashion, ranking highly in both sales and reputation across segmented markets. Meanwhile,
+the Group integrated key product series to create the “ Marathon Road ” IP concept covering
+diversified scenarios, strengthening consumer awareness of product functionality. During major
+e-commerce promotional events such as Tmall Celebration Day（天貓歡聚日）and Tmall Super
+Product Day（天貓超品日）, the Group made precise deployments, effectively enhancing consumer
+awareness and market share, especially in the running and outdoor categories. By leveraging top
+athletes, celebrities, trending events and channel resources, the Group not only enhanced product
+exposure and achieved traffic acquisition and promotional sales conversion, supporting inventory
+optimization, but also supported offline business and drove overall revenue growth, demonstrating
+the flexibility and resilience of e-commerce operations.
+
+In terms of supply chain, the Group continued to promote deep optimization and strategic upgrades,
+focusing on four directions: quality management, delivery assurance, cost reduction and efficiency
+improvement, and sustainable development. During the year, the Group continuously optimized the
+supplier matrix, aligning high-quality supplier resources for high-end sports, outdoor and Glory
+product lines under the “Single Brand, Multi-categories, Diversified Channels” strategy, aiming to
+provide consumers with better product experiences. Meanwhile, the Group aligned with its major
+product plan by adopting segmented production planning and data-driven management to achieve
+high-level coordination among product planning, supply chain, logistics, and retail outlets, thereby
+enhancing inventory turnover efficiency and operational flexibility. Rapid replenishment of best-
+selling products was successfully achieved, sustaining sales momentum. To improve operational
+efficiency, the Group adopted multiple measures such as integration of fabric resources, optimization
+of process structures, large-scale procurement of materials and staggered production scheduling,
+further improving the cost structure while enhancing production efficiency. In addition, the Group
+continued to integrate sustainable development into supply chain management and promoted green
+products, with the proportion of eco-friendly products exceeding annual targets during the year.
+
+
+
+
+                                                - 48 -
+In terms of logistics, the Group advanced strategic logistics system development around three
+directions: channel integration, digitalization and automation, thereby improving logistics efficiency
+and reducing operating costs. During the year, the Group launched a channel logistics project
+to connect the order system with logistics operations, improving product circulation efficiency
+and fulfillment timeliness. Digitally, the Group introduced a warehouse coordination system and
+adopted SKU-level refined management to meet rapidly changing market demands. Deployment
+of e-commerce warehouse operation systems and visualization tools further improved order
+processing accuracy and decision-making efficiency. In terms of automation, automated equipment
+was introduced into various warehouses, enabling multi-scenario coverage and data visualization
+management. In December 2025, the East China and North China warehouses took the lead in
+adopting RFID full-process warehouse management, achieving full-process traceability of logistics
+data, greatly strengthening inventory management precision, and deployment across all warehouses
+is expected to be completed in the first quarter of 2026 to continuously drive cost reduction and
+efficiency improvement.
+
+LI-NING YOUNG
+
+In 2025, LI-NING YOUNG focused deeply on the professional sports segment and clarified its
+positioning as a “professional youth sports brand”, coordinating efforts in product development,
+channel layout and brand building. The Group established competitive barriers through professional
+technology products, consolidated its market foundation with efficient retail operations, and
+strengthened brand recognition by leveraging professional sports resources, steadily enhancing
+LI-NING YOUNG’s influence.
+
+In terms of products, LI-NING YOUNG continued to focus on professional sports and children’s
+developmental needs, advancing product optimization and exclusive IP creation. Based on in-depth
+research on children’s foot development, the children-specific midsole technology “Dong³”（動³ ）
+(Dynamic Cube) was successfully launched, precisely fitting the foot characteristics of children
+aged 6–12 and highly suitable for daily sports scenarios, gaining broad market recognition during
+the ordering phase. Meanwhile, the Group upgraded the “Jiaoyang 2”（驕陽2代）training shoes for
+primary school physical fitness assessments, significantly enhancing professional performance in
+physical fitness assessments. Exclusive IPs in running shoes, basketball shoes and lifestyle shoes
+performed strongly, driving business growth. In apparel, the Group created the “INFINITY” apparel
+series in the trendy basketball segment, developing core graphic elements such as the “Infinity Mark”
+（無限標）to enhance brand recognition and consumer loyalty. In addition, a children’s cultural
+apparel series was launched, skilfully integrating traditional cultural elements with modern sports
+style through contemporary design, resonating emotionally with consumers.
+
+
+
+
+                                                - 49 -
+In terms of channel strategy, LI-NING YOUNG is committed to integrating online and offline
+channels to improve channel efficiency. The Group continued to strengthen outlet channel
+development, improve single-store operation efficiency and optimize overall channel structure.
+During the year, the completion rate for new outlet store openings reached 150%, the completion
+rate for store renovations reached 111%, and post-renovation store efficiency increased by 53%
+year-on-year. Meanwhile, the Group successfully built two 10-million-level stores, laying a solid
+foundation for deep expansion of the key outlet system. In addition, the Group independently
+developed offline retail stores dedicated to the LI-NING football products, integrating professional
+display with diversified consumption scenarios, and actively deployed campus football stores to
+accurately meet youth football consumption needs. Online, the Group accelerated e-commerce
+platform deployment, focusing on strengthening the synergy of private-domain operations such
+as Douyin, community marketing and internal purchase to steadily improve private-domain traffic
+conversion efficiency.
+
+In terms of retail, LI-NING YOUNG maintained a coordinated development of wholesale and direct
+retail model in 2025. Through refined management and strategic layout, both scale and quality were
+improved. By strengthening cross-department collaboration, the Group systematically integrated
+product management and marketing resources and successfully implemented more than 100 single-
+store promotional campaigns, strengthening store traffic and effectively boosting terminal sales.
+In product operations, the Group focused on building key sports categories and, through refined
+procurement and rapid response mechanisms, increased the proportion of footwear and other key
+categories to 50%. To continuously improve terminal operation quality, the Group completed
+reform of compensation and promotion mechanisms to strengthen incentives for frontline teams.
+Meanwhile, store display standards and marketing materials were upgraded, and professional styling
+training and sales tools effectively improved customer experience.
+
+In terms of marketing, LI-NING YOUNG centered its efforts around three pillars, “ Event
+Cooperation + User Stories + IP Collaboration” to build professional recognition and accumulate its
+user foundation. Through a series of key initiatives, the Group successfully expanded its influence
+among youth and family demographics. During the year, the Group adopted a core strategy of deep
+integration with premier sports resources, serving as the official equipment sponsor of the FISU
+Football World Cup, achieving international exposure. It also provided full professional equipment
+for the National Youth Campus Football Summer Camp and conducted sports lectures. By signing
+well-known football players Fabio and Sun Jihai, professional sports resources were transformed
+into product endorsements, further strengthening the brand’s professional sports image. In addition,
+frequent localized brand experience activities deepened consumer connections. Throughout the year,
+the Group closely collaborated with the primary school basketball league, launching 11 city events
+that brought tournament enthusiasm into communities. Through themed marketing events such as
+“Children’s Day Brand Campaign” and “Ethnic Intangible Cultural Heritage Outdoor Adventure”,
+the Group effectively enhanced emotional connection and loyalty among family consumers.
+
+
+
+
+                                               - 50 -
+HUMAN RESOURCES
+
+Based on the Group ’s strategic goals and business development needs, the Human Resources
+department focused on organizational capability building and continued systematic development
+across four key modules: organizational development, talent pipelines, performance incentives and
+cultural cohesion. The Group continuously upgraded organizational operations and collaboration
+models, adhering to the principle of “fewer but elite” to build a “muscle-type” organization.
+
+In terms of organizational development, the Group continued to advance organizational planning
+and design around core business development and new business layout, promoting deep alignment
+between organizational structure and business development. Category-based operating strategies
+were promoted and category business units were established to strengthen product competitiveness.
+Olympic-focused organizational planning supported Olympic initiatives with professional products
+and high-quality services. The Group’s online business management system was optimized to
+promote integrated online-offline management across business divisions by fully leveraging their
+market expertise. The new retail business system was comprehensively restructured to create
+seamless channel brand experience spaces, and drive high-quality business growth while enhancing
+brand core competitiveness.
+
+In terms of talent attraction and development, the Company continued to invest in employer branding
+and obtained the Great Place to Work™ certification from authoritative institutions, deepened
+school-enterprise cooperation and integration of industry, academia and research resources,
+further enhancing talent attraction and industry influence. Recruitment of outstanding talent was
+continuously strengthened, and internal talent pipelines were built with systematic training for
+young talent, accelerating the development of management trainees. Meanwhile, management talent
+development mechanisms were continuously improved to enhance management capabilities of the
+management team. By optimizing talent standards and assessment, identification, and development
+processes, the talent management system was reinforced to ensure efficient support from the talent
+for business development.
+
+In terms of performance and incentive management, the Group focused on results and value
+creation, strengthened performance process management and established category assessment
+synergy mechanisms, continuously enhanced the optimization and implementation of a results-based
+organizational performance management, robustly advanced performance process communication
+and dynamic feedback, identified individual and organizational strengths and weaknesses, steadily
+enhanced overall performance. Centered on corporate strategic direction, the Group comprehensively
+managed human resource costs to reduce expenses and enhance efficiency. The Group continuously
+optimized and upgraded the compensation and benefits system, implementing tailored short-,
+medium-, and long-term incentive plans. By precisely allocating resources and activating
+organizational effectiveness, the Group attracted, motivated, and retained core talent, transforming
+human resource cost management into an opportunity for organizational capability enhancement.
+
+
+
+
+                                               - 51 -
+In terms of culture and employee relations, the Group fostered a positive atmosphere where
+employees aspired to emulate exemplary peers and uphold core values through frequent annual and
+quarterly recognition and commendations of outstanding individuals and teams. To ignite enthusiasm
+for physical activity, the Group hosted a series of sports-themed events, including athletic fairs,
+Olympic Awareness Month, and recreational fitness classes, focused on themes like sports culture
+and team integration. The Group continuously refined mechanisms such as employee feedback
+channels and regular forums to actively listen to staff voices. The Group actively implemented
+reasonable suggestions to tangibly enhance employee satisfaction and engagement.
+
+Looking ahead, the Human Resources Department will continue to be guided by the Group’s
+strategy. Adhering to the core ideas of “organizational empowerment, talent cultivation, incentive
+activation, and cultural cohesion,” the Group will continue to deepen the construction of the
+human resources system to provide stronger support for realizing the Group’s long-term strategic
+development goals.
+
+As at 31 December 2025, the Group had 5,152 employees (31 December 2024: 5,022 employees),
+among which 4,969 employees were at the Group’s headquarters, Guangxi Supply Base, and retail
+subsidiaries (31 December 2024: 4,817 employees), and 183 employees were at other subsidiaries
+(31 December 2024: 205 employees).
+
+OUTLOOK
+
+With the successful conclusion of the “14th Five-Year” Plan, China’s economy has maintained
+a trend of steady progress amid multiple challenges. Looking forward to the “15th Five-Year”,
+expanding domestic demand has become a key strategy for promoting sustained and healthy
+economic development. China ’s sports industry is entering a new stage driven jointly by the
+integration of policy guidance, consumption demand upgrades, and technological innovation.
+Looking ahead to 2026, the Group will seize the development opportunities arising from the
+continuous release of domestic demand potential. The Group will adhere to the core value of
+“serving the public with sportsmanship,” meticulously refining the “LI-NING’S experience value,”
+and strive to become the preferred professional sports brand trusted by consumers in the sports
+consumption field.
+
+1.   Technology-driven product upgrades: The Group will firmly implement the development
+     strategy of “ Single Brand, Multi-categories, Diversified Channels” , empowering product
+     iterative upgrades with technology to build core competitiveness and market differentiation
+     barriers. Relying on the technical accumulation and R&D of the LI-NING technology
+     innovation platform, the Group will focus on deep cultivation of core categories and actively
+     expand into emerging segments such as outdoor sports. The Group aims to respond to
+     increasingly diversified and personalized consumer demands, achieving full-scenario coverage
+     from professional competitive sports to daily wear. By promoting the ingenious integration
+     of cutting-edge technology and fashion design, the Group will create a product system that
+     combines excellent functionality, technological texture, and aesthetic value. Furthermore, the
+     Group will continuously strengthen the efficiency of transforming scientific and technological
+     achievements, promoting the rapid realization of frontier technologies into product
+     competitiveness.
+
+
+                                               - 52 -
+2.   Olympic marketing empowering the brand: The Group will drive value creation through
+     sports marketing, establish emotional connections with consumers, and facilitate the steady
+     enhancement of brand value. By continuously deepening the cooperation with the Chinese
+     Olympic Committee, the Group will seize the development window of the Olympic cycle
+     and promote the brand to achieve a leap from resource cooperation to value co-creation.
+     LI-NING will fully explore the diversified value of the cooperation with the Chinese Olympic
+     Committee. Through systematic marketing layout and technological equipment support, it
+     will convey the story of the mutual growth of LI-NING and Chinese sports, highlighting the
+     technological strength and cultural confidence of the national brand.
+
+3.   Dual improvement in quality and efficiency of business operations: The Group will
+     continue to focus on improving quality and efficiency across all aspects of its business. By
+     deepening channel layout, strengthening product operations, and optimizing supply chain
+     management, the Group aims to build an efficient operational system, achieve simultaneous
+     improvements in operational quality and efficiency, and lay a solid foundation for the high-
+     quality growth of the enterprise. Offline channels will focus on improving efficiency in
+     high-tier markets and penetrating emerging markets, while exploring new business models.
+     Online channels will strengthen omni-channel synergy and resource integration, promoting
+     complementarity between online and offline channels. In terms of product operations, the
+     Group will optimize the precision of full-chain planning and flexible supply capabilities,
+     and accelerate inventory turnover. The supply chain will achieve coordinated optimization of
+     cost, quality, and delivery time across the entire chain, thereby enhancing overall operational
+     efficiency.
+
+4.   Consolidating the foundation to safeguard development: The Group will continuously
+     strengthen three core support capabilities: talent, finance, and digital intelligence, to lay a solid
+     bedrock for high-quality development. In terms of talent strategy, talent development will focus
+     on selection, incentives, and efficiency. In terms of financial management, emphasis will be
+     placed on precise resource allocation and risk control. In terms of digitalization, the Group will
+     promote the deep integration of AI and big data with business operations, enhance operational
+     efficiency and the scientific nature of decision-making, and provide systematic safeguards for
+     the long-term development of the Group.
+
+PURCHASE, SALE OR REDEMPTION OF THE COMPANY’S SHARES
+
+The Company did not redeem any of its shares during the year ended 31 December 2025. Except
+for the purchase of shares by the trustee of the restricted share award scheme of the Company (the
+“Restricted Share Award Scheme”) pursuant to the trust deed and the rules of Restricted Share Award
+Scheme, neither the Company nor any of its subsidiaries has purchased, sold or redeemed any of its
+listed securities during the year ended 31 December 2025. As at 31 December 2025, the Company
+does not have any treasury shares (as defined under the Rules Governing the Listing of Securities on
+The Stock Exchange of Hong Kong Limited (“Listing Rules”)).
+
+
+
+                                                  - 53 -
+EVENTS AFTER THE REPORTING PERIOD
+
+Except for those disclosed herein, there is no important event that affects the Group which has
+occurred since the end of the reporting period.
+
+CORPORATE GOVERNANCE
+
+The Company endeavours to uphold a high standard of corporate governance by continued review
+and enhancement of its corporate governance practices, which enables the Company to keep abreast
+of the corporate governance level oriented to its business needs in a timely and effective manner.
+During the year ended 31 December 2025, the Company has complied with the code provisions of
+the Corporate Governance Code (“CG Code”) as set out in Appendix C1 to the Listing Rules, except
+for certain deviations specified with considered reason as explained below.
+
+According to code provision C.2.1 of the CG Code, the roles of the chairman and chief executive of
+a listed issuer should be separate and should not be performed by the same individual. During the
+year of 2025, Mr. Li Ning, the Executive Chairman and Joint Chief Executive Officer (the “Joint
+CEO”), and Mr. Kosaka Takeshi, the Executive Director and the Joint CEO, jointly assumed the
+role of chief executive officer of the Company. Therefore, there was no separation of the roles of
+the chairman and the chief executive as both roles were undertaken by Mr. Li Ning during the year.
+Notwithstanding the above, the Board is of the view that given that Mr. Li Ning is familiar with
+the business operations and management of the Group, the assumption of the roles of Executive
+Chairman and the Joint CEO by Mr. Li Ning will provide the Group with consistent and steady
+leadership, and is particularly beneficial to the planning and implementation of the Group’s business
+strategies. The Board also believes that Mr. Li Ning and Mr. Kosaka Takeshi can complement with
+each other in performing the roles of the Joint CEOs, and create synergy effect which is in the
+interest of the Company and its shareholders as a whole.
+
+Details of the corporate governance practices of the Company will be set out in the Corporate
+Governance Report contained in the 2025 annual report of the Company.
+
+AUDIT COMMITTEE
+
+The Audit Committee of the Company, consisting of three independent non-executive directors of
+the Company, has reviewed the accounting principles and practices adopted by the Group, and has
+also reviewed auditing, internal control and financial reporting matters, including the review of the
+annual results of the Company for the year ended 31 December 2025.
+
+
+
+
+                                                - 54 -
+SCOPE OF WORK OF ERNST & YOUNG
+
+The figures in respect of the Group’s consolidated statement of profit or loss and consolidated
+statement of comprehensive income, consolidated statement of financial position and the related
+notes thereto for the year ended 31 December 2025 as set out in this announcement have been
+agreed by the Group’s independent auditor, Ernst & Young, Certified Public Accountants of Hong
+Kong, to the amounts set out in the Group’s audited consolidated financial statements for the year
+ended 31 December 2025. The work performed by Ernst & Young in this respect did not constitute
+an assurance engagement in accordance with International Standards on Auditing, International
+Standards on Review Engagements or International Standards on Assurance Engagements issued by
+the International Auditing and Assurance Standards Board and consequently no assurance has been
+expressed by Ernst & Young on this announcement.
+
+ANNUAL GENERAL MEETING
+
+The AGM of the Company will be held at 11:00 am on Thursday, 11 June 2026.
+
+The notice of the AGM will be despatched to the shareholders of the Company in due course, and
+will be published on the website of the Company (http://ir.lining.com) and the “HKEXnews” website
+of The Stock Exchange of Hong Kong Limited (www.hkexnews.hk).
+
+                                                                    By order of the Board
+                                                                 Li Ning Company Limited
+                                                                           Li Ning
+                                                                  Executive Chairman and
+                                                                Joint Chief Executive Officer
+
+Hong Kong, 19 March 2026
+
+As at the date of this announcement, the executive directors of the Company are Mr. Li Ning,
+Mr. Kosaka Takeshi and Mr. Li Qilin. The independent non-executive directors of the Company are
+Mr. Koo Fook Sun, Louis, Ms. Wang Ya Fei, Dr. Chan Chung Bun, Bunny and Ms. Wang Yajuan.
+
+
+
+
+                                              - 55 -
+

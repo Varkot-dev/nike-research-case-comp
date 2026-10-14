@@ -248,3 +248,489 @@ err 2025-08-02-13-32-10 hibbett_sports Expecting value: line 1 column 1 (char 0)
 miss 2025-08-02-13-32-10 converse 404
 2025-08-09-13-32-21 nike 4374
 2025-08-09-13-32-21 adidas 1979
+2025-08-09-13-32-21 foot_locker 2241
+2025-08-09-13-32-21 dicks_sporting_goods 775
+2025-08-09-13-32-21 academy_us 322
+2025-08-09-13-32-21 jd_sports_us 352
+err 2025-08-09-13-32-21 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2025-08-09-13-32-21 converse 404
+2025-08-16-13-32-10 nike 4374
+2025-08-16-13-32-10 adidas 1979
+2025-08-16-13-32-10 foot_locker 2240
+2025-08-16-13-32-10 dicks_sporting_goods 775
+2025-08-16-13-32-10 academy_us 322
+2025-08-16-13-32-10 jd_sports_us 353
+2025-08-16-13-32-10 hibbett_sports 591
+miss 2025-08-16-13-32-10 converse 404
+2025-08-23-13-32-12 nike 4375
+2025-08-23-13-32-12 adidas 1979
+2025-08-23-13-32-12 foot_locker 2247
+2025-08-23-13-32-12 dicks_sporting_goods 777
+2025-08-23-13-32-12 academy_us 322
+2025-08-23-13-32-12 jd_sports_us 353
+2025-08-23-13-32-12 hibbett_sports 592
+miss 2025-08-23-13-32-12 converse 404
+2025-08-30-13-32-10 nike 4388
+2025-08-30-13-32-10 adidas 1979
+2025-08-30-13-32-10 foot_locker 2247
+2025-08-30-13-32-10 dicks_sporting_goods 776
+2025-08-30-13-32-10 academy_us 322
+2025-08-30-13-32-10 jd_sports_us 354
+2025-08-30-13-32-10 hibbett_sports 594
+miss 2025-08-30-13-32-10 converse 404
+2025-09-06-13-32-32 nike 4386
+2025-09-06-13-32-32 adidas 1979
+2025-09-06-13-32-32 foot_locker 2246
+2025-09-06-13-32-32 dicks_sporting_goods 775
+2025-09-06-13-32-32 academy_us 322
+2025-09-06-13-32-32 jd_sports_us 355
+2025-09-06-13-32-32 hibbett_sports 594
+miss 2025-09-06-13-32-32 converse 404
+2025-09-13-13-32-12 nike 4383
+2025-09-13-13-32-12 adidas 1979
+2025-09-13-13-32-12 foot_locker 2246
+2025-09-13-13-32-12 dicks_sporting_goods 776
+2025-09-13-13-32-12 academy_us 322
+2025-09-13-13-32-12 jd_sports_us 356
+err 2025-09-13-13-32-12 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2025-09-13-13-32-12 converse 404
+2025-09-20-13-32-33 nike 4383
+2025-09-20-13-32-33 adidas 1979
+2025-09-20-13-32-33 foot_locker 2243
+2025-09-20-13-32-33 dicks_sporting_goods 777
+2025-09-20-13-32-33 academy_us 322
+2025-09-20-13-32-33 jd_sports_us 360
+err 2025-09-20-13-32-33 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2025-09-20-13-32-33 converse 404
+2025-09-27-13-32-24 nike 4383
+2025-09-27-13-32-24 adidas 1979
+2025-09-27-13-32-24 foot_locker 2239
+2025-09-27-13-32-24 dicks_sporting_goods 777
+2025-09-27-13-32-24 academy_us 322
+2025-09-27-13-32-24 jd_sports_us 360
+err 2025-09-27-13-32-24 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2025-09-27-13-32-24 converse 404
+2025-10-04-13-32-36 nike 4378
+2025-10-04-13-32-36 adidas 1979
+2025-10-04-13-32-36 foot_locker 2240
+2025-10-04-13-32-36 dicks_sporting_goods 779
+2025-10-04-13-32-36 academy_us 322
+2025-10-04-13-32-36 jd_sports_us 360
+err 2025-10-04-13-32-36 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2025-10-04-13-32-36 converse 404
+2025-10-11-13-32-37 nike 4374
+2025-10-11-13-32-37 adidas 1979
+2025-10-11-13-32-37 foot_locker 2239
+2025-10-11-13-32-37 dicks_sporting_goods 781
+2025-10-11-13-32-37 academy_us 322
+2025-10-11-13-32-37 jd_sports_us 367
+err 2025-10-11-13-32-37 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2025-10-11-13-32-37 converse 404
+2025-10-18-13-32-41 nike 4380
+2025-10-18-13-32-41 adidas 1979
+2025-10-18-13-32-41 foot_locker 2238
+2025-10-18-13-32-41 dicks_sporting_goods 781
+2025-10-18-13-32-41 academy_us 322
+2025-10-18-13-32-41 jd_sports_us 369
+err 2025-10-18-13-32-41 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2025-10-18-13-32-41 converse 404
+2025-10-25-13-32-36 nike 4382
+2025-10-25-13-32-36 adidas 1980
+2025-10-25-13-32-36 foot_locker 2238
+2025-10-25-13-32-36 dicks_sporting_goods 778
+2025-10-25-13-32-36 academy_us 322
+2025-10-25-13-32-36 jd_sports_us 371
+2025-10-25-13-32-36 hibbett_sports 593
+miss 2025-10-25-13-32-36 converse 404
+2025-11-01-13-32-32 nike 4383
+2025-11-01-13-32-32 adidas 1980
+2025-11-01-13-32-32 foot_locker 2238
+2025-11-01-13-32-32 dicks_sporting_goods 777
+2025-11-01-13-32-32 academy_us 322
+2025-11-01-13-32-32 jd_sports_us 373
+2025-11-01-13-32-32 hibbett_sports 596
+miss 2025-11-01-13-32-32 converse 404
+2025-11-08-13-32-41 nike 4384
+2025-11-08-13-32-41 adidas 1980
+2025-11-08-13-32-41 foot_locker 2238
+2025-11-08-13-32-41 dicks_sporting_goods 779
+2025-11-08-13-32-41 academy_us 322
+2025-11-08-13-32-41 jd_sports_us 377
+err 2025-11-08-13-32-41 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2025-11-08-13-32-41 converse 404
+2025-11-15-13-32-45 nike 4383
+2025-11-15-13-32-45 adidas 1980
+2025-11-15-13-32-45 foot_locker 2238
+2025-11-15-13-32-45 dicks_sporting_goods 780
+2025-11-15-13-32-45 academy_us 322
+2025-11-15-13-32-45 jd_sports_us 380
+err 2025-11-15-13-32-45 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2025-11-15-13-32-45 converse 404
+2025-11-22-13-32-43 nike 4385
+2025-11-22-13-32-43 adidas 1980
+2025-11-22-13-32-43 foot_locker 2239
+2025-11-22-13-32-43 dicks_sporting_goods 781
+2025-11-22-13-32-43 academy_us 322
+2025-11-22-13-32-43 jd_sports_us 382
+2025-11-22-13-32-43 hibbett_sports 598
+miss 2025-11-22-13-32-43 converse 404
+2025-11-29-13-32-39 nike 4386
+2025-11-29-13-32-39 adidas 1980
+2025-11-29-13-32-39 foot_locker 2243
+2025-11-29-13-32-39 dicks_sporting_goods 781
+2025-11-29-13-32-39 academy_us 322
+2025-11-29-13-32-39 jd_sports_us 383
+err 2025-11-29-13-32-39 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2025-11-29-13-32-39 converse 404
+2025-12-06-13-33-06 nike 4388
+2025-12-06-13-33-06 adidas 1980
+2025-12-06-13-33-06 foot_locker 2243
+2025-12-06-13-33-06 dicks_sporting_goods 781
+2025-12-06-13-33-06 academy_us 322
+2025-12-06-13-33-06 jd_sports_us 383
+err 2025-12-06-13-33-06 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2025-12-06-13-33-06 converse 404
+2025-12-13-13-32-36 nike 4389
+2025-12-13-13-32-36 adidas 1980
+2025-12-13-13-32-36 foot_locker 2242
+2025-12-13-13-32-36 dicks_sporting_goods 781
+2025-12-13-13-32-36 academy_us 323
+2025-12-13-13-32-36 jd_sports_us 388
+err 2025-12-13-13-32-36 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2025-12-13-13-32-36 converse 404
+2025-12-20-13-32-31 nike 4390
+2025-12-20-13-32-31 adidas 1980
+2025-12-20-13-32-31 foot_locker 2242
+2025-12-20-13-32-31 dicks_sporting_goods 781
+2025-12-20-13-32-31 academy_us 323
+2025-12-20-13-32-31 jd_sports_us 388
+err 2025-12-20-13-32-31 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2025-12-20-13-32-31 converse 404
+2025-12-27-13-32-39 nike 4390
+2025-12-27-13-32-39 adidas 1980
+2025-12-27-13-32-39 foot_locker 2243
+2025-12-27-13-32-39 dicks_sporting_goods 781
+2025-12-27-13-32-39 academy_us 323
+2025-12-27-13-32-39 jd_sports_us 388
+2025-12-27-13-32-39 hibbett_sports 603
+miss 2025-12-27-13-32-39 converse 404
+2026-01-03-13-32-38 nike 4390
+2026-01-03-13-32-38 adidas 1980
+2026-01-03-13-32-38 foot_locker 2243
+2026-01-03-13-32-38 dicks_sporting_goods 781
+2026-01-03-13-32-38 academy_us 323
+2026-01-03-13-32-38 jd_sports_us 388
+err 2026-01-03-13-32-38 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2026-01-03-13-32-38 converse 404
+2026-01-10-13-32-34 nike 4383
+2026-01-10-13-32-34 adidas 1980
+2026-01-10-13-32-34 foot_locker 2240
+2026-01-10-13-32-34 dicks_sporting_goods 781
+2026-01-10-13-32-34 academy_us 324
+2026-01-10-13-32-34 jd_sports_us 391
+err 2026-01-10-13-32-34 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2026-01-10-13-32-34 converse 404
+2026-01-17-13-32-44 nike 4375
+2026-01-17-13-32-44 adidas 1980
+2026-01-17-13-32-44 foot_locker 2237
+2026-01-17-13-32-44 dicks_sporting_goods 781
+2026-01-17-13-32-44 academy_us 324
+2026-01-17-13-32-44 jd_sports_us 394
+err 2026-01-17-13-32-44 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2026-01-17-13-32-44 converse 404
+2026-01-24-13-32-35 nike 4383
+2026-01-24-13-32-35 adidas 1980
+2026-01-24-13-32-35 foot_locker 2226
+2026-01-24-13-32-35 dicks_sporting_goods 777
+2026-01-24-13-32-35 academy_us 324
+2026-01-24-13-32-35 jd_sports_us 396
+err 2026-01-24-13-32-35 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2026-01-24-13-32-35 converse 404
+2026-01-31-13-32-31 nike 4377
+2026-01-31-13-32-31 adidas 1980
+2026-01-31-13-32-31 foot_locker 2220
+2026-01-31-13-32-31 dicks_sporting_goods 774
+2026-01-31-13-32-31 academy_us 324
+2026-01-31-13-32-31 jd_sports_us 398
+err 2026-01-31-13-32-31 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2026-01-31-13-32-31 converse 404
+2026-02-07-13-32-34 nike 4378
+2026-02-07-13-32-34 adidas 1980
+2026-02-07-13-32-34 foot_locker 2221
+2026-02-07-13-32-34 dicks_sporting_goods 773
+2026-02-07-13-32-34 academy_us 324
+2026-02-07-13-32-34 jd_sports_us 398
+err 2026-02-07-13-32-34 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2026-02-07-13-32-34 converse 404
+2026-02-14-13-32-33 nike 4378
+2026-02-14-13-32-33 adidas 1980
+2026-02-14-13-32-33 foot_locker 2221
+2026-02-14-13-32-33 dicks_sporting_goods 773
+2026-02-14-13-32-33 academy_us 324
+2026-02-14-13-32-33 jd_sports_us 399
+2026-02-14-13-32-33 hibbett_sports 593
+miss 2026-02-14-13-32-33 converse 404
+2026-02-21-13-32-30 nike 4377
+2026-02-21-13-32-30 adidas 1980
+2026-02-21-13-32-30 foot_locker 2214
+2026-02-21-13-32-30 dicks_sporting_goods 774
+2026-02-21-13-32-30 academy_us 324
+2026-02-21-13-32-30 jd_sports_us 400
+err 2026-02-21-13-32-30 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2026-02-21-13-32-30 converse 404
+2026-02-28-13-32-34 nike 4377
+2026-02-28-13-32-34 adidas 1980
+2026-02-28-13-32-34 foot_locker 2210
+2026-02-28-13-32-34 dicks_sporting_goods 775
+2026-02-28-13-32-34 academy_us 324
+2026-02-28-13-32-34 jd_sports_us 400
+err 2026-02-28-13-32-34 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2026-02-28-13-32-34 converse 404
+2026-03-07-13-32-33 nike 4376
+2026-03-07-13-32-33 adidas 1980
+2026-03-07-13-32-33 foot_locker 2201
+2026-03-07-13-32-33 dicks_sporting_goods 773
+2026-03-07-13-32-33 academy_us 324
+2026-03-07-13-32-33 jd_sports_us 401
+2026-03-07-13-32-33 hibbett_sports 595
+miss 2026-03-07-13-32-33 converse 404
+2026-03-14-13-32-34 nike 4378
+2026-03-14-13-32-34 adidas 1980
+2026-03-14-13-32-34 foot_locker 2200
+2026-03-14-13-32-34 dicks_sporting_goods 773
+2026-03-14-13-32-34 academy_us 326
+2026-03-14-13-32-34 jd_sports_us 402
+err 2026-03-14-13-32-34 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2026-03-14-13-32-34 converse 404
+2026-03-21-13-32-39 nike 4378
+2026-03-21-13-32-39 adidas 1980
+2026-03-21-13-32-39 foot_locker 2203
+2026-03-21-13-32-39 dicks_sporting_goods 774
+2026-03-21-13-32-39 academy_us 326
+2026-03-21-13-32-39 jd_sports_us 402
+err 2026-03-21-13-32-39 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2026-03-21-13-32-39 converse 404
+2026-03-28-13-32-36 nike 4377
+2026-03-28-13-32-36 adidas 1980
+2026-03-28-13-32-36 foot_locker 2199
+2026-03-28-13-32-36 dicks_sporting_goods 774
+2026-03-28-13-32-36 academy_us 326
+2026-03-28-13-32-36 jd_sports_us 402
+2026-03-28-13-32-36 hibbett_sports 597
+miss 2026-03-28-13-32-36 converse 404
+2026-04-04-13-32-38 nike 4376
+2026-04-04-13-32-38 adidas 1980
+2026-04-04-13-32-38 foot_locker 2196
+err 2026-04-04-13-32-38 dicks_sporting_goods Expecting value: line 1 column 1 (char 0)
+2026-04-04-13-32-38 academy_us 326
+2026-04-04-13-32-38 jd_sports_us 404
+err 2026-04-04-13-32-38 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2026-04-04-13-32-38 converse 404
+2026-04-11-13-32-42 nike 4379
+2026-04-11-13-32-42 adidas 1980
+2026-04-11-13-32-42 foot_locker 2193
+2026-04-11-13-32-42 dicks_sporting_goods 774
+2026-04-11-13-32-42 academy_us 326
+2026-04-11-13-32-42 jd_sports_us 406
+2026-04-11-13-32-42 hibbett_sports 596
+miss 2026-04-11-13-32-42 converse 404
+2026-04-18-13-32-31 nike 4382
+2026-04-18-13-32-31 adidas 1980
+2026-04-18-13-32-31 foot_locker 2181
+2026-04-18-13-32-31 dicks_sporting_goods 773
+2026-04-18-13-32-31 academy_us 326
+2026-04-18-13-32-31 jd_sports_us 408
+err 2026-04-18-13-32-31 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2026-04-18-13-32-31 converse 404
+err 2026-04-25-13-32-23 nike Expecting value: line 1 column 1 (char 0)
+2026-04-25-13-32-23 adidas 1980
+2026-04-25-13-32-23 foot_locker 2181
+2026-04-25-13-32-23 dicks_sporting_goods 774
+2026-04-25-13-32-23 academy_us 326
+2026-04-25-13-32-23 jd_sports_us 410
+err 2026-04-25-13-32-23 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2026-04-25-13-32-23 converse 404
+err 2026-05-02-13-32-25 nike Expecting value: line 1 column 1 (char 0)
+2026-05-02-13-32-25 adidas 1980
+2026-05-02-13-32-25 foot_locker 2181
+err 2026-05-02-13-32-25 dicks_sporting_goods Expecting value: line 1 column 1 (char 0)
+2026-05-02-13-32-25 academy_us 326
+2026-05-02-13-32-25 jd_sports_us 411
+err 2026-05-02-13-32-25 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2026-05-02-13-32-25 converse 404
+err 2026-05-09-13-32-52 nike Expecting value: line 1 column 1 (char 0)
+2026-05-09-13-32-52 adidas 1980
+2026-05-09-13-32-52 foot_locker 2181
+2026-05-09-13-32-52 dicks_sporting_goods 774
+2026-05-09-13-32-52 academy_us 333
+2026-05-09-13-32-52 jd_sports_us 412
+2026-05-09-13-32-52 hibbett_sports 588
+miss 2026-05-09-13-32-52 converse 404
+2026-05-16-13-32-21 nike 4371
+2026-05-16-13-32-21 adidas 1980
+2026-05-16-13-32-21 foot_locker 2181
+2026-05-16-13-32-21 dicks_sporting_goods 775
+2026-05-16-13-32-21 academy_us 333
+2026-05-16-13-32-21 jd_sports_us 415
+err 2026-05-16-13-32-21 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2026-05-16-13-32-21 converse 404
+2026-05-23-13-32-22 nike 4373
+2026-05-23-13-32-22 adidas 1980
+2026-05-23-13-32-22 foot_locker 2180
+2026-05-23-13-32-22 dicks_sporting_goods 775
+2026-05-23-13-32-22 academy_us 333
+2026-05-23-13-32-22 jd_sports_us 418
+2026-05-23-13-32-22 hibbett_sports 588
+miss 2026-05-23-13-32-22 converse 404
+2026-05-30-13-32-21 nike 4380
+err 2026-05-30-13-32-21 adidas Expecting value: line 1 column 1 (char 0)
+2026-05-30-13-32-21 foot_locker 2179
+2026-05-30-13-32-21 dicks_sporting_goods 776
+2026-05-30-13-32-21 academy_us 333
+2026-05-30-13-32-21 jd_sports_us 419
+err 2026-05-30-13-32-21 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2026-05-30-13-32-21 converse 404
+2026-06-06-13-32-18 nike 4380
+err 2026-06-06-13-32-18 adidas Expecting value: line 1 column 1 (char 0)
+2026-06-06-13-32-18 foot_locker 2179
+2026-06-06-13-32-18 dicks_sporting_goods 777
+2026-06-06-13-32-18 academy_us 333
+2026-06-06-13-32-18 jd_sports_us 421
+err 2026-06-06-13-32-18 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2026-06-06-13-32-18 converse 404
+2026-06-13-13-32-32 nike 4371
+err 2026-06-13-13-32-32 adidas Expecting value: line 1 column 1 (char 0)
+2026-06-13-13-32-32 foot_locker 2178
+2026-06-13-13-32-32 dicks_sporting_goods 777
+2026-06-13-13-32-32 academy_us 333
+2026-06-13-13-32-32 jd_sports_us 422
+2026-06-13-13-32-32 hibbett_sports 585
+miss 2026-06-13-13-32-32 converse 404
+2026-06-20-13-32-35 nike 4379
+err 2026-06-20-13-32-35 adidas Expecting value: line 1 column 1 (char 0)
+2026-06-20-13-32-35 foot_locker 2178
+2026-06-20-13-32-35 dicks_sporting_goods 776
+2026-06-20-13-32-35 academy_us 339
+2026-06-20-13-32-35 jd_sports_us 424
+err 2026-06-20-13-32-35 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2026-06-20-13-32-35 converse 404
+2026-06-27-13-32-21 nike 4379
+err 2026-06-27-13-32-21 adidas Expecting value: line 1 column 1 (char 0)
+2026-06-27-13-32-21 foot_locker 2181
+2026-06-27-13-32-21 dicks_sporting_goods 775
+2026-06-27-13-32-21 academy_us 339
+2026-06-27-13-32-21 jd_sports_us 426
+err 2026-06-27-13-32-21 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2026-06-27-13-32-21 converse 404
+2026-07-04-13-32-25 nike 4380
+err 2026-07-04-13-32-25 adidas Expecting value: line 1 column 1 (char 0)
+2026-07-04-13-32-25 foot_locker 2181
+err 2026-07-04-13-32-25 dicks_sporting_goods Expecting value: line 1 column 1 (char 0)
+2026-07-04-13-32-25 academy_us 339
+2026-07-04-13-32-25 jd_sports_us 428
+err 2026-07-04-13-32-25 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2026-07-04-13-32-25 converse 404
+2026-07-11-13-32-25 nike 4378
+err 2026-07-11-13-32-25 adidas Expecting value: line 1 column 1 (char 0)
+2026-07-11-13-32-25 foot_locker 2181
+2026-07-11-13-32-25 dicks_sporting_goods 776
+2026-07-11-13-32-25 academy_us 343
+2026-07-11-13-32-25 jd_sports_us 429
+2026-07-11-13-32-25 hibbett_sports 586
+miss 2026-07-11-13-32-25 converse 404
+2026-07-18-13-32-19 nike 4378
+err 2026-07-18-13-32-19 adidas Expecting value: line 1 column 1 (char 0)
+2026-07-18-13-32-19 foot_locker 2178
+2026-07-18-13-32-19 dicks_sporting_goods 777
+2026-07-18-13-32-19 academy_us 343
+2026-07-18-13-32-19 jd_sports_us 429
+err 2026-07-18-13-32-19 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2026-07-18-13-32-19 converse 404
+2026-07-25-13-32-20 nike 4345
+err 2026-07-25-13-32-20 adidas Expecting value: line 1 column 1 (char 0)
+2026-07-25-13-32-20 foot_locker 2184
+2026-07-25-13-32-20 dicks_sporting_goods 779
+2026-07-25-13-32-20 academy_us 343
+2026-07-25-13-32-20 jd_sports_us 430
+2026-07-25-13-32-20 hibbett_sports 581
+miss 2026-07-25-13-32-20 converse 404
+2026-08-01-13-32-15 nike 4346
+err 2026-08-01-13-32-15 adidas Expecting value: line 1 column 1 (char 0)
+2026-08-01-13-32-15 foot_locker 2183
+2026-08-01-13-32-15 dicks_sporting_goods 779
+2026-08-01-13-32-15 academy_us 343
+2026-08-01-13-32-15 jd_sports_us 431
+2026-08-01-13-32-15 hibbett_sports 581
+miss 2026-08-01-13-32-15 converse 404
+2026-08-08-13-32-19 nike 4345
+err 2026-08-08-13-32-19 adidas Expecting value: line 1 column 1 (char 0)
+2026-08-08-13-32-19 foot_locker 2184
+2026-08-08-13-32-19 dicks_sporting_goods 777
+2026-08-08-13-32-19 academy_us 347
+2026-08-08-13-32-19 jd_sports_us 431
+err 2026-08-08-13-32-19 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2026-08-08-13-32-19 converse 404
+2026-08-15-13-32-20 nike 4345
+err 2026-08-15-13-32-20 adidas Expecting value: line 1 column 1 (char 0)
+2026-08-15-13-32-20 foot_locker 2181
+2026-08-15-13-32-20 dicks_sporting_goods 777
+2026-08-15-13-32-20 academy_us 347
+2026-08-15-13-32-20 jd_sports_us 433
+err 2026-08-15-13-32-20 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2026-08-15-13-32-20 converse 404
+2026-08-22-13-32-16 nike 4348
+err 2026-08-22-13-32-16 adidas Expecting value: line 1 column 1 (char 0)
+2026-08-22-13-32-16 foot_locker 2181
+2026-08-22-13-32-16 dicks_sporting_goods 777
+2026-08-22-13-32-16 academy_us 347
+2026-08-22-13-32-16 jd_sports_us 434
+err 2026-08-22-13-32-16 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2026-08-22-13-32-16 converse 404
+2026-08-29-13-32-18 nike 4352
+err 2026-08-29-13-32-18 adidas Expecting value: line 1 column 1 (char 0)
+2026-08-29-13-32-18 foot_locker 2180
+2026-08-29-13-32-18 dicks_sporting_goods 777
+2026-08-29-13-32-18 academy_us 347
+2026-08-29-13-32-18 jd_sports_us 434
+err 2026-08-29-13-32-18 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2026-08-29-13-32-18 converse 404
+2026-09-05-13-32-25 nike 4352
+2026-09-05-13-32-25 adidas 3705
+2026-09-05-13-32-25 foot_locker 2180
+err 2026-09-05-13-32-25 dicks_sporting_goods Expecting value: line 1 column 1 (char 0)
+2026-09-05-13-32-25 academy_us 347
+2026-09-05-13-32-25 jd_sports_us 436
+err 2026-09-05-13-32-25 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2026-09-05-13-32-25 converse 404
+2026-09-12-13-32-21 nike 4351
+2026-09-12-13-32-21 adidas 2750
+2026-09-12-13-32-21 foot_locker 2182
+2026-09-12-13-32-21 dicks_sporting_goods 779
+2026-09-12-13-32-21 academy_us 347
+2026-09-12-13-32-21 jd_sports_us 437
+err 2026-09-12-13-32-21 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2026-09-12-13-32-21 converse 404
+2026-09-19-13-32-18 nike 4356
+2026-09-19-13-32-18 adidas 3375
+2026-09-19-13-32-18 foot_locker 2175
+2026-09-19-13-32-18 dicks_sporting_goods 777
+2026-09-19-13-32-18 academy_us 347
+2026-09-19-13-32-18 jd_sports_us 437
+2026-09-19-13-32-18 hibbett_sports 577
+miss 2026-09-19-13-32-18 converse 404
+2026-09-26-13-32-25 nike 4364
+2026-09-26-13-32-25 adidas 3401
+2026-09-26-13-32-25 foot_locker 2166
+err 2026-09-26-13-32-25 dicks_sporting_goods Expecting value: line 1 column 1 (char 0)
+2026-09-26-13-32-25 academy_us 347
+2026-09-26-13-32-25 jd_sports_us 437
+err 2026-09-26-13-32-25 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2026-09-26-13-32-25 converse 404
+2026-10-03-13-32-35 nike 4364
+2026-10-03-13-32-35 adidas 3403
+2026-10-03-13-32-35 foot_locker 2166
+err 2026-10-03-13-32-35 dicks_sporting_goods Expecting value: line 1 column 1 (char 0)
+2026-10-03-13-32-35 academy_us 347
+2026-10-03-13-32-35 jd_sports_us 440
+err 2026-10-03-13-32-35 hibbett_sports Expecting value: line 1 column 1 (char 0)
+miss 2026-10-03-13-32-35 converse 404

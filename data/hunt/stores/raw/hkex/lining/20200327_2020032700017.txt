@@ -1,0 +1,1890 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility for the contents of this
+announcement, make no representation as to its accuracy or completeness and expressly disclaim any liability whatsoever for any loss
+howsoever arising from or in reliance upon the whole or any part of the contents of this announcement.
+
+
+
+
+                              ANNUAL RESULTS ANNOUNCEMENT
+                            FOR THE YEAR ENDED 31 DECEMBER 2019
+
+ FINANCIAL HIGHLIGHTS
+
+ •      Reported net profit attributable to equity holders increased by approximately 110% to RMB1,499 million,
+        and the net profit margin raised from 6.8% to 10.8%; after excluding the one-off profit and loss not related
+        to operation, the net profit attributable to equity holders increased by approximately 77% to RMB1,266
+        million, and the net profit margin was 9.1%:
+        –     Revenue increased by 32% to RMB13,870 million
+        –     Gross profit margin expanded 1 percentage point
+        –     Enhanced operating leverage notwithstanding the Group’s investment in new initiatives and increase
+              of organization costs
+
+ •      Operating cash flow increased by 110% to RMB3,503 million.
+
+ •      Significant improvement in working capital continued:
+        –     Gross average working capital improved (reduced) by 16% while revenue increased by 32%
+        –     Cash conversion cycle further improved (shortened) by 14 days (2018: 40 days/2019: 26 days)
+
+ •      The Board has recommended payment of a final dividend of RMB15.47 cents per ordinary share of the
+        Company issued or to be issued upon conversion of convertible securities for the year ended 31 December
+        2019 (2018: RMB8.78 cents).
+
+ OPERATIONAL HIGHLIGHTS
+
+ •      The retail sell-through for the overall platform increased by high-twenties, including online and offline
+        channels.
+
+ •      Channel inventory turnover improvement continued.
+
+ •      Overall same-store-sales-growth in 2019 accelerated to high-teens.
+
+ •      Offline channel new product sell-through increase accelerated to low-twenties:
+        –     Average selling price (ASP) increased by high-single-digit
+        –     New product gross margin improved over 1 percentage point
+        –     Sell-out rate: 6-month improved over 4 percentage points, 3-month improved over 2 percentage
+              points
+
+                                                               -1-
+ANNUAL RESULTS
+
+The board of directors (the “Board”) of Li Ning Company Limited (the “Company” or “Li Ning Company”) is
+pleased to announce the audited consolidated results of the Company and its subsidiaries (collectively, the “Group”)
+for the year ended 31 December 2019, together with comparative figures of 2018, as follows:
+
+CONSOLIDATED BALANCE SHEET
+
+                                                                                        As at 31 December
+                                                                         Note              2019           2018
+                                                                                       RMB’000         RMB’000
+
+ASSETS
+Non-current assets
+Property, plant and equipment                                                          1,038,588            830,085
+Right-of-use assets                                                                      981,422                  –
+Investment properties                                                                    119,278                  –
+Land use rights                                                                           72,233             74,092
+Intangible assets                                                                        193,261            233,921
+Deferred income tax assets                                                               431,715            239,047
+Other assets                                                                                  83            132,491
+Investments accounted for using the equity method                                      1,056,866            728,499
+Other receivables                                                                        114,712            102,916
+
+Total non-current assets                                                               4,008,158          2,341,051
+
+Current assets
+Inventories                                                                4           1,407,257          1,239,741
+Other assets – current portion                                                           443,406            508,536
+Trade receivables                                                          5             686,606            928,895
+Other receivables – current portion                                                       39,476             37,340
+Restricted bank deposits                                                                   1,126                200
+Cash and cash equivalents                                                              5,961,445          3,671,542
+
+Total current assets                                                                   8,539,316          6,386,254
+
+Total assets                                                                          12,547,474          8,727,305
+
+
+
+
+                                                        -2-
+                                                                              As at 31 December
+                                                                     Note        2019           2018
+                                                                             RMB’000         RMB’000
+
+
+EQUITY
+Capital and reserves attributable to equity holders of the Company
+Ordinary shares                                                                214,300        204,435
+Share premium                                                                3,547,682      3,249,389
+Shares held for Restricted Share Award Scheme                                 (276,664)      (168,809)
+Other reserves                                                               1,153,645      1,314,569
+Retained earnings                                                            2,482,676      1,217,456
+
+                                                                             7,121,639      5,817,040
+
+Non-controlling interests in equity                                              2,554          2,550
+
+Total equity                                                                 7,124,193      5,819,590
+
+LIABILITIES
+Non-current liabilities
+License fees payable                                                           24,581         27,565
+Derivative financial instruments                                               25,806         14,274
+Lease liabilities                                                             557,451              –
+Deferred income tax liabilities                                                45,002         34,730
+Deferred income                                                                53,821         53,675
+
+Total non-current liabilities                                                 706,661        130,244
+
+Current liabilities
+Trade payables                                                        6      1,348,206      1,133,314
+Contract liabilities                                                           293,926         97,979
+Lease liabilities – current portion                                            336,870              –
+Other payables and accruals                                                  2,173,658      1,383,118
+License fees payable – current portion                                          31,349         28,719
+Current income tax liabilities                                                 530,635        134,341
+Derivative financial instruments – current portion                               1,976              –
+
+Total current liabilities                                                    4,716,620      2,777,471
+
+Total liabilities                                                            5,423,281      2,907,715
+
+Total equity and liabilities                                                12,547,474      8,727,305
+
+
+
+
+                                                     -3-
+CONSOLIDATED INCOME STATEMENT
+
+                                                                              Year ended 31 December
+                                                                       Note         2019           2018
+                                                                               RMB’000          RMB’000
+
+Revenue                                                                 3     13,869,630     10,510,898
+Cost of sales                                                           7     (7,064,168)    (5,458,124)
+
+Gross profit                                                                   6,805,462      5,052,774
+
+Distribution expenses                                                   7      (4,445,070)    (3,708,446)
+Administrative expenses                                                 7        (968,264)      (679,873)
+Reversal of impairment losses on financial assets – net                            12,258         18,176
+Other income and other gains – net                                      8         138,823         94,546
+
+Operating profit                                                               1,543,209        777,177
+
+Finance income                                                          9         28,873         23,376
+Finance expenses                                                        9        (59,005)       (13,865)
+
+Finance (expenses)/income – net                                         9        (30,132)         9,511
+Share of profit of investments accounted for using the equity method             343,469         63,633
+
+Profit before income tax                                                       1,856,546        850,321
+
+Income tax expense                                                     10       (357,403)      (135,058)
+
+Profit for the year                                                            1,499,143        715,263
+
+Attributable to:
+
+Equity holders of the Company                                                  1,499,139        715,263
+Non-controlling interests                                                              4              –
+
+                                                                               1,499,143        715,263
+
+Earnings per share attributable to equity holders of the Company
+ for the year (expressed in RMB cents per share)
+
+Basic earnings per share                                               11          61.94          29.63
+
+Diluted earnings per share                                             11          60.13          29.19
+
+
+
+
+                                                          -4-
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+
+                                                                              Year ended 31 December
+                                                                                    2019           2018
+                                                                               RMB’000          RMB’000
+
+Profit for the year                                                            1,499,143        715,263
+Other comprehensive income/(loss):
+Items that may be reclassified to profit or loss
+Currency translation differences                                                   2,641          1,320
+Items that may not be reclassified to profit or loss
+Changes in the fair value of equity investments at fair value through other
+  comprehensive income                                                                –          (2,888)
+
+Total comprehensive income for the year                                        1,501,784        713,695
+
+Attributable to:
+Equity holders of the Company                                                  1,501,780        713,695
+Non-controlling interests                                                              4              –
+
+                                                                               1,501,784        713,695
+
+
+
+
+                                                        -5-
+NOTES:
+
+1.   General Information
+
+     Li Ning Company Limited (the “Company”) and its subsidiaries (together, the “Group”) are principally engaged in brand
+     development, design, manufacture, sale and distribution of sport-related footwear, apparel, equipment and accessories in the People’s
+     Republic of China (the “PRC”).
+
+     The Company was incorporated on 26 February 2004 in the Cayman Islands as an exempted company with limited liability under the
+     Companies Law, Cap.22 (Law 3 of 1961, as consolidated and revised) of the Cayman Islands. The address of its registered office is
+     Cricket Square, Hutchins Drive, P.O. Box 2681, Grand Cayman KY1-1111, Cayman Islands.
+
+     The Company’s shares are listed on the Main Board of The Stock Exchange of Hong Kong Limited.
+
+     These consolidated financial results are presented in Renminbi (“RMB”), unless otherwise stated. These consolidated financial results
+     have been approved for issue by the Board on 26 March 2020.
+
+2.   Basis of preparation and changes in accounting policies
+
+     This note provides a list of the significant accounting policies adopted in the preparation of these consolidated financial results. These
+     policies have been consistently applied to all the years presented, unless otherwise stated.
+
+     2.1    Basis of preparation
+
+            (a)     Compliance with IFRS and HKCO
+
+                    The consolidated financial results of the Company have been prepared in accordance with International Financial
+                    Reporting Standards (“IFRS”) and the disclosure requirements of the Hong Kong Companies Ordinance Cap. 622.
+
+            (b)     Historical cost convention
+
+                    The financial statements have been prepared on a historical cost basis, except for certain financial assets and liabilities
+                    (including derivative instruments) – measured at fair value.
+
+            (c)     New and amended standards adopted by the Group
+
+                    The Group has applied the following standards and amendments for the first time for their annual reporting period
+                    commencing 1 January 2019:
+
+                    IFRS 16                                        Leases
+                    Amendments to IFRS 9                           Prepayment Features with Negative Compensation
+                    Amendments to IAS 28                           Long-term Interests in Associates and Joint Ventures
+                    Amendments to IAS 19                           Plan Amendment, Curtailment or Settlement
+                    IFRIC 23                                       Uncertainty over Income Tax Treatments
+
+                    The Group had to change its accounting policies as a result of adopting IFRS 16. The Group elected to adopt the new
+                    standards retrospectively but recognised the cumulative effect of initially applying the new standard on 1 January 2019.
+                    Please see the disclosures in Note 2.2 for details. The amendments to most of the other standards stated above did not
+                    have any impact on the amounts recognised in prior periods and are not expected to significantly affect the current or
+                    future periods.
+
+
+
+
+                                                                   -6-
+      (d)    New standards and interpretations not yet adopted
+
+             The following new accounting standards and interpretations have been published but are not mandatory for 31
+             December 2019 reporting period and have not been early adopted by the Group. These standards are not expected to
+             have a material impact on the Group in the current or future reporting periods and on foreseeable future transactions.
+
+             Amendments to IAS 1 and IAS 8                  Definition of Material (1)
+             Amendments to IFRS 3                           Definition of a Business (1)
+             IFRS 17                                        Insurance Contracts (2)
+             Amendment to IFRS 7 and IFRS 9                 Interest Rate Benchmark Reform (1)
+             Amendments to IAS 1                            Classification of Liabilities as Current and Non-current (3)
+             (1)
+                    Effective for the accounting period beginning on 1 January 2020.
+             (2)
+                    Effective for the accounting period beginning on 1 January 2021 (likely to be extended to 1 January 2022).
+             (3)
+                    Effective for the accounting period beginning on 1 January 2022.
+
+2.2   Changes in accounting policies
+
+      This note explains the impact of the adoption of IFRS 16 on the Group’s financial statements.
+
+      As indicated in Note 2.1 above, the Group has adopted IFRS 16 Leases retrospectively from 1 January 2019, but has not
+      restated comparatives for the 2018 reporting period, as permitted under the specific transition provisions in the standard. The
+      reclassifications and the adjustments arising from the new leasing standards are therefore recognised in the opening balance
+      sheet on 1 January 2019.
+
+      On adoption of IFRS 16, the Group recognised lease liabilities in relation to leases which had previously been classified as
+      ‘operating leases’ under the requirements of IAS 17 Leases. These lease liabilities were measured at the present value of
+      the remaining lease payments, discounted using the lessee’s incremental borrowing rate as at 1 January 2019. The lessee’s
+      incremental borrowing rate applied to the lease liabilities on 1 January 2019 was 5.5%-6.1%.
+
+      (a)    Practical expedients applied
+
+             In applying IFRS 16 for the first time, the Group has used the following practical expedients permitted by the standard:
+
+             •      applying a single discount rate to a portfolio of leases with reasonably similar characteristics
+
+             •      relying on previous assessments on whether leases are onerous as an alternative to performing an impairment
+                    review – there were no onerous contracts as at 1 January 2019
+
+             •      accounting for operating leases with a remaining lease term of less than 12 months as at 1 January 2019 as
+                    short-term leases
+
+             •      excluding initial direct costs for the measurement of the right-of-use asset at the date of initial application, and
+
+             •      using hindsight in determining the lease term where the contract contains options to extend or terminate the
+                    lease.
+
+             The Group has elected not to reassess whether a contract is, or contains a lease at the date of initial application.
+             Instead, for contracts entered into before the transition date the Group relied on its assessment made applying IAS 17
+             and IFRIC 4 Determining whether an Arrangement contains a Lease.
+
+
+
+
+                                                            -7-
+             (b)   Measurement of lease liabilities
+
+                                                                                                                                RMB’000
+
+                   Operating lease commitments disclosed as at 31 December 2018                                                   959,500
+
+                   Discounted using the lessee’s incremental borrowing rate at the date of initial application                    792,728
+                   Less: short-term leases recognised on a straight-line basis as expense                                        (121,077)
+
+                   Lease liabilities recognised as at 1 January 2019                                                              671,651
+
+
+                   Of which are:
+                     Lease liabilities – current portion                                                                          264,443
+                     Lease liabilities – non-current portion                                                                      407,208
+
+                                                                                                                                  671,651
+
+             (c)   Measurement of right-of-use assets
+
+                   The right-of-use assets were measured at the amount equal to the lease liabilities, adjusted by the amount of any
+                   prepaid or accrued lease payments relating to that lease recognised in the consolidated balance sheet as at 31 December
+                   2018. There were no onerous lease contracts that would have required an adjustment to the right-of-use assets at the
+                   date of initial application.
+
+             (d)   Adjustments recognised in the consolidated balance sheet as at 1 January 2019
+
+                   The change in accounting policy affected the following items in the consolidated balance sheet as at 1 January 2019:
+
+                   •      right-of-use assets – increased by RMB757,762,000
+                   •      other assets – current portion – decreased by RMB86,931,000
+                   •      lease liabilities – non-current portion – increased by RMB407,208,000
+                   •      lease liabilities – current portion – increased by RMB264,443,000
+                   •      other payables and accruals – decreased by RMB820,000
+
+                   Land use rights are accounted for in accordance with the accounting policies for right-of-use assets and are presented
+                   as land use rights in the consolidated balance sheet.
+
+3.   Segment information and revenue
+
+     The management of the Company (“Management”) is the Group’s chief operating decision-maker. Management reviews the Group’s
+     internal reports periodically in order to assess results and allocate resources. Management has determined the operating segments
+     based on these reports.
+
+     The segment information presented by brand perspective has ceased since 1 January 2018 as the Group was principally engaged in
+     a single line of business of sporting goods and Management reviewed the performance of the Group as a whole, thus there was only
+     one reportable segment and no segment information was presented.
+
+     Revenue breakdown by product category is as follows:
+
+                                                                                                          Year ended 31 December
+                                                                                                                2019             2018
+                                                                                                           RMB’000            RMB’000
+
+     Footwear                                                                                               6,085,402           4,601,262
+     Apparel                                                                                                7,109,763           5,316,033
+     Equipment and accessories                                                                                674,465             593,603
+
+     Total                                                                                                13,869,630          10,510,898
+
+
+
+
+                                                                  -8-
+     Geographical information of revenue
+
+                                                                                                        Year ended 31 December
+                                                                                                              2019             2018
+                                                                                                         RMB’000            RMB’000
+
+     The PRC (including the Hong Kong Special Administrative Region and
+       the Macau Special Administrative Region)                                                         13,600,230         10,262,236
+     Other regions                                                                                         269,400            248,662
+
+     Total                                                                                              13,869,630         10,510,898
+
+     Revenue by geographical location is determined on the basis of destination of shipment/delivery.
+
+     The Group has a large number of customers. For the years ended 31 December 2019 and 2018, no revenue derived from transactions
+     with a single external customer represented 10% or more of the Group’s total revenue.
+
+4.   Inventories
+
+                                                                                                            2019               2018
+                                                                                                         RMB’000            RMB’000
+
+     Raw materials                                                                                           7,087              1,112
+     Work in progress                                                                                        5,930              3,101
+     Finished goods                                                                                      1,526,927          1,360,167
+
+                                                                                                         1,539,944          1,364,380
+     Less: provision for write-down of inventories to net realisable value                                (132,687)          (124,639)
+
+                                                                                                         1,407,257          1,239,741
+
+     The cost of inventories recognised as expenses and included in cost of sales amounted to RMB6,842,827,000 for the year ended 31
+     December 2019 (31 December 2018: RMB5,312,201,000). Inventory provision and the amount of reversal have been included in cost
+     of sales in the consolidated income statement for the years ended 31 December 2019 and 2018.
+
+5.   Trade receivables
+
+                                                                                                            2019               2018
+                                                                                                         RMB’000            RMB’000
+
+     Accounts receivable                                                                                   944,799          1,213,288
+
+     Less: allowance for impairment of trade receivables                                                  (258,193)          (284,393)
+
+                                                                                                           686,606            928,895
+
+     Customers are normally granted credit terms within 90 days. As at 31 December 2019 and 2018, ageing analysis of trade receivables
+     based on invoice date are as follows:
+
+                                                                                                            2019               2018
+                                                                                                         RMB’000            RMB’000
+
+     0 – 30 days                                                                                           431,286            551,193
+     31 – 60 days                                                                                          211,047            247,090
+     61 – 90 days                                                                                           40,096             99,029
+     91 – 180 days                                                                                          41,497             87,835
+     Over 180 days                                                                                         220,873            228,141
+
+                                                                                                           944,799          1,213,288
+
+
+
+                                                                   -9-
+     The movement in allowance for impairment of trade receivables is shown as follows:
+
+                                                                                                            2019                  2018
+                                                                                                         RMB’000               RMB’000
+
+     Opening balance                                                                                       284,393               401,845
+     Reversal of provision for impairment of trade receivables                                             (17,529)              (22,227)
+     Trade receivables written off during the year as uncollectible                                         (8,671)              (95,225)
+
+     Closing balance                                                                                       258,193               284,393
+
+6.   Trade payables
+
+     The normal credit period for trade payables generally ranges from 30 to 60 days. Ageing analysis of trade payables at the respective
+     balance sheet dates is as follows:
+
+                                                                                                            2019                  2018
+                                                                                                         RMB’000               RMB’000
+
+     0 – 30 days                                                                                         1,125,045               758,434
+     31 – 60 days                                                                                          191,812               310,259
+     61 – 90 days                                                                                           23,777                57,309
+     91 – 180 days                                                                                           1,717                 1,947
+     181 – 365 days                                                                                          1,725                 1,857
+     Over 365 days                                                                                           4,130                 3,508
+
+                                                                                                         1,348,206             1,133,314
+
+7.   Expenses by nature
+
+                                                                                                            2019                  2018
+                                                                                                         RMB’000               RMB’000
+
+     Cost of inventories recognised as expenses included in cost of sales                                6,842,827             5,312,201
+     Depreciation on property, plant and equipment (Note a)                                                419,881               363,037
+     Amortisation of land use rights and intangible assets                                                  40,666                48,375
+     Depreciation on right-of-use assets                                                                   360,424                     –
+     Impairment of goodwill                                                                                 36,394                     –
+     Advertising and marketing expenses                                                                  1,327,013             1,090,608
+     Commission and trade fair related expenses                                                            268,430               180,637
+     Staff costs, including directors’ emoluments (Note a)                                               1,518,565             1,139,002
+     Short-term lease rentals and variable lease payments not included in lease liabilities and
+       rental related expenses (2018: Operating lease rentals and related expenses in respect of
+       land and buildings)                                                                                 628,125               898,440
+     Research and product development expenses (Note a)                                                    362,494               228,798
+     Transportation and logistics expenses                                                                 497,343               395,775
+     Auditor’s remuneration
+       – Audit services                                                                                      5,550                 5,200
+       – Non-audit services                                                                                  1,878                 1,290
+     Management consulting expenses                                                                        107,443                78,877
+
+     Note:
+
+     (a)     Research and product development expenses include depreciation on property, plant and equipment and staff costs in Research
+             & Development Department, which are also included in depreciation expense and staff costs as disclosed above.
+
+
+
+
+                                                                  - 10 -
+8.    Other income and other gains – net
+
+                                                                                                             2019                  2018
+                                                                                                          RMB’000               RMB’000
+
+      Government grants                                                                                      63,893                34,311
+      License fees income                                                                                    10,202                16,299
+      Interest income from wealth management products at fair value through profit or loss                   78,236                46,641
+      Fair value losses on derivative financial instruments at fair value through profit or loss            (13,508)               (8,690)
+      Dividends                                                                                                   –                 5,985
+
+                                                                                                            138,823                94,546
+
+9.    Finance (expenses)/income – net
+
+                                                                                                             2019                  2018
+                                                                                                          RMB’000               RMB’000
+
+      Finance income
+      Interest income on bank balances and deposits                                                          24,655                14,947
+      Net foreign currency exchange gain                                                                      4,218                 8,429
+
+                                                                                                             28,873                23,376
+
+      Finance expenses
+      Amortisation of discount – license fees payable                                                        (3,197)               (4,320)
+      Amortisation of discount – lease liabilities                                                          (45,400)                    –
+      Others                                                                                                (10,408)               (9,545)
+
+                                                                                                            (59,005)              (13,865)
+
+      Finance (expenses)/income – net                                                                       (30,132)                9,511
+
+10.   Income tax expense
+
+                                                                                                             2019                  2018
+                                                                                                          RMB’000               RMB’000
+
+      Current income tax
+        – Corporate income tax (Note b)                                                                     539,088               122,197
+        – Withholding income tax on interest income from subsidiaries in the PRC (Note c)                       711                 1,174
+
+                                                                                                            539,799               123,371
+
+      Deferred income tax                                                                                  (182,396)               11,687
+
+      Income tax expense                                                                                    357,403               135,058
+
+      Notes:
+
+      (a)      The Company was incorporated in the Cayman Islands. Under current laws of the Cayman Islands, there are no income,
+               estate, corporation, capital gains or other taxes payable by the Company. The Company’s subsidiary, RealSports Pte Ltd.,
+               was established under the International Business Companies Acts of the British Virgin Islands, and is exempted from British
+               Virgin Islands income taxes.
+
+      (b)      For the year ended 31 December 2019, provision for the corporate income tax of Chinese Mainland is calculated based on the
+               statutory tax rate of 25% (2018: 25%) on the assessable income of each of the group companies. Hong Kong profits tax has
+               been provided at the rate of 16.5% on the estimated assessable profits arising in Hong Kong (2018: 16.5%).
+
+      (c)      This mainly arose from the interests due by the Company’s subsidiaries in Chinese Mainland to other group companies in
+               Hong Kong during the years ended 31 December 2019 and 2018, which are subject to withholding tax at the rate of 7%.
+
+
+                                                                    - 11 -
+11.   Earnings per share
+
+      Basic
+
+      Basic earnings per share are calculated by dividing the profit attributable to equity holders of the Company by the weighted average
+      number of shares in issue less shares held for Restricted Share Award Scheme during the year. Such weighted average number of
+      shares outstanding shall be adjusted for events such as bonus issue and stock dividend.
+
+      In April 2013, the Company completed the issuance of convertible securities. In January 2015, the Company had completed the
+      issuance of offer securities. The below market subscription price of these two events had effectively resulted in 38,372,000 ordinary
+      shares (31 December 2018: 57,689,000 ordinary shares) to be issued upon conversion for nil consideration (i.e. the bonus element),
+      and such impact has been taken into account in calculating the weighted average number of shares for the purpose of basic earnings
+      per share.
+
+                                                                                                                2019                  2018
+
+      Profit attributable to equity holders of the Company (RMB’000)                                       1,499,139               715,263
+
+
+      Deemed weighted average number of shares and convertible securities after adjustment for
+       related bonus element for basic earnings per share (in thousands)                                   2,420,222             2,413,636
+
+
+      Basic earnings per share (RMB cents)                                                                     61.94                 29.63
+
+      Diluted
+
+      Diluted earnings per share are calculated by adjusting the weighted average number of shares in issue to assume conversion of all
+      dilutive potential shares. The Company’s dilutive potential shares comprise shares to be issued under share option schemes and
+      Restricted Share Award Scheme. In relation to shares issued under share option schemes, a calculation is done to determine the
+      number of shares that could have been acquired at fair value (determined as the average market share price of the Company’s shares
+      during the year) based on the monetary value of the subscription rights attached to outstanding share options. The number of shares
+      calculated as above is compared with the number of shares that would have been issued assuming the exercise of the share options.
+
+                                                                                                                2019                  2018
+
+      Profit attributable to equity holders of the Company, used to determine diluted earnings
+        per share (RMB’000)                                                                                1,499,139               715,263
+
+      Deemed weighted average number of shares and convertible securities after adjustment for
+       related bonus element for basic earnings per share (in thousands)                                   2,420,222             2,413,636
+      Adjustment for the restricted shares (in thousands)                                                     27,505                22,603
+      Adjustment for the share option schemes (in thousands)                                                  45,279                14,266
+
+      Deemed weighted average number of shares for diluted earnings per share (in thousands)               2,493,006             2,450,505
+
+
+      Diluted earnings per share (RMB cents)                                                                   60.13                 29.19
+
+      Note:
+
+      As at 31 December 2019, there were 4,356,000 share options that could potentially have a dilutive impact in the future but were anti-
+      dilutive during the year ended 31 December 2019. As at 31 December 2018, there were 1,420,000 share options that could potentially
+      have dilutive impact in the future but were anti-dilutive during the year ended 31 December 2018.
+
+
+
+
+                                                                 - 12 -
+12.   Dividends
+
+                                                                                                               2019                   2018
+                                                                                                            RMB’000                RMB’000
+
+      Proposed final dividend of RMB15.47 cents (2018: RMB8.78 cents) per ordinary share                      379,682                214,579
+
+      On 26 March 2020, the Board proposed a final dividend of RMB15.47 cents per ordinary share of the Company issued or to be issued
+      upon conversion of convertible securities for the year ended 31 December 2019.
+
+      The proposed dividend is not reflected as a dividend payable in the financial statements, but will be reflected as an appropriation of
+      distributable reserves for the year ending 31 December 2020.
+
+13.   Events after the balance sheet date
+
+      Conversion of convertible securities (“CS”)
+
+      During the period from 1 January 2020 to the date of approval of the financial statements, CS with carrying value of HK$390,592,000
+      (equivalent to approximately RMB305,697,000) were converted into 137,799,000 ordinary shares of the Company.
+
+      The assessment of the impact of the novel coronavirus (“COVID-19”)
+
+      The raging outbreak of COVID-19 at the beginning of 2020 has greatly affected people’s livelihood and travelling plans as well as
+      market order. The operation and financial performance of both the industry and the Group have also been affected inevitably, posing
+      severe challenges for the overall outlook for 2020. Up to the date on which the consolidated financial results were approved for issue,
+      the Group is still in the process of assessing the impacts of the COVID-19 on the financial performance of the Group.
+
+
+
+
+                                                                  - 13 -
+FINAL DIVIDEND
+
+The Board has recommended the payment of a final dividend of RMB15.47 cents per ordinary share of the
+Company issued or to be issued upon conversion of convertible securities for the year ended 31 December 2019 (2018:
+RMB8.78 cents). The proposed dividend payment is subject to approval by the shareholders of the Company at the
+forthcoming annual general meeting (“AGM”) to be held on 12 June 2020 and is payable in Hong Kong Dollars
+based on the official exchange rate of Renminbi against Hong Kong Dollars as quoted by the People’s Bank of
+China on 12 June 2020. Such dividend will not be subject to any withholding tax. Upon shareholders’ approval, the
+proposed final dividend will be paid:
+
+(i)     on 30 June 2020 to ordinary shareholders whose names shall appear on the register of members of the
+        Company on 19 June 2020;
+
+(ii)    on 30 June 2020 to holders of convertible securities issued under the open offer of offer securities of the
+        Company as set out in the listing documents of the Company dated 9 January 2015 and remain outstanding
+        on 19 June 2020;
+
+(iii)   on 6 July 2020 (i.e. the third business day after 30 June 2020) to holders of convertible securities issued
+        under the open offers of convertible securities of the Company as set out in the listing documents of the
+        Company dated 27 March 2013 and remain outstanding on 19 June 2020.
+
+For the avoidance of doubt, any convertible securities subject to a conversion notice completed, executed and
+deposited on or before final dividend record date (being 19 June 2020) shall be entitled to the distribution of
+such final dividend of the Company. For details of calculation of distribution of the final dividend entitled to the
+convertible securities please refer to the listing documents of the Company dated 27 March 2013 and 9 January
+2015 respectively.
+
+The Company did not declare interim dividend for the six months ended 30 June 2019.
+
+CLOSURE OF REGISTER OF MEMBERS AND HOLDERS OF CONVERTIBLE SECURITIES
+
+For the purpose of determining shareholders of the Company who are entitled to attend and vote at the forthcoming
+AGM to be held on 12 June 2020 and shareholders and holders of convertible securities of the Company qualifying
+for the proposed final dividend to be approved at the AGM, the register of members and register of holders of
+convertible securities of the Company will be closed as set out below:
+
+(i)     For ascertaining eligibility to attend and vote at the AGM:
+
+        Latest time to lodge transfer documents          4:30 p.m. on 8 June 2020 (Monday)
+        Period of closure of register of members         9 June 2020 (Tuesday) to 12 June 2020 (Friday)
+                                                           (both days inclusive)
+        Record date                                      12 June 2020 (Friday)
+        AGM date                                         12 June 2020 (Friday)
+
+        In order to qualify for attending and voting at the AGM, all transfer documents must be lodged with the
+        Company’s Hong Kong branch share registrar and transfer office, Computershare Hong Kong Investor
+        Services Limited, at Shops 1712-1716, 17th Floor, Hopewell Centre, 183 Queen’s Road East, Wanchai, Hong
+        Kong for registration not later than 4:30 p.m. on Monday, 8 June 2020.
+
+
+
+
+                                                          - 14 -
+(ii)   For ascertaining entitlement to the proposed final dividend to be approved at the AGM:
+
+       Latest time to lodge transfer documents           4:30 p.m. on 17 June 2020 (Wednesday)
+       Period of closure of register of members and      18 June 2020 (Thursday) to 19 June 2020 (Friday)
+         register of holders of convertible securities     (both days inclusive)
+       Final dividend record date                        19 June 2020 (Friday)
+
+       In order to qualify for the proposed final dividend, all transfer documents must be lodged with the Company’s
+       Hong Kong branch share registrar and transfer office, Computershare Hong Kong Investor Services Limited,
+       at Shops 1712-1716, 17th Floor, Hopewell Centre, 183 Queen’s Road East, Wanchai, Hong Kong for
+       registration not later than 4:30 p.m. on Wednesday, 17 June 2020.
+
+During the above closure periods, no transfer of shares or convertible securities of the Company will be registered.
+
+
+
+
+                                                         - 15 -
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+Financial Overview
+
+The key operating and financial performance indicators of the Group for the year ended 31 December 2019 are set
+out below:
+
+                                                                      Year ended 31 December           Change
+                                                                            2019           2018           (%)
+
+Income statement items
+(All amounts in RMB thousands unless otherwise stated)
+
+Revenue (Note 1)                                                       13,869,630       10,510,898        32.0
+Gross profit                                                            6,805,462        5,052,774        34.7
+Operating profit                                                        1,543,209          777,177        98.6
+Earnings before interest, tax, depreciation and amortisation
+  (EBITDA) (Note 2)                                                     2,707,649        1,252,222       116.2
+Profit attributable to equity holders (Note 3)                          1,499,139          715,263       109.6
+Basic earnings per share (RMB cents) (Note 4)                               61.94            29.63       109.0
+
+Key financial ratios
+
+Profitability ratios
+Gross profit margin (%)                                                      49.1              48.1
+Operating profit margin (%)                                                  11.1               7.4
+Effective tax rate (%)                                                       19.3              15.9
+Margin of profit attributable to equity holders (%)                          10.8               6.8
+Return on equity attributable to equity holders (%)                          23.2              13.1
+
+Expenses to revenue ratios
+Staff costs (%)                                                              10.9              10.8
+Advertising and marketing expenses (%)                                        9.6              10.4
+Research and product development expenses (%)                                 2.6               2.2
+
+                                                                    31 December       31 December
+                                                                           2019              2018
+
+Balance sheet items
+(All amounts in RMB thousands unless otherwise stated)
+
+Total assets (Note 5)                                                  12,547,474        8,727,305
+Capital and reserves attributable to equity holders (Note 6)            7,121,639        5,817,040
+
+Key financial ratios
+
+Asset efficiency
+Average inventory turnover (days) (Note 7)                                     68                78
+Average trade receivables turnover (days) (Note 8)                             21                36
+Average trade payables turnover (days) (Note 9)                                63                74
+
+Asset ratios
+Debt-to-equity ratio (%) (Note 10)                                           76.2             50.0
+Net asset value per share (RMB cents)                                      311.15           269.79
+
+
+
+
+                                                         - 16 -
+Notes:
+
+1.       Including revenue for the period from 1 January to 30 September 2019: RMB9,722,804,000.
+
+2.       The calculation of earnings before interest, tax, depreciation and amortisation (EBITDA) is based on the sum of profit for the year,
+         income tax expense, finance (expenses)/income – net, depreciation on property, plant and equipment, amortisation of land use rights
+         and intangible assets and depreciation on right-of-use assets.
+
+3.       Including profit attributable to equity holders for the period from 1 January to 30 September 2019: RMB1,117,856,000.
+
+4.       The calculation of basic earnings per share is based on the profit attributable to equity holders of the Company for the year, divided
+         by the weighted average number of shares in issue less ordinary shares held for Restricted Share Award Scheme.
+
+5.       Total assets at 30 September 2019: RMB12,179,683,000.
+
+6.       Capital and reserves attributable to equity holders at 30 September 2019: RMB6,835,448,000.
+
+7.       The calculation of average inventory turnover (days) is based on the average of opening and closing inventory balances for the year,
+         divided by cost of sales and multiplied by the total number of days in the year.
+
+8.       The calculation of average trade receivables turnover (days) is based on the average of opening and closing balances of trade
+         receivables for the year, divided by revenue and multiplied by the total number of days in the year.
+
+9.       The calculation of average trade payables turnover (days) is based on the average of opening and closing balances of trade payables
+         for the year, divided by total purchases and multiplied by the total number of days in the year.
+
+10.      The calculation of debt-to-equity ratio is based on total liabilities divided by capital and reserves attributable to equity holders of the
+         Company at the end of the year.
+
+*        The aforesaid indicators provided by the Group may not necessarily be the same in terms of calculation methods as those provided by
+         other issuers.
+
+Revenue
+
+The Group’s revenue for the year ended 31 December 2019 amounted to RMB13,869,630,000, representing
+an increase of 32.0% as compared to that of 2018, with a significant year-on-year increment. With consumers’
+enhanced confidence in ethnic culture, the Group has explored the brands’ implicit stories and reshaped its brand
+image by effectively incorporating Chinese elements into its products, thus driving a rapid increase in revenue
+from all channels, among which, (a) as the market confidence in the main LI-NING brand has strengthened, the
+sell-through of retail terminal grew by more than 30%, which led to the improvement of the ordering capability
+of distributors and the growth of the wholesale business of LI-NING’s distributors, in addition, businesses such
+as LI-NING YOUNG continued to grow steadily, therefore the revenue generated by the franchised distributors
+recorded a growth of approximately 40%; (b) even with the transfer of certain stores to the distributors, the growth
+of sales revenue from direct operation still increased by 15%, driven by healthy growth in same-store-sales and
+improvement in new store productivity; and (c) the e-commerce channel recorded a growth of approximately 40%
+owing to the rapid attraction of online consumers by leveraging its user-friendly services in recent years and the
+fact that its self-developed “COUNTERFLOW” product series and its diversified product positioning have refined
+the needs of consumer groups. While securing strong revenue growth, the Company will continue to monitor the
+changes in inventory of its channels and maintain it at a reasonable and healthy level.
+
+
+
+
+                                                                       - 17 -
+Revenue breakdown by product category
+
+                                                       Year ended 31 December
+                                                   2019                      2018
+                                                             % of                              % of     Revenue
+                                                             total                             total     Change
+                                             RMB’000      revenue     RMB’000               revenue         (%)
+
+Footwear                                     6,085,402             43.9      4,601,262         43.8        32.3
+Apparel                                      7,109,763             51.2      5,316,033         50.6        33.7
+Equipment and accessories                      674,465              4.9        593,603          5.6        13.6
+
+Total                                       13,869,630            100.0     10,510,898        100.0        32.0
+
+Revenue breakdown (in %) by sales channel
+
+                                                                               Year ended 31 December
+                                                                             2019             2018
+                                                                             % of             % of      Change
+                                                                          revenue          revenue         (%)
+
+PRC market
+  Sales to franchised distributors                                           49.5           46.7            2.8
+  Sales from direct operation                                                26.1           29.8           (3.7)
+  Sales from e-commerce channel                                              22.5           21.1            1.4
+International markets                                                         1.9            2.4           (0.5)
+
+Total                                                                       100.0          100.0
+
+Revenue breakdown by geographical location
+
+                                                       Year ended 31 December
+                                                   2019                      2018                       Revenue
+                                                             % of                              % of      Change
+                                     Note    RMB’000      revenue     RMB’000               revenue         (%)
+
+PRC market
+  Northern region                    1,2     6,886,570             49.7      5,320,312         50.6        29.4
+  Southern region                    1,3     4,954,877             35.7      3,679,935         35.0        34.6
+  South China region                 1,4     1,758,783             12.7      1,261,989         12.0        39.4
+International markets                          269,400              1.9        248,662          2.4         8.3
+
+Total                                       13,869,630            100.0     10,510,898        100.0        32.0
+
+
+
+
+                                                         - 18 -
+Notes:
+
+1.       In 2019, the Group restructured and adjusted its sales system and related organizational structure thus comparative figures have also
+         been restated for consistent presentation purpose.
+
+2.       The Northern region includes provinces, municipalities and autonomous regions covering Beijing, Tianjin, Shanxi, Shandong, Hebei,
+         Inner Mongolia, Henan, Heilongjiang, Jilin, Liaoning, Shaanxi, Gansu, Ningxia, Xinjiang and Qinghai.
+
+3.       The Southern region includes provinces, municipalities and autonomous regions covering Yunnan, Guizhou, Sichuan, Jiangxi,
+         Chongqing, Tibet, Shanghai, Zhejiang, Jiangsu, Hunan, Hubei and Anhui.
+
+4.       The South China region includes provinces, autonomous regions and special administrative regions covering Guangdong, Guangxi,
+         Fujian, Hainan and Macau.
+
+Cost of Sales and Gross Profit
+
+For the year ended 31 December 2019, the overall cost of sales of the Group amounted to RMB7,064,168,000
+(2018: RMB5,458,124,000), and the overall gross profit margin was 49.1% (2018: 48.1%). During the year, the
+Group provided higher percentage of tag price on delivery to franchised distributors due to the increasing brand
+recognition, and there was better sales discount on both new and old products in self-operated channel; moreover,
+the tag-cost-ratio further improved. The aforesaid factors contributed to the increase of 1.0 percentage point in gross
+profit margin compared to last year.
+
+Distribution Expenses
+
+For the year ended 31 December 2019, the Group’s overall distribution expenses amounted to RMB4,445,070,000
+(2018: RMB3,708,446,000), accounting for 32.0% (2018: 35.3%) of the Group’s total revenue.
+
+The percentage of distribution expenses to revenue dropped significantly by 3.3 percentage points during the year.
+While revenue grew significantly, the Group implemented reasonable control over items such as advertising and
+marketing expenses and miscellaneous daily expenses. However, distribution expenses increased as compared to last
+year, which is mainly attributable to: (1) along with the development of the Group’s business, both expenses that
+directly related to sales, such as logistics expenses, variable rentals, commission, wages and bonuses of marketing
+staff and license fees that are linked to part of the income of particular products have all increased in accordance
+with the growth in revenue; (2) the Group focused its channels on refining user’s experience during the year to
+strive to build up trendy and efficient stores, leading to an increase in the asset investments of points of sales and
+corresponding depreciation charges; and (3) the increase in relevant brand promotion fees with a view to building
+up a trendy brand culture image and enhancing brand value.
+
+Administrative Expenses
+
+For the year ended 31 December 2019, the Group’s overall administrative expenses amounted to RMB968,264,000
+(2018: RMB679,873,000), accounting for 7.0% (2018: 6.5%) of the Group’s total revenue with a year-on-year
+increase of 0.5 percentage point. Administrative expenses mainly comprised of staff costs, management consulting
+fees, office rental, depreciation and amortisation charges, technological development fees, taxes and other
+miscellaneous daily expenses.
+
+The increase in administrative expenses is mainly attributable to: (1) in order to further increase operating efficiency
+and enhance supply chain management, the Group successively hired professionals in relevant fields and also
+provided incentives for its personnel holding key positions; (2) with a view to increasing product competitiveness,
+the Group made great efforts in research, development and innovation during the year, leading to a substantial
+increase in technological development fees; (3) the management consulting expenses have increased as a result of
+business expansion; and (4) the Group has made provision for the relevant goodwill impairment of RMB36,394,000
+in aggregate resulting from the realignment of the Group’s overall channel structure. Consequently, the Group’s
+administrative expenses and its percentage to revenue increased as compared to last year.
+
+
+                                                                    - 19 -
+Share of Profit of Investments Accounted for Using the Equity Method
+
+For the year ended 31 December 2019, the Group’s share of profit of investments accounted for using the equity
+method amounted to RMB343,469,000 (2018: RMB63,633,000), among which, the Group shared the one-off gain
+of RMB269,925,000 in relation to the disposal of a land parcel held by Shanghai Double Happiness Co., Ltd. (“Double
+Happiness”) during the year.
+
+Earnings before Interest, Tax, Depreciation and Amortisation (EBITDA)
+
+For the year ended 31 December 2019, the Group’s EBITDA amounted to RMB2,707,649,000 (2018:
+RMB1,252,222,000), representing a year-on-year increase of 116.2%. This was comprised of share of gain of
+RMB269,925,000 in relation to the disposal of a land parcel held by Double Happiness; the provision for goodwill
+impairment of RMB36,394,000 due to the realignment of the Group’s overall channel structure; and the inclusion of
+part of the expenses in depreciation charges and interest expenses, which were originally included in lease expenses
+of RMB405,824,000 under the influence of IFRS 16 Leases, which took effect from 1 January 2019. Without taking
+into consideration of the aforementioned factors, for the year ended 31 December 2019, the Group’s EBITDA
+amounted to RMB2,068,294,000, representing a year-on-year increase of 65.2%. This was mainly attributable to the
+significant increase in revenue, continuous improvement in gross profit margin and profit growth due to reasonable
+control over expenses.
+
+Finance (Expenses)/Income
+
+For the year ended 31 December 2019, the Group’s net finance expenses amounted to RMB30,132,000 (2018:
+finance income of RMB9,511,000). The increase in net finance expenses was mainly due to the recognition of
+interest expenses on the lease liabilities of RMB45,400,000 according to the requirement of IFRS 16 during the
+year. In addition, as evidenced by the proper operation and sufficiency of its own capital, the Group recorded
+a significant growth in interest income as compared to last year, among which interest income from wealth
+management products has been recognised in other income and other gains-net.
+
+Income Tax Expense
+
+For the year ended 31 December 2019, the income tax expense of the Group amounted to RMB357,403,000 (2018:
+RMB135,058,000) and the effective tax rate was 19.3% (2018: 15.9%), while excluding the one-off profit and loss
+not related to operation, the effective tax rate was 22.0%. The effective tax rate remained at a level slightly below
+the standard, which was attributable to the recognition of certain deferred income tax assets during the year.
+
+Overall Profitability Indicators
+
+During the year, the sales revenue and gross profit margin of the Group were both improved, while expense ratio
+decreased and other income and other gains increased, together with a substantial growth in share of profit of
+investments accounted for using the equity method, thus the overall profitability indicators of the Group for the
+year ended 31 December 2019 improved substantially. During the year, the Group’s profit attributable to equity
+holders amounted to RMB1,499,139,000 (2018: RMB715,263,000), representing a year-on-year increase of 109.6%,
+while after excluding the one-off profit and loss not related to operation, the profit attributable to equity holders
+amounted to RMB1,265,608,000, representing a year-on-year increase of 76.9%. The margin of profit attributable
+to equity holders was 10.8% (2018: 6.8%), while after excluding the one-off profit and loss not related to operation,
+the margin of profit attributable to equity holders was 9.1%. The return on equity attributable to equity holders was
+23.2% (2018: 13.1%), while after excluding the one-off profit and loss not related to operation, the return on equity
+attributable to equity holders was 19.9%.
+
+
+
+
+                                                        - 20 -
+Provision for Inventories
+
+The Group’s policy in respect of provision for inventories for 2019 was the same as that in 2018. Inventories of the
+Group are stated at the cost or net realisable value, whichever is lower. In the event that net realisable value falls
+below cost, the difference is taken as provision for inventories. The Group considers that this policy can ensure
+appropriate provision for inventories made by the Group.
+
+As at 31 December 2019, the accumulated provision for inventories was RMB132,687,000 (31 December 2018:
+RMB124,639,000). During the year, the balance of the provision for inventories increased along with the increase
+in gross value of inventories, the growth rate of both of which, however, were lower than that of revenue. The
+Group will continue to monitor the changes in inventory ageing so as to improve the inventory ageing structure.
+
+Provision for Doubtful Debts
+
+The Group’s policy in respect of provision for doubtful debts for 2019 was the same as that in 2018. The provision
+for doubtful debts was recorded at an amount equal to the lifetime expected credit losses of the trade receivables
+that do not contain a significant financing component, and 12 months expected credit losses or lifetime expected
+credit losses of other receivables, depending on whether there has been a significant increase in credit risk since
+initial recognition.
+
+As at 31 December 2019, the accumulated provision for doubtful debts was RMB267,315,000 (31 December
+2018: RMB288,444,000), among which the accumulated provision for doubtful debts of trade receivables was
+RMB258,193,000 (31 December 2018: RMB284,393,000) and the accumulated provision for doubtful debts of other
+receivables was RMB9,122,000 (31 December 2018: RMB4,051,000). The trade receivables and other receivables
+written off during the year as uncollectible amounted to RMB8,871,000 (2018: RMB95,225,000). There was a
+decrease in the gross value of trade receivables with lower provision for doubtful debts.
+
+Liquidity and Financial Resource
+
+T h e G roup’ s net cash from ope ra ting ac tiv i t i es fo r t h e y ear en d ed 31 Decem b er 2019 amo u n t e d t o
+RMB3,503,469,000 (2018: RMB1,671,869,000). As at 31 December 2019, cash and cash equivalents (including
+cash at banks and in hand, and fixed term deposits with original maturity of no more than three months) amounted
+to RMB5,961,445,000, representing a net increase of RMB2,289,903,000 as compared with the position as at 31
+December 2018. The increase was due to the following items:
+
+                                                                                                         Year ended
+                                                                                                   31 December 2019
+Item                                                                                                       RMB’000
+
+Operating activities:
+Net cash generated from operating activities                                                                3,503,469
+Investing activities:
+Net cash used in investing activities                                                                         (573,343)
+Financing activities:
+Net cash used in financing activities                                                                         (648,624)
+
+Add: Exchange gains on cash and cash equivalents                                                                 8,401
+
+Net increase in cash and cash equivalents                                                                   2,289,903
+
+
+
+
+                                                         - 21 -
+As the Group’s cash flow from operating activities improved significantly year-on-year and reasonable investment
+arrangement has been made simultaneously, the utilisation and operation of funds of the Group has become more
+reasonable and efficient.
+
+As at 31 December 2019, the Group’s banking facilities amounted to RMB1,069,700,000, without outstanding
+borrowings.
+
+During the year, the Group did not hedge its exposure to interest rate risks via interest-rate swaps.
+
+Foreign Exchange Risk
+
+The Group’s operations are mainly carried out in the PRC, with most transactions settled in Renminbi. The
+reporting currency of the Group is Renminbi. The Group’s subsidiaries in South Korea and Hong Kong use South
+Korean Won and Hong Kong Dollars as their respective functional currencies. The Group has a small amount
+of cash and bank deposits denominated in Hong Kong Dollars, United States Dollars, Euros and South Korean
+Won. The Company also pays dividends in Hong Kong Dollars. In addition, the Group pays certain license fees,
+sponsorship fees and consultation fees in United States Dollars or Euros.
+
+The Group did not hedge its foreign exchange exposure during the year. Any significant exchange rate fluctuations
+of foreign currencies against Renminbi may have had financial impact on the Group.
+
+Pledge of Assets
+
+As at 31 December 2019 and 31 December 2018, the Group had no pledged assets.
+
+Contingent Liabilities
+
+As at 31 December 2019, the Group had no significant contingent liabilities.
+
+BUSINESS REVIEW
+
+Looking back into 2019, the national economy operated steadily and achieved progress while maintaining stability.
+In particular, the sports consumption market in the PRC remained active and the sports-related industries witnessed
+robust growth. By leveraging the national policies and with support and promotion from governments in the PRC
+at all levels, the potentials of the sports and fitness industry were unleashed at a faster pace and the scale of the
+industry was brought to a new level. With the continuous improvement of the national economic structure and the
+quality of people’s livelihood, the consumption concepts became more mature, which urged the sports consumption
+market to put greater efforts in the development towards a more diversified, professionalized and refined direction
+so as to create more rooms for the development of the sports industry. In view of the increasingly segmented
+sports consumption demand, we remain devoted to create and enhance LI-NING’s experience value. We have
+adopted diversified strategies and approaches to consolidate the advantages of our online and offline platforms
+and strengthen differentiated consumption interactions and services, which has enabled further enhancement of
+consumption experience. We also made use of digital marketing to capture ever-changing consumption related hot
+topics, thereby further promoting our engagement with different consumer groups and hence enhancing the image
+and value of LI-NING brand. During the year, key operational indicators of the Group have been further optimized,
+the Group’s revenue has maintained steady growth and the profitability has improved continuously.
+
+
+
+
+                                                         - 22 -
+During the year, we supported and deepened LI-NING’s experience value comprehensively with products, channels
+and retail capability, and supply chain management remained as our main business focuses and the strategy of
+“Single Brand, Multi-categories, Diversified Channels” continued to be our core development direction. In terms
+of products, we continued to enhance the brand’s professional sports attributes, at the same time we also scale up
+the efforts on research and development in sports technology as well as optimize our product functions so as to
+continuously upgrade the product experience for athletes and sports enthusiasts. Focusing on cultural creativity
+and popular trend, we offered professional sports products with increasingly diversified style based on cultural or
+fashionable elements, thereby providing more consumption choices and more accurate consumption experience
+for consumers and conveying our brand value efficiently. In 2019, we successively attracted consumers through
+multiple approaches, including “China LI-NING”, fashion weeks, collaborations with designers and cross-
+sector crossover, which effectively expanded our consumer groups and further enhanced both our product and
+brand competitiveness. In terms of sales channels, we further optimized our structure of channels with a focus
+on diversified channel development strategies and continued to push ahead the establishment of stores with high
+efficiency and model stores with a view to further unleashing channel efficiency. In terms of retail operation, we
+continued to consolidate and improve the retail operation platform, aiming to enhance the retail operation standards
+of stores and hence improving its retail efficiency. In terms of supply chain, we further established the supply chain
+management system centering on business needs and continued to strengthen our own supply chain capabilities.
+
+Latest trade fair orders and operational update
+
+In terms of tag price, trade fair orders for LI-NING brand products (excluding China LI-NING and LI-NING
+YOUNG) from franchised distributors, which are for the third quarter of 2020, held in December 2019 registered
+a mid-teens growth on a year-on-year basis (this number is being adjusted downward depending on the financial
+impact to these distributors due to the outbreak of the epidemic).
+
+For the fourth quarter ended 31 December 2019, in respect of LI-NING point of sale (“POS”) (excluding LI-
+NING YOUNG) which have been in operation since the beginning of the same quarter of last year, the same-store-
+sales for the overall platform registered a low-twenties growth on a year-on-year basis. In terms of channels, retail
+channel (direct operation) registered a high-teens growth and wholesale (franchised distributors) channel registered
+a mid-teens growth, while the e-commerce virtual stores business registered a low-forties growth on a year-on-year
+basis.
+
+For the fourth quarter ended 31 December 2019, the retail sell-through of LI-NING POS (excluding LI-NING
+YOUNG) for the overall platform increased by mid-thirties on a year-on-year basis. In terms of channels, offline
+channel (including retail and wholesale) registered a mid-thirties growth, with retail channel increased by high-teens
+and wholesale channel increased by low-forties, while the e-commerce virtual stores business registered a low-
+forties growth.
+
+As at 31 December 2019, the total number of LI-NING POS (excluding LI-NING YOUNG) in the PRC amounted
+to 6,449, representing a net decrease of 115 POS since the end of previous quarter and a net increase of 105 POS
+since the beginning of year 2019. Among the net increase of 105 POS, direct retail accounts for a net decrease of
+214 POS, and wholesale accounts for a net increase of 319 POS.
+
+As at 31 December 2019, the total number of LI-NING YOUNG POS in China amounted to 1,101, representing a
+net increase of 175 POS since the end of previous quarter and a net increase of 308 POS since the beginning of this
+year.
+
+
+
+
+                                                        - 23 -
+Deepening the strategy of “Single Brand, Multi-categories, Diversified Channels” with an aim to enhance
+overall efficiency
+
+Enhancing core competitiveness of products and brands by focusing on professional and technological elements,
+as well as enriching the sports lifestyle culture
+
+During the year, we stayed focus on our five core categories, namely basketball, running, training, badminton
+and sports casual. We inherited the brand’s DNA of sports and further built up the professional and technological
+features of our products to optimize product experience. Moreover, we continued to strengthen the sports lifestyle
+and culture elements of our products by focusing on the differentiated features of various product categories
+and properly addressing the individual needs of different channels so as to deeply explore the product’s core
+competitiveness and strengthen the brand value.
+
+For professional products, with a strong focus on innovative technology, we continued to strengthen the knowledge
+and research of sports science and consistently invest and dedicate our efforts in the exploration and application
+of new technologies and new materials. We paid close attention to wearing experience and emphasized the
+complementary effect of our products and technology, thereby creating more targeted technological features for
+different sports and categories. This has not only increased the personalized and professional image of our products,
+but also offered highly professional product experience for sports enthusiasts and professional athletes, thereby
+enhancing LI-NING brand’s competitiveness in mainstream mass sports in China.
+
+–     To enhance the professional attributes with technology, LI-NING running launched its self-developed “LI-NING
+         ” (       ) technology with lightweight and high resilience features, aiming to establish the matrix for
+      world-class professional running shoes. Derived from Chinese character with a connotative meaning of “roaring
+      thunder”, “ ” has a character structure and connotation that imply knowledge of science in traditional
+      Chinese culture and drives the promotion of the products’ technology story. In the second half of the year
+      2019, we launched “Boom” () and “Pegasus” (), which are premium race running shoes under “LI-
+      NING       ” series that are tailor-made for elite athletes. The product series, which has a strong rebounding
+      force as well as more outstanding wear resistance and slip resistance features, has been officially launched
+      after continuous trials, tests and evolutions. The revolutionary product experience can more effectively help
+      athletes to achieve continuous breakthroughs and better results.
+
+–     During the year, the professional category of LI-NING basketball consistently underpinned its leading
+      position in the industry along with rapid growth and development and earned high recognition from the
+      consumers. Incorporating the “LI-NING          ” (         ) technology with lightweight and high resilience
+      features, we launched “Yushuai XIII- ” (XIII—              ) basketball shoes under the core professional series.
+      This new product designed based on the characteristics of basketball games not only retained the outstanding
+      performance of the “Yushuai” series, but also adopted E-PEBAX material of “ ” technology for the sole in
+      full length, which is lighter in weight with higher resilience than traditional EVA materials, at the same time
+      offering high endurance and stability, hence enabling better bouncing force on basketball courts. Moreover,
+      we launched story packs for professional basketball apparel which offers professional solutions for different
+      seasons and scenarios based on the actual functional needs of basketball games. We also provided premium
+      sport equipment for players of CBA League to meet the needs of athletes for professional competitions and
+      such equipment has received positive feedbacks from professional players and the mass market.
+
+
+
+
+                                                        - 24 -
+–     In terms of products of training category, we continued to focus on functional sports products and refine
+      sports segments. We offered distinctive categories of professional products according to sport consumers
+      from different segments to enhance product experience. Based on the characteristics of outdoor sport, we
+      have developed waterproof and windproof protective gears and created a more vivid and professional product
+      image with the use of high-tech props in stores. Icy printing and ice yarn materials are used based on the
+      fabric characteristics and covered more functional products, thereby developing an all-rounded icy product
+      series. We continued to develop our “Dynamic Technology” () product series to offer safe and
+      protective outdoor sports equipment. In respect of the women’s training market with huge potential, we
+      focused on female sports enthusiasts at gyms and launched product story packs such as “Pink Ribbon” (
+      ) and “Fitness Mickey” () featuring feminine elements and crossover collaboration, thereby
+      increasing the influence of our brand among female consumers.
+
+–     Adhering to the product strategy of “professional quality, fashionable design”, the badminton category put
+      great emphasis on the evolution of the star series. Leveraging our sporting resources and the exposure in
+      competitions, the new high-end products have delivered excellent performance. During the year, we released
+      “Tectonic” (), a brand-new technological platform for badminton racket, and successfully created
+      two popular products. Through integration of online and offline marketing and exposure in international
+      events, the popularity and reputation of LI-NING badminton rackets have enhanced continuously. In terms
+      of footwear and apparel, we paid close attention to the design and performance of sponsored products for the
+      national teams as well as the evolution of the star series. “Monkey King” (), a newly launched star series
+      of badminton shoes, adopted new dual bouncing technology to effectively enhance athletes’ kick-off ability.
+      This is our first attempt to use entirely flat outsole design together with multi-direction diamond sole texture
+      design, which effectively strengthened the traction of the product. In addition, “Monkey King” () is the
+      team shoes for the Men’s National Badminton Team of China.
+
+In addition, we continued to enrich the sports lifestyle elements of our products. On the basis of meeting
+consumers’ demand for professional sports, we created the unique sports culture of our brand by diversifying our
+product image and pop culture attributes, so as to demonstrate more vitalized sports value with a younger image.
+During the year, we continued to cooperate with sports stars and developed star products with their endorsements
+by integrating their personal characteristics into our professional products, which received overwhelming response
+from fans and sports enthusiasts. We also paid close attention to the consumption habits and needs amongst
+different consumer groups and gained insight of the cultural creativity and fashion trend, hence exploring the unique
+charisma of traditional culture and developing the exclusive and diversified sports culture system of LI-NING
+brand. By launching customized sports products for youngsters constantly, we have consolidated and enhanced our
+brand influence among young consumer groups.
+
+–     As the high-end product series of LI-NING basketball, the WADE series has sought for gradual
+      transformation riding on the special occasion of Wade’s retirement year. Apart from focusing on high quality,
+      simple design and fans culture, we strived to boost the sales performance of the whole series by adding more
+      fashionable and high-end elements into our product design. Leveraging the enriching product styles, we have
+      launched diversified story-packs of integrated footwear and apparel during the year to attract consumers,
+      among which the products of “White Hot” () and “All City 7” (                   -VII) have received positive
+      feedbacks from the market. We also launched various crossover products with distinctive design under the
+      collaboration with a graffiti artist OG SLICK and American rapper Rick Ross, aiming to develop high-end
+      basketball series with international vision and sustainable growth.
+
+
+
+
+                                                        - 25 -
+–   Regarding basketball culture, we continued to carry out segmentation of our product layout in order to enrich
+    the diversified product style of the “Essence” () series and enhance product innovation. The product
+    series of “BADFIVE” continued to focus on the style of street basketball in China and created various
+    urban-themed series, namely “Too Young To Stay” (), “Chang An Young n Rich” () and
+    “BADFIVE Shanghai” (), by integrating elements of China’s urban culture. We joined hands with
+    “XLARGE” and launched “BADFIVE 1” () professional basketball outfield shoes incorporating the
+    most advanced technology, which gained overwhelming attention once launched and became a hot footwear
+    item of street fashion among key opinion leaders (KOLs).
+
+–   For running culture, we focused on the diversified sports lifestyle and strengthened the development of
+    fashionable jogging product lines targeting the mass market. We paid close attention to the needs for jogging
+    and fashion style, striving to cater to various daily life occasions of different consumers, at the same time
+    creating differentiated and customized products to satisfy the needs of different consumers. Based on the
+    derivative design of professional running shoes, we offered products with aesthetic designs that are more
+    suitable for young consumers, including “Furious Rider ACE” (ACE), “Arc ACE” (               ACE) and “V8”,
+    which adopted a more fashionable appearance design to present Chinese culture in a modernized way. These
+    products have received positive feedbacks by gaining exposure at various platforms, such as the Fashion
+    Weeks.
+
+–   For sports fashion footwear, adapting to rapid changes in the market and new requirements on sports fashion,
+    we constantly launched hot products in line with the fashion trend and promoted such products to the culture
+    circle of sneakers. In response to the Paris Fashion Week, the “Wave Vintage” (VNTG) series, a 1990s
+    retro series adopting a simple classic style, have been launched, which attracted positive response in the
+    domestic market through the show-and-sell approach. “Titan” (), a limited crossover product, has been
+    launched in collaboration with “Atmos”, a renowned Japanese fashion brand, and displayed at “Atmos” shops
+    in Japan, which further enhanced the influence of domestic fashion products on the international fashion
+    stage.
+
+–   With reference to “A Pu” (), the first national official panda character, our sports fashion apparel
+    joined hands with “UPanda” (             ) to launch product packages under the theme of environmental
+    protection, which focused on widely discussed social issues such as “waste sorting”, thereby delivering
+    sense of social responsibility and environmental proposition of LI-NING brand in a way that appeals to the
+    young generation. We also launched a crossover series with reference to “Baoyun Building” (), the
+    youngest and only western building in the Forbidden City. The design of the series incorporated elements of
+    the Forbidden City, striving to promote the charm of Chinese culture to more youngsters. We continued to
+    launch crossover products under the “X-girl” series targeting the female consumption market. Such products
+    promoted women-only product packages under the theme of “Girls Can Do Everything They Want” (
+       ) and incorporated design elements such as “Fire Cherry” () as a tribute to the independence of
+    women.
+
+
+
+
+                                                     - 26 -
+Exploring category personality and continuing to deploy diversified marketing resources
+
+In order to further consolidate our diversified layout of marketing resources, we devoted ourselves to explore the
+characteristics of each category and comprehensively allocated our marketing resources in five major categories,
+including basketball, running, training, badminton and sports casual. Continuous exposure of our professional
+products leveraging sports stars and professional events as well as promotional efforts in tandem with hot topics
+have further scaled up our consumer groups. We drew attention of young consumer groups by continuously
+enriching our marketing resources with entertainment elements allocated to the sports casual category and precisely
+analyzing the fashion trend with our flexible and diversified crossover and digital marketing resources. Under the
+guidance of fashion opinion leaders, we have gained more recognition from mainstream consumers and enhanced
+our brand image and value.
+
+–     In terms of professional basketball, we have launched a series of successful marketing campaigns such as CJ’s
+      China tour by utilizing the outstanding on-court performance of C.J. McCollum, our signed NBA star, and
+      the professional basketball product series endorsed by him, which have increased the synergy effect between
+      fans and consumers. Capitalizing on the continuous exposure in the CBA League, we have fully integrated
+      our CBA League resources and gained public recognition for the professional image of our products and
+      brand. We also promoted the attitude of “Expressing yourselves by playing basketball” (), which
+      resonated with young consumers and resulted in the high popularity of related competition gears, including
+      the competition uniforms (CBA player version) and products under the “All-Star” series. Leveraging the
+      “LI-NING Basketball College” as platform, we have initiated the “3+1” teenager event for young basketball
+      players in the PRC, thereby offering young basketball enthusiasts and their family members with professional
+      experience of the brand and products.
+
+–     In terms of the WADE series for high-end basketball products, we continued to build the influence of
+      Way of Wade series with a focus on Wade 7 basketball footwear. In the second half of the year, the brand
+      representatives and Wade attended the “Complex Con”, an international top-notch fashion exhibition, and
+      launched the new footwear products, namely “Way of Wade 8” (8) and “Way of Wade Infinity” (
+      ), at the exhibition. The new products implied that the end of the career path is the starting point
+      of a new life and signified our due respect for Wade who has retired as a basketball player and is now ready
+      for unlimited possibilities, which also laid a solid foundation for another great success of the Way of Wade
+      series.
+
+–     In order to build a professional image of LI-NING running, we sponsored a marathon event in Hangzhou and
+      introduced “Women’s Force Field” (), a brand new women-themed campaign targeting the female
+      market. Through the integration of this campaign and the Women’s Marathon in Hangzhou, we provided
+      more female runners with an in-depth experience surrounding our products and event, thereby expanding
+      the influence of LI-NING brand in the female market. The products of the “Super Light” () series were
+      redefined by featuring the concept of “Lighten up the World” (). We cooperated with the
+      “Joyrun” () app and kicked off the virtual running event under the theme of “Light Your City”, which
+      has attracted nearly 200,000 runners. The event successfully transformed online traffic into offline customers,
+      which has increased the number of member registration and boosted the sales performance of our products,
+      and hence reinforced and rejuvenated the fan base of the “Super Light” () series, marking yet another
+      iconic and popular series.
+
+
+
+
+                                                        - 27 -
+–   LI-NING training provided sports equipment for the civilians processions during the military parade on the
+    70th National Day of the PRC, ensuring that the preliminary training and the on-site inspection could be
+    completed successfully. Meanwhile, we initiated the “Go with China” (                • ) charity event.
+    Through promotional campaigns in collaboration with athletes, celebrities, KOLs and third-party media,
+    as well as events in offline stores, the charity event was propagated to over ten million people, thereby
+    significantly improving the image and public’s perception of our brand. Delivering the spirit of “Arousing
+    unstoppable military spirits with LI-NING” (                               ), we became the exclusive sports
+    equipment partner of the Chinese delegation of the 7th CISM Military World Games, providing outfits for
+    medalists of all sports disciplines in an effort to facilitate the establishment of a national peace ceremony
+    towards the vision of “Building Friendship through Sports” ().
+
+–   In terms of badminton, to celebrate the tenth anniversary of cooperation with the national team, we continued
+    to convey our product philosophy of “Professional, Fashionable and International” to the public. In 2019,
+    LI-NING badminton consecutively signed up with a number of international top-notch players, such as P.V.
+    Sindhu and Srikanth Kidambi, a female singles player and a male singles player from India, Chan Peng Soon (
+    ) and Goh Liu Ying (), mixed doubles players from Malaysia and Watanabe Yuta (), a
+    male doubles player from Japan, with a view to enriching LI-NING badminton’s layout of internationalization
+    on an ongoing basis. Following P.V. Sindhu’s unprecedented gold medal win for India in the badminton
+    world championship, LI-NING brand emerged as a hot topic in not only the badminton sector, but also the
+    entire sports industry. By launching the “Champion’s Factory” () IP and its peripheral products,
+    and kicking off plentiful engagement activities centering on key competitions, we broke the limits under
+    traditional sales models and imparted a brand new shopping experience for consumers in stores.
+
+–   In terms of cross-over collaboration, we continued our collaboration with “X-girl” in the area of sports
+    fashion and launched PROJECT “LX 0991”, a cross-over project inspired by SNS (Social networking
+    services) and designed to create the loudest noise in tandem with the current market trends, which also serves
+    as a tribute to the fond memories of the early internet era. The “Gymnastics with Mickey” () story-
+    pack introduced under the Disney cross-over series has sparked online discussions. Coupling with the offline
+    “321 Old-fashioned Sports Meeting” (321) activities, this project has fostered great interactions
+    with consumers. Riding on the release of the “Toy Story” movie, we designed unique footwear with
+    inspirations drawn from the iconic characters “Woody” and “Buzz”, which garnered tremendous popularity
+    among fans and young consumers.
+
+–   We gradually deepened marketing campaigns with entertainment and digitalization elements. With great
+    devotion in further developing the fans economy, we cooperated with popular artists and shows in various
+    aspects to tap into various fan bases by leveraging the influence of the artists and transform fans of these
+    artists into fans of our brand. Owing to the thriving reputation of our brand, there are increasing number of
+    collaborating celebrities, including new celebrities with huge number of followers and those arousing heated
+    public discussions. We have also strengthened the cooperation with diverse variety shows and capitalized on
+    the influence of top-tier television channels and online platforms to increase the exposure of our products,
+    with an aim to developing a more diversified entertainment marketing model. Moreover, in order to achieve
+    circle marketing effects, we selected KOL resources which align with our product tonality on top-tier
+    platforms such as Weibo, WeChat and TikTok () and vertical communities such as Xiaohongshu (
+       ) to release customized brand-related contents and form KOL matrix, thereby creating hot topics and draw
+    attention from consumers to our brand and products. By selecting top-edged, reputable and influential fashion
+    media in the industry to work with based on product positioning, we also came up with in-depth authentic
+    output to build brand-related product tonality so as to reach and expand consumer groups in the target level.
+
+
+
+
+                                                     - 28 -
+Deepening the multi-channels strategy and propelling diversified sales channels development
+
+In 2019, the Company upgraded its cooperation policy with retailers in accordance with the direction of retail
+transformation, aiming to attract more quality retailers for cooperation, enhance the efficiency of retail channels
+and, improve the quality of market coverage. The Company accelerated the promotion of diversified sales channels
+development. On the basis of developing conventional shopping streets, department stores and sports cities, the
+Company focused on making breakthroughs in channels with shopping malls and outlets. During the period, the
+Company has achieved strategic cooperation with various large-scale domestic commercial property chain groups to
+open full-category model stores and China LI-NING stores in shopping mall channel, while actively exploring new
+channel types. To enhance channel efficiency and optimize store structures, the Company continued to accelerate
+the closure of loss-making stores, as well as upgrade and improvement of low-efficiency stores.
+
+As at 31 December 2019, the number of conventional stores, flagship stores, China LI-NING stores, factory outlets
+and multi-brand stores under LI-NING brand (including LI-NING Core Brand and LI-NING YOUNG) amounted
+to 7,550, representing a net increase of 413 POS as compared to 31 December 2018. The number of distributors
+was 63 (including sales channels of China LI-NING stores), representing a net increase of 17 as compared to 31
+December 2018. The number of POS breakdown as at 31 December 2019 is as follows:
+
+                                                                                31 December           31 December
+LI-NING Brand                                                                          2019                  2018                 Change
+
+Franchised                                                                               5,157                  4,838                6.6%
+Directly-operated retail                                                                 1,292                  1,506              -14.2%
+LI-NING YOUNG                                                                            1,101                    793               38.8%
+
+Total                                                                                    7,550                  7,137                5.8%
+
+Number of LI-NING Brand POS by geographical location
+
+                                               31 December 2019                            31 December 2018
+                                         LI-NING                                     LI-NING
+                                             Core LI-NING                                Core LI-NING
+Regions                                     Brand YOUNG         Total                   Brand YOUNG                     Total     Change
+
+Northern Region (Note 1)                      3,226           727            3,953       3,269            549           3,818        3.5%
+Southern Region (Note 2)                      2,448           336            2,784       2,351            212           2,563        8.6%
+Southern China Region (Note 3)                  775            38              813         724             32             756        7.5%
+
+Total                                         6,449         1,101            7,550       6,344            793           7,137        5.8%
+
+Notes:
+
+1.       The Northern region includes provinces, municipalities and autonomous regions covering Beijing, Tianjin, Hebei, Shanxi, Inner
+         Mongolia, Shandong, Henan, Heilongjiang, Jilin, Liaoning, Shaanxi, Ningxia, Qinghai, Gansu and Xinjiang;
+
+2.       The Southern region includes provinces, municipalities and autonomous regions covering Shanghai, Jiangsu, Zhejiang, Anhui, Jiangxi,
+         Hubei, Hunan, Chongqing, Sichuan, Yunnan, Guizhou and Tibet;
+
+3.       The Southern China region includes provinces, autonomous regions and special administrative regions covering Guangdong, Guangxi,
+         Fujian, Hainan and Macao.
+
+
+
+
+                                                                    - 29 -
+Enhancing product and retail capability and improving operation efficiency
+
+In 2019, the Company continued to focus on the transformation of its product operation model and the improvement
+of its retail operation management capability with a view to further improving the operation efficiency of sales
+channels.
+
+–    Focusing on the enhancement of product operation management efficiency of single store. The Company
+     further refined the classification of single store based on the brand development direction of promoting
+     both professional sports attributes and fashionable elements, and established a standardized single store
+     product management model as guidance for execution at different sales channels. We have also improved
+     the functions of the single store order management tools so as to realize a single store order model that is
+     consumer-oriented. We pushed ahead with the direct distribution of products to stores, and developed a store
+     replenishment and allocation system based on demand forecast, thereby enhancing the operation efficiency of
+     stores and accelerating the turnover of goods through the automatic management of our systems.
+
+–    Strengthening the management over product sales plan of single store. The Company has established a
+     preliminary product sales plan management system based on single product and single store. The system
+     formulated sales plans and strategies based on every single SKU; and product efficiency was managed based
+     on color and size, which has expedited the decision-making process and effectively increased or decreased
+     the number of orders, thereby enhancing the planning and operation efficiency of product. Moreover, we have
+     established a rolling replenishment platform for stores with longer life cycles based on popular products.
+     Through the demand forecast and flexibility of the supply chain, we have extended the continuous selling
+     cycle and increased the total sales volume of popular products.
+
+–    Formulating the retail operation standard for big stores with high efficiency. In 2019, we have accelerated the
+     formulation and introduction of the strategy of big stores with high efficiency across China. The Company
+     continued to optimize the store operation standards for this kind of stores, adjusted the product assortment
+     and structure, and established an assortment and operation management model that embodies the sporty and
+     trendy image of LI-NING brand. As a results, various operation efficiency indicators such as store efficiency,
+     area efficiency and staff efficiency of the big stores, including flagship stores, model stores and multi-
+     category stores, improved continuously.
+
+–    Establishing a new visual image for the stores. In response to the strategy of big stores with high efficiency,
+     the Company continued to optimize the visual image of stores and further diversified the display of various
+     sporting and living scenarios by way of upgrading the types of props in stores. We promoted the professional
+     and functional features of our running, basketball and training products by adopting high-tech materials and
+     campaigns from multiple dimensions, and managed to enhance the shopping experience regarding lifestyle
+     products by showcasing with fashion matching, fashion weeks and trendy story-packs. Furthermore, we
+     further increased the use of electronic display in stores with close integration of products so as to optimize
+     the product display and promotion via videos and graphic works.
+
+–    Continuing the cultivation of retail talents. In order to reserve and cultivate outstanding retail talents for
+     performance growth, the Company has established and refined the talent cultivation system, designed
+     promotional path, mentoring process and contents with a focus on store-level positions, optimized offline
+     course system as well as performance training evaluation system, and increased the use of on-site teaching.
+     For the purpose of enhancing LI-NING’s training and learning method and building an education-oriented
+     retail organization, we continued to make efforts to improve the online learning platform and the diversity
+     of retailer learning channels by setting up live streaming training channel on We-Media platform. We also
+     intensified our efforts in the building of our retail culture by means of corporate culture learning, sports
+     activities, retail skills competition and others.
+
+
+
+
+                                                       - 30 -
+Strengthening interaction to improve consumers’ experience
+
+In 2019, the Company sustained its focus on consumer research and made further improvements on the way of
+reaching out to consumers, which continuously and effectively enhanced consumers’ retail experience.
+
+–    Continuously enhancing interactions with consumers at stores. Leveraging on events such as “Way of Wade
+     Tour China” (), “3+1” Basketball League (                3+1), store activities for CBA fans, pop-up
+     stores and sales of limited edition products, the Company interacted with consumers at store level, which has
+     increased the number of new members and the traffic at stores. Meanwhile, we have increased consumers’
+     exposure to our products by letting them to experience the props and setting up new promotion and display
+     zone for individual product in stores. We also launched the promotion and sales of products at stores through
+     enhanced interactions on online platforms such as WeChat, Weibo and TikTok (), introduction of
+     interactive games, cross-over cooperation and attractive gifts.
+
+–    Pushing ahead with the establishment of digital stores and new retail attempts continuously. We set up
+     independent visitors, heat map of customer flow, commodity touching assessment and other digital devices as
+     well as back-end computing system at stores, giving us insights on consumers’ portraits at stores, based on
+     which we analyzed the behavior and demand of consumers as well as closely followed the performance on
+     the individual product. We also commenced the establishment of a middle-end data platform for integrating
+     information such as data in respect of retail, members and product operation. With the support of the big
+     data, we managed to improve our efficiency and performance by enhancing the decision-makings in relation
+     to optimization of product assortment, retail circulation layout, retail display method and sales services in
+     stores.
+
+–    Promoting the development of omni-channel business consistently. In 2019, we completed the upgrade and
+     transformation of the omni-channel system, through which we have successfully consolidated the POS from
+     distributors into our omni-channel business structure. The Company unceasingly tapped into new retail
+     aspects and achieved borderless provision of services and sales in all scenarios by leveraging platforms and
+     tools such as LBS (Location Based Service), WeChat Store () and TikTok ().
+
+–    Facilitating membership’s expansion and marketing. Adhering to the operational value chain with
+     “members” as the core, the Company recorded significant increase in both number of members and their
+     sales contribution in 2019. We strived to accelerate the integration of distribution membership system by
+     integrating the online and offline systems into the omni-channel membership system. Moreover, we have
+     expanded the sources of data collection on consumers to enrich member profiles, thereby managed to
+     establish our preliminary data operation platform, laying a solid foundation for precise marketing across all
+     business segments of the Group. The seamless connection of online and offline systems will complement each
+     other with a view to providing a smooth experience for the members when completing the related services via
+     the intelligent system in collaboration with the physical stores.
+
+
+
+
+                                                      - 31 -
+Strengthening construction of logistics supporting capacity
+
+In 2019, the Company focused on building and optimizing the logistics operation system of “Precise, Swift and
+Efficient”, thus providing differentiated and refined logistics service support in line with the requirement of relevant
+business sectors for its principal business and each business division through the application of logistic network
+resources and platform capability.
+
+–     Accelerating the speed of all processes including forward and reverse logistics as well as deployment and
+      turnover of goods and following the instruction of the goods management team, thereby achieving prompt
+      response, flexible delivery and rapid turnover of products. Through the enhancement of operation efficiency
+      and the great synergy from planning for upstream and downstream of the supply chain, we have realized
+      direct delivery and rapid replenishment from the central warehouse to various types of stores across China,
+      which is conducive to the implementation of efficient goods operational management and effective goods
+      turnover of the Company.
+
+–     Strengthening the logistics support for operation of retail stores. During the year, the Company placed strong
+      emphasis on formulating targeted logistics services and supporting plans for big stores with high efficiency
+      with a view to enhancing the logistics operation efficiency of such stores, demonstrating and utilizing their
+      overall advantages and resources to improve both store and customer experience.
+
+–     Supporting the rapid development of O2O business. Currently, all warehouses are equipped with operation
+      capacity for B2B and B2C models, and are hence able to satisfy the sales demand online and offline
+      simultaneously in various peak seasons and holidays. Meanwhile, we continued to improve the online and
+      offline integrated operation model, and enhanced the omni-channel coverage of self-operated retail and
+      franchised business, thereby enhancing channel inventory utilization whilst better catering to consumers’
+      demand, and thus created benefits for the Company.
+
+Influence of the e-commerce platform further enhanced with consistent emphasis on products and consumption
+experience
+
+In 2019, the e-commerce of Li Ning Company continued to grow under fierce competition with further increase in
+terms of both revenue and profitability.
+
+During the year, we continued to develop the “Counterflow- ” series on the e-commerce platform, an independent
+product line with a focus on middle-to-high-priced sports footwear and apparel featuring both sporty lifestyle and
+Chinese culture elements. Popular products including “ALIEN”, “Glass” (       ), “Space Jump” () and “Cornice
+Brackets” () have been launched and achieved satisfactory sales performance and positive market
+reputation accordingly, hence boosted sales growth continuously and further solidified and expanded our consumer
+base, which has in turn enhanced our brand influence and the brand value of Li-Ning.
+
+During the year, the e-commerce of Li Ning Company continued to work aggressively on the enhancement of
+in-shop visual experience, the implementation of marketing campaigns and the promotion of events with great
+significance, while making efforts to enhance product reputation and brand value on a continuous basis by
+participating in New York/Paris Fashion Weeks, the launch of “LI-NING ” (             ) high-tech running shoes
+and significant marketing events relating to the WADE series. Meanwhile, the e-commerce of Li Ning Company
+has made bold attempts and breakthroughs in the field of live streaming with a view to continually optimizing
+consumption experience and creating phenomenal consumption events. Among all sport brands on the Tmall
+platform, the annual live streaming duration, the number of viewers and user interaction of Li-Ning brand were
+taking the lead in the industry.
+
+
+
+
+                                                         - 32 -
+Looking forward, leveraging the online and offline synergies, the e-commerce of Li Ning Company will be
+committed to facilitating the upgrade of product competitiveness and consumption experience by stepping up
+the efforts in ladder-structured team building and making breakthroughs in potential markets for women’s wear
+and kidswear, so as to develop a high-calibre team with excellent management capabilities and product operation
+efficiency.
+
+Optimization of the precise, flexible and efficient supply chain system
+
+In 2019, the Company’s supply chain system provided vigorous support for the Company’s needs for business
+development. In pursuit of a “Precise, Flexible and Efficient” supply chain, the Company continued to improve
+the responsiveness and elasticity of supply chain by further promoting the “Demand-driven” business model, at the
+same time continuing to optimize the supply chain resources, thereby fostering a positive and dynamic supply chain
+platform.
+
+–     During the year, based on the business development strategy, the Company consolidated and evaluated
+      its supply chain resources with an emphasis on customized and differentiated product demands. It also
+      strengthened the synergistic cooperation with its suppliers in a bid to enhance its competitive advantages. The
+      Company aligned its strategic needs and the characteristics of the suppliers with its synergistic resources plan,
+      which has ensured efficient and precise allocation of its supply chain resources.
+
+–     The Company has established a quality management community with suppliers to control quality and risks
+      at an earlier stage and maintain control throughout the production process, aiming to complete all production
+      tasks with high quality and efficiency. Meanwhile, it continued to intensify its efforts in product innovation
+      and research and development, at the same time established cooperation with quality suppliers with greater
+      emphasis on the results of innovation and research and development, hence enhancing the productivity of the
+      supply chain through innovative technology.
+
+–     In respect of cost management, the Company continued to implement stringent cost planning and practiced the
+      concept of cost control and management on all areas ranging from design, development to various production
+      stages with a view to driving optimization and upgrade of cost structure with concerted efforts. Meanwhile,
+      the Company continued to tighten the requirements on labour, occupational health and environmental
+      protection to ensure sustainable development.
+
+–     To ensure rapid growth of new businesses, based on diversified business development needs and with an
+      aim to enhance efficiency and improve product competitiveness, the Company made optimized allocation of
+      supplier resources in the industry to improve layout of supply chain resources and network. Meanwhile, the
+      Company continued to work diligently on the establishment of its own supply chain system. The footwear
+      production plant that we leased in Nanning, Guangxi Province of the PRC has commenced production during
+      the year, which is committed to gradually instilling the core industrial capabilities into LI-NING’s system
+      over time, which has hence strengthened its own supply chain management and application of technological
+      research and development knowledge, and further promoted the establishment of a precise and swift supply
+      chain system.
+
+
+
+
+                                                        - 33 -
+NEW BUSINESS
+
+LI-NING YOUNG
+
+2019 is a year of steady development for LI-NING YOUNG, during which it continued to focus on better satisfying
+consumer needs with its products, and pushed forward the development of the retail operation model. It also
+strengthened the work in relation to the building of visual system of retail stores, and continued to optimize its
+business management standards and working procedures with an aim to establish a professional brand image for
+kids’ sportswear and gradually enhance the brand influence.
+
+–    In respect of products, with a focus on the consumers’ mainstream demands, the Company progressively
+     optimizes the storylines of its products by launching core story-packs in order to promote the sales
+     contribution of products as a whole from both marketing and retail levels. A more accurate product hierarchy
+     and product structure have been implemented with refined management of product assortment based on the
+     climatic characteristics and consumption habits of different regions, through which the Company would
+     be able to meet diversified consumers’ demands, promote precise investment of product, improve the
+     performance of store level and enhance product efficiency. In light of the distinctive features of different
+     regions, the Company has stepped up its efforts in the planning and development of accessories with a view
+     to exploring new business opportunities and promoting continuous business growth.
+
+–    We laid out quality supply chain resources and continued to improve the supply chain system exclusively
+     for kidswear business. By managing and controlling the development cost and enhancing product efficiency,
+     we consolidated our production processes and resources advantages to ensure product quality, optimize
+     production procedures and facilitate efficiency enhancement.
+
+–    For channel development, we utilized the shopping mall and clearance channels to promote diversified
+     channel establishment, and adjusted the strategy for channel development based on the market demand at
+     different levels. We placed emphasis on the expansion and planning of core channels to ensure adequate
+     space for and maximize the effectiveness of product display. We have also stepped up our efforts in store
+     upgrade to improve the images of the stores and the brand, so as to enhance efficiency of the stores.
+
+–    For brand marketing, we continued to optimize the digital marketing matrix including Weibo, WeChat and
+     TikTok () official accounts. Meanwhile, by leveraging various promotional channels such as KOL in
+     maternity and childcare field, sportsman, celebrities and partners, we have delivered real-time information on
+     brand news and new product launch and interacted with our consumers with a view to enhancing customer
+     loyalty. By the “3+1” youth basketball league organized by the Group, LI-NING YOUNG has built a
+     professional image of sport equipment supplier and advocated the charisma and spirit of sports by conveying
+     the philosophy of braving challenges and growing healthily through professional competition platforms,
+     aiming to build up the brand image and enhance brand recognition by giving full play of our brand values.
+
+As of 31 December 2019, LI-NING YOUNG business covered 29 provinces, municipalities and autonomous
+regions with a total of 1,101 stores. Looking forward, we will continue to devote great efforts to explore market
+demands and carry out product categorization with products as the core aspect. Consistent efforts will be devoted
+in channel expansion, retail operations and supply chain resources. Meanwhile, we will optimize the resources-
+oriented business model with refined management with a view to fostering positive business development and
+ensuring stable business growth.
+
+
+
+
+                                                      - 34 -
+HUMAN RESOURCES
+
+In 2019, based on its strategic focus, the Company formulated targeted human resources strategy and continued to
+optimize the organisation, incentive, talent management and corporate cultural system to cater to business needs.
+
+–    Regarding organisational development, the Company improved product team building, optimized the
+     organisation of product categories, strengthened our research and development and organizational capacity, as
+     well as continued to optimize the organisation of LI-NING YOUNG and e-commerce business.
+
+–    In terms of talent management, the Company actively explored and recruited talents to drive business
+     transformation and focused on the improvement and development of the overall capability of staff so as to
+     nurture teams of talent within the Company.
+
+–    In terms of remuneration and benefits, in line with the changes of business model, the Company optimized
+     the incentive sharing system by focusing its resources on staff incentives. As such, incentive resources
+     have been redirected towards staff in core positions that is able to drive performance growth and enhance
+     organizational capabilities, thereby encouraging staff to create value with their job positions.
+
+–    Regarding culture and staff relationship, the Company improved its business and culture management system
+     and continued to optimize its welfare schemes and career development system, aiming to further develop the
+     core values of the Company, improve staff satisfaction and engagement and increase its staff’s sense of honor
+     and mission.
+
+In the future, we will optimize our organisational efficiency and accelerate the development of talent teams with
+the aim of achieving sustainable growth of the Company and enhancing sustainable profitability. In addition,
+our assessment and incentive mechanism will be adjusted based on short-term goals and medium- and long-term
+strategic plans to reinforce the nurturing of retail talents. We will effectively manage the investments in human
+resources, while continuing to strengthen our organisational capacity, strictly manage and control the number
+of staff and enhance the overall performance and efficiency of staff so as to give full support to the Company’s
+strategic goal.
+
+As at 31 December 2019, the Group had 3,783 employees (31 December 2018: 2,412 employees), among which 3,610
+employees were at the Group’s headquarter and retail subsidiaries (31 December 2018: 2,233 employees), and 173
+employees were at other subsidiaries (31 December 2018: 179 employees).
+
+
+
+
+                                                      - 35 -
+OUTLOOK
+
+Stepping into 2020, which marks the 30th anniversary of establishment of LI-NING brand, we will stay committed
+to the guiding strategy of “Single Brand, Multi-categories, Diversified Channels”, strengthen and improve the
+following core business focuses, remain devoted to create LI-NING’s experience value, and focus on improving
+products and enhancing efficiency in order to achieve healthy and sustainable profit growth for the Company in the
+future:
+
+–     In respect of products, we will keep track of hot topics to provide more inspiration for the integration
+      of cultural element and creativity with professional sports attributes. We will also keep abreast of the
+      fashion trend to increase the fashionable elements in our professional sports products so as to attract more
+      consumer groups and expand our brand influence. Moreover, we will increase our investment in research
+      and development in relation to sports science to enhance the technological features of our professional sports
+      products, which will in turn improve the wearing and usage experience of consumers and constantly enhance
+      our product competitiveness;
+
+–     In respect of channel development, we will continue to focus on enhancing the efficiency of our sales
+      channels, further promoting the diversified development of our sales channels and progressively implementing
+      the strategy of stores with high efficiency and model stores. Meanwhile, with a view to refining the structure
+      of sales channels, we will continue to reform or close down inefficient and loss-making stores;
+
+–     Optimization of retail operation platform and supply chain management system remain as one of our major
+      tasks. We will optimize the retail experience in stores, improve the standards of store operation and improve
+      store management ability. We will also continue to explore new retail businesses, as well as strengthen
+      and improve the online and offline integrated operation mode. Meanwhile, we will step up our efforts in
+      establishing the supply chain management system to continue enhancing the capability in terms of our own
+      supply chain management and research and development regarding application of technology and knowledge;
+
+–     In respect of marketing, we will make full use of digitalization to further strengthen our comprehensive
+      marketing layout both online and offline. Based on actual consumption demand, we will strive to precisely
+      capitalize on current hot topics to create and lead the market trend, at the same time strengthening the
+      interaction with consumers to enhance their recognition and loyalty to our brand and increase our brand
+      value; and
+
+–     In respect of new business, enhancing single store profitability will remain as our major development goal.
+      We will make reasonable and prudent use of resources to explore business opportunities and potential
+      markets, in order to foster new opportunities for the Company’s profit growth in the long run.
+
+Along with the sound economic and social development as well as the steady growth of national income, there
+emerges growing demand for high-quality and diversified products in respect of physical and mental health and
+living quality. Sports consumption becomes widely accepted by the general public and increasingly mature,
+fostering rapid development of the sports industry. Driven by the accelerated development trend, the sports industry
+has achieved breakthroughs and advancement continuously with every brand devoted greater efforts to enhance
+brand competitiveness by focusing on interaction with consumers. As a national brand focusing on professional
+sports sector for 30 years, our development witnessed the up-and-down of the industry and constantly embraced
+new starting points. Under the strong support of the macro national policies, we will take up challenges with great
+enthusiasm and focus on our products. We will place emphasis on the professional attributes to enhance product
+and brand competitiveness and optimize LI-NING’s experience value with an aim to provide full momentum for
+the Company’s development in the long run. Looking forward, we will remain pragmatic in making every move
+and devote our main resources into gaining sports knowledge, technological research and development, as well as
+proactively explore and broaden room for business development.
+
+
+
+
+                                                       - 36 -
+The raging outbreak of COVID-19 at the beginning of 2020 has greatly affected people’s livelihood and travelling
+plans as well as market order. The operation and financial performance of both the industry and the Group have
+also been affected inevitably, posing severe challenges for the overall outlook for 2020. Facing the current situation
+of the epidemic, we are still not in the position to estimate the ultimate impact of the spread of virus on the society,
+the economy and the Group’s operation. However, since the outbreak of the epidemic, the Group has been closely
+monitoring the trend of the epidemic and market conditions and promptly responded to the emergencies by leading
+all employees to join hands to “fight against the epidemic” and minimize the impact of the epidemic. We believe
+that people will become more concern about their health and physical exercise after this epidemic, hence more
+potentials of the industry will be released and we are still fully confident about the Group’s development in the
+long run.
+
+PURCHASE, SALE OR REDEMPTION OF THE COMPANY’S SHARES
+
+The Company did not redeem any of its shares during the year ended 31 December 2019. Except for the purchase
+of shares by the trustee of the Restricted Share Award Scheme pursuant to the trust deed and the rules of Restricted
+Share Award Scheme, neither the Company nor any of its subsidiaries had purchased or sold any of the Company’s
+shares during the year.
+
+CORPORATE GOVERNANCE
+
+The Company is committed to upholding a high standard of corporate governance by continued review and
+enhancement of its corporate governance practices, which enables the Company to keep abreast of the corporate
+governance level oriented to its business needs in a timely and effective manner. During the year ended 31
+December 2019, the Company has complied with the code provisions of the Corporate Governance Code (“Code
+Provisions”) contained in Appendix 14 to the Rules Governing the Listing of Securities on The Stock Exchange
+of Hong Kong Limited (“Listing Rules”), except for the following deviation with considered reason as explained
+below.
+
+According to paragraph A.2.1 of the Code Provisions, the roles of the chairman and chief executive of a listed
+issuer should be separate and should not be performed by the same individual. Mr. Li Ning, the Executive
+Chairman of the Company, assumed the role of interim chief executive officer (“CEO”) of the Company during the
+period from 1 January 2019 to 1 September 2019 as the Company has not yet identified a suitable candidate to be
+the CEO. Upon the appointment of Mr. Kosaka Takeshi as an executive Director and the joint CEO of the Company
+(“Joint CEO”) with effect from 2 September 2019, Mr. Li Ning has been re-designated as the Joint CEO on the
+same date. Therefore, there was no separation of the roles of the chairman and the chief executive as both roles are
+undertaken by Mr. Li Ning during the year. Notwithstanding the above, the Board is of the view that given that
+Mr. Li has been the interim CEO of the Company for more than seven years prior to the appointment of the Joint
+CEO and is familiar with the business operations and management of the Group, the assumption of the roles of
+Executive Chairman and Joint CEO by Mr. Li Ning will provide the Group with consistent and steady leadership,
+and is particularly beneficial to the planning and implementation of the Group’s business strategies. The Board also
+believes that Mr. Li Ning and Mr. Kosaka Takeshi will complement with each other in performing the roles of the
+Joint CEOs, and the current arrangement will create synergy effect which is in the interest of the Company and its
+shareholders as a whole.
+
+Details of the corporate governance practices of the Company will be set out in the Corporate Governance Report
+contained in the 2019 annual report of the Company.
+
+AUDIT COMMITTEE
+
+The Audit Committee of the Company, consisting of three independent non-executive directors, has reviewed the
+accounting principles and practices adopted by the Group, and has also reviewed auditing, internal control and
+financial reporting matters, including the review of the annual results for the year ended 31 December 2019.
+
+
+
+                                                         - 37 -
+ANNUAL GENERAL MEETING
+
+The AGM of the Company will be held at 11:00 am on Friday, 12 June 2020.
+
+The notice of the AGM will be despatched to the shareholders together with the 2019 annual report of the Company
+on or around 21 April 2020 and published on the website of the Company (http://ir.lining.com) and the “HKExnews”
+website of The Stock Exchange of Hong Kong Limited (www.hkexnews.hk).
+
+                                                                                              By order of the Board
+                                                                                           Li Ning Company Limited
+                                                                                                     Li Ning
+                                                                                             Executive Chairman and
+                                                                                           Joint Chief Executive Officer
+
+Hong Kong, 26 March 2020
+
+As at the date of this announcement, the executive directors of the Company are Mr. Li Ning, Mr. Kosaka Takeshi and Mr. Li Qilin. The
+independent non-executive directors of the Company are Mr. Koo Fook Sun, Louis, Ms. Wang Ya Fei, Dr. Chan Chung Bun, Bunny and Mr.
+Su Jing Shyh, Samuel.
+
+
+
+
+                                                               - 38 -
+

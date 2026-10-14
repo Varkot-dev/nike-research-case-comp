@@ -1,0 +1,634 @@
+{
+ "source": "hts.usitc.gov reststop search, HTS 2026 Revision 21 (current, released 2026-10-09), fetched 2026-10-14",
+ "rows": [
+  {
+   "htsno": "6104.63.20",
+   "description": "Other",
+   "general": "28.2%",
+   "footnotes": []
+  },
+  {
+   "htsno": "6104.63.20.06",
+   "description": "Containing 5 percent or more by weight of elastomeric yarn or rubber thread (648)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6104.63.20.11",
+   "description": "Other (648)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6104.63.20.16",
+   "description": "Containing 5 percent or more by weight of elastomeric yarn or rubber thread (237)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6104.63.20.21",
+   "description": "Other (237)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6104.63.20.26",
+   "description": "Containing 5 percent or more by weight of elastomeric yarn or rubber thread (648)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6104.63.20.28",
+   "description": "Other (648)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6104.63.20.30",
+   "description": "Women's (648)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6104.63.20.50",
+   "description": "Imported as parts of play suits (237)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6104.63.20.60",
+   "description": "Other (648)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6109.10.00",
+   "description": "Of cotton",
+   "general": "16.5%",
+   "footnotes": []
+  },
+  {
+   "htsno": "6109.10.00.04",
+   "description": "T-shirts, all white, short hemmed sleeves, hemmed bottom, crew or round neckline, or V-neck with a mitered seam at the center of the V, without pockets, trim or embroidery (352)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6109.10.00.07",
+   "description": "Singlets, all white, without pockets, trim or embroidery (352)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6109.10.00.11",
+   "description": "Thermal undershirts (352)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6109.10.00.12",
+   "description": "Men's (338)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6109.10.00.14",
+   "description": "Boys' (338)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6109.10.00.18",
+   "description": "Men's (338)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6109.10.00.23",
+   "description": "Boys' (338)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6109.10.00.27",
+   "description": "Other (338)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6109.10.00.37",
+   "description": "Underwear (352)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6109.10.00.40",
+   "description": "Women's (339)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6109.10.00.45",
+   "description": "Girls' (339)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6109.10.00.60",
+   "description": "Women's (339)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6109.10.00.65",
+   "description": "Girls' (339)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6109.10.00.70",
+   "description": "Other (339)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6110.30.30",
+   "description": "Other",
+   "general": "32%",
+   "footnotes": []
+  },
+  {
+   "htsno": "6110.30.30.05",
+   "description": "Boys' and girls' garments imported as parts of playsuits (237)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6110.30.30.10",
+   "description": "Men's (645)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6110.30.30.15",
+   "description": "Boys' (645)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6110.30.30.20",
+   "description": "Women's (646)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6110.30.30.25",
+   "description": "Girls' (646)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6110.30.30.30",
+   "description": "Men's or boys' (659)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6110.30.30.35",
+   "description": "Women's or girls' (659)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6110.30.30.41",
+   "description": "Men's (638)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6110.30.30.44",
+   "description": "Boys' (638)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6110.30.30.45",
+   "description": "Women's or girls' (639)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6110.30.30.51",
+   "description": "Knit to shape articles described in statistical note 6 to this chapter (638)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6110.30.30.53",
+   "description": "Other (638)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6110.30.30.57",
+   "description": "Knit to shape articles described in statistical note 6 to this chapter (639)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6110.30.30.59",
+   "description": "Other (639)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6114.30.30",
+   "description": "Other",
+   "general": "14.9%",
+   "footnotes": []
+  },
+  {
+   "htsno": "6114.30.30.12",
+   "description": "Containing 23 percent or more by weight of wool orfine animal hair (459)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6114.30.30.14",
+   "description": "Other (659)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6114.30.30.20",
+   "description": "Boys' (237)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6114.30.30.30",
+   "description": "Women's or girls' (237)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6114.30.30.42",
+   "description": "Containing 23 percent or more by weight of wool or fine animal hair (459)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6114.30.30.44",
+   "description": "Other (659)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6114.30.30.52",
+   "description": "Containing 23 percent or more by weight of wool or fine animal hair (459)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6114.30.30.54",
+   "description": "Other (659)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6114.30.30.60",
+   "description": "Men's or boys' (659)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6114.30.30.70",
+   "description": "Women's or girls' (659)",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6402.91.90",
+   "description": "Valued over $12/pair",
+   "general": "20%",
+   "footnotes": []
+  },
+  {
+   "htsno": "6402.91.90.05",
+   "description": "Tennis shoes, basketball shoes, gym shoes, training shoes and the like",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6402.91.90.10",
+   "description": "Work footwear",
+   "general": null,
+   "footnotes": []
+  },
+  {
+   "htsno": "6402.91.90.35",
+   "description": "Other",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6402.91.90.45",
+   "description": "Work footwear",
+   "general": null,
+   "footnotes": []
+  },
+  {
+   "htsno": "6402.91.90.65",
+   "description": "Other",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6402.91.90.95",
+   "description": "Other",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6402.99.31",
+   "description": "Other",
+   "general": "6%",
+   "footnotes": []
+  },
+  {
+   "htsno": "6402.99.31.10",
+   "description": "House slippers",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6402.99.31.15",
+   "description": "Tennis shoes, basketball shoes, gym shoes, training shoes and the like",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6402.99.31.35",
+   "description": "Work footwear",
+   "general": null,
+   "footnotes": []
+  },
+  {
+   "htsno": "6402.99.31.45",
+   "description": "Other",
+   "general": null,
+   "footnotes": []
+  },
+  {
+   "htsno": "6402.99.31.55",
+   "description": "Work footwear",
+   "general": null,
+   "footnotes": []
+  },
+  {
+   "htsno": "6402.99.31.65",
+   "description": "Other",
+   "general": null,
+   "footnotes": []
+  },
+  {
+   "htsno": "6402.99.31.73",
+   "description": "For infants, as described in statistical note 2 to this chapter",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6402.99.31.77",
+   "description": "Other",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6402.99.90",
+   "description": "Valued over $12/pair",
+   "general": "20%",
+   "footnotes": []
+  },
+  {
+   "htsno": "6402.99.90.05",
+   "description": "Tennis shoes, basketball shoes, gym shoes, training shoes and the like",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6402.99.90.35",
+   "description": "For men",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6402.99.90.65",
+   "description": "For women",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6402.99.90.95",
+   "description": "Other",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6403.99.90",
+   "description": "Valued over $2.50/pair",
+   "general": "10%",
+   "footnotes": [
+    "See 9903.41.10. ",
+    "See 9903.90.08. "
+   ]
+  },
+  {
+   "htsno": "6403.99.90.05",
+   "description": "House slippers",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6403.99.90.15",
+   "description": "Work footwear",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6403.99.90.21",
+   "description": "With pigskin uppers",
+   "general": null,
+   "footnotes": []
+  },
+  {
+   "htsno": "6403.99.90.31",
+   "description": "Other",
+   "general": null,
+   "footnotes": []
+  },
+  {
+   "htsno": "6403.99.90.41",
+   "description": "Other tennis shoes, basketball shoes, and the like",
+   "general": null,
+   "footnotes": []
+  },
+  {
+   "htsno": "6403.99.90.55",
+   "description": "With pigskin uppers",
+   "general": null,
+   "footnotes": []
+  },
+  {
+   "htsno": "6403.99.90.65",
+   "description": "Other",
+   "general": null,
+   "footnotes": []
+  },
+  {
+   "htsno": "6403.99.90.71",
+   "description": "Other",
+   "general": null,
+   "footnotes": []
+  },
+  {
+   "htsno": "6404.11.20",
+   "description": "Having uppers of which over 50 percent of the external surface area (including any leather accessories or reinforcements such as those mentioned in note 4(a) to this chapter) is leather",
+   "general": "10.5%",
+   "footnotes": [
+    "See 9903.41.10. "
+   ]
+  },
+  {
+   "htsno": "6404.11.20.30",
+   "description": "For men",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6404.11.20.60",
+   "description": "For women",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6404.11.20.71",
+   "description": "Other",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6404.11.90",
+   "description": "Valued over $12/pair",
+   "general": "20%",
+   "footnotes": []
+  },
+  {
+   "htsno": "6404.11.90.10",
+   "description": "Ski boots, cross country ski footwear and snowboard boots",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6404.11.90.20",
+   "description": "Other",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6404.11.90.40",
+   "description": "Ski boots, cross country ski footwear and snowboard boots",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6404.11.90.50",
+   "description": "Other",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6404.11.90.70",
+   "description": "Ski boots, cross country ski footwear and snowboard boots",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6404.11.90.80",
+   "description": "Other",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6404.19.90",
+   "description": "Valued over $12/pair",
+   "general": "9%",
+   "footnotes": []
+  },
+  {
+   "htsno": "6404.19.90.30",
+   "description": "For men",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6404.19.90.60",
+   "description": "For women",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "6404.19.90.90",
+   "description": "Other",
+   "general": "",
+   "footnotes": []
+  },
+  {
+   "htsno": "9903.05.28",
+   "description": "Except for products described in headings 9903.05.85\u20139903.05.92 and 9903.06.02\u20139903.06.03, articles the product of Cambodia, as provided for in U.S. note 52 to this subchapter",
+   "general": "The duty provided in the applicable subheading + 10%",
+   "footnotes": [
+    " See chapter 99 statistical note 1.\u00a0 "
+   ]
+  },
+  {
+   "htsno": "9903.05.31",
+   "description": "Except for products described in headings 9903.05.85\u20139903.05.92, articles the product of China, as provided for in U.S. note 52 to this subchapter",
+   "general": "The duty provided in the applicable subheading + 12.5%",
+   "footnotes": [
+    " See chapter 99 statistical note 1. "
+   ]
+  },
+  {
+   "htsno": "9903.05.45",
+   "description": "Except for products described in headings 9903.05.85\u20139903.05.92 and 9903.06.16\u20139903.06.17, articles the product of Indonesia, as provided for in U.S. note 52 to this subchapter",
+   "general": "The duty provided in the applicable subheading + 10%",
+   "footnotes": [
+    " See chapter 99 statistical note 1. "
+   ]
+  },
+  {
+   "htsno": "9903.05.84",
+   "description": "Except for products described in headings 9903.05.85\u20139903.05.92, articles the product of Vietnam, as provided for in U.S. note 52 to this subchapter",
+   "general": "The duty provided in the applicable subheading + 12.5%",
+   "footnotes": [
+    " See chapter 99 statistical note 1. "
+   ]
+  },
+  {
+   "htsno": "9903.41.10",
+   "description": "Footwear with outer soles of leather and uppers wholly or in part of leather, and footwear with outer soles of rubber or plastics and uppers having an exterior surface area predominantly of leather, the foregoing provided for in chapter 64, except (a) slip-on footwear of a type not suitable for outdoor use, without backs or backstraps, having outer soles with a thickness of less than 5 mm and with less than 20 mm difference between the thickness of the bottom at the ball of the foot and at the heel, and (b) footwear which is designed for a sporting activity and has, or has provision for, attached spikes, sprigs, stops, clips, bars or the like, and skating boots, ski-boots and cross-country ski footwear, wrestling boots, boxing boots and cycling shoes",
+   "general": "40%",
+   "footnotes": [
+    "See chapter 99 statistical note 1."
+   ]
+  },
+  {
+   "htsno": "9903.88.15",
+   "description": "Except as provided in headings 9903.88.39, 9903.88.42, 9903.88.44, 9903.88.47, 9903.88.49, 9903.88.51, 9903.88.53, 9903.88.55, 9903.88.57, 9903.88.65, 9903.88.66, 9903.88.67, 9903.88.68, or 9903.88.69, articles the product of China, as provided for in U.S. note 20(r) to this subchapter and as provided for in the subheadings enumerated in U.S. note 20(s)",
+   "general": "The duty provided in the applicable subheading + 7.5%",
+   "footnotes": [
+    " See chapter 99 statistical note 1. "
+   ]
+  }
+ ]
+}

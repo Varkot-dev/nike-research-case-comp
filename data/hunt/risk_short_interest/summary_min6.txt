@@ -1,0 +1,42 @@
+
+All record prints, SI>=6.0% of shares: n=135 tickers=21
+   13d excess vs SPY: median   -0.4%  mean    0.3%  short wins 69/128  squeeze(>+15%) 6  (>+25%) 2
+   21d excess vs SPY: median   -0.8%  mean    0.6%  short wins 68/128  squeeze(>+15%) 8  (>+25%) 5
+   63d excess vs SPY: median   -2.1%  mean    0.4%  short wins 65/118  squeeze(>+15%) 26  (>+25%) 15
+  126d excess vs SPY: median   -9.6%  mean   -4.7%  short wins 62/92  squeeze(>+15%) 14  (>+25%) 11
+  252d excess vs SPY: median   -4.8%  mean   -6.3%  short wins 39/69  squeeze(>+15%) 13  (>+25%) 13
+
+Episode starts: n=28 tickers=21
+   13d excess vs SPY: median    0.9%  mean    2.8%  short wins 13/28  squeeze(>+15%) 4  (>+25%) 2
+   21d excess vs SPY: median   -1.9%  mean    2.3%  short wins 15/28  squeeze(>+15%) 4  (>+25%) 3
+   63d excess vs SPY: median   -7.8%  mean   -0.9%  short wins 18/27  squeeze(>+15%) 6  (>+25%) 5
+  126d excess vs SPY: median  -11.5%  mean   -6.6%  short wins 18/25  squeeze(>+15%) 3  (>+25%) 3
+  252d excess vs SPY: median  -19.3%  mean  -14.5%  short wins 12/18  squeeze(>+15%) 2  (>+25%) 2
+
+Episode starts with stock >=40% below 3y high: n=19 tickers=14
+   13d excess vs SPY: median    2.3%  mean    4.7%  short wins 7/19  squeeze(>+15%) 4  (>+25%) 2
+   21d excess vs SPY: median    0.7%  mean    4.0%  short wins 9/19  squeeze(>+15%) 4  (>+25%) 3
+   63d excess vs SPY: median   -8.0%  mean    1.1%  short wins 12/19  squeeze(>+15%) 5  (>+25%) 5
+  126d excess vs SPY: median  -12.2%  mean   -5.1%  short wins 13/17  squeeze(>+15%) 2  (>+25%) 2
+  252d excess vs SPY: median  -19.3%  mean  -16.0%  short wins 9/12  squeeze(>+15%) 1  (>+25%) 1
+
+All record prints with stock >=40% below 3y high: n=94 tickers=15
+   13d excess vs SPY: median   -0.2%  mean    0.6%  short wins 46/89  squeeze(>+15%) 6  (>+25%) 2
+   21d excess vs SPY: median   -0.3%  mean    1.3%  short wins 45/89  squeeze(>+15%) 8  (>+25%) 5
+   63d excess vs SPY: median   -2.1%  mean    1.9%  short wins 43/84  squeeze(>+15%) 25  (>+25%) 15
+  126d excess vs SPY: median  -11.5%  mean   -4.3%  short wins 47/67  squeeze(>+15%) 12  (>+25%) 10
+  252d excess vs SPY: median   -7.3%  mean   -6.9%  short wins 32/52  squeeze(>+15%) 12  (>+25%) 12
+
+All record prints, days to cover < 4: n=48 tickers=13
+   13d excess vs SPY: median   -1.0%  mean    0.3%  short wins 26/44  squeeze(>+15%) 3  (>+25%) 1
+   21d excess vs SPY: median   -2.0%  mean    0.7%  short wins 25/44  squeeze(>+15%) 3  (>+25%) 2
+   63d excess vs SPY: median   -1.7%  mean    1.2%  short wins 21/41  squeeze(>+15%) 11  (>+25%) 6
+  126d excess vs SPY: median   -6.1%  mean   -9.1%  short wins 25/33  squeeze(>+15%) 3  (>+25%) 2
+  252d excess vs SPY: median   -4.8%  mean   -1.3%  short wins 12/23  squeeze(>+15%) 7  (>+25%) 7
+
+All record prints, dd<=-40 and dtc<4 (Nike-like): n=46 tickers=12
+   13d excess vs SPY: median   -1.1%  mean    0.2%  short wins 25/42  squeeze(>+15%) 3  (>+25%) 1
+   21d excess vs SPY: median   -2.0%  mean    0.7%  short wins 24/42  squeeze(>+15%) 3  (>+25%) 2
+   63d excess vs SPY: median   -2.5%  mean    0.8%  short wins 21/39  squeeze(>+15%) 11  (>+25%) 6
+  126d excess vs SPY: median   -6.1%  mean   -9.4%  short wins 24/31  squeeze(>+15%) 3  (>+25%) 2
+  252d excess vs SPY: median   -4.8%  mean   -1.3%  short wins 12/23  squeeze(>+15%) 7  (>+25%) 7
