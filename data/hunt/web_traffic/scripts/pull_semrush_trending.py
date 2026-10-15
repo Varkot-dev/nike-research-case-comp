@@ -1,11 +1,11 @@
 """Semrush 'trending websites' public pages: per country and category, top-100 domains with total_traffic, mom, yoy (embedded window.__PRELOADED_STATE__).
 URL: https://www.semrush.com/trending-websites/<cc>/<category>. Page shows only the latest month (no date parameter works).
-Run: python3 -I pull_semrush_trending.py <out.csv> <date_tag>
+Run: python3 -I pull_semrush_trending.py <out.csv> <unused> [countries csv] [categories csv]   (global file used: global  sporting-goods,apparel-and-fashion,retail,all,sports)
 """
 import csv, json, sys, time, urllib.request
 OUT=sys.argv[1]; UA="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/120 Safari/537.36"
-CC=["us","de","gb","jp","cn","fr","it","es","nl","kr","au","ca","br","mx","pl","se","tw","in"]
-CAT=["sporting-goods","apparel-and-fashion","retail","e-commerce","consumer-goods"]
+CC=sys.argv[3].split(",") if len(sys.argv)>3 else ["us","de","gb","jp","cn","fr","it","es","nl","kr","au","ca","br","mx","pl","se","tw","in"]
+CAT=sys.argv[4].split(",") if len(sys.argv)>4 else ["sporting-goods","apparel-and-fashion","retail","e-commerce","consumer-goods"]
 w=csv.writer(open(OUT,"w",newline="")); w.writerow(["country","category","data_month","rank_in_page","domain","total_traffic","desktop_pct","mom_pct","yoy_pct","category_total_traffic","category_total_mom"])
 for cat in CAT:
   for cc in CC:

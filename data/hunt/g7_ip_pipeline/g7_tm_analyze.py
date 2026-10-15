@@ -156,3 +156,26 @@ with open("g7_tm_leadlag_first_use.csv", "w", newline="") as f:
     for k in sorted(ll):
         v = ll[k]; w.writerow(list(k) + [len(v), st.median(v), round(100*sum(1 for x in v if x > 0)/len(v), 1)])
 print("extra ok")
+
+# ---- same-period (Jan 1 - Sep 30) comparison so 2026 YTD needs no annualization ----
+sp = collections.defaultdict(collections.Counter)
+for co in COS:
+    seenx = set()
+    for r in sorted(data[co], key=lambda x: x["filedDate"]):
+        fd = r["filedDate"]; y = int(fd[:4]); wm = (r.get("wordmark") or "").strip().lower()
+        newn = bool(wm) and wm not in CORE[co] and wm not in seenx
+        if wm: seenx.add(wm)
+        if fd[5:10] > "09-30": continue
+        c = sp[(co, y)]; c["apps"] += 1
+        cl = classes(r)
+        if 25 in cl: c["cl25"] += 1
+        if "1b" in basis(r, "originalBasis"): c["itu_1b"] += 1
+        if "1b" in basis(r, "originalBasis") and 25 in cl: c["itu_1b_cl25"] += 1
+        if newn and 25 in cl: c["new_product_names_cl25"] += 1
+        if newn and 25 in cl and "1b" in basis(r, "originalBasis"): c["itu_new_product_names_cl25"] += 1
+with open("g7_tm_same_period_jan_sep.csv", "w", newline="") as f:
+    w = csv.writer(f); k = ["apps","cl25","itu_1b","itu_1b_cl25","new_product_names_cl25","itu_new_product_names_cl25"]
+    w.writerow(["company","year_jan_sep"] + k)
+    for co in COS:
+        for y in YRS: w.writerow([co, y] + [sp[(co, y)][x] for x in k])
+print("same-period ok")
