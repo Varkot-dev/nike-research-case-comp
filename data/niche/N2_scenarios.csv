@@ -1,0 +1,10 @@
+scenario,market_band,CY24_wh_sellin_usd_m,CY24_implied_partner_sellthrough_usd_m,CY24_cum_sellin_minus_sellthrough_usd_m,CY24_gap_pct_of_sellin,CY25_wh_sellin_usd_m,CY25_implied_partner_sellthrough_usd_m,CY25_cum_sellin_minus_sellthrough_usd_m,CY25_gap_pct_of_sellin
+S0 no share change,low,7067,7291,-224,-3.2,7341,7474,-133,-1.8
+S0 no share change,mid,7067,7564,-496,-7.0,7341,7912,-571,-7.8
+S0 no share change,high,7067,7660,-592,-8.4,7341,8119,-778,-10.6
+S1 Euromonitor avg -2.7%/yr,low,7067,7094,-27,-0.4,7341,7076,265,3.6
+S1 Euromonitor avg -2.7%/yr,mid,7067,7360,-292,-4.1,7341,7490,-150,-2.0
+S1 Euromonitor avg -2.7%/yr,high,7067,7453,-385,-5.5,7341,7687,-346,-4.7
+S2 -5%/yr,low,7067,6927,141,2.0,7341,6745,596,8.1
+S2 -5%/yr,mid,7067,7186,-118,-1.7,7341,7140,200,2.7
+S2 -5%/yr,high,7067,7277,-209,-3.0,7341,7328,13,0.2
