@@ -13,18 +13,18 @@ All files are in `data/hunt/g7_ip_pipeline/` (scripts, raw pulls, CSVs). Re-run 
 **Smoking gun for the short: NO.** The IP pipeline does not show a thin FY28 pipeline. It shows the opposite on the one measure that is visible in real time, and flat on the measure that is delayed.
 
 1. **Trademarks (visible through Sep 30, 2026, OPENED, DERIVED).** Nike filed 47 US trademark applications in Jan to Sep 2026, against 15 in the same months of 2025 and 10 in 2024. Of the 2026 filings, 42 are intent-to-use (Section 1(b)) filings, which are the only filings that precede launch. Intent-to-use filings for new class 25 product names (footwear and apparel) were 21 in Jan to Sep 2026 versus a prior maximum of 7 in the same months of any year 2012 to 2025 (2018 and 2022). The USPTO-wide count of class 25 applications rose 13.7% in the same period, so this is not a general filing surge (Section 4.4).
-2. **Patents (visible only for filings up to about 2023 to 2024, OPENED, DERIVED).** Nike's footwear design grants run at 482 per year (2024 to 2026 annualized) against 518 per year in 2017 to 2019 (+7.9%, and the 2017 base is a one-year outlier of 665). Footwear utility applications published are down 17.8% (295 to 254 per year). Design filings by filing year (2023: 553; 2024: 516 so far) are inside the 2017 to 2022 range of 427 to 725. No collapse.
-3. **Peers are catching up in IP, which is the only part that supports the short.** Nike's share of the Nike-plus-peer-set total fell from 91.6% to 81.5% for footwear design grants, 89.1% to 70.9% for footwear utility grants and 85.0% to 64.7% for footwear utility applications (2017 to 2019 versus 2024 to 2026, Section 5.3). The cause is peer growth from small bases (the six footwear peers together went from 55 to about 184 design grants per year), not a Nike decline: Nike still files 3.3 times the six peers combined in footwear designs. Share loss measures competitive intensity, not a missing pipeline.
-4. **Abandonments do not show a cull of the footwear pipeline.** 16 Nike applications were abandoned in 2024 to Sep 2026 (7, 4, 5), 11 of them virtual-goods or software marks filed in 2021 to 2023 (classes 9, 41, 42). Only 6 abandonments touched class 25 (Section 6).
-5. **The premise needs a correction.** Nike's trademark filings do not lead launches by 12 to 24 months. Among 45 Nike class 25 intent-to-use filings (2012 to 2023) that later declared a first-use date, the median gap from filing to first use is 78 days (interquartile range -220 to +246 days). Many Nike names are filed after launch (VAPORFLY was filed 2025-04-29 under Section 1(a); ZOOMX and ALPHAFLY likewise). So the 2026 intent-to-use surge speaks to product that ships in roughly the next 3 to 12 months (late FY27 to FY28), which is consistent with the long case that a rebuild reaches shelves in FY28. Design patents give a longer lead but cannot be seen for 2025 to 2026 filings (Section 5.4).
+2. **Patents (visible only for filings up to about 2023 to 2024, OPENED, DERIVED).** Nike's footwear design grants average 559.5 per year in 2024 to 2026 (2026 annualized) against 518.3 in 2017 to 2019 (+7.9%; the 2017 value of 665 is a one-year outlier, and against a 2018 to 2019 base of 445 the gain is +25.7%). Footwear utility grants are +8.9% (250.7 to 272.9 per year). Footwear utility applications published are down 17.8% (295.3 to 242.7 per year) and all utility applications published are down 24.0% (448.7 to 341.1). Design filings by filing year (2023: 553; 2024: 516 so far) are inside the 2015 to 2022 range of 427 to 725. No collapse in designs; a decline in published utility applications.
+3. **Peers are catching up in IP, which is the only part that supports the short.** Nike's share of the Nike-plus-peer-set total fell from 91.6% to 81.5% for footwear design grants, 89.1% to 70.9% for footwear utility grants and 85.0% to 64.7% for footwear utility applications (2017 to 2019 versus 2024 to 2026, Section 5.3). The cause is peer growth from small bases (the six footwear peers' footwear design grants went from 47.7 to 127.1 per year), not a Nike decline: Nike still has 4.4 times the six peers combined in footwear design grants (559.5 / 127.1; it was 10.9 times in 2017 to 2019). Share loss measures competitive intensity, not a missing pipeline.
+4. **Abandonments do not show a cull of the footwear pipeline.** 16 Nike applications were abandoned in 2024 to Sep 2026 (7, 4, 5). 12 of the 16 carry class 9, 41 or 42 goods (virtual goods and services marks filed 2019 to 2023). 6 touch class 25 and only 3 are class 25 only (ZION, BO KNOWS, FOREVER KING) (Section 6).
+5. **The premise needs a correction.** Nike's trademark filings do not lead launches by 12 to 24 months. Among 45 Nike class 25 intent-to-use filings (2012 to 2023) that later declared a first-use date, the median gap from filing to first use is 78 days (interquartile range -220 to +246 days). Many Nike names are filed after launch (VAPORFLY was first used 2017-07-20 and filed 2025-04-29 under Section 1(a); NIKE ZOOMX and ALPHAFLY likewise). So the 2026 intent-to-use surge speaks to product that ships in roughly the next 3 to 12 months (late FY27 to FY28), which is consistent with the long case that a rebuild reaches shelves in FY28. Design patents give a longer lead but cannot be seen for 2025 to 2026 filings (Section 5.4).
 
-**What this means for the pitch (financial framing).** IP counts cannot be converted into revenue, so this note does not move any EPS number. It removes one tempting short argument ("the pipeline is empty") and adds one data-backed concern (peers file more and more). Labelled arithmetic: FY26 revenue is $46,398M and FY26 Nike Brand footwear is $29,525M (`data/nike_filing_facts.csv`, FY2026 10-K). A single $100M franchise (the repo's innovation note records Vomero 18 reaching "$100 million-plus" in about 90 days, status REPO-NOTE) is 0.22% of FY26 revenue (DERIVED: 100 / 46,398), so a revenue recovery needs on the order of 14 such franchises per +3 points of growth (DERIVED: 0.03 x 46,398 / 100). The 21 new class 25 names filed in 2026 and the 10 filed in Q4 2025 are the candidate count; whether they reach that scale is not decidable from IP data.
+**What this means for the pitch (financial framing).** IP counts cannot be converted into revenue, so this note does not move any EPS number. It removes one tempting short argument ("the pipeline is empty") and adds one data-backed concern (peers file more and more). Labelled arithmetic: FY26 revenue is $46,398M and FY26 Nike Brand footwear is $29,525M (`data/nike_filing_facts.csv`, FY2026 10-K). A single $100M franchise (the repo's innovation note records Vomero 18 reaching "$100 million-plus" in about 90 days, status REPO-NOTE) is 0.22% of FY26 revenue (DERIVED: 100 / 46,398), so a revenue recovery needs on the order of 14 such franchises per +3 points of growth (DERIVED: 0.03 x 46,398 / 100). The 21 new class 25 names filed in Jan to Sep 2026 and the 10 filed in calendar 2025 are the candidate count; whether they reach that scale is not decidable from IP data.
 
 ---
 
 ## 2. What was counted
 
-- **Trademarks:** USPTO Trademark Search backend (the TESS successor, `tmsearch.uspto.gov`), index of 13.3M case files loaded through 2026-10-01 (OPENED). Application counts by filing date, year 2012 to 2026 (2026 = Jan 1 to Sep 30). Owners matched by owner name: Nike (Nike, Inc. and variants, Nike USA, BRS Inc.; 541 case files filed 2005 to 2026), adidas (adidas AG, adidas International Marketing B.V.), On (On Clouds GmbH, On AG), Deckers (Deckers Outdoor Corp, UGG Holdings; Hoka is a Deckers brand and cannot be split except by the 15 HOKA-named marks), New Balance (New Balance Athletics, New Balance Athletic Shoe), ASICS (ASICS Corp, ASICS Tiger, ASICS America), Puma (Puma SE, Puma AG Rudolf Dassler Sport), Lululemon (Lululemon Athletica Canada and Inc.). Converse and Jordan Brand: Jordan marks are filed by Nike, Inc. and are included; Converse Inc. is a separate owner and is excluded for Nike and all peers' sub-brands that file under other entities.
+- **Trademarks:** USPTO Trademark Search backend (the TESS successor, `tmsearch.uspto.gov`), index of 13.3M case files loaded through 2026-10-01 (OPENED). Application counts by filing date, year 2012 to 2026 (2026 = Jan 1 to Sep 30). Owners matched by owner name: Nike (Nike, Inc. and variants, Nike USA, BRS Inc.; 541 case files filed 2005 to 2026), adidas (adidas AG, adidas International Marketing B.V.), On (On Clouds GmbH, On AG), Deckers (Deckers Outdoor Corp, UGG Holdings; Hoka is a Deckers brand and cannot be split except by the 15 HOKA-named marks), New Balance (New Balance Athletics, New Balance Athletic Shoe), ASICS (ASICS Corp, ASICS Tiger, ASICS America), Puma (Puma SE, Puma AG Rudolf Dassler Sport), Lululemon (Lululemon Athletica Canada and Inc.). Jordan Brand marks are filed by Nike, Inc. and are included. Converse Inc. is a separate legal owner and is excluded (not pulled).
 - **Nike Innovate C.V.:** zero US trademark records under that owner name (checked by owner name and full owner text) and 13 patent documents listing it (2015 to 2019). All other Nike IP sits under Nike, Inc.
 - **Classes:** class 25 (footwear, apparel, headwear) versus classes 9 and 42 (software), with 18, 28, 35 and 41 reported in the CSV. A footwear-goods flag inside class 25 is derived from the goods text (Nike class 25 filings: 2026 Jan to Sep, 31 of 31 contain a footwear term; this flag is loose because the terms list includes socks and insoles).
 - **Patents:** USPTO Patent Public Search (`ppubs.uspto.gov`, anonymous JSON API, OPENED): granted utility (kind B1, B2), granted design (S) and published applications (A1), by publication year 2012 to 2026 (through 2026-10-13, 0.784 of the year), assignee or applicant name containing the company name. Footwear split: utility = CPC A43B or A43C; design = USPC main class D2/89x to D2/99x excluding socks, cross-checked by title words (they disagree on 0 to 13 documents per year, column in CSV).
@@ -39,7 +39,7 @@ All files are in `data/hunt/g7_ip_pipeline/` (scripts, raw pulls, CSVs). Re-run 
 | Index completeness: USPTO-wide applications by filing year vs USPTO's own scale | 2019: 497,971 case files; 2020: 665,731; 2024: 597,075; consistent with the known post-2020 surge (OPENED, `g7_uspto_wide_control_jan_sep.csv` and the histogram run) |
 | Owner totals vs Trademarkia owner pages (SECONDARY mirror of USPTO data) | Nike Inc. 969 (Trademarkia) vs 989 (mine, all years, phrase "Nike, Inc."); adidas AG 395 vs 398; On Clouds 143 vs 147; Deckers 234 vs 245; New Balance Athletics 211 vs 210; ASICS Corp 810 vs 808. Within about 4% |
 | Five 2026 Nike serials (AIR RIFT 99722241, HYPERJOGGER 99722287, SWOOSHFLY 99826570 and others) found on a second site | Serial numbers confirmed on Trademarkia search pages (OPENED) |
-| Patent rows pulled vs independent count queries (4 companies x 5 years x 3 kinds, 60 cells) | 56 of 60 cells identical; 4 cells differ by 1 to 10 documents, all on published applications (kind codes A2, A9 and corrections are counted by the count query but not by my A1 pull), `g7_pat_verify_counts.csv` |
+| Patent rows pulled vs independent count queries (4 companies x 5 years x 3 kinds, 60 cells) | 54 of 60 cells identical; 6 cells differ by 1 to 10 documents, all on published applications, where my pull has more rows than the A1 count query because it also keeps kinds A2 and A9 (so published-application counts are overstated by up to about 3% in those cells), `g7_pat_verify_counts.csv` |
 | Nike design grants 2025 | 654 by count query "S" kind = 654 rows pulled |
 
 ---
@@ -98,7 +98,7 @@ On the pipeline-relevant measures (the last two rows) Nike holds its share again
 
 ### 4.3 What the 2026 names are (OPENED, `tm_raw_Nike.jsonl`)
 
-New intent-to-use class 25 names filed Jan to Sep 2026 (21): TECH FLEECE, CA, RADICAL AIRFLOW, AF1, CH, B9, AIR RIFT, NSW, HYPERJOGGER, HYPERJACKET, TOMA, SWOOSHFLY, S.T. DYNAMITE, HYBRID RN, HYBRID FLY, NIKE PRO, NIKE FREE IQ, S.T. CHARGE, GOATEK, ACG PICKLEJUS, FLIGHTKNIT. Filed Q4 2025 (10 in the same list, the ones that are new names with 1(b) basis): ALL VICTORIES START WITH TRAINING, NIKE MAVN, MAVN, NIKE MIND, PB and others (see CSV). Some are apparel or code names, not footwear franchises. Of Nike's 47 filings Jan to Sep 2026, a batch of core-brand extensions (NIKE, SWOOSH, JUST DO IT in classes 14 and 16, ACG across 9 classes, NIKE GRIND in 28/27/19) inflates the total count and is excluded from the "new names" metric above. This is why "all applications" overstates the signal and the new-name row is the one to quote.
+New intent-to-use class 25 names filed Jan to Sep 2026 (21): TECH FLEECE, CA, RADICAL AIRFLOW, AF1, CH, B9, AIR RIFT, NSW, HYPERJOGGER, HYPERJACKET, TOMA, SWOOSHFLY, S.T. DYNAMITE, HYBRID RN, HYBRID FLY, NIKE PRO, NIKE FREE IQ, S.T. CHARGE, GOATEK, ACG PICKLEJUS, FLIGHTKNIT. Filed in calendar 2025 (10): PROTRO, AERONODES, FLYWEB, CC, FOREVER KING, ALL VICTORIES START WITH TRAINING, NIKE MAVN, MAVN, NIKE MIND, PB. Some are apparel, slogans or code names, not footwear franchises. Of Nike's 47 filings Jan to Sep 2026, a batch of core-brand extensions (NIKE, SWOOSH, JUST DO IT in classes 14 and 16, ACG across 9 classes, NIKE GRIND in 28/27/19) inflates the total count and is excluded from the "new names" metric above. This is why "all applications" overstates the signal and the new-name row is the one to quote.
 
 ### 4.4 Alternatives tested for the 2026 surge
 
@@ -106,7 +106,7 @@ New intent-to-use class 25 names filed Jan to Sep 2026 (21): TECH FLEECE, CA, RA
 |---|---|---|
 | General USPTO filing surge | USPTO-wide class 25 applications Jan to Sep: 2025 48,003; 2026 54,578 | +13.7% market-wide vs Nike class 25 +114% (14 to 30) and new-name intent-to-use +320% (5 to 21). Ruled out as the main driver |
 | Core-brand extension batches | Remove house marks and non-class-25 | Surge survives (21 new names vs max 7). Batch filings explain part of the 47 total, not the new-name count |
-| Re-filing of lapsed names | Names first-seen test since 2005 | HYPERVENOM, PHANTOM and BO KNOWS are re-filings of older names; they are excluded from "new" by the first-seen test only if filed before. BO KNOWS was abandoned (no statement of use, 2026-01-05) and re-filed 2025-12-01. Small effect (2 to 3 names) |
+| Re-filing of lapsed names | First-seen test against all Nike filings since 2005 | HYPERVENOM, PHANTOM and BO KNOWS (abandoned 2026-01-05, re-filed 2025-12-01) are re-filings and are automatically excluded from the 21 new names. Effect on the 21: nil |
 | Pull-forward of use-based filings | Count only intent-to-use | Done; the metric is intent-to-use only |
 | Filing-practice change to trade dress | Design-only (no word) share of Nike filings: 2021 13 of 27, 2022 7 of 30, 2026 9 of 48 | No shift. Ruled out |
 | Nike Innovate C.V. holding marks instead of Nike, Inc. | Owner-name search | Zero records; ruled out |
@@ -116,7 +116,7 @@ New intent-to-use class 25 names filed Jan to Sep 2026 (21): TECH FLEECE, CA, RA
 (OPENED, DERIVED, `g7_tm_leadlag_first_use.csv`, `tm_raw_Nike.jsonl`.)
 
 - Nike class 25 intent-to-use filings 2012 to 2023 with a declared first-use date: n = 45, median first use minus filing = +78 days, quartiles -220 and +246 days, 64% filed before first use. So the lead is about 2.6 months at the median, not 12 to 24 months.
-- Use-based (1(a)) filings are made after launch: VAPORFLY filed 2025-04-29, ALPHAFLY 2020-08-17, ZOOMX/NIKE ZOOMX 2025-07-07, FLYKNIT 2012-03-30 (OPENED). HYPERADAPT and LUNAREPIC were never registered as US word marks at all (zero records), so trademark counts miss some Nike product names entirely.
+- Use-based (1(a)) filings are made after launch (first-use date in the USPTO record, OPENED): VAPORFLY first used 2017-07-20, filed 2025-04-29; NIKE ZOOMX first used 2019-04-28, filed 2025-07-07; ALPHAFLY first used 2020-02-26, filed 2020-08-17. Even FLYKNIT, filed as intent-to-use, was filed 2012-03-30, 38 days after its 2012-02-21 first use. HYPERADAPT and LUNAREPIC have zero US word-mark records at all, so trademark counts miss some Nike product names entirely.
 - Consequence: trademark counts can only say that something is queued for the next 3 to 12 months. They cannot say what ships in FY28 (June 2027 to May 2028) beyond filings made through about Q1 2027. Jan to Sep 2026 filings map to late FY27 and FY28 H1, which is inside the window.
 
 ### 4.6 Software marks (classes 9 and 42)
@@ -147,7 +147,7 @@ Nike filed 12 (2021), 10 (2022) and 6 (2023) class 9 or 42 applications (the vir
 | 2025 | 586 | 39 | 13 | 20 | 1 | 10 | 30 | 3 | 113 | 83.5% |
 | 2026 (to Oct 13) | 378 | 21 | 13 | 27 | 2 | 37 | 13 | 1 | 113 | 76.8% |
 
-Nike's 2017 value (665 versus 388 to 502 around it) is a one-year spike (a batch of grants; cause not visible in the data). Using 2018 to 2019 only as the base, Nike footwear design grants 2024 to 2026 annualized (482) are +8.3% against 445.
+Nike's 2017 value (665 versus 388 to 502 around it) is a one-year spike (a batch of grants; the cause is not visible in the data). Using a 2018 to 2019 base of 445 per year instead of 2017 to 2019 (518.3), the 2024 to 2026 average of 559.5 is +25.7% instead of +7.9%.
 
 ### 5.2 Footwear utility patents (CPC A43B or A43C), granted and published applications (DERIVED)
 
@@ -164,23 +164,22 @@ Nike's 2017 value (665 versus 388 to 502 around it) is a one-year spike (a batch
 | 2025 | 272 | 118 | 69.0% | 199 | 133 | 59.1% |
 | 2026 (to Oct 13) | 176 | 93 | 65.0% | 199 | 104 | 65.0% |
 
-(Shares use Nike plus six footwear peers; the CSV also gives the seven-peer version, which differs by under 1 point.)
+(Shares use Nike plus all seven peers; Lululemon adds under 10 footwear documents a year, and the CSV gives the six-peer version, which differs by about 1 point.)
 
 ### 5.3 Change 2024 to 2026 vs 2017 to 2019 (DERIVED, `g7_pat_change_2024_26_vs_2017_19.csv`, `g7_pooled_share_2017_19_vs_2024_26.csv`)
 
-Per-year averages (2026 annualized by 1 / 0.784):
+Per-year averages; the 2024 to 2026 average is (2024 + 2025 + 2026 annualized by 1 / 0.784) / 3:
 
-| Measure | Nike 2017 to 2019 | Nike 2024 to 2026 | Nike change | Six footwear peers change |
-|---|---|---|---|---|
-| Footwear design grants | 518.3 | 482.4 | +7.9% on the CSV base of 518.3 as stated; see note below | +166.6% |
-| Footwear utility grants | 250.7 | 224.6 | +8.9% | +257% |
-| Footwear utility apps published | 295.3 | 254.0 | -17.8% | +143% |
-| All utility apps published | 448.7 | 352.2 | -24.0% | +86% |
-| All design grants | 628.0 | 536.0 | -1.6% | +173% |
+| Measure | Nike 2017 to 2019 | Nike 2024 to 2026 | Nike change | Six footwear peers: 2017 to 2019 | Six peers: 2024 to 2026 | Six peers change |
+|---|---|---|---|---|---|---|
+| Footwear design grants | 518.3 | 559.5 | +7.9% | 47.7 | 127.1 | +166.6% |
+| Footwear utility grants | 250.7 | 272.9 | +8.9% | 30.7 | 109.6 | +257.3% |
+| Footwear utility apps published | 295.3 | 242.7 | -17.8% | 52.0 | 126.6 | +143.4% |
+| All utility apps published | 448.7 | 341.1 | -24.0% | 87.3 | 162.7 | +86.3% |
+| All utility grants | 420.7 | 371.3 | -11.7% | 63.3 | 142.3 | +124.8% |
+| All design grants | 628.0 | 618.0 | -1.6% | 55.0 | 150.3 | +173.2% |
 
-Note on the first two rows: the CSV column "change_pct_vs_2017_19" computes the 2024 to 2026 three-year mean including the annualized 2026 value of the footwear design count, giving +7.9%. The simple comparison of the two averages in the table above is 482.4 / 518.3 - 1 = -6.9%. The CSV percentage is on a different weighting (it averages 2024, 2025 and annualized 2026 as (610 + 586 + 482.4) / 3 = 559.5, not the 482.4 shown here, which is the annualized 2026 value alone). The correct three-year average for 2024 to 2026 is therefore 559.5 per year, +8.0% on 518.3, and the correct utility-grant figure is (322 + 272 + 224.6) / 3 = 272.9, +8.9%. Read the CSV, not the 2024 to 2026 column in this table, for footwear design and utility grants. The footwear published-application decline (-17.8%) and the total utility declines use the same CSV method and are right as shown in the CSV.
-
-Pooled shares (same-length windows, no annualization): Nike footwear design grants 91.6% to 81.5% (-10.1 pp); footwear utility grants 89.1% to 70.9% (-18.2 pp); footwear utility apps published 85.0% to 64.7% (-20.3 pp).
+Pooled shares (same-length windows, no annualization; 2026 to Oct 13 for Nike and peers alike): Nike footwear design grants 91.6% to 81.5% (-10.1 pp); footwear utility grants 89.1% to 70.9% (-18.2 pp); footwear utility apps published 85.0% to 64.7% (-20.3 pp).
 
 ### 5.4 The pipeline for FY28 is mostly invisible in patents (right-censoring)
 
@@ -190,7 +189,7 @@ Pooled shares (same-length windows, no annualization): Nike footwear design gran
 
 ### 5.5 Patent output per revenue dollar (DERIVED, `g7_nike_ip_intensity.csv`; revenue from `data/nike_filing_facts.csv`, Nike Brand footwear, 10-K)
 
-Footwear design grants per $B of footwear revenue: 2017 31.5, 2018 17.4, 2019 20.7, 2024 18.2, 2025 19.9. 2026 is understated (patents to Oct 13 versus a full fiscal year). Footwear utility applications published per $B: 2017 15.4, 2019 12.0, 2024 8.2, 2025 6.7. So design intensity per revenue dollar is flat against 2018 to 2019 while utility intensity has fallen by 30% to 45%, mostly because revenue rose faster (FY19 $24.2B to FY24 $33.4B footwear) than utility publications (details in CSV). This is the one metric where Nike looks lighter than its own history: utility-patent intensity.
+Footwear design grants per $B of Nike Brand footwear revenue: 2017 31.5, 2018 17.4, 2019 20.7, 2024 18.2, 2025 19.9 (2026 is understated because patents run to Oct 13 against a full fiscal year). Design intensity is flat against 2018 to 2019. Footwear utility applications published per $B: 2017 15.4, 2018 12.1, 2019 12.0 (mean 13.2), 2024 8.2, 2025 6.7, which is -38% and -49% against the mean. Footwear utility grants per $B: 10.0, 11.4, 11.8 (mean 11.1) versus 9.6 and 9.2 (-14% and -17%). Footwear revenue rose from $24.2B (FY19) to $33.4B (FY24) while utility publications fell, so per revenue dollar Nike is lighter than its own history on utility patents. This is the one IP measure that points the short's way; it is a count of documents, not of franchise potential.
 
 ### 5.6 Did high filing precede success? (ruling out "patent counts predict revenue")
 
@@ -204,15 +203,15 @@ OPENED, DERIVED, `g7_tm_abandon_cancel.csv`, `g7_nike_tm_abandoned_2024_26_detai
 
 | Event year | Nike abandoned | of which intent-to-use | of which no statement of use | of which class 25 | Nike registrations cancelled | cancelled class 25 |
 |---|---|---|---|---|---|---|
-| 2012 to 2023 average | 4.5 | 4.2 | 3.4 | 3.3 | 9.0 | 4.5 |
+| 2012 to 2023 average | 4.5 | 4.3 | 3.4 | 3.3 | 9.0 | 4.5 |
 | 2024 | 7 | 7 | 6 | 1 | 3 | 2 |
 | 2025 | 4 | 3 | 2 | 3 | 1 | 0 |
 | 2026 (Jan to Sep) | 5 | 5 | 4 | 2 | 1 | 1 |
 
-- 16 abandonments across 2024 to Sep 2026 against a 2012 to 2023 average of 4.5 per year (+30% on an annualized basis: 5.8 per year including 6.4 for 2026, DERIVED), a difference of about 1 to 2 filings per year.
-- Composition: 11 of the 16 are classes 9, 41 and 42 marks filed 2021 to 2023 (METADUNGEON, PODX, SPACE POD, LOOT POD, D.A.R.T X, CRYPTOKICKS, MNLTH, DREAM IT. MAKE IT. PLAY IT., WHERE SPORT HAS NO RULES and others), i.e. the virtual-goods programme lapsing after three-plus years of extensions with no statement of use. Class 25: ZION (failure to respond), BO KNOWS (re-filed 2025-12-01), FOREVER KING (lost an inter partes proceeding, abandoned 2026-04-23), and others, 6 touching class 25 across three years.
+- 16 abandonments across 2024 to Sep 2026 against a 2012 to 2023 average of 4.5 per year. Annualizing 2026 (5 x 365/273 = 6.7) gives 5.9 per year, +31%, or about 1.4 more filings a year (DERIVED).
+- Composition: 12 of the 16 carry class 9, 41 or 42 goods (METADUNGEON, PODX, SPACE POD, LOOT POD, D.A.R.T X, CRYPTOKICKS, MNLTH, FOOTWARE, DREAM IT. MAKE IT. PLAY IT., WHERE SPORT HAS NO RULES, and two others), i.e. the virtual-goods programme lapsing after years of extensions with no statement of use; 9 of them have no class 25 goods. Class 25 only: ZION (failure to respond), BO KNOWS (no statement of use; re-filed 2025-12-01) and FOREVER KING (lost an inter partes proceeding, abandoned 2026-04-23). Three more touch class 25 together with virtual-goods classes (METADUNGEON, DREAM IT. MAKE IT. PLAY IT., WHERE SPORT HAS NO RULES). Total touching class 25: 6.
 - Registration cancellations are falling (9.0 per year average to 3, 1, 1), which reflects fewer lapsed renewals, not pruning.
-- Cohort view: the share of each filing-year cohort now abandoned is 4.8% to 5.3% for 2024 and 2025 filings, below the 2012 to 2023 cohorts (typically 13% to 55%), because young filings have not had time to lapse. This is not a pruning signal either way.
+- Cohort view: the share of each filing-year cohort now abandoned is 4.8% to 5.3% for 2024 and 2025 filings, below the 2012 to 2023 cohorts (8% to 55%; 2015 is 0 of 3), because young filings have not had time to lapse. This is not a pruning signal either way.
 - Peers' abandonment counts are in the CSV for comparison.
 
 ---
