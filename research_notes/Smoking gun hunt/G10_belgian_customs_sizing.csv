@@ -1,0 +1,14 @@
+group,scenario,pretax_usd_m,aftertax_usd_m,eps_usd,pct_of_fy28_consensus_eps,cash_out_usd_m,note,tag
+A win,Nike wins on the merits (or settles at zero),0,0,0.0,0.0,0,guarantees released; no P&L,DERIVED
+"B lose, duty expensed, VAT recovered",duty rate 8%,450,337,-0.227,13.8,1725,"gap EUR 4,889M, duty EUR 391M, VAT EUR 1,109M; cash out is full EUR 1.5B, VAT part comes back with a lag",DERIVED
+"B lose, duty expensed, VAT recovered",duty rate 12%,583,437,-0.294,17.8,1725,"gap EUR 4,223M, duty EUR 507M, VAT EUR 993M; cash out is full EUR 1.5B, VAT part comes back with a lag",DERIVED
+"B lose, duty expensed, VAT recovered",duty rate 17%,705,529,-0.356,21.6,1725,"gap EUR 3,608M, duty EUR 613M, VAT EUR 887M; cash out is full EUR 1.5B, VAT part comes back with a lag",DERIVED
+"C lose, VAT not recoverable",duty rate 8%,1725,1613,-1.084,65.8,1725,duty taxed at 25% shield; VAT cost no shield,DERIVED
+"C lose, VAT not recoverable",duty rate 12%,1725,1579,-1.061,64.5,1725,duty taxed at 25% shield; VAT cost no shield,DERIVED
+"C lose, VAT not recoverable",duty rate 17%,1725,1549,-1.041,63.2,1725,duty taxed at 25% shield; VAT cost no shield,DERIVED
+"D lose, penalties inside the 1.5B","25% of EUR 1.5B is fines/interest, 12% duty, VAT recovered",868,759,-0.51,31.0,1725,"duty EUR 380M + penalties EUR 375M (non-deductible, ASSUMPTION)",DERIVED
+"D lose, penalties inside the 1.5B","50% of EUR 1.5B is fines/interest, 12% duty, VAT recovered",1154,1081,-0.727,44.1,1725,"duty EUR 253M + penalties EUR 750M (non-deductible, ASSUMPTION)",DERIVED
+E ceiling,"all EUR 1.5B expensed, no tax shield",1725,1725,-1.159,70.4,1725,upper bound on one-time P&L,DERIVED
+F recurring per year,duty rate 8% on last-sale value,64,48,-0.032,2.0,64,EUR 698M undervalued per year; only if Nike still uses first-sale values,DERIVED
+F recurring per year,duty rate 12% on last-sale value,83,62,-0.042,2.5,83,EUR 603M undervalued per year; only if Nike still uses first-sale values,DERIVED
+F recurring per year,duty rate 17% on last-sale value,101,76,-0.051,3.1,101,EUR 515M undervalued per year; only if Nike still uses first-sale values,DERIVED
