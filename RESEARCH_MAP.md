@@ -82,7 +82,27 @@ On the default branch: franchise oversupply, DTC and wholesale, the execution vs
 
 **Known contradictions to resolve before submission:** guidance beats (note 19 says 22 of 22 items; deck says 14 of 14 quarters; D4 says Q1 FY27 fell below the guide midpoint); NA wholesale wording (thesis_tests says mostly sell-in, D2 says channel mix plus one-quarter pulse); dividend-cut angle (note 18 and D6 agree on 0.91x cover, D6 adds years of balance-sheet runway).
 
+
+### Smoking-gun hunt results (Oct 15, 2026, Academic research session)
+| # | Question | Files | One-line result |
+|---|---|---|---|
+| G1 | Forward demand from Nike's own filings: product purchase obligations, inventory purchase commitments, endorsement obligations, FY19 to Q1 FY27 | `research_notes/Smoking gun hunt/G1_purchase_obligations.md` | Not predictive; FY25 $7.9B was a filing error (about $5B) |
+| G2 | Receivables forensics: DSO, allowance for doubtful accounts, sales returns and markdown reserves vs wholesale growth, by quarter | `research_notes/Smoking gun hunt/G2_receivables_reserves.md` | No credit fingerprint in push quarters; wholesale DSO +4.5 to +9.7 days from Q3 FY26; segment AR and returns rollforward disclosures withdrawn |
+| G3 | Unit volumes from Nike Impact Reports and the Nike Manufacturing Map: footwear units, factory and worker counts by country, FY15 to latest | `research_notes/Smoking gun hunt/G3_units_factories.md` | Footwear units flat vs FY19; all growth was price; ASP now falling |
+| G4 | Securities class action complaints against Nike (2024 onward): confidential witness accounts on inventory, discounting and DTC, from court dockets | `research_notes/Smoking gun hunt/G4_litigation_witnesses.md` | Court dismissed 78 of 79 statements; 2022 allegations only |
+| G5 | Credit market read: Nike bond yields and spreads vs peers (TRACE), CDS if available, rating agency reports | `research_notes/Smoking gun hunt/G5_credit_market.md` | Bonds price single-A, tightest in peer group; no stress |
+| G6 | Web traffic and digital demand: Cloudflare Radar and Tranco domain ranks for nike.com and peers by country; app store ranks | `research_notes/Smoking gun hunt/G6_web_traffic.md` | nike.com visits -11% YoY vs peers flat to up; digital decline is demand outside EMEA |
+| G7 | Innovation pipeline: USPTO and EUIPO trademark and patent filings by Nike vs adidas, On, Deckers, 2015 to 2026 | `research_notes/Smoking gun hunt/G7_ip_pipeline.md` | 2026 trademark filings at a 15-year high; supports the long case product rebuild |
+| G8 | Tax and contingencies: EU state aid case on Nike's Dutch rulings, IRS and other disputes, unrecognized tax benefits, FY28 EPS exposure | `research_notes/Smoking gun hunt/G8_tax_contingencies.md` | No tax gap; Belgian customs claim (press EUR 1.5B) is the largest unmodeled item |
+| G9 | Resolve the guidance-beat contradiction (22 of 22 items vs 14 of 14 quarters vs Q1 FY27 below midpoint) against the releases | `research_notes/Smoking gun hunt/G9_guidance_record.md` | 16 of 16 inside guided range; Q1 FY27 first below midpoint |
+| G12 | Do sales-related reserve releases explain the FY26 beats? | `research_notes/Smoking gun hunt/G12_reserve_release.md`, `G12_check.md` | Balances and EPS arithmetic survive; "explains the beats" rejected by the skeptic (pre-announced base effect; provision vs usage not separable) |
+| G10 | Belgian customs case outcome | `research_notes/Smoking gun hunt/G10_belgian_customs.md` | No judgment; merits hearing listed Nov 30, 2026 (press); EUR 1.5B unreserved; one-time EPS $0.23 to $1.16 |
+| G11 | Disclosure withdrawal audit | `research_notes/Smoking gun hunt/G11_disclosure_withdrawal.md` | 16 KPI families withdrawn in 9 quarters vs about 5 in prior 24; 11 of 12 directional were deteriorating |
+| Hunt | Synthesis | `research_notes/Smoking gun hunt/00_HUNT_SYNTHESIS.md` | No smoking gun; mosaic pitch, margin first; deck and REPORT.md section 11A updated |
+
 ## In progress
+
+
 
 | Topic and exact question | Owner session (branch) | Planned output | Started |
 |---|---|---|---|

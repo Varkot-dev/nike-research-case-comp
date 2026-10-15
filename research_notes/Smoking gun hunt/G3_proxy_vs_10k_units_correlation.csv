@@ -1,0 +1,10 @@
+proxy,n_years,corr_yoy_vs_10k_footwear_units_yoy,same_sign_years_of_5,tag
+fw_mfg_waste_total_t,5,0.03,3,DERIVED
+rubber_use_t,5,0.26,3,DERIVED
+eva_foam_use_t,5,-0.35,3,DERIVED
+leather_use_t,5,0.52,3,DERIVED
+polyester_use_t,5,-0.6,1,DERIVED
+cotton_use_t,5,-0.52,2,DERIVED
+tier1_fw_scope3_tco2e_focus,5,0.58,3,DERIVED
+waste_per_unit_g,5,-0.42,2,DERIVED
+textile_dyeing_freshwater_ML,5,-0.72,2,DERIVED

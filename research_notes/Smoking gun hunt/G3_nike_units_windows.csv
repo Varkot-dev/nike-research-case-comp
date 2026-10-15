@@ -1,0 +1,17 @@
+product,window,units_change_pct_low,units_change_pct,units_change_pct_high,reported_revenue_change_pct,cn_revenue_change_pct,reported_rev_per_unit_change_pct,cn_asp_change_pct,verdict,tag
+Footwear,FY2019 to FY2023,9.8,11.9,14.1,36.8,44.3,22.2,28.9,units up; revenue per unit up,DERIVED from G3_nike_units_asp_annual.csv; units band = +/-0.5 pt rounding per year
+Footwear,FY2023 to FY2026,-12.1,-10.7,-9.3,-10.9,-11.9,-0.2,-1.3,units down; revenue per unit about flat,DERIVED from G3_nike_units_asp_annual.csv; units band = +/-0.5 pt rounding per year
+Footwear,FY2019 to FY2026,-3.5,-0.1,3.5,21.9,27.1,22.0,27.2,units flat; revenue per unit up,DERIVED from G3_nike_units_asp_annual.csv; units band = +/-0.5 pt rounding per year
+Footwear,FY2024 to FY2026,-9.9,-8.9,-8.0,-11.7,-12.8,-3.0,-4.2,units down; revenue per unit down,DERIVED from G3_nike_units_asp_annual.csv; units band = +/-0.5 pt rounding per year
+Footwear,FY2025 to FY2026,-1.5,-1.0,-0.5,0.1,-2.0,1.1,-1.0,units down; revenue per unit about flat,DERIVED from G3_nike_units_asp_annual.csv; units band = +/-0.5 pt rounding per year
+Footwear,FY2015 to FY2026,21.6,28.4,35.5,61.2,83.9,25.6,43.3,units up; revenue per unit up,DERIVED from G3_nike_units_asp_annual.csv; units band = +/-0.5 pt rounding per year
+Footwear,FY2021 to FY2026,-4.6,-2.2,0.3,5.4,9.9,7.7,12.4,units down; revenue per unit up,DERIVED from G3_nike_units_asp_annual.csv; units band = +/-0.5 pt rounding per year
+Footwear,FY2019 to FY2024,7.0,9.7,12.4,38.0,45.8,25.8,32.9,units up; revenue per unit up,DERIVED from G3_nike_units_asp_annual.csv; units band = +/-0.5 pt rounding per year
+Apparel,FY2019 to FY2023,6.9,9.1,11.2,19.9,27.7,9.9,17.1,units up; revenue per unit up,DERIVED from G3_nike_units_asp_annual.csv; units band = +/-0.5 pt rounding per year
+Apparel,FY2023 to FY2026,-14.0,-12.7,-11.3,-2.8,-3.1,11.3,11.0,units down; revenue per unit up,DERIVED from G3_nike_units_asp_annual.csv; units band = +/-0.5 pt rounding per year
+Apparel,FY2019 to FY2026,-8.1,-4.8,-1.3,16.4,23.7,22.3,29.9,units down; revenue per unit up,DERIVED from G3_nike_units_asp_annual.csv; units band = +/-0.5 pt rounding per year
+Apparel,FY2024 to FY2026,-5.0,-4.1,-3.1,-2.4,-3.1,1.8,1.0,units down; revenue per unit about flat,DERIVED from G3_nike_units_asp_annual.csv; units band = +/-0.5 pt rounding per year
+Apparel,FY2025 to FY2026,0.5,1.0,1.5,3.7,2.0,2.7,1.0,units up; revenue per unit up,DERIVED from G3_nike_units_asp_annual.csv; units band = +/-0.5 pt rounding per year
+Apparel,FY2015 to FY2026,12.8,19.1,25.7,55.7,81.1,30.8,52.1,units up; revenue per unit up,DERIVED from G3_nike_units_asp_annual.csv; units band = +/-0.5 pt rounding per year
+Apparel,FY2021 to FY2026,-11.5,-9.2,-6.9,4.5,10.9,15.1,22.2,units down; revenue per unit up,DERIVED from G3_nike_units_asp_annual.csv; units band = +/-0.5 pt rounding per year
+Apparel,FY2019 to FY2024,-3.2,-0.7,1.8,19.3,27.7,20.2,28.7,units flat; revenue per unit up,DERIVED from G3_nike_units_asp_annual.csv; units band = +/-0.5 pt rounding per year

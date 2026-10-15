@@ -1,0 +1,55 @@
+group,scenario,driver,case,delta_eps_usd,note,tag
+A tax rate ladder,ETR 14.1% (FY2019-FY2024 simple mean),rate vs 25%,consensus pretax,0.238,"(25 - 14.1) pts x pretax 3,234 / 100 / 1,488M shares; positive = EPS higher",DERIVED
+A tax rate ladder,ETR 14.1% (FY2019-FY2024 simple mean),rate vs 25%,Base pretax,0.171,"(25 - 14.1) pts x pretax 2,323 / 100 / 1,488M shares; positive = EPS higher",DERIVED
+A tax rate ladder,ETR 14.1% (FY2019-FY2024 pretax-weighted),rate vs 25%,consensus pretax,0.236,"(25 - 14.1) pts x pretax 3,234 / 100 / 1,488M shares; positive = EPS higher",DERIVED
+A tax rate ladder,ETR 14.1% (FY2019-FY2024 pretax-weighted),rate vs 25%,Base pretax,0.17,"(25 - 14.1) pts x pretax 2,323 / 100 / 1,488M shares; positive = EPS higher",DERIVED
+A tax rate ladder,ETR 17.1% (FY2025 actual 17.1),rate vs 25%,consensus pretax,0.172,"(25 - 17.1) pts x pretax 3,234 / 100 / 1,488M shares; positive = EPS higher",DERIVED
+A tax rate ladder,ETR 17.1% (FY2025 actual 17.1),rate vs 25%,Base pretax,0.123,"(25 - 17.1) pts x pretax 2,323 / 100 / 1,488M shares; positive = EPS higher",DERIVED
+A tax rate ladder,ETR 20.3% (FY2026 actual 20.3),rate vs 25%,consensus pretax,0.102,"(25 - 20.3) pts x pretax 3,234 / 100 / 1,488M shares; positive = EPS higher",DERIVED
+A tax rate ladder,ETR 20.3% (FY2026 actual 20.3),rate vs 25%,Base pretax,0.073,"(25 - 20.3) pts x pretax 2,323 / 100 / 1,488M shares; positive = EPS higher",DERIVED
+A tax rate ladder,ETR 22.7% (Q1 FY2027 actual 22.7),rate vs 25%,consensus pretax,0.05,"(25 - 22.7) pts x pretax 3,234 / 100 / 1,488M shares; positive = EPS higher",DERIVED
+A tax rate ladder,ETR 22.7% (Q1 FY2027 actual 22.7),rate vs 25%,Base pretax,0.036,"(25 - 22.7) pts x pretax 2,323 / 100 / 1,488M shares; positive = EPS higher",DERIVED
+A tax rate ladder,ETR 24.0% (guide minus 1 point),rate vs 25%,consensus pretax,0.022,"(25 - 24.0) pts x pretax 3,234 / 100 / 1,488M shares; positive = EPS higher",DERIVED
+A tax rate ladder,ETR 24.0% (guide minus 1 point),rate vs 25%,Base pretax,0.016,"(25 - 24.0) pts x pretax 2,323 / 100 / 1,488M shares; positive = EPS higher",DERIVED
+A tax rate ladder,ETR 26.0% (guide plus 1 point),rate vs 25%,consensus pretax,-0.022,"(25 - 26.0) pts x pretax 3,234 / 100 / 1,488M shares; positive = EPS higher",DERIVED
+A tax rate ladder,ETR 26.0% (guide plus 1 point),rate vs 25%,Base pretax,-0.016,"(25 - 26.0) pts x pretax 2,323 / 100 / 1,488M shares; positive = EPS higher",DERIVED
+A tax rate ladder,ETR 28.0% (guide plus 3 points),rate vs 25%,consensus pretax,-0.065,"(25 - 28.0) pts x pretax 3,234 / 100 / 1,488M shares; positive = EPS higher",DERIVED
+A tax rate ladder,ETR 28.0% (guide plus 3 points),rate vs 25%,Base pretax,-0.047,"(25 - 28.0) pts x pretax 2,323 / 100 / 1,488M shares; positive = EPS higher",DERIVED
+B Pillar Two,+1 pt ETR,top-up tax,consensus pretax,-0.022,"1 pt x pretax 3,234 = $32M of extra tax",DERIVED
+B Pillar Two,+1 pt ETR,top-up tax,Base pretax,-0.016,"1 pt x pretax 2,323 = $23M of extra tax",DERIVED
+B Pillar Two,+2 pt ETR,top-up tax,consensus pretax,-0.043,"2 pt x pretax 3,234 = $65M of extra tax",DERIVED
+B Pillar Two,+2 pt ETR,top-up tax,Base pretax,-0.031,"2 pt x pretax 2,323 = $46M of extra tax",DERIVED
+B Pillar Two,+3 pt ETR,top-up tax,consensus pretax,-0.065,"3 pt x pretax 3,234 = $97M of extra tax",DERIVED
+B Pillar Two,+3 pt ETR,top-up tax,Base pretax,-0.047,"3 pt x pretax 2,323 = $70M of extra tax",DERIVED
+C state aid one-time,"excess margin 0.5 pt, rulings through FY22, US offset 0%",one-time charge in year booked,FY28 if booked in FY28,-0.136,"base $124,113M x 0.5% x 25% NL rate = $155M, +30% interest = $202M, x(1-0%)",DERIVED
+C state aid one-time,"excess margin 0.5 pt, rulings through FY22, US offset 50%",one-time charge in year booked,FY28 if booked in FY28,-0.068,"base $124,113M x 0.5% x 25% NL rate = $155M, +30% interest = $202M, x(1-50%)",DERIVED
+C state aid one-time,"excess margin 1 pt, rulings through FY22, US offset 0%",one-time charge in year booked,FY28 if booked in FY28,-0.271,"base $124,113M x 1% x 25% NL rate = $310M, +30% interest = $403M, x(1-0%)",DERIVED
+C state aid one-time,"excess margin 1 pt, rulings through FY22, US offset 50%",one-time charge in year booked,FY28 if booked in FY28,-0.136,"base $124,113M x 1% x 25% NL rate = $310M, +30% interest = $403M, x(1-50%)",DERIVED
+C state aid one-time,"excess margin 2 pt, rulings through FY22, US offset 0%",one-time charge in year booked,FY28 if booked in FY28,-0.542,"base $124,113M x 2% x 25% NL rate = $621M, +30% interest = $807M, x(1-0%)",DERIVED
+C state aid one-time,"excess margin 2 pt, rulings through FY22, US offset 50%",one-time charge in year booked,FY28 if booked in FY28,-0.271,"base $124,113M x 2% x 25% NL rate = $621M, +30% interest = $807M, x(1-50%)",DERIVED
+C state aid one-time,"excess margin 3 pt, rulings through FY22, US offset 0%",one-time charge in year booked,FY28 if booked in FY28,-0.813,"base $124,113M x 3% x 25% NL rate = $931M, +30% interest = $1,210M, x(1-0%)",DERIVED
+C state aid one-time,"excess margin 3 pt, rulings through FY22, US offset 50%",one-time charge in year booked,FY28 if booked in FY28,-0.407,"base $124,113M x 3% x 25% NL rate = $931M, +30% interest = $1,210M, x(1-50%)",DERIVED
+C state aid one-time,"excess margin 5 pt, rulings through FY22, US offset 0%",one-time charge in year booked,FY28 if booked in FY28,-1.355,"base $124,113M x 5% x 25% NL rate = $1,551M, +30% interest = $2,017M, x(1-0%)",DERIVED
+C state aid one-time,"excess margin 5 pt, rulings through FY22, US offset 50%",one-time charge in year booked,FY28 if booked in FY28,-0.678,"base $124,113M x 5% x 25% NL rate = $1,551M, +30% interest = $2,017M, x(1-50%)",DERIVED
+C state aid one-time,"excess margin 0.5 pt, rulings through FY26, US offset 0%",one-time charge in year booked,FY28 if booked in FY28,-0.192,"base $175,967M x 0.5% x 25% NL rate = $220M, +30% interest = $286M, x(1-0%)",DERIVED
+C state aid one-time,"excess margin 0.5 pt, rulings through FY26, US offset 50%",one-time charge in year booked,FY28 if booked in FY28,-0.096,"base $175,967M x 0.5% x 25% NL rate = $220M, +30% interest = $286M, x(1-50%)",DERIVED
+C state aid one-time,"excess margin 1 pt, rulings through FY26, US offset 0%",one-time charge in year booked,FY28 if booked in FY28,-0.384,"base $175,967M x 1% x 25% NL rate = $440M, +30% interest = $572M, x(1-0%)",DERIVED
+C state aid one-time,"excess margin 1 pt, rulings through FY26, US offset 50%",one-time charge in year booked,FY28 if booked in FY28,-0.192,"base $175,967M x 1% x 25% NL rate = $440M, +30% interest = $572M, x(1-50%)",DERIVED
+C state aid one-time,"excess margin 2 pt, rulings through FY26, US offset 0%",one-time charge in year booked,FY28 if booked in FY28,-0.769,"base $175,967M x 2% x 25% NL rate = $880M, +30% interest = $1,144M, x(1-0%)",DERIVED
+C state aid one-time,"excess margin 2 pt, rulings through FY26, US offset 50%",one-time charge in year booked,FY28 if booked in FY28,-0.384,"base $175,967M x 2% x 25% NL rate = $880M, +30% interest = $1,144M, x(1-50%)",DERIVED
+C state aid one-time,"excess margin 3 pt, rulings through FY26, US offset 0%",one-time charge in year booked,FY28 if booked in FY28,-1.153,"base $175,967M x 3% x 25% NL rate = $1,320M, +30% interest = $1,716M, x(1-0%)",DERIVED
+C state aid one-time,"excess margin 3 pt, rulings through FY26, US offset 50%",one-time charge in year booked,FY28 if booked in FY28,-0.577,"base $175,967M x 3% x 25% NL rate = $1,320M, +30% interest = $1,716M, x(1-50%)",DERIVED
+C state aid one-time,"excess margin 5 pt, rulings through FY26, US offset 0%",one-time charge in year booked,FY28 if booked in FY28,-1.922,"base $175,967M x 5% x 25% NL rate = $2,200M, +30% interest = $2,859M, x(1-0%)",DERIVED
+C state aid one-time,"excess margin 5 pt, rulings through FY26, US offset 50%",one-time charge in year booked,FY28 if booked in FY28,-0.961,"base $175,967M x 5% x 25% NL rate = $2,200M, +30% interest = $2,859M, x(1-50%)",DERIVED
+C state aid recurring,+1 pt Dutch margin on EMEA revenue,annual tax,"FY28 recurring, no US offset",-0.021,"$12,572M x 1% x 25% = $31M per year",DERIVED
+C state aid recurring,+2 pt Dutch margin on EMEA revenue,annual tax,"FY28 recurring, no US offset",-0.042,"$12,572M x 2% x 25% = $63M per year",DERIVED
+C state aid recurring,+3 pt Dutch margin on EMEA revenue,annual tax,"FY28 recurring, no US offset",-0.063,"$12,572M x 3% x 25% = $94M per year",DERIVED
+D Belgian customs one-time,"duty rate 8%, VAT fully recoverable","one-time, excl. interest/penalties",year booked,-0.227,"gap EUR 4,889M; duty EUR 391M, VAT EUR 1,109M; pretax $450M at 1.15",DERIVED
+D Belgian customs one-time,"duty rate 8%, VAT not recoverable (non-deductible)","one-time, excl. interest/penalties",year booked,-1.084,"gap EUR 4,889M; duty EUR 391M, VAT EUR 1,109M; pretax $1,725M at 1.15",DERIVED
+D Belgian customs recurring,duty rate 8% on last-sale value,annual duty if first-sale valuation must stop,FY28 recurring,-0.032,"EUR 698M undervalued per year x 8%, after 25% tax",DERIVED
+D Belgian customs one-time,"duty rate 12%, VAT fully recoverable","one-time, excl. interest/penalties",year booked,-0.294,"gap EUR 4,223M; duty EUR 507M, VAT EUR 993M; pretax $583M at 1.15",DERIVED
+D Belgian customs one-time,"duty rate 12%, VAT not recoverable (non-deductible)","one-time, excl. interest/penalties",year booked,-1.061,"gap EUR 4,223M; duty EUR 507M, VAT EUR 993M; pretax $1,725M at 1.15",DERIVED
+D Belgian customs recurring,duty rate 12% on last-sale value,annual duty if first-sale valuation must stop,FY28 recurring,-0.042,"EUR 603M undervalued per year x 12%, after 25% tax",DERIVED
+D Belgian customs one-time,"duty rate 17%, VAT fully recoverable","one-time, excl. interest/penalties",year booked,-0.356,"gap EUR 3,608M; duty EUR 613M, VAT EUR 887M; pretax $705M at 1.15",DERIVED
+D Belgian customs one-time,"duty rate 17%, VAT not recoverable (non-deductible)","one-time, excl. interest/penalties",year booked,-1.041,"gap EUR 3,608M; duty EUR 613M, VAT EUR 887M; pretax $1,725M at 1.15",DERIVED
+D Belgian customs recurring,duty rate 17% on last-sale value,annual duty if first-sale valuation must stop,FY28 recurring,-0.051,"EUR 515M undervalued per year x 17%, after 25% tax",DERIVED

@@ -1,0 +1,16 @@
+fiscal_year,region,units_yoy_pct,asp_contrib_pts,cn_growth_check_pct,prior_year_footwear_rev_usd_m,prior_year_rev_weight_pct,contribution_to_total_units_pts_DERIVED,cum_units_index_FY23_100,src,tag
+FY2024,North America,-7,5,-2,14897,45.0,-3.15,93.0,FY24 10-K pp. 38-42,"OPENED (units, ASP, revenue); DERIVED (weights = prior-year revenue share, an approximation because ASP differs by region)"
+FY2024,EMEA,-4,5,1,8260,24.9,-1.0,96.0,FY24 10-K pp. 38-42,"OPENED (units, ASP, revenue); DERIVED (weights = prior-year revenue share, an approximation because ASP differs by region)"
+FY2024,Greater China,8,-2,6,5435,16.4,1.31,108.0,FY24 10-K pp. 38-42,"OPENED (units, ASP, revenue); DERIVED (weights = prior-year revenue share, an approximation because ASP differs by region)"
+FY2024,APLA,6,1,7,4543,13.7,0.82,106.0,FY24 10-K pp. 38-42,"OPENED (units, ASP, revenue); DERIVED (weights = prior-year revenue share, an approximation because ASP differs by region)"
+FY2024,Total NIKE Brand (weighted sum),-2,,,,,-2.01,,FY24 10-K pp. 38-42,weighted sum vs reported total units %; difference is weighting and rounding error
+FY2025,North America,-10,-3,-13,14537,43.5,-4.35,83.7,FY25 10-K pp. 37-41,"OPENED (units, ASP, revenue); DERIVED (weights = prior-year revenue share, an approximation because ASP differs by region)"
+FY2025,EMEA,-8,-2,-10,8473,25.3,-2.03,88.3,FY25 10-K pp. 37-41,"OPENED (units, ASP, revenue); DERIVED (weights = prior-year revenue share, an approximation because ASP differs by region)"
+FY2025,Greater China,-11,-2,-13,5552,16.6,-1.83,96.1,FY25 10-K pp. 37-41,"OPENED (units, ASP, revenue); DERIVED (weights = prior-year revenue share, an approximation because ASP differs by region)"
+FY2025,APLA,-2,-2,-4,4865,14.6,-0.29,103.9,FY25 10-K pp. 37-41,"OPENED (units, ASP, revenue); DERIVED (weights = prior-year revenue share, an approximation because ASP differs by region)"
+FY2025,Total NIKE Brand (weighted sum),-8,,,,,-8.49,,FY25 10-K pp. 37-41,weighted sum vs reported total units %; difference is weighting and rounding error
+FY2026,North America,6,-1,5,12684,43.0,2.58,88.7,FY26 10-K pp. 37-40,"OPENED (units, ASP, revenue); DERIVED (weights = prior-year revenue share, an approximation because ASP differs by region)"
+FY2026,EMEA,-2,-3,-5,7569,25.6,-0.51,86.6,FY26 10-K pp. 37-40,"OPENED (units, ASP, revenue); DERIVED (weights = prior-year revenue share, an approximation because ASP differs by region)"
+FY2026,Greater China,-14,-1,-15,4805,16.3,-2.28,82.7,FY26 10-K pp. 37-40,"OPENED (units, ASP, revenue); DERIVED (weights = prior-year revenue share, an approximation because ASP differs by region)"
+FY2026,APLA,-3,0,-3,4452,15.1,-0.45,100.8,FY26 10-K pp. 37-40,"OPENED (units, ASP, revenue); DERIVED (weights = prior-year revenue share, an approximation because ASP differs by region)"
+FY2026,Total NIKE Brand (weighted sum),-1,,,,,-0.67,,FY26 10-K pp. 37-40,weighted sum vs reported total units %; difference is weighting and rounding error
