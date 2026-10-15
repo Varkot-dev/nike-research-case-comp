@@ -84,6 +84,20 @@ On the default branch: franchise oversupply, DTC and wholesale, the execution vs
 
 ## In progress
 
+### Smoking-gun hunt (claimed Oct 15, 2026 by the Academic research session, `claude/stoic-shannon-dmkmyu`)
+| # | Question | Planned output |
+|---|---|---|
+| G1 | Forward demand from Nike's own filings: product purchase obligations, inventory purchase commitments, endorsement obligations, FY19 to Q1 FY27 | `research_notes/Smoking gun hunt/G1_purchase_obligations.md` |
+| G2 | Receivables forensics: DSO, allowance for doubtful accounts, sales returns and markdown reserves vs wholesale growth, by quarter | `research_notes/Smoking gun hunt/G2_receivables_reserves.md` |
+| G3 | Unit volumes from Nike Impact Reports and the Nike Manufacturing Map: footwear units, factory and worker counts by country, FY15 to latest | `research_notes/Smoking gun hunt/G3_units_factories.md` |
+| G4 | Securities class action complaints against Nike (2024 onward): confidential witness accounts on inventory, discounting and DTC, from court dockets | `research_notes/Smoking gun hunt/G4_litigation_witnesses.md` |
+| G5 | Credit market read: Nike bond yields and spreads vs peers (TRACE), CDS if available, rating agency reports | `research_notes/Smoking gun hunt/G5_credit_market.md` |
+| G6 | Web traffic and digital demand: Cloudflare Radar and Tranco domain ranks for nike.com and peers by country; app store ranks | `research_notes/Smoking gun hunt/G6_web_traffic.md` |
+| G7 | Innovation pipeline: USPTO and EUIPO trademark and patent filings by Nike vs adidas, On, Deckers, 2015 to 2026 | `research_notes/Smoking gun hunt/G7_ip_pipeline.md` |
+| G8 | Tax and contingencies: EU state aid case on Nike's Dutch rulings, IRS and other disputes, unrecognized tax benefits, FY28 EPS exposure | `research_notes/Smoking gun hunt/G8_tax_contingencies.md` |
+| G9 | Resolve the guidance-beat contradiction (22 of 22 items vs 14 of 14 quarters vs Q1 FY27 below midpoint) against the releases | `research_notes/Smoking gun hunt/G9_guidance_record.md` |
+
+
 | Topic and exact question | Owner session (branch) | Planned output | Started |
 |---|---|---|---|
 | Definitive tests: supplier monthly output, time to markdown, size runs, resale panel, units vs price | Revenue streams (`claude/gallant-ride-0plbb9`) | `DEEP_DIVE_DEFINITIVE_TESTS.md` | Oct 13 |
