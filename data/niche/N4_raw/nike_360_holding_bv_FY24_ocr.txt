@@ -1,0 +1,1770 @@
+
+=== PAGE 1 ===
+In accordance with Regulation 32 of the Overseas Companies Regulations 2009.  FCQ39565  AA
+0S AA01
+DON'T
+ STAPLE  Statement of details of parent law and other  I Companies House
+information for an overseas company
+What this form is for  X What this form is NOT
+You may use this form to  You cannot use this form
+accompany your accounts  an alteration of manner i  WEDNESDAY
+disclosed under parent law.  with accounting requiren  *AEZ2TW3N*
+A06  01/04/2026  #269
+COMPANIESHOUSE
+Part 1  Corporate company name  → Filling in this form
+Please complete in typescript or in
+Corporate name of  Nike 360 Holding B.V.  bold black capitals.
+overseascompany0  All fields are mandatory unless
+specified or indicated by *
+UK establishment  o This is the name of the company in
+number  its home state.
+Part 2  Statement of details of parent law and other
+information for an overseas company
+Legislation
+Please give the legisiation under which the accounts have been prepared and  @ This means the relevant rules or
+audited.  legislation which regulates the
+preparation of accounts.
+Legislation ?  Dutch Civil Code
+A2]  Accounting principles
+Accounts  Have the accounts been prepared in accordance with a set of generally accepted  Please insert the name of the
+accounting principles?  appropriate accounting organisation
+Please tick the appropriate box.  Oor body.
+ No. Go to Section A3.
+ Yes. Please enter the name of the'organisation or other
+body which issued those principles below, and then go to Section A3.
+Name of organisation  Dutch Accounting Standards Board
+or body ?
+01/21Version 6.0
+
+=== PAGE 2 ===
+0S AA01
+Statement of details of parent law and other information for an overseas company
+A3]  Audited accounts
+Audited accounts  Have the accounts been audited in accordance with a set of generally accepted  O Please insert the name of the
+auditing standards?  appropriate accounting
+Please tick the appropriate box.  organisation or body.
+ No. Go to Part 3 'Signature'.
+ Yes. Please enter the name of the organisation or other body which issued
+those standards below, and then go to Part 3 'Signature'.
+Name of organisation  Dutch Accounting Standards Board
+or body 0
+Part 3  Signature
+I am signing this form on behalf of the overseas company.
+Signature  Signature
+This form may be signed by:
+Director, Secretary, Permanent representative.
+01/21 Version 6.0
+
+=== PAGE 3 ===
+0S AA01
+Statement of details of parent law and other information for an overseas company
+Presenter information  Important information
+You do not have to give any contact information, but if  Please note that all this information will appear
+you do it will help Companies House if there is a query  on the public record.
+on the form. The contact information you give will be
+visible to searchers of the public record.  Where to send
+Contact name  Mark Logger  You may return this form to any Companies
+Company name  House address:
+Nike Retail B.V.  England and Wales:
+The Registrar of Companies, Companies House,
+Address  Crown Way, Cardiff, Wales, CF14 3UZ.
+Colosseum 1  DX 33050 Cardiff.
+Scotland:
+The Registrar of Companies, Companies House,
+Fourth floor, Edinburgh Quay 2,
+Post town  Hilversum  139 Fountainbridge, Edinburgh, Scotland, EH3 9FF.
+County/Region  DX ED235 Edinburgh 1
+Noord Holland
+Postcode  Northern Ireland:
+The Registrar of Companies, Companies House,
+Country  The Netherlands  Second Floor, The Linenhall, 32-38 Linenhall Street,
+Belfast, Northern Ireland, BT2 8BG.
+DX  DX 481 N.R.Belfast 1.
+Telephone  +31 (0) 654774463
+Checklist
+We may return forms completed incorrectly or  Further information
+with information missing.
+Please make sure you have remembered the  For further information, please see the guidance notes
+following:  on the website at www.gov.uk/companieshouse
+ The company name and, if appropriate, the  or email enquiries@companieshouse.gov.uk
+registered number, match the information held on
+the public Register.  This form is available in an
+ You have completed all sections of the form,  alternative format. Please visit the
+if appropriate.
+ You have signed the form.  forms page on the website at
+www.gov.uk/companieshouse
+This has been provided free of charge by Companies House.  01/21Version 6.0
+
+=== PAGE 4 ===
+NIKE 360 Holding B.V.
+parent company: NIKE Flight B.V.
+Explanation corporate name differs from name shown on accounts
+We are filing FY24 accounts for the company's parent company because the law in the
+Netherlands (country of incorporation) allows the company to disclose those accounts in place
+of its own accounts.
+This is based on article 403 Book 2 of the Dutch Civil Code. For the company it is neither required
+to prepare financial statements, nor to have the financial statements audited. This is because the
+financial data of the company is included in the consolidated accounts of the parent company.
+Copies of the payment receipts are enclosed. Please note that the filing fee was settled in two
+separate payments: f62 and f48, amounting to a total of f110.
+
+=== PAGE 5 ===
+NIKE Flight B.V.
+Hilversum
+Financial report for the year ended
+May 31, 2024
+PricewaterhouseCoopers
+Accountants N.v.
+For identification
+pwc  purposes only
+
+=== PAGE 6 ===
+Contents
+Management report of the directors for the year ended May 31, 2024
+Consolidated financial statements for the year ended May 31, 2024  13
+Consolidated balance sheet as of May 31, 2024  14
+Consolidated income statement for the year ended May 31, 2024  15
+Notes to the consolidated financial statements for the year ended May 31, 2024  16
+Company financial statements for the year ended May 31, 2024  36
+Balance sheet as of May 31, 2024  37
+Income statement for the year ended May 31, 2024  38
+Notes to the company financial statements for the year ended May 31, 2024  39
+Other information
+Office  45
+45
+Branches  45
+Independent auditor's report  46
+PricewaterhouseCoopers
+AccountantsN.v.
+Foridentification
+NiKEFlightB.V.,Hilversum  pwc  purposesonly
+
+=== PAGE 7 ===
+Management report of the directors for the year ended May 31, 2024
+General
+NIKE Flight B.V. (hereafter "NFBV" or "the Company") was incorporated in the Netherlands in 2018.
+The Company is a holding company with the purpose of owning shares of other companies. The principal
+activity of the Company is to act as the holding company of other NIKE, Inc. (hereinafter "NIKE, Inc.")
+subsidiaries. The Company's subsidiaries are focused on procurement, material management, logistics and
+supply chain operations in support of the sale of sports and lifestyle inspired footwear, apparel, equipment
+permissible activities. The Company's main subsidiaries and their activities are the ones described below.
+NIKE Trading Company B.V. (hereinafter the"NTC") was incorporated in the Netherlands in 2008 and NIKE
+Global Trading B.V. (hereinafter the “NGT") was incorporated in the Netherlands in 2007. NTC and NGT
+are wholly owned subsidiaries of NIKE Flight B.V. at May 31, 2024. NTC and NGT both have a branch
+located in Singapore. The principal activity of NTC and NGT branches is the procurement, material
+management, logistics and supply chain operations in support of the sale of sports and lifestyle inspired
+footwear, apparel, equipment and accessories. The NTC Branch also provides consultancy services to its
+factory partners, and the NGT Branch is also in the business of selling wholesale and retail sports products.
+The revenues and associated costs related to the activities are fully captured in the branches. Furthermore,
+the total revenue of the NTC and NGT branch is covering more than 90% of all revenues of the Company
+and do not have any revenues in the Netherlands. The branches procure and distribute products to NIKE
+andConverseentities in NorthAmerica,Europe,theMiddleEast andAfrica,Greater ChinaandAsia Pacific
+and Latin America.
+NIKE 360 Holding B.V. (hereinafter the "NIKE 360") was incorporated in the Netherlands in 2009. NIKE 360
+is a wholly owned subsidiary of NIKE Flight B.V. on May 31, 2024. NIKE 360 also acts as the holding
+company of other NiKE, Inc. subsidiaries. The Company also owns branches and subsidiaries engaged in
+providing NIKE Liaison Office Services (hereinafter the "NLOs"). The NLOs are characterized into generally
+two categories: Adaptation & Development Services and Business Support Services. The branches and
+subsidiaries are located in Hong Kong, Italy, Korea, Malaysia, Sri Lanka, Taiwan, Turkey, the United
+Kingdom, Vietnam and China. The principal activity of these branches and subsidiaries is to conduct
+sourcing, factory liaison and other permissible activities. Adaptation & Development Services relate to
+performing product adaptation, development services, managing the supply and collection of prototypes
+andsamples.Business SupportServices canbedefinedasthetypicalactivitiesperformedbythebranches
+and the subsidiaries in the retail industry, including: identifying manufacturers and suppliers of raw
+materials, monitoring of the selected manufacturers, developing production schedules and supervising
+production, performing quality assurance, assisting with distribution and logistics and engaging in general
+costs are readily identifiable and they do not provide such services to third parties. NiKE 36o branches and
+subsidiaries are compensatedmonthlyfortheirservices.
+Financialresults
+The results are mainly driven from the subsidiaries NTC and NGT. NTC and NGT buy NIKE and Converse
+(hereinafter "USD"). NTC and NGT whose functional currency is USD, then sell the products mainly to NIKE
+entities around the world, intheirrespectivefunctional currencies.
+PricewaterhouseCoopers
+Accountants N.V.
+For identification
+NIKEFlight B.V., Hilversum  pwc  purposes only  2 
+
+=== PAGE 8 ===
+Fiscal year ended May 31, 2024, revenues decreased by 3.9% with respect to the prior fiscal year, to UsD
+20,986.9 million. The decrease is mainly due to decrease of sales from NTC branch and NGT branch, as a
+of footwear, apparel and equipment which affected NIKE entities that are buying products from NTC and
+NGT branches.
+The Company has demonstrated to be in a stable financial situation. As of May 31, 2024, the current ratio
+(current assets to current liabilities) was 2.2 (2.0 as of May 31, 2023). As of May 31, 2024, the solvency
+ratio (shareholder'sequityto total assets)was0.5 (0.5asofMay31.2023).
+During fiscal year ended May 31, 2024, the Company, including the subsidiaries and branches, employed
+Our success depends in part on the continued service of high-quality employees, including key executive
+officers and personnel. The loss of the services of key individuals, or any negative perception with respect
+tothese individuals,orour workplacecultureorvalues,couldharm ourbusiness.Oursuccess alsodepends
+on our ability to recruit, retain and engage our personnel sufficiently, both to maintain our current business
+not be successful in attracting and retaining such personnel. Changes to our current and future office
+environments or adoption of a new work model that expects certain employees to work on-site for a
+expectations of our employees or may not be perceived as favorable compared to other companies'
+policies, which could negatively impact our ability to attract, hire and retain our employees.
+Financing and investment strategy is developed at the level of the ultimate parent company and
+implemented by the Company. Those investments are geared at creating consumer engagement that drive
+economic returns in the form of incremental revenue and gross profit and infrastructure investments that
+improve the efficiency and effectiveness of ouroperations.Research and development(R&D")activities
+are centralised in the United States. The Company owns a design studio in the United Kingdom and
+PricewaterhouseCoopers
+Accountants N.v.
+For identification
+NIKEFlight B.V., Hilversum  pwc  purposes only
+
+=== PAGE 9 ===
+Culture
+Each employee shapes NIKE, Inc.'s (the Company is part of NIKE, Inc.) culture through behaviors and
+practices. This starts with our Maxims, which represent our core values and, along with our Code of
+Conduct, feature the fundamental behaviors that help anchor, inform and guide us and apply to all
+employees. The NIKE, Inc. Code of Conduct is available at the NIKE, Inc. corporate website,
+http:/investors.nike.com. Our mission is to bring inspiration and innovation to every athlete in the world,
+which includes the belief that if you have a body, you are an athlete. We aim to do this by creating
+groundbreaking sport innovations, making our products more sustainably, building a creative and diverse
+where we live and work. Our mission is aligned with our deep commitment to maintaining an environment
+where all NiKE, Inc. employees have the opportunity to reach their full potential, to connect to our brands
+and to shape our workplace culture. We believe providing for growth and retention of our employees is
+essential in fostering such a culture and are dedicated to giving access to training programs and career
+development opportunities, including trainings on NiKE, Inc's values, history and business, trainings on
+developing leadership skills at all levels, tools and resources for managers and qualified tuition
+reimbursement opportunities.
+As part of our commitment to empowering our employees to help shape our culture, we source employee
+feedback through our Engagement Survey program. The program provides every employee throughout the
+including their satisfaction with their managers, their work and NIKE, Inc. generally. The program also
+measures our employees' emotional commitment to NIKE, Inc. as well as NIKE, Inc's culture of diversity,
+equity and inclusion. NiKE, Inc. also provides multiple points of contact for employees to speak up if they.
+experience something that does not align with our values or otherwise violates our workplace policies, even
+if they are uncertain what they observed or heard is a violation of company policy.
+Economic and Industry Risks
+Global economic conditions could have a material adverse effect on our business, operating results and
+financialcondition.
+The uncertain state of the global economy, including high and rising levels of inflation and interest rates
+and the risk of a recession, continues to impact businesses around the world. If global economic and
+effect on our business, operating results and financial condition:
+Our sales are impacted by discretionary spending by consumers. Declines in consumer spending
+have in the past resulted in and may in the future result in reduced demand for our products,
+increased inventories,reducedordersfrom retailersforourproducts,ordercancellationsand lower
+revenues.
+In the future, we may be unable to access financing in the credit and capital markets at reasonable
+rates intheeventwefind itdesirabletodoso.
+currency exchange rates related to the U.S. Dollar. Continued volatility in the markets and
+exchange rates for foreign currencies and contracts in foreign currencies has had and could have
+a significant impact on our reported operating results and financial condition.
+Continued volatility in the availability and prices for commodities and raw materials we use in our
+products and in our supply chain (such as cotton or petroleum derivatives) has had and could in
+factors including the COViD-19 pandemic and geopolitical conflicts have impacted and may
+continue to impact the availability, pricing and timing for obtaining commodities and raw materials.
+in the capital and credit markets to purchase our products, this could result in reduced orders for
+PricewaterhouseCoopers
+Accountants N.V.
+Foridentification
+NiKE Flight B.V., Hilversum  pwc  plurposes only
+
+=== PAGE 10 ===
+bad debt expense.
+In the past, certain retailers of our products have experienced severe financial difficulty, become
+insolvent and ceased business operations, and this could occur in the future, which could negatively
+impact the sale ofourproducts to consumers.
+If contract manufacturers of our products or other participants in our supply chain experience
+difficulty obtaining financing in the capital and credit markets to purchase raw materials or to finance
+capital equipment and other general working capital needs, it may result in delays or non-delivery
+of shipments of our products.
+Ourproducts, services and experiencesface intensecompetition.
+NiKE is a consumer products company and the relative popularity of various sports and fitness activities
+and changing design trends affect the demand for our products, services and experiences. The athletic
+footwear, apparel and equipment industry is highly competitive. We compete internationally with a
+significant number of athletic and leisure footwear companies, athletic and leisure apparel companies,
+leisure footwear, apparel and equipment.
+Economic factors beyond our control, and changes in the global economic environment, including
+decreased margins and earnings.
+in various currencies, which creates exposure to the volatility of global economic conditions, including
+fluctuations in inflation and foreign currency exchange rates. There has been, and may continue to be,
+volatility in currency exchange rates that impact the U.S. Dollar value relative to other international
+currencies. Our international revenues and expenses are also derived from sales and operations in foreign
+recorded in foreign currencies and translated into U.S. Dollar for consolidated financial reporting, as
+weaking of foreign currencies related to the U.S. Dollar adversely affects the U.S. Dollar value of the
+Company's foreign currency-denominated sales and earnings. Currency exchange rate fluctuations could .
+also disrupt the business of the independent manufacturers that produce our products by making their
+purchases of raw materials more expensive and more difficult to finance. Foreign currency fluctuations have
+adversely affected and could continue to have an adverse effect on our results of operations and financial
+condition.
+lessen volatility, they not only reduce the negative impact of a stronger U.S. Dollar or other trading currency,
+but they also reduce the positive impact of a weaker U.S. Dollar or other trading currency. Our future
+financial results have in the past been and could in the future be significantly affected by the value of the
+U.S. Dollar in relation to the foreign currencies in which we conduct business. The degree to which our
+Wemaybeadversely affectedbythe financial health ofourwholesale customers.
+We extend credit to our customers based on an assessment of a customer's financial condition, generally
+ordering program. These advance orders may be canceled under certain conditions, and the risk of
+cancellation increases when dealing with financially unstable retailers or retailers struggling with economic
+PricewaterhouseCoopers
+Accountants N.v.
+For identification
+NiKEFlight B.V.,Hilversum  pwc  purposes only
+
+=== PAGE 11 ===
+bankruptcies, which have had an adverse effect on our sales, our ability to collect on receivables and our
+financial condition. When the retail economy weakens or as consumer behavior shifts, retailers tend to be
+more cautious with orders. A slowing or changing economy in our key markets, including a recession, could
+adversely affect the financial health of our customers, which in turn could have an adverse effect on our
+results ofoperations andfinancial condition.Inaddition,productsales are dependent inpartonhigh quality
+merchandising and an appealing retail environment to attract consumers, which requires continuing
+investments by retailers. Retailers that experience financial difficulties may fail to make such investments
+or delay them, resulting in lower sales and orders for our products.
+Climate change and other sustainability-related matters, or legal, regulatory or market responses thereto,
+mayhaveanadverseimpactonourbusinessandresultsofoperations.
+There are concerns that increased levels of carbon dioxide and other greenhouse gases in the atmosphere
+have caused, and may continue to cause, potentially at a growing rate, increases in global temperatures.
+events. Climate change may also exacerbate challenges relating to the availability and quality of water and
+raw materials, including those used in the production of NiKE, Inc.'s products, and may result in changes
+in regulations or consumer preferences, which could in turn affect our business, operating results and
+organizations, consumers, customers, employees and other stakeholders on products that are sustainably
+made and other sustainability matters, including responsible sourcing and deforestation, the use of plastic,
+energy and water, the recyclability or recoverability of packaging and materials transparency, any of which
+regulations. Any of the foregoing may require us to make additional investments in facilities and equipment,
+may impact the availability and cost of key raw materials used in the production of NiKE, Inc's products or
+the demand forNikE, Inc's products, and, in turn, may adversely impact our business,operating results
+and financial condition. Although NikE, Inc. announced sustainability-related goals and targets, there can
+be no assurance that our stakeholders will agree with our strategies, and any perception, whether or not
+respond to new or additional legal or regulatory requirements regarding climate change, could result in
+adverse publicity and adversely affect our business and reputation. Execution of these strategies and
+achievement of NiKE, Inc. goals is subject to risks and uncertainties, many of which are outside of our
+control. These risks and uncertainties include, but are not limited to, our ability to execute our strategies
+and achieve our goals within the currently projected costs and the expected timeframes; the availability and
+difficulties; the outcome of research efforts and future technology developments, including the ability to
+other related processes; compliance with, and changes or additions to, global and regional regulations,
+related goals; adapting products to customer preferences and customer acceptance of sustainable supply
+chain solutions; and the actions of competitors and competitive pressures. As a resuit, there is no assurance
+that we will be able to successfully execute our strategies and achieve our sustainability-related goals,
+which could damage our reputation and customer and other stakeholder relationships and have an adverse
+effect on our business, results of operations and financial condition.
+PricewaterhouseCoopers
+Accountants N.v.
+For identification
+NIKEFlightB.V.,Hilversum  pwc  purposes only
+
+=== PAGE 12 ===
+For more details on unleashing human potential and minimizing environmental footprint, we refer to NiKE,
+Inc.'s Impact report (https:/labout.nike.com/en/newsroom/releases/fy23-nike-inc-impact-report).
+Ourfinancial condition andresults ofoperations havebeen, and could in the future be, adversely affected
+by a pandemic, epidemic or other public health emergency.
+Pandemics, including the COVID-19 pandemic, and other public health emergencies, and preventative
+measures taken to contain or mitigate such crises have caused, and may in the future cause, business
+slowdown or shutdown in affected areas and significant disruption in the financial markets.These events
+store closures, and a decline in retail traffic and discretionary spending by consumers and, in turn, materially
+impact our business, sales, financial condition and results of operations as well as cause a volatile effective
+tax rate driven by changes in the mix of earnings across our jurisdictions. We cannot predict whether, and
+to what degree, our sales, operations and financial results could in the future be affected by the pandemic
+andpreventative measures.
+Risks presented by pandemics and other public health emergencies include, but are not limited to:
+Deterioration in economic conditions globally, including the effect.of prolonged periods of inflation
+on our consumers and vendors;
+other vendors, through the effects of facility closures, increased operating costs, reductions in
+operating hours, labor shortages, and real time changes in operating procedures, such as
+additional cleaning and disinfection procedures, which have had, and could in the future again
+have, a significant impact on our planned inventory production and distribution, including higher
+inventory levels or inventory shortages in various markets; Impacts to our distribution and logistics
+providers' ability to operate, including labor and container shortages, and increases in their
+operating costs. These supply chain effects have had, and could in the future have, an adverse
+effect on our ability to meet consumer demand, including digital demand, and have in the past
+resulted in and could in the future result in extended inventory transit times and an increase in our
+costs of production and distribution, including increased freight and logistics costs and other
+expenses;
+Decreased retail traffic as a result of store closures, reduced operating hours, social distancing
+restrictions and/or changes in consumer behavior;
+higher costs of borrowing, inflation and diminished consumer confidence;
+Cancellation or postponement of sports seasons and sporting events in multiple countries and bans
+on large public gatherings, which have reduced and in the future could reduce consumer spending
+The risk that any safety protocols in NIKE-owned or affiliated facilities will not be effective or not be
+perceived as effective, or that any virus-related illnesses will be linked or alleged to be linked to
+such facilities, whether accurate or not;
+Incremental costs resulting from the adoption of preventive measures and compliance with
+operations to follow social distancing protocols, conducting temperature checks, testing and
+undertaking regular and thorough disinfection of surfaces;
+Bankruptcies or other financial difficulties facing our wholesale customers, which could cause them
+to be unable to make or delay making payments to us, or result in cancellation or reduction of their
+orders; Significant disruption of and volatility in global financial markets, which could have a
+negative impacton ourabilityto access capital inthefuture.
+PricewaterhouseCoopers
+Accountants N.v.
+For identification
+NiKEFlightB.V.,Hilversum  pwc  purposes only
+
+=== PAGE 13 ===
+the extent of any adverse impact on our business, results of operations and financial condition, which will
+depend on, among other things, the duration and spread of the pandemic or public health emergency, the
+impact of governmental regulations that have been, and may continue to be, imposed in response, the
+effectiveness of actions taken to contain or mitigate the outbreak, the availability, safety and efficacy of
+vaccines, including against emerging variants of the infectious disease, and global economic conditions.
+Additionally, disruptions have in the past made it more challenging to compare our performance, including
+our revenue growth and overall profitability, across quarters and fiscal years, and could have this effect in
+the future. Any pandemic or public health emergency may also affect our business, results of operations or
+financial condition in a manner that is not presently known to us or that we currently do not consider to
+present significant risks and may also exacerbate, or occur concurrently with, other risks discussed in this
+management report. Risk Factors, any of which could have a material effect on us.
+Business and Operational risk
+Failure to maintain ourreputation, brand image and culture could negatively impact ourbusiness
+Our iconic brands have worldwide recognition, and our success depends on our ability to maintain and
+enhance our brand image and reputation. Maintaining, promoting and growing our brands will depend on
+our design and marketing efforts, including advertising and consumer campaigns, product innovation and
+product quality. NlkE, Inc's commitment to product innovation, quality and sustainability, and our
+the desired impact on our brand image and reputation. In addition, our success in maintaining, extending
+and products. We could be adversely impacted if we fail to achieve any of these objectives.
+Our brand value also depends on our ability to maintain a positive consumer perception of our corporate
+integrity, purpose and brand culture. Negative claims or publicity involving us, our culture and values, our
+products, services and experiences, consumer data, or any of our key employees, endorsers, sponsors,
+suppliers or partners could seriously damage our reputation and brand image, regardless of whether such
+claims are accurate.For example,whilewe require our suppliersofour products tooperate their business
+in compliance with applicable laws and regulations,we do not control their practices.Negative publicity
+relating to a violation or an alleged violation of policies or laws by such suppliers could damage our brand
+damaged as a result of our support of, association with or lack of support or disapproval of certain social
+causes, as well as any decisions we make to continue to conduct, or change, certain of our activities in
+response to such considerations. Social media, which accelerates and potentially amplifies the scope of
+regulatory or legal action against us, or by us, could also damage our reputation and brand image,
+undermine consumer confidence in us and reduce long-term demand for our products, even if the regulatory
+or legal action is unfounded or not material to our operations.If the reputation, culture or image of any of
+our brands is tarnished or if we receive negative publicity, then our sales, financial condition and results of
+operations could be materially and adversely affected.
+Ourinternationaloperations involvedinherentriskswhichcouldresultinharmtoourbusiness
+Our international operations and sources of supply are subject to the usual risks of doing business abroad,
+import duties, anti-dumping measures, quotas, safeguard measures, trade restrictions, restrictions on the
+transfer of funds and, in certain parts of the worid, political tensions, instability, conflicts, nationalism and
+terrorism, and resulting sanctions and other measures imposed in response to such issues. We have not,
+PricewaterhouseCoopers
+Accountants N.v.
+For identification
+NiKEFlight B.V.,Hilversum  pwc  purposes only
+
+=== PAGE 14 ===
+to date, been materially affected by any such risk but cannot predict the likelihood of such material effects
+occurring in the future.
+Changes in international social, political, regulatory and economic conditions could impact our business,
+reputation, financial condition and results of operations. In particular, political and economic instability,
+geopolitical conflicts, political unrest, civil strife, terrorist activity, acts of war, public corruption, expropriation,
+nationalism and other economic or political international uncertainty could interrupt and negatively affect
+the sale of our products or other business operations.
+The global nature of our Company means legal and compliance risks, such as anti-bribery, anti-corruption,
+fraud, trade, environmental, competition, privacy and other regulatory matters, will continue to exist and
+which could adversely affect us. In addition, the adoption of new laws or regulations, or changes in the
+risks.
+In addition, disease outbreaks, terrorist acts and military confict have increased the risks of doing business
+abroad. These factors, among others, could affect our ability to manufacture products or procure materials,
+or our costs for manufacturing and procuring materials, our ability to import products, our ability to sell
+products in international markets and our cost of doing business. If any of these or other factors make the
+affected.
+Our products are subject to risks associated with overseas sourcing, manufacturing and financing.
+The principal materials used in our footwear products - natural and synthetic rubber, plastic compounds,
+foam cushioning materials, natural and synthetic leather, nylon, polyester and natural fiber textiles and
+products  natural and synthetic fabrics, yarns and threads (both virgin and recycled). specialized
+performance fabrics designed to efficiently wick moisture away from the body, retain heat and repel rain
+and/or snow as well as plastic and metal hardware - are also available in countries where our
+manufacturers and materials suppliers buy raw materials and are subject to wage rates and other labor
+standards that are oftentimes regulated by the governments of the countries in which our products are
+manufactured.
+There could be a significant disruption in the supply of fabrics or raw materials from current sources or, in
+the event of a disruption or heightened competition for such materials, our contract manufacturers might
+not be able to locate alternative suppliers of materials of comparable quality at an acceptable price or at all.
+Further, our contract manufacturers have experienced and may continue to experience in the future,
+unexpected closures, unexpected increases in work wages or other changes in labor standards, whether
+government mandated or otherwise, and increases in compliance costs due to governmental regulation
+concerning certain metals, fabrics or raw materials used in the manufacturing of our products. In addition,
+we cannot be certain that manufacturers that we do not contract and that we refer to as "unaffiliated
+or materials supplier, there can be no assurance additional supplies of fabrics or raw materials or additional
+contract manufacturer, unaffiliated manufacturer, or any materials supplier would allocate sufficient capacity
+to us in order to meet our requirements. In addition, even if we are able to expand existing or find new
+PricewaterhouseCoopers
+AccountantsN.v.
+Foridentification
+NiKEFlightB.V.,Hilversum  pwc  purposes only
+
+=== PAGE 15 ===
+manufacturing capacity or sources of materials, we may encounter delays in production and added costs
+as a result of the time it takes to train suppliers and manufacturers in our methods, products, quality control
+standards and labor, health and safety standards. Any delays,interruption or increased costs in labor or
+wages, in the supply of materials or in the manufacturing of our products could have an adverse effect on
+our ability to meet retail customer and consumer demand for our products and result in lower revenues and
+net income both in the short- and long-term.
+Because contract manufacturers make a majority of our products outside of our principal sales markets,
+our products must be transported by third parties over large geographic distances. Delays in the shipment
+delays associated with consolidating or transitioning between manufacturers, have adversely impacted,
+performance.
+Riskmanagementandderivatives
+The Company is exposed to market risks,including the effect of changes in foreign currency exchange
+rates and interest rates, and uses derivatives to manage financial exposures that occur in the normal course
+of business. The Company does not hold or issue derivatives for trading or speculative purposes.
+We conduct sale transactions in various currencies, which increases our exposure to the volatility of local
+The Company may elect to designate certain derivatives as hedging instruments under the accounting
+designated hedging instruments and hedged items, as well as its risk management objectives and
+strategies for undertaking hedge transactions. This process includes linking all derivatives designated as
+hedges to either recognised assets or liabilities or forecasted transactions.
+The Company also utilizes forward exchange contracts and options to manage exchange exposure of
+certain non-functional currency denominated monetary assets and liabilities. The purpose of the contracts
+and options is to lessenboth the positive and negative effects of currency fluctuations on the Company's
+consolidated results of operations, financial position and cash flows.
+The Company is exposed to credit-related tosses in the event of nonperformance by counterparties to
+hedging instruments. The counterparties to all derivative transactions are major financial institutions with
+investment grade credit ratings; however, this does not eliminate the Company's exposure to credit risk
+counterparties fail to perform as contracted. To manage this risk, the Company has established strict
+counterparty credit guideline that are continually monitored.
+The Company has significant amounts of trade accounts receivables, accounts receivables from affliated
+entities, as well as cash and cash equivalents and other investment funds in accounts with banks or other
+financial institutions in the Netherlands and abroad. As a result, we are exposed to the risk of default by or
+markets.If oneofour counterpartieswereto become insolvent orfileforbankruptcy,our abilitytorecover
+may be limited by the counterparty's liquidity or the applicable laws governing the insolvency or bankruptcy
+PricewaterhouseCoopers
+Accountants N.v.
+For identification
+NIKEFlightB.V.,Hilversum  pwc  purposes only  10
+
+=== PAGE 16 ===
+proceedings. In the event of default or failure of one or more of our counterparties, we could incur significant
+losses, which could negatively impact our results of operations and financial condition.
+The Company makes ongoing estimates related to the collectability of its trade accounts receivable and
+maintains an allowance for estimated losses resulting from the inability of its customers to make required
+payments. In addition to judgments about the creditworthiness of significant customers based on ongoing
+credit evaluations, the Company considers historical levels of credit losses, as well as macroeconomic and
+industry trends to determine the amount of the allowance. Company's management has assessed that the
+likelihood of non-recoverability of accounts receivables from affiliated entities is low as at the financial
+reporting date.
+Our internal control over financial reporting may not prevent or detect misstatements because of its inherent
+limitations, including the possibility of human error, the circumvention or overriding of controls or fraud.
+Even effective internal controls can provide only reasonable assurance with respect to the preparation and
+fair presentation of financial statements. If we fail to maintain the adequacy of our internal controls, including
+any failure to implement required new or improved controls, or if we experience difficulties in their
+implementation, our business and operating results could be harmed and we could fail to meet our financial
+reportingobligations.
+changing environment. New risks emerge from time to time and it is not possible for management to predict
+all such risks, nor can it assess the impact of all such risks on the Company's business or the extent to
+which any risk, or combination of risks, may cause actual results to differ materially from those contained
+opportunities to drive future growth and profitability. We remain committed to effectively managing our
+outlined above.
+The uncertainty regarding the implementation of new tariffs remains highly volatile. Up to and including the
+degree, our sales, operations and financial results could in the future be affected.
+PricewaterhouseCoopers
+Accountants N.v.
+For identification
+NlKEFlightB.V.,Hilversum  pwc  'purposes only  11
+
+=== PAGE 17 ===
+Subsequent events
+The directors are not aware of subsequent events which could have any significant impact on these financial
+statements.
+Hilversum, June 2, 2025
+Board of Directors,
+M. Meijer  C.J. Wilson-Chiru
+PricewaterhouseCoopers
+Accountants N.V.
+For identification  12
+NIKEFlight B.V., Hilversum  pwc  purposes only
+
+=== PAGE 18 ===
+Consolidated financial statements for the year ended May 31, 2024
+PricewaterhouiseCoopers
+Accountants N.v.
+For identification  13
+NiKEFlightB.V.,Hilversum  pwc  purposes only
+
+=== PAGE 19 ===
+Consolidated balance sheet as of May 31, 2024
+(Beforeproposedappropriationofresult)
+Note  May 31, 2024  May 31, 2023
+USD'000  USD'000  USD'000  USD'000
+Assets
+Non-currentassets
+Property,plantand equipment  17,515  25,100
+Financial fixed assets  58,271  58,594
+75,786  83,694
+Current assets
+Inventories  1,806,772  1,679,630
+Accountsreceivable  2,546,087  2,768,990
+Cash and cash equivalents  6,276,889  5.448,120
+10,629,748  9,896,740
+10,705,534  9,980.434
+Shareholders'equityandliabilities
+Shareholders' equity  5,746.914  4,938,080
+Non-current liabilities  17,207  50,201
+Current liabilities  4,941,413  4,992,153
+10.705,534  9,980,434
+The accompanying notes to the consolidated financial statements are an integral part of this statement.
+PricewaterhouseCoopers
+Accountants N.V.
+For identification  14
+NiKEFlight B.V.,Hilversum  pwc  purposes only
+
+=== PAGE 20 ===
+Note  June 1, 2023 -  June 1, 2022 -
+May 31, 2024  May 31, 2023
+USD'000  USD'000  USD'000  USD'000
+Revenues  12  20,986,876  21,839,607
+Cost of sales  (20,053,611)  (20,732,013)
+Gross profit  933,265  1,107,594
+Selling Expenses  (192,821)  (172,585)
+Generalandadministrativeexpenses  (628,543)  (862,183)
+Total operating expenses  (821,364)  (1,034,768)
+Operating profit  111,901  72,826
+Financial income and expenses  14  186,759  102,940
+Resultbefore incometax  298,660  175,766
+Income tax  15  (48,357)  (40,215)
+Net result of the year  250,303  135,551
+Revaluation reserve movement  (52,699)  (229,219)
+Translation difference reserve  (3,262)  (2,618)
+movement
+Actuarialgain/(loss)onpensionfund  1,272  (628)
+Totaldirectmovementsintheequity  (54,689)  (232,465)
+as part of the group equity
+Comprehensive income  195,614  (96,914)
+The accompanying notes to the consolidated financial statements are an integral part of this statement.
+PricewaterhouseCoopers
+Accountants N.V.
+For identification  15
+NIKEFlight B.V.,Hilversum  pwc  purposes only
+
+=== PAGE 21 ===
+Notes to the consolidated financial statements for the year ended May 31, 2024
+1.  Generalinformation
+1.1.  Operations
+NIKE Flight B.V. (hereafter "NFBV" or "the Company") was incorporated in the Netherlands in 2018. The
+Company is a holding company with the purpose of owning shares of other companies. The principal activity
+of the Company is to act as the holding company of other NIKE, Inc. (hereinafter "NIKE, Inc.") subsidiaries.
+The Company has its registered office in Colosseum 1. 1213NL Hilversum, the Netherlands (Commercial
+register number: 73290068).
+1.2.  Group structure
+The ultimate parent company of the Company is NIKE, Inc., located near Beaverton, Oregon, USA. The
+Company is a wholly owned subsidiary of NIKE Victory Cooperatief U.A. The financial statements of the
+Company are included in the consolidated financial statements of NKE, Inc. The consolidated financial
+statements of NiKE, Inc. are also available on written request in the Company's office in Hilversum.
+1.3.  Consolidation
+The consolidated financial statements include the accounts of NFBV and its group companies in which it
+B.V. exercises direct or indirect control based on a shareholding of more than one half of the voting rights,
+or of which it has the authority to govern otherwise their financial and operating policies. All significant
+intercompanytransactionsandbalanceshavebeeneliminated.
+consolidated in full. Participating interests in group equity and group result are disclosed separately.
+consolidation.
+Since the income statement of the Company is included in the consolidated financial statements, an
+abridged income statement has been disclosed (in the company financial statements) in accordance with
+Section402, Book 2, of the Dutch Civil Code.
+Intercompany transactions, profits and balances among group companies and other consolidated entities
+are eliminated, unless these results are realised through transactions with third parties. Unrealised losses
+PricewaterhouseCoopers
+Accountants N.v.
+For identification
+NIKEFlightB.V.,Hilversum  pwc  purposes only  16
+
+=== PAGE 22 ===
+At May 31, 2024, the Company's composition of legal entities was as follows:
+Entity  Share Capital  Country
+NIKE 360 Holding B.V.  100  Hilversum, The Netherlands
+NIKE Sourcing (Ghuangzhou) Co. Ltd.  100  Guangzhou, China
+NIKE360JordanLLC  100  Amman, Jordan
+NIKE Vietnam LLC  100  Ho Chi Minh, Vietnam
+NIKE Fuel B.V.  100  Hilversum, The Netherlands
+Air Manufacturing Innovation Vietnam LLC  100  Giang Dien, Vietnam
+NIKE Asia Holding B.V.  100  Hilversum, The Netherlands
+PT NIKE Indonesia  100  Jakarta, Indonesia
+NIKE Trading Company B.V.  100  Hilversum, The Netherlands
+NIKE Global Trading B.V.  100  Hilversum, The Netherlands
+NIKE Global Trading PTE. Ltd.  100  Singapore
+NIKE Digital Technology (Shenzhen) Co., Ltd.  100  Shenzhen, China
+NIKE India Technology Center Private Limited  100  Bangalore, India
+In addition, the Company and its subsidiaries have international branch offices as at May 31, 2024 located
+in China, Hong Kong, Italy, The republic of Korea, Sri Lanka, Taiwan, Turkey, United Kingdom and
+Singapore.
+1.4.  Related-party transactions
+All legal entities that can be controlled, jointly controlled or significantly influenced are considered to be a
+to statutory directors, other key management of the Company or the ultimate parent company, close
+relatives are regarded as related parties.
+Significant transactions with related parties are disclosed in the notes insofar as they are not transacted
+under normal market conditions. The nature, extent and other information is disclosed if this is required to
+provide the true and fair view.
+Disposal of group companies
+Entities continue to be consolidated until they are sold; they are deconsolidated from the date that control
+has been sold, deconsolidated or classified as groups held-for-disposal.
+1.5.  Cash flow statement
+The Company has filed with the Chamber of Commerce the consolidated financial statements of its ultimate
+parent, NIKE, Inc., for the year ended May 31, 2024. The NIKE, Inc. consolidated financial statements
+include a consolidated cash flow statement and is available at the NiKE, Inc. corporate website,
+financial statements.
+PricewaterhouseCoopers
+Accountants N.V.
+For identification  17
+NiKE Flight B.V.,Hilversum  pwc  purposes only
+
+=== PAGE 23 ===
+1.6.  Foreign currencies
+The functional and presentation currency of the Company is the U.S. Dollar (hereinafter"USD") as it reflects
+the economic substance of the underlying events and circumstances relevant to the Company; insofar as
+its main operations and/or transactions in different countries in which the Company operates are
+established and settled in USD.
+Foreign currency remeasurement
+The Company's financial statements are measured using the currency of the country in which each entity
+operates. These entities have various assets and liabilities, primarily receivables and payables, which are
+denominated in currencies other than their functional currency.These balance sheet items are subject to
+remeasurement, the impact of which is recorded as an exchange difference in the “"Financial income and
+expenses" caption within the consolidated income statement.
+Income and expenses are translated at average exchange rates during the financial year. The balance
+sheet is translated with the relevant year end rate. The resulting differences from translating the foreign
+functional currency financial statements into UsD are included in the caption "Translation differences
+reserve" in shareholders' equity.
+(i)  Transactions,receivablesandliabilities
+Transactions in foreign currencies are stated in the financial statements at the exchange rate of the
+functional currency on the transaction date.
+Monetary assets and liabilities of NFBV, and the consolidated branches and subsidiaries with a functional
+are credited or charged to the income statement, unless hedge-accounting is applied.
+Non-monetary assets valued at historical cost in a foreign currency are converted at the exchange rate on
+the transaction date.
+Non-monetary assets valued at fair value in a foreign currency are converted at the exchange rate on the
+dateonwhichthefairvaluewasdetermined.
+1.7.  Estimates
+The preparation of financial statements in conformity with the relevant rules requires the use of certain
+applying the accounting policies. If necessary, for the purposes of providing the view required under Book
+related assumptions, is disclosed in the notes to the financial statement items in question.
+We believe the assumptions and judgement involved related to the assessment of impairment of non-
+current assets, hedge accounting, and inventory reserves has the greatest potential impact on our
+Company financial statements, so we consider this to be our critical accounting estimates.
+Because of the uncertainty inherent in this matter, actual results could differ from the estimates we use in
+PricewaterhouseCoopers
+Accountants N.v.
+For identification  18
+NIKE Flight B.V., Hilversum  pwc  puirposes only
+
+=== PAGE 24 ===
+we are not currently aware of any reasonably likely events or circumstances that would result in materially
+different amounts being reported.
+2. Accounting policies for the consolidated balance sheet
+2.1.  General information
+These financial statements have been prepared in accordance with the statutory provisions of Part 9, Book
+2, of the Dutch Civil Code and the firm pronouncements in the Guidelines for Annual Reporting in the
+Netherlands as issued by the Dutch Accounting Standards Board.
+In general, assets and liabilities are stated at the amounts at which they were acquired or incurred or at fair
+value. If not specifically stated otherwise, they are recognised at the amounts at which they were acquired
+or incurred.The balance sheet and income statement include references to the notes.
+2.2.  Prior year comparison
+The accounting policies have been consistently applied for all the years presented.
+2.3.  Property, plant and equipment
+Property, plant and equipment are stated at historical cost, plus expenditures that are directly attributable
+to the acquisition of the items, less straight-line depreciation over their estimated future useful lives. Land
+is not depreciated.
+Depreciation period
+Machinery and equipment  3 - 8 years
+Leasehold improvements  10 - 15 years
+Assets classified as construction in progress are not subject to depreciation. Depreciation will commence
+once the asset is in use, at which time it will be reclassified to the appropriate category.
+A provision for impairment loss is recognised when there is a permanent diminution in the value of an asset.
+The accounting method to determine an impairment loss is described in Note 2.5.
+Maintenance and repair costs are charged to the income statement, and significant renewals and
+improvements are capitalised when it is probable that future economic benefits, in excess of the originally
+assessed standard of performance, will flow from the use of the acquired property, plant or equipment. The
+Company did not incur material maintenance and repair costs.
+Eachasset'sresidual value,useful lifeand selecteddepreciatedmethod areperiodicallyreviewedtoensure
+that they are consistent with the actual economic benefits and life expectations.
+The Company does not have a material restoration obligation after the use of the assets.
+PricewaterhouseCoopers
+Accountants N.v.
+For identification
+NIKE Flight B. V., Hilversum  pwc  purposes only  19
+
+=== PAGE 25 ===
+2.4.  Financial fixedassets
+(0)  Investmentsinsubsidiaries
+Investments in subsidiaries, where the Company has significant influence, are initially valued based on the
+net asset value method. In the event that 20% or more of the voting rights can be exercised, it may be
+assumed that there is significant influence.
+statements; with regard to participations in which insufficient data is available for adopting these principles,
+the valuation principles of the respective participation are applied.
+In the event of an impairment loss, valuation takes place at the realizable value (Note 2.5); impairment is
+recognized and charged to the income statement.
+The results of the participations in the investments are recognized in the income statements.
+(i)  Other long-term assets
+Other long-term assets mainly include other long-term contracts and are initially recognized at fair value
+and subsequently measured at amortised cost and deferred tax assets.
+2.5.  Impairment of non-current assets
+At each balance sheet date, the Company tests whether there are any indications of assets being subject
+to impairment. If any such indications are present, the recoverable amount of the asset is determined. If
+this proves to be impossible, the recoverable amount of the cash-generating unit to which the asset belongs
+the recoverable amount is the higher of an asset's fair value less costs to sell or its value in use.
+Fair value less costs to sell is determined based on the active market. A provision for impairment is directly
+recognised as an expense in the income statement, unless the asset is carried at fair value, in which case
+the impairment loss qualifies as a revaluation decrease. For the determination of the value in use, an
+estimate is made of the future net cash flows in the event of continued use of the asset / cash-generating
+unit.
+The Company assesses at each balance sheet date whether there is objective evidence that a financial
+determined and recognised in the income statement.
+If, in a subsequent period, the amount of the impairment loss decreases and the decrease can be related
+objectively to an event occurring after the impairment was recognised, the previously recognised
+impairment loss shall be reversed. The reversal shall not result in a carrying amount of the non-current
+asset that exceeds what the cost would have been had the impairment not been recognised at the date the
+impairment is reversed. The amount of the reversal shall be recognised in profit or loss.
+PricewaterhouseCoopers
+Accountants N.V.
+For identification  20
+NiKEFlight B.V.,Hilversum  pwc  purposes only
+
+=== PAGE 26 ===
+2.6.  Inventories
+specific identification cost basis. Inventory costs primarily consist of product cost from our suppliers, as well
+as inbound freight, import duties, taxes, insurance and logistics and other handling fees.
+Net realisable value is the estimated selling price in the ordinary course of business, less applicable variable
+selling expenses. Net realisable value is determined making allowance for obsolescence of inventories.
+2.7.  Accounts receivable
+Accounts receivable consist primarily of amounts receivable from customers and related entities. Accounts
+receivable from customers are recorded as trade accounts receivable within the"Accounts receivable"
+caption in the consolidated balance sheet. Accounts receivable balances are initially recognised at fair
+value and subsequently measured at amortised cost.
+The Company makes ongoing estimates related to the collectability of its trade accounts receivable and
+maintains an allowance for estimated losses resulting from the inability of its customers to make required
+payments. In addition to judgments about the creditworthiness of significant customers based on ongoing
+credit evaluations, the Company considers historical levels of credit losses, as well as macroeconomic and
+industry trends, to determine the amount of the allowance. Trade accounts receivable determined as
+uncollectible are written off.
+2.8.  Cash and cash equivalents
+short-term investments with a maturity of less than twelve months: Cash and cash equivalents are stated
+at nominal value.
+2.9.  Provisions
+Provisions are recognised for legally enforceable or constructive obligations existing at the balance sheet
+date, the settlement of which is probable to require an outflow of resources whose extent can be reliably
+estimated. Provisions are measured on the basis of the best estimate of the amounts required to settle the
+obligations at the balance sheet date. Unless indicated otherwise, provisions are stated at the present value
+of the expenditure expected to be required to settle the obligations.
+Where some or all of the expenditure required settling a provision is expected to be reimbursed by a third
+party, the reimbursement shall be recognised when it is virtually certain that the reimbursement will be
+received if the entity settles the obligation. The reimbursement shall be treated as a separate asset.
+2.10. Deferred tax assets and liabilities
+tax basis of assets and liabilities, and their carrying amounts in the financial statements. Deferred income
+tax is determined using tax rates that have been enacted or substantially enacted by the balance sheet
+date and are expected to apply when the related deferred income tax asset is realised or the deferred
+income tax liability (recorded within the "Provisions" caption) is settled.
+PricewaterhouseCoopers
+Accountants N.v.
+For identification
+NIKE Flight B.V., Hilversum  pwc  purposes only  21
+
+=== PAGE 27 ===
+Deferred income tax assets, which include deductible temporary differences and available fiscal losses, are
+recognised only to the extent that it is probable that future taxable profit will be available against which the
+temporary differences and fiscal losses can be utilised. Deferred income tax assets maturing in less than
+12 months from the balance sheet date are recorded as deferred tax assets within the "Accounts receivable"
+caption in the balance sheet while those with longer maturity periods are recorded as other long-term assets
+withinthe"Financial fixedassets"caption.
+Deferred income tax is provided on temporary differences arising on investments in group companies,
+associates and joint ventures, except where the timing of the reversal of the temporary difference is
+Deferred income taxes are recognised at nominal value.
+2.11.  Non-current and current liabilities
+Financial liabilities are initially measured at fair value less attributable transaction costs: After initial
+recognition, non-current and current liabilities are carried at amortised cost with any differences between
+costandredemptionvaluerecorded inthecombined statementofincome overtheperiod oftheborrowings
+using the effective interest rate method.
+Liabilities maturing in less than 12 months from the consolidated balance sheet date are classified as
+current, while those with longer maturity periods are classified as non-current.
+2.12.Operating leases
+Leases, in which a significant portion of the risks and rewards incidental to ownership are retained by the
+lessor, are classified as operating leases. Payments made under operating leases (net of any incentives
+received by the lessor) are charged to the income statement on a straight-line basis over the period of the
+lease.
+2.13.Financial instruments
+The Company uses derivative financial instruments to manage financial exposures that occur in the normal
+course of business. The Company does not hold or issue derivatives for trading or speculative purposes.
+The majority of derivatives that the Company uses have been designated and qualify as cash flow hedges.
+All derivatives are recorded at fair value on the balance sheet and changes in the fair value of derivative
+financial instruments are either recognised in the "Revaluation reserve" caption within shareholders' equity,
+if the derivative is formally designated as a hedge and effective, or the financial income and expenses line
+of the income statement if the derivative is not formally designated as a hedge or is designated ineffective.
+Any hedge gains or losses deferred in the “Revaluation reserve" component of shareholders' equity as a
+is also recognised in the income statement.
+The Company shall discontinue hedge accounting on a prospective basis if the hedging instrument expires
+The fair value of derivative contracts is determined using observable market inputs such as the daily market
+foreign currency rates, forward pricing curves, currency volatilities, currency correlations and interest rates
+and considers nonperformance risk of the Company and its counterparties. The Company's fair value
+PricewaterhouseCoopers
+Accountants N.V.
+For identification
+NIKE Flight B.V., Hilversum  pwc  purposes only  22
+
+=== PAGE 28 ===
+measurement process includes comparing fair values to another independent pricing vendor to ensure
+appropriate fair values are recorded.
+3.  Accountingpoliciesfortheincomestatement
+3.1.  General
+Profit or loss is determined as the difference between the realisable value of the goods delivered and the
+costs and other charges for the year. Revenues on transactions are recognised in the year in which they
+are realised.
+3.2.  Revenue recognition
+Revenue comprises the fair value of the consideration received or receivable for the sale of goods in the
+ordinary course of the Company's activities. Revenue is shown net of value-added tax, rebates and
+discounts and after eliminating sales within the Company.
+(0)  Sales of goods
+Revenue from sales of goods is recognised when all significant risks and rewards incidental to the
+ownership of the goods have been transferred tothe buyer.We record estimated sales returns,discounts
+and miscellaneous claims from customers as reductions to revenues at the time revenues are recorded.
+()  Other revenues
+Other revenues mainly relate to providing buying agency services to customers and are recognised on an
+accrual basis in accordance withthesubstanceoftherelevantagreements.
+3.3.  Cost of sales
+Costs of sales represent the direct and indirect expenses attributable to revenue and includes royalty
+expenses. Costs of sales are allocated to the reporting year to which they relate. Shipping and handling
+costs associated with outboundfreight are expensed as incurred and included in cost of sales.
+3.4.  Selling,general and administrative expenses
+Selling, general and administrative expenses consist primarily of wage and benefit related costs, rent,
+depreciation and amortization, professional services, and meetings and travel. Selling expenses and
+general and administrative expenses comprise costs chargeable to the year that are not directly attributable
+to the cost of the goods and services sold.
+3.4.1.Depreciation
+Property, plant and equipment are depreciated over their expected useful life beginning upon the inception
+of their use. Land is not depreciated. Future depreciation is adjusted if there is a change in estimated useful
+life.
+PricewaterhouseCoopers
+Accountants N.V.
+For identification  23
+NIKEFlight B.V., Hilversum  pwc  purposes only
+
+=== PAGE 29 ===
+3.4.2.  Employee benefits
+(0)  Short-term employee benefits
+Salaries, wages and social security costs are charged to the income statement based on the terms of
+employment, when due to employees.
+()  Defined contribution plan
+The Company has pension plans in various countries. The pension plans are only available to local
+employees and are generally government mandated. For its defined contribution schemes, the Company
+basis. Except for the payment of contributions, the Company has no other obligation in connection with
+these pension schemes. Contributions are recognised as expenses when incurred. Prepaid contributions
+payments or a cash refund. Contributions that are due but have not yet been paid are presented as
+liabilities.
+For foreign pension plans, similar to the way in which the Dutch pension system is designed and operates,
+recognition and measurement of liabilities arising from these pension schemes are carried out in
+accordancewiththevaluationoftheDutchpensionschemes.
+(m)  Share option plan
+The Company operates a share option plan for directors and personnel. All costs related to the share option
+3.5.  Financialincomeandexpense
+Interest expense and income is recognised on a time-weighted basis, taking account of the effective interest
+rate of the assets and liabilities concerned. When recognising interest paid, an allowance is made for
+transaction costs on loans received as part of the calculation of effective interest.
+any associated hedge results, in the income statement in the period that they arise.
+3.6.  Income tax
+Income tax is calculated based on the profit/loss before tax in the income statement, taking into account
+any losses carried forward from previous financial years (where not included in deferred income tax assets)
+tax exempt items, and plus non-deductible expenses. Account is also taken of changes in deferred income
+3.7.  Result from participations (valued at net asset value)
+financial statements as a result of the earnings achieved by the participation to the extent that this can be
+attributedtothe Company.
+PricewaterhouseCoopers
+Accountants N.V.
+For identification
+NiKEFlightB.V.,Hilversum  pwc  purposes only  24
+
+=== PAGE 30 ===
+3.8.  Financial instruments
+(0)  Marketrisk-Currencyrisk
+Euros and Chinese Yuan Renminbi. Based on a risk analysis, the Company's Management determined
+that part of the currency risks be hedged. To this end, use is made of forward exchange contracts.
+Forecasted future cash flows as well as certain non-functionai currency denominated monetary assets and
+liabilities are hedged.
+(i)  Marketrisk-Creditrisk
+The Company has significant amounts of trade accounts receivables, accounts receivables from affiliated
+entities, as well as cash and cash equivalents and other investment funds in accounts with banks or other
+financial institutions in the Netherlands and abroad. As a result, we are exposed to the risk of default by or
+failure of counterparties, counterparty affiliated entities and financial institutions. The risk of counterparty
+default or failure may be heightened during economic downturns and events and periods of uncertainty in
+the financial markets. If one of our counterparties were to become insolvent or file for bankruptcy, our ability
+to recover losses incurred as a result of default or our assets that are deposited or held in accounts with
+such counterparty may be limited by the counterparty's liquidity or the applicable laws governing the
+insolvency or bankruptcy proceedings.
+The Company makes ongoing estimates related to the collectability of its trade accounts receivable and
+maintains an allowance for estimated losses resulting from the inability of its customers to make required
+payments. In addition to judgments about the creditworthiness of significant customers based on ongoing
+credit evaluations, the Company considers historical levels of credit iosses, as well as macroeconomic and
+placing cash & cash equivalents with major financial institutions with investment grade credit ratings.
+from affliated entities is low as at the financial reporting date.
+(ii)  Interestrateandcashflowrisk
+The Company incurs interest rate risk on interest-bearing receivables (in particular those included in
+financial assets and cash and cash equivalents) and on interest-bearing non-current and current liabilities
+(including borrowings). Where floating-interest loans and receivables are concerned, the Company incurs
+risk regarding future cash flows. The Company uses cash flow hedges to decrease the cash flow risk.
+PricewaterhouseCoopers
+Accountants N.v.
+Foridentification
+NiKEFlightB.V.,Hilversum  pwc  .purposes only  25
+
+=== PAGE 31 ===
+Property, plant and equipment
+The movement of property, plant and equipment is as follows:
+Machinery
+and  Leasehold  Construction in
+equipment  improvements  progress  Total
+USD'000  USD'000  USD'000  USD'000
+Cost -
+Balanceasof June1,2023  63,735  31,967  470  96.172
+Investments  1,183  1,001  21  2,205
+Disposals  (5,891)  (1,220)  (7,111)
+Reclassifications  101  230  (491)  (160)
+Balanceas ofMay31,2024  59,128  31,978  91,106
+Accumulateddepreciation
+Balance as of June 1, 2023  (47,887)  (23,185)  (71,072)
+Depreciation of the year  (5,751)  (2,833)  (8,584)
+Disposals  4,916  1,155  6,071
+Reclassifications  (6)  (6)
+BalanceasofMay31,2024  (48,728)  (24,863)  (73,591)
+NetbookvalueasofMay31,2024  10,400  7,115  17,515
+NetbookvalueasofMay31,2023  15,848  8,782  470  25,100
+machinery and equipment.
+In fiscal years ended May 31, 2024 and 2023, the depreciation of the year is included in the caption "General
+andadministrativeexpenses"oftheconsolidated incomestatement.
+PricewaterhouseCoopers
+Accountants N.v.
+For identification
+NiKE Flight B.V.,Hilversum  pwc  purposes only  26
+
+=== PAGE 32 ===
+5.  Financial fixed assets
+Themovementoffinancialfixedassetsisasfollows:
+Fair  Other
+value of  long-term
+derivatives  assets  Total
+USD'000  USD'000  USD'000
+Balance as of June 1,2022  118,254  19,734  137,988
+Additions  42,568  42,568
+Releases  (118,254)  (3,708)  (121,962)
+Balance as of May31,2023  42,568  16,026  58,594
+Additions  35,806  4,417  40,223
+Releases  (40,546)  (40,546)
+Balance as of May31,2024  37,828  20,443  58,271
+6.  Inventories
+As of May 31, 2024, inventories amounted to USD 1,806.8 million (May 31, 2023: USD 1,679.6 million).
+The cost of inventories recognized as expense and included in "cost of sales" amounted to USD 20,053.6
+million (USD 20,732.1 million in the year ended May 31, 2023).
+7.  Accounts receivable
+This item ismadeupasfollows:
+May 31,2024  May 31, 2023
+USD'000  USD'000
+Tradeaccountsreceivable  200,475  202.490
+Accountsreceivablefromaffiliatedentities (Note10)  2,053,560  2.199,358
+Corporate income tax receivable (Note 15)  3,034
+Fair value of derivatives (Note 11)  196,761  282,046
+Prepaidexpensesandothercurrentassets  61,702  42,948
+Otheraccounts receivable  33,589  39,114
+2,546,087  2,768,990
+Accounts receivable include balances that fall due in less than one year.The fair value of the accounts
+receivable approximates the book value.
+PricewaterhouseCoopers
+Accountants N.V.
+For identification
+NiKEFlightB.V.,Hilversum  pwc  purposes only  27
+
+=== PAGE 33 ===
+7.1.  Trade accounts receivable
+Trade accounts receivable have current maturities and do not earn interest.
+Asof May31,2024and2023,this item includesthebaddebtreserveforuncollectibleaccounts receivable
+amounted to USD 6.7 million and USD 7.9 million, respectively.
+8.  Cash and cash equivalents
+This item is made up as follows:
+May 31, 2024  May 31, 2023
+USD'000  USD'000
+Current accounts  1,615,917  1,510,164
+Investmentfunds  4,660,972  3,937,956
+6,276,889  5,448,120
+Balances held at banks related to current accounts are fully available, denominated in multiple currencies
+andbearinterestatmarketrates.
+9.  Current liabilities
+This item is made up as follows:
+May 31, 2024  May 31, 2023
+USD'000  USD'000
+Bank overdraft  1,675,549  1,850,879
+Trade creditors  1,133,509  1,082,679
+Accountspayabletoaffiliatedentities (Note10)  1,658,711  1,595,668
+Corporate income tax payable (Note 15)  53,097  31,697
+Othertaxespayable  29,004  29,302
+Salaries and wages  39,202  49,037
+Fairvalueofderivatives (Note11)  41,591  66,907
+Accruals and deferred income  310,750  285,984
+4,941,413  4,992,153
+The fair value of the current liabilities approximates the book value.
+Bank overdraft accrue interest at market rates.
+PricewaterhouseCoopers
+Accountants N.V.
+For identification
+NIKE Flight B.V., Hilversum  pwc  purposes only  28
+
+=== PAGE 34 ===
+10.  Transactions withaffiliated entities
+Thisitemismadeupasfollows:
+May 31,2024  May 31,2023
+USD'000  USD'000
+Accountsreceivablefromaffiliatedentities-
+Trade  1,678,564  1,707,692
+Loans  282,786  330,207
+Other  92,210  161,459
+2,053,560  2,199,358
+Accounts payable to affiliated entities -
+Trade  685,721  310,926
+Loans  879,733  1,236,960
+Other  93,257  47,782
+1,658,711  1,595,668
+10.1.Trade accounts receivable and payable from/to affiliated entities
+interest.
+10.2.Loans receivable and payable from/to affiliated entities
+Loans receivables from affiliated entities mainly relate to loans granted by NFBV to NIKE, Inc. affiliates.
+Loans payables to affliated entities relate to surplus funds placed as deposits at FLIGHT by NIKE, Inc
+affiliates.
+Intercompany loans bear interest which are mainly referenced to a predefined benchmark rate plus a
+spread, such as: SHIBOR, Mexico Interbank TIIE 28, TONAR, and CME Term SOFR 1 Month. They can
+be demanded at any time by NFBV and are therefore considered to be short-term in nature.
+11.  Financial instruments - Forward exchange contracts
+In the normal course of business, the Company is exposed to risk arising from changes in currency
+exchange rates. Foreign currency fluctuations affect the recording of transactions, such as sales, purchases
+and intercompany transactions denominated in non-functional currencies. In order to manage these risks,
+exchange exposure of certain non-functional currency denominated monetary assets and liabilities. The
+Company does not hold or issue derivatives for trading or speculative purposes. The forward exchange
+contracts are entered into based on the anticipated cash flow needs of such currencies.
+Gains and losses on hedges which receive deferral hedge accounting, to the extent they are effective, are
+deferred in the "Revaluation reserve" caption within shareholders' equity and are recognised in the income
+PricewaterhouseCoopers
+Accountants N.V.
+For identification  29
+NiKEFlight B.V., Hilversum  pwc  purposes only
+
+=== PAGE 35 ===
+statement at the time the underlying hedged item is also recognised in the income statement. Gains and
+consolidated income statement in the current year.
+Notional value and gain (loss) in relation to outstanding forward exchange contracts, disclosed by currency
+andrelatedtypeofassetsand liabilities,areasfollows:
+May 31, 2024  May 31, 2023
+Amounts inmillions  Fair value  Fair value
+Notional  Notional
+Type of asset and liability  amount  Assets  Liabilities  amount  Assets  Liabilities
+USD  USD  USD  USD  USD  USD
+Cash flow hedges -
+Currency forward (Third-party)  8,792.8  222.0  39.8  9,386.4  316.5  75.7
+Non-hedging instruments -
+Currency forward (Third party)  2,177.8  12.6  1.9  2,678.0  8.1  25.0
+TOTAL  234.6  41.7  324.6  100.7
+Current portion  196.8  41.6  282.0  66.9
+Non-currentportion  37.8  0.1  42.6  33.8
+The cumulative change in the fair value of the non-matured non-hedging contracts as per May 31, 2024 is
+negative USD 10.7 million (May 31, 2023: 16.9 million). The Company recorded no ineffectiveness from its
+hedges for the years ended May 31, 2024 and 2023.
+12.  Revenues
+During the years ended May 31, 2024 and 2023, revenues by geographical area of the Company are as
+follows:
+June1,2023-  June 1, 2022 -
+May 31, 2024  May31,2023
+USD'000  USD'000
+Asia Pacific and Latin America  4,302,711  4,790,041
+Europe,the Middle East and Africa  6,338,522  6,357,693
+North America  7,465,378  8,110,314
+Greater China  2,704,360  2,424,396
+Other  175,905  157,163
+20,986,876  21,839,607
+PricewaterhouseCoopers
+Accountants N.v.
+For identification
+NiKEFlight B.V.,Hilversum  pwc  purposes oinly  30
+
+=== PAGE 36 ===
+During the years ended May 31, 2024, and 2023, revenues by category are as follows:
+June 1, 2023 -  June 1, 2022 -
+May 31, 2024  May31,2023
+USD'000  USD'000
+Trade activities  20,667,227  21,533,103
+Other revenues  319,649  306,504
+20,986.876  21,839,607
+13.  Wages and salaries
+This item is made up as follows:
+June 1, 2023 -  June 1, 2022 -
+May 31, 2024  May 31, 2023
+USD'000  USD'000
+By nature -
+Salaries and wages  116,167  109,417
+Social charges  15,661  16,483
+. Pension charges  5,869  3,626
+137,697  129,526
+Personnel expenses are distributed among the "Selling expenses" and "General and administrative
+expenses" captions of the consolidated income statement, depending on the activities undertaken by the
+employeesconcerned.
+June 1, 2023 -  June 1, 2022 -
+May 31, 2024  May 31, 2023
+USD'000  USD'000
+Bygeographical area-
+In the Netherlands  1,159  1,081
+OutsidetheNetherlands  136,538  128,445
+137,697  129,526
+PricewaterhouseCoopers
+Accountants N.v.
+For identification
+NIKEFlight B.V., Hilversum  pwc  purposes only  31
+
+=== PAGE 37 ===
+14.  Financial incomeand expenses
+This item is made up as follows:
+June 1, 2023 -  June 1, 2022 -
+May 31, 2024  May 31, 2023
+USD'000  USD'000
+Interest income  342,822  177,872
+Interestexpense  (163,842)  (102,910)
+Exchangedifferences  6,837  27,533
+Disposal gain  942  445
+186,759  102,940
+In the fiscal year ended May 31, 2024, interest income and interest expense included intercompany
+transactions of USD 29.4 million and USD 64.9 million, respectively (USD 31.1 million and USD 46.9 million,
+respectively, in the year ended May 31, 2023).
+15.  Income tax
+The reconciliation between the statutory income tax rate and the effective tax rate is as follows:
+June 1, 2023 -  June 1, 2022 -
+May 31, 2024  May 31, 2023
+USD'000  USD'000
+Resultbeforeincometax  298,660  175,766
+AtDutchstatutory incometax  77,054  45,348
+Dutch statutory incometax rate  25.8%  25.8%
+Taxation on result  48,357  40,215
+Effectivetaxrate  16.2%  22.9%
+and the tax rates applicable in the countries concerned. In fiscal years ended May 31, 2024 and 2023, the
+effective tax rate differed mainly due to the Singapore branches. From June 1, 2021 the Singapore
+branches were granted Development and Expansion Incentive status in accordance with section 19J of the
+Economic Expansion Incentives (Relief from Income Tax) Act ("EEIA") subject to meeting certain
+conditions. Under the Development and Expansion Incentive status, qualifying income as defined in the
+Development and Expansion Certificate is taxed at a concession rate under section 19J(5D) of the EEIA.
+payable amount of USD 53.1 million, relating to different territories.
+As of May 31, 2023, the corporate income tax position in the consolidated balance sheet resulted in a
+receivable amount of USD 3.0 million and a payable amount of USD 31.7 million, relating to different
+territories.
+PricewaterhouseCoopers
+Accountants N.vV.
+For identification
+NIKE Flight B.V., Hilversum  pwc  purposes only  32
+
+=== PAGE 38 ===
+The Company acts as the lead entity of a UsD Dutch fiscai income tax unity. In accordance with the
+payable by the entity and the members of the fiscal unity.
+Income tax is calculated on the result before tax in the income statement, taking into account any losses
+carried forward from previous financial year and tax-exempt items, and plus non-deductible expenses.
+Account is also taken of changes in deferred tax assets and liabilities owing to changes in the applicable
+tax rates.
+The Organization for Economic Co-operation and Development (the "OECD') and the G20 Inclusive
+Framework on Base Erosion and Profit Shifting (the "Inclusive Framework") has put forth two proposals -
+Pillar One and Pillar Two - that revise the existing profit allocation and nexus rules and ensure a minimal
+level oftaxation,respectively.
+On December 21, 2023, the RJ issued amendments to Chapter 272 'Taxes on profit (paragraph 272.717,
+part a) introducing a mandatory temporary exception to the requirements of Chapter 272 under which a
+company does not recognize or disclose information about deferred tax assets and liabilities related to the
+proposed OECD and G20 BEPS Pillar Two model rules. The Company applied the temporary exception at
+May 31, 2024.
+Pillar Two legislation will be effective for the Company financial year beginning June 1, 2023. Based on
+our current analysis of Pillar Two provisions, we do not expect these tax law changes to have a material
+16.  Employees
+During fiscal year ended May 31, 2024, the Company employed an average of 2,678 of which 2,669 work
+outside of the Netherlands (fiscal year ended May 31, 2023: 2,544 of which 2,536 work outside of the
+Netherlands).
+June 1, 2023 -  June 1, 2022 -
+May 31,2024  May 31,2023
+Sales & Marketing  1,326  1,450
+Support  1,352  1,094
+2,678  2,544
+PricewaterhouseCoopers
+Accountants N.V.
+Foridentification  33
+NIKE Flight B. V., Hilversum  pwc  purposes only
+
+=== PAGE 39 ===
+17.  Commitments and contingencies
+As of May 31, 2024, the Company held contracts related to operating lease agreements, whose minimum
+undiscountedfuturepaymentswereasfollows:
+Operating lease
+agreements
+USD'000
+Within one year  20,934
+Between one andfiveyears  41,105
+After five years  12,373
+74,412
+As of May 31, 2023, commitments related to operating lease amounted to USD 35.3 million.
+Expenses incurred in connection with the operating lease agreements in fiscal years ended May 31, 2024
+and 2023, amounted to USD 17.3 milion and USD 16.2 million, respectively.
+USD 3.0 milion and USD 3.0 million, respectively.
+In the ordinary course of its business, the Company is involved in various legal proceedings involving
+contractual and employment relationships, product liability claims, trademark rights, and a variety of other
+matters. While the Company cannot predict the outcome of its pending legal matters with certainty, the
+Company does not believe any currently identified claim, proceeding or litigation, either individually or in
+flows.
+18.  Share option plans
+As indicated in Note 3.5.2, NIKE, Inc. has granted share options to certain employees of the Company. In
+fiscal year ended May 31, 2024, the expense in relation to these obligations related to employees of the
+Company amounted to approximately USD 6.6 million, (USD 5.7 million in the year ended May 31, 2023).
+Expenses associated with this stock-based compensation plan are fully assumed and recorded by NlKE,
+Inc.
+For more details regarding stock-based compensation plans refer to the consolidated financial statements
+of NIKE, Inc.
+PricewaterhouseCoopers
+Accountants N.V.
+For identification  34
+NIKE Flight B.V., Hilversum  pwc  purposes only
+
+=== PAGE 40 ===
+19.  Audit fees and services
+The total audit fees and services are:
+June 1, 2023 -  June 1, 2022 -
+May 31,2024  May 31,2023
+USD'000  USD'000
+Audit of the financial statements*  128  119
+Otherauditprocedures
+Tax services
+Othernon-auditservices
+128  119
+* PricewaterhouseCoopers Accountants N.V.
+performed during the financial year.
+20.  Subsequent events
+The directors are not aware of subsequent events which could have any significant impact on these
+financial statements.
+21.  Proposeddistributionofthenetresultoftheyear
+The Directors propose to add the profit of the fiscal year ended May 31, 2024 amounting to UsD 250.3
+million (fiscal year ended May 31, 2023: USD 135.6 million) to the other reserves.
+PricewaterhouseCoopers
+Accountants N.V.
+For identification
+NiKEFlightB.V.,Hilversum  pwc  purposes only  35
+
+=== PAGE 41 ===
+Company financial statements for the year ended May 31, 2024
+PricewaterhouseCoopers
+Accountants N.v.
+For identification  36
+NiKEFlightB.V.,Hilversum  pwc  purposes only
+
+=== PAGE 42 ===
+BalancesheetasofMay31,2024
+(Beforeproposedappropriationofresult)
+Note  May 31,2024  May 31, 2023
+USD'000  USD'000  USD'000  USD'000
+Assets
+Non-current assets
+Financial fixed assets  5,741,959  4,561,728
+5,741,959  4,561,728
+Current assets
+Accounts receivable  1,665  388,883
+Cash and cash equivalents  6,224  8,957
+7,889  397,840
+5,749,848  4,959,568
+Shareholders'equity and liabilities
+Shareholders' equity
+Issued share capital  16  16
+Share premium  4,601,739  3.988,519
+Revaluationreserve  164,058  216,757
+Translation differences reserve  (3,963)  (701)
+Otherreserves  734,761  597,938
+Net result of the year  250,303  135,551
+5,746,914  4,938,080
+Non-currentliabilities
+Current liabilities  2,934  21,488
+5,749,848  4,959,568
+PricewaterhouseCoopers
+Accountants N.v.
+For identification
+NIKEFlight B.V., Hilversum  pwc  purposes only  37
+
+=== PAGE 43 ===
+Income statement for the year ended May 31, 2024
+Note  June 1, 2023-  June 1, 2022 -
+May 31, 2024  May 31, 2023
+USD'000  USD'000
+Result from participations after taxation  245,302  124,105
+Other income and expenses after taxation  5,001  11,446
+Net result of the year  250,303  135,551
+The accompanying notes to the company financial statements are an integral part of this statement.
+PricewaterhouseCoopers
+Accountants N.V.
+Foridentification
+NIKEFlightB.V.,Hilversum  pwc  purposes only  38
+
+=== PAGE 44 ===
+Notes to the company financial statements for the year ended May 31, 2024
+1.  General
+1.1.  Accounting Policies
+These financial statements have been prepared in accordance with the statutory provisions of Part 9, Book
+2, of the Dutch Civil Code and the firm pronouncements in the Guidelines for Annual Reporting in the
+Netherlands as issued by the Dutch Accounting Standards Board.
+In general, assets and liabilities are stated at the amounts at which they were acquired or incurred or at fair
+or incurred.The balance sheet and income statement include references to the notes.
+1.2.  Accounting policies for the company balance sheet and income statement
+The accounting policies disclosed in Notes 2 and 3 of the consolidated financial statements are also
+at net asset value.
+2.  Financial fixed assets
+The movement of financial fixed assets is as follows:
+Investments in
+subsidiaries
+USD'000
+BalanceasofJune1,2022  4,670,089
+Result from participations after taxation  124,105
+Translationdifferences  (2,618)
+Releases  (229,848)
+Balance as of May 31, 2023  4,561.728
+Result from participations after taxation  245.302
+Translation differences  (3,262)
+Releases  (52,698)
+Pension  1,272
+Contributions  1,003,660
+Dividends  (14,043)
+BalanceasofMay31,2024  5,741,959
+PricewaterhouseCoopers
+Accountants N.v.
+For identification
+NIKEFlight B.V., Hilversum  pwc  purposes only  39
+
+=== PAGE 45 ===
+2.1  Investments in subsidiaries
+AsofMay31,2024theCompany's interests inthedirectlyheldparticipationsareasfollows:
+Entity  Share Capital  Country
+NIKE 360 Holding B.V.  100  Hilversum, The Netherlands
+NIKE Fuel B.V.  100  Hilversum, The Netherlands
+NIKE Asia Holding B.V.  100  Hilversum, The Netherlands
+NIKE Trading Company B.V.  100  Hilversum, The Netherlands
+NIKE Global Trading B.V.  100  Hilversum, The Netherlands
+NIKEDigital Technology (Shenzhen) Co., Ltd.  100  Shenzhen, China
+NIKE India Technology Center Private Limited  100  Bangalore, India
+3.  Accounts receivable
+This item is made up as follows:
+May31,2024  May 31, 2023
+USD'000  USD'000
+Accountsreceivablefromaffiliatedentities (Note6)  1,660  388,109
+.Prepaid expenses and other current assets  774
+1,665  388,883
+Accounts receivable include balances that fall due in less than one year. The fair value of the accounts
+receivableapproximatesthebookvalue.
+PricewaterhouseCoopers
+Accountants N.v.
+For identification
+NiKEFlightB.V.,Hilversum  pwc  purposes only  40
+
+=== PAGE 46 ===
+4.  Shareholders' equity
+4.1.  Movement of shareholders'equity
+Themovementofshareholders'equityisasfollows:
+Issued  Translation  Net result
+share  Share  Revaluation  differences  Other  of the
+capital  premium  reserve  reserve  reserves  year  Total
+USD'000  USD'000  USD'000  USD'000  USD'000  USD'000  USD'000
+Balanceas ofMay31,2022  16  3,988,519  445,976  1,917  400,377  198,189  5,034,994
+Appropriation of prior year's  198,189  (198,189)
+result
+Translationadjustmentofthe  (2,618)  (2,618)
+year
+Cashflowhedgereserve  (229,219)  (229,219)
+Net result of the year  135,551  135,551
+Actuarial loss onpension  (628)  (628)
+fund
+BalanceasofMay31,2023  16  3,988,519  216,757  (701)  597,938  135,551  4,938,080
+Appropriation of prior year's  135,551  (135,551)
+result
+Translation adjustment of  (3,262)  (3,262)
+the year
+Capital Contribution  613,220  613,220
+Cash flowhedge reserve  (52,699)  (52,699)
+Net result of the year  250,303  250.303
+Actuarial gain on pension  1,272  1,272
+fund
+BalanceasofMay31,2024  16  4,601,739  164,058  (3,963)  734,761  250,303  5,746,914
+4.2.  Issued share capital
+The authorised share capital is comprised of 16,029 ordinary shares (May 31, 2023: 16,029), each having
+a nominal value of USD 1.00 (May 31, 2023: USD 1.00).
+4.3.  Share premium
+The Company received USD 613.2 million capital contribution from the parent company NIKE Victory
+Cooperatief U.A. (fiscal year ended May 31, 2023: none).
+PricewaterhouseCoopers
+Accountants N.V.
+For identification  41
+NIKE Flight B.V., Hilversum  pwc  purposes only
+
+=== PAGE 47 ===
+4.4.  Revaluation reserve
+The caption "Revaluation reserve" includes the unrealised net gain (loss) from derivatives instruments used
+as cash flows hedges.
+4.5.  Other reserves
+In accordance with the Articles of Association of the Company, the net result of the year is added annually
+to the "Other reserves".
+5.  Current liabilities
+This item is made up as follows:
+May31,2024  May31,2023
+USD'000  USD'000
+Accounts payable to affliated entities (Note 6)  16.642
+Corporateincometaxpayable  2,774  4,680
+Other accruals and other liabilities  112  166
+2,934  21,488
+The fair value of the current liabilities approximates the book value.
+6.  Transactionswithaffiliatedentities
+This item is made upas follows:
+May 31, 2024  May31,2023
+USD'000  USD'000
+Accountsreceivablefromaffiliatedentities-
+Trade  930  217
+Loans  387,892
+Other  730
+1,660  388.109
+Accounts payable to affiliated entities -
+Trade  48  11,711
+Loans  4,931
+48  16,642
+PricewaterhouseCoopers
+Accountants N.v.
+For identification  42
+NIKE Flight B.V.,Hilversum  pwc  purposes only
+
+=== PAGE 48 ===
+6.1.  Trade accounts receivable and payable from/to affiliated entities
+interest.
+6.2.  Loans receivable and payable from/to affiliated entities
+Loans receivables from affiliated entities mainly relate to loans granted by NFBV to NIKE, Inc. affiliates.
+Intercompany loans bear interest which are mainly referenced to a predefined benchmark rate plus a
+therefore considered to be short-term in nature.
+7.  Employees
+During the fiscal year ended May 31, 2024, the Company employed an average of 9 employees, all of which
+work in the Netheriands (fiscal year ended May 31, 2023: 8 employee).
+June1,2023-  June 1, 2022 -
+May 31, 2024  May 31, 2023
+Support
+8.  Remunerationofdirectors
+The Company pays no remuneration to the directors.
+9.  Commitments and contingencies
+As of May 31, 2024 and May 31, 2023, the Company did not hold any contracts related to operating lease
+agreements and endorsement agreements.
+Fiscal unity
+NFBV acts as the lead entity of a Dutch fiscal income tax unity. In accordance with the standard conditions,
+the members of the fiscal unity.
+PricewaterhouseCoopers
+AccountantsN.V.
+For identificationi
+NIKE Flight B.V., Hilversum  pwc  purposes only  43
+
+=== PAGE 49 ===
+Liability undertaking
+The Company has issued a declaration of joint and several liabilities as referred to in Section 403, Book 2,
+of the Dutch Civil Code in respect of NIKE 360 Holding B.V., NiKE Trading Company B.V., NIKE Asia
+Holding B.V., NIKE Fuel B.V.and NIKE Global Trading B.V.
+Hilversum,June2,2025
+BoardofDirectors,
+M. Meijer  C.J. Wilson-Chiru
+PricewaterhouseCoopers
+Accountants N.V.
+For identification  44
+NIKE Flight B.V., Hilversum  pwc  purposes only
+
+=== PAGE 50 ===
+Other information
+a.  Office
+NiKE Flight B.V. has its registered office at Colosseum 1, 1213NL Hilversum, the Netherlands.
+b.  Profit appropriation according to the Articles of Association
+and other persons entitled distributable profits to the extent its equity exceeds the total amount of its issued
+share capital and the reserves to be maintained pursuant to the law. Distributions shall take place pursuant
+to a resolution of the general meeting, adopted upon the proposal of the meeting of the relevant classes of
+shareholders.
+c.  Branches
+The Company owns the following branches as at May 31, 2024:
+Branch name  Jurisdiction of formation
+NIKE Digital Technology (Shenzhen) Co., Ltd. Shanghai Branch  China
+NiKE360HoldingB.V.HongKongBranch  Hong Kong
+NiKE 360 Holding B.V. Italy Branch  Italy
+NiKE360 Holding B.V.Korea Branch  The republic of Korea
+NIKE360 Holding B.V.Sri Lanka Branch  Sri Lanka
+NIKE360 Holding B.V.Taiwan Branch  Taiwan
+NIKE 360 Holding B.V. Turkey Branch  Turkiye
+NIKE360UKBranch  United Kingdom
+NIKEGlobal Trading B.V.Singapore Branch  Singapore
+NIKETrading Company B.V.Singapore Branch  Singapore
+NIKE Sourcing (Guangzhou) Co., Ltd., Fuzhou Branch  China
+NIKE Sourcing (Guangzhou) Co., Ltd., Qingdao Branch  China
+NIKE Sourcing (Guangzhou) Co., Ltd., Shanghai Branch  China
+NIKE Sourcing (Guangzhou) Co., Ltd., YangPu Branch  China
+PricewaterhouseCoopers
+Accountants N.V.
+Foridentification  45
+NIKE Flight B.V., Hilversum  pwc  purposes only
+
+=== PAGE 51 ===
+d.  Independent auditor's report
+PricewaterhouiseCoopers
+Accountants N.V.
+For identification
+NIKE Flight B.V., Hilversum  pwc  purposes only  46
+
+=== PAGE 52 ===
+pwc
+Independent auditor's report
+To: the general meeting of Nike Flight B.V.
+Report on the audit of the financial statements for the year
+ended 31 May 2024
+Our opinion
+In our opinion, the financial statements of Nike Flight B.V. ("the Company') give a true and fair view of the financial position of
+the Company and the Group (the Company together with its subsidiaries) as at 31 May 2024, and of its result for the year then
+ended in accordancewith Part 9 of Book 2of theDutch Civil Code.
+What we have audited
+We have audited the accompanying financial statements for the year ended 31 May 2024 of Nike Flight B.V., Hiversum. The
+financial statements comprise the consolidated financial statements of the Group and the company financial statements.
+Thefinancialstatementscomprise:
+:the consolidated and company balance sheetas at31May2024;
+: the consolidated and company income statement for the year then ended; and
+: the notes, comprising a summary of the accounting policies applied and other explanatory information.
+The financial reporting framework applied in the preparation of the financial statements is Part 9 of Book 2 of the Dutch Civil
+Code.
+The basis for our opinion
+We conducted ouraudit in accordancewithDutch law, including the DutchStandards on Auditing.We have furtherdescribed
+our responsibilities under those standards in the section'Ourresponsibilities forthe audit of the financial statements'of our
+report.
+Webelieve that theauditevidencewe have obtained is sufficientand appropriatetoprovide a basis for ouropinion.
+Page 1 of 7
+.Prioowaterhouser.nnners Accountants,N.V., Thomas R. Malthusstraat 5, 1066 JR Amsterdam, P.0. Box 90357. 1006 BJ Amsterdam, the Netherlands, T: +31 (0) 88 792 00 20,
+www.pwc.nl
+'PwC*is the brand underwhich PricewalermouseCoopers Accountanls N.V.(Chamber of Commerce 34180285),PricewaterhouseCoopers Belastingadviseurs N.V.(Chamber of Commerce 34180284),  anceServicesB.V.(ChamberofCommerce51414406),PricewaterhouseCoopersPensions,Actuarial
+&InsuranceServices B.V.(ChamberorCommerce54226368).PricewaternouseCoopersB.V.(ChamberofCommerce34180289)endothercompanlesoperateandprovideservices.Theseservices.aregoverned  msandConditi
+been filed at the Amsterdam Chamber of Cammerce.
+
+=== PAGE 53 ===
+pwc
+Independence
+supervision act),the"Verordening inzakede onafhankelijkheidvan accountants bij assuranceopdrachten'(ViO,Code of Ethics
+for Professional Accountants, a regulation with respect to independence) and other relevant independence regulations in the
+Code of Ethics).
+Information in support of our opinion
+We designed our audit procedures with respect to fraud and going concern and the matters resulting from that, in the context of
+our audit of the financial statements as a whole and in forming our opinion thereon. The information in support of our opinion,
+such as our findings and observations related to the audit approach fraud risk and the audit approach going concern was
+addressed in this context, and we do not provide separate opinions or conclusions on these matters.
+Audit approach fraud risks
+We identified andassessed the risks of material misstatements of the financial statements due tofraud.During our audit we
+obtained an understanding of Nike Flight B.V. and its environment and the components of the internal control system. This
+included the board of directors' risk assessment process, the board of directors' process for responding to the risks of fraud and
+monitoring the internal control system. We refer to section 'Business and Operational risk' of the management report of the
+directors fortheboard of director's fraud riskassessment.
+We evaluated thedesign and relevant aspects ofthe internal control systemwith respect to the risks ofmaterial misstatements
+due tofraud and in particular the fraud risk assessment, as wellas the code of conduct, whistleblower procedures, and
+investigation protocols, among other things. We evaluated the design and the implementation and, where considered
+appropriate, tested the operating effectiveness of internal controls designed to mitigate fraud risks.
+We asked members of the management board as wellas the internal audit department,legalaffairs,and compliance
+department whether they are aware of any actual or suspected fraud. This did not result in signals of actual or suspected fraud
+thatmayleadtoamaterialmisstatement.
+As part of our process of identifying fraud risks, we evaluated fraud risk factors with respect to financial reporting fraud,
+misappropriation of assets and bribery and corruption. We evaluated whether these factors indicate that a risk of material
+misstatement due to fraud is present.
+We identified the following fraud risks and performed the following specific procedures:
+Page 2 of 7
+Independent auditor's report, Nike Flight B.V.,2 June 2025
+
+=== PAGE 54 ===
+pwc
+Identified fraud risks  Oul auuit work and obcorvatloris
+Management override of control  We evaluated the design and implementation of the internal control system in the processes of
+Management is in a unique position to perpetrate fraud  generating and processing joumal entries,making estimates,and monitoring unusuai transactions.We
+because of management's ability to manipulate  selected journal entries based on risk criteria and conducted specific audit procedures for these entries.
+accounting records and prepare fraudulent financial  These procedures include, among others, inspection of the entries source documentation. We also paid
+statements by overriding controls that otherwise  particular attention to consolidation and elimination entries.
+appear to be operating effectively.  We did not identify any significant unusual transaclions outside the normal course of business.
+That is why, in all our audits, we pay attention to the  I We paid specific attention to the access safeguards in the IT system and the possibility that these lead
+risk of management override of controls in: - the
+appropriateness of joumal entries and other  to violations of the segregation of duties.
+adjustments made in the preparation of the financial  We also performed audit procedures relating to important estimates of management, including the
+statements; -the accounting for estimates due to  recoverability of investments in subsidiaries and afliates. We specifically paid attention to the inherent
+potential biases from management that can teadto a  risk of bias of management in estimates.
+risk of material misstatement; - significant
+transactions, if any, outside the normal course of  j Our audit procedures did not lead to specific indications of fraud or suspicions of fraud with respect to
+business for the entity.  management override of control.
+We incorporated an element of unpredictability in ouraudit.[We reviewed lawyer's letters and correspondence with regulators].
+During the audit, we remained alert to indications of fraud. Furthermore, we considered the outcome of our other audit
+procedures and evaluated whether any findings were indicative offraud or non-compliance with laws and regulations.
+Audit approach going concern
+The board of directors prepared the financial statements on the assumption that the entity is a going concern and that it will
+continue all its operations for at least 12 months from the date of preparation of the financial statements.
+Ourprocedures to evaluate the board ofdirectors'going-concern assessment included,amongst others:
+considering whether the board of directors identified events or conditions that may cast significant doubt on the entity's
+ability to continue as a going concern (hereafter: going-concern risks);
+consideringwhethertheboard of directors'going-concernassessment includedall relevant information ofwhichwe were
+aware as a result of our audit and inquiring with the board of directors regarding the board of directors'most important
+assumptions underlying its going-concern assessment;
+performing inquiries of the board of directors as to its knowledge of going-concern risks beyond the period of the board of
+directors' assessment.
+Based on ourprocedures performed,we concluded that theboard of directors'use of thegoing-concern basis ofaccounting is
+appropriate, and based on the audit evidence obtained, that no material uncertainty exists related to events or conditions that
+may cast significant doubt on the entity's ability to continue as a going concern.
+Page 3 of 7
+Indepondont auditor's repoit, Nike Flluhil 8.V., 2 June 2025
+
+=== PAGE 55 ===
+pwc
+Report on the other information included in the annual
+financial report
+The annual financial report contains other information. This includes ali information in the annual financial report in addition to
+the financial statements and our auditor's report thereon.
+Based on the procedures performed as set out below, we conclude that the other information:
+is consistentwiththefinancial statementsanddoesnotcontainmaterial misstatements;and
+the Dutch Civil Code.
+Wehave read the other information. Based on our knowledge and the understanding obtained in our audit of thefinancial
+statements orotherwise,we have considered whether the other information contains material misstatements.
+By performing our procedures, we comply with the requirements of Part 9 of Book 2 of the Dutch Civil Code and the Dutch
+Standard 720o. The scope of such procedures was substantially less than the scope of those procedures performed in our audit
+of the financial statements.
+Theboard of directors is responsible for the preparation of the other information, including the directors'report and the other
+information inaccordancewithPart9of Book2of theDutchCivil Code.
+Responsibilitics for the financial statements and the audit
+Responsibilities of the board of directors
+The board of directors is responsible for:
+:the preparation and fair presentation of the financial statements in accordance with Part 9 of Book 2 of the Dutch Civil
+Code; and for
+such internal control as theboard of directors determines is necessaryto enable the preparation of the financial statements
+that are freefrom material misstatement, whetherdue to fraud or error.
+Page 4 of 7
+Independent auditor's report, Nike Flight B.V., 2 June 2025
+
+=== PAGE 56 ===
+pwc
+In preparing the financial statements, the board of directors is responsible for assessing the Company's ability to continue as a
+going concern. Based on the financial reporting framework mentioned, the board of directors should prepare the financial
+statements using the going-concern basis of accounting unless the board of directors either intends to liquidate the Company or
+to cease operations or has no realistic alternative but to do so. The board of directors should disclose in the financial statements
+any event and circumstances that may cast significant doubt on the Company's ability to continue as a going concern.
+Our responsibilities for the audit of the financial statements
+Our responsibility is to plan and perform an audit engagement in a manner that allows us to obtain sufficient and appropriate
+audit evidence to provide a basis for our opinion. Our objectives are to obtain reasonable assurance about whether the financial
+statements as a whole are free from material misstatement, whether due to fraud or error and to issue an auditor's report that
+includes our opinion. Reasonable assurance is a high but not absolute level of assurance, and is not a guarantee that an audit
+conducted in accordance with the Dutch Standards on Auditing will always detect a material misstatement when it exists.
+Misstatements may arise due to fraud or error. They are considered material if, individually or in the aggregate, they could
+reasonably be expected to influence the economic decisions of users taken on the basis of the financial statements.
+Materiality affects the nature, timing and extent of our audit procedures and the evaluation of the effect of identified
+misstatements on our opinion.
+A more detailed description of our responsibilities is set out in the appendix to our report.
+Amsterdam, 2 June 2025
+PricewaterhouseCoopersAccountantsN.V.
+W.VoorthujsenRA
+Original has been signed by W. Voorthuijsen RA
+Page 5 of 7
+Independent auditor's repoit, Nike Flight B.V., 2 June 2025
+
+=== PAGE 57 ===
+pwc
+Appendix to our auditor's report. on the financial 'statements
+for the year ended 31. May 2024 of Nike Flight B.V.
+In addition to what is included in our auditor's report, we have further set out in this appendix our responsibilities for the audit of
+the financial statements and explained what an audit involves.
+The auditor's responsibilities for the audit of the financial
+statements
+Wehave exercised professional judgementand have maintained professional scepticism throughout the audit in accordance
+with Dutch Standards on Auditing, ethical requirements and independence requirements. Our audit consisted, among other
+things of the following:
+: Identifying and assessing the risks of material misstatement of the financial statements, whether due to fraud or error,
+higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations,
+orthe intentional override of internal control.
+Obtaining an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate
+control.
+ Evaluating the appropriateness of accounting policies used and the reasonableness of accounting estimates and related
+disclosures made by the board of directors.
+ Concluding on the appropriateness of the board of directors' use of the going-concern basis of accounting, and based on
+the audit evidence obtained, concluding whether a material uncertainty exists related to events and/or conditions that may
+cast significant doubt on the Company's ability to continue as a going concern. If we conclude that a material uncertainty
+exists, we are required to draw attention in our auditor's report to the related disclosures in the financial statements or, if
+such disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit evidence obtained up to
+the date of our auditor's report and are made in the context of our opinion on the financial statements as a whole. However,
+: Evaluating the overall presentation, structure and content of the financial statements, including the disclosures, and
+evaluating whether the financial statements represent the underlying transactions and events in a manner that achieves fair
+presentation.
+Page 6 of 7
+Iyeyendent auditorc roport, Nike Ftight R.V..2 June 2025
+
+=== PAGE 58 ===
+Pwc
+We areresponsibleforplanningand performingthegroup audit to obtain sufficientappropriate auditevidenceregarding the
+financial information of the entities or business units within the group as a basis for forming an opinion on the financial
+statements.We are alsoresponsibleforthe direction,supervision and review ofthe audit work performed forpurposes of the
+groupaudit.Weremain solelyresponsibleforourauditopinion.
+We communicate with the board of directors regarding, among other matters, the planned scope and timing of the audit and
+significant audit findings, including any significant deficiencies in internal control that we identify during our audit.
+Page7of 7
+Indenennentauultui'seport,NikeFlightB.V.,2June.2n?5.
