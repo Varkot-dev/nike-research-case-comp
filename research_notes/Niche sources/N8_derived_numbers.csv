@@ -18,7 +18,18 @@ Op leverage FY24->FY26: dSales,-4964,filings
   share of EBIT fall NOT explained by sector volume leverage %,87.0,DERIVED
 FY28 EBIT at consensus 7.2% ($M),3139,D5
 FY28 EBIT at 11.6% ($M),5058,D5
-Extra sales needed at BRB beta 0.074 to add that EBIT ($M),25924,DERIVED
+Nike EBIT lost per $ of sales lost FY23->FY26,0.487,DERIVED from filings; sector BRB beta 0.074
+Nike EBIT lost per $ of sales lost FY24->FY26,0.542,DERIVED from filings; sector BRB beta 0.074
+FY24->FY26 gross profit change ($M),-2976,filings
+  of which volume at FY24 gross margin ($M),-2212,DERIVED
+  of which rate (GM change x FY26 sales) ($M),-764,DERIVED
+  opex (demand creation + overhead) change FY24->FY26 ($M),-462,filings
+  opex flex per $ of sales lost,0.093,DERIVED vs sector 1-0.074=0.926
+FY31 revenue at +3%/yr from FY28 consensus ($M),47643,DERIVED
+Volume-only EBIT gain if opex flat in $ (flow-through at FY26 GM 42.9%) ($M),1735,"DERIVED, assumption: FY28 GM = FY26 GM"
+To reach 11.6% of FY31 revenue: EBIT gain needed ($M) / left for rate ($M) / = gross margin points,"(2387, 652, 1.4)",DERIVED
+To reach 14.0% of FY31 revenue: EBIT gain needed ($M) / left for rate ($M) / = gross margin points,"(3531, 1796, 3.8)",DERIVED
+"Opex growth room: if opex grows 1%/yr FY28-31 on $16.1B-ish base, cost ($M)",488,DERIVED illustration
 Nike mean EBIT margin FY08-FY26 %,12.38,D5_valuation_annual_xbrl.csv
 Nike 10y mean FY17-FY26 %,11.83,same
 "E[FY31 margin | FY26=8.3, r5=0.73, mean=Nike own mean] %",9.4,"DERIVED from BRB p.59,62"

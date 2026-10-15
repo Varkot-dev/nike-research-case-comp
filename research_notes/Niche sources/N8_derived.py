@@ -27,7 +27,24 @@ for s,e in (('FY23','FY26'),('FY24','FY26')):
     rec(f'  share of EBIT fall NOT explained by sector volume leverage %',round((1-pred/dE)*100,1),'DERIVED')
 need_ebit=0.116*43600; cons_ebit=0.072*43600
 rec('FY28 EBIT at consensus 7.2% ($M)',round(cons_ebit),'D5'); rec('FY28 EBIT at 11.6% ($M)',round(need_ebit),'D5')
-rec('Extra sales needed at BRB beta 0.074 to add that EBIT ($M)',round((need_ebit-cons_ebit)/0.074),'DERIVED')
+# Nike's own observed incremental margin on the way down (EBIT lost per $ of sales lost)
+gp={'FY23':22292,'FY24':22887,'FY25':19790,'FY26':19911}; opx={'FY23':4060+12317,'FY24':4285+12291,'FY26':4754+11360}
+for s,e in (('FY23','FY26'),('FY24','FY26')):
+    rec(f'Nike EBIT lost per $ of sales lost {s}->{e}',round((ebit[s]-ebit[e])/(rev[s]-rev[e]),3),'DERIVED from filings; sector BRB beta 0.074')
+dS=rev['FY24']-rev['FY26']; gm24=gp['FY24']/rev['FY24']
+rec('FY24->FY26 gross profit change ($M)',gp['FY26']-gp['FY24'],'filings')
+rec('  of which volume at FY24 gross margin ($M)',round(-dS*gm24),'DERIVED'); rec('  of which rate (GM change x FY26 sales) ($M)',round((gp['FY26']/rev['FY26']-gm24)*rev['FY26']),'DERIVED')
+rec('  opex (demand creation + overhead) change FY24->FY26 ($M)',opx['FY26']-opx['FY24'],'filings'); rec('  opex flex per $ of sales lost',round(-(opx['FY26']-opx['FY24'])/dS,3),'DERIVED vs sector 1-0.074=0.926')
+# Symmetric-recovery arithmetic on the consensus revenue path
+rev31=43600*1.03**3; dS31=rev31-43600
+rec('FY31 revenue at +3%/yr from FY28 consensus ($M)',round(rev31),'DERIVED')
+gm26=gp['FY26']/rev['FY26']
+vol_gp=dS31*gm26
+rec('Volume-only EBIT gain if opex flat in $ (flow-through at FY26 GM 42.9%) ($M)',round(vol_gp),'DERIVED, assumption: FY28 GM = FY26 GM')
+for tgt in (0.116,0.14):
+    need=tgt*rev31-cons_ebit; rate=need-vol_gp
+    rec(f'To reach {tgt*100:.1f}% of FY31 revenue: EBIT gain needed ($M) / left for rate ($M) / = gross margin points',(round(need),round(rate),round(rate/rev31*100,1)),'DERIVED')
+rec('Opex growth room: if opex grows 1%/yr FY28-31 on $16.1B-ish base, cost ($M)',round(16114*(1.01**3-1)),'DERIVED illustration')
 # ---- Margin persistence (BRB Exh.1 p.59, Exh.4-5 p.62: consumer discretionary 5y r=0.73, median 10%, avg 11%)
 nike_m={2008:13.4,2009:10.2,2010:13.3,2011:13.7,2012:12.4,2013:12.9,2014:12.9,2015:13.8,2016:14.3,2017:14.4,2018:12.0,2019:12.4,2020:8.0,2021:15.5,2022:14.7,2023:12.1,2024:12.7,2025:8.2,2026:8.3}
 mu_own=sum(nike_m.values())/len(nike_m); mu10=sum(nike_m[y] for y in range(2017,2027))/10
