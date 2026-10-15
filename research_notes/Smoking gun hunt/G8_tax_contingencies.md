@@ -150,3 +150,6 @@ Two or more survive. What would decide: Nike's Q2 FY27 call (late Dec 2026) tax-
 | Commission register SA.51284 (search backend, opening decision PDF `cases1/201927/277937_2079330_55_2.pdf`), press release IP/19/322, tax-rulings page | OPENED |
 | EUR-Lex 62019TJ0648 (T-648/19) | OPENED |
 | TaxLive, RTV, Made In, RetailDetail, ICIJ, law-firm OBBBA summaries, Starbucks and Fiat summaries | SNIPPET or fetched summaries |
+
+## Parent correction (Oct 15, 2026, from G10)
+G10 found that the Belgian customs claim was first disclosed in the FY22 10-K (p. 90, "plans to appeal"), not FY23, and that the paragraph wording changed four times between Q1 FY23 and Q2 FY26 (appellate process, bank guarantees, "and other government authorities" added, dropped and restored). The 10-Q note is Note 11. The merits hearing is listed for 30 November 2026 (press), so the Q2 FY27 10-Q is the first filing that could report an outcome. See `G10_belgian_customs.md`.
