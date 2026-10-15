@@ -1,0 +1,9 @@
+quarter,rev_actual,rev_growth_pct,guide_mid_pct,rev_gap_vs_mid_usd_m,reserve_effect_S_usd_m_ruleC,S_pct_of_rev_gap,rev_growth_cf_pct,rev_status_actual,rev_status_cf,gm_change_actual_bps,gm_guide_mid_bps,gm_gap_vs_mid_bps,gm_effect_bps_upper,gm_effect_bps_central,gm_pct_of_gap_upper,gm_pct_of_gap_central,gm_cf_upper_bps,gm_cf_central_bps,gm_status_actual,gm_status_cf_upper,gm_status_cf_central,eps_effect_upper,eps_effect_central
+Q2 FY25,12354.0,-7.72,-9.0,171.0,-370.8,-216.9,-4.95,beat,beat,-100,-150,50,-164.3,-89.0,-329.0,-178.0,64.3,-11.0,beat,beat,beat,-0.2044,-0.1516
+Q3 FY25,11269.0,-9.33,-11.5,269.0,-143.4,-53.2,-8.18,beat,beat,-330,-325,-5,-73.5,-41.1,n/a,n/a,-256.5,-288.9,in range,beat,beat,-0.0911,-0.0676
+Q4 FY25,11097.0,-11.97,-15.0,382.0,-185.1,-48.5,-10.5,beat,beat,-440,-450,10,-98.0,-55.6,-980.0,-556.0,-342.0,-384.4,in range,beat,beat,-0.0831,-0.0617
+Q1 FY26,11720.0,1.13,-5.0,710.0,69.9,9.8,0.53,beat,beat,-320,-387.5,67.5,34.7,17.4,51.0,26.0,-354.7,-337.4,beat,in range,beat,0.0373,0.0265
+Q2 FY26,12427.0,0.59,-2.0,320.0,75.0,23.4,-0.02,beat,beat,-300,-337.5,37.5,36.0,18.6,96.0,50.0,-336.0,-318.6,in range,in range,in range,0.0401,0.0286
+Q3 FY26,11279.0,0.09,-2.0,235.0,106.8,45.4,-0.86,beat,beat,-130,-200,70,57.2,29.7,82.0,42.0,-187.2,-159.7,beat,in range,beat,0.0577,0.0411
+Q4 FY26,10972.0,-1.13,-3.0,208.0,82.4,39.6,-1.87,beat,beat,-10,-50,40,45.3,21.0,113.0,52.0,-55.3,-31.0,beat,in range,in range,0.0447,0.0303
+Q1 FY27,11213.0,-4.33,-3.5,-97.0,95.1,n/a (revenue below midpoint),-5.14,in range,in range,60,25,35,48.9,21.4,140.0,61.0,11.1,38.6,beat,in range,in range,0.0495,0.0336
