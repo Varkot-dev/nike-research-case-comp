@@ -1,0 +1,17 @@
+fact_sought,route,result,detail
+Nike festival GMV by brand (any year),"Tmall official lists (Tianxia Wangshang images, press)",partial,Ranks only; GMV never printed except 'over RMB 1bn' club names
+Nike festival GMV by brand,Syntun English PR PDFs 2025 11.11 and 2026 618 (prnewswire mirror),partial,Platform totals and category share only; no sports brand table
+Nike festival GMV by brand,Syntun Chinese site www.syntun.com.cn via curl,blocked,TLS certificate name mismatch
+Nike festival GMV by brand,web.archive.org snapshot of syntun.com.cn (availability API says snapshot exists),blocked,Snapshot fetch returns 'Blocked by egress policy'
+Nike festival GMV by brand,"Brokerage reports on dfcfw PDF mirror (Guosen Securities, Jiuqian and Alibaba third-party data)",worked,"Quarterly Nike share, sales, ASP and store level split on Tmall, JD and Douyin; two reports opened (2025-07-29, 2026-01-29)"
+Nike festival GMV by brand,"Chinese media reprints (Jiemian, 21st Century Business Herald, Yibang via Winshang, Digitaling, DoNews, Guancha, Pedaily)",worked,Rank lists 2018 to 2026
+Nike festival GMV by brand,Company disclosure,blocked,36Kr (2023): sports brands have not published festival GMV since 2021 ('依旧是场没有战报的战事')
+"Search engines (Bing China, Baidu, Sogou, Sogou Weixin, DuckDuckGo, so.com)",curl one query each,blocked,Bing CN returned an empty JS shell; Baidu returned a security verification page; Sogou returned a captcha; Sogou Weixin returned no articles; DuckDuckGo connection reset; so.com no content
+WeChat mirrors,sohu.com (Feigua June 2025 Douyin report) and 163.com pages opened,partial,Pages opened but contained no sports brand ranking
+Weibo and Zhihu,curl of home pages,blocked,Login-walled shells; no search without an account; search not attempted
+Further web searches,WebSearch tool,blocked,"Session search budget exhausted after about 45 queries; follow-up searches needed for 2025 618 Tmall list image, JD sports rank, Douyin full-cycle lists"
+JD.com sports brand rank,JD 618 kickoff releases via Eastmoney and DoNews,partial,Growth claims for 'about 100 brands' only; no Nike figure
+Douyin sports brand rank,Douyin Mall highlight lists 2024 11.11 (snippet) and 2026 618 kickoff (opened),partial,Top 3 only
+"Feigua, Chanmama, Moojing, Qingyan (Douyin and Tmall data firms)",Searches only; Feigua PDF index hit not opened,partial,No sports brand table found in indexed pages; Qingyan covers beauty; Moojing 2022 618 figures surfaced via media only
+Dewu (Poizon) Nike vs domestic,"Guosen 2026-01-29 report, pages with Dewu footwear data by brand",worked,"Q4 2025 Dewu footwear sales, growth and ASP for Nike, adidas, Anta, Li-Ning, Xtep, 361"
+Dewu 2026 data,search,blocked,No 2026 Dewu brand data found
