@@ -196,7 +196,8 @@ snap26 = list(csv.DictReader(open(os.path.join(ROOT, "data/hunt/trade_imports/ni
 agg = collections.defaultdict(lambda: {"n21": 0, "w21": 0, "n26": 0, "w26": 0})
 for x in snap21:
     if x["Factory Type"] == "MATERIALS": continue  # Tier 2 materials carry no worker counts in the 2021 copy
-    k = (x["Country/Region"], x["Product Type"].title()); agg[k]["n21"] += 1; agg[k]["w21"] += n(x["Total Workers"])
+    cty = {"United States of America": "USA", "Bosnia and Herz.": "Bosnia"}.get(x["Country/Region"], x["Country/Region"])
+    k = (cty, x["Product Type"].title()); agg[k]["n21"] += 1; agg[k]["w21"] += n(x["Total Workers"])
 for x in snap26:
     if not x["factory_tier"].startswith("Tier 1"): continue
     k = (x["country/region"], x["product_type"]); agg[k]["n26"] += 1; agg[k]["w26"] += n(x["workers"])

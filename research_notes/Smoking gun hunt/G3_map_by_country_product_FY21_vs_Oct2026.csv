@@ -29,20 +29,18 @@ Brazil,Apparel,4,3329,5,5006,1677,50.4
 Georgia,Apparel,3,3020,3,4920,1900,62.9
 Taiwan,Footwear,4,4823,2,3101,-1722,-35.7
 Turkey,Apparel,3,3813,6,4041,228,6.0
+USA,Apparel,30,3675,25,3931,256,7.0
 South Korea,Footwear,7,2742,2,1980,-762,-27.8
 Thailand,Equipment,4,1784,4,2618,834,46.7
 Honduras,Equipment,1,1958,1,2247,289,14.8
-USA,Apparel,0,0,25,3931,3931,
-United States of America,Apparel,30,3675,0,0,-3675,-100.0
+Bosnia,Footwear,1,2007,1,1998,-9,-0.4
 Moldova,Apparel,4,2555,2,1062,-1493,-58.4
 Sri Lanka,Equipment,1,922,3,1703,781,84.7
 El Salvador,Equipment,0,0,1,2300,2300,
 Sri Lanka,Footwear,1,2012,0,0,-2012,-100.0
-Bosnia and Herz.,Footwear,1,2007,0,0,-2007,-100.0
-Bosnia,Footwear,0,0,1,1998,1998,
 Argentina,Apparel,5,1109,4,866,-243,-21.9
+USA,Equipment,6,1344,2,100,-1244,-92.6
 Argentina,Footwear,2,1181,2,202,-979,-82.9
-United States of America,Equipment,6,1344,0,0,-1344,-100.0
 Taiwan,Apparel,6,953,2,205,-748,-78.5
 Italy,Footwear,5,535,5,505,-30,-5.6
 Turkey,Equipment,1,520,1,503,-17,-3.3
@@ -65,7 +63,6 @@ Argentina,Equipment,1,7,1,253,246,3514.3
 South Africa,Apparel,0,0,1,210,210,
 Philippines,Equipment,0,0,1,203,203,
 United Kingdom,Apparel,1,79,1,90,11,13.9
-USA,Equipment,0,0,2,100,100,
 Netherlands,Apparel,2,45,1,31,-14,-31.1
 Croatia,Equipment,1,43,0,0,-43,-100.0
 Spain,Apparel,1,14,1,16,2,14.3
