@@ -25,3 +25,14 @@ class PP:
                 "op": "OR", "pageSize": page, "q": q, "searchType": 1, "sort": "date_publ desc", "highlights": "0", "qt": "brs", "spellCheck": False, "viewName": "tile", "plurals": False, "britishEquivalents": False, "caseId": self.case, "ignorePersist": True, "userEnteredQuery": q}
         self.n += 1
         return self.post("searches/searchWithBeFamily", body)
+
+def full(p, q, dbs=("USPAT","US-PGPUB"), start=0, page=100, sort="date_publ desc"):
+    d=[{"databaseName":x,"countryCodes":[]} for x in dbs]
+    query={"caseId":p.case,"hl_snippets":"2","op":"OR","q":q,"queryName":q,"highlights":"0","qt":"brs","spellCheck":False,"viewName":"tile","plurals":False,"britishEquivalents":False,"databaseFilters":d,"searchType":1,"ignorePersist":True,"userEnteredQuery":q}
+    body={"start":start,"pageCount":page,"sort":sort,"docFamilyFiltering":"noFiltering","searchType":1,"familyIdEnglishOnly":None,"familyIdFirstPreferred":None,"familyIdSecondPreferred":None,"familyIdThirdPreferred":None,"showDocPerFamilyPref":None,"queryId":0,"tagDocSearch":False,"query":query}
+    return p.post("searches/searchWithBeFamily", body)
+
+def count(p, q, dbs=("USPAT","US-PGPUB")):
+    d=[{"databaseName":x,"countryCodes":[]} for x in dbs]
+    b={"cursorMarker":"*","databaseFilters":d,"fields":["documentId"],"op":"OR","pageSize":1,"q":q,"searchType":0,"sort":"date_publ desc"}
+    return p.post("searches/generic", b)["numFound"]
