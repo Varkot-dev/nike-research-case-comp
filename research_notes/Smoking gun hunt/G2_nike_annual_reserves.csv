@@ -1,0 +1,10 @@
+fiscal_year,allowance_uncollectible_ar_usd_m,allowance_source,sales_related_reserve_usd_m,sales_returns_reserve_usd_m,returns_reserve_source,est_cost_inventory_for_returns_usd_m,returns_provision_charged_usd_m_schedule_II,returns_writeoffs_usd_m_schedule_II,wholesale_revenue_usd_m_nike_brand_plus_converse,provision_pct_wholesale_DERIVED,allowance_pct_year_end_AR_DERIVED,note,tag
+2018,30,FY18 10-K p.37 (policy note); FY19 10-K p.60 (seq),20,330,FY18 10-K Sched II p.77,,640,658,,,0.86,FY18 10-K Sched II p.77 (pre-ASC 606; SRR 20 = pre-606 liability line),OPENED (balances/schedule); DERIVED (ratios)
+2019,30,FY19 10-K policy note,1218,843,FY19 10-K Sched II p.89 (843 is returns reserve after ASC 606 reclass),410,2209,2070,26670,8.3,0.7,provision/writeoffs as revised in FY21 10-K Sched II p.99 note 3,OPENED (balances/schedule); DERIVED (ratios)
+2020,214,FY20 10-K policy note p.64,1178,682,FY21 10-K Sched II p.99,313,2263,2393,24310,9.3,7.78,revised in FY22 10-K Sched II p.98,OPENED (balances/schedule); DERIVED (ratios)
+2021,93,FY21 10-K policy note p.65,1077,595,FY22 10-K Sched II p.98,269,2617,2745,27251,9.6,2.08,FY22 10-K Sched II p.98,OPENED (balances/schedule); DERIVED (ratios)
+2022,34,FY22 10-K policy note p.64,1015,525,FY23 10-K Sched II p.96,194,2573,2612,26900,9.6,0.73,FY23 10-K Sched II p.96,OPENED (balances/schedule); DERIVED (ratios)
+2023,35,FY23 10-K policy note p.63,994,549,FY24 10-K Sched II p.97,226,3344,3309,28696,11.7,0.85,FY24 10-K Sched II p.97,OPENED (balances/schedule); DERIVED (ratios)
+2024,35,FY24 10-K policy note p.65,1282,799,FY24 10-K Sched II p.97; FY25 10-K note 14,331,3583,3325,28856,12.4,0.79,FY24 10-K Sched II p.97 (last year it appears),OPENED (balances/schedule); DERIVED (ratios)
+2025,27,FY25 10-K policy note p.64,1834,1277,FY25 10-K Note 14 p.83,528,,,26758,,0.57,"Schedule II omitted from FY25 10-K (Item 15, p.91)",OPENED (balances/schedule); DERIVED (ratios)
+2026,,NOT DISCLOSED: FY26 10-K policy note p.63 drops the dollar figure; no XBRL tag,1589,1099,FY26 10-K Note 14 p.84,511,,,28058,,,Schedule II omitted (Item 15),OPENED (balances/schedule); DERIVED (ratios)
