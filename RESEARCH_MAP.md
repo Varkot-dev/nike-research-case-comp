@@ -102,7 +102,7 @@ On the default branch: franchise oversupply, DTC and wholesale, the execution vs
 
 ## In progress
 
-### Niche-source hunt (claimed Oct 15, 2026 by the Academic research session, `claude/stoic-shannon-dmkmyu`; outputs in `research_notes/Niche sources/`)
+### Niche-source hunt (DONE Oct 15, 2026, Academic research session; outputs in `research_notes/Niche sources/`, start with `00_NICHE_SYNTHESIS.md`; no smoking gun, base-rate margin argument is the lead)
 | # | Question | Planned output |
 |---|---|---|
 | N1 | Brand health panel: Piper Sandler teens Fall 2025 to Fall 2026 (extends the Spring 2022 to Spring 2025 work), ACSI athletic shoes, Axios Harris Poll 100, Interbrand, Kantar BrandZ, Brand Finance, Lyst Index | `N1_brand_health_panel.md` |

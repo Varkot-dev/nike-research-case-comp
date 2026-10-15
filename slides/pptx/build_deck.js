@@ -99,9 +99,9 @@ pres.addSection({ title: "Recommendation" });
   const s = content("Recommendation", "We recommend a short: the price needs a margin recovery that volume, price and share data do not support",
     "Four points. 1) FY28 consensus needs a margin gain Nike has not delivered in any recent year. 2) The decline is not only Nike-specific, but Nike is losing share in markets that are still growing, with China the clearest case. 3) The repair timetable keeps slipping. 4) We state the risks openly: running is real, tariffs are lower than Nike planned, and the short is crowded but not a squeeze setup.");
   const pts = [
-    ["The price needs a margin Nike has not earned since FY24. ", "A reverse DCF at a 9% to 10% required return needs a long-run operating margin of 11% to 14%; peer parity on P/E needs about 11.6%. Consensus has 7.2% in FY28; FY26 was 8.3% (6.2% without the tariff refund). On sales and EBITDA Nike already trades at the peer median, so the premium is only a margin bet."],
+    ["The price needs a margin Nike has not earned since FY24. ", "A reverse DCF at a 9% to 10% required return needs a long-run operating margin of about 11% to 14%. Base rates (Mauboussin, Base Rate Book) put the expected FY31 margin near 9%; in a 73-company SEC panel, firms this far below their own average regained 3.3 points about one time in five. At 9.4% the same DCF gives $24 to $28. On sales and EBITDA Nike already trades at the peer median, so the premium is only a margin bet."],
     ["Volume has not grown in seven years; price did the work and is now falling. ", "Nike footwear units are flat versus FY19 while revenue per pair is up 22%. Since FY23 units are down 10.7%, and price turned negative in FY25 (-3 points), FY26 (-1) and Q1 FY27 (-1, with units -5%). All figures from Nike's own 10-K unit and ASP disclosures."],
-    ["Share loss where markets still grow. ", "Nike's two largest China partners closed 26% of doors in three years; Nike trails the European peer median by 14 to 18 points for eight quarters; nike.com visits fell 11% in August while adidas.com rose 12.5% and DICK'S rose 15%, so the digital decline is lost demand, not only a deliberate cut."],
+    ["Share loss where markets still grow. ", "Nike fell from #1 to #3 on Tmall sports rankings (11.11 2025 and 618 2026, behind adidas and FILA); its two largest China partners closed 26% of doors; Nike trails the European peer median by 14 to 18 points for eight quarters; nike.com visits fell 11% in August while adidas.com rose 12.5% and DICK'S rose 15%, so the digital decline is lost demand, not only a deliberate cut."],
     ["What we do not claim, and the risks. ", "No single smoking gun: 12 forensic hunts found none. The FY28 EPS gap on filing facts alone is $0.09 to $0.19; the larger gap depends on the margin step not happening. Running volume is real, 2026 trademark filings are at a 15-year high, and Nike landed inside its guided range 16 of 16 times."],
   ];
   const runs = [];
@@ -188,7 +188,7 @@ pres.addSection({ title: "Fundamentals and valuation" });
 // =============== 6. WHAT THE PRICE NEEDS ===============
 {
   const s = content("Fundamentals and valuation", "To justify today's price, long-run margin must return to roughly 11% to 14%; consensus has 7.2% in FY28",
-    "A reverse DCF starts from today's price and asks what long-run margin the market must assume. WACC is the yearly return investors demand; a higher WACC needs a higher margin. We show 8%, 9% and 10% because 9% and 10% both come from standard equity risk premium choices (Damodaran and Kroll). This is not a price target and no model is built yet. The 10-year average of 11.8% is our arithmetic on reported margins. Scoreboard caution: this supports 'FY28 and beyond is priced for a rebound', not 'the price assumes FY24 margins outright'.");
+    "A reverse DCF starts from today's price and asks what long-run margin the market must assume. WACC is the yearly return investors demand; a higher WACC needs a higher margin. We show 8%, 9% and 10% because 9% and 10% both come from standard equity risk premium choices (Damodaran and Kroll). This is not a price target and no model is built yet. Base rates: the Base Rate Book (Mauboussin and Callahan, 2016, printed p. 62) gives five-year operating margin persistence of 0.73 for consumer discretionary, which from 8.3% (FY26) implies about 9.0% to 9.4% by FY31; a skeptic check on a 73-company SEC panel found firms two or more points below their own 10-year mean regained 3.3 points 16% to 24% of the time, with brand leaders no better (1 of 11). The bull analog is adidas (6% to 11.3%, 2014 to 2019). At an 8% WACC, 9.4% is worth about $32.50, so the short needs a WACC of 9% or more. The 10-year average of 11.8% is our arithmetic on reported margins. Scoreboard caution: this supports 'FY28 and beyond is priced for a rebound', not 'the price assumes FY24 margins outright'.");
   s.addChart(pres.charts.BAR, [{ name: "Operating margin", labels: ["FY28E consensus", "FY26 actual", "10-year average", "FY24 actual"], values: [7.2, 8.3, 11.8, 12.7] }], Object.assign({}, chartBase, {
     x: 0.6, y: 1.65, w: 6.2, h: 4.5, barDir: "col", barGapWidthPct: 60, chartColors: [LSLATE, LSLATE, NAVY, NAVY],
     dataLabelPosition: "outEnd", dataLabelFormatCode: '0.0"%"', title: "Operating (EBIT) margin (%)", valAxisMinVal: 0, valAxisMaxVal: 16,
@@ -203,9 +203,9 @@ pres.addSection({ title: "Fundamentals and valuation" });
   s.addTable(rows, { x: 7.2, y: 2.15, w: 5.53, colW: [2.9, 2.63], rowH: 0.42, fontFace: FONT, fontSize: 12 });
   s.addText([
     { text: "Even at 9%, the price needs about the 10-year average margin, 3.5 points above today, on FY28E revenue of about $43.6B versus $51.4B in FY24.", options: { breakLine: true, paraSpaceAfter: 10 } },
-    { text: "At $35.35 and 3% sales growth, a buyer earns about 9.0% a year only if margins settle at the 10-year average; at today's 8.3% it is about 7.2%.", options: {} },
+    { text: "Base rates put the expected FY31 margin near 9%, and companies this far below their own average regain 3.3 points about one time in five. At 9.4% the DCF gives $24 to $28.", options: {} },
   ], { x: 7.2, y: 4.1, w: 5.53, h: 2.1, fontFace: FONT, fontSize: 13, color: INK, margin: 0, valign: "top", isTextBox: true });
-  source(s, "Sources: reverse DCF grid (22.5% tax, 3% revenue CAGR FY28 to FY36; range across growth assumptions), replicated cell by cell in repo; Nike FY24 and FY26 10-Ks; consensus (Oct 13, 2026). 10-year average is team arithmetic. Not a price target.");
+  source(s, "Sources: reverse DCF grid (22.5% tax, 3% revenue CAGR FY28 to FY36; range across growth assumptions), replicated cell by cell in repo; Nike FY24 and FY26 10-Ks; consensus (Oct 13, 2026); Base Rate Book (2016) p. 62 and SEC panel (research_notes/Niche sources/N8 and N8_check). Not a price target.");
 }
 
 // =============== 7. FY28 EPS ===============
@@ -261,7 +261,7 @@ pres.addSection({ title: "Evidence" });
   }));
   const stats = [
     ["-26%", "Greater China revenue, Q1 FY27, currency-neutral. Ninth straight decline."],
-    ["65% to 50%", "Nike's share of a 14-company China peer set, 2022 to H1 2026."],
+    ["#1 to #3", "Nike's rank on Tmall sports lists: first every festival 2019 to 11.11 2024, third at 11.11 2025 and 618 2026, behind adidas and FILA."],
     ["$2.31B to $1.28B", "Greater China EBIT, FY24 to FY26 (-45%)."],
   ];
   stats.forEach((st, i) => {
@@ -269,7 +269,7 @@ pres.addSection({ title: "Evidence" });
     s.addText(st[0], { x: 8.6, y, w: 4.1, h: 0.6, fontFace: FONT, fontSize: 28, bold: true, color: i === 2 ? RED : NAVY, margin: 0, isTextBox: true });
     s.addText(st[1], { x: 8.6, y: y + 0.62, w: 4.1, h: 0.75, fontFace: FONT, fontSize: 12, color: INK, margin: 0, valign: "top", isTextBox: true });
   });
-  source(s, "Sources: HKEX annual and interim reports (Topsports 6110, Pou Sheng 3813, ANTA, Li-Ning, Xtep, 361 Degrees) through Jun 2026; Nike Q1 FY27 10-Q; FY24 and FY26 10-Ks. No source counts Nike-only doors; partners also sell adidas. Topsports reports Aug 2026 doors on Oct 28.");
+  source(s, "Sources: Tmall festival rankings and Guosen Securities platform data (research_notes/Niche sources/N5); HKEX annual and interim reports (Topsports 6110, Pou Sheng 3813, ANTA, Li-Ning, Xtep, 361 Degrees) through Jun 2026; Nike Q1 FY27 10-Q; FY24 and FY26 10-Ks. No source counts Nike-only doors; partners also sell adidas. Topsports reports Aug 2026 doors on Oct 28.");
 }
 
 // =============== 9b. UNITS VS PRICE ===============
@@ -323,7 +323,7 @@ pres.addSection({ title: "Risks and catalysts" });
     "Crowded short: 99.2M shares short at Sep 30, 2026 is 8.2% of the 1,203.9M Class B shares that trade (the repo's earlier 6.7% used all share classes). Borrow is cheap (Interactive Brokers 0.41%, Ortex 0.53%), lendable supply is about five times the short, and on Oct 1 to 2 255M shares traded without a squeeze. After record short interest in 27 consumer stocks (2021 to 2026), shorts won 81 of 119 at 6 months, but about 12% of cases ended more than 25% above the market, mostly on earnings-day jumps. Express the idea with puts or a limited-loss structure. Insider buying did not predict returns in historical tests, and the checker found two Form 144 sale notices by the former CFO.");
   const rows = [
     [hdr("Risk to our view"), hdr("Evidence"), hdr("Our assessment")],
-    [cell("Running recovery is real", { bold: true }), cell("Dick's running reviews +48.6% vs Hoka +21.6%, Brooks +15.8% (Jun to Jul 2026); Pegasus 42 and Vomero 18 rated 4.8"), cell("Real volume, but Pegasus 42 is marked down and growth lags ASICS and adidas; offsets lifestyle, not the FY28 gap")],
+    [cell("Running recovery is real", { bold: true }), cell("Dick's running reviews +48.6% vs Hoka +21.6%, Brooks +15.8% (Jun to Jul 2026); Pegasus 42 and Vomero 18 rated 4.8"), cell("Not visible in what runners wear: Hakone Ekiden Nike share 95.7% (2021) to 16.7% (2026); Running USA 2026 favorite racing shoe -4.2 pts. Growth may be distribution and lifestyle, not runners")],
     [cell("Tariffs lower than planned", { bold: true }), cell("About 11.4% blended in force vs 15% plan; worth about +$0.08 to $0.12 of FY28 EPS"), cell("Probably in the Oct 1 guide already; FY28 tail is two-sided (about +/-$0.10 to $0.25)")],
     [cell("Crowded short", { bold: true }), cell("99.2M shares short, 8.2% of tradable shares; 2.6 to 3.8 days to cover; borrow about 0.4% to 0.5%"), cell("Not a squeeze setup; shorts won 81 of 119 at 6 months after past records, with a fat right tail. Use puts")],
     [cell("Insider buying", { bold: true }), cell("$5.96M (2025) and $2.73M (2026 YTD), largest in 20 years"), cell("Did not predict returns historically; ex-CFO filed two Form 144 sale notices")],
@@ -331,7 +331,7 @@ pres.addSection({ title: "Risks and catalysts" });
     [cell("Product pipeline is rebuilding", { bold: true }), cell("21 intent-to-use US trademark filings for new product names in Jan to Sep 2026; prior 15-year high was 7. Names typically ship within about 3 months of filing"), cell("Supports a late FY27 to FY28 launch wave; volume effect cannot be sized from filings. The main long argument")],
   ];
   s.addTable(rows, { x: 0.6, y: 1.6, w: 12.13, colW: [2.4, 5.0, 4.73], rowH: [0.38, 0.72, 0.62, 0.72, 0.55, 0.55, 0.78], fontFace: FONT, fontSize: 11 });
-  source(s, "Sources: Dick's/Foot Locker review feed (Jun to Jul 2026); tariff gap sizing (USTR Section 301 notice, Jul 2026; Nike 10-Q); FINRA (Sep 30, 2026), Ortex, Interactive Brokers borrow data; SEC Form 4 and 13F data; guidance record (G9); USPTO trademark search (G7).");
+  source(s, "Sources: Dick's/Foot Locker review feed (Jun to Jul 2026); Alpen Group Hakone counts and Running USA Global Runner Survey (Oct 14, 2026) (N7); tariff gap sizing (USTR Section 301 notice, Jul 2026; Nike 10-Q); FINRA (Sep 30, 2026), Ortex, Interactive Brokers borrow data; SEC Form 4 and 13F data; guidance record (G9); USPTO trademark search (G7).");
 }
 
 // =============== 11. CATALYSTS ===============
