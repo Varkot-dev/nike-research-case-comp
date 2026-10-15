@@ -20,12 +20,12 @@ Nike Korea LLC,FY22,korea_minus_apla_cn_growth,-0.664,pts,DERIVED,
 Nike Korea LLC,FY22,revenue_usd_approx,1409.113,USD m,DERIVED,KRW revenue / FY mean KRW per USD (Yahoo KRW=X)
 Nike Korea LLC,FY22,share_of_apla_revenue,23.663,%,DERIVED,Korea assumed inside APLA
 Nike Korea LLC,FY22,gross_margin_reported,21.825,%,DERIVED,
-Nike Korea LLC,FY22,gross_margin_ex_tp_adjustment,21.825,%,DERIVED,removes the transfer price adjustment line in cost of sales
+Nike Korea LLC,FY22,gross_margin_ex_tp_adjustment,19.781,%,DERIVED,removes the transfer price adjustment line in cost of sales
 Nike Korea LLC,FY22,operating_margin_reported,5.724,%,DERIVED,
-Nike Korea LLC,FY22,operating_margin_ex_tp_adjustment,5.724,%,DERIVED,
+Nike Korea LLC,FY22,operating_margin_ex_tp_adjustment,3.681,%,DERIVED,
 Nike Korea LLC,FY22,sga_pct_revenue,16.101,%,DERIVED,
 Nike Korea LLC,FY22,receivable_days,23.651,days,DERIVED,year-end receivables / annual revenue x 365
-Nike Korea LLC,FY22,inventory_days,84.974,days,DERIVED,year-end inventory / cost of sales ex TP adjustment x 365
+Nike Korea LLC,FY22,inventory_days,82.809,days,DERIVED,year-end inventory / cost of sales ex TP adjustment x 365
 Nike Korea LLC,FY22,returns_provision_pct_revenue,3.066,%,DERIVED,
 Nike Korea LLC,FY22,returns_provision_less_recovery_asset,8.856,KRW bn,DERIVED,provision minus gross returned-goods recovery asset
 Nike Korea LLC,FY22,goods_purchases_pct_revenue,82.417,%,DERIVED,
@@ -100,9 +100,16 @@ Nike Korea LLC,FY23,apla_ex_korea_usd_approx,4908.374,USD m,DERIVED,
 Nike Korea LLC,FY24,apla_ex_korea_usd_approx,5216.382,USD m,DERIVED,
 Nike Korea LLC,FY25,apla_ex_korea_usd_approx,4900.26,USD m,DERIVED,
 Nike Korea LLC,FY26,apla_ex_korea_usd_approx,4992.991,USD m,DERIVED,
+Nike Retail B.V. (EMEA),FY22,trade_receivable_days,32.094,days,DERIVED,
+Nike Retail B.V. (EMEA),FY22,gross_margin,26.215,%,DERIVED,
+Nike Retail B.V. (EMEA),FY22,operating_margin,2.971,%,DERIVED,
 Nike Retail B.V. (EMEA),FY23,trade_receivable_days,21.812,days,DERIVED,
 Nike Retail B.V. (EMEA),FY23,gross_margin,25.128,%,DERIVED,
 Nike Retail B.V. (EMEA),FY23,operating_margin,3.335,%,DERIVED,
+Nike Retail B.V. (EMEA),FY23,revenue_growth_eur,18.603,%,DERIVED,
+Nike Retail B.V. (EMEA),FY23,inventory_growth,30.857,%,DERIVED,
+Nike Retail B.V. (EMEA),FY23,trade_receivable_growth,-18.662,%,DERIVED,
+Nike Retail B.V. (EMEA),FY23,rest_of_emea_revenue_growth,21.288,%,DERIVED,
 Nike Retail B.V. (EMEA),FY24,trade_receivable_days,21.482,days,DERIVED,
 Nike Retail B.V. (EMEA),FY24,gross_margin,22.706,%,DERIVED,
 Nike Retail B.V. (EMEA),FY24,operating_margin,-2.624,%,DERIVED,

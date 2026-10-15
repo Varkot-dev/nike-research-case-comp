@@ -85,6 +85,8 @@ def korea(entity, prefix, years, src_tpl):
                 return int(t) if re.fullmatch(r"-?\d+", t) else None
             purch = g(r"당기상품매입액[^/]*/ *([\d,]+)")
             tp = g(r"이전가격조정금액[^/]*/ *([\(\)\d,\-]+)")
+            if fy == "FY22":
+                tp = -34226408  # FY22 purchases included a transfer price gain; amount shown only as the FY23 report comparative
             allow = g(r"상품 */ *[\d,]+ */ *[\d,]+ */ *평가손실충당금 */ *\(?([\d,]+)\)?")
             m = re.search(r"반품충당부채 */ *([\d,]+) */ *([\d,]+) */ *\(([\d,]+)\) */ *([\d,]+)", txt)
             for name, v in (("goods_purchases", purch), ("transfer_price_adjustment_in_cogs", tp or 0), ("inventory_valuation_allowance", allow)):
@@ -140,7 +142,7 @@ add("Converse Retail (UK) Limited", "FY25", "inventory_impairment_expensed", 0.0
 add("Converse Retail (UK) Limited", "FY24", "inventory_impairment_expensed", 0.057, "GBP m", "Companies House 10584502 FY24 note", "OPENED")
 
 # ---------- Netherlands / EMEA (Companies House overseas company filings) ----------
-S = "Companies House FC019114 FY25 and FY24 accounts (OCR); FY23 column from FY24 accounts"
+S = "Companies House FC019114 FY25 and FY24 accounts (OCR); FY23 column from FY24 accounts; FY22 from the FY22 accounts (OCR; NEON merged in on 1 May 2022 with carryover accounting from 1 Jun 2021, so FY22 is the first like-for-like year)"
 NR = {  # EUR m, company accounts
     "FY25": dict(revenue=10977.288, gross_profit=2494.984, operating_profit=-36.047, net_income=426.136, inventory=1288.450,
                  inventory_finished=972.004, inventory_in_transit=316.446, trade_receivables=904.540, bad_debt_reserve=11.7,
@@ -150,6 +152,9 @@ NR = {  # EUR m, company accounts
                  inventory_finished=1049.568, inventory_in_transit=176.314, trade_receivables=715.265, bad_debt_reserve=2.8,
                  rev_netherlands=1051.410, rev_rest_emea=11100.087, rev_other=203.317, trade_revenue=12152.998,
                  headcount_avg=9489, equity=3127.313, cost_of_inventories_expensed=6165.8),
+    "FY22": dict(revenue=10710.506, gross_profit=2807.720, operating_profit=318.170, net_income=902.681, inventory=1174.055,
+                 trade_receivables=917.940, rev_netherlands=834.649, rev_rest_emea=9521.644, rev_other=354.213,
+                 trade_revenue=10439.524, headcount_avg=7239),
     "FY23": dict(revenue=12702.932, gross_profit=3192.034, operating_profit=423.611, net_income=778.015, inventory=1536.337,
                  inventory_finished=1139.413, inventory_in_transit=396.924, trade_receivables=746.637, bad_debt_reserve=5.7,
                  rev_netherlands=924.431, rev_rest_emea=11548.653, rev_other=229.848, trade_revenue=12493.986,
@@ -158,11 +163,11 @@ NR = {  # EUR m, company accounts
 for fy, d in NR.items():
     for k, v in d.items():
         add("Nike Retail B.V. (EMEA)", fy, k, v, "people" if k == "headcount_avg" else "EUR m", S, "OPENED")
-S = "Companies House FC032565 FY24 accounts (OCR)"
+S = "Companies House FC032565 FY24 accounts of parent Nike Flight B.V. under Art. 2:403 (OCR)"
 for fy, d in {"FY24": dict(revenue=20986.876, gross_profit=933.265, operating_profit=111.901, net_income=250.303, inventory=1806.772, receivables=2546.087, cash=6276.889),
               "FY23": dict(revenue=21839.607, gross_profit=1107.594, operating_profit=72.826, net_income=135.551, inventory=1679.630, receivables=2768.990, cash=5448.120)}.items():
     for k, v in d.items():
-        add("Nike 360 Holding B.V. (NTC and NGT sourcing hub)", fy, k, v, "USD m", S, "OPENED")
+        add("Nike Flight B.V. consolidated (NTC and NGT sourcing hub; filed via Nike 360 Holding B.V.)", fy, k, v, "USD m", S, "OPENED")
 
 # optional extra rows appended by hand-edited file (OCR of older NRBV years)
 EXTRA = "research_notes/Niche sources/N4_extra_rows.csv"

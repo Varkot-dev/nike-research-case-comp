@@ -53,7 +53,7 @@ N = "Nike Retail B.V. (EMEA)"
 def T(m): return S(N, m)
 nr, ni, nta, ng = T("revenue"), T("inventory"), T("trade_receivables"), T("trade_revenue")
 prev = None
-for fy in ("FY23", "FY24", "FY25"):
+for fy in ("FY22", "FY23", "FY24", "FY25"):
     d = dict(entity=N, fiscal_year=fy, tag="DERIVED", note="")
     out.append({**d, "metric": "trade_receivable_days", "value": round(nta[fy] / ng[fy] * 365, 3), "unit": "days"})
     out.append({**d, "metric": "gross_margin", "value": round(T("gross_profit")[fy] / nr[fy] * 100, 3), "unit": "%"})
