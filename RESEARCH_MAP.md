@@ -95,13 +95,13 @@ On the default branch: franchise oversupply, DTC and wholesale, the execution vs
 | G7 | Innovation pipeline: USPTO and EUIPO trademark and patent filings by Nike vs adidas, On, Deckers, 2015 to 2026 | `research_notes/Smoking gun hunt/G7_ip_pipeline.md` | 2026 trademark filings at a 15-year high; supports the long case product rebuild |
 | G8 | Tax and contingencies: EU state aid case on Nike's Dutch rulings, IRS and other disputes, unrecognized tax benefits, FY28 EPS exposure | `research_notes/Smoking gun hunt/G8_tax_contingencies.md` | No tax gap; Belgian customs claim (press EUR 1.5B) is the largest unmodeled item |
 | G9 | Resolve the guidance-beat contradiction (22 of 22 items vs 14 of 14 quarters vs Q1 FY27 below midpoint) against the releases | `research_notes/Smoking gun hunt/G9_guidance_record.md` | 16 of 16 inside guided range; Q1 FY27 first below midpoint |
-| G12 | Do sales-related reserve releases explain the FY26 beats? | `research_notes/Smoking gun hunt/G12_reserve_release.md` | YoY reserve swing equals 90% to 125% of the Q2 to Q4 FY26 revenue gaps to guide midpoint, $0.30 to $0.43 of FY26 EPS (what-if); CFO confirmed mechanism on Q4 FY26 call; adversarial check in progress (G12_check.md) |
+| G12 | Do sales-related reserve releases explain the FY26 beats? | `research_notes/Smoking gun hunt/G12_reserve_release.md`, `G12_check.md` | Balances and EPS arithmetic survive; "explains the beats" rejected by the skeptic (pre-announced base effect; provision vs usage not separable) |
+| G10 | Belgian customs case outcome | `research_notes/Smoking gun hunt/G10_belgian_customs.md` | No judgment; merits hearing listed Nov 30, 2026 (press); EUR 1.5B unreserved; one-time EPS $0.23 to $1.16 |
+| G11 | Disclosure withdrawal audit | `research_notes/Smoking gun hunt/G11_disclosure_withdrawal.md` | 16 KPI families withdrawn in 9 quarters vs about 5 in prior 24; 11 of 12 directional were deteriorating |
+| Hunt | Synthesis | `research_notes/Smoking gun hunt/00_HUNT_SYNTHESIS.md` | No smoking gun; mosaic pitch, margin first; deck and REPORT.md section 11A updated |
 
 ## In progress
 
-### Smoking-gun hunt (claimed Oct 15, 2026 by the Academic research session, `claude/stoic-shannon-dmkmyu`)
-| # | Question | Planned output |
-|---|---|---|
 
 
 | Topic and exact question | Owner session (branch) | Planned output | Started |

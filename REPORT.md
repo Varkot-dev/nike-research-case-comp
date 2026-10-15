@@ -676,6 +676,29 @@ Earlier evidence in this report leans on what Nike says and on proxies such as r
 
 ---
 
+## 11A. Long vs short decision: the evidence as of October 15, 2026
+
+This section summarizes the long vs short lane (scoreboard, seven deep dives and a twelve-hunt forensic pass). Full notes: `research_notes/Long or short cruxes/00_SCOREBOARD.md`, `research_notes/Deep dives Oct 14/00_SYNTHESIS.md`, `research_notes/Smoking gun hunt/00_HUNT_SYNTHESIS.md`. The editable deck is `slides/pptx/Nike Short Thesis.pptx`.
+
+**Call: lean SHORT, low to moderate confidence, framed as "the price needs a margin Nike has not earned since FY24".** No single decisive fact was found in free data; the case is a mosaic.
+
+| Pillar | Evidence (source) | Grade |
+|---|---|---|
+| Required margin | Reverse DCF at 9% to 10% WACC needs an 11% to 14% long-run EBIT margin; peer-parity P/E needs about 11.6% (D5); consensus FY28 is 7.2%; FY26 was 8.3% (6.2% ex tariff refund). On EV/Sales and EV/EBITDA Nike is at the peer median, so the premium is only a margin bet (D5). | Strong arithmetic |
+| Units vs price | NIKE Brand footwear units flat vs FY19; revenue per pair +22%; from FY23 units -10.7%, ASP contribution -3, -1, -1 points in FY25, FY26, Q1 FY27; Q1 FY27 units -5% (G3, 10-K unit and ASP disclosures). | Strong (filing facts) |
+| China | Topsports plus Pou Sheng doors -26% in three years; Nike share of a 14-company China peer set 65% (2022) to 50% (H1 2026); Nike guides worse than -26% (crux 3). | Strong |
+| Europe | EMEA -3% cc in FY26, -5% in Q1 FY27; Nike trails the European peer median by 14 to 18 points for eight quarters; EBIT margin 24.9% to 19.2% (D3). | Moderate |
+| Digital | nike.com visits -11.4% YoY in Aug 2026 vs peer median +0.4%; NA visits -11.4% vs digital revenue -6%, so the decline is lost demand outside EMEA (G6). | Moderate |
+| Disclosure and earnings quality | 16 KPI disclosure families withdrawn in 9 quarters vs about 5 in the prior 24, 11 of 12 directional ones deteriorating (G11); wholesale DSO +4.5 to +9.7 days YoY from Q3 FY26 (G2); sales-related reserve lapping is a tailwind that fades in FY27 (G12, as bounded by G12_check). | Moderate, quality signal |
+| FY28 bridge | Consensus EBIT +$700M of which volume about $200M; the other $500M (114 bp) must come from margin and cost. Gap to consensus on filing facts alone $0.09 to $0.19; base case $1.17 depends on the margin step not happening (D1). | Moderate |
+| Event risk | Belgian customs claim EUR 1.5B (press), unreserved, bank guarantees $289M to about $1.3B; merits hearing listed Nov 30, 2026; one-time EPS $0.23 to $0.36 base (G8, G10). | Dated catalyst |
+
+**What argues against the short:** 21 intent-to-use trademark filings for new product names in Jan to Sep 2026 against a prior 15-year high of 7 (G7); bonds price Nike as single-A with no stress (G5); the dividend is covered by the balance sheet for years (D6); raised Investor Day targets have rallied +6% on day 1 in 28 precedents (D7); Nike landed inside its guided range 16 of 16 times, with Q1 FY27 the first below midpoint (G9).
+
+**Corrections made in this pass:** "14 of 14" and "22 of 22" guidance counts replaced by the G9 sentence; "86% of declines are China and Converse" is a net figure, gross share is 70%; "premium unjustified" dropped (mostly trough earnings); the dividend-cut angle dropped; "channel stuffing" replaced by channel mix plus a one-quarter sell-in pulse (D2); the FY25 10-K purchase obligation figure of $7.9B was a filing error corrected to about $5B (G1).
+
+**Decider:** Investor Day, Nov 16 to 17. A dated EBIT margin target of 13% or more with a bridge falsifies the margin argument; an undated target or one below about 12% supports it; silence on FY28 (about a 50% chance per D4) is scored as supporting the short only if paired with no change to the FY27 guide.
+
 ## 12. What else to investigate
 
 Ordered by value for a case built on the leadership thesis:
