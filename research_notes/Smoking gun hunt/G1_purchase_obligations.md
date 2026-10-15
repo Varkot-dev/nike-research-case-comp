@@ -113,3 +113,6 @@ For "what drove the FY25 PPO error and is the FY26 figure comparable":
 ## 7. Verdict
 
 Fact-level: FY26 PPO of about $4.9B is -2% against the corrected FY25 figure, is 65% of inventory (lowest since FY20's 57%), and is about 11.5% of the guide-midpoint revenue. It supports the "FY27 revenue is not being protected by order book" reading but cannot size it. It does not decide long or short on its own. The extra finding for the thesis is the FY25 correction: any prior note quoting $7.9B should be changed to about $5B.
+
+## Parent check (Oct 15, 2026)
+The FY27 revenue guide this note could not find is in the Q1 FY27 call transcript, page 11 (`data/hunt/earnings_calls/transcripts/Q1FY27.txt`, OPENED): "For fiscal '27, we currently expect revenues to decline in the high single-digit range." The -7% to -9% used in D1 and the deck is the team's reading of "high single-digit"; Nike did not state a numeric range or whether it is reported or currency-neutral. The call also states the Q2 headwind of about 400 bps from lapping EMEA Cyber Week promotions and North America sell-in, and the adjusted EPS range of $1.15 to $1.35 excluding about $0.15 of Pace charges (page 12).
