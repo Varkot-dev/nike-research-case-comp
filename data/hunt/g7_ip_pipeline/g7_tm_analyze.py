@@ -127,3 +127,32 @@ with open("g7_tm_cohort_abandon_rate.csv", "w", newline="") as f:
             ia = sum(1 for r in i if r["abandonDate"])
             w.writerow([co, y, len(rs), a, round(100*a/len(rs), 1) if rs else "", len(i), ia])
 print("ok")
+
+# ---- extra: ITU new product names and lead-lag (filing date vs first use) ----
+from datetime import date
+def d(s):
+    try: return date.fromisoformat(s[:10])
+    except Exception: return None
+seen2 = {co: set() for co in COS}; itu_new = collections.Counter()
+for co in COS:
+    for r in sorted(data[co], key=lambda x: x["filedDate"]):
+        wm = (r.get("wordmark") or "").strip().lower(); y = int(r["filedDate"][:4])
+        if wm and wm not in CORE[co] and wm not in seen2[co]:
+            seen2[co].add(wm)
+            if "1b" in basis(r, "originalBasis") and 25 in classes(r): itu_new[(co, y)] += 1
+with open("g7_tm_itu_new_names_cl25.csv", "w", newline="") as f:
+    w = csv.writer(f); w.writerow(["company","filed_year","itu_1b_new_product_names_cl25_ex_house"])
+    for co in COS:
+        for y in YRS: w.writerow([co, y, itu_new[(co, y)]])
+ll = collections.defaultdict(list)
+for co in COS:
+    for r in data[co]:
+        fu = d(r.get("firstUseCommerceDate") or r.get("firstUseAnyDate") or ""); fd = d(r["filedDate"])
+        if fu and fd and 25 in classes(r):
+            ll[(co, int(r["filedDate"][:4]), "1b" if "1b" in basis(r, "originalBasis") else ("1a" if "1a" in basis(r, "originalBasis") else "other"))].append((fu - fd).days)
+import statistics as st
+with open("g7_tm_leadlag_first_use.csv", "w", newline="") as f:
+    w = csv.writer(f); w.writerow(["company","filed_year","original_basis","n_class25_with_first_use_date","median_days_first_use_minus_filed","pct_filed_before_first_use"])
+    for k in sorted(ll):
+        v = ll[k]; w.writerow(list(k) + [len(v), st.median(v), round(100*sum(1 for x in v if x > 0)/len(v), 1)])
+print("extra ok")
