@@ -1,0 +1,2039 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility for the contents of
+this announcement, make no representation as to its accuracy or completeness and expressly disclaim any liability whatsoever for any
+loss howsoever arising from or in reliance upon the whole or any part of the contents of this announcement.
+
+
+
+
+                            LI NING COMPANY LIMITED
+
+                            (Incorporated in the Cayman Islands with limited liability)
+                        Stock Codes: 2331 (HKD counter) and 82331 (RMB counter)
+
+                            ANNUAL RESULTS ANNOUNCEMENT
+                          FOR THE YEAR ENDED 31 DECEMBER 2023
+
+ FINANCIAL HIGHLIGHTS
+
+ •      During the year, we pursued stable progress and took proactive measures in planning, and recorded the
+        following operating results:
+
+        –       Revenue rose by 7.0% to RMB27,598 million; gross profit margin remained at 48.4%
+
+        –       Net operating cash inflow increased by 19.8% to RMB4,688 million
+
+        –       Net profit attributable to equity holders was RMB3,187 million with net profit margin of 11.5%;
+                while excluding the one-off gains not related to operation, net profit attributable to equity holders
+                was RMB3,046 million with net profit margin of 11.0%
+
+ •      Working capital remained at a healthy level:
+
+        –       The percentage of gross average working capital to revenue was 7.6%
+
+        –       The cash conversion cycle was 35 days
+
+ •      The Board has recommended the payment of final dividend of RMB18.54 cents per ordinary share for
+        the year ended 31 December 2023, together with the interim dividend of RMB36.20 cents per ordinary
+        share paid in September 2023, the total dividend for the year ended 31 December 2023 will amount to
+        RMB54.74 cents per ordinary share or a total dividend payout ratio of 45%.
+
+ OPERATIONAL HIGHLIGHTS
+
+ •      The retail sell-through for the overall platform increased by low-teens, including online and offline
+        channels.
+
+ •      Channel inventory decreased by mid-single-digit comparing to end of last year. The inventory turnover
+        and ageing structure remained at a healthy level.
+
+ •      Offline channel new product sell-through increased by low-teens.
+
+
+
+
+                                                               –1–
+ANNUAL RESULTS
+
+The board of directors (the “Board”) of Li Ning Company Limited (the “Company” or “Li Ning Company”)
+announces the audited consolidated results of the Company and its subsidiaries (collectively, the “Group”) for
+the year ended 31 December 2023, together with comparative figures of 2022, as follows:
+
+CONSOLIDATED BALANCE SHEET
+
+                                                                                  As at 31 December
+                                                                   Note              2023           2022
+                                                                                 RMB’000         RMB’000
+ASSETS
+Non-current assets
+Property, plant and equipment                                                    4,123,948          3,234,563
+Right-of-use assets                                                              2,184,054          2,022,229
+Investment properties                                                            1,560,455          1,802,227
+Land use rights                                                                    154,654            158,781
+Intangible assets                                                                  220,867            217,236
+Deferred income tax assets                                                         800,960            693,402
+Other assets                                                                       203,074            287,707
+Investments accounted for using the equity method                                1,606,601          1,369,403
+Investments measured at fair value through profit or loss                          428,189            174,597
+Other receivables                                                                  234,876            268,183
+Long-term bank deposits                                                          9,037,142         11,023,296
+
+Total non-current assets                                                        20,554,820         21,251,624
+
+Current assets
+Inventories                                                          4           2,493,206          2,428,040
+Other assets – current portion                                                     838,175            831,578
+Trade receivables                                                    5           1,205,532          1,020,346
+Other receivables – current portion                                                177,694             88,419
+Restricted bank deposits                                                               806                970
+Short-term bank deposits                                                         3,493,687            643,324
+Cash and cash equivalents                                                        5,443,883          7,382,218
+
+Total current assets                                                            13,652,983         12,394,895
+
+Total assets                                                                    34,207,803         33,646,519
+
+
+
+
+                                                     –2–
+                                                                 As at 31 December
+                                                        Note        2023           2022
+                                                                RMB’000         RMB’000
+EQUITY
+Capital and reserves attributable to equity holders
+ of the Company
+Ordinary shares                                                   239,546        240,320
+Share premium                                                  10,172,638     11,580,718
+Treasury shares                                                (1,037,927)      (180,839)
+Other reserves                                                  2,021,513      1,792,412
+Retained earnings                                              13,010,871     10,896,819
+
+                                                               24,406,641     24,329,430
+
+Non-controlling interests in equity                                     –          2,498
+
+Total equity                                                   24,406,641     24,331,928
+
+LIABILITIES
+Non-current liabilities
+License fees payable                                                8,581         15,531
+Lease liabilities                                               1,825,288      1,473,905
+Deferred income tax liabilities                                   627,231        518,731
+Deferred income                                                    71,586         65,591
+
+Total non-current liabilities                                   2,532,686      2,073,758
+
+Current liabilities
+Trade payables                                           6      1,789,796      1,584,424
+Contract liabilities                                     3        552,537        252,090
+Lease liabilities – current portion                               716,665        667,762
+Other payables and accruals                                     3,255,710      3,648,720
+License fees payable – current portion                             38,484         50,540
+Current income tax liabilities                                    915,284      1,037,297
+
+Total current liabilities                                       7,268,476      7,240,833
+
+Total liabilities                                               9,801,162      9,314,591
+
+Total equity and liabilities                                   34,207,803     33,646,519
+
+
+
+
+                                                  –3–
+CONSOLIDATED INCOME STATEMENT
+
+                                                                         Year ended 31 December
+                                                                  Note         2023           2022
+                                                                          RMB’000          RMB’000
+
+Revenue                                                            3      27,598,491     25,803,383
+Cost of sales                                                      7     (14,246,436)   (13,318,590)
+
+Gross profit                                                             13,352,055     12,484,793
+
+Selling and distribution expenses                                  7      (9,080,121)    (7,314,303)
+Administrative expenses                                            7      (1,256,152)    (1,113,218)
+Reversal of expected credit loss allowance for financial assets
+ – net                                                                       19,638         24,321
+Other income and other gains – net                                 8        523,667        805,165
+
+Operating profit                                                          3,559,087      4,886,758
+
+Finance income                                                     9        500,556        447,748
+Finance expenses                                                   9       (181,446)      (120,561)
+
+Finance income – net                                               9        319,110        327,187
+Share of profit of investments accounted for using the equity
+  method                                                                    377,972        201,155
+
+Profit before income tax                                                  4,256,169      5,415,100
+
+Income tax expense                                                10      (1,069,207)    (1,351,329)
+
+Profit for the year                                                       3,186,962      4,063,771
+
+Profit is attributable to:
+
+Equity holders of the Company                                             3,186,910      4,063,834
+Non-controlling interests                                                        52            (63)
+
+                                                                          3,186,962      4,063,771
+
+Earnings per share for profit attributable to equity holders
+ of the Company for the year (expressed in RMB cents per
+ share)
+
+Basic earnings per share                                          11         123.21         155.38
+
+Diluted earnings per share                                        11         122.66         154.34
+
+
+
+
+                                                     –4–
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+
+                                                         Year ended 31 December
+                                                               2023           2022
+                                                          RMB’000          RMB’000
+
+Profit for the year                                       3,186,962      4,063,771
+Other comprehensive loss:
+Items that may be reclassified to profit or loss
+Currency translation differences                             (2,173)        (8,383)
+
+Total comprehensive income for the year                   3,184,789      4,055,388
+
+
+
+Attributable to:
+Equity holders of the Company                             3,184,737      4,055,451
+Non-controlling interests                                        52            (63)
+
+Total comprehensive income for the year                   3,184,789      4,055,388
+
+
+
+
+                                                   –5–
+Notes:
+
+1.       General information
+
+         Li Ning Company Limited (the “Company”) and its subsidiaries (together, the “Group”) are principally engaged in brand
+         development, design, manufacture, sale and distribution of sport-related footwear, apparel, equipment and accessories in the
+         People’s Republic of China (the “PRC”).
+
+         The Company was incorporated on 26 February 2004 in the Cayman Islands as an exempted company with limited liability under
+         the Companies Law, Cap.22 (Law 3 of 1961, as consolidated and revised) of the Cayman Islands. The address of its registered
+         office is Cricket Square, Hutchins Drive, P.O. Box 2681, Grand Cayman KY1-1111, Cayman Islands.
+
+         The Company’s shares are listed on the Main Board of The Stock Exchange of Hong Kong Limited.
+
+         These consolidated financial results are presented in Renminbi (“RMB”), unless otherwise stated. These consolidated financial
+         results have been approved for issue by the Board on 19 March 2024.
+
+2.       Basis of preparation and accounting policies
+
+         The accounting policies adopted in the preparation of these consolidated financial results have been consistently applied to all
+         the years presented, unless otherwise stated. The consolidated financial results are prepared for the Group consisting of Li Ning
+         Company Limited and its subsidiaries.
+
+         (a)    Compliance with IFRS Accounting Standards and HKCO
+
+                The consolidated financial results of the Company have been prepared in accordance with IFRS Accounting Standards
+                and the disclosure requirements of the Hong Kong Companies Ordinance (“HKCO”) Cap. 622.
+
+         (b)    Historical cost convention
+
+                The consolidated financial results have been prepared on a historical cost basis, except for certain financial assets which
+                are measured at fair value.
+
+         (c)    New and amended standards adopted by the Group
+
+                The Group has applied the following new and amended standards for the first time for the annual reporting period
+                commencing 1 January 2023:
+
+                Amendments to IAS 8                                          Definition of Accounting Estimates
+                Amendments to IAS 1 and IFRS Practice Statement 2            Disclosure of Accounting Policies
+                Amendments to IAS 12                                         International Tax Reform – Pillar Two Model Rules
+                IFRS 17                                                      Insurance Contracts
+
+                The new and amended standards listed above did not have any impact on the amounts recognised in prior periods and
+                are not expected to significantly affect the current or future periods.
+
+
+
+
+                                                                   –6–
+     (d)    New and amended standards not yet adopted
+
+            Certain amendments to accounting standards have been published but are not mandatory for 31 December 2023 reporting
+            period and have not been early adopted by the Group. These amendments are not expected to have a material impact on
+            the Group in the current or future reporting periods and on foreseeable future transactions.
+
+                                          Amendments and interpretations                Effective date
+
+            Amendments to IAS 1           Classification of Liabilities as Current or   Annual periods beginning on or after
+                                            Non-current                                   1 January 2024
+            Amendments to IAS 1           Non-current Liabilities with Covenants        Annual periods beginning on or after
+                                                                                          1 January 2024
+            Amendments to IFRS 16         Lease Liability in a Sale and Leaseback       Annual periods beginning on or after
+                                                                                          1 January 2024
+            Amendments to IAS 7           Supplier Finance Arrangements                 Annual periods beginning on or after
+             and IFRS 7                                                                   1 January 2024
+            Amendments to IAS 21          Lack of Exchangeability                       Annual periods beginning on or after
+                                                                                          1 January 2025
+            Amendments to IAS 28          Sale or Contribution of Assets between        Undetermined
+             and IFRS 10                    an Investor and its Associate or Joint
+                                            Venture
+
+3.   Segment information and revenue
+
+     The management of the Company (“Management”) is the Group’s chief operating decision-maker. Management reviews the
+     Group’s internal reports periodically in order to assess results and allocate resources. Management has determined the operating
+     segments based on these reports.
+
+     The Group is principally engaged in a single line of business of sporting goods and Management reviews the performance of the
+     Group as a whole, thus there is only one reportable segment and no segment information is presented.
+
+     The Group’s principal market is the PRC (including the Hong Kong Special Administrative Region and the Macau Special
+     Administrative Region) and its sales to overseas customers contributed to less than 10% of revenue. Also, none of the Group’s
+     non-current assets is located outside the PRC. Accordingly, no geographical information is presented.
+
+     (a)    Revenue from contracts with customers
+
+            The Group derives revenue in the following major product categories and sales channels:
+
+            Revenue breakdown by product category:
+
+                                                                                                  Year ended 31 December
+                                                                                                        2023             2022
+                                                                                                   RMB’000            RMB’000
+
+            Footwear                                                                               13,389,080            13,478,630
+            Apparel                                                                                12,410,785            10,708,594
+            Equipment and accessories                                                               1,798,626             1,616,159
+
+            Total                                                                                  27,598,491            25,803,383
+
+
+
+
+                                                              –7–
+      Revenue breakdown by sales channel:
+
+                                                                                             Year ended 31 December
+                                                                                                   2023             2022
+                                                                                              RMB’000            RMB’000
+
+      The PRC market
+        Sales to franchised distributors                                                      12,628,028             12,551,862
+        Sales from direct operation                                                            6,907,451              5,330,434
+        Sales from e-commerce channel                                                          7,531,410              7,465,297
+      Other regions                                                                              531,602                455,790
+
+      Total                                                                                   27,598,491             25,803,383
+
+
+      Revenue by geographical location is determined on the basis of destination of shipment/delivery.
+
+      The Group has a large number of customers. For the years ended 31 December 2023 and 2022, no revenue derived from
+      transactions with a single external customer represented 10% or more of the Group’s total revenue.
+
+(b)   Liabilities related to contracts with customers
+
+                                                                                                  2023                    2022
+                                                                                               RMB’000                 RMB’000
+
+      Contract liabilities – advances from customers                                             480,425                166,123
+      Contract liabilities – customer loyalty programme                                           72,112                 85,967
+
+      Total                                                                                      552,537                252,090
+
+
+      The Group applied the practical expedient of not to disclose the transaction price allocated to the unsatisfied performance
+      obligations as contract terms less than 12 months.
+
+      Significant change in contract liabilities
+
+      The increase in contract liabilities in 2023 was mainly due to the increase in advances received from customers in relation
+      to the sales orders of sporting goods at the end of the reporting period.
+
+      Revenue recognised in relation to contract liabilities
+
+                                                                                             Year ended 31 December
+                                                                                                   2023             2022
+                                                                                              RMB’000            RMB’000
+      Revenue recognised that was included in the contract liability balance
+        at the beginning of the year
+
+      Contract liabilities – advances from customers                                             166,123                258,265
+      Contract liabilities – customer loyalty programme                                           85,967                 87,570
+
+      Total                                                                                      252,090                345,835
+
+
+
+
+                                                         –8–
+4.   Inventories
+
+                                                                                                      2023                 2022
+                                                                                                   RMB’000              RMB’000
+
+     Raw materials                                                                                    32,009               19,302
+     Work in progress                                                                                 17,812               31,783
+     Finished goods                                                                                2,578,112            2,497,486
+
+                                                                                                   2,627,933            2,548,571
+     Less: provision for write-down of inventories to net realisable value                          (134,727)            (120,531)
+
+                                                                                                   2,493,206            2,428,040
+
+
+     The cost of inventories recognised as expenses and included in cost of sales amounted to RMB13,856,610,000 for the year ended
+     31 December 2023 (2022: RMB12,979,293,000), which included inventory provision of RMB14,196,000 (2022: RMB26,852,000).
+
+5.   Trade receivables
+
+                                                                                                      2023                 2022
+                                                                                                   RMB’000              RMB’000
+
+     Accounts receivable                                                                           1,243,747            1,172,857
+     Less: expected credit loss allowance for trade receivables                                      (38,215)            (152,511)
+
+                                                                                                   1,205,532            1,020,346
+
+
+     Customers are normally granted credit terms within 90 days. As at 31 December 2023 and 2022, ageing analysis of trade
+     receivables based on invoice date is as follows:
+
+                                                                                                      2023                 2022
+                                                                                                   RMB’000              RMB’000
+
+     0 – 30 days                                                                                     581,522              579,558
+     31 – 60 days                                                                                    384,449              305,891
+     61 – 90 days                                                                                     99,505               99,031
+     91 – 180 days                                                                                   157,530               74,865
+     Over 180 days                                                                                    20,741              113,512
+
+                                                                                                   1,243,747            1,172,857
+
+
+     The movement in the expected credit loss allowance for trade receivables during the year is as follows:
+
+                                                                                                      2023                 2022
+                                                                                                   RMB’000              RMB’000
+
+     As at 1 January                                                                                 152,511              208,281
+     Reversal of expected credit loss allowance for trade receivables                                (20,592)             (23,114)
+     Trade receivables written off during the year as uncollectible                                  (93,703)             (33,816)
+     Effect of change in exchange rate                                                                    (1)               1,160
+
+     As at 31 December                                                                                38,215              152,511
+
+
+
+
+                                                              –9–
+6.   Trade payables
+
+     Trade payables are mainly denominated in RMB. The normal credit period for trade payables generally ranges from 30 to 60
+     days. Ageing analysis of trade payables based on invoice date at the respective balance sheet date is as follows:
+
+                                                                                                      2023                  2022
+                                                                                                   RMB’000               RMB’000
+
+     0-30 days                                                                                     1,507,160             1,224,526
+     31-60 days                                                                                      274,316               309,672
+     61-90 days                                                                                        4,661                 1,758
+     91-180 days                                                                                         930                 9,699
+     181-365 days                                                                                      1,759                15,622
+     Over 365 days                                                                                       970                23,147
+
+                                                                                                   1,789,796             1,584,424
+
+
+7.   Expenses by nature
+
+                                                                                                      2023                  2022
+                                                                                                   RMB’000               RMB’000
+
+     Cost of inventories recognised as expenses and included in cost of sales                     13,856,610            12,979,293
+     Depreciation on property, plant and equipment (Note a)                                        1,015,519               732,178
+     Amortisation of land use rights and intangible assets                                            55,447                49,343
+     Depreciation on right-of-use assets                                                             761,748               611,447
+     Impairment of right-of-use assets                                                               208,028                     –
+     Impairment of property, plant and equipment                                                     115,463                     –
+     Impairment of goodwill                                                                           11,462                     –
+     Advertising and marketing expenses                                                            2,496,218             2,279,152
+     Commission and trade fair related expenses                                                      811,291               723,209
+     Staff costs, including directors’ emoluments (Note a)                                         2,391,725             1,989,282
+     Short-term lease rentals and variable lease payments not included in lease
+       liabilities and rental related expenses                                                     1,168,605               834,067
+     Research and product development expenses (Note a)                                              618,183               534,156
+     Transportation and logistics expenses                                                           914,562               898,173
+     Auditor’s remuneration
+       – Audit services                                                                                6,680                 6,220
+       – Non-audit services                                                                            2,675                 1,345
+     Management consulting expenses                                                                  124,551               110,366
+
+
+     Note:
+
+     (a)     Research and product development expenses include depreciation on property, plant and equipment and staff costs in
+             Research & Development Department, which are also included in depreciation expense and staff costs as disclosed above.
+
+
+
+
+                                                             – 10 –
+8.   Other income and other gains – net
+
+                                                                                                        2023                    2022
+                                                                                                     RMB’000                 RMB’000
+
+     Government grants (Note)                                                                          417,319                461,727
+     Fair value gains on wealth management products measured at fair value through
+       profit or loss                                                                                    80,370               140,550
+     License fees income                                                                                 50,178               131,949
+     Rental income                                                                                       47,293                77,935
+     Depreciation and related expenses on investment properties under operating
+       leases                                                                                           (76,274)               (60,826)
+     Fair value gains on investments measured at fair value through profit or loss                        4,781                 53,830
+
+                                                                                                       523,667                805,165
+
+
+     Note:
+
+     Government grants were received from several local government authorities as a recognition of the Group’s contribution towards the
+     local economic development. Among the government grants recognised during the year ended 31 December 2023, the entitlement
+     of an aggregate amount of RMB392,455,000 (2022: RMB436,751,000) was unconditional and at the discretion of the relevant
+     authorities, while the remaining amount of RMB24,864,000 (2022: RMB24,976,000) was credited to profit or loss from deferred
+     income in accordance with the fulfillment of the respective conditions attaching to the government grants.
+
+9.   Finance income and expenses
+
+                                                                                                        2023                    2022
+                                                                                                     RMB’000                 RMB’000
+
+     Finance income
+     Interest income on bank balances and deposits                                                     476,739                353,987
+     Net foreign currency exchange gain                                                                 23,817                 93,761
+
+                                                                                                       500,556                447,748
+
+     Finance expenses
+     Amortisation of discount – license fees payable                                                     (1,993)                (2,363)
+     Amortisation of discount – lease liabilities                                                      (144,488)               (99,035)
+     Borrowing interests                                                                                (16,006)                (3,391)
+     Others                                                                                             (18,959)               (15,772)
+
+                                                                                                       (181,446)              (120,561)
+
+     Finance income – net                                                                              319,110                327,187
+
+
+
+
+                                                              – 11 –
+10.   Income tax expense
+
+                                                                                                            2023                    2022
+                                                                                                         RMB’000                 RMB’000
+
+      Current income tax
+      – Corporate income tax (b)                                                                         1,020,748              1,234,410
+      – Withholding income tax on dividends and interests from subsidiaries in
+          Mainland China (c)                                                                                47,517                 10,888
+
+                                                                                                         1,068,265              1,245,298
+
+      Deferred income tax                                                                                      942                106,031
+
+      Income tax expense                                                                                 1,069,207              1,351,329
+
+
+      Notes:
+
+      (a)      The Company was incorporated in the Cayman Islands. Under current laws of the Cayman Islands, there are no income,
+               estate, corporation, capital gains or other taxes payable by the Company. The Company’s subsidiary, RealSports Pte Ltd.,
+               was established under the International Business Companies Acts of the British Virgin Islands, and is exempted from
+               British Virgin Islands income taxes.
+
+      (b)      For the year ended 31 December 2023, provision for the corporate income tax of Mainland China is calculated based on
+               the statutory tax rate of 25% (2022: 25%) on the taxable profits of each of the group companies, except for one of the
+               Group’s subsidiaries incorporated in Guangxi Zhuang Autonomous Region which is subject to preferential tax rate of 9%
+               (2022: 9%). Hong Kong profits tax has been provided at the rate of 16.5% on the estimated assessable profits arising in
+               Hong Kong (2022: 16.5%).
+
+      (c)      This mainly arose from the dividends and interests due by the Company’s subsidiaries in Mainland China to other group
+               companies in Hong Kong during the years ended 31 December 2023 and 2022, which are subject to withholding tax at
+               the rate of 5% (in connection with dividends) and 7% or 10% (in connection with interests) respectively.
+
+11.   Earnings per share
+
+      Basic
+
+      Basic earnings per share is calculated by dividing the profit attributable to equity holders of the Company by the weighted average
+      number of shares in issue less shares held for the restricted share award scheme adopted by the Company on 14 July 2016 (the
+      “Restricted Share Award Scheme”) and shares repurchased by the Company for cancellation during the year. Such weighted
+      average number of shares outstanding shall be adjusted for events such as bonus issue and stock dividend.
+
+      In April 2013, the Company completed the issuance of convertible securities. In January 2015, the Company completed the
+      issuance of offer securities which included the issuance of both ordinary shares and convertible securities. The below market
+      subscription price of these two events had effectively resulted in 247,000 ordinary shares of the Company (31 December 2022:
+      249,000 ordinary shares of the Company) to be issued upon conversion for nil consideration (i.e. the bonus element), and such
+      impact has been taken into account in calculating the weighted average number of shares for the purpose of basic earnings per
+      share. The shares issued for nil consideration arising from the issuance of convertible securities have been adjusted retrospectively
+      and treated as outstanding as if the issuance had occurred at the beginning of 2022.
+
+                                                                                                              2023                   2022
+
+      Profit attributable to equity holders of the Company (RMB’000)                                     3,186,910              4,063,834
+
+
+      Deemed weighted average number of shares and convertible securities after
+       adjustment for related bonus element for basic earnings per share
+       (in thousands)                                                                                    2,586,489              2,615,354
+
+
+      Basic earnings per share (RMB cents)                                                                  123.21                 155.38
+
+
+
+
+                                                                 – 12 –
+      Diluted
+
+      Diluted earnings per share is calculated by adjusting the weighted average number of shares in issue to assume conversion of all
+      dilutive potential shares. The Company’s dilutive potential shares comprise shares to be issued under share option schemes and
+      Restricted Share Award Scheme. In relation to shares issued under share option schemes, a calculation is done to determine the
+      number of shares that could have been acquired at fair value (determined as the average market share price of the Company’s
+      shares during the year) based on the monetary value of the subscription rights attached to outstanding share options. The number
+      of shares calculated as above is compared with the number of shares that would have been issued assuming the exercise of the
+      share options.
+
+                                                                                                           2023                   2022
+
+      Profit attributable to equity holders of the Company, used to determine diluted
+        earnings per share (RMB’000)                                                                  3,186,910              4,063,834
+
+
+      Deemed weighted average number of shares and convertible securities after
+       adjustment for related bonus element for basic earnings per share (in
+       thousands)                                                                                     2,586,489              2,615,354
+      Adjustment for the restricted shares (in thousands)                                                 8,803                  5,545
+      Adjustment for the share option schemes (in thousands)                                              2,840                 12,181
+
+      Deemed weighted average number of shares for diluted earnings per share
+       (in thousands)                                                                                 2,598,132              2,633,080
+
+
+      Diluted earnings per share (RMB cents)                                                              122.66                154.34
+
+
+12.   Dividends
+
+      (a)       Dividends payable to equity holders of the Company attributable to the current financial year
+
+                                                                                                         2023                   2022
+                                                                                                      RMB’000                RMB’000
+
+                Interim dividend of RMB36.20 cents (2022: nil) per ordinary share, paid
+                  out of retained earnings of the Company                                               954,636                      –
+                Proposed final dividend of RMB18.54 cents (2022: RMB46.27 cents) per
+                  ordinary share, payable/paid out of share premium of the Company                      479,473              1,220,193
+
+                                                                                                      1,434,109              1,220,193
+
+
+                The proposed final dividend for the year ended 31 December 2023 is not reflected as a dividend payable in the financial
+                results, but will be reflected as an appropriation of share premium in the year ending 31 December 2024.
+
+                The percentage of total dividend paid/payable in respect of the year ended 31 December 2023 to profit attributable to
+                equity holders is 45% (2022: 30%).
+
+      (b)       Dividends payable to equity holders of the Company attributable to the previous financial year
+
+                                                                                                         2023                   2022
+                                                                                                      RMB’000                RMB’000
+
+                Final dividend in respect of the year ended 31 December 2022 of
+                  RMB46.27 cents (2021: RMB45.97 cents) per ordinary share, paid out
+                  of share premium of the Company                                                     1,220,193              1,194,720
+
+
+
+
+                                                                – 13 –
+13.   Events after the balance sheet date
+
+      (a)    Cancellation of repurchased shares after the balance sheet date
+
+             On 23 January 2024, the Company cancelled 40,937,500 repurchased shares which were included in treasury shares as at 31
+             December 2023. As a result, the Company recognised a debit to ordinary shares of HK$4,094,000 (equivalent to approximately
+             RMB3,723,000), a debit to share premium of HK$774,658,000 (equivalent to approximately RMB701,982,000) and a
+             credit to treasury shares of HK$778,752,000 (equivalent to approximately RMB705,705,000) respectively.
+
+      (b)    Completion of acquisition after the balance sheet date
+
+             On 10 December 2023, the Group entered into a sale and purchase agreement (the “SPA”) with an independent third
+             party, pursuant to which the Group has conditionally agreed to (1) acquire the entire share capital of Vansittart Investment
+             Limited (the “Target Company”, a company incorporated in Hong Kong with limited liability) (the “Sale Shares”) and
+             (2) take up the assignment of the loan amount owing by the Target Company to one of its related parties as at the date of
+             completion of the above acquisition (the “Sale Loan”) (collectively, the “Acquisition”). The Target Company is principally
+             engaged in property investment and is the sole legal and beneficial owner of a property located in Hong Kong, which is
+             the principal asset of the Target Company.
+
+             The aggregate consideration for the Acquisition is HK$2,208 million (which is subject to adjustment as agreed under the
+             SPA). As at 31 December 2023, the Group paid a deposit of HK$221 million pursuant to the SPA and such amount was
+             recorded as other assets in the consolidated balance sheet, and the remaining amount of the consideration of HK$1,987
+             million (which is subject to adjustment as agreed under the SPA) was payable on or before the completion of the Acquisition.
+
+             Pursuant to the SPA, the completion of the Acquisition took place on 28 January 2024 at the aggregate consideration
+             of HK$2,221 million which had reflected the adjustments made to the consideration in accordance with the SPA (the
+             “Adjusted Consideration”, which is subject to certification by the Group as agreed under the SPA). Save for the deposit
+             of HK$221 million (equivalent to approximately RMB200 million) paid in December 2023, the Group had paid the
+             remaining amount of the Adjusted Consideration in January 2024, which amounted to HK$2,000 million (equivalent to
+             approximately RMB1,813 million).
+
+             Up to the approval date of the consolidated financial results, the Group is in the process of determining the accounting
+             treatment for the transaction in accordance with IFRS Accounting Standards.
+
+
+
+
+                                                               – 14 –
+FINAL DIVIDEND
+
+The Board has recommended the payment of final dividend of RMB18.54 cents per ordinary share of the Company
+issued or to be issued upon conversion of convertible securities for the year ended 31 December 2023 (2022:
+RMB46.27 cents). The proposed final dividend is subject to approval by the shareholders of the Company at
+the forthcoming annual general meeting (the “AGM”) to be held on 13 June 2024 and is payable in Hong Kong
+Dollars based on the official exchange rate of Renminbi against Hong Kong Dollars as quoted by the People’s
+Bank of China on 13 June 2024. Such dividend will not be subject to any withholding tax. Upon approval by
+the shareholders of the Company, the proposed final dividend will be paid:
+
+(i)     on 28 June 2024 to ordinary shareholders whose names shall appear on the register of members of the
+        Company on 20 June 2024;
+
+(ii)    on 28 June 2024 to holders of convertible securities issued under the open offer of offer securities of the
+        Company as set out in the listing document of the Company dated 9 January 2015 and remain outstanding
+        on 20 June 2024; and
+
+(iii)   on 4 July 2024 (i.e. the third business day after 28 June 2024) to holders of convertible securities issued
+        under the open offer of convertible securities of the Company as set out in the listing document of the
+        Company dated 27 March 2013 and remain outstanding on 20 June 2024.
+
+For the avoidance of doubt, any convertible securities subject to a conversion notice completed, executed and
+deposited on or before the final dividend record date (being 20 June 2024) shall be entitled to the distribution
+of such final dividend of the Company. For details of calculation of distribution of the final dividend entitled
+to the convertible securities, please refer to the listing documents of the Company dated 27 March 2013 and 9
+January 2015 respectively.
+
+The Company declared an interim dividend of RMB36.20 cents per ordinary share of the Company issued or
+to be issued upon conversion of convertible securities for the six months ended 30 June 2023 (2022: nil) on 10
+August 2023, and such interim dividend has been paid in September 2023.
+
+
+
+
+                                                       – 15 –
+CLOSURE OF REGISTER OF MEMBERS AND HOLDERS OF CONVERTIBLE SECURITIES
+
+For the purpose of determining shareholders of the Company who are entitled to attend and vote at the forthcoming
+AGM to be held on 13 June 2024 and shareholders and holders of convertible securities of the Company qualifying
+for the proposed final dividend to be approved at the AGM, the register of members and register of holders of
+convertible securities of the Company will be closed as set out below:
+
+(i)    For ascertaining eligibility to attend and vote at the AGM:
+
+       Latest time to lodge transfer documents                    4:30 p.m. on 6 June 2024 (Thursday)
+       Period of closure of register of members                   7 June 2024 (Friday) to 13 June 2024 (Thursday)
+                                                                    (both days inclusive)
+       Record date                                                13 June 2024 (Thursday)
+       AGM date                                                   13 June 2024 (Thursday)
+
+       In order to qualify for attending and voting at the AGM, all transfer documents must be lodged with the
+       Company’s Hong Kong branch share registrar and transfer office, Computershare Hong Kong Investor
+       Services Limited, at Shops 1712-1716, 17th Floor, Hopewell Centre, 183 Queen’s Road East, Wanchai,
+       Hong Kong for registration before the above latest time to lodge transfer documents.
+
+(ii)   For ascertaining entitlement to the proposed final dividend to be approved at the AGM:
+
+       Latest time to lodge transfer documents                    4:30 p.m. on 18 June 2024 (Tuesday)
+       Period of closure of register of members and               19 June 2024 (Wednesday) to 20 June 2024
+         register of holders of convertible securities              (Thursday) (both days inclusive)
+       Final dividend record date                                 20 June 2024 (Thursday)
+
+       In order to qualify for the proposed final dividend, all transfer documents must be lodged with the
+       Company’s Hong Kong branch share registrar and transfer office, Computershare Hong Kong Investor
+       Services Limited, at Shops 1712-1716, 17th Floor, Hopewell Centre, 183 Queen’s Road East, Wanchai,
+       Hong Kong for registration before the above latest time to lodge transfer documents.
+
+During the above closure periods, no transfer of shares or convertible securities of the Company will be registered.
+
+
+
+
+                                                         – 16 –
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+Financial Overview
+
+The key operating and financial performance indicators of the Group for the year ended 31 December 2023 are
+set out below:
+
+                                                                 Year ended 31 December            Change
+                                                                       2023         2022              (%)
+
+Income statement items
+(All amounts in RMB thousands unless otherwise stated)
+
+Revenue                                                           27,598,491     25,803,383             7.0
+Gross profit                                                      13,352,055     12,484,793             6.9
+Operating profit                                                   3,559,087      4,886,758           (27.2)
+Earnings before interest, tax, depreciation and amortisation
+  (EBITDA) (Note 1)                                                6,157,208      6,541,707            (5.9)
+Profit attributable to equity holders                              3,186,910      4,063,834           (21.6)
+Basic earnings per share (RMB cents) (Note 2)                         123.21         155.38           (20.7)
+
+Key financial ratios
+
+Profitability ratios
+Gross profit margin (%)                                                  48.4           48.4              –
+Operating profit margin (%)                                              12.9           18.9           (6.0)
+Effective tax rate (%)                                                   25.1           25.0            0.1
+Margin of profit attributable to equity holders (%)                      11.5           15.7           (4.2)
+Return on equity attributable to equity holders (%) (Note 3)             13.1           17.9           (4.8)
+
+Expenses to revenue ratios
+Staff costs (%)                                                           8.7            7.7            1.0
+Advertising and marketing expenses (%)                                    9.0            8.8            0.2
+Research and product development expenses (%)                             2.2            2.1            0.1
+
+                                                               31 December 31 December
+                                                                      2023        2022
+
+Balance sheet items
+(All amounts in RMB thousands unless otherwise stated)
+
+Total assets                                                      34,207,803     33,646,519
+Capital and reserves attributable to equity holders               24,406,641     24,329,430
+
+Key financial ratios
+
+Asset efficiency
+Average inventory turnover (days) (Note 4)                                63             58
+Average trade receivables turnover (days) (Note 5)                        15             14
+Average trade payables turnover (days) (Note 6)                           43             42
+
+Asset ratios
+Debt-to-equity ratio (%) (Note 7)                                       40.2           38.3
+Net asset value per share (RMB cents) (Note 8)                        948.27         926.23
+
+
+                                                      – 17 –
+Notes:
+
+1.       The calculation of earnings before interest, tax, depreciation and amortisation (EBITDA) is based on profit for the year, excluding
+         the sum of income tax expense, finance income – net, depreciation and impairment on property, plant and equipment, depreciation
+         on investment properties under operating leases, amortisation of land use rights and intangible assets and depreciation and
+         impairment on right-of-use assets.
+
+2.       Basic earnings per share is calculated by dividing the profit attributable to equity holders of the Company by the weighted
+         average number of shares in issue less shares held for Restricted Share Award Scheme and shares repurchased by the Company
+         for cancellation during the year. Such weighted average number of shares outstanding shall be adjusted for events such as bonus
+         issue and stock dividend.
+
+3.       The calculation of return on equity attributable to equity holders is based on the profit attributable to equity holders of the Company
+         for the year, divided by the average of opening and closing balances of capital and reserves attributable to equity holders of the
+         Company of the year.
+
+4.       The calculation of average inventory turnover (days) is based on the average of opening and closing inventory balances for the
+         year, divided by cost of sales and multiplied by the total number of days in the year.
+
+5.       The calculation of average trade receivables turnover (days) is based on the average of opening and closing balances of trade
+         receivables for the year, divided by revenue and multiplied by the total number of days in the year.
+
+6.       The calculation of average trade payables turnover (days) is based on the average of opening and closing balances of trade
+         payables for the year, divided by total purchases and multiplied by the total number of days in the year.
+
+7.       The calculation of debt-to-equity ratio is based on total liabilities divided by capital and reserves attributable to equity holders
+         of the Company at the end of the year.
+
+8.       The calculation of net asset value per share is based on the net asset value, divided by the number of shares in issue less shares
+         held for Restricted Share Award Scheme at the end of the year.
+
+*        The aforesaid indicators provided by the Group may not necessarily be the same in terms of similar calculation methods as those
+         provided by other issuers.
+
+**       The Group adopted the aforesaid non-GAAP financial indicators such as EBITDA, margin of profit attributable to equity holders,
+         return on equity attributable to equity holders, expenses (staff costs/advertising and marketing expenses/research and product
+         development expenses) to revenue ratio, average inventory/trade receivables/trade payables turnover days, debt-to-equity ratio
+         and net asset value per share because comparable companies in the industry in which the Group operates use the aforesaid
+         common indicators as a supplementary measurement for results of operation, which are also widely used by investors to measure
+         the results of operation of the comparable companies.
+
+Revenue
+
+The Group’s revenue for the year ended 31 December 2023 amounted to RMB27,598,491,000 (2022:
+RMB25,803,383,000), representing an increase of 7.0% as compared to that of 2022. In 2023, thanks to the
+successful prevention and control of the COVID-19 pandemic and the domestic recovery of economic and social
+activities, the Group actively participated in the sponsorship and promotion for various sports events and offline
+activities, providing professional sports equipment and services to event personnel and consumers. Also, the
+Group has always insisted that only with professional ability and attitude can professional products be created, and
+never stray from its original aspiration by serving the public and consumers with sportsmanship to win consumer
+trust and choice. Changes in revenue from all channels during the year were as follows: (1) the strategic layout
+of directly-operated stores was effective in providing consumers with more comprehensive product display,
+professional offline experience and outstanding service team, resulting in a growth rate of 29.6% year-on-year
+for the directly-operated revenue; (2) affected by the changing environment of the online platforms, the Group
+continued to put in resources efficiently and increased efforts in the development of various platforms, thereby
+maintaining stable revenue with a slight increase of 0.9% year-on-year; and (3) in order to support the sound
+development of the distributors and maintain its healthy operating conditions, the Group curbed some futures
+orders upon thorough communication with the distributors, thereby maintaining stable distribution revenue with
+a slight increase of 0.6% year-on-year.
+
+
+
+                                                                     – 18 –
+Revenue breakdown by product category
+
+                                                          Year ended 31 December
+                                                      2023                      2022
+                                                                % of                                          % of          Revenue
+                                                                total                                         total          Change
+                                                RMB’000      revenue     RMB’000                           revenue              (%)
+
+Footwear                                       13,389,080                  48.5     13,478,630                 52.2              (0.7)
+Apparel                                        12,410,785                  45.0     10,708,594                 41.5              15.9
+Equipment and accessories                       1,798,626                   6.5      1,616,159                  6.3              11.3
+
+Total                                          27,598,491                 100.0     25,803,383               100.0                 7.0
+
+Revenue breakdown (in %) by sales channel
+
+                                                                            Year ended 31 December
+                                                                                   2023            2022                      Change
+                                                                           % of revenue    % of revenue                         (%)
+The PRC market
+ Sales to franchised distributors                                                    45.8                  48.5                   (2.7)
+ Sales from direct operation                                                         25.0                  20.7                    4.3
+ Sales from e-commerce channel                                                       27.3                  29.0                   (1.7)
+Other regions                                                                         1.9                   1.8                    0.1
+
+Total                                                                              100.0                  100.0                      –
+
+Revenue breakdown by geographical location
+
+                                                                Year ended 31 December
+                                                                                                                            Revenue
+                                                      2023                                  2022                             Change
+                                   Note         RMB’000 % of revenue                  RMB’000 % of revenue                      (%)
+The PRC market
+ Northern region                     1         13,007,856                  47.2     11,987,993                 46.4               8.5
+ Southern region                     2         14,059,033                  50.9     13,359,600                 51.8               5.2
+Other regions                                     531,602                   1.9        455,790                  1.8              16.6
+
+Total                                          27,598,491                 100.0     25,803,383               100.0                 7.0
+
+Notes:
+
+1.       The Northern region includes provinces, municipalities and autonomous regions covering Beijing, Tianjin, Shanxi, Shandong,
+         Hebei, Inner Mongolia, Henan, Heilongjiang, Jilin, Liaoning, Shaanxi, Gansu, Ningxia, Xinjiang and Qinghai.
+
+2.       The Southern region includes provinces, municipalities, autonomous regions and special administrative regions covering Yunnan,
+         Guizhou, Sichuan, Jiangxi, Chongqing, Tibet, Shanghai, Zhejiang, Jiangsu, Hunan, Hubei, Anhui, Guangdong, Guangxi, Fujian,
+         Hainan, Macau and Hong Kong.
+
+
+
+
+                                                                 – 19 –
+Cost of Sales and Gross Profit
+
+For the year ended 31 December 2023, the overall cost of sales of the Group amounted to RMB14,246,436,000
+(2022: RMB13,318,590,000), and the overall gross profit margin was 48.4% (2022: 48.4%), which remained
+flat as compared with that of the previous year. During the year, the Group improved the discount at directly-
+operated offline stores, leading to a slight increase in gross profit margin. However, with the increasingly
+competitive environment online, the gross profit margin of e-commerce channel dropped. Overall, the Group’s
+gross profit margin remained stable.
+
+Selling and Distribution Expenses
+
+For the year ended 31 December 2023, the Group’s overall selling and distribution expenses amounted to
+RMB9,080,121,000 (2022: RMB7,314,303,000), representing a year-on-year increase of 24.1%; the selling
+and distribution expenses accounted for 32.9% (2022: 28.3%) of the Group’s total revenue with a year-on-year
+increase of 4.6 percentage points.
+
+During the year, along with the increase in revenue from direct operation, rental, wages and bonuses of direct
+sales staff that related to revenue recorded increases to varying degrees. In order to enhance brand value and
+promote consumption, the Group increased the expenses in relation to advertising, promotion and sponsorship
+during the year. Meanwhile, owing to the Company’s planning and adjustment in high-tier markets, there was a
+relatively significant increase in fixed rental of retail stores and amortisation charges of props for store fittings,
+and provisions have been made for asset impairment of certain loss-making stores. As a result, selling and
+distribution expenses recorded a relatively large increase.
+
+Administrative Expenses
+
+For the year ended 31 December 2023, the Group’s overall administrative expenses amounted to RMB1,256,152,000
+(2022: RMB1,113,218,000), accounting for 4.6% (2022: 4.3%) of the Group’s total revenue with a year-on-
+year increase of 0.3 percentage points. Administrative expenses mainly comprised staff costs, management
+consulting fees, depreciation and amortisation charges, research and product development expenses, taxes and
+other miscellaneous daily expenses.
+
+The increase in administrative expenses during the year was mainly attributable to the growth of research and
+product development expenses, tax increase arising from the revenue growth as well as the increase in daily
+expenses after the pandemic.
+
+Share of Profit of Investments Accounted for Using the Equity Method
+
+For the year ended 31 December 2023, the Group’s share of profit of investments accounted for using the equity
+method amounted to RMB377,972,000 (2022: RMB201,155,000), among which, the Group shared the one-off
+gains not related to operation of RMB140,457,000 in relation to the disposal of certain land parcels held by one
+of its associates during the year.
+
+Earnings before Interest, Tax, Depreciation and Amortisation (EBITDA)
+
+For the year ended 31 December 2023, the Group’s EBITDA amounted to RMB6,157,208,000 (2022:
+RMB6,541,707,000), representing a year-on-year decrease of 5.9%, while excluding the one-off gains not related
+to operation, the EBITDA was RMB6,016,751,000, representing a year-on-year decrease of 8.0%.
+
+
+
+
+                                                        – 20 –
+Reconciliations of EBITDA to profit for the year are as follows:
+
+                                                                                                       2023                    2022
+                                                                                                    RMB’000                 RMB’000
+
+Reconciliation of profit for the year to EBITDA:
+Profit for the year                                                                                 3,186,962              4,063,771
+ Income tax expense                                                                                 1,069,207              1,351,329
+ Finance income                                                                                      (500,556)              (447,748)
+ Finance expenses (including amortisation of discount on lease
+   liabilities)                                                                                       181,446                 120,561
+ Depreciation on property, plant and equipment                                                      1,015,519                 732,178
+ Impairment of property, plant and equipment*                                                         115,463                       –
+ Amortisation of land use rights and intangible assets                                                 55,447                  49,343
+ Depreciation on right-of-use assets                                                                  761,748                 611,447
+ Impairment of right-of-use assets*                                                                   208,028                       –
+ Depreciation on investment properties under operating leases                                          63,944                  60,826
+
+EBITDA                                                                                              6,157,208              6,541,707
+
+*     Impairment charges included as an adjustment item in EBITDA primarily resulted from our impairment evaluation of non-current
+      assets whenever events or changes in circumstances indicate that the carrying value of the assets may not be recoverable. If these
+      non-current assets were not impaired, depreciation of the assets would have been recorded as an adjustment item in EBITDA.
+      Therefore, impairment charges were a non-cash item similar to depreciation and amortization of non-current assets.
+
+Finance Income – Net
+
+For the year ended 31 December 2023, the Group’s net finance income amounted to RMB319,110,000 (2022:
+RMB327,187,000). During the year, the interest expenses recognised on lease liabilities increased; the exchange
+gains decreased; and the Group has made adjustment to its currency investment portfolio where more funds
+were deposited in the form of fixed term deposits for more stable returns, which led to the year-on-year growth
+of interest income. Taking into account the above factors, the net finance income recorded a decrease during
+the year.
+
+Income Tax Expense
+
+For the year ended 31 December 2023, the income tax expense of the Group amounted to RMB1,069,207,000
+(2022: RMB1,351,329,000) and the effective tax rate was 25.1% (2022: 25.0%). Currently, the Group’s income
+tax expense is almost in line with the standard level.
+
+Overall Profitability Indicators
+
+The Group’s revenue growth for the year had slowed down and the gross profit margin remained flat as compared
+with the previous year. In order to promote consumption, the Group devoted more resources in this regard
+accordingly, resulting in an increase in expenses; also other gains decreased in the meanwhile. During the year,
+the Group’s profit attributable to equity holders amounted to RMB3,186,910,000 (2022: RMB4,063,834,000),
+representing a year-on-year decrease of 21.6%, while excluding the one-off gains not related to operation, the
+profit attributable to equity holders was RMB3,046,453,000, representing a year-on-year decrease of 25.0%.
+The margin of profit attributable to equity holders was 11.5% (2022: 15.7%), while excluding the one-off gains
+not related to operation, the margin of profit attributable to equity holders was 11.0%. The return on equity
+attributable to equity holders was 13.1% (2022: 17.9%), while excluding the one-off gains not related to operation,
+the return on equity attributable to equity holders was 12.5%.
+
+
+
+
+                                                               – 21 –
+Provision for Inventories
+
+The Group’s policy in respect of provision for inventories for 2023 was the same as that in 2022. Inventories
+of the Group are stated at the cost or net realisable value, whichever is lower. In the event that net realisable
+value falls below cost, the difference is taken as provision for inventories. The Group considers that this policy
+can ensure appropriate provision for inventories made by the Group.
+
+As at 31 December 2023, the accumulated provision for inventories was RMB134,727,000 (31 December 2022:
+RMB120,531,000). During the year, the original value of inventory increased from the beginning of the year,
+which led to the year-on-year growth of provision for inventories. Currently, the overall inventory ageing structure
+is reasonable, and the Group will continue to monitor the inventory status to maintain it at a healthy level.
+
+Expected Credit Loss Allowance
+
+The Group’s policy in respect of provision of doubtful debts for 2023 was the same as that in 2022. The
+expected credit loss allowance was recorded at an amount equal to the lifetime expected credit losses of the
+trade receivables that do not contain a significant financing component, and 12 months expected credit losses or
+lifetime expected credit losses of other receivables, depending on whether there has been a significant increase
+in credit risk since initial recognition.
+
+As at 31 December 2023, the accumulated expected credit loss allowance was RMB45,738,000 (31 December
+2022: RMB159,200,000), among which the accumulated expected credit loss allowance for trade receivables was
+RMB38,215,000 (31 December 2022: RMB152,511,000) and the accumulated expected credit loss allowance
+for other receivables was RMB7,523,000 (31 December 2022: RMB6,689,000). The trade receivables and other
+receivables written off during the year as uncollectible and the effect of change in exchange rate amounted to
+RMB93,824,000 (2022: RMB32,669,000). During the year, certain long-aged and uncollectible doubtful debts
+were written off, and the expected credit loss allowance decreased significantly as compared to the beginning
+of the year. The Group will continue to focus on the continuous optimization of the ageing structure to maintain
+a sound receivable turnover ratio.
+
+Liquidity and Financial Resource
+
+The Group’s net cash generated from operating activities for the year ended 31 December 2023 amounted to
+RMB4,687,936,000 (2022: RMB3,913,604,000). As at 31 December 2023, cash and cash equivalents (including
+cash at banks and in hand, and fixed term deposits with original maturity of no more than three months) amounted
+to RMB5,443,883,000, representing a net decrease of RMB1,938,335,000 as compared with the position as at 31
+December 2022. Adding back the amount recorded as fixed-term deposits held at banks, cash balance amounted
+to RMB17,974,712,000, representing a net decrease of RMB1,074,126,000 as compared to 31 December 2022.
+The decrease was due to the following items:
+
+                                                                                                      Year ended
+                                                                                                     31 December
+                                                                                                            2023
+Item                                                                                                     RMB’000
+
+Operating activities:
+Net cash generated from operating activities                                                             4,687,936
+Investing activities:
+Net cash used in investing activities (including placement and redemption of short-term
+  and long-term bank deposits)                                                                          (2,449,105)
+Financing activities:
+Net cash used in financing activities                                                                   (4,216,951)
+Add: Exchange gains on cash and cash equivalents                                                            39,785
+
+Net decrease in cash and cash equivalents                                                               (1,938,335)
+Add: Net increase in short-term and long-term bank deposits                                                864,209
+
+Net decrease in cash balance                                                                            (1,074,126)
+
+                                                       – 22 –
+Net cash from operating activities increased during the year; in addition, the Group’s net cash used in financing
+activities increased significantly as a result of dividend payments and share repurchases. Under the comprehensive
+influence, cash balance decreased. The Company will continue to place extra emphasis on its cash flow
+management to ensure stable development of the Company in the long run.
+
+On 27 October 2021, the Company, a wholly owned subsidiary of Viva China Holdings Limited (subsequently
+renamed as Viva Goods Company Limited) and the placing agents entered into the placing and subscription
+agreement, pursuant to which the parties jointly proceeded with the top-up placing of existing shares of the
+Company and the subscription of new shares of the Company under the general mandate, and agreed to the
+top-up placing and subscription of 120,000,000 shares of the Company at HK$87.50 per share. On 3 November
+2021, both parties completed the top-up placing and the subscription. The net proceeds from the top-up placing
+of shares amounted to HK$10,433,042,000 (equivalent to approximately RMB8,571,787,000). Please refer to
+the announcements of the Company dated 28 October 2021 and 3 November 2021 respectively for details.
+
+For the year ended 31 December 2023, RMB2,828,015,000 of the net proceeds from the top-up placing had
+been used. As at 31 December 2023, RMB3,595,564,000 were unutilised. The unutilised net proceeds from the
+top-up placing of shares are intended to be used as follows:
+
+                                                                           Unutilised net Amount used during       Unutilised net   Expected timeframe for
+                                                  Percentage of total   proceeds as at 31     the year ended    proceeds as at 31   utilising the unutilised net
+Intended use of net proceeds                            net proceeds      December 2022 31 December 2023          December 2023     proceeds*
+                                                                           (approximately      (approximately      (approximately
+                                                     (approximately)           RMB’000)            RMB’000)            RMB’000)
+Investment in newly launched product categories
+   as well as future business investments when
+   opportunity arises, including international
+   business expansion                                           40%            2,630,853            1,208,914          1,421,939    Before 31 December 2026
+Investment in reengineered infrastructure and
+   further improvement of the supply chain
+   system                                                       30%            2,137,381              640,158          1,497,223    Before 31 December 2026
+Development of the brand and IT system                          20%              994,411              586,611            407,800    Before 31 December 2024
+General working capital                                         10%              660,934              392,332            268,602    Before 31 December 2024
+
+Total                                                          100%            6,423,579            2,828,015          3,595,564    Before 31 December 2026
+
+*        The net proceeds have been applied in the manner consistent with the use of proceeds as disclosed in the announcement of the
+         Company dated 3 November 2021. The expected timeframe for utilising the unutilised net proceeds is subject to change based
+         on the current and future development of market conditions and market opportunities made available to the Group.
+
+As at 31 December 2023, the Group’s banking facilities amounted to RMB6,223,950,000, without outstanding
+borrowings.
+
+During the year, the Group did not hedge its exposure to interest rate risks via interest-rate swaps.
+
+
+
+
+                                                                            – 23 –
+Foreign Exchange Risk
+
+The Group’s operations are mainly carried out in the PRC, with most transactions settled in Renminbi. The
+reporting currency of the Group is Renminbi. The Group’s subsidiaries in South Korea, Hong Kong and Macau
+use South Korean Won, Hong Kong Dollars and Macau Pataca, respectively, as their functional currencies.
+The Group has a partial amount of cash and bank deposits denominated in Hong Kong Dollars, United States
+Dollars, Euros, South Korean Won, Pound Sterling and Macau Pataca. The Company pays dividends in Hong
+Kong Dollars, certain license fees, sponsorship fees and consultation fees in United States Dollars or Euros,
+and certain investments in Hong Kong Dollars, United States Dollars or Pound Sterling.
+
+The Group did not hedge its foreign exchange exposure during the year. Any significant exchange rate fluctuations
+of foreign currencies against Renminbi may have had financial impact on the Group.
+
+Significant Investments
+
+As at 31 December 2023, the Group did not hold any significant investments.
+
+Material Acquisitions and Disposals of Subsidiaries, Associates and Joint Ventures
+
+In order to satisfy the needs of the Group’s commercialization layout, expand its international business by
+establishing a footing in Hong Kong and explore global business opportunities, a subsidiary of the Group (the
+“Purchaser”) and a subsidiary of Henderson Land Development Company Limited (the “Vendor”) entered
+into a sale and purchase agreement (the “SPA”) on 10 December 2023. To the best knowledge, information
+and belief of the Directors having made all reasonable enquiries, the Vendor and its ultimate beneficial owner
+were independent third parties of the Company and its connected person(s). Pursuant to the SPA, the Purchaser
+conditionally agreed to (1) acquire the entire share capital of Vansittart Investment Limited (the “Target
+Company”, a company incorporated in Hong Kong with limited liability) and (2) take up the assignment of the
+loan amount owing by the Target Company to one of its related parties as at the date of completion of the above
+acquisition (the “Acquisition”). The aggregate consideration for the Acquisition is HK$2,208 million (equivalent
+to approximately RMB2,013 million) (which is subject to adjustment as agreed under the SPA). The Target
+Company is principally engaged in property investment and is the sole legal and beneficial owner of a property
+comprising 22 storeys of commercial/office space and two storeys of retail areas in Hong Kong, which is the
+principal asset of the Target Company. For details, please refer to the announcement of the Company dated 10
+December 2023.
+
+As of 31 December 2023, the total expenditure for the Acquisition did not exceed the percentage of 5% of the
+total assets of the Group.
+
+The completion of the Acquisition took place on 28 January 2024. Upon completion, the Target Company has
+become an indirect wholly-owned subsidiary of the Company and the financial results of which are consolidated
+into the financial statements of the Group. Up to the date of this announcement, the consideration for the
+Acquisition has been fully paid. The Acquisition was funded by the Group’s net proceeds from the top-up
+placing of shares and internal resources.
+
+
+
+
+                                                     – 24 –
+Future Plans for Significant Investments and Capital Assets
+
+In order to establish a high-end intelligent manufacturing and flexible supply chain base and a high-level research
+and development (R&D) and experience center to meet the Group’s future development needs, a subsidiary
+of the Group (“the Subsidiary”) entered into an investment agreement and an updated investment agreement
+(collectively the “Investment Agreements”) with a local governmental authority in Guangxi Zhuang Autonomous
+Region of the PRC on 8 November 2019 and 23 May 2023 respectively, pursuant to which the Subsidiary had
+agreed to acquire the land use right over a piece of industrial land through the listing-for-sale bidding process,
+and construct a supply chain base over the land for the production and packaging of high-end sports equipment
+(including but not limited to sports shoes, sports apparels and sports equipment) to expand its production capacity
+and output of differentiated sports products, as well as focusing on putting resources into R&D and experience
+to enhance the Group’s technological R&D capability and to provide consumers with better product experience,
+sports experience and consumption experience. The maximum investment amount pursuant to the Investment
+Agreements was estimated to be approximately RMB3.3 billion, which refers to the total cost of completing the
+project and putting it into operation, including the cost of acquiring the land use right, the expenditure involved
+in the construction of the supply chain base, investment in purchasing machinery and equipment, and working
+capital. For details, please refer to the announcements of the Company dated 8 November 2019 and 23 May
+2023, respectively.
+
+As of 31 December 2023, the Subsidiary had successfully acquired the land use right over the relevant land
+and had been making investments on the construction of the supply chain base. The total expenditure above
+did not exceed 5% of the total assets of the Group as at 31 December 2023. The remaining investment amount
+will be funded by the Group’s unutilised net proceeds from the top-up placing of shares and internal resources.
+
+Pledge of Assets
+
+As at 31 December 2023 and 31 December 2022, the Group had no pledged assets.
+
+Contingent Liabilities
+
+As at 31 December 2023, the Group had no significant contingent liabilities.
+
+
+
+
+                                                      – 25 –
+BUSINESS REVIEW
+
+In 2023, China’s macroeconomy staged a moderate recovery. While residents’ employment and income benefited
+from the positive impacts of the rebounding macroeconomy, the residents’ consumption power and confidence
+were yet to be fully unleashed. As such, the sports consumer goods market in China continued to face challenges.
+
+During the year, the Group continued to focus on the core strategy of “Single Brand, Multi-categories, Diversified
+Channels” with a focus on professional sports in the five core categories, namely basketball, running, fitness,
+badminton and sports casual. Through its efforts dedicated to brand reputation and product innovation, the Group
+has developed a comprehensive layout of functional products.
+
+In terms of product research and development, the Group focused on building the competitive advantages of
+products from its core categories. Capitalizing on its continuous investment in research and development to
+promote product innovation, the Group strived to garner recognition among young consumers with its highly
+professional and fashionable quality sports products. For marketing strategy, the Group has been committed to
+investments in professional resources, while placing emphasis on upgrading its brand image with transformation
+geared to attracting more young consumers. By means of product crossovers and collaboration with the
+entertainment sector, the Group appealed to young consumers and strengthened its professional and youthful
+brand image.
+
+In respect of operation, the Group optimized the channel structure and facilitated the upgrade of channel image
+and enhancement of channel efficiency, aiming to help successfully completing the transformation towards the
+new retail model. Meanwhile, the Group continued to improve the structure of the supply chain and the logistics
+system, and adopted proactive inventory management based on consumers’ demand. In addition, in response to
+the development trend of companies worldwide, the Group also promoted the production of environmentally-
+friendly products in an effort to realise sustainable corporate development along the supply chain.
+
+In terms of capital market, the Group became one of the first securities that can be traded in the dual counters
+model during the year, offering both HKD (Stock Code: 2331) and RMB (Stock Code: 82331) counter services,
+hence providing more investment flexibility and stock liquidity for the shareholders and potential investors.
+
+Latest operational update for the fourth quarter of 2023
+
+For the fourth quarter ended 31 December 2023, the retail sell-through of LI-NING point of sale (“POS”)
+(excluding LI-NING YOUNG) for the overall platform increased by low-twenties on a year-on-year basis. In
+terms of channels, offline channel (including retail and wholesale) recorded a high-twenties increase, with retail
+(direct operation) channel increased by low-fifties and wholesale (franchised distributors) channel increased by
+high-teens, while the e-commerce virtual stores business recorded a mid-single-digit increase.
+
+As at 31 December 2023, the total number of LI-NING POS (excluding LI-NING YOUNG) in China amounted
+to 6,240, representing a net decrease of 54 POS since the end of the previous quarter and a net decrease of 55
+POS since the beginning of this year. Among the net decrease of 55 POS, retail accounts for a net increase of
+68 POS, and wholesale accounts for a net decrease of 123 POS.
+
+
+
+
+                                                      – 26 –
+As at 31 December 2023, the total number of LI-NING YOUNG POS in China amounted to 1,428, representing
+a net increase of 58 POS since the end of the previous quarter and a net increase of 120 POS since the beginning
+of this year.
+
+For the fourth quarter ended 31 December 2023, in respect of LI-NING POS (excluding LI-NING YOUNG)
+which have been in operation since the beginning of the same quarter of last year, the same-store-sales for the
+overall platform recorded a low-teens increase on a year-on-year basis. In terms of channels, retail recorded a
+high-thirties increase and wholesale recorded a mid-single-digit increase, while the e-commerce virtual stores
+business recorded a mid-single-digit increase on a year-on-year basis.
+
+Focus on the Strategy of “Single Brand, Multi-categories, Diversified Channels” to Optimize LI-NING’s
+Experience Value Continuously
+
+Continue to expand the professional product matrix and build a technology-driven image for the brand
+
+In 2023, with a focus on the core categories of running, basketball, badminton, fitness and sports causal, the Group
+pressed ahead with innovation in sports technology and integrated Chinese fashion culture into its professional
+products to enhance its products’ trendiness. The Group also constantly improved product performance and
+enhanced the image of the LI-NING brand by means of technological innovation, so as to satisfy the growing
+consumer demand for sports products. In 2023, the five core categories recorded positive growth in retail sell-
+through across all channels with a total increase of 12%, including a 40% increase in running and a 25% increase
+in fitness, while basketball remained flat year-on-year.
+
+Running
+
+With high emphasis placed on the “one-million shoes” project, the running category created a well-established
+professional product matrix featuring the “Super Light” (        ), “Rouge Rabbit” (      ) and “Feidian” (     )
+series with “LI-NING BOOM” (          䨻), a high-performance midsole technology, as its core. The matrix covered
+different sports consumer groups and was able to meet varying demands from advanced to light sports. The
+accumulative annual sales volume of the three product series exceeded 9 million pairs, representing a year-on-
+year growth of 62%. Among them, the cumulative sales volume of “Feidian 3 Challenger” (            3 Challenger)
+exceeded 1.3 million pairs during the year, which became a phenomenal IP among the carbon plate running shoes.
+At the same time, the Group officially tapped into the professional cross-country running sector and launched
+cross-country products for professional runners in this regard. It created a new IP named “Dilu Series” (
+     ) and continued to devote great efforts in the professional field. The brand new “Shadow 2” (2             )
+and “Yueying 3” (3         ) products targeting beginning runners, and running shoes with anti-shock protection
+function under the “Furious Rider Series” (            ) were launched by the Group in an effort to enhance the
+core professional proposition on a continuous basis, and offer more fashion option for running shoes on different
+occasions, thereby creating new business growth points.
+
+Taking a scenario-focused approach for running apparels, the Group optimized the function matrix of the
+“COOLSHELL Cooling Technology” (COOLSHELL                              ) series, “DYNAMIC SHELL Protection
+Technology” (DYNAMIC SHELL                     ) series and the “AIRSHELL Air Movement Technology” (AIRSHELL
+          ) series to satisfy the needs of runners by adopting different materials, blocks and functional technology
+based on their needs in two different scenarios, i.e. marathon race and daily running. As such, we have built up
+the professional reputation of LI-NING’s running apparels by improving product experience.
+
+
+
+
+                                                       – 27 –
+Basketball
+
+Despite keen competition in the industry, we continued to develop our basketball products by leveraging
+technology platforms to upgrade the professional features of products while integrating brand resources with our
+products to create storyline-based professional basketball products. During the year, the China tour of celebrity
+basketball players has provided a boost to the professional basketball business. The top-notch signature shoe
+“Jimmy Butler 2” was iteratively upgraded. The newly launched “Sonic 11” (           11) was fully optimized in
+terms of product performance with an upgraded midsole configuration from “LI-NING BOOM” (               䨻) with
+half-foot support to “LI-NING BOOM” (         䨻) with full-foot support, which can better cater to the needs for
+mobility during basketball games. In addition, color options such as “Ocean Blue” (       ) and “Galaxy” (      )
+were well-received by the market. The “All City 11” (      11) was launched with a themed story pack revolving
+around the classic “Dawn” color of the WADE series. This product also integrated the “LI-NING BOOM” (
+   䨻) technology with full-foot support and lightweight and high resilience features with TPU materials, which
+were complimented with the use of strong mesh fabric on the shoe face to further boost its game performance.
+
+Against the backdrop of intense competition for technology in the basketball industry, LI-NING basketball
+launched the new GCU ground control system technology platform, and new products under the “Speed” (
+     ), “Sonic ULTRA” (       ULTRA), “Yushuai ULTRA” (            ULTRA) and other series were released. In
+particular, “Yushuai ULTRA” (       ULTRA) achieved significant progress in enhancing the sports performance
+of basketball players. The product was not only able to offer a remarkably stronger bouncing force, but also
+accelerated the average speed of consecutive instant vertical jump by 12% and increased the average height of
+running vertical jump by 4.1%. Furthermore, the launch of Carbon Core Technology Platform by the Group
+aimed to lay a solid foundation for the sustainable development of LI-NING basketball through the integrated
+moulding technique and continuous innovation of technology.
+
+Characterized by its Western-inspired style, the WADE series remained committed to its trendy and avant-garde
+designs with a view to further reinforcing the positioning of “Professional Technology, High Street Basketball,
+Delicate Fashion” of products under the series and to creating the international brand image featuring youth
+and basketball culture. Through the collaboration with artists and continuous exposure with NBA and CBA
+sports stars, arts and sports stars culture were integrated into our product story to demonstrate the integration
+of technology, craftsmanship and arts, thereby bringing the experience of basketball technology and culture
+shock in the post-Wade era to our consumers. During the year, the product line of “WADE Basketball” focused
+its efforts on the promotion of “Way of Wade” (                 ) series and “All City” (      ) series. As such, we
+achieved a high sell-out rate of 88% for the “Way of Wade” (                  ) series and a sales volume of over 1
+million pairs for the “All City” (      ) series, both are testaments to the reputation of the product series for its
+on-court performance.
+
+On the basis of its street basketball features, the “BADFIVE” series continued to optimize the professional
+functions of its products and created overall matching outfit combinations with shoes and apparel for different
+occasions during basketball games based on the themed story packs, which attained high popularity among young
+consumers. During the year, the “BADFIVE” series successfully completed the upgrade of its street basketball
+features and professional attributes of its products, which has reinforced its differentiated brand positioning in
+the market. In 2023, “BADFIVE” collaborated with Mister Cartoon, a graffiti artist, to explore city culture and
+the ethos of basketball and launched product series such as the PASSION, FAMILY, LOYALTY and GLORY
+with a goal to build up the community spirit. During the same year, we launched the project of “Synergy of
+Seven Cities” (           ) under the city series. The project integrated regional culture with street aesthetics
+to provide consumers products with both street style and traditional Chinese cultural elements. The release of
+the BRONSON TEAM series showcased the collision between the Los Angeles Street Basketball Team of the
+United States and the Chinese street basketball culture, which jointly conveyed the basketball philosophy of
+“LIVE WITH HOOPS” that foster a deep resonance with the young street basketball communities.
+
+
+
+
+                                                       – 28 –
+Badminton
+
+We further improved the product matrix of the LI-NING’s badminton product lines during the year. In particular,
+two new badminton rackets, namely “Thunderstorm 100” (            100) and “Halberd 9000” (       9000), were
+launched. The addition of these new products not only enriched the “Thunderstorm” (         ), “Shadow” (
+   ) and “Halberd” (     ) series, but also significantly increased the market competitiveness of LI-NING’s
+badminton rackets. Among which, having made a breakthrough in shaft technology, “Thunderstorm 100” (
+100) outperformed other mainstream products at the time and broke the current industry record of the slimmest
+shaft at 6.0 mm, which further demonstrated the technological capability and reserve of LI-NING’s rackets.
+
+Moreover, given its high quality and innovative designs, the badminton jersey series of LI-NING is always
+popular among the national team, international top-notch sports stars and consumers. This year, the Group
+launched its first badminton jersey adopting environmental technology, and carried out comprehensive promotion
+campaigns with strenuous marketing efforts in different tournaments, online and offline channels as well as
+collaboration with KOLs.
+
+We also achieved significant progress in respect of LI-NING’s badminton shoes products. While the “Blade
+PRO” (       PRO) series made extensive use of the low extension microfiber for the uppers to improve the
+professional performance of the badminton shoes, the “Thunderstorm PRO” (           PRO) high-end series adopted
+the “KPU Injection” (KPU           ) materials extensively, which optimized the balance between stability and
+breathability to satisfy the needs of different customer groups. The “Mirage PRO” (       PRO) series, being the
+lightest badminton shoes of LI-NING to date, adopted transparent ETPU yarns and fabrics featuring “BOOM
+FIBER” (䨻 ) technology to perfectly integrate breathability with better wrapping and support. The “HERO
+2” (          2) series enabled LI-NING to promote the features of its badminton shoes products to professional
+consumers. The distinctive design and color options that set it apart from conventional products in the industry
+allowed LI-NING to offer more personalized options to its consumers. During the year, the four major series
+of professional badminton shoes debuted successfully, under which we provided four color options based on
+the theme of “Wind, Forest, Fire and Mountain” (              ). The four thematic elements corresponded to four
+different categories of product function, namely rapid start, comprehensive balance, innovation of research and
+development, and stability and protection, respectively. The series has, on the one hand, enhanced consumers’
+recognition of professional niche sectors, and on the other hand, further highlighted the unique brand attributes
+of LI-NING’s badminton shoes products in the market.
+
+Fitness
+
+Functions and technologies have always been the core of the fitness category with improving the sports
+performance and maintaining the best physical condition of sports enthusiasts as the purpose of its products.
+During the year, the Group continued to upgrade the “AIRSHELL Air Movement Technology” (AIRSHELL
+          ) and “DYNAMIC SHELL Protective Technology” (DYNAMIC SHELL                         ) in a bid to fulfill
+the clothing needs of different customer groups on different occasions by leveraging the core products of sports
+outfits with various functions.
+
+Building on the comprehensive upgrades of new technologies and fabrics on the LI-NING AT technology
+platform, we launched the new “COOL SHELL Cooling Technology” (COOL SHELL                       ), which adopted
+LI-NING’s exclusive 3D cross yarns technique that improved the quick-dry performance tremendously and
+reached the industry-leading level with significantly better functions than the national standards.
+
+In order to better cater to the women fitness market, the Group conducted in-depth research on fitness products
+designed specifically for women, and at the same time, enhanced the proportion of these products as the sports
+outfit in various scenarios, thereby developing a professional, multi-scenario and stylish women’s fitness product
+matrix. In response to the seasonal demands for materials, the Group launched the women yoga apparel IP,
+“SoftTouch” (        ) series, with a view to increasing the proportion of women fitness business.
+
+
+
+
+                                                      – 29 –
+Sports casual
+
+For the sports casual brand, we continued to explore the deep connection between the Chinese culture and
+sports leveraging our profound understanding of the daily needs of consumers. We provided consumers with
+distinctive and fashionable sports products by creating IP stories and original designs with the brand DNA and
+cultural connotation.
+
+In terms of Chinese style, the “Rich Everyday” (                 ) series and “Chinese Colors” (             ) series
+represented the modern interpretation of traditional culture that integrated both traditional elements and modern
+designs, which has not only created a sense of novelty for consumers visually, but also innovated in terms of
+the significance of products and the convenience of outfit. The “Rich Everyday” (                 ) series creatively
+combined the Chinese zodiac signs with auspicious elements from the traditional Chinese culture during the
+Chinese New Year to convey the best wishes for good fortune and create brand-new outfit ideas. Taking the
+colors in traditional culture and art as inspiration, the “Chinese Colors” (         ) series showcased the beauty
+of colors in Asian culture, and injected vitality and comfort into daily looks to create a fashion vibe for multiple
+indoor and outdoor settings, which has become a new driving force for business growth of the Group.
+
+Focusing on the daily walking and commuting scenarios of the general public and capitalizing on the industry-
+leading research and development capabilities of the brand and its supply chain system, we launched the “SOFT”
+series featuring comfortability, softness and elasticity for sports casual footwear, which brought the best soft,
+elastic and comfortable experience with the application of “COMFOAM” technology for its self-developed
+and improved EVA midsole. In particular, leveraging its comfortable experience, stylish design and extremely
+cost-effective price advantage, the annual sales volume of the star product “SOFT GO” exceeded 150 million
+pairs, which has become the core growth momentum of the sports casual category in the next two to three years.
+An exclusive series targeting female consumers of all ages with unique features of heightened, lightweight
+and elegant design was launched to serve female consumers more accurately, which will create huge business
+potential in the future.
+
+“China LI-NING” has launched various crossover products and created distinctive product series in collaboration
+with celebrities, artists or other brands. Inspired by the metaverse and digital trend, the newly launched footwear
+“Titan FLOW” (          FLOW) under the “Titan” (          ) series represented an innovative exploration in design
+of “China LI-NING”. Meanwhile, keeping abreast of millennial fashion trends, we launched trendy footwear
+IPs, such as “Yunyou SLAY” (            SLAY) and “Furious Rider BOW” (             BOW), which perfectly blended
+the brand DNA and modern aesthetics. In addition, the brand has joined hands with Los Angeles streetwear
+brand “PLEASURES” and launched a skateboarding series themed “PRO PLEASURES” (                         ). This series
+not only thoroughly explored the spirit and essence of street fashion, but also broke through the limitations of
+traditional styling, injecting new source of growth to the street culture product line of “China LI-NING”.
+
+During the year, “LI-NING 1990” launched a brand-new golf product line, marking a significant milestone in
+building a mindset of high-end and fashionable sports. Based on the strong professional attributes of sports
+products, the golf product line incorporated the brand’s unique fashion style to further optimize the existing
+product matrix. On the premise of catering to the needs of business occasions, sports styles and functions
+were integrated into the commuting series to satisfy the clothing needs on various occasions such as working,
+commuting and travelling, hence creating an elegant sportsmanship and a relaxed and comfortable dressing style
+for multiple scenarios with simple design, functional fabrics and fine tailoring.
+
+
+
+
+                                                       – 30 –
+Develop professional functional products to meet diversified needs and accomplish comprehensive upgrade
+of product lines
+
+The Group has long been committed to investing in research, development and innovation with strong focus
+placed on the iteration and upgrade of footwear technology. Having made a breakthrough of the conventional
+midsole design, LI-NING’s Carbon Core Drive System introduced the innovative “Full Boom” (                 䨻)
+technology and integrated moulding technique with a balanced plate. This improvement not only enhanced the
+efficiency of shock absorption and rebound, but also increased the propulsion force during sports activities,
+which significantly boosted the players’ game performance. In addition, the abrasion resistance of the Group’s
+upgraded GCU Ground Control System with full-foot support was effectively improved by 70%, and its slip
+resistance in dry and humid environments also improved by 8% and 30%, respectively, which allowed athletes
+to use theirs speed stop and go moves more easily during basketball games.
+
+At the same time, the optimization of the “SAS Synchronised System” (SAS                    ) and “Independent
+Future EVA System” (            EVA       ) has also been completed and applied to the basketball shoes product
+lines more extensively. The systems effectively enhanced the dynamic fit of the shoes during sports activities,
+which has strengthened the products’ ability to cope with changing rhythms, and protect the arch of the foot by
+providing stable support, hence further enhancing the professional protection for athletes.
+
+In addition, the Group has successfully launched the “Comfoam Plus” and “Comfoam Lite” formulas which
+are more elastic and lightweight, respectively and significantly reduces the overall weight of the shoes and
+improves the wearing comfortability. Meanwhile, the Group has developed professional products with moisture-
+absorbing and quick-dry capability, including the industry-leading yarn-knitted fabric with quick-dry capability.
+It was first applied to tops for running and training purposes, and has then been expanded to the full range of
+products, including sports tops, sports pants and sports towels, thereby forming an application matrix of the
+yarn technology platform.
+
+Comprehensive layout for universal marketing to enhance communication with young consumers
+
+During the year, the Group strengthened the universal marketing layout by focusing on the characteristics of
+the professional functions and sports casual category. Through the continuous cooperation with sports stars and
+professional events, the Group has reinforced the image of LI-NING’s professional products among consumers and
+further scaled up its consumer groups. Moreover, LI-NING further diversified the marketing with entertainment
+modes for the sports causal category and constantly created opportunities for experiencing its products and brought
+up various promotional topics. A platform was also established for direct communication with consumers. Such
+measures have helped increase the influence of LI-NING brand and consolidate consumers’ loyalty to the brand,
+and thus realized omni-channel and multi-dimensional exposure of its products.
+
+In respect of the basketball sector, the brand launched marketing campaigns for the new game season based
+on core athlete assets and key basketball events resources. During the summer time, the Group organized its
+first post-pandemic tour in China featuring two contracted NBA stars, Jimmy Butler and Dwyane Wade, which
+fostered in-depth engagement with consumers through interactions at retail outlets, thereby realizing efficient
+consumer conversion. As the new CBA season began, the brand focused its efforts on promoting the CBA shoes
+and home jerseys to propel the development of LI-NING basketball’s urban community culture. In addition, the
+Li Ning Company sponsored the Junior CBA National Challenge Competition, with a view to providing more
+platforms and support for teenagers in China to pursue their basketball dreams, facilitating the development of
+sports in school as well as youth basketball in China and contributing to discovering and cultivating Chinese
+basketball talents.
+
+
+
+
+                                                      – 31 –
+For the running sector, the Group systematically focused on its professional running shoes series in terms of
+product, promotion and retail, and highlighted its capability to comprehensively satisfy diversified needs of
+runners through omni-channel marketing. Thanks to its collaboration with Tmall and other essential platforms for
+traffic conversion, the endorsements by sports stars and word-of-mouth marketing through marathon races, the
+Group strengthened the recognition of the products under its professional running shoes series. It capitalized on
+the marathon races to demonstrate the professional features of its products and maximized the close connection
+with the runner community. In particular, the Group launched a new cross-country running shoes series with
+distinguished features of “Anti-Slip Champion” (              ), and successfully garnered interests and positive
+responses for LI-NING’s new cross-country product line through media campaigns such as the “LI-NING Dilu
+Adventure Race” (                        ). For running apparel, the Group put in place marketing initiatives
+that precisely addressed the current concerns of consumers regarding outdoor sports, and rolled out product
+concepts of “Ultra-light UV Defense” (           ) and “Ultra-strong UV Defense” (            ) in response to the
+hot topics related to sun protection. These efforts were dedicated to further upgrading the product experience
+of consumers and accumulating the professional reputation of LI-NING’s running products.
+
+As to badminton products, professional functions remained the focus of LI-NING badminton’s marketing, while
+“We match better with you” (                 ) continued to be the promotional theme of its online and offline
+promotion campaigns. The Group consolidated its sponsorship resources and integrated various activities,
+including new product launch as well as amateur IP events, while carrying out promotions on different media
+platform to enhance its brand reputation and develop various hot-selling products in support of the realization
+of the marketing goals. For its online marketing layout, the Group placed emphasis on the application of social
+media channels during the year, including organizing the “LI-NING · Chen Long Badminton Singles Open” (
+                            ) which sparked off the topic of “No singles, No badminton” (                 ). With
+omni-channel and multi-media promotions, this topic successfully garnered over 10.41 million and 13.40 million
+views on Weibo and Douyin (          ), respectively. Besides, LI-NING badminton was committed to offering a
+diversified platform for product experience, sports experience and competition services. For instance, the Group
+set up interactive badminton games at the competition venues, rendered LI-NING badminton sports equipment
+experience and arranged professional racket stringers to provide services. These measures helped to attract the
+participation of badminton enthusiasts, foster seamless connection between online and offline operation, and
+fully convey the sportsmanship of LI-NING badminton.
+
+For women fitness, the LI-NING brand upheld the all-new brand philosophy of “Dare to be Me” (
+   ) for women through close communication with consumers. On the back of the active promotion with our
+contracted artist and contracted athlete of the brand, LI-NING exhibited its support for women power to general
+consumers, which helped to rapidly build up its “confident, self-caring, beautiful and powerful” (
+          ) image for women fitness and develop a professional and fashionable Chinese women fitness brand
+in the same league as the world’s leading brands. The brand did not merely focus on disseminating content via
+short video platform, but also took the initiative to explore the development of offline communities. Currently,
+LI-NING established the “Possible” (         ) Women Space Community in 8 cities across China. Leveraging its
+long-standing cooperation with KOLs, professional trainers, major gym centers in urban areas and community
+organization, LI-NING made consistent efforts to build an offline community matrix for women fitness with a
+focus on yoga and dancing. Furthermore, the brand also collaborated with professional and vertically-related
+online fitness platform, through which it jointly created professional fitness programmes and challenges to not
+only provide fitness enthusiasts the opportunities to “check-in” their sports activities and experience our products
+online, but also form an online-offline interactive experience model.
+
+
+
+
+                                                       – 32 –
+For sports casual, LI-NING endeavored to pass on the “innovative ideas” and “sincerity” of its brand and
+developed the “Rich Everyday” (              ) series as the signature story pack for Chinese New Year. Based on
+the core spirit of “Conjure New Interpretations, Grow Rich Everyday” (                          ), LI-NING extended
+the concept with profound implications and inspired new insights on time and value. The brand endowed the
+concept of “Rich Everyday” (              ) with a new interpretation that went beyond wealth accumulation. It
+casted a spotlight on the experiences, support, companionship, friendship, sense of achievement, self-recognition
+and other new values in life that can be gained through perseverance in daily life. During the year, promotional
+campaigns led by Xiao Zhan (         ), Elaine Zhong (           ) and VaVa (         ), the brand’s spokespersons,
+portrayed such themes, and hence marketing contents focusing on the “Rich Everyday” themed products received
+710 million views across all platforms with remarkable growth in terms of both topic discussions and authentic
+output by users as compared with last year.
+
+For marketing campaigns with entertainment, the Group continued to work with Xiao Zhan (            ), the global
+spokesperson of LI-NING brand’s fashionable sports products, to light passion with sports and release the
+energy of fashion. During the year, the Group expanded its entertainment marketing line-up again, and engaged
+TNT (Teens In Times) (                ) to be the global spokesperson of LI-NING’s youth sports products. With
+their lively teenager image, TNT demonstrated versatile mix-and-match style and conveyed a young, positive,
+optimistic and healthy sports and fashion attitude. Under the theme of “TNT brings you the unlimited possibilities
+of youth” (                               ) jointly proposed by the brand and TNT, this collaboration connected
+with Z-generation consumers that have a passion for sports and fashions, to feel the charm of sports and create
+unlimited possibilities for youth together.
+
+Focus on expansion and optimization of channels to promote their efficiency and upgrade of image
+continuously
+
+In 2023, the Group was committed to optimizing its channel structure and enhancing the channel efficiency by
+proactively closing low-efficiency stores, thereby improving the overall store structure. The Group continued
+to expand its business presence in premium shopping malls and outlets. During the year, the Group achieved
+a key breakthrough in premium outlets. It carefully planned the opening of stores throughout China to further
+rationalize the store layout and established communication and negotiation mechanisms with major commercial
+groups to optimize channel costs.
+
+During the year, the Company continued to upgrade the visual image of its stores and successfully launched the
+latest 9th generation store image to provide a better product experience, shopping experience and sports experience
+for all consumers. As of 31 December 2023, the number of conventional stores, flagship stores, China LI-NING
+stores, LI-NING 1990 stores, factory outlets and multi-brand stores under LI-NING brand (including LI-NING
+Core Brand and LI-NING YOUNG) amounted to 7,668, representing an increase of 65 POS as compared to
+31 December 2022. The number of distributors was 46 (including sales channels of China LI-NING stores),
+representing a net decrease of 6 as compared to 31 December 2022. The number of POS breakdown as of 31
+December 2023 is as follows:
+
+                                                               31 December        31 December
+LI-NING Brand                                                         2023               2022             Change
+
+Franchised                                                            4,742               4,865             (2.5%)
+Directly-operated retail                                              1,498               1,430              4.8%
+LI-NING YOUNG                                                         1,428               1,308              9.2%
+
+Total                                                                 7,668               7,603              0.9%
+
+
+
+
+                                                      – 33 –
+Number of LI-NING Brand POS by geographical location
+
+                                          31 December 2023                              31 December 2022
+                                   LI-NING     LI-NING                           LI-NING     LI-NING
+Regions                          Core Brand    YOUNG                  Total    Core Brand    YOUNG                  Total       Change
+
+Northern Region (Note 1)                3,163            845           4,008          3,184            786          3,970          1.0%
+Southern Region (Note 2)                3,077            583           3,660          3,111            522          3,633          0.7%
+
+Total                                   6,240          1,428           7,668          6,295          1,308          7,603          0.9%
+
+Notes:
+
+1.       The Northern region includes provinces, municipalities and autonomous regions covering Beijing, Tianjin, Hebei, Shanxi, Inner
+         Mongolia, Shandong, Henan, Heilongjiang, Jilin, Liaoning, Shaanxi, Ningxia, Qinghai, Gansu and Xinjiang.
+
+2.       The Southern region includes provinces, municipalities, autonomous regions and special administrative regions covering Shanghai,
+         Jiangsu, Zhejiang, Anhui, Jiangxi, Hubei, Hunan, Chongqing, Sichuan, Yunnan, Guizhou, Tibet, Guangdong, Guangxi, Fujian,
+         Hainan, Macau and Hong Kong.
+
+Enhance operational efficiency of stores, strengthen execution capability and optimize management loop
+to foster sustainable development with improved efficiency and quality
+
+In the past year, the Group continued to explore the store operation model and the digitalisation of logistics
+system in an effort to enhance the execution capability of the entire retail end and the quality and efficiency
+of logistics services.
+
+Through continuous exploration and optimization of the single-store operation model, the Group has upgraded the
+single-store operation model to the stage 2.0, developing a system comprehensively optimized from planning to
+execution and from processes to results. The accomplishment of the systematic store sales planning business and
+the steady progress of the store manager-centered management mechanism laid a solid foundation for enhancing
+single-store performance and product management capabilities. The Group’s standardization tools such as the
+“LI-NING Retail Operation Manual” have enhanced the efficiency of the application of retail operation standards
+and the ability to enforce the standards at the retail end through internal monitoring.
+
+The Group established an additional retail operation and execution team to realize a management loop of “order
+giving by headquarters, information confirmation by retail end, business execution by stores and supervision by
+headquarters” and ensure the normalized management of business execution. Meanwhile, the development of the
+four core competencies in the new retail business enabled the Group to enhance interaction among communities
+and profitability driven by live streaming, improve the out-of-store shopping experience and upgrade the overall
+consumer experience through standardized content production processes and digital tools.
+
+In respect of the digitalisation of logistics system, the Group promoted the layout of regional central warehouses
+and ensured transparency throughout the logistic information chain of products through logistics informatization.
+With the opening of the East China Smart Logistics Centres and continuously improved quality of the logistics
+network, the quality and timeliness of direct delivery of products to directly-operated stores and wholesale stores
+were enhanced significantly. The Group also refined the management of the logistics business and continued
+to increase the proportion of direct delivery at stores and the proportion of the use of same packaging box for
+the same product, further enhancing the quality of its logistics services.
+
+
+
+
+                                                                 – 34 –
+The full launch of the logistics management platform realized the all-round coverage of the logistics business
+scenarios by the middle-end information platform, which streamlined the processes and enhanced the efficiency
+at retail front. In particular, the launch of the warehouse automation project boosted the efficiency of logistics
+operations significantly, providing better services to consumers in East China region and across the country.
+
+In terms of supply chain management, the Group has further strengthened its flexible supply system, giving
+play to its technological advantages in products. Focusing on building a sustainable supply chain, the Group
+has shifted from “passive production” to “proactive production”, and created greater value through further
+development of the “value supply chain” by reducing wastage and enhancing efficiency. At the same time, the
+Group has established an equal and win-win relationship with the suppliers to jointly fulfil its environmental
+and social responsibilities, promoted the development of environmentally-friendly products, and continuously
+upgraded its product strengths through innovations to provide better consumer experience.
+
+Further develop professional products and strengthen traffic conversion to establish an efficient business
+ecosystem of e-commerce
+
+In 2023, despite the profound changes and severe challenges faced by the entire e-commerce industry, the
+e-commerce team of Li Ning Company remained focused on high-quality products, and strived to organize
+innovative and diversified marketing campaigns in combination with festival events on e-commerce platforms,
+ensuring a stable and orderly development of all business operations.
+
+Adhering to its focus on functional products, the e-commerce of Li Ning Company continued to consolidate
+its market position in the professional basketball shoes category and proactively explored new growth drivers.
+With in-depth consumer insight and effective communication, the e-commerce of Li Ning Company accurately
+captured the diversified needs of consumers and adopted scenario-based marketing strategies to increase
+business volume. In promoting the “Hot Pot Down Jacket” (                  ) series, the team creatively chose the
+hot pot scenario as the theme to publicize the product functions on e-commerce platforms, and successfully
+gained a foothold in the down jacket market. In the Tmall Super Brand Day campaign, LI-NING coordinated
+with top athletes and celebrities and organized a series of interactive and experiential activities to demonstrate
+the professional and fashionable features of its products through practical living scenarios, thereby deepening
+consumers’ awareness of LI-NING brand.
+
+In response to the traffic arising from various marketing campaigns, the e-commerce business of Li Ning
+Company guaranteed an immediate traffic conversion and accumulation of private traffic through convenient
+shopping experience and comprehensive customer group management. In terms of traffic enhancement, the
+“Infinite Possibilities Games” (                 ) fully capitalized on the advantages of fan communities as well
+as the entertainment and sports media and realized effective brand exposure. The campaign accumulated 3.11
+billion views with 14.16 million comments reposted, representing a significant increase as compared to 2022.
+In terms of traffic conversion, the e-commerce of Li Ning Company achieved remarkable sales performance
+in a series of major shopping festivals such as Taobao Queen’s Day, Tmall Gathering Day and 618 Shopping
+Festival. In respect of traffic accumulation, the Company continued to promote membership recruitment and
+management and strengthened the accumulation of membership as an asset. The total number of members and
+the cross-channel transaction volume through incentivized diversion of online membership registration to offline
+transactions recorded a significant growth.
+
+
+
+
+                                                      – 35 –
+LI-NING YOUNG
+
+In 2023, LI-NING YOUNG proactively consolidated its market positioning as a professional brand and enhanced
+customer confidence by strengthening brand image management and improving the brand image of benchmark
+stores. In terms of product development, LI-NING YOUNG continued to optimize its product lines and refine
+its product structure, particularly professional products for sports such as basketball, running and football. The
+Group continued to promote innovation in product technology, material, categorization and style, and focused
+on devoting greater efforts in research and development of footwear products. At the same time, based on the
+characteristics of the body shape of kids and their needs of sports, the Group has set tone for the block design
+and direction of research and development, thereby further developing products suitable for kids in combination
+with the existing technology resources.
+
+In terms of channel strategy, LI-NING YOUNG insisted on benchmarking against quality projects to enhance
+brand recognition. The Group enhanced the efficiency of channel management by improving the structure of
+channels, customers and stores with reasonable allocation of clearance channels and full-price channels. In
+addition, the Group continued to increase the proportion of stores in the high-end market and improve the brand
+image of key stores, with a view to enhancing customer confidence. LI-NING YOUNG also actively promoted
+the large store model, expedited the development of high-efficiency stores with store efficiency enhancement
+as the priority, and perfected the digitalized system to strengthen its management capability of retail stores.
+Meanwhile, the Company proactively integrated resources from distributors and optimized the channel structure
+with a focus on directly-operated stores in a bid to further develop exclusive markets. The Group has completed
+the integration of market resources in Liaoning, Henan, Hefei, Hebei and Hunan regions, and expanded its
+quality customer base.
+
+For marketing, LI-NING YOUNG consolidated its marketing resources, pushed forward the implementation of
+integrated marketing campaigns and actively explored omni-channel marketing and community operation. On 1
+June, the Children’s Day, the Group held the themed event “Kids Sports Day” (                ) in 48 cities, which
+successfully boosted customer orders by 78% and sales per transaction by 33%. In addition, the “China Tour”
+(        ) campaign featuring basketball stars, Butler and Wade, ignited the passion of the young generation for
+basketball and thus boosted sales. During the campaign period, the 330 participating stores saw a 95% increase
+in basketball orders and a 62% increase in orders over RMB1,000. LI-NING YOUNG also actively promoted
+the brand on social media and formed an omni-channel marketing matrix covering all major social platforms.
+In the second half of 2023, the brand gained over 60 million online exposure and registered an 80% leap in the
+number of followers on its video channel platform with a significant growth in interactions.
+
+As of 31 December 2023, LI-NING YOUNG had a total of 1,428 stores. The Group will continue to intensely
+develop its kidswear business. Leveraging the LI-NING brand, the Group will enhance the marketing efforts
+of the kidswear brand, take a product-focused approach to upgrade core product technology and design, and
+advance the exploration of market demands and product categorization. Consistent efforts will be devoted to
+channel expansion, retail operations and supply chain resources, so as to develop LI-NING YOUNG into a
+leading professional sportswear brand for kids in China.
+
+
+
+
+                                                      – 36 –
+HUMAN RESOURCES
+
+Based on the Company’s strategies, the human resources department pushed forward organizational reform,
+talent development, upgrade of performance system and promotion of the core values of corporate culture in an
+orderly manner, while staying committed to the principle of building teams of hand-picked elites to establish a
+highly efficient organization.
+
+Regarding organizational development, in an effort to enhance the operational efficiency and competitiveness
+of the organization, the Group continued to optimize the management strategies for its organizational structure.
+It improved and adjusted its organizational structure, functional setting and staffing allocation to gradually
+build a coordinated, efficient and synergistic operational management organization. Meanwhile, the Group
+further resumed the integration and synchronization of various functions, including merchandising, product
+development, marketing and operation, based on its product and operational responsibilities, which are conducive
+to accomplishing the Company’s mid-to-long term strategic goals.
+
+In terms of talent management, the Group optimized its talent structure on a continuous basis and stepped up
+its efforts in talent cultivation and development. For the establishment of development mechanism, the Group
+continued to enhance its talent standards and refine its evaluation and development mechanism in an endeavor to
+support the growth of talents. In respect of the cultivation of key personnel, the Group continuously improved its
+talent cultivation system, bolstered the capabilities of its core management team and provided robust talent support
+for the high-quality development of its business through projects of fostering young talents and empowering
+personnel in key positions with professional skills.
+
+In terms of performance incentive management, the Group made consistent efforts to propel the reform of
+its performance appraisal system and reinforce the management of performance targets of the organization
+and employees, thereby establishing a result-oriented and high-performance culture that upholds strategic
+collaboration, fairness and integrity. In the meantime, it strengthened the evaluation of organizational capacity
+and efficiency, further promoted the philosophy of value distribution, and designed targeted and differentiated
+short-, mid- and long-term incentive projects. While relentlessly boosting its market competitiveness, the Group
+also facilitated better management and control over its labor expenses.
+
+Regarding culture and employee care, through organizing seminars on core values for the management, offering
+training and certification to all employees, and applying and putting the core values into practice in business
+scenarios, the Group devoted continuous efforts in building a cultural atmosphere to motivate full engagement
+by all employees and promoted the implementation of the core values of its corporate culture. At the same
+time, it has set up an honorary incentive system with detailed awards to fully demonstrate the power of role
+models and promote the learning and putting into practice of values by all employees. In addition, the Company
+actively cooperated with the labor union to organize activities such as employees’ health seminars, tree planting
+activities, movie-viewing events, club competition and festival campaigns in a bid to enrich employees’ life.
+Furthermore, activities on bringing love and warmth were carried out regularly to provide assistance and support
+to staff members in difficulty, so as to enhance their sense of belonging.
+
+As at 31 December 2023, the Group had 4,845 employees (31 December 2022: 4,610 employees), among which
+4,662 employees were at the Group’s headquarters, Guangxi Supply Base and retail subsidiaries (31 December
+2022: 4,422 employees), and 183 employees were at other subsidiaries (31 December 2022: 188 employees).
+
+
+
+
+                                                       – 37 –
+OUTLOOK
+
+With the onset of 2024, the global economy is still in the process of recovery, and China’s macroeconomic
+recovery also remains its signs of buoyancy. It is expected that China’s economy will maintain its recovery
+momentum, further expand the domestic demand and steadily boost consumption so as to maintain the long-term
+positive development trend. The Group will continue to pursue the “Single Brand, Multi-categories, Diversified
+Channels” model, focus on the seven major segments under business transformation, and push forward the
+implementation of key strategic tasks in an orderly manner, and accelerate the pace of reforms in order to further
+promote the growth and profitability of the LI-NING brand.
+
+1.    Implement a dual-driven strategy of merchandise and products. The Group will continue to improve
+      its product portfolio and optimize the types of products and price matrix. Meanwhile, the Group will also
+      continue to explore new sports scenarios, develop the market segments of sports product category, and
+      incorporate fashion elements into its professional products to better showcase the sports fashion culture
+      and provide consumers with diversified consumer experiences, thereby expanding the influence of the
+      brand;
+
+2.    Enhance investment in research and development and promote innovation-driven development. The
+      Group will continue its efforts in the research and development for improvement of product functions
+      and technological innovation, so as to provide consumers with more professional and functional sports
+      products integrated with fashionable elements, which will better showcase the sports fashion culture.
+      Meanwhile, the Group will continue to optimize the professional product matrix and increase the proportion
+      of professional products by upgrading the fabrics and enhancing the technological attributes of products;
+
+3.    Accelerate the establishment of the general e-commerce business system. The Group will strengthen
+      cooperation with mainstream e-commerce platforms to expand online sales channels and increase brand
+      exposure and sales. It will also further enhance the user experience and functions of e-commerce platforms,
+      optimize the shopping process and increase the conversion rate. In addition, through precise marketing
+      strategies, the Group is able to enhance user stickiness and loyalty, resulting in a two-way transformation
+      of the online and offline consumption scenarios;
+
+4.    Optimize the efficient retail model. The Group will continue to optimize its efficient channel layout
+      to provide more excellent product experience, shopping experience and sports experience. In the future,
+      the key objective of the Group is to accelerate the rectification of low-efficiency stores with the focus on
+      enhancing store efficiency as our main goal. On the basis of refined operations, the Group will continue
+      to improve the efficient retail model and develop the replicability and scalability of the model, so as to
+      provide professional safeguard for the new business layout;
+
+5.    Upgrade the supply chain system. The Group will continue to strengthen the building of fundamental
+      supply chain capabilities and improve its structure to enhance the flexibility and rapid response ability of
+      the supply chain in order to flexibly adapt to the market changes. It also matches with high quality supply
+      chain resources to ensure the safety, efficiency and stability of LI-NING’s supply chain. New supply chain
+      resources will be introduced according to the changes in demands to further optimize the supply chain
+      matrix. The Group aims to accelerate the upgrade and reform of product development progress system by
+      continuous reform and innovation, creating competitive advantages and deeply cooperating with strategic
+      suppliers. It also facilitates the establishment of supply chain information system to achieve the digital
+      transformation of both upper and lower streams of supply chains;
+
+
+
+
+                                                      – 38 –
+6.    Develop marketing consolidation and closed-loop consumer operation. The Group will place emphasis
+      on the investments in marketing resources and strive to upgrade our professional brand image as well as
+      enhance consumers’ awareness of LI-NING brand with an aim to establish the brand as their first-choice
+      professional sports brand. The Group will actively promote community operations to attract marketing
+      traffic, and accomplish the conversion of high-quality traffic into revenue, thereby fostering a completely
+      closed-loop consumer operation. In 2024, the Group will make full use of its professional resources to
+      conduct universal marketing oriented with competitions and events, organize online and offline community
+      operations to strengthen consumer awareness. Meanwhile, it will actively develop long-term relationship
+      with customers based on brand values;
+
+7.    Carry out a comprehensive personnel system reform. By optimizing the internal management processes
+      and incentive mechanisms, the creativity and motivation of employees will be encouraged. The Group
+      will build an efficient and professional team by nurturing and introducing high-calibre talents. Through
+      these measures, the Group expects to enhance the overall organizational effectiveness and ensure that the
+      Company will maintain its leading position under fierce market competition.
+
+With the continuous support and encouragement of the national policies, the Group will continue to delve into
+China market, and contribute to the fulfilment of the noble national blueprint of building a “strong and healthy
+sports nation”. The Group will focus on its main business, and keep abreast of the ever-changing consumer
+market. Upholding the spirit of “Anything is Possible”, it will continue to launch sports products of higher
+quality for the society and public, and facilitate the Chinese sports industry to expand its global presence, so as
+to make contribution to the development of Chinese sports industry.
+
+PURCHASE, SALE OR REDEMPTION OF THE COMPANY’S SHARES
+
+During the year ended 31 December 2023, the Company repurchased a total of 51,667,500 ordinary shares of the
+Company (“Repurchased Shares”) on The Stock Exchange of Hong Kong Limited for an aggregate consideration
+of approximately HK$1.05 billion (excluding related transaction expenses). Out of which 10,730,000 Repurchased
+Shares were cancelled on 1 December 2023, and the remaining 40,937,500 Repurchased Shares were subsequently
+cancelled on 23 January 2024.
+
+The Board believes that the share repurchases could reflect that the Board has full confidence in the business
+prospects and long-term growth of the Group.
+
+Details of the ordinary shares repurchased by the Company during the year ended 31 December 2023 are as
+follows:
+
+                                                                  Repurchase price per share
+                                                                                                      Total consideration
+                                       No. of ordinary                                                 (excluding related
+Month of repurchase in 2023         shares repurchased            Highest price        Lowest price transaction expenses)
+                                                                           HK$                 HK$                   HK$
+
+September                                      920,000                   34.98                 31.70        31,528,400.80
+October                                      9,810,000                   30.97                 23.50       243,569,632.05
+December                                    40,937,500                   20.10                 18.44       778,752,579.90
+
+                                            51,667,500                                                   1,053,850,612.75
+
+
+
+
+                                                         – 39 –
+Save as disclosed above and purchase of shares by the trustee of the Restricted Share Award Scheme pursuant to
+the trust deed and the rules of Restricted Share Award Scheme, neither the Company nor any of its subsidiaries
+has purchased, sold or redeemed any of its listed securities during the year ended 31 December 2023.
+
+CORPORATE GOVERNANCE
+
+The Company is committed to upholding a high standard of corporate governance by continued review and
+enhancement of its corporate governance practices, which enables the Company to keep abreast of the corporate
+governance level oriented to its business needs in a timely and effective manner. During the year ended 31
+December 2023, the Company has complied with the code provisions of the Corporate Governance Code (“CG
+Code”) contained in Appendix C1 to the Rules Governing the Listing of Securities on The Stock Exchange of
+Hong Kong Limited (“Listing Rules”), except for the following deviation with considered reason as explained
+below.
+
+According to code provision C.2.1 of the CG Code, the roles of the chairman and chief executive of a listed
+issuer should be separate and should not be performed by the same individual. During the year of 2023, Mr. Li
+Ning, the Executive Chairman and Joint Chief Executive Officer (the “Joint CEO”), and Mr. Kosaka Takeshi,
+the Executive Director and the Joint CEO, jointly assumed the role of chief executive officer of the Company.
+Therefore, there was no separation of the roles of the chairman and the chief executive as both roles were
+undertaken by Mr. Li Ning during the year. Notwithstanding the above, the Board is of the view that given
+that Mr. Li Ning is familiar with the business operations and management of the Group, the assumption of the
+roles of Executive Chairman and the Joint CEO by Mr. Li Ning will provide the Group with consistent and
+steady leadership, and is particularly beneficial to the planning and implementation of the Group’s business
+strategies. The Board also believes that Mr. Li Ning and Mr. Kosaka Takeshi can complement with each other
+in performing the roles of the Joint CEOs, and create synergy effect which is in the interest of the Company
+and its shareholders as a whole.
+
+Details of the corporate governance practices of the Company will be set out in the Corporate Governance
+Report contained in the 2023 annual report of the Company.
+
+AUDIT COMMITTEE
+
+The Audit Committee of the Company, consisting of three independent non-executive directors of the Company,
+has reviewed the accounting principles and practices adopted by the Group, and has also reviewed auditing,
+internal control and financial reporting matters, including the review of the annual results of the Company for
+the year ended 31 December 2023.
+
+ANNUAL GENERAL MEETING
+
+The AGM of the Company will be held at 11:00 am on Thursday, 13 June 2024.
+
+The notice of the AGM will be despatched to the shareholders of the Company together with the 2023 annual
+report of the Company on or around 23 April 2024 and published on the website of the Company (http://ir.lining.
+com) and the “HKEXnews” website of The Stock Exchange of Hong Kong Limited (www.hkexnews.hk).
+
+                                                                                   By order of the Board
+                                                                                Li Ning Company Limited
+                                                                                          Li Ning
+                                                                                  Executive Chairman and
+                                                                                Joint Chief Executive Officer
+
+Hong Kong, 19 March 2024
+
+As at the date of this announcement, the executive directors of the Company are Mr. Li Ning, Mr. Kosaka
+Takeshi and Mr. Li Qilin. The independent non-executive directors of the Company are Mr. Koo Fook Sun, Louis,
+Ms. Wang Ya Fei, Dr. Chan Chung Bun, Bunny and Ms. Wang Yajuan.
+
+
+                                                    – 40 –
+

@@ -1,0 +1,52 @@
+partner,metric,as_at,value,source,note
+Foot Locker,owned_stores_total,2019-02-02,3221,FL 10-K filed 2020-03-27 store table (beginning),
+Foot Locker,owned_stores_total,2020-02-01,3129,FL 10-K filed 2020-03-27 store table,
+Foot Locker,owned_stores_total,2021-01-30,2998,FL 10-K filed 2022-03-24 store table (beginning),
+Foot Locker,owned_stores_total,2022-01-29,2858,FL 10-K filed 2022-03-24 store table,includes 98 WSS and 37 atmos acquired 2021
+Foot Locker,owned_stores_total,2023-01-28,2714,FL 10-K filed 2023-03-27 store table,
+Foot Locker,owned_stores_total,2024-02-03,2523,FL 10-K filed 2025-03-27 store table (beginning),
+Foot Locker,owned_stores_total,2025-02-01,2410,FL 10-K filed 2025-03-27 store table,
+Foot Locker,owned_stores_total,2026-01-31,2307,DKS 10-Q filed 2026-09-03 Foot Locker Business table (beginning: NA 1610 + Europe 573 + APAC 94 + atmos 30),derived sum
+Foot Locker,owned_stores_total,2026-08-01,2212,DKS 10-Q filed 2026-09-03 Foot Locker Business table (NA 1531 + Europe 559 + APAC 92 + atmos 30),derived sum
+Foot Locker,north_america_stores,2019-02-02,2263,FL 10-K filed 2020-03-27 (FL US 886 + Canada 107 + Kids 428 + Lady 57 + Champs 535 + Footaction 250),derived sum
+Foot Locker,north_america_stores,2020-02-01,2230,FL 10-K filed 2020-03-27 (867+105+431+46+536+245),derived sum
+Foot Locker,north_america_stores,2021-01-30,2185,FL 10-K filed 2022-03-24 (848+101+422+35+539+240),derived sum
+Foot Locker,north_america_stores,2022-01-29,1985,FL 10-K filed 2023-03-27 North America beginning,
+Foot Locker,north_america_stores,2023-01-28,1846,FL 10-K filed 2023-03-27,
+Foot Locker,north_america_stores,2024-02-03,1744,FL 10-K filed 2025-03-27 (beginning),
+Foot Locker,north_america_stores,2025-02-01,1665,FL 10-K filed 2025-03-27,
+Foot Locker,north_america_stores,2026-01-31,1610,DKS 10-Q filed 2026-09-03 (beginning),
+Foot Locker,north_america_stores,2026-08-01,1531,DKS 10-Q filed 2026-09-03,84 closed and 5 opened in 26 weeks
+Foot Locker,nike_share_of_purchases_pct,2019-12-31,71,FL 10-K filed 2020-03-27,
+Foot Locker,nike_share_of_purchases_pct,2021-12-31,68,FL 10-K filed 2022-03-24,
+Foot Locker,nike_share_of_purchases_pct,2022-12-31,65,FL 10-K filed 2023-03-27,
+Foot Locker,nike_share_of_purchases_pct,2024-12-31,59,FL 10-K filed 2025-03-27,
+DICK'S,dicks_banner_stores,2021-01-30,728,XBRL NumberOfStores DKS 10-K,
+DICK'S,dicks_banner_stores,2022-01-29,730,XBRL NumberOfStores DKS 10-K,
+DICK'S,dicks_banner_stores,2023-01-28,728,XBRL NumberOfStores DKS 10-K,
+DICK'S,dicks_banner_stores,2024-02-03,724,XBRL NumberOfStores DKS 10-K,
+DICK'S,dicks_banner_stores,2025-02-01,723,XBRL NumberOfStores DKS 10-K,
+DICK'S,dicks_banner_stores,2026-01-31,721,DKS 10-Q filed 2026-09-03 (beginning; incl 42 Field House and 35 House of Sport),
+DICK'S,dicks_banner_stores,2026-08-01,723,DKS 10-Q filed 2026-09-03 (incl 52 Field House and 41 House of Sport),
+DICK'S+Foot Locker,nike_share_of_purchases_pct,2026-01-31,31,DKS 10-K filed 2026-03-27,combined company fiscal 2025
+Academy,stores,2021-01-30,259,XBRL NumberOfStores ASO,
+Academy,stores,2022-01-29,259,XBRL NumberOfStores ASO,
+Academy,stores,2023-01-28,268,XBRL NumberOfStores ASO,
+Academy,stores,2024-02-03,282,XBRL NumberOfStores ASO,
+Academy,stores,2025-02-01,298,XBRL NumberOfStores ASO,
+Academy,stores,2026-01-31,322,XBRL NumberOfStores ASO,
+Academy,stores,2026-08-01,327,XBRL NumberOfStores ASO 10-Q filed 2026-09-09,Jordan Brand launched in Academy Q1 2025 per 10-Q
+Genesco (Journeys etc),stores,2021-01-30,1460,XBRL NumberOfStores GCO,
+Genesco (Journeys etc),stores,2022-01-29,1425,XBRL NumberOfStores GCO,
+Genesco (Journeys etc),stores,2023-01-28,1410,XBRL NumberOfStores GCO,
+Genesco (Journeys etc),stores,2024-02-03,1341,XBRL NumberOfStores GCO,
+Genesco (Journeys etc),stores,2025-02-01,1278,XBRL NumberOfStores GCO,
+Genesco (Journeys etc),stores,2026-01-31,1236,XBRL NumberOfStores GCO,
+Genesco (Journeys etc),stores,2026-08-01,1186,XBRL NumberOfStores GCO,
+Hibbett,stores_approx,2020-02-01,1100,XBRL NumberOfStores HIBB (rounded approximately),acquired by JD Sports Jul 2024
+Hibbett,stores_approx,2024-02-03,1150,XBRL NumberOfStores HIBB (rounded approximately),
+Kohl's,stores,2020-02-01,1159,XBRL NumberOfStores KSS,
+Kohl's,stores,2025-02-01,1175,XBRL NumberOfStores KSS,
+Kohl's,stores,2026-01-31,1153,XBRL NumberOfStores KSS,
+Big 5,stores,2023-01-01,432,XBRL NumberOfStores BGFV,
+Big 5,stores,2025-06-29,414,XBRL NumberOfStores BGFV,

@@ -1,0 +1,10 @@
+,mean,mean,mean,size,size,size
+window,AugSep2025,AugSep2026,Oct2025,AugSep2025,AugSep2026,Oct2025
+cat,,,,,,
+basketball,0.647,0.609,0.75,17,23,4
+fan_gear,0.4,0.651,0.486,70,152,37
+lifestyle_classics,0.446,0.786,0.683,92,98,60
+lifestyle_other,0.718,0.67,0.608,78,88,51
+other,0.569,0.691,0.695,545,554,213
+running,0.571,0.605,0.612,77,114,49
+soccer_football,0.429,0.741,0.429,14,27,7

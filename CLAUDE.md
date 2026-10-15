@@ -24,3 +24,9 @@ Instead, every "why" must be decomposed into measurable drivers, with a source o
 
 ## Other rules
 Follow `.claude/skills/nike-report-update/SKILL.md` (citations, labels, no em-dashes or en-dashes, regenerate rather than hand-edit) and `.claude/skills/sec-filing-research/SKILL.md`. For any spreadsheet model (build, edit, audit, sensitivity, Google Sheets) follow `.claude/skills/excel-modeling/SKILL.md`: patch existing workbooks surgically with its `xl.py`, never rebuild a workbook a person has edited. **Downloads:** fetch Nike filings from the investors.nike.com mirror (see the sec-filing-research skill), not www.sec.gov. Never put the user's email address in an HTTP request (for example a SEC User-Agent) unless the user explicitly provides it for that purpose.
+
+## Never accept "inconclusive" without a fight
+- A test or data source that comes back inconclusive, blocked, masked, empty or weak is a starting point, not an answer. Before reporting it, try every alternative route to the same fact: other sources, other names or aliases, the other side of the transaction (supplier, shipper, customer, regulator), other countries' records, archived copies (web.archive.org), government aggregates, proxies that measure the same thing, and primary filings.
+- Record every route tried and its result (worked, blocked, partial) in the notes, so the next person does not repeat dead ends.
+- Only report "inconclusive" after at least five genuinely different routes have failed, and say exactly what data would settle it and how it could be obtained.
+- When delegating to subagents, include this rule in their instructions.

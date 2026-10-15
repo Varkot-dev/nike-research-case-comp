@@ -1,0 +1,280 @@
+crawl,timestamp,url,filter,total
+CC-MAIN-2022-21,20220529082416,https://careers.adidas-group.com/jobs/senior-software-engineer-agile-193774?locale=en,{},404
+CC-MAIN-2022-21,20220529084547,https://careers.adidas-group.com/jobs/sales-senior-key-account-manager-networking-event-2018-184303?locale=en,{},404
+CC-MAIN-2022-21,20220529091629,https://careers.adidas-group.com/jobs?locale=de,{},2087
+CC-MAIN-2022-21,20220529091930,https://careers.adidas-group.com/jobs?keywords=Retail&locale=en,{},1088
+CC-MAIN-2022-21,20220529080048,https://careers.adidas-group.com/jobs?team=Digital&locale=en,"{""team"": [""Digital""]}",68
+CC-MAIN-2022-21,20220529080559,https://careers.adidas-group.com/jobs?team=Strategy&locale=en,"{""team"": [""Strategy""]}",9
+CC-MAIN-2022-21,20220529080757,https://careers.adidas-group.com/jobs?team=Information+Technology&locale=en,"{""team"": [""Information Technology""]}",178
+CC-MAIN-2022-21,20220529080952,https://careers.adidas-group.com/jobs?team=Retail+%28Store%29&locale=en,"{""team"": [""Retail (Store)""]}",1017
+CC-MAIN-2022-21,20220529082045,https://careers.adidas-group.com/jobs?team=Product+Development&locale=en,"{""team"": [""Product Development""]}",53
+CC-MAIN-2022-21,20220529082309,https://careers.adidas-group.com/jobs?team=Supply+Chain+Management&locale=en,"{""team"": [""Supply Chain Management""]}",92
+CC-MAIN-2022-21,20220529090453,https://careers.adidas-group.com/jobs?team=Marketing+%26+Communications&locale=en,"{""team"": [""Marketing & Communications""]}",171
+CC-MAIN-2022-21,20220529091140,https://careers.adidas-group.com/jobs?team=Retail+%28Back+Office%29&locale=en,"{""team"": [""Retail (Back Office)""]}",46
+CC-MAIN-2022-27,20220627044335,https://careers.adidas-group.com/jobs/customer-service-coordinator-167055?locale=en,{},404
+CC-MAIN-2022-27,20220627044848,https://careers.adidas-group.com/jobs/team-associate-south-65488,{},404
+CC-MAIN-2022-27,20220627051838,https://careers.adidas-group.com/jobs/retail-professionals-brisbane-locations-52045,{},404
+CC-MAIN-2022-27,20220627060415,https://careers.adidas-group.com/jobs/senior-project-manager-supply-chain-management-146843,{},404
+CC-MAIN-2022-27,20220627062821,https://careers.adidas-group.com/jobs/training-specialist-ksa-151189,{},404
+CC-MAIN-2022-27,20220627062145,https://careers.adidas-group.com/jobs?team=Customer+Service,"{""team"": [""Customer Service""]}",11
+CC-MAIN-2022-33,20220807155027,https://careers.adidas-group.com/jobs/controlling-reporting-assessment-day-2nd-of-march-190736?locale=en,{},404
+CC-MAIN-2022-33,20220807161131,https://careers.adidas-group.com/jobs/london-newsroom-intern-177206?locale=en,{},404
+CC-MAIN-2022-33,20220807165542,https://careers.adidas-group.com/jobs?keywords=Duales%2CStudium&locale=en,{},17
+CC-MAIN-2022-33,20220807153118,https://careers.adidas-group.com/jobs?team=Facilities+%26+Services&locale=en,"{""team"": [""Facilities & Services""]}",
+CC-MAIN-2022-33,20220807164913,https://careers.adidas-group.com/jobs?team=Engineering&locale=en,"{""team"": [""Engineering""]}",2
+CC-MAIN-2022-33,20220807165029,https://careers.adidas-group.com/jobs?team=Design&locale=en,"{""team"": [""Design""]}",18
+CC-MAIN-2022-40,20221005074139,https://careers.adidas-group.com/jobs/sap-erp-frontend-design-intern-it-young-talent-program-200528?locale=en,{},404
+CC-MAIN-2022-40,20221005080809,https://careers.adidas-group.com/jobs/cmo-product-creation-it-young-talent-program-enero-204854?locale=en,{},404
+CC-MAIN-2022-40,20221005095614,https://careers.adidas-group.com/jobs/consumer-engagement-it-young-talent-program-enero-20-204853?locale=en,{},404
+CC-MAIN-2022-40,20221005095732,https://careers.adidas-group.com/jobs/software-test-engineering-it-young-talent-program-en-204852?locale=en,{},404
+CC-MAIN-2022-40,20221005100106,https://careers.adidas-group.com/jobs/com-experience-it-young-talent-program-enero-2020-204861?locale=en,{},404
+CC-MAIN-2022-40,20221005081430,https://careers.adidas-group.com/jobs?team=Digital&locale=en,"{""team"": [""Digital""]}",37
+CC-MAIN-2022-40,20221005082310,https://careers.adidas-group.com/jobs?team=Retail+%28Store%29&locale=en,"{""team"": [""Retail (Store)""]}",1137
+CC-MAIN-2022-49,20221128204049,https://careers.adidas-group.com/jobs/cmo-frontend-it-young-talent-program-enero-2020-204849?locale=en,{},404
+CC-MAIN-2022-49,20221128213426,https://careers.adidas-group.com/jobs/senior-software-engineer-agile-193774?locale=en,{},404
+CC-MAIN-2022-49,20221128211621,https://careers.adidas-group.com/jobs?team=Information+Technology&locale=en,"{""team"": [""Information Technology""]}",33
+CC-MAIN-2022-49,20221128213045,https://careers.adidas-group.com/jobs?team=Product+Development&locale=en,"{""team"": [""Product Development""]}",11
+CC-MAIN-2022-49,20221128213258,https://careers.adidas-group.com/jobs?team=Supply+Chain+Management&locale=en,"{""team"": [""Supply Chain Management""]}",42
+CC-MAIN-2022-49,20221128222026,https://careers.adidas-group.com/jobs?team=Marketing+%26+Communications&locale=en,"{""team"": [""Marketing & Communications""]}",13
+CC-MAIN-2022-49,20221128222842,https://careers.adidas-group.com/jobs?team=Retail+%28Back+Office%29&locale=en,"{""team"": [""Retail (Back Office)""]}",11
+CC-MAIN-2022-49,20221128224408,https://careers.adidas-group.com/jobs?team=Sales&locale=en,"{""team"": [""Sales""]}",15
+CC-MAIN-2023-06,20230203064829,https://careers.adidas-group.com/jobs/retail-store-associate-st-louis-217-2016-116062,{},404
+CC-MAIN-2023-06,20230203074239,https://careers.adidas-group.com/jobs?locale=de,{},1154
+CC-MAIN-2023-06,20230203075645,https://careers.adidas-group.com/jobs/vendedores-adidas-originals-con-idioma-ingles-88684,{},404
+CC-MAIN-2023-06,20230203062446,https://careers.adidas-group.com/jobs?team=Digital&locale=en,"{""team"": [""Digital""]}",33
+CC-MAIN-2023-06,20230203063354,https://careers.adidas-group.com/jobs?team=Retail+%28Store%29&locale=en,"{""team"": [""Retail (Store)""]}",849
+CC-MAIN-2023-14,20230322063108,https://careers.adidas-group.com/jobs?keywords=Ausbildung&locale=de,{},5
+CC-MAIN-2023-14,20230322065143,https://careers.adidas-group.com/jobs?keywords=Retail&locale=de,{},852
+CC-MAIN-2023-14,20230322070918,https://careers.adidas-group.com/jobs?keywords=Retail&locale=en,{},852
+CC-MAIN-2023-14,20230322071906,https://careers.adidas-group.com/jobs?keywords=retail&locale=de,{},852
+CC-MAIN-2023-14,20230322052741,https://careers.adidas-group.com/jobs?team=Retail+%28Store%29&locale=de,"{""team"": [""Retail (Store)""]}",831
+CC-MAIN-2023-14,20230322055248,https://careers.adidas-group.com/jobs?team=Information+Technology&locale=en,"{""team"": [""Information Technology""]}",72
+CC-MAIN-2023-14,20230322060441,https://careers.adidas-group.com/jobs?team=Information+Technology&locale=de,"{""team"": [""Information Technology""]}",72
+CC-MAIN-2023-14,20230322060601,https://careers.adidas-group.com/jobs?team=Product+Development&locale=en,"{""team"": [""Product Development""]}",11
+CC-MAIN-2023-14,20230322060837,https://careers.adidas-group.com/jobs?team=Supply+Chain+Management&locale=en,"{""team"": [""Supply Chain Management""]}",52
+CC-MAIN-2023-14,20230322061359,https://careers.adidas-group.com/jobs?team=Engineering&locale=de,"{""team"": [""Engineering""]}",6
+CC-MAIN-2023-14,20230322062222,https://careers.adidas-group.com/jobs?team=Retail+%28Back+Office%29&locale=de,"{""team"": [""Retail (Back Office)""]}",11
+CC-MAIN-2023-14,20230322062633,https://careers.adidas-group.com/jobs?team=Accounting+%26+Finance&locale=de,"{""team"": [""Accounting & Finance""]}",40
+CC-MAIN-2023-23,20230530231018,https://careers.adidas-group.com/jobs/sap-erp-frontend-design-intern-it-young-talent-program-200528?locale=en,{},404
+CC-MAIN-2023-23,20230530231211,https://careers.adidas-group.com/jobs/cmo-frontend-it-young-talent-program-enero-2020-204849?locale=en,{},404
+CC-MAIN-2023-23,20230530231628,https://careers.adidas-group.com/jobs/customer-service-coordinator-167055?locale=en,{},404
+CC-MAIN-2023-23,20230530233401,https://careers.adidas-group.com/jobs/cmo-product-creation-it-young-talent-program-enero-204854?locale=en,{},404
+CC-MAIN-2023-23,20230530234720,https://careers.adidas-group.com/jobs/,{},1449
+CC-MAIN-2023-23,20230531000649,https://careers.adidas-group.com/jobs/retail-store-associate-st-louis-217-2016-116062,{},404
+CC-MAIN-2023-23,20230531003759,https://careers.adidas-group.com/jobs/manager-trademark-counsel-191278?locale=en,{},404
+CC-MAIN-2023-23,20230531005849,https://careers.adidas-group.com/jobs/franchise-manager-184362?locale=en,{},404
+CC-MAIN-2023-23,20230531010624,https://careers.adidas-group.com/jobs?locale=de,{},1449
+CC-MAIN-2023-23,20230531011939,https://careers.adidas-group.com/jobs/consumer-engagement-it-young-talent-program-enero-20-204853?locale=en,{},404
+CC-MAIN-2023-23,20230531012111,https://careers.adidas-group.com/jobs/software-test-engineering-it-young-talent-program-en-204852?locale=en,{},404
+CC-MAIN-2023-23,20230531012452,https://careers.adidas-group.com/jobs/com-experience-it-young-talent-program-enero-2020-204861?locale=en,{},404
+CC-MAIN-2023-40,20231004220211,https://careers.adidas-group.com/jobs/retail-store-associate-st-louis-217-2016-116062?locale=en,{},404
+CC-MAIN-2023-40,20231004233744,https://careers.adidas-group.com/jobs/senior-specialist-concept-excellence-194105?locale=en,{},404
+CC-MAIN-2023-40,20231004235557,https://careers.adidas-group.com/jobs/internship-global-operations-logistics-6-month-20-204280?locale=en,{},404
+CC-MAIN-2023-40,20231004221312,https://careers.adidas-group.com/jobs?team=Retail+%28Store%29&locale=de,"{""team"": [""Retail (Store)""]}",960
+CC-MAIN-2023-40,20231004224015,https://careers.adidas-group.com/jobs?team=Digital&locale=en,"{""team"": [""Digital""]}",55
+CC-MAIN-2023-40,20231004224839,https://careers.adidas-group.com/jobs?team=Information+Technology&locale=en,"{""team"": [""Information Technology""]}",7
+CC-MAIN-2023-40,20231004224923,https://careers.adidas-group.com/jobs?team=Retail+%28Store%29&locale=en,"{""team"": [""Retail (Store)""]}",960
+CC-MAIN-2023-40,20231004230617,https://careers.adidas-group.com/jobs?team=Supply+Chain+Management&locale=en,"{""team"": [""Supply Chain Management""]}",46
+CC-MAIN-2023-40,20231004235301,https://careers.adidas-group.com/jobs?team=Sourcing&locale=de,"{""team"": [""Sourcing""]}",29
+CC-MAIN-2023-40,20231004235638,https://careers.adidas-group.com/jobs?team=Marketing+%26+Communications&locale=en,"{""team"": [""Marketing & Communications""]}",87
+CC-MAIN-2023-40,20231005000325,https://careers.adidas-group.com/jobs?team=Retail+%28Back+Office%29&locale=en,"{""team"": [""Retail (Back Office)""]}",36
+CC-MAIN-2023-40,20231005001327,https://careers.adidas-group.com/jobs?team=Design&locale=en,"{""team"": [""Design""]}",32
+CC-MAIN-2023-50,20231203094336,https://careers.adidas-group.com/jobs/sap-erp-frontend-design-intern-it-young-talent-program-200528?locale=en,{},404
+CC-MAIN-2023-50,20231203102142,https://careers.adidas-group.com/jobs/,{},1424
+CC-MAIN-2023-50,20231203103913,https://careers.adidas-group.com/jobs/senior-software-engineer-agile-193774?locale=en,{},404
+CC-MAIN-2023-50,20231203110944,https://careers.adidas-group.com/jobs/manager-concept-excellence-ltd-197013?locale=en,{},404
+CC-MAIN-2023-50,20231203112900,https://careers.adidas-group.com/jobs/franchise-manager-184362?locale=en,{},404
+CC-MAIN-2023-50,20231203113857,https://careers.adidas-group.com/jobs?keywords=Retail&locale=en,{},893
+CC-MAIN-2023-50,20231203114954,https://careers.adidas-group.com/jobs?keywords=retail&locale=de,{},893
+CC-MAIN-2023-50,20231203101102,https://careers.adidas-group.com/jobs?team=Facilities+%26+Services&locale=en,"{""team"": [""Facilities & Services""]}",8
+CC-MAIN-2023-50,20231203103556,https://careers.adidas-group.com/jobs?team=Product+Development&locale=en,"{""team"": [""Product Development""]}",32
+CC-MAIN-2023-50,20231203114202,https://careers.adidas-group.com/jobs?team=Supply+Chain+Management&locale=de,"{""team"": [""Supply Chain Management""]}",44
+CC-MAIN-2024-10,20240227220909,https://careers.adidas-group.com/jobs/cmo-frontend-it-young-talent-program-enero-2020-204849?locale=en,{},404
+CC-MAIN-2024-10,20240227222131,https://careers.adidas-group.com/jobs/project-manager-ecommerce-172846?locale=en,{},404
+CC-MAIN-2024-10,20240227224415,https://careers.adidas-group.com/jobs/cmo-product-creation-it-young-talent-program-enero-204854?locale=en,{},404
+CC-MAIN-2024-10,20240227232024,https://careers.adidas-group.com/jobs/retail-store-associate-st-louis-217-2016-116062,{},404
+CC-MAIN-2024-10,20240228001943,https://careers.adidas-group.com/jobs?locale=de,{},1222
+CC-MAIN-2024-10,20240228002720,https://careers.adidas-group.com/jobs/associate-product-manager-data-entry-171691?locale=en,{},404
+CC-MAIN-2024-10,20240228003557,https://careers.adidas-group.com/jobs/consumer-engagement-it-young-talent-program-enero-20-204853?locale=en,{},404
+CC-MAIN-2024-10,20240228003636,https://careers.adidas-group.com/jobs/test-engineer-footwear-yeezy-183330?locale=en,{},404
+CC-MAIN-2024-10,20240228003717,https://careers.adidas-group.com/jobs/software-test-engineering-it-young-talent-program-en-204852?locale=en,{},404
+CC-MAIN-2024-10,20240228004029,https://careers.adidas-group.com/jobs/com-experience-it-young-talent-program-enero-2020-204861?locale=en,{},404
+CC-MAIN-2024-10,20240227222248,https://careers.adidas-group.com/jobs?team=Retail+%28Store%29&locale=de,"{""team"": [""Retail (Store)""]}",664
+CC-MAIN-2024-10,20240227225119,https://careers.adidas-group.com/jobs?team=Digital&locale=en,"{""team"": [""Digital""]}",30
+CC-MAIN-2024-18,20240417111220,https://careers.adidas-group.com/jobs/retail-store-associate-st-louis-217-2016-116062?locale=en,{},404
+CC-MAIN-2024-18,20240417111556,https://careers.adidas-group.com/jobs/customer-service-coordinator-167055?locale=en,{},404
+CC-MAIN-2024-18,20240417124837,https://careers.adidas-group.com/jobs/internship-global-operations-logistics-6-month-20-204280?locale=en,{},404
+CC-MAIN-2024-18,20240417130300,https://careers.adidas-group.com/jobs?keywords=Retail&locale=en,{},876
+CC-MAIN-2024-18,20240417120211,https://careers.adidas-group.com/jobs?team=Product+Development&locale=en,"{""team"": [""Product Development""]}",20
+CC-MAIN-2024-18,20240417124902,https://careers.adidas-group.com/jobs?team=Marketing+%26+Communications&locale=en,"{""team"": [""Marketing & Communications""]}",76
+CC-MAIN-2024-18,20240417125452,https://careers.adidas-group.com/jobs?team=Retail+%28Back+Office%29&locale=en,"{""team"": [""Retail (Back Office)""]}",39
+CC-MAIN-2024-18,20240417130340,https://careers.adidas-group.com/jobs?team=Legal+%2F+SEA&locale=en,"{""team"": [""Legal / SEA""]}",7
+CC-MAIN-2024-18,20240417130858,https://careers.adidas-group.com/jobs?team=Sales&locale=en,"{""team"": [""Sales""]}",55
+CC-MAIN-2024-18,20240417131754,https://careers.adidas-group.com/jobs?team=Digital&locale=de,"{""team"": [""Digital""]}",12
+CC-MAIN-2024-22,20240520080704,https://careers.adidas-group.com/jobs/sap-erp-frontend-design-intern-it-young-talent-program-200528?locale=en,{},404
+CC-MAIN-2024-22,20240520090012,https://careers.adidas-group.com/jobs/senior-software-engineer-agile-193774?locale=en,{},404
+CC-MAIN-2024-22,20240520093059,https://careers.adidas-group.com/jobs/manager-trademark-counsel-191278?locale=en,{},404
+CC-MAIN-2024-22,20240520083337,https://careers.adidas-group.com/jobs?team=Facilities+%26+Services&locale=en,"{""team"": [""Facilities & Services""]}",7
+CC-MAIN-2024-22,20240520085932,https://careers.adidas-group.com/jobs?team=Supply+Chain+Management&locale=en,"{""team"": [""Supply Chain Management""]}",36
+CC-MAIN-2024-22,20240520100138,https://careers.adidas-group.com/jobs?team=Supply+Chain+Management&locale=de,"{""team"": [""Supply Chain Management""]}",36
+CC-MAIN-2024-26,20240612220442,https://careers.adidas-group.com/jobs/manager-concept-excellence-ltd-197013?locale=en,{},404
+CC-MAIN-2024-26,20240612222648,https://careers.adidas-group.com/jobs/manager-global-editorial-content-165282?locale=en,{},404
+CC-MAIN-2024-26,20240612223254,https://careers.adidas-group.com/jobs?locale=de,{},1354
+CC-MAIN-2024-26,20240612224836,https://careers.adidas-group.com/jobs/consumer-engagement-it-young-talent-program-enero-20-204853?locale=en,{},404
+CC-MAIN-2024-26,20240612225315,https://careers.adidas-group.com/jobs/com-experience-it-young-talent-program-enero-2020-204861?locale=en,{},404
+CC-MAIN-2024-26,20240612210924,https://careers.adidas-group.com/jobs?team=Digital&locale=en,"{""team"": [""Digital""]}",13
+CC-MAIN-2024-26,20240612211902,https://careers.adidas-group.com/jobs?team=Retail+%28Store%29&locale=en,"{""team"": [""Retail (Store)""]}",1003
+CC-MAIN-2024-30,20240719201347,https://careers.adidas-group.com/jobs/cmo-frontend-it-young-talent-program-enero-2020-204849?locale=en,{},404
+CC-MAIN-2024-30,20240719201828,https://careers.adidas-group.com/jobs?location=&offset=0&keywords=&location_manual=,{},1341
+CC-MAIN-2024-30,20240719203819,https://careers.adidas-group.com/jobs/cmo-product-creation-it-young-talent-program-enero-204854?locale=en,{},404
+CC-MAIN-2024-30,20240719205228,https://careers.adidas-group.com/jobs/,{},1340
+CC-MAIN-2024-30,20240719215146,https://careers.adidas-group.com/jobs/senior-specialist-concept-excellence-194105?locale=en,{},404
+CC-MAIN-2024-30,20240719223105,https://careers.adidas-group.com/jobs/software-test-engineering-it-young-talent-program-en-204852?locale=en,{},404
+CC-MAIN-2024-30,20240719221125,https://careers.adidas-group.com/jobs?team=Retail+%28Back+Office%29&locale=en,"{""team"": [""Retail (Back Office)""]}",47
+CC-MAIN-2024-30,20240719221900,https://careers.adidas-group.com/jobs?team=Design&locale=en,"{""team"": [""Design""]}",22
+CC-MAIN-2024-30,20240719222401,https://careers.adidas-group.com/jobs?team=Sales&locale=en,"{""team"": [""Sales""]}",55
+CC-MAIN-2024-33,20240812094640,https://careers.adidas-group.com/jobs/director-demand-integrated-business-planning-seapac-154944,{},404
+CC-MAIN-2024-33,20240812102446,https://careers.adidas-group.com/jobs/senior-manager-ctc-merchandising-emerging-markets-150432,{},404
+CC-MAIN-2024-33,20240812103922,https://careers.adidas-group.com/jobs/specialist-operations-153027,{},
+CC-MAIN-2024-33,20240812103957,https://careers.adidas-group.com/jobs/trading-implementation-manager-155926,{},
+CC-MAIN-2024-33,20240812104030,https://careers.adidas-group.com/jobs/senior-manager-retail-franchise-hr-seapac-152242,{},
+CC-MAIN-2024-33,20240812104148,https://careers.adidas-group.com/jobs/profit-protection-manager-see-177059?locale=en,{},
+CC-MAIN-2024-33,20240812104215,https://careers.adidas-group.com/jobs/2020-us-internship-sport-science-204372?locale=en,{},
+CC-MAIN-2024-33,20240812104301,https://careers.adidas-group.com/jobs/senior-manager-key-accounts-gcc-153245,{},
+CC-MAIN-2024-33,20240812104508,https://careers.adidas-group.com/jobs/senior-manager-sales-academy-153163,{},
+CC-MAIN-2024-33,20240812105808,https://careers.adidas-group.com/jobs/internship-global-operations-logistics-6-month-20-204280?locale=en,{},
+CC-MAIN-2024-33,20240812111318,https://careers.adidas-group.com/jobs/senior-marketing-director-brand-adidas-india-150776,{},
+CC-MAIN-2024-33,20240812111356,https://careers.adidas-group.com/jobs/assistant-category-merchandising-manager-bu-training-156635,{},
+CC-MAIN-2024-38,20240920212347,https://careers.adidas-group.com/jobs/franchise-manager-184362?locale=en,{},404
+CC-MAIN-2024-38,20240920195734,https://careers.adidas-group.com/jobs?team=Digital&locale=en,"{""team"": [""Digital""]}",23
+CC-MAIN-2024-38,20240920200633,https://careers.adidas-group.com/jobs?team=Retail+%28Store%29&locale=en,"{""team"": [""Retail (Store)""]}",744
+CC-MAIN-2024-38,20240920202441,https://careers.adidas-group.com/jobs?team=Supply+Chain+Management&locale=en,"{""team"": [""Supply Chain Management""]}",41
+CC-MAIN-2024-38,20240920213322,https://careers.adidas-group.com/jobs?team=Legal+%2F+SEA&locale=en,"{""team"": [""Legal / SEA""]}",3
+CC-MAIN-2024-42,20241012175154,https://careers.adidas-group.com/jobs/sap-erp-frontend-design-intern-it-young-talent-program-200528?locale=en,{},404
+CC-MAIN-2024-42,20241012180339,https://careers.adidas-group.com/jobs/project-manager-ecommerce-172846?locale=en,{},404
+CC-MAIN-2024-42,20241012185210,https://careers.adidas-group.com/jobs/senior-software-engineer-agile-193774?locale=en,{},404
+CC-MAIN-2024-42,20241012195046,https://careers.adidas-group.com/jobs?locale=de,{},1027
+CC-MAIN-2024-42,20241012200904,https://careers.adidas-group.com/jobs/com-experience-it-young-talent-program-enero-2020-204861?locale=en,{},404
+CC-MAIN-2024-42,20241012180444,https://careers.adidas-group.com/jobs?team=Retail+%28Store%29&locale=de,"{""team"": [""Retail (Store)""]}",686
+CC-MAIN-2024-42,20241012195337,https://careers.adidas-group.com/jobs?team=Design&locale=en,"{""team"": [""Design""]}",18
+CC-MAIN-2024-46,20241108071017,https://careers.adidas-group.com/jobs/retail-store-associate-st-louis-217-2016-116062?locale=en,{},404
+CC-MAIN-2024-46,20241108071241,https://careers.adidas-group.com/jobs/cmo-frontend-it-young-talent-program-enero-2020-204849?locale=en,{},404
+CC-MAIN-2024-46,20241108080247,https://careers.adidas-group.com/jobs/retail-store-associate-st-louis-217-2016-116062,{},404
+CC-MAIN-2024-46,20241108085210,https://careers.adidas-group.com/jobs/software-engineer-backend-198451?locale=en,{},404
+CC-MAIN-2024-46,20241108085754,https://careers.adidas-group.com/jobs/manager-global-editorial-content-165282?locale=en,{},404
+CC-MAIN-2024-46,20241108090418,https://careers.adidas-group.com/jobs?keywords=Retail&locale=en,{},1020
+CC-MAIN-2024-46,20241108091545,https://careers.adidas-group.com/jobs/consumer-engagement-it-young-talent-program-enero-20-204853?locale=en,{},404
+CC-MAIN-2024-46,20241108091651,https://careers.adidas-group.com/jobs/software-test-engineering-it-young-talent-program-en-204852?locale=en,{},404
+CC-MAIN-2024-46,20241108075924,https://careers.adidas-group.com/jobs?team=Product+Development&locale=en,"{""team"": [""Product Development""]}",5
+CC-MAIN-2024-46,20241108085840,https://careers.adidas-group.com/jobs?team=Retail+%28Back+Office%29&locale=en,"{""team"": [""Retail (Back Office)""]}",23
+CC-MAIN-2024-46,20241108091724,https://careers.adidas-group.com/jobs?team=Administrative&locale=en,"{""team"": [""Administrative""]}",5
+CC-MAIN-2024-51,20241214184618,https://careers.adidas-group.com/jobs/director-demand-integrated-business-planning-seapac-154944,{},404
+CC-MAIN-2024-51,20241214185123,https://careers.adidas-group.com/jobs/cmo-product-creation-it-young-talent-program-enero-204854?locale=en,{},404
+CC-MAIN-2024-51,20241214193844,https://careers.adidas-group.com/jobs/senior-manager-ctc-merchandising-emerging-markets-150432,{},404
+CC-MAIN-2024-51,20241214201254,https://careers.adidas-group.com/jobs?team=Marketing+%26+Communications&locale=en,"{""team"": [""Marketing & Communications""]}",2
+CC-MAIN-2024-51,20241214203534,https://careers.adidas-group.com/jobs?team=Sales&locale=en,"{""team"": [""Sales""]}",42
+CC-MAIN-2025-05,20250113135647,https://careers.adidas-group.com/jobs/manager-trademark-counsel-191278?locale=en,{},404
+CC-MAIN-2025-05,20250113142724,https://careers.adidas-group.com/jobs?team=Design&locale=en,"{""team"": [""Design""]}",23
+CC-MAIN-2025-05,20250125021957,https://careers.adidas-group.com/jobs?team=Digital&locale=en,"{""team"": [""Digital""]}",17
+CC-MAIN-2025-05,20250126013042,https://careers.adidas-group.com/jobs?team=Retail+%28Store%29&locale=en,"{""team"": [""Retail (Store)""]}",250
+CC-MAIN-2025-08,20250216192319,https://careers.adidas-group.com/jobs?keywords=Retail&locale=en,{},673
+CC-MAIN-2025-08,20250218182401,https://careers.adidas-group.com/jobs?location=&offset=0&keywords=&location_manual=,{},1068
+CC-MAIN-2025-08,20250218200410,https://careers.adidas-group.com/jobs?locale=de,{},1069
+CC-MAIN-2025-08,20250216175504,https://careers.adidas-group.com/jobs?team=Facilities+%26+Services&locale=en,"{""team"": [""Facilities & Services""]}",0
+CC-MAIN-2025-08,20250218191036,https://careers.adidas-group.com/jobs?team=Supply+Chain+Management&locale=en,"{""team"": [""Supply Chain Management""]}",0
+CC-MAIN-2025-13,20250320211753,https://careers.adidas-group.com/jobs/senior-director-it-emerging-markets-mf-176885?locale=en,{},
+CC-MAIN-2025-13,20250320212538,https://careers.adidas-group.com/jobs/senior-software-engineer-agile-193774?locale=en,{},
+CC-MAIN-2025-13,20250320222626,https://careers.adidas-group.com/jobs/internship-global-operations-logistics-6-month-20-204280?locale=en,{},
+CC-MAIN-2025-13,20250320223105,https://careers.adidas-group.com/jobs/franchise-manager-184362?locale=en,{},
+CC-MAIN-2025-13,20250320223210,https://careers.adidas-group.com/jobs?team=Retail+%28Back+Office%29&locale=en,"{""team"": [""Retail (Back Office)""]}",
+CC-MAIN-2025-18,20250426164633,https://careers.adidas-group.com/jobs/adidas-design-academy-footwear-focus-2-year-temp-f-169885?locale=en,{},404
+CC-MAIN-2025-18,20250426170202,https://careers.adidas-group.com/jobs/director-demand-integrated-business-planning-seapac-154944,{},404
+CC-MAIN-2025-18,20250426175243,https://careers.adidas-group.com/jobs/senior-manager-ctc-merchandising-emerging-markets-150432,{},404
+CC-MAIN-2025-18,20250426183725,https://careers.adidas-group.com/jobs?team=Design&locale=en,"{""team"": [""Design""]}",23
+CC-MAIN-2025-18,20250426184025,https://careers.adidas-group.com/jobs?team=Supply+Chain+Management&locale=de,"{""team"": [""Supply Chain Management""]}",0
+CC-MAIN-2025-18,20250426184247,https://careers.adidas-group.com/jobs?team=Sales&locale=en,"{""team"": [""Sales""]}",45
+CC-MAIN-2025-21,20250516002902,https://careers.adidas-group.com/jobs/cmo-frontend-it-young-talent-program-enero-2020-204849?locale=en,{},404
+CC-MAIN-2025-21,20250516004031,https://careers.adidas-group.com/jobs?keywords=retail&locale=en,{},769
+CC-MAIN-2025-21,20250516020829,https://careers.adidas-group.com/jobs?keywords=Retail&locale=en,{},769
+CC-MAIN-2025-21,20250516011746,https://careers.adidas-group.com/jobs?team=Product+Development&locale=en,"{""team"": [""Product Development""]}",0
+CC-MAIN-2025-26,20250615013616,https://careers.adidas-group.com/jobs/sap-erp-frontend-design-intern-it-young-talent-program-200528?locale=en,{},404
+CC-MAIN-2025-26,20250615013935,https://careers.adidas-group.com/jobs/retail-store-associate-st-louis-217-2016-116062?locale=en,{},404
+CC-MAIN-2025-26,20250615014730,https://careers.adidas-group.com/jobs?location=&offset=0&keywords=&location_manual=,{},1190
+CC-MAIN-2025-26,20250615022902,https://careers.adidas-group.com/jobs/senior-software-engineer-agile-193774?locale=en,{},404
+CC-MAIN-2025-26,20250615031128,https://careers.adidas-group.com/jobs/manager-global-editorial-content-165282?locale=en,{},404
+CC-MAIN-2025-26,20250615032905,https://careers.adidas-group.com/jobs/consumer-engagement-it-young-talent-program-enero-20-204853?locale=en,{},404
+CC-MAIN-2025-26,20250615033333,https://careers.adidas-group.com/jobs/com-experience-it-young-talent-program-enero-2020-204861?locale=en,{},404
+CC-MAIN-2025-26,20250615020710,https://careers.adidas-group.com/jobs?team=Digital&locale=en,"{""team"": [""Digital""]}",12
+CC-MAIN-2025-30,20250709152845,https://careers.adidas-group.com/jobs/,{},1115
+CC-MAIN-2025-30,20250709162042,https://careers.adidas-group.com/jobs/software-engineer-backend-198451?locale=en,{},404
+CC-MAIN-2025-30,20250709163041,https://careers.adidas-group.com/jobs?locale=de,{},1116
+CC-MAIN-2025-30,20250709152952,https://careers.adidas-group.com/jobs?team=Retail+%28Store%29&locale=en,"{""team"": [""Retail (Store)""]}",366
+CC-MAIN-2025-33,20250805083215,https://careers.adidas-group.com/jobs?keywords=retail&locale=de,{},780
+CC-MAIN-2025-33,20250805064957,https://careers.adidas-group.com/jobs?team=Retail+%28Store%29&locale=de,"{""team"": [""Retail (Store)""]}",384
+CC-MAIN-2025-33,20250805081748,https://careers.adidas-group.com/jobs?team=Sales&locale=de,"{""team"": [""Sales""]}",50
+CC-MAIN-2025-33,20250805082359,https://careers.adidas-group.com/jobs?team=Legal+%2F+SEA&locale=en,"{""team"": [""Legal / SEA""]}",0
+CC-MAIN-2025-33,20250805082430,https://careers.adidas-group.com/jobs?team=Design&locale=en,"{""team"": [""Design""]}",12
+CC-MAIN-2025-33,20250805082914,https://careers.adidas-group.com/jobs?team=Sales&locale=en,"{""team"": [""Sales""]}",50
+CC-MAIN-2025-33,20250805083442,https://careers.adidas-group.com/jobs?team=Administrative&locale=en,"{""team"": [""Administrative""]}",1
+CC-MAIN-2025-38,20250910210708,https://careers.adidas-group.com/jobs?keywords=Retail&locale=en,{},745
+CC-MAIN-2025-43,20251010204731,https://careers.adidas-group.com/jobs/sap-erp-frontend-design-intern-it-young-talent-program-200528?locale=en,{},404
+CC-MAIN-2025-43,20251010205809,https://careers.adidas-group.com/jobs?keywords=retail&locale=en,{},952
+CC-MAIN-2025-43,20251010213538,https://careers.adidas-group.com/jobs/senior-software-engineer-agile-193774?locale=en,{},404
+CC-MAIN-2025-43,20251010213728,https://careers.adidas-group.com/jobs/feed.xml,{},
+CC-MAIN-2025-47,20251117000311,https://careers.adidas-group.com/jobs/cmo-product-creation-it-young-talent-program-enero-204854?locale=en,{},404
+CC-MAIN-2025-47,20251117004626,https://careers.adidas-group.com/jobs?keywords=Ausbildung&locale=de,{},28
+CC-MAIN-2025-47,20251117011343,https://careers.adidas-group.com/jobs?locale=de,{},1271
+CC-MAIN-2025-51,20251213015807,https://careers.adidas-group.com/jobs/software-test-engineering-it-young-talent-program-en-204852?locale=en,{},404
+CC-MAIN-2026-04,20260124013140,https://careers.adidas-group.com/jobs/adidas-design-academy-footwear-focus-2-year-temp-f-169885?locale=en,{},404
+CC-MAIN-2026-04,20260124013813,https://careers.adidas-group.com/jobs?location=&offset=0&keywords=&location_manual=,{},1030
+CC-MAIN-2026-04,20260124022810,https://careers.adidas-group.com/jobs/senior-manager-ctc-merchandising-emerging-markets-150432,{},404
+CC-MAIN-2026-04,20260124013729,https://careers.adidas-group.com/jobs?team=Retail+%28Store%29&locale=de,"{""team"": [""Retail (Store)""]}",221
+CC-MAIN-2026-04,20260124020431,https://careers.adidas-group.com/jobs?team=Retail+%28Store%29&locale=en,"{""team"": [""Retail (Store)""]}",221
+CC-MAIN-2026-08,20260213005931,https://careers.adidas-group.com/jobs/senior-software-engineer-agile-193774?locale=en,{},404
+CC-MAIN-2026-08,20260213010036,https://careers.adidas-group.com/jobs/retail-store-associate-st-louis-217-2016-116062,{},404
+CC-MAIN-2026-08,20260213010152,https://careers.adidas-group.com/jobs/feed.xml,{},
+CC-MAIN-2026-08,20260213013350,https://careers.adidas-group.com/jobs?keywords=Ausbildung&locale=en,{},13
+CC-MAIN-2026-08,20260213015558,https://careers.adidas-group.com/jobs?team=Sales&locale=en,"{""team"": [""Sales""]}",47
+CC-MAIN-2026-12,20260310180636,https://careers.adidas-group.com/jobs/sap-erp-frontend-design-intern-it-young-talent-program-200528?locale=en,{},404
+CC-MAIN-2026-12,20260310180754,https://careers.adidas-group.com/jobs,{},1098
+CC-MAIN-2026-12,20260310192246,https://careers.adidas-group.com/jobs/franchise-manager-184362?locale=en,{},404
+CC-MAIN-2026-12,20260310192756,https://careers.adidas-group.com/jobs?locale=de,{},1099
+CC-MAIN-2026-12,20260310182730,https://careers.adidas-group.com/jobs?team=Digital&locale=en,"{""team"": [""Digital""]}",20
+CC-MAIN-2026-17,20260416210112,https://careers.adidas-group.com/jobs/2026-us-internship-data-analytics-204368?locale=en,{},404
+CC-MAIN-2026-17,20260416210316,https://careers.adidas-group.com/jobs?locale=en,{},1228
+CC-MAIN-2026-17,20260416211532,https://careers.adidas-group.com/jobs?team=Sales&locale=de,"{""team"": [""Sales""]}",48
+CC-MAIN-2026-17,20260416212101,https://careers.adidas-group.com/jobs?team=Design&locale=en,"{""team"": [""Design""]}",26
+CC-MAIN-2026-21,20260511171731,https://careers.adidas-group.com/jobs,{},1206
+CC-MAIN-2026-21,20260511172723,https://careers.adidas-group.com/jobs?keywords=retail&locale=en,{},828
+CC-MAIN-2026-21,20260511173116,https://careers.adidas-group.com/jobs/director-demand-integrated-business-planning-seapac-154944,{},404
+CC-MAIN-2026-21,20260511180416,https://careers.adidas-group.com/jobs/feed.xml,{},
+CC-MAIN-2026-21,20260511184501,https://careers.adidas-group.com/jobs?keywords=Retail&locale=en,{},828
+CC-MAIN-2026-21,20260511190244,https://careers.adidas-group.com/jobs?keywords=retail&locale=de,{},828
+CC-MAIN-2026-21,20260516072910,https://careers.adidas-group.com/jobs/vice-president-direct-to-consumer-141401?utm_campaign=Omnichannel+Community+Building&utm_source=hs_email&utm_medium=email&utm_content=2&_hsenc=p2ANqtz--JtB7bAoJBmLU585NG6VABeaxwFP3DEBHtrS9O2lAm8Zzs2z1LTuepMPJXqoJYYzg4Cj0oLbwxDGvtk0-kP6D43BwC1g&_hsmi=2,{},
+CC-MAIN-2026-21,20260511174854,https://careers.adidas-group.com/jobs?team=Retail+%28Store%29&locale=en,"{""team"": [""Retail (Store)""]}",224
+CC-MAIN-2026-25,20260615194823,https://careers.adidas-group.com/jobs,{},1170
+CC-MAIN-2026-25,20260615203150,https://careers.adidas-group.com/jobs/retail-store-associate-st-louis-217-2016-116062,{},404
+CC-MAIN-2026-25,20260615204210,https://careers.adidas-group.com/jobs?locale=en&utm_source=teamlyzer,{},1170
+CC-MAIN-2026-25,20260615211830,https://careers.adidas-group.com/jobs/training-specialist-ksa-151189,{},404
+CC-MAIN-2026-25,20260615201046,https://careers.adidas-group.com/jobs?team=Digital&locale=en,"{""team"": [""Digital""]}",15
+CC-MAIN-2026-25,20260615205931,https://careers.adidas-group.com/jobs?team=Marketing+%26+Communications&locale=en,"{""team"": [""Marketing & Communications""]}",4
+CC-MAIN-2026-25,20260615211458,https://careers.adidas-group.com/jobs?team=Sales&locale=en,"{""team"": [""Sales""]}",43
+CC-MAIN-2026-30,20260712082311,https://careers.adidas-group.com/jobs/director-demand-integrated-business-planning-seapac-154944,{},404
+CC-MAIN-2026-30,20260715072914,https://careers.adidas-group.com/jobs?keywords=Ausbildung&locale=de,{},5
+CC-MAIN-2026-30,20260715124427,https://careers.adidas-group.com/jobs/sap-erp-frontend-design-intern-it-young-talent-program-200528?locale=en,{},404
+CC-MAIN-2026-30,20260715124605,https://careers.adidas-group.com/jobs,{},1139
+CC-MAIN-2026-30,20260715134622,https://careers.adidas-group.com/jobs?locale=en,{},1141
+CC-MAIN-2026-30,20260719154209,https://careers.adidas-group.com/jobs/senior-manager-ctc-merchandising-emerging-markets-150432,{},404
+CC-MAIN-2026-30,20260719160742,https://careers.adidas-group.com/jobs?locale=de,{},1135
+CC-MAIN-2026-30,20260719150635,https://careers.adidas-group.com/jobs?team=Retail+%28Store%29&locale=de,"{""team"": [""Retail (Store)""]}",210
+CC-MAIN-2026-34,20260809033255,https://careers.adidas-group.com/jobs?keywords=retail&locale=en,{},665
+CC-MAIN-2026-34,20260809041829,https://careers.adidas-group.com/jobs/feed.xml,{},
+CC-MAIN-2026-34,20260811165358,https://careers.adidas-group.com/jobs?location=&offset=0&keywords=&location_manual=,{},960
+CC-MAIN-2026-34,20260815000442,https://careers.adidas-group.com/jobs,{},1022
+CC-MAIN-2026-34,20260811182403,https://careers.adidas-group.com/jobs?team=Design&locale=en,"{""team"": [""Design""]}",10
+CC-MAIN-2026-39,20260908154147,https://careers.adidas-group.com/jobs?locale=en&utm_source=teamlyzer,{},1085
+CC-MAIN-2026-39,20260908155507,https://careers.adidas-group.com/jobs?locale=en,{},1085
+CC-MAIN-2026-39,20260908155653,https://careers.adidas-group.com/jobs?keywords=Ausbildung&locale=en,{},21
+CC-MAIN-2026-39,20260908161308,https://careers.adidas-group.com/jobs?keywords=Retail&locale=en,{},768
+CC-MAIN-2026-39,20260908151634,https://careers.adidas-group.com/jobs?team=Retail+%28Store%29&locale=en,"{""team"": [""Retail (Store)""]}",222
+CC-MAIN-2026-39,20260908161527,https://careers.adidas-group.com/jobs?team=Sales&locale=en,"{""team"": [""Sales""]}",27

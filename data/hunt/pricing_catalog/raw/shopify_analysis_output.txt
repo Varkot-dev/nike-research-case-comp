@@ -1,0 +1,130 @@
+available footwear rows by brand:
+brand
+Nike           3882
+Jordan         1863
+adidas         1834
+New Balance    1255
+ASICS          1085
+On              615
+Saucony         538
+HOKA            520
+Puma            518
+Vans            499
+Converse        331
+Salomon         315
+Brooks          271
+Reebok          108
+Name: count, dtype: int64
+
+markdown>=10% share by brand x age bucket (pooled stores)
+age_bucket    0-3m   3-6m  6-12m   1-2y    2y+
+brand                                         
+ASICS        0.284  0.262  0.238  0.517  0.469
+Brooks       0.297  0.258  0.217  1.000  0.000
+Converse     0.214  0.210  0.462  0.841  0.515
+HOKA         0.135  0.312  0.129  0.451  0.265
+Jordan       0.155  0.421  0.485  0.528  0.506
+New Balance  0.087  0.147  0.346  0.492  0.621
+Nike         0.181  0.341  0.383  0.401  0.387
+On           0.011  0.046  0.066  0.250  0.333
+Puma         0.000  0.301  0.242  0.469  0.532
+Reebok       0.077  0.500  0.706  1.000  0.533
+Salomon      0.031  0.150  0.062  0.367  0.312
+Saucony      0.260  0.221  0.351  0.688  0.394
+Vans         0.113  0.380  0.444  0.326  0.145
+adidas       0.050  0.259  0.180  0.207  0.288
+age_bucket   0-3m  3-6m  6-12m  1-2y  2y+
+brand                                    
+ASICS         345   275    290   143   32
+Brooks        101    31    106    23   10
+Converse       56    62     52    63   66
+HOKA          171    77    116   122   34
+Jordan        548   285    412   362  249
+New Balance   277   293    292   260   95
+Nike          990   747    869   799  442
+On            185   131    166    96   30
+Puma          171   103     91    49   47
+Reebok         13     8     34     8   45
+Salomon       130    60     48    49   16
+Saucony       131   104    154   112   33
+Vans          159    79    108    86   62
+adidas        464   351    345   381  222
+
+LPM coefficients (brand effects relative to adidas, store and age FE):
+                   coef_vs_adidas  se_cluster_store
+brand_ASICS                 0.130             0.071
+brand_Brooks                0.154             0.106
+brand_Converse              0.207             0.104
+brand_HOKA                  0.015             0.090
+brand_Jordan                0.178             0.113
+brand_New Balance           0.117             0.073
+brand_Nike                  0.097             0.079
+brand_On                   -0.101             0.078
+brand_Puma                  0.123             0.080
+brand_Reebok                0.225             0.075
+brand_Salomon              -0.036             0.088
+brand_Saucony               0.169             0.102
+brand_Vans                  0.016             0.063
+
+Fresh (<=180d) markdown>=10% by brand, pooled and store-avg:
+              mean  size
+brand                   
+ASICS        0.274   620
+Brooks       0.288   132
+Converse     0.212   118
+HOKA         0.190   248
+Jordan       0.245   838
+New Balance  0.119   571
+Nike         0.249  1743
+On           0.025   316
+Puma         0.113   274
+Reebok       0.238    21
+Salomon      0.068   190
+Saucony      0.243   235
+Vans         0.202   238
+adidas       0.140   815
+brand                           ASICS  Jordan  New Balance  Nike  adidas
+store                                                                   
+bdgastore.com                     NaN    0.22          NaN  0.49     NaN
+cncpts.com                       0.00    0.00         0.00  0.00    0.00
+extrabutterny.com                0.16    0.00         0.00  0.00    0.00
+kith.com                         0.00    0.00         0.00  0.00    0.00
+pacersrunning.com                0.40     NaN         0.14  0.16    0.00
+shoepalace.com                    NaN    0.16          NaN  0.18    0.00
+sneakerpolitics.com              0.71    0.46         1.00  0.53    0.53
+undefeated.com                   0.38    0.52         0.62  0.39    0.59
+www.apbstore.com                 0.00    0.00         0.00  0.00    0.00
+www.dtlr.com                     0.13    0.57         0.23  0.48    0.46
+www.featuresneakerboutique.com   0.34    0.03         0.61  0.42    0.20
+www.lapstoneandhammer.com        0.00    0.00         0.07  0.00    0.00
+www.notre-shop.com               0.29    0.55         0.00  0.12    0.00
+www.sneakersnstuff.com            NaN    0.50         0.04  0.74    0.10
+www.socialstatuspgh.com           NaN    0.00         0.00  0.00    0.00
+
+Running shoes only:
+               n   md10  fresh_md10
+brand                              
+ASICS        997  0.297       0.277
+Brooks       235  0.357       0.365
+Converse       2  0.000       0.000
+HOKA         435  0.230       0.166
+Jordan        20  0.350       0.111
+New Balance  346  0.286       0.154
+Nike         954  0.350       0.296
+On           613  0.098       0.025
+Puma          25  0.040       0.000
+Reebok         2  1.000         NaN
+Salomon       75  0.240       0.000
+Saucony      326  0.420       0.317
+adidas       507  0.112       0.126
+              mean  size
+brand                   
+ASICS        0.301   239
+Brooks       0.362   232
+HOKA         0.218   165
+New Balance  0.216   190
+Nike         0.118   127
+On           0.011    95
+Puma         0.000    16
+Saucony      0.326   141
+adidas       0.000    46

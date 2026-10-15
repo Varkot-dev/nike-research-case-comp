@@ -1,0 +1,105 @@
+== C1. base rates, all drawdown events (deduped), consumer universe ==
+  all events x6_^GSPC                          N=295 cos=51 pos=136/295  46% W[ 40, 52] B[ 42, 51] med=  -5 medCI[ -10,  +1]
+  all events x12_^GSPC                         N=295 cos=51 pos=124/295  42% W[ 37, 48] B[ 36, 49] med= -10 medCI[ -17,  -1]
+  all events x12_XRT                           N=295 cos=51 pos=141/295  48% W[ 42, 53] B[ 41, 56] med=  -3 medCI[ -11,  +5]
+
+== C2. Nike path & next GM up, split by cost-relief window (cotton 2012-13, freight 2023-24) ==
+  GM up in cost-relief window x6_^GSPC         N= 13 cos=12 pos=  6/13   46% W[ 23, 71] B[ 23, 71] med= -20 medCI[ -44, +27]
+  GM up outside windows x6_^GSPC               N= 20 cos=16 pos=  7/20   35% W[ 18, 57] B[ 16, 53] med= -14 medCI[ -26,  +7]
+  GM up in cost-relief window x12_^GSPC        N= 13 cos=12 pos=  6/13   46% W[ 23, 71] B[ 20, 75] med=  -1 medCI[ -28, +50]
+  GM up outside windows x12_^GSPC              N= 20 cos=16 pos=  8/20   40% W[ 22, 61] B[ 19, 59] med= -19 medCI[ -25, +20]
+  GM up in cost-relief window x6_XRT           N= 13 cos=12 pos=  6/13   46% W[ 23, 71] B[ 23, 71] med= -19 medCI[ -45, +26]
+  GM up outside windows x6_XRT                 N= 20 cos=16 pos=  7/20   35% W[ 18, 57] B[ 16, 53] med=  -9 medCI[ -20,  +5]
+  GM up in cost-relief window x12_XRT          N= 13 cos=12 pos=  7/13   54% W[ 29, 77] B[ 25, 83] med=  +0 medCI[ -24, +60]
+  GM up outside windows x12_XRT                N= 20 cos=16 pos=  8/20   40% W[ 22, 61] B[ 19, 59] med=  -6 medCI[ -23, +34]
+
+== C3. magnitude match: next-Q revenue between -14% and -5% (Nike guide about -8% to -11%) ==
+  mag match all x6_^GSPC                       N= 41 cos=22 pos= 11/41   27% W[ 16, 42] B[ 12, 43] med= -22 medCI[ -25,  -7]
+  mag match next GM up x6_^GSPC                N= 20 cos=15 pos=  7/20   35% W[ 18, 57] B[ 13, 55] med= -16 medCI[ -23,  +7]
+  mag match next GM down x6_^GSPC              N= 21 cos=14 pos=  4/21   19% W[  8, 40] B[  5, 37] med= -25 medCI[ -33, -11]
+  mag match all x12_^GSPC                      N= 41 cos=22 pos= 12/41   29% W[ 18, 44] B[ 16, 42] med= -25 medCI[ -37, -11]
+  mag match next GM up x12_^GSPC               N= 20 cos=15 pos=  8/20   40% W[ 22, 61] B[ 19, 61] med= -13 medCI[ -24, +28]
+  mag match next GM down x12_^GSPC             N= 21 cos=14 pos=  4/21   19% W[  8, 40] B[  5, 36] med= -34 medCI[ -46, -21]
+  mag match all x12_XRT                        N= 41 cos=22 pos= 13/41   32% W[ 20, 47] B[ 18, 47] med= -11 medCI[ -26,  -1]
+  mag match next GM up x12_XRT                 N= 20 cos=15 pos=  9/20   45% W[ 26, 66] B[ 24, 67] med=  -1 medCI[ -11, +35]
+  mag match next GM down x12_XRT               N= 21 cos=14 pos=  4/21   19% W[  8, 40] B[  5, 36] med= -26 medCI[ -46,  -9]
+
+== C4. two-quarter persistence: next GM up AND second-next GM up ==
+  nGM+ & n2GM+ x6_^GSPC                        N= 24 cos=16 pos= 11/24   46% W[ 28, 65] B[ 25, 66] med=  -9 medCI[ -20, +15]
+  nGM+ & n2GM- x6_^GSPC                        N=  9 cos= 9 pos=  2/9    22% W[  6, 55] B[  0, 56] med= -34 medCI[ -47, +36]
+  nGM+ & n2GM+ x12_^GSPC                       N= 24 cos=16 pos= 12/24   50% W[ 31, 69] B[ 29, 71] med=  +1 medCI[ -24, +28]
+  nGM+ & n2GM- x12_^GSPC                       N=  9 cos= 9 pos=  2/9    22% W[  6, 55] B[  0, 56] med= -22 medCI[ -59, +16]
+
+== C5. how often did current GM direction persist into the next quarter (Nike path)? ==
+  current GM up -> next GM up: 23/30
+  current GM down -> next GM up: 10/36
+
+== C6. every Nike-path GM-up-next case (deduped), sorted ==
+  ANF   2016-05-02 dd  -65 rev  -0.6 next  -3.4 GMnow   -14 GMnext  +409 OMnext   +470 cost=n x6  -47 x12  -67 x12xrt  -50 min12  -59
+  CATO  2018-12-03 dd  -65 rev  -0.1 next  -9.7 GMnow   +67 GMnext   +23 OMnext     +0 cost=n x6  -13 x12  +20 x12xrt  +36 min12  -18
+  CATO  2023-11-01 dd  -67 rev  -7.1 next -10.4 GMnow  +261 GMnext  +319 OMnext   -138 cost=Y x6  -48 x12  -30 x12xrt  -25 min12  -33
+  COTY  2019-12-02 dd  -65 rev  -4.4 next  -6.6 GMnow  +182 GMnext  +145 OMnext  +3355 cost=n x6  -60 x12  -57 x12xrt  -79 min12  -77
+  CPRI  2017-02-07 dd  -63 rev  -3.2 next -11.2 GMnow    +3 GMnext    +4 OMnext  -2436 cost=n x6  +15 x12  +63 x12xrt  +70 min12  -10
+  CROX  2016-08-03 dd  -72 rev  -6.3 next -10.3 GMnow  -254 GMnext  +571 OMnext   +707 cost=n x6  -19 x12  -22 x12xrt   -1 min12  -30
+  DBI   2024-11-26 dd  -76 rev  -1.2 next  -5.4 GMnow   -77 GMnext   +81 OMnext   +115 cost=n x6  -22 x12  -18 x12xrt   -8 min12  -52
+  DLTH  2025-09-02 dd  -89 rev  -7.0 next  -9.6 GMnow  +243 GMnext  +157 OMnext   +967 cost=n x6  -12 x12  +33 x12xrt  +50 min12  -13
+  EL    2025-02-03 dd  -78 rev  -6.4 next  -9.9 GMnow  +307 GMnext  +305 OMnext   -486 cost=n x6   +7 x12  +28 x12xrt  +30 min12  -39
+  FOSL  2018-09-04 dd  -83 rev  -3.4 next -11.6 GMnow  +310 GMnext  +719 OMnext   +379 cost=n x6  -27 x12  -42 x12xrt  -17 min12  -59
+  FOSL  2021-01-04 dd  -83 rev -19.3 next -25.8 GMnow  +113 GMnext  +590 OMnext   +360 cost=n x6  +40 x12   -3 x12xrt  -18 min12   +0
+  FOSL  2024-02-23 dd  -95 rev -15.6 next -21.6 GMnow   +44 GMnext  +293 OMnext     +2 cost=Y x6   +3 x12  +24 x12xrt  +39 min12  -28
+  FOSL  2024-11-01 dd  -95 rev -16.4 next -18.7 GMnow  +244 GMnext  +632 OMnext    +94 cost=n x6  -14 x12  +41 x12xrt  +52 min12  -30
+  FOSL  2025-05-01 dd  -96 rev  -8.5 next -15.2 GMnow  +892 GMnext  +487 OMnext  +1693 cost=n x6  +74 x12 +279 x12xrt +283 min12   +0
+  GAP   2023-06-01 dd  -78 rev  -5.8 next  -8.0 GMnow  +554 GMnext  +309 OMnext   +371 cost=Y x6 +148 x12 +250 x12xrt +237 min12   +0
+  KSS   2024-09-03 dd  -68 rev  -4.2 next  -8.5 GMnow   +54 GMnext   +34 OMnext   -123 cost=n x6  -45 x12  -31 x12xrt  -29 min12  -68
+  LE    2019-04-01 dd  -69 rev  -1.6 next -12.5 GMnow    +3 GMnext  +131 OMnext   -265 cost=n x6  -37 x12  -59 x12xrt  -36 min12  -73
+  LE    2023-08-31 dd  -82 rev  -7.9 next -12.5 GMnow  +215 GMnext  +699 OMnext  -3194 cost=Y x6  +13 x12  +76 x12xrt  +81 min12  -21
+  LE    2025-06-02 dd  -81 rev  -0.4 next  -5.6 GMnow  -249 GMnext    +1 OMnext    +64 cost=n x6  +86 x12  +17 x12xrt  +34 min12   -4
+  M     2023-05-01 dd  -62 rev  -4.6 next  -7.0 GMnow  -240 GMnext   +30 OMnext   -360 cost=Y x6  -23 x12   -1 x12xrt   +0 min12  -33
+  NWL   2019-02-01 dd  -61 rev  -7.7 next -37.5 GMnow   +81 GMnext +1294 OMnext   -303 cost=n x6  -34 x12  -22 x12xrt   -3 min12  -35
+  PLCE  2024-02-01 dd  -81 rev  -5.7 next -16.7 GMnow  -101 GMnext  +463 OMnext   -110 cost=Y x6  -76 x12  -79 x12xrt  -71 min12  -78
+  PLCE  2024-09-03 dd  -95 rev  -7.5 next -18.8 GMnow  +958 GMnext  +171 OMnext   -186 cost=n x6  +36 x12  -25 x12xrt  -23 min12  -31
+  PTON  2024-11-01 dd  -96 rev  -1.6 next  -9.4 GMnow  +392 GMnext  +698 OMnext  +1835 cost=n x6   -5 x12  -19 x12xrt   -9 min12  -31
+  SFIX  2023-08-01 dd  -95 rev -19.9 next -22.0 GMnow   -10 GMnext  +333 OMnext  +1216 cost=Y x6  -40 x12  -26 x12xrt  -23 min12  -58
+  UAA   2023-10-27 dd  -76 rev  -0.5 next  -6.0 GMnow  +264 GMnext  +101 OMnext   -131 cost=Y x6  -20 x12   -9 x12xrt   -1 min12   -3
+  UAA   2024-05-01 dd  -76 rev  -4.8 next -10.1 GMnow  +172 GMnext  +110 OMnext  -2702 cost=Y x6  +15 x12  -24 x12xrt  -11 min12  -26
+  UAA   2025-02-03 dd  -69 rev  -5.7 next -11.4 GMnow  +235 GMnext  +165 OMnext   -584 cost=n x6  -24 x12  -40 x12xrt  -37 min12  -49
+  VFC   2023-10-31 dd  -85 rev  -1.5 next -16.2 GMnow   -11 GMnext   +26 OMnext  -1570 cost=Y x6  -35 x12  +16 x12xrt  +24 min12  -18
+  VNCE  2023-05-01 dd  -74 rev  -7.8 next -18.3 GMnow  -440 GMnext   +73 OMnext   +303 cost=Y x6  -83 x12  -90 x12xrt  -89 min12  -83
+  VRA   2018-03-14 dd  -68 rev  -2.1 next  -9.9 GMnow   +52 GMnext  +133 OMnext   +279 cost=n x6  +72 x12  +46 x12xrt  +48 min12  -15
+  VRA   2023-05-01 dd  -69 rev  -1.7 next  -4.2 GMnow -1009 GMnext  +151 OMnext   +159 cost=Y x6  +40 x12   +4 x12xrt   +6 min12  -11
+  WWW   2024-02-01 dd  -81 rev -20.8 next -34.1 GMnow  +293 GMnext  +651 OMnext   -834 cost=Y x6  +59 x12 +148 x12xrt +155 min12   -4
+
+== C7. every Nike-path GM-down-next case ==
+  ANF   2014-11-07 rev  -5.8 next -11.8 GMnow  -179 GMnext   -79 x6  -29 x12  -25
+  ANF   2016-11-01 rev  -4.2 next  -6.5 GMnow  -143 GMnext  -156 x6  -25 x12  -34
+  BKE   2016-10-06 rev -10.1 next -14.6 GMnow  -242 GMnext  -136 x6  -26 x12  -30
+  CAL   2025-02-03 rev  -2.8 next  -6.8 GMnow   -55 GMnext  -152 x6  -24 x12  -39
+  COTY  2019-02-01 rev  -4.8 next -10.4 GMnow   +76 GMnext   -69 x6  +37 x12  +26
+  COTY  2025-04-15 rev  -3.3 next  -6.2 GMnow  +166 GMnext   -72 x6  -32 x12  -82
+  CPRI  2025-02-03 rev -11.6 next -15.4 GMnow   -64 GMnext  -175 x6  -29 x12  -32
+  CROX  2015-04-01 rev  -9.7 next -16.1 GMnow  -793 GMnext  -143 x6  +15 x12  -19
+  DBI   2023-05-01 rev  -7.5 next -10.7 GMnow  -172 GMnext  -116 x6  +31 x12   -5
+  DLTH  2023-08-31 rev  -1.7 next  -6.1 GMnow  -204 GMnext  -207 x6  -38 x12  -61
+  DLTH  2024-12-05 rev  -8.1 next -12.0 GMnow  +205 GMnext   -86 x6  -44 x12  -25
+  DXLG  2021-01-04 rev -20.1 next -23.7 GMnow  -462 GMnext  -395 x6 +1257 x12 +2237
+  FOSL  2015-10-01 rev  -4.4 next -13.8 GMnow  -212 GMnext  -275 x6  -25 x12  -62
+  FOSL  2016-04-01 rev  -6.8 next  -9.0 GMnow  -380 GMnext  -248 x6  -39 x12  -74
+  FOSL  2017-02-15 rev  -3.4 next -11.8 GMnow  -197 GMnext  -303 x6  -65 x12  -37
+  FOSL  2023-08-01 rev -13.3 next -21.1 GMnow  -289 GMnext  -336 x6  -63 x12  -76
+  HAS   2023-10-26 rev -10.3 next -23.2 GMnow  +211 GMnext  -994 x6  +16 x12   +4
+  LAKE  2016-08-01 rev -17.9 next -24.4 GMnow  -412 GMnext  -146 x6   +7 x12  +45
+  LE    2022-06-01 rev  -5.5 next  -8.6 GMnow  -344 GMnext  -527 x6   +4 x12  -28
+  M     2017-05-01 rev  -4.0 next  -7.5 GMnow   +90 GMnext  -101 x6  -40 x12   +2
+  M     2019-09-03 rev  -0.5 next  -4.3 GMnow  -163 GMnext   -35 x6  -11 x12  -70
+  MAT   2018-06-01 rev  -3.7 next -13.7 GMnow  -700 GMnext -1091 x6  -13 x12  -39
+  NKE   2025-04-01 rev  -9.3 next -12.0 GMnow  -326 GMnext  -442 x6  -10 x12  -46
+  NWL   2025-08-01 rev  -4.8 next  -7.2 GMnow  +102 GMnext   -77 x6  -19 x12  +21
+  OXM   2025-06-12 rev  -1.3 next  -4.0 GMnow   -67 GMnext  -169 x6  -38 x12  -31
+  PLCE  2025-09-02 rev  -6.8 next -13.0 GMnow   -99 GMnext  -237 x6  -30 x12  -69
+  TLYS  2022-06-01 rev -10.7 next -16.7 GMnow  -355 GMnext  -612 x6  +16 x12  -13
+  VFC   2023-05-01 rev  -3.0 next  -7.8 GMnow  -233 GMnext  -111 x6  -22 x12  -64
+  VRA   2016-12-07 rev  -0.0 next -12.5 GMnow   -30 GMnext  -249 x6  -43 x12  -29
+  VRA   2017-08-30 rev  -5.7 next  -9.9 GMnow  -105 GMnext  -162 x6   -0 x12  +41
+  VRA   2021-01-04 rev  -2.1 next  -9.3 GMnow  +591 GMnext   -19 x6  +35 x12  -17
+  VRA   2024-10-01 rev -13.5 next -29.9 GMnow  -533 GMnext   -67 x6  -54 x12  -75
+  WWW   2023-05-01 rev  -2.5 next -17.4 GMnow  -308 GMnext  -437 x6  -49 x12  -53

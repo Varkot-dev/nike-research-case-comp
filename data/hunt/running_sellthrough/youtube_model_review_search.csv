@@ -1,0 +1,43 @@
+query,filter,estimated_results,n_videos_parsed,median_views_top,sum_views_top
+nike pegasus 42 review,all_time,171117,20,17216.0,753675.0
+nike pegasus 42 review,last_year,3470,20,16575.0,747780.0
+nike pegasus 41 review,all_time,159527,20,78500.0,2058293.0
+nike pegasus 41 review,last_year,1394,19,6891.0,466292.0
+nike vomero 18 review,all_time,169890,20,51658.0,1775219.0
+nike vomero 18 review,last_year,28544,20,10071.0,431204.0
+nike vomero plus review,all_time,167523,20,32240.0,1818355.0
+nike vomero plus review,last_year,121139,20,8964.0,405161.0
+nike pegasus premium review,all_time,320648,20,32964.0,1524293.0
+nike pegasus premium review,last_year,2295,20,3344.0,302266.0
+nike structure 26 review,all_time,277470,20,15163.0,277772.0
+nike structure 26 review,last_year,1124,19,4309.0,228059.0
+nike invincible 3 review,all_time,860910,20,75756.0,2439063.0
+nike invincible 3 review,last_year,669,14,857.0,754064.0
+hoka clifton 10 review,all_time,292539,20,29864.0,864025.0
+hoka clifton 10 review,last_year,2485,20,10586.0,447929.0
+hoka clifton 11 review,all_time,103740,20,8992.0,233572.0
+hoka clifton 11 review,last_year,1449,20,8992.0,233572.0
+hoka bondi 9 review,all_time,228664,20,44023.0,1320185.0
+hoka bondi 9 review,last_year,2080,20,10777.0,343863.0
+asics novablast 5 review,all_time,81321,20,44813.0,1581744.0
+asics novablast 5 review,last_year,56139,20,8458.0,540587.0
+asics novablast 6 review,all_time,67585,20,20691.0,903776.0
+asics novablast 6 review,last_year,29670,20,22254.0,936316.0
+asics gel nimbus 28 review,all_time,223033,20,17065.0,6305122.0
+asics gel nimbus 28 review,last_year,6397,20,19734.0,6353122.0
+brooks ghost 17 review,all_time,284778,20,19179.0,1165132.0
+brooks ghost 17 review,last_year,1312,20,14687.0,815974.0
+brooks ghost 18 review,all_time,338711,20,8071.0,393680.0
+brooks ghost 18 review,last_year,1731,20,8071.0,393517.0
+brooks glycerin 22 review,all_time,39818,20,15507.0,340293.0
+brooks glycerin 22 review,last_year,870,18,8320.0,281777.0
+saucony ride 18 review,all_time,39326,20,13248.0,666979.0
+saucony ride 18 review,last_year,557,19,10762.0,644429.0
+saucony triumph 22 review,all_time,30304,20,10239.0,332020.0
+saucony triumph 22 review,last_year,268,15,2120.0,428843.0
+new balance 880v15 review,all_time,1051,20,17317.0,1008644.0
+new balance 880v15 review,last_year,285,20,11103.0,490577.0
+on cloudmonster 2 review,all_time,45304,20,31938.0,911674.0
+on cloudmonster 2 review,last_year,1369,18,14287.0,753923.0
+adidas adizero evo sl review,all_time,434940,20,88731.0,2946361.0
+adidas adizero evo sl review,last_year,127462,20,26705.0,1023707.0

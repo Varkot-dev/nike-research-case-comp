@@ -1,0 +1,175 @@
+company,period_end,metric,segment,value,prior,yoy_reported_pct,unit,source
+deckers,2018-12-31,net_sales,UGG,761.0,734.7,3.6,USD m,https://www.sec.gov/Archives/edgar/data/910521/000114420419004062/tv512140_ex99-1.htm
+deckers,2018-12-31,net_sales,US (domestic),573.0,501.7,14.2,USD m,https://www.sec.gov/Archives/edgar/data/910521/000114420419004062/tv512140_ex99-1.htm
+deckers,2018-12-31,net_sales,International,300.8,308.8,-2.6,USD m,https://www.sec.gov/Archives/edgar/data/910521/000114420419004062/tv512140_ex99-1.htm
+deckers,2018-12-31,net_sales,DTC,391.6,381.7,2.6,USD m,https://www.sec.gov/Archives/edgar/data/910521/000114420419004062/tv512140_ex99-1.htm
+deckers,2018-12-31,net_sales,Wholesale,482.2,428.8,12.5,USD m,https://www.sec.gov/Archives/edgar/data/910521/000114420419004062/tv512140_ex99-1.htm
+deckers,2019-03-31,net_sales,UGG,239.0,257.5,-7.2,USD m,https://www.sec.gov/Archives/edgar/data/910521/000114420419027986/tv522355_ex99-1.htm
+deckers,2019-03-31,net_sales,US (domestic),252.0,249.0,1.2,USD m,https://www.sec.gov/Archives/edgar/data/910521/000114420419027986/tv522355_ex99-1.htm
+deckers,2019-03-31,net_sales,International,142.1,151.7,-6.3,USD m,https://www.sec.gov/Archives/edgar/data/910521/000114420419027986/tv522355_ex99-1.htm
+deckers,2019-03-31,net_sales,DTC,156.6,177.6,-11.8,USD m,https://www.sec.gov/Archives/edgar/data/910521/000114420419027986/tv522355_ex99-1.htm
+deckers,2019-03-31,net_sales,Wholesale,237.5,223.1,6.4,USD m,https://www.sec.gov/Archives/edgar/data/910521/000114420419027986/tv522355_ex99-1.htm
+deckers,2019-06-30,net_sales,UGG,138.5,136.5,1.5,USD m,https://www.sec.gov/Archives/edgar/data/910521/000114420419036011/tv525917_ex99-1.htm
+deckers,2019-06-30,net_sales,US (domestic),167.3,141.7,18.1,USD m,https://www.sec.gov/Archives/edgar/data/910521/000114420419036011/tv525917_ex99-1.htm
+deckers,2019-06-30,net_sales,International,109.5,108.9,0.6,USD m,https://www.sec.gov/Archives/edgar/data/910521/000114420419036011/tv525917_ex99-1.htm
+deckers,2019-06-30,net_sales,DTC,80.3,73.0,10.0,USD m,https://www.sec.gov/Archives/edgar/data/910521/000114420419036011/tv525917_ex99-1.htm
+deckers,2019-06-30,net_sales,Wholesale,196.6,177.6,10.7,USD m,https://www.sec.gov/Archives/edgar/data/910521/000114420419036011/tv525917_ex99-1.htm
+deckers,2019-09-30,net_sales,UGG,404.9,396.3,2.2,USD m,https://www.sec.gov/Archives/edgar/data/910521/000110465919056121/tm1920919d1_ex99-1.htm
+deckers,2019-09-30,net_sales,US (domestic),358.0,311.6,14.9,USD m,https://www.sec.gov/Archives/edgar/data/910521/000110465919056121/tm1920919d1_ex99-1.htm
+deckers,2019-09-30,net_sales,International,184.2,190.3,-3.2,USD m,https://www.sec.gov/Archives/edgar/data/910521/000110465919056121/tm1920919d1_ex99-1.htm
+deckers,2019-09-30,net_sales,DTC,98.7,93.9,5.1,USD m,https://www.sec.gov/Archives/edgar/data/910521/000110465919056121/tm1920919d1_ex99-1.htm
+deckers,2019-09-30,net_sales,Wholesale,443.5,408.0,8.7,USD m,https://www.sec.gov/Archives/edgar/data/910521/000110465919056121/tm1920919d1_ex99-1.htm
+deckers,2019-12-31,net_sales,UGG,781.1,761.0,2.6,USD m,https://www.sec.gov/Archives/edgar/data/910521/000119312520019627/d854829dex991.htm
+deckers,2019-12-31,net_sales,US (domestic),645.7,573.0,12.7,USD m,https://www.sec.gov/Archives/edgar/data/910521/000119312520019627/d854829dex991.htm
+deckers,2019-12-31,net_sales,International,293.1,300.8,-2.6,USD m,https://www.sec.gov/Archives/edgar/data/910521/000119312520019627/d854829dex991.htm
+deckers,2019-12-31,net_sales,DTC,413.7,391.6,5.6,USD m,https://www.sec.gov/Archives/edgar/data/910521/000119312520019627/d854829dex991.htm
+deckers,2019-12-31,net_sales,Wholesale,525.1,482.2,8.9,USD m,https://www.sec.gov/Archives/edgar/data/910521/000119312520019627/d854829dex991.htm
+deckers,2020-03-31,net_sales,UGG,196.3,239.0,-17.9,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052120000012/deckexhibit991pressrel.htm
+deckers,2020-03-31,net_sales,US (domestic),230.8,252.0,-8.4,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052120000012/deckexhibit991pressrel.htm
+deckers,2020-03-31,net_sales,International,144.1,142.1,1.4,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052120000012/deckexhibit991pressrel.htm
+deckers,2020-03-31,net_sales,DTC,144.2,156.6,-7.9,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052120000012/deckexhibit991pressrel.htm
+deckers,2020-03-31,net_sales,Wholesale,230.7,237.5,-2.9,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052120000012/deckexhibit991pressrel.htm
+deckers,2020-06-30,net_sales,UGG,124.7,138.5,-10.0,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052120000027/deckexhibit991pressrel.htm
+deckers,2020-06-30,net_sales,US (domestic),184.3,167.3,10.2,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052120000027/deckexhibit991pressrel.htm
+deckers,2020-06-30,net_sales,International,98.9,109.5,-9.7,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052120000027/deckexhibit991pressrel.htm
+deckers,2020-06-30,net_sales,DTC,139.8,80.3,74.2,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052120000027/deckexhibit991pressrel.htm
+deckers,2020-06-30,net_sales,Wholesale,143.3,196.6,-27.1,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052120000027/deckexhibit991pressrel.htm
+deckers,2020-09-30,net_sales,UGG,415.1,404.9,2.5,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052120000039/deckex991pressrelease-.htm
+deckers,2020-09-30,net_sales,US (domestic),427.4,358.0,19.4,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052120000039/deckex991pressrelease-.htm
+deckers,2020-09-30,net_sales,International,196.1,184.2,6.4,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052120000039/deckex991pressrelease-.htm
+deckers,2020-09-30,net_sales,DTC,171.9,98.7,74.2,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052120000039/deckex991pressrelease-.htm
+deckers,2020-09-30,net_sales,Wholesale,451.6,443.5,1.8,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052120000039/deckex991pressrelease-.htm
+deckers,2020-12-31,net_sales,UGG,876.8,781.1,12.2,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052121000008/deckex991pressrelease-q3fy.htm
+deckers,2020-12-31,net_sales,US (domestic),770.5,645.7,19.3,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052121000008/deckex991pressrelease-q3fy.htm
+deckers,2020-12-31,net_sales,International,307.2,293.1,4.8,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052121000008/deckex991pressrelease-q3fy.htm
+deckers,2020-12-31,net_sales,DTC,519.9,413.7,25.7,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052121000008/deckex991pressrelease-q3fy.htm
+deckers,2020-12-31,net_sales,Wholesale,557.9,525.1,6.2,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052121000008/deckex991pressrelease-q3fy.htm
+deckers,2021-03-31,net_sales,UGG,300.5,196.3,53.1,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052121000014/deckex991pressrelease-q4fy.htm
+deckers,2021-03-31,net_sales,US (domestic),379.2,230.8,64.3,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052121000014/deckex991pressrelease-q4fy.htm
+deckers,2021-03-31,net_sales,International,181.9,144.1,26.2,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052121000014/deckex991pressrelease-q4fy.htm
+deckers,2021-03-31,net_sales,DTC,235.1,144.2,63.0,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052121000014/deckex991pressrelease-q4fy.htm
+deckers,2021-03-31,net_sales,Wholesale,326.1,230.7,41.4,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052121000014/deckex991pressrelease-q4fy.htm
+deckers,2021-06-30,net_sales,UGG,213.0,124.7,70.8,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052121000025/deckex991pressrelease-6302.htm
+deckers,2021-06-30,net_sales,US (domestic),336.1,184.3,82.3,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052121000025/deckex991pressrelease-6302.htm
+deckers,2021-06-30,net_sales,International,168.6,98.9,70.5,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052121000025/deckex991pressrelease-6302.htm
+deckers,2021-06-30,net_sales,DTC,160.4,139.8,14.7,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052121000025/deckex991pressrelease-6302.htm
+deckers,2021-06-30,net_sales,Wholesale,344.3,143.3,140.2,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052121000025/deckex991pressrelease-6302.htm
+deckers,2021-09-30,net_sales,HOKA,210.4,143.1,47.0,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052121000036/deckex991pressrelease-9302.htm
+deckers,2021-09-30,net_sales,UGG,448.4,415.1,8.0,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052121000036/deckex991pressrelease-9302.htm
+deckers,2021-09-30,net_sales,US (domestic),514.6,427.4,20.4,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052121000036/deckex991pressrelease-9302.htm
+deckers,2021-09-30,net_sales,International,207.3,196.1,5.7,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052121000036/deckex991pressrelease-9302.htm
+deckers,2021-09-30,net_sales,DTC,176.7,171.9,2.8,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052121000036/deckex991pressrelease-9302.htm
+deckers,2021-09-30,net_sales,Wholesale,545.2,451.6,20.7,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052121000036/deckex991pressrelease-9302.htm
+deckers,2021-12-31,net_sales,HOKA,184.6,141.6,30.3,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052122000004/deckex991pressrelease-1231.htm
+deckers,2021-12-31,net_sales,UGG,945.9,876.8,7.9,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052122000004/deckex991pressrelease-1231.htm
+deckers,2021-12-31,net_sales,US (domestic),796.1,770.5,3.3,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052122000004/deckex991pressrelease-1231.htm
+deckers,2021-12-31,net_sales,International,391.6,307.2,27.5,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052122000004/deckex991pressrelease-1231.htm
+deckers,2021-12-31,net_sales,DTC,589.4,519.9,13.4,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052122000004/deckex991pressrelease-1231.htm
+deckers,2021-12-31,net_sales,Wholesale,598.4,557.9,7.3,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052122000004/deckex991pressrelease-1231.htm
+deckers,2022-03-31,net_sales,HOKA,283.5,177.5,59.7,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052122000013/deckex991pressrelease-3312.htm
+deckers,2022-03-31,net_sales,UGG,374.6,300.5,24.7,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052122000013/deckex991pressrelease-3312.htm
+deckers,2022-03-31,net_sales,US (domestic),521.0,379.2,37.4,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052122000013/deckex991pressrelease-3312.htm
+deckers,2022-03-31,net_sales,International,215.1,181.9,18.2,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052122000013/deckex991pressrelease-3312.htm
+deckers,2022-03-31,net_sales,DTC,287.2,235.1,22.2,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052122000013/deckex991pressrelease-3312.htm
+deckers,2022-03-31,net_sales,Wholesale,448.8,326.1,37.6,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052122000013/deckex991pressrelease-3312.htm
+deckers,2022-06-30,net_sales,HOKA,330.0,213.1,54.9,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052122000029/deckex991pressrelease-6302.htm
+deckers,2022-06-30,net_sales,UGG,207.9,213.0,-2.4,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052122000029/deckex991pressrelease-6302.htm
+deckers,2022-06-30,net_sales,US (domestic),384.5,336.1,14.4,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052122000029/deckex991pressrelease-6302.htm
+deckers,2022-06-30,net_sales,International,229.9,168.6,36.4,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052122000029/deckex991pressrelease-6302.htm
+deckers,2022-06-30,net_sales,DTC,185.1,160.4,15.4,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052122000029/deckex991pressrelease-6302.htm
+deckers,2022-06-30,net_sales,Wholesale,429.4,344.3,24.7,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052122000029/deckex991pressrelease-6302.htm
+deckers,2022-09-30,net_sales,HOKA,333.0,210.4,58.3,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052122000036/deckex991pressrelease-9302.htm
+deckers,2022-09-30,net_sales,UGG,476.5,448.4,6.3,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052122000036/deckex991pressrelease-9302.htm
+deckers,2022-09-30,net_sales,US (domestic),617.7,514.6,20.0,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052122000036/deckex991pressrelease-9302.htm
+deckers,2022-09-30,net_sales,International,257.9,207.3,24.4,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052122000036/deckex991pressrelease-9302.htm
+deckers,2022-09-30,net_sales,DTC,239.1,176.7,35.3,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052122000036/deckex991pressrelease-9302.htm
+deckers,2022-09-30,net_sales,Wholesale,636.5,545.2,16.7,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052122000036/deckex991pressrelease-9302.htm
+deckers,2022-12-31,net_sales,HOKA,352.1,184.6,90.8,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052123000002/deckex991pressrelease-1231.htm
+deckers,2022-12-31,net_sales,UGG,930.4,945.9,-1.6,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052123000002/deckex991pressrelease-1231.htm
+deckers,2022-12-31,net_sales,US (domestic),906.8,796.1,13.9,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052123000002/deckex991pressrelease-1231.htm
+deckers,2022-12-31,net_sales,International,438.8,391.6,12.1,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052123000002/deckex991pressrelease-1231.htm
+deckers,2022-12-31,net_sales,DTC,699.3,589.4,18.7,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052123000002/deckex991pressrelease-1231.htm
+deckers,2022-12-31,net_sales,Wholesale,646.3,598.4,8.0,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052123000002/deckex991pressrelease-1231.htm
+deckers,2023-03-31,net_sales,HOKA,397.7,283.5,40.3,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052123000014/deckex991pressrelease-3312.htm
+deckers,2023-03-31,net_sales,UGG,314.3,374.6,-16.1,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052123000014/deckex991pressrelease-3312.htm
+deckers,2023-03-31,net_sales,US (domestic),542.4,521.0,4.1,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052123000014/deckex991pressrelease-3312.htm
+deckers,2023-03-31,net_sales,International,249.1,215.1,15.8,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052123000014/deckex991pressrelease-3312.htm
+deckers,2023-03-31,net_sales,DTC,343.1,287.2,19.5,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052123000014/deckex991pressrelease-3312.htm
+deckers,2023-03-31,net_sales,Wholesale,2161.0,1937.0,11.6,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052123000014/deckex991pressrelease-3312.htm
+deckers,2023-06-30,net_sales,HOKA,420.5,330.0,27.4,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052123000032/deckex991pressrelease-6302.htm
+deckers,2023-06-30,net_sales,UGG,195.5,207.9,-6.0,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052123000032/deckex991pressrelease-6302.htm
+deckers,2023-06-30,net_sales,US (domestic),419.5,384.5,9.1,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052123000032/deckex991pressrelease-6302.htm
+deckers,2023-06-30,net_sales,International,256.3,229.9,11.4,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052123000032/deckex991pressrelease-6302.htm
+deckers,2023-06-30,net_sales,DTC,250.4,185.1,35.3,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052123000032/deckex991pressrelease-6302.htm
+deckers,2023-09-30,net_sales,HOKA,424.0,333.0,27.3,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052123000039/deckex991pressrelease-9302.htm
+deckers,2023-09-30,net_sales,UGG,610.5,476.5,28.1,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052123000039/deckex991pressrelease-9302.htm
+deckers,2023-09-30,net_sales,US (domestic),748.0,617.7,21.1,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052123000039/deckex991pressrelease-9302.htm
+deckers,2023-09-30,net_sales,International,343.9,257.9,33.3,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052123000039/deckex991pressrelease-9302.htm
+deckers,2023-09-30,net_sales,DTC,331.7,239.1,38.8,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052123000039/deckex991pressrelease-9302.htm
+deckers,2023-09-30,net_sales,Wholesale,760.2,636.5,19.4,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052123000039/deckex991pressrelease-9302.htm
+deckers,2023-12-31,net_sales,HOKA,429.3,352.1,21.9,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052124000003/deckex991pressrelease-1231.htm
+deckers,2023-12-31,net_sales,UGG,1072.0,930.4,15.2,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052124000003/deckex991pressrelease-1231.htm
+deckers,2023-12-31,net_sales,US (domestic),1048.0,906.8,15.6,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052124000003/deckex991pressrelease-1231.htm
+deckers,2023-12-31,net_sales,International,511.9,438.8,16.7,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052124000003/deckex991pressrelease-1231.htm
+deckers,2023-12-31,net_sales,DTC,858.1,699.3,22.7,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052124000003/deckex991pressrelease-1231.htm
+deckers,2023-12-31,net_sales,Wholesale,702.2,646.3,8.6,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052124000003/deckex991pressrelease-1231.htm
+deckers,2024-03-31,net_sales,HOKA,533.0,397.7,34.0,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052124000015/deckex991pressrelease-3312.htm
+deckers,2024-03-31,net_sales,UGG,361.3,314.3,14.9,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052124000015/deckex991pressrelease-3312.htm
+deckers,2024-03-31,net_sales,US (domestic),647.7,542.4,19.4,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052124000015/deckex991pressrelease-3312.htm
+deckers,2024-03-31,net_sales,International,312.0,249.1,25.2,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052124000015/deckex991pressrelease-3312.htm
+deckers,2024-03-31,net_sales,DTC,415.2,343.1,21.0,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052124000015/deckex991pressrelease-3312.htm
+deckers,2024-03-31,net_sales,Wholesale,544.6,448.4,21.4,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052124000015/deckex991pressrelease-3312.htm
+deckers,2024-06-30,net_sales,HOKA,545.2,420.5,29.7,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052124000037/deckex991pressrelease-6302.htm
+deckers,2024-06-30,net_sales,UGG,223.0,195.5,14.0,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052124000037/deckex991pressrelease-6302.htm
+deckers,2024-06-30,net_sales,US (domestic),515.9,419.5,23.0,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052124000037/deckex991pressrelease-6302.htm
+deckers,2024-06-30,net_sales,International,309.5,256.3,20.8,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052124000037/deckex991pressrelease-6302.htm
+deckers,2024-06-30,net_sales,DTC,310.6,250.4,24.0,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052124000037/deckex991pressrelease-6302.htm
+deckers,2024-06-30,net_sales,Wholesale,514.8,425.4,21.0,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052124000037/deckex991pressrelease-6302.htm
+deckers,2024-09-30,net_sales,HOKA,570.9,424.0,34.7,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052124000056/deckex991pressrelease-9302.htm
+deckers,2024-09-30,net_sales,UGG,689.9,610.5,13.0,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052124000056/deckex991pressrelease-9302.htm
+deckers,2024-09-30,net_sales,US (domestic),853.9,748.0,14.2,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052124000056/deckex991pressrelease-9302.htm
+deckers,2024-09-30,net_sales,International,457.4,343.9,33.0,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052124000056/deckex991pressrelease-9302.htm
+deckers,2024-09-30,net_sales,DTC,397.7,331.7,19.9,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052124000056/deckex991pressrelease-9302.htm
+deckers,2024-09-30,net_sales,Wholesale,913.7,760.2,20.2,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052124000056/deckex991pressrelease-9302.htm
+deckers,2024-12-31,net_sales,HOKA,530.9,429.3,23.7,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052125000002/deckex991pressrelease-1231.htm
+deckers,2024-12-31,net_sales,UGG,1244.0,1072.0,16.1,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052125000002/deckex991pressrelease-1231.htm
+deckers,2024-12-31,net_sales,US (domestic),1169.0,1048.0,11.5,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052125000002/deckex991pressrelease-1231.htm
+deckers,2024-12-31,net_sales,International,657.9,511.9,28.5,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052125000002/deckex991pressrelease-1231.htm
+deckers,2024-12-31,net_sales,DTC,1010.9999999999999,858.1,17.9,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052125000002/deckex991pressrelease-1231.htm
+deckers,2024-12-31,net_sales,Wholesale,815.8,702.2,16.2,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052125000002/deckex991pressrelease-1231.htm
+deckers,2025-03-31,net_sales,HOKA,2233.0,1807.0,23.6,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052125000013/deckex991pressrelease-3312.htm
+deckers,2025-03-31,net_sales,UGG,2531.0,2239.0,13.1,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052125000013/deckex991pressrelease-3312.htm
+deckers,2025-03-31,net_sales,US (domestic),3187.0,2864.0,11.3,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052125000013/deckex991pressrelease-3312.htm
+deckers,2025-03-31,net_sales,International,1799.0,1424.0,26.3,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052125000013/deckex991pressrelease-3312.htm
+deckers,2025-03-31,net_sales,DTC,2130.0,1855.0,14.8,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052125000013/deckex991pressrelease-3312.htm
+deckers,2025-03-31,net_sales,Wholesale,2856.0,2432.0,17.4,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052125000013/deckex991pressrelease-3312.htm
+deckers,2025-06-30,net_sales,HOKA,653.1,545.2,19.8,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052125000028/deckex991pressrelease-6302.htm
+deckers,2025-06-30,net_sales,UGG,265.1,223.0,18.9,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052125000028/deckex991pressrelease-6302.htm
+deckers,2025-06-30,net_sales,US (domestic),501.3,515.9,-2.8,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052125000028/deckex991pressrelease-6302.htm
+deckers,2025-06-30,net_sales,International,463.3,309.5,49.7,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052125000028/deckex991pressrelease-6302.htm
+deckers,2025-06-30,net_sales,DTC,312.2,310.6,0.5,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052125000028/deckex991pressrelease-6302.htm
+deckers,2025-06-30,net_sales,Wholesale,652.4,514.8,26.7,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052125000028/deckex991pressrelease-6302.htm
+deckers,2025-09-30,net_sales,HOKA,634.1,570.9,11.1,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052125000041/deckex991pressrelease-9302.htm
+deckers,2025-09-30,net_sales,UGG,759.6,689.9,10.1,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052125000041/deckex991pressrelease-9302.htm
+deckers,2025-09-30,net_sales,US (domestic),839.5,853.9,-1.7,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052125000041/deckex991pressrelease-9302.htm
+deckers,2025-09-30,net_sales,International,591.3,457.4,29.3,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052125000041/deckex991pressrelease-9302.htm
+deckers,2025-09-30,net_sales,DTC,394.6,397.7,-0.8,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052125000041/deckex991pressrelease-9302.htm
+deckers,2025-09-30,net_sales,Wholesale,1036.0,913.7,13.4,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052125000041/deckex991pressrelease-9302.htm
+deckers,2025-12-31,net_sales,HOKA,628.9,530.9,18.5,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052126000002/deckex991pressrelease-1231.htm
+deckers,2025-12-31,net_sales,UGG,1305.0,1244.0,4.9,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052126000002/deckex991pressrelease-1231.htm
+deckers,2025-12-31,net_sales,US (domestic),1201.0,1169.0,2.7,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052126000002/deckex991pressrelease-1231.htm
+deckers,2025-12-31,net_sales,International,756.7,657.9,15.0,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052126000002/deckex991pressrelease-1231.htm
+deckers,2025-12-31,net_sales,DTC,1093.0,1010.9999999999999,8.1,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052126000002/deckex991pressrelease-1231.htm
+deckers,2025-12-31,net_sales,Wholesale,864.6,815.8,6.0,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052126000002/deckex991pressrelease-1231.htm
+deckers,2026-03-31,net_sales,HOKA,671.2,586.1,14.5,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052126000007/deckex991pressrelease-3312.htm
+deckers,2026-03-31,net_sales,UGG,408.6,374.3,9.2,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052126000007/deckex991pressrelease-3312.htm
+deckers,2026-03-31,net_sales,US (domestic),649.8,647.7,0.3,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052126000007/deckex991pressrelease-3312.htm
+deckers,2026-03-31,net_sales,International,469.5,374.1,25.5,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052126000007/deckex991pressrelease-3312.htm
+deckers,2026-03-31,net_sales,DTC,464.4,410.2,13.2,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052126000007/deckex991pressrelease-3312.htm
+deckers,2026-03-31,net_sales,Wholesale,654.9,611.6,7.1,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052126000007/deckex991pressrelease-3312.htm
+deckers,2026-06-30,net_sales,HOKA,703.5,653.1,7.7,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052126000015/deckex991pressrelease-6302.htm
+deckers,2026-06-30,net_sales,UGG,278.0,265.1,4.9,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052126000015/deckex991pressrelease-6302.htm
+deckers,2026-06-30,net_sales,US (domestic),517.4,501.3,3.2,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052126000015/deckex991pressrelease-6302.htm
+deckers,2026-06-30,net_sales,International,502.1,463.3,8.4,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052126000015/deckex991pressrelease-6302.htm
+deckers,2026-06-30,net_sales,DTC,352.8,312.2,13.0,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052126000015/deckex991pressrelease-6302.htm
+deckers,2026-06-30,net_sales,Wholesale,666.7,652.4,2.2,USD m,https://www.sec.gov/Archives/edgar/data/910521/000091052126000015/deckex991pressrelease-6302.htm

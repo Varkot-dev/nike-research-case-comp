@@ -1,0 +1,404 @@
+date,country,chart,genre,rank,app_id,app_name,developer,brand
+2026-10-14,us,topfreeapplications,Shopping,43,1095459556,Nike: Engineered for Athletes,"Nike, Inc",nike
+2026-10-14,us,topfreeapplications,Shopping,45,1266591536,adidas: Shop Shoes & Clothing,adidas,adidas
+2026-10-14,us,topfreeapplications,Shopping,54,556653197,DICK’S Sporting Goods,Dick's Sporting Goods,dicks
+2026-10-14,us,topfreeapplications,Shopping,60,920098546,lululemon,lululemon athletica canada inc.,lululemon
+2026-10-14,us,topfreeapplications,Shopping,66,881599819,StockX - Sneakers and Apparel,StockX LLC,stockx
+2026-10-14,us,topfreeapplications,Shopping,80,1477500619,JD Sports: Exclusive rewards,JD Sports Fashion Plc,jdsports
+2026-10-14,us,topgrossingapplications,Shopping,29,6808504126,WhatPrice,GOAT STEW LLC,goat
+2026-10-14,us,topfreeapplications,Health & Fitness,1,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,us,topfreeapplications,Health & Fitness,45,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,us,topfreeapplications,Health & Fitness,54,387771637,Nike Run Club: Running Coach,"Nike, Inc",nike
+2026-10-14,us,topgrossingapplications,Health & Fitness,3,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,us,topgrossingapplications,Health & Fitness,20,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,gb,topfreeapplications,Shopping,27,6449736895,JD STATUS,JD Sports Fashion Plc,jdsports
+2026-10-14,gb,topfreeapplications,Shopping,39,690602681,JD Sports: Clothing & Shoes,JD Sports Fashion Plc,jdsports
+2026-10-14,gb,topfreeapplications,Shopping,77,1266591536,adidas: Sneakers & Clothing,adidas,adidas
+2026-10-14,gb,topgrossingapplications,Shopping,99,6808504126,WhatPrice,GOAT STEW LLC,goat
+2026-10-14,gb,topfreeapplications,Health & Fitness,2,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,gb,topfreeapplications,Health & Fitness,30,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,gb,topfreeapplications,Health & Fitness,74,387771637,Nike Run Club: Running Coach,"Nike, Inc",nike
+2026-10-14,gb,topgrossingapplications,Health & Fitness,1,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,gb,topgrossingapplications,Health & Fitness,2,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,de,topfreeapplications,Shopping,52,1266591536,adidas: Kleidung & Sneakers,adidas,adidas
+2026-10-14,de,topfreeapplications,Shopping,94,1095459556,Nike: Engineered for Athletes,"Nike, Inc",nike
+2026-10-14,de,topfreeapplications,Shopping,95,690602681,JD Sports,JD Sports Fashion Plc,jdsports
+2026-10-14,de,topgrossingapplications,Shopping,75,6808504126,WhatPrice,GOAT STEW LLC,goat
+2026-10-14,de,topfreeapplications,Health & Fitness,3,426826309,Strava: Laufen & Radfahren,"Strava, Inc.",strava
+2026-10-14,de,topfreeapplications,Health & Fitness,6,1163694230,TK-App,Techniker Krankenkasse (TK),nike
+2026-10-14,de,topfreeapplications,Health & Fitness,10,6468877043,TK-Ident,Techniker Krankenkasse (TK),nike
+2026-10-14,de,topfreeapplications,Health & Fitness,29,336599882,adidas Running: GPS Tracker,adidas,adidas
+2026-10-14,de,topfreeapplications,Health & Fitness,63,6444313653,TK-Coach,Techniker Krankenkasse (TK),nike
+2026-10-14,de,topfreeapplications,Health & Fitness,65,1594204443,Runna: Lauftrainer & Coach,"Strava, Inc.",strava
+2026-10-14,de,topfreeapplications,Health & Fitness,78,387771637,Nike Run Club: Laufcoach,"Nike, Inc",nike
+2026-10-14,de,topgrossingapplications,Health & Fitness,3,426826309,Strava: Laufen & Radfahren,"Strava, Inc.",strava
+2026-10-14,de,topgrossingapplications,Health & Fitness,5,1594204443,Runna: Lauftrainer & Coach,"Strava, Inc.",strava
+2026-10-14,de,topfreeapplications,Lifestyle,23,1241930682,ALDI TALK Aktivierung,MEDION AG,on
+2026-10-14,fr,topfreeapplications,Shopping,49,690602681,JD Sports,JD Sports Fashion Plc,jdsports
+2026-10-14,fr,topfreeapplications,Shopping,51,1266591536,adidas: chaussures + vêtements,adidas,adidas
+2026-10-14,fr,topfreeapplications,Shopping,53,6449736895,JD STATUS,JD Sports Fashion Plc,jdsports
+2026-10-14,fr,topfreeapplications,Shopping,83,6449706677,On: chaussures et vêtements,On AG,on
+2026-10-14,fr,topfreeapplications,Shopping,85,934030757,Foot Locker,"Foot Locker Retail, Inc.",footlocker
+2026-10-14,fr,topfreeapplications,Shopping,90,1095459556,Nike : Conçu pour les athlètes,"Nike, Inc",nike
+2026-10-14,fr,topfreeapplications,Health & Fitness,4,426826309,"Strava : course, vélo, rando","Strava, Inc.",strava
+2026-10-14,fr,topfreeapplications,Health & Fitness,34,1594204443,Runna: Coach Course à Pied,"Strava, Inc.",strava
+2026-10-14,fr,topfreeapplications,Health & Fitness,47,387771637,"Nike Run Club : running, santé","Nike, Inc",nike
+2026-10-14,fr,topfreeapplications,Health & Fitness,60,336599882,adidas Running : traqueur GPS,adidas,adidas
+2026-10-14,fr,topfreeapplications,Health & Fitness,90,301521403,Nike Training Club,"Nike, Inc",nike
+2026-10-14,fr,topgrossingapplications,Health & Fitness,1,426826309,"Strava : course, vélo, rando","Strava, Inc.",strava
+2026-10-14,fr,topgrossingapplications,Health & Fitness,7,1594204443,Runna: Coach Course à Pied,"Strava, Inc.",strava
+2026-10-14,fr,topgrossingapplications,Health & Fitness,95,300235330,ASICS Runkeeper: suivi running,"ASICS Runner App, Inc.",asics
+2026-10-14,fr,topfreeapplications,All,38,426826309,"Strava : course, vélo, rando","Strava, Inc.",strava
+2026-10-14,fr,topfreeapplications,All,91,1437005085,Proton VPN: Privé et Rapide,Proton AG,on
+2026-10-14,it,topfreeapplications,Shopping,28,690602681,JD Sports,JD Sports Fashion Plc,jdsports
+2026-10-14,it,topfreeapplications,Shopping,31,1266591536,adidas: scarpe e abbigliamento,adidas,adidas
+2026-10-14,it,topfreeapplications,Shopping,49,934030757,Foot Locker,"Foot Locker Retail, Inc.",footlocker
+2026-10-14,it,topfreeapplications,Shopping,70,1095459556,Nike: per ogni atleta,"Nike, Inc",nike
+2026-10-14,it,topfreeapplications,Health & Fitness,1,426826309,"Strava: corri, pedala, cammina","Strava, Inc.",strava
+2026-10-14,it,topfreeapplications,Health & Fitness,43,336599882,adidas running: corsa con GPS,adidas,adidas
+2026-10-14,it,topfreeapplications,Health & Fitness,50,1594204443,Runna: Allenamento Corsa,"Strava, Inc.",strava
+2026-10-14,it,topfreeapplications,Health & Fitness,54,387771637,Nike Run Club: corse e gare,"Nike, Inc",nike
+2026-10-14,it,topfreeapplications,Health & Fitness,57,301521403,Nike Training Club,"Nike, Inc",nike
+2026-10-14,it,topfreeapplications,Health & Fitness,94,300235330,ASICS Runkeeper: app per corsa,"ASICS Runner App, Inc.",asics
+2026-10-14,it,topgrossingapplications,Health & Fitness,1,426826309,"Strava: corri, pedala, cammina","Strava, Inc.",strava
+2026-10-14,it,topgrossingapplications,Health & Fitness,6,1594204443,Runna: Allenamento Corsa,"Strava, Inc.",strava
+2026-10-14,it,topgrossingapplications,Health & Fitness,86,300235330,ASICS Runkeeper: app per corsa,"ASICS Runner App, Inc.",asics
+2026-10-14,it,topfreeapplications,All,41,426826309,"Strava: corri, pedala, cammina","Strava, Inc.",strava
+2026-10-14,es,topfreeapplications,Shopping,33,1266591536,adidas: Ropa y Zapatillas,adidas,adidas
+2026-10-14,es,topfreeapplications,Shopping,34,690602681,JD Sports,JD Sports Fashion Plc,jdsports
+2026-10-14,es,topfreeapplications,Shopping,61,1095459556,Nike: todo para atletas,"Nike, Inc",nike
+2026-10-14,es,topfreeapplications,Shopping,74,934030757,Foot Locker,"Foot Locker Retail, Inc.",footlocker
+2026-10-14,es,topfreeapplications,Shopping,77,6504290522,PUMA | Zapatillas & Sportstyle,PUMA SE,puma
+2026-10-14,es,topfreeapplications,Health & Fitness,1,426826309,"Strava: corre, camina, pedalea","Strava, Inc.",strava
+2026-10-14,es,topfreeapplications,Health & Fitness,51,1594204443,Runna: Entrenador de Running,"Strava, Inc.",strava
+2026-10-14,es,topfreeapplications,Health & Fitness,55,336599882,adidas Running: Correr Caminar,adidas,adidas
+2026-10-14,es,topfreeapplications,Health & Fitness,59,387771637,Nike Run Club: Running,"Nike, Inc",nike
+2026-10-14,es,topfreeapplications,Health & Fitness,75,301521403,Nike Training Club,"Nike, Inc",nike
+2026-10-14,es,topgrossingapplications,Health & Fitness,1,426826309,"Strava: corre, camina, pedalea","Strava, Inc.",strava
+2026-10-14,es,topgrossingapplications,Health & Fitness,4,1594204443,Runna: Entrenador de Running,"Strava, Inc.",strava
+2026-10-14,es,topfreeapplications,All,23,426826309,"Strava: corre, camina, pedalea","Strava, Inc.",strava
+2026-10-14,nl,topfreeapplications,Shopping,48,1266591536,adidas: schoenen en apparel,adidas,adidas
+2026-10-14,nl,topfreeapplications,Shopping,64,690602681,JD Sports,JD Sports Fashion Plc,jdsports
+2026-10-14,nl,topfreeapplications,Health & Fitness,1,426826309,Strava: hardlopen en fietsen,"Strava, Inc.",strava
+2026-10-14,nl,topfreeapplications,Health & Fitness,14,1594204443,Runna: Hardlooptrainer & Coach,"Strava, Inc.",strava
+2026-10-14,nl,topfreeapplications,Health & Fitness,38,387771637,Nike Run Club: hardloopcoach,"Nike, Inc",nike
+2026-10-14,nl,topfreeapplications,Health & Fitness,81,300235330,ASICS Runkeeper: Hardloop App,"ASICS Runner App, Inc.",asics
+2026-10-14,nl,topfreeapplications,Health & Fitness,100,301521403,Nike Training Club,"Nike, Inc",nike
+2026-10-14,nl,topgrossingapplications,Health & Fitness,1,426826309,Strava: hardlopen en fietsen,"Strava, Inc.",strava
+2026-10-14,nl,topgrossingapplications,Health & Fitness,3,1594204443,Runna: Hardlooptrainer & Coach,"Strava, Inc.",strava
+2026-10-14,nl,topgrossingapplications,Health & Fitness,57,300235330,ASICS Runkeeper: Hardloop App,"ASICS Runner App, Inc.",asics
+2026-10-14,nl,topfreeapplications,All,61,426826309,Strava: hardlopen en fietsen,"Strava, Inc.",strava
+2026-10-14,ca,topfreeapplications,Shopping,38,920098546,lululemon,lululemon athletica canada inc.,lululemon
+2026-10-14,ca,topfreeapplications,Shopping,44,934030757,Foot Locker - Shop Releases,"Foot Locker Retail, Inc.",footlocker
+2026-10-14,ca,topfreeapplications,Shopping,46,1266591536,adidas: Shop Shoes & Clothing,adidas,adidas
+2026-10-14,ca,topfreeapplications,Shopping,57,1095459556,Nike: Engineered for Athletes,"Nike, Inc",nike
+2026-10-14,ca,topfreeapplications,Shopping,76,6449706677,On: Shop Shoes & Apparel,On AG,on
+2026-10-14,ca,topfreeapplications,Shopping,89,1563024677,PUMA | Shop Clothes & Trainers,PUMA SE,puma
+2026-10-14,ca,topfreeapplications,Shopping,93,690602681,JD Sports: Clothing & Shoes,JD Sports Fashion Plc,jdsports
+2026-10-14,ca,topfreeapplications,Health & Fitness,2,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,ca,topfreeapplications,Health & Fitness,38,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,ca,topfreeapplications,Health & Fitness,58,387771637,Nike Run Club: Cardio Exercise,"Nike, Inc",nike
+2026-10-14,ca,topfreeapplications,Health & Fitness,65,301521403,Nike Training Club,"Nike, Inc",nike
+2026-10-14,ca,topgrossingapplications,Health & Fitness,1,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,ca,topgrossingapplications,Health & Fitness,6,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,ca,topfreeapplications,All,97,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,au,topfreeapplications,Shopping,14,6763468068,JD Sports AU,JD Sports ANZ,jdsports
+2026-10-14,au,topfreeapplications,Shopping,62,1095459556,Nike: Engineered for Athletes,"Nike, Inc",nike
+2026-10-14,au,topfreeapplications,Shopping,67,1266591536,adidas: Shoes & Clothing,adidas,adidas
+2026-10-14,au,topfreeapplications,Shopping,78,934030757,Foot Locker - Shop Releases,"Foot Locker Retail, Inc.",footlocker
+2026-10-14,au,topgrossingapplications,Shopping,29,6808504126,WhatPrice,GOAT STEW LLC,goat
+2026-10-14,au,topfreeapplications,Health & Fitness,2,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,au,topfreeapplications,Health & Fitness,20,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,au,topfreeapplications,Health & Fitness,70,387771637,Nike Run Club: Running Fitness,"Nike, Inc",nike
+2026-10-14,au,topfreeapplications,Health & Fitness,93,301521403,Nike Training Club,"Nike, Inc",nike
+2026-10-14,au,topgrossingapplications,Health & Fitness,2,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,au,topgrossingapplications,Health & Fitness,3,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,au,topfreeapplications,Sports,22,6736470866,ASICS,ASICS Corporation,asics
+2026-10-14,au,topfreeapplications,All,59,6763468068,JD Sports AU,JD Sports ANZ,jdsports
+2026-10-14,au,topfreeapplications,All,68,1437005085,Proton VPN: Fast & Secure,Proton AG,on
+2026-10-14,au,topfreeapplications,All,77,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,jp,topfreeapplications,Shopping,60,1266591536,adidas: スニーカーとアパレルのショッピングアプリ,adidas,adidas
+2026-10-14,jp,topfreeapplications,Shopping,77,1095459556,Nike公式アプリ,"Nike, Inc",nike
+2026-10-14,jp,topfreeapplications,Health & Fitness,6,426826309,Strava: ランニング、ライド、ハイキング,"Strava, Inc.",strava
+2026-10-14,jp,topfreeapplications,Health & Fitness,11,387771637,Nike Run Club：ランニングアプリ,"Nike, Inc",nike
+2026-10-14,jp,topfreeapplications,Health & Fitness,82,336599882,adidas ランニング：ウォーク＆ランアプリ,adidas,adidas
+2026-10-14,jp,topgrossingapplications,Health & Fitness,4,426826309,Strava: ランニング、ライド、ハイキング,"Strava, Inc.",strava
+2026-10-14,jp,topgrossingapplications,Health & Fitness,56,300235330,ASICS Runkeeper-Run Tracker,"ASICS Runner App, Inc.",asics
+2026-10-14,jp,topgrossingapplications,Health & Fitness,62,1594204443,Runna：あなたのランニングアプリ＆コーチ,"Strava, Inc.",strava
+2026-10-14,jp,topfreeapplications,Sports,38,6736470866,アシックス公式アプリ,ASICS Corporation,asics
+2026-10-14,kr,topfreeapplications,Shopping,61,1266591536,아디다스: 스포츠 신발과 의류를 위한 쇼핑 앱,adidas,adidas
+2026-10-14,kr,topfreeapplications,Shopping,69,1095459556,나이키,"Nike, Inc",nike
+2026-10-14,kr,topfreeapplications,Health & Fitness,3,387771637,Nike Run Club: 러닝 앱,"Nike, Inc",nike
+2026-10-14,kr,topfreeapplications,Health & Fitness,91,336599882,adidas Running: 운동 앱,adidas,adidas
+2026-10-14,cn,topfreeapplications,Shopping,29,1413676670,adidas-阿迪达斯官方购物APP,adidas AG,adidas
+2026-10-14,cn,topfreeapplications,Shopping,55,1606462833,Nike 耐克,"NIKE Commercial (China) Co., Ltd.",nike
+2026-10-14,hk,topfreeapplications,Shopping,2,1266591536,adidas：選購鞋款及服飾,adidas,adidas
+2026-10-14,hk,topfreeapplications,Shopping,80,6449706677,On: Shop Shoes & Apparel,On AG,on
+2026-10-14,hk,topfreeapplications,Shopping,94,6547846276,ASICS HK,Asics HongKong Limited,asics
+2026-10-14,hk,topfreeapplications,Health & Fitness,4,426826309,Strava：跑步、騎乘、健行,"Strava, Inc.",strava
+2026-10-14,hk,topfreeapplications,Health & Fitness,15,387771637,Nike Run Club：跑步、健康、體能,"Nike, Inc",nike
+2026-10-14,hk,topfreeapplications,Health & Fitness,57,336599882,adidas Running: Run tracker,adidas,adidas
+2026-10-14,hk,topfreeapplications,Health & Fitness,88,1594204443,Live Running Classes By Runna,"Strava, Inc.",strava
+2026-10-14,hk,topgrossingapplications,Health & Fitness,2,426826309,Strava：跑步、騎乘、健行,"Strava, Inc.",strava
+2026-10-14,hk,topgrossingapplications,Health & Fitness,18,1594204443,Live Running Classes By Runna,"Strava, Inc.",strava
+2026-10-14,hk,topfreeapplications,All,28,1266591536,adidas：選購鞋款及服飾,adidas,adidas
+2026-10-14,tw,topfreeapplications,Shopping,24,6636519524,adidas Taiwan,Adidas Taiwan Ltd.,adidas
+2026-10-14,tw,topfreeapplications,Shopping,49,1095459556,Nike：專為運動員精心打造,"Nike, Inc",nike
+2026-10-14,tw,topfreeapplications,Shopping,97,1576364982,ASICS台灣官方購物網站,ASICS TAIWAN CORPORATION,asics
+2026-10-14,tw,topfreeapplications,Health & Fitness,5,426826309,Strava：跑步、騎乘、健行,"Strava, Inc.",strava
+2026-10-14,tw,topfreeapplications,Health & Fitness,29,387771637,Nike Run Club：跑步、健康、體能,"Nike, Inc",nike
+2026-10-14,tw,topgrossingapplications,Health & Fitness,2,426826309,Strava：跑步、騎乘、健行,"Strava, Inc.",strava
+2026-10-14,tw,topgrossingapplications,Health & Fitness,52,1594204443,Live Running Classes By Runna,"Strava, Inc.",strava
+2026-10-14,mx,topfreeapplications,Shopping,12,1095459556,Nike: Diseñado para Atletas,"Nike, Inc",nike
+2026-10-14,mx,topfreeapplications,Shopping,19,1266591536,adidas,adidas,adidas
+2026-10-14,mx,topfreeapplications,Shopping,68,881599819,StockX: sneakers y ropa,StockX LLC,stockx
+2026-10-14,mx,topfreeapplications,Health & Fitness,3,426826309,Strava GPS Correr Ciclismo,"Strava, Inc.",strava
+2026-10-14,mx,topfreeapplications,Health & Fitness,11,336599882,adidas Running: rastreador GPS,adidas,adidas
+2026-10-14,mx,topfreeapplications,Health & Fitness,18,387771637,Nike Run Club,"Nike, Inc",nike
+2026-10-14,mx,topfreeapplications,Health & Fitness,53,1594204443,Runna: Entrenador de Running,"Strava, Inc.",strava
+2026-10-14,mx,topfreeapplications,Health & Fitness,62,301521403,Nike Training Club,"Nike, Inc",nike
+2026-10-14,mx,topgrossingapplications,Health & Fitness,2,426826309,Strava GPS Correr Ciclismo,"Strava, Inc.",strava
+2026-10-14,mx,topgrossingapplications,Health & Fitness,6,1594204443,Runna: Entrenador de Running,"Strava, Inc.",strava
+2026-10-14,br,topfreeapplications,Shopping,32,1266591536,adidas,adidas,adidas
+2026-10-14,br,topfreeapplications,Shopping,35,6449706677,On: compre tênis e roupas,On AG,on
+2026-10-14,br,topfreeapplications,Shopping,89,6791986174,ASICS Brasil,ASICS Brasil,asics
+2026-10-14,br,topfreeapplications,Health & Fitness,4,426826309,"Strava: corrida, pedal, trilha","Strava, Inc.",strava
+2026-10-14,br,topfreeapplications,Health & Fitness,63,336599882,adidas Running: rastreador GPS,adidas,adidas
+2026-10-14,br,topfreeapplications,Health & Fitness,65,1594204443,Runna: Treinador de Corrida,"Strava, Inc.",strava
+2026-10-14,br,topfreeapplications,Health & Fitness,98,387771637,Nike Run Club,"Nike, Inc",nike
+2026-10-14,br,topgrossingapplications,Health & Fitness,1,426826309,"Strava: corrida, pedal, trilha","Strava, Inc.",strava
+2026-10-14,br,topgrossingapplications,Health & Fitness,6,1594204443,Runna: Treinador de Corrida,"Strava, Inc.",strava
+2026-10-14,br,topfreeapplications,All,81,426826309,"Strava: corrida, pedal, trilha","Strava, Inc.",strava
+2026-10-14,in,topfreeapplications,Shopping,42,1563024677,PUMA | Shop Clothes & Trainers,PUMA SE,puma
+2026-10-14,in,topfreeapplications,Shopping,64,1266591536,adidas: Sneakers & Clothing,adidas,adidas
+2026-10-14,in,topfreeapplications,Shopping,81,6778295821,ASICS India,ASICS INDIA PRIVATE LIMITED,asics
+2026-10-14,in,topfreeapplications,Health & Fitness,1,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,in,topfreeapplications,Health & Fitness,40,387771637,Nike Run Club: Running Coach,"Nike, Inc",nike
+2026-10-14,in,topfreeapplications,Health & Fitness,80,336599882,adidas Running: GPS tracker,adidas,adidas
+2026-10-14,in,topfreeapplications,Health & Fitness,89,300235330,ASICS Runkeeper - Running App,"ASICS Runner App, Inc.",asics
+2026-10-14,in,topfreeapplications,Health & Fitness,90,301521403,Nike Training Club,"Nike, Inc",nike
+2026-10-14,in,topgrossingapplications,Health & Fitness,1,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,in,topgrossingapplications,Health & Fitness,8,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,tr,topfreeapplications,Shopping,48,1266591536,adidas: Sneakers & Clothing,adidas,adidas
+2026-10-14,tr,topfreeapplications,Shopping,56,1575333906,Skechers Türkiye,Skechers,skechers
+2026-10-14,tr,topfreeapplications,Shopping,79,1095459556,Nike: Engineered for Athletes,"Nike, Inc",nike
+2026-10-14,tr,topfreeapplications,Health & Fitness,9,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,tr,topfreeapplications,Health & Fitness,53,301521403,Nike Training Club,"Nike, Inc",nike
+2026-10-14,tr,topfreeapplications,Health & Fitness,55,387771637,Nike Run Club: Running Coach,"Nike, Inc",nike
+2026-10-14,tr,topgrossingapplications,Health & Fitness,2,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,tr,topgrossingapplications,Health & Fitness,24,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,pl,topfreeapplications,Shopping,67,1266591536,adidas: Sneakers & Clothing,adidas,adidas
+2026-10-14,pl,topfreeapplications,Shopping,91,1095459556,Nike: Engineered for Athletes,"Nike, Inc",nike
+2026-10-14,pl,topfreeapplications,Health & Fitness,5,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,pl,topfreeapplications,Health & Fitness,63,387771637,Nike Run Club: Running Coach,"Nike, Inc",nike
+2026-10-14,pl,topfreeapplications,Health & Fitness,73,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,pl,topfreeapplications,Health & Fitness,76,301521403,Nike Training Club,"Nike, Inc",nike
+2026-10-14,pl,topgrossingapplications,Health & Fitness,2,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,pl,topgrossingapplications,Health & Fitness,11,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,se,topfreeapplications,Shopping,54,1266591536,adidas: shoppa skor och kläder,adidas,adidas
+2026-10-14,se,topfreeapplications,Health & Fitness,2,426826309,"Strava: spring, cykla, vandra","Strava, Inc.",strava
+2026-10-14,se,topfreeapplications,Health & Fitness,33,300235330,ASICS Runkeeper löpningsapp,"ASICS Runner App, Inc.",asics
+2026-10-14,se,topfreeapplications,Health & Fitness,51,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,se,topfreeapplications,Health & Fitness,99,301521403,Nike Training Club,"Nike, Inc",nike
+2026-10-14,se,topgrossingapplications,Health & Fitness,1,426826309,"Strava: spring, cykla, vandra","Strava, Inc.",strava
+2026-10-14,se,topgrossingapplications,Health & Fitness,3,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,se,topgrossingapplications,Health & Fitness,22,300235330,ASICS Runkeeper löpningsapp,"ASICS Runner App, Inc.",asics
+2026-10-14,se,topfreeapplications,All,43,426826309,"Strava: spring, cykla, vandra","Strava, Inc.",strava
+2026-10-14,ch,topfreeapplications,Shopping,67,1266591536,adidas: Kleidung & Sneakers,adidas,adidas
+2026-10-14,ch,topfreeapplications,Shopping,77,6449706677,On: Schuhe & Kleidung,On AG,on
+2026-10-14,ch,topfreeapplications,Shopping,94,881599819,StockX: Sneaker & Kleidung,StockX LLC,stockx
+2026-10-14,ch,topfreeapplications,Shopping,99,1095459556,Nike: Engineered for Athletes,"Nike, Inc",nike
+2026-10-14,ch,topfreeapplications,Health & Fitness,1,426826309,Strava: Laufen & Radfahren,"Strava, Inc.",strava
+2026-10-14,ch,topfreeapplications,Health & Fitness,43,1594204443,Runna: Lauftrainer & Coach,"Strava, Inc.",strava
+2026-10-14,ch,topfreeapplications,Health & Fitness,51,1442820371,HeatsBox,Faitron AG,on
+2026-10-14,ch,topfreeapplications,Health & Fitness,64,387771637,Nike Run Club: Laufcoach,"Nike, Inc",nike
+2026-10-14,ch,topfreeapplications,Health & Fitness,76,336599882,adidas Running: GPS Tracker,adidas,adidas
+2026-10-14,ch,topfreeapplications,Health & Fitness,89,301521403,Nike Training Club,"Nike, Inc",nike
+2026-10-14,ch,topgrossingapplications,Health & Fitness,1,426826309,Strava: Laufen & Radfahren,"Strava, Inc.",strava
+2026-10-14,ch,topgrossingapplications,Health & Fitness,7,1594204443,Runna: Lauftrainer & Coach,"Strava, Inc.",strava
+2026-10-14,ch,topgrossingapplications,Health & Fitness,81,300235330,ASICS Runkeeper Lauf-Tracker,"ASICS Runner App, Inc.",asics
+2026-10-14,ch,topfreeapplications,All,65,426826309,Strava: Laufen & Radfahren,"Strava, Inc.",strava
+2026-10-14,be,topfreeapplications,Shopping,76,1266591536,adidas: Sneakers & Clothing,adidas,adidas
+2026-10-14,be,topfreeapplications,Shopping,89,690602681,JD Sports: Clothing & Shoes,JD Sports Fashion Plc,jdsports
+2026-10-14,be,topfreeapplications,Shopping,92,1095459556,Nike: Engineered for Athletes,"Nike, Inc",nike
+2026-10-14,be,topfreeapplications,Health & Fitness,2,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,be,topfreeapplications,Health & Fitness,25,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,be,topfreeapplications,Health & Fitness,51,387771637,Nike Run Club: Running Coach,"Nike, Inc",nike
+2026-10-14,be,topfreeapplications,Health & Fitness,58,301521403,Nike Training Club,"Nike, Inc",nike
+2026-10-14,be,topgrossingapplications,Health & Fitness,1,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,be,topgrossingapplications,Health & Fitness,3,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,be,topfreeapplications,Sports,90,6736470866,ASICS,ASICS Corporation,asics
+2026-10-14,be,topfreeapplications,All,33,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,at,topfreeapplications,Shopping,66,1266591536,adidas: Kleidung & Sneakers,adidas,adidas
+2026-10-14,at,topfreeapplications,Health & Fitness,3,426826309,Strava: Laufen & Radfahren,"Strava, Inc.",strava
+2026-10-14,at,topfreeapplications,Health & Fitness,29,1594204443,Runna: Lauftrainer & Coach,"Strava, Inc.",strava
+2026-10-14,at,topfreeapplications,Health & Fitness,48,336599882,adidas Running: GPS Tracker,adidas,adidas
+2026-10-14,at,topfreeapplications,Health & Fitness,65,301521403,Nike Training Club,"Nike, Inc",nike
+2026-10-14,at,topfreeapplications,Health & Fitness,72,387771637,Nike Run Club: Laufcoach,"Nike, Inc",nike
+2026-10-14,at,topgrossingapplications,Health & Fitness,2,426826309,Strava: Laufen & Radfahren,"Strava, Inc.",strava
+2026-10-14,at,topgrossingapplications,Health & Fitness,6,1594204443,Runna: Lauftrainer & Coach,"Strava, Inc.",strava
+2026-10-14,at,topfreeapplications,All,96,426826309,Strava: Laufen & Radfahren,"Strava, Inc.",strava
+2026-10-14,dk,topfreeapplications,Shopping,63,1266591536,adidas: Sneakers & Clothing,adidas,adidas
+2026-10-14,dk,topfreeapplications,Health & Fitness,2,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,dk,topfreeapplications,Health & Fitness,24,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,dk,topfreeapplications,Health & Fitness,50,387771637,Nike Run Club: Running Coach,"Nike, Inc",nike
+2026-10-14,dk,topfreeapplications,Health & Fitness,78,301521403,Nike Training Club,"Nike, Inc",nike
+2026-10-14,dk,topgrossingapplications,Health & Fitness,1,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,dk,topgrossingapplications,Health & Fitness,3,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,dk,topgrossingapplications,Health & Fitness,84,300235330,ASICS Runkeeper - Running App,"ASICS Runner App, Inc.",asics
+2026-10-14,dk,topfreeapplications,Lifestyle,65,6759304850,Organic Basics,Organic Basics,asics
+2026-10-14,dk,topfreeapplications,All,50,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,no,topfreeapplications,Shopping,57,1266591536,adidas: Sneakers & Clothing,adidas,adidas
+2026-10-14,no,topfreeapplications,Health & Fitness,5,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,no,topfreeapplications,Health & Fitness,32,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,no,topfreeapplications,Health & Fitness,95,301521403,Nike Training Club,"Nike, Inc",nike
+2026-10-14,no,topgrossingapplications,Health & Fitness,1,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,no,topgrossingapplications,Health & Fitness,4,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,no,topgrossingapplications,Health & Fitness,41,300235330,ASICS Runkeeper - Running App,"ASICS Runner App, Inc.",asics
+2026-10-14,ie,topfreeapplications,Shopping,12,6449736895,JD STATUS,JD Sports Fashion Plc,jdsports
+2026-10-14,ie,topfreeapplications,Shopping,27,690602681,JD Sports: Clothing & Shoes,JD Sports Fashion Plc,jdsports
+2026-10-14,ie,topfreeapplications,Shopping,40,1266591536,adidas: Sneakers & Clothing,adidas,adidas
+2026-10-14,ie,topfreeapplications,Shopping,71,6504290522,PUMA | Sneakers & Sportstyle,PUMA SE,puma
+2026-10-14,ie,topfreeapplications,Shopping,75,1095459556,Nike: Engineered for Athletes,"Nike, Inc",nike
+2026-10-14,ie,topfreeapplications,Shopping,80,1508115448,CONFIRMED | Sneakers & more,adidas,adidas
+2026-10-14,ie,topfreeapplications,Health & Fitness,2,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,ie,topfreeapplications,Health & Fitness,20,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,ie,topfreeapplications,Health & Fitness,44,387771637,Nike Run Club: Running Coach,"Nike, Inc",nike
+2026-10-14,ie,topgrossingapplications,Health & Fitness,1,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,ie,topgrossingapplications,Health & Fitness,3,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,ie,topfreeapplications,Sports,78,6736470866,ASICS,ASICS Corporation,asics
+2026-10-14,ie,topfreeapplications,All,58,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,ie,topfreeapplications,All,64,6449736895,JD STATUS,JD Sports Fashion Plc,jdsports
+2026-10-14,nz,topfreeapplications,Shopping,7,6763469334,JD Sports NZ,JD Sports ANZ,jdsports
+2026-10-14,nz,topfreeapplications,Shopping,45,1266591536,adidas: Shoes & Clothing,adidas,adidas
+2026-10-14,nz,topfreeapplications,Shopping,74,934030757,Foot Locker - Shop Releases,"Foot Locker Retail, Inc.",footlocker
+2026-10-14,nz,topfreeapplications,Shopping,92,1563024677,PUMA | Shop Clothes & Trainers,PUMA SE,puma
+2026-10-14,nz,topfreeapplications,Shopping,94,881599819,StockX Shop Sneakers & Apparel,StockX LLC,stockx
+2026-10-14,nz,topfreeapplications,Health & Fitness,1,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,nz,topfreeapplications,Health & Fitness,49,387771637,Nike Run Club: Running Fitness,"Nike, Inc",nike
+2026-10-14,nz,topfreeapplications,Health & Fitness,55,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,nz,topfreeapplications,Health & Fitness,64,301521403,Nike Training Club,"Nike, Inc",nike
+2026-10-14,nz,topgrossingapplications,Health & Fitness,1,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,nz,topgrossingapplications,Health & Fitness,3,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,nz,topfreeapplications,All,23,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,nz,topfreeapplications,All,25,6763469334,JD Sports NZ,JD Sports ANZ,jdsports
+2026-10-14,sg,topfreeapplications,Shopping,27,1266591536,adidas: Sneakers & Clothing,adidas,adidas
+2026-10-14,sg,topfreeapplications,Shopping,39,6745531759,JD Singapore,JD Sports,jdsports
+2026-10-14,sg,topfreeapplications,Shopping,49,1095459556,Nike: Engineered for Athletes,"Nike, Inc",nike
+2026-10-14,sg,topfreeapplications,Shopping,73,6449706677,On: Shop Shoes & Apparel,On AG,on
+2026-10-14,sg,topfreeapplications,Shopping,80,6736970365,ASICS SEA: Footwear & Apparel,ASICS Asia Pte. Ltd.,asics
+2026-10-14,sg,topfreeapplications,Health & Fitness,10,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,sg,topfreeapplications,Health & Fitness,100,387771637,Nike Run Club: Running Coach,"Nike, Inc",nike
+2026-10-14,sg,topgrossingapplications,Health & Fitness,1,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,sg,topgrossingapplications,Health & Fitness,6,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,sg,topfreeapplications,All,32,1437005085,Proton VPN: Fast & Secure,Proton AG,on
+2026-10-14,my,topfreeapplications,Shopping,16,1266591536,adidas: Sneakers & Clothing,adidas,adidas
+2026-10-14,my,topfreeapplications,Shopping,26,6746219193,JD Malaysia,JD Sports,jdsports
+2026-10-14,my,topfreeapplications,Shopping,45,1095459556,Nike: Engineered for Athletes,"Nike, Inc",nike
+2026-10-14,my,topfreeapplications,Shopping,79,6736970365,ASICS SEA: Footwear & Apparel,ASICS Asia Pte. Ltd.,asics
+2026-10-14,my,topfreeapplications,Shopping,98,6449706677,On: Shop Shoes & Apparel,On AG,on
+2026-10-14,my,topfreeapplications,Health & Fitness,2,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,my,topfreeapplications,Health & Fitness,85,387771637,Nike Run Club: Running Coach,"Nike, Inc",nike
+2026-10-14,my,topgrossingapplications,Health & Fitness,1,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,my,topgrossingapplications,Health & Fitness,29,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,th,topfreeapplications,Shopping,25,1266591536,adidas: Sneakers & Clothing,adidas,adidas
+2026-10-14,th,topfreeapplications,Shopping,40,6748039231,JD Thailand,JD Sports,jdsports
+2026-10-14,th,topfreeapplications,Shopping,46,6736970365,ASICS SEA: Footwear & Apparel,ASICS Asia Pte. Ltd.,asics
+2026-10-14,th,topfreeapplications,Shopping,54,1095459556,Nike: Engineered for Athletes,"Nike, Inc",nike
+2026-10-14,th,topfreeapplications,Shopping,70,6449706677,On: Shop Shoes & Apparel,On AG,on
+2026-10-14,th,topfreeapplications,Health & Fitness,1,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,th,topfreeapplications,Health & Fitness,35,387771637,Nike Run Club: Running Coach,"Nike, Inc",nike
+2026-10-14,th,topfreeapplications,Health & Fitness,64,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,th,topfreeapplications,Health & Fitness,86,336599882,adidas Running: GPS tracker,adidas,adidas
+2026-10-14,th,topgrossingapplications,Health & Fitness,2,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,th,topgrossingapplications,Health & Fitness,29,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,th,topfreeapplications,Lifestyle,61,6768927378,Skechers Plus TH,Skechers (Thailand) Limited,skechers
+2026-10-14,th,topfreeapplications,All,46,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,ph,topfreeapplications,Shopping,16,1095459556,Nike: Engineered for Athletes,"Nike, Inc",nike
+2026-10-14,ph,topfreeapplications,Shopping,25,1266591536,adidas: Sneakers & Clothing,adidas,adidas
+2026-10-14,ph,topfreeapplications,Shopping,29,6449706677,On: Shop Shoes & Apparel,On AG,on
+2026-10-14,ph,topfreeapplications,Shopping,38,6736970365,ASICS SEA: Footwear & Apparel,ASICS Asia Pte. Ltd.,asics
+2026-10-14,ph,topfreeapplications,Shopping,60,1509915974,POIZON - Online Authentication,POIZON HOLDING PTE. LTD.,dewu_poizon
+2026-10-14,ph,topfreeapplications,Health & Fitness,1,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,ph,topfreeapplications,Health & Fitness,74,387771637,Nike Run Club: Running Coach,"Nike, Inc",nike
+2026-10-14,ph,topfreeapplications,Health & Fitness,95,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,ph,topgrossingapplications,Health & Fitness,1,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,ph,topgrossingapplications,Health & Fitness,8,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,ph,topfreeapplications,All,65,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,id,topfreeapplications,Shopping,31,1266591536,adidas: Sneakers & Clothing,adidas,adidas
+2026-10-14,id,topfreeapplications,Shopping,85,1509915974,POIZON - Online Authentication,POIZON HOLDING PTE. LTD.,dewu_poizon
+2026-10-14,id,topfreeapplications,Shopping,88,1095459556,Nike: Engineered for Athletes,"Nike, Inc",nike
+2026-10-14,id,topfreeapplications,Health & Fitness,1,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,id,topfreeapplications,Health & Fitness,25,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,id,topfreeapplications,Health & Fitness,50,336599882,adidas Running: GPS tracker,adidas,adidas
+2026-10-14,id,topfreeapplications,Health & Fitness,51,387771637,Nike Run Club: Running Coach,"Nike, Inc",nike
+2026-10-14,id,topgrossingapplications,Health & Fitness,1,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,id,topgrossingapplications,Health & Fitness,4,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,id,topfreeapplications,All,62,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,vn,topfreeapplications,Shopping,31,1266591536,adidas: Sneakers & Clothing,adidas,adidas
+2026-10-14,vn,topfreeapplications,Shopping,78,1095459556,Nike: Engineered for Athletes,"Nike, Inc",nike
+2026-10-14,vn,topfreeapplications,Health & Fitness,1,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,vn,topgrossingapplications,Health & Fitness,1,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,vn,topgrossingapplications,Health & Fitness,39,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,za,topfreeapplications,Shopping,12,1266591536,adidas: Sneakers & Clothing,adidas,adidas
+2026-10-14,za,topfreeapplications,Shopping,17,1095459556,Nike: Engineered for Athletes,"Nike, Inc",nike
+2026-10-14,za,topfreeapplications,Shopping,60,690602681,JD Sports: Clothing & Shoes,JD Sports Fashion Plc,jdsports
+2026-10-14,za,topfreeapplications,Health & Fitness,3,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,za,topfreeapplications,Health & Fitness,22,387771637,Nike Run Club: Running Coach,"Nike, Inc",nike
+2026-10-14,za,topfreeapplications,Health & Fitness,51,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,za,topfreeapplications,Health & Fitness,56,301521403,Nike Training Club,"Nike, Inc",nike
+2026-10-14,za,topfreeapplications,Health & Fitness,58,336599882,adidas Running: GPS tracker,adidas,adidas
+2026-10-14,za,topgrossingapplications,Health & Fitness,1,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,za,topgrossingapplications,Health & Fitness,5,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,za,topfreeapplications,All,93,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,ae,topfreeapplications,Shopping,32,1266591536,adidas: Sneakers & Clothing,adidas,adidas
+2026-10-14,ae,topfreeapplications,Health & Fitness,2,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,ae,topfreeapplications,Health & Fitness,64,301521403,Nike Training Club,"Nike, Inc",nike
+2026-10-14,ae,topfreeapplications,Health & Fitness,66,387771637,Nike Run Club: Running Coach,"Nike, Inc",nike
+2026-10-14,ae,topgrossingapplications,Health & Fitness,3,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,ae,topgrossingapplications,Health & Fitness,5,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,sa,topfreeapplications,Shopping,56,1266591536,adidas: Sneakers & Clothing,adidas,adidas
+2026-10-14,sa,topfreeapplications,Health & Fitness,26,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,sa,topgrossingapplications,Health & Fitness,9,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,sa,topgrossingapplications,Health & Fitness,41,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,sa,topfreeapplications,Sports,90,6736470866,ASICS,ASICS Corporation,asics
+2026-10-14,il,topfreeapplications,Shopping,12,1266591536,adidas: Sneakers & Clothing,adidas,adidas
+2026-10-14,il,topfreeapplications,Shopping,48,1095459556,Nike: Engineered for Athletes,"Nike, Inc",nike
+2026-10-14,il,topfreeapplications,Health & Fitness,3,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,il,topfreeapplications,Health & Fitness,25,300235330,ASICS Runkeeper - Running App,"ASICS Runner App, Inc.",asics
+2026-10-14,il,topfreeapplications,Health & Fitness,32,387771637,Nike Run Club: Running Coach,"Nike, Inc",nike
+2026-10-14,il,topfreeapplications,Health & Fitness,65,301521403,Nike Training Club,"Nike, Inc",nike
+2026-10-14,il,topfreeapplications,Health & Fitness,85,336599882,adidas Running: GPS tracker,adidas,adidas
+2026-10-14,il,topgrossingapplications,Health & Fitness,3,426826309,"Strava: Run, Bike, Walk","Strava, Inc.",strava
+2026-10-14,il,topgrossingapplications,Health & Fitness,16,1594204443,Runna: Running Plans & Coach,"Strava, Inc.",strava
+2026-10-14,il,topgrossingapplications,Health & Fitness,48,300235330,ASICS Runkeeper - Running App,"ASICS Runner App, Inc.",asics
+2026-10-14,cl,topfreeapplications,Shopping,16,1266591536,adidas,adidas,adidas
+2026-10-14,cl,topfreeapplications,Shopping,59,881599819,StockX: sneakers y ropa,StockX LLC,stockx
+2026-10-14,cl,topfreeapplications,Health & Fitness,5,426826309,Strava GPS Correr Ciclismo,"Strava, Inc.",strava
+2026-10-14,cl,topfreeapplications,Health & Fitness,23,336599882,adidas Running: rastreador GPS,adidas,adidas
+2026-10-14,cl,topfreeapplications,Health & Fitness,34,387771637,Nike Run Club,"Nike, Inc",nike
+2026-10-14,cl,topfreeapplications,Health & Fitness,41,1594204443,Runna: Entrenador de Running,"Strava, Inc.",strava
+2026-10-14,cl,topfreeapplications,Health & Fitness,71,300235330,App Runkeeper: corre con ASICS,"ASICS Runner App, Inc.",asics
+2026-10-14,cl,topfreeapplications,Health & Fitness,78,301521403,Nike Training Club,"Nike, Inc",nike
+2026-10-14,cl,topgrossingapplications,Health & Fitness,3,426826309,Strava GPS Correr Ciclismo,"Strava, Inc.",strava
+2026-10-14,cl,topgrossingapplications,Health & Fitness,19,1594204443,Runna: Entrenador de Running,"Strava, Inc.",strava
+2026-10-14,cl,topfreeapplications,All,100,426826309,Strava GPS Correr Ciclismo,"Strava, Inc.",strava
+2026-10-14,co,topfreeapplications,Shopping,12,1266591536,adidas,adidas,adidas
+2026-10-14,co,topfreeapplications,Shopping,52,881599819,StockX: sneakers y ropa,StockX LLC,stockx
+2026-10-14,co,topfreeapplications,Shopping,96,690602681,JD Sports,JD Sports Fashion Plc,jdsports
+2026-10-14,co,topfreeapplications,Health & Fitness,5,426826309,Strava GPS Correr Ciclismo,"Strava, Inc.",strava
+2026-10-14,co,topfreeapplications,Health & Fitness,23,336599882,adidas Running: rastreador GPS,adidas,adidas
+2026-10-14,co,topfreeapplications,Health & Fitness,27,387771637,Nike Run Club,"Nike, Inc",nike
+2026-10-14,co,topfreeapplications,Health & Fitness,53,301521403,Nike Training Club,"Nike, Inc",nike
+2026-10-14,co,topgrossingapplications,Health & Fitness,2,426826309,Strava GPS Correr Ciclismo,"Strava, Inc.",strava
+2026-10-14,co,topgrossingapplications,Health & Fitness,10,1594204443,Runna: Entrenador de Running,"Strava, Inc.",strava
+2026-10-14,co,topfreeapplications,All,86,6787697075,"Zuper TV: Cine, Deportes, +18",Andres Felipe Varon Aguirre,on
+2026-10-14,ar,topfreeapplications,Shopping,10,1266591536,adidas,adidas,adidas
+2026-10-14,ar,topfreeapplications,Shopping,54,881599819,StockX: sneakers y ropa,StockX LLC,stockx
+2026-10-14,ar,topfreeapplications,Health & Fitness,6,426826309,Strava GPS Correr Ciclismo,"Strava, Inc.",strava
+2026-10-14,ar,topfreeapplications,Health & Fitness,7,336599882,adidas Running: rastreador GPS,adidas,adidas
+2026-10-14,ar,topfreeapplications,Health & Fitness,42,1594204443,Runna: Entrenador de Running,"Strava, Inc.",strava
+2026-10-14,ar,topfreeapplications,Health & Fitness,43,387771637,Nike Run Club,"Nike, Inc",nike
+2026-10-14,ar,topfreeapplications,Health & Fitness,63,301521403,Nike Training Club,"Nike, Inc",nike
+2026-10-14,ar,topgrossingapplications,Health & Fitness,4,426826309,Strava GPS Correr Ciclismo,"Strava, Inc.",strava
+2026-10-14,ar,topgrossingapplications,Health & Fitness,8,1594204443,Runna: Entrenador de Running,"Strava, Inc.",strava

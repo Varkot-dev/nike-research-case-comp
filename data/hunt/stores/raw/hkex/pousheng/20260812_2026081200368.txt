@@ -1,0 +1,952 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong
+Limited take no responsibility for the contents of this announcement, make no
+representation as to its accuracy or completeness and expressly disclaim any liability
+whatsoever for any loss howsoever arising from or in reliance upon the whole or any
+part of the contents of this announcement.
+
+
+
+
+  POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+
+                       (Incorporated in Bermuda with limited liability)
+                                    (Stock Code: 3813)
+
+
+                  UNAUDITED INTERIM RESULTS
+             FOR THE SIX MONTHS ENDED JUNE 30, 2026
+
+ THE GROUP’S FINANCIAL HIGHLIGHTS
+                                 For the six months
+                                   ended June 30,
+                                    2026           2025
+ Financial performance          RMB’000        RMB’000                              Change
+                              (unaudited)    (unaudited)
+
+ Revenue                                          8,964,585          9,159,425      -2.1%
+ Gross profit                                     3,042,544          3,069,210      -0.9%
+ Operating profit                                   347,969            281,596      23.6%
+ Profit attributable to owners of the
+   Company                                          243,652               187,615   29.9%
+ Gross profit margin (%)                             33.9%                 33.5%    0.4 ppt
+ Operating profit margin (%)                          3.9%                  3.1%    0.8 ppt
+ Basic earnings per share (RMB cents)                  4.70                  3.62   29.8%
+ Dividend per share
+   Interim dividend (HK$)                              0.016               0.0115   39.1%
+   Special dividend (HK$)                              0.016               0.0115   39.1%
+
+                                                        As at
+                                                 June 30, December 31,
+                                                    2026          2025
+ Financial position                             RMB’000       RMB’000
+                                              (unaudited)     (audited)
+
+ Inventories                                      4,668,280          5,020,147       -7.0%
+ Trade and other receivables                      1,983,450          2,094,184       -5.3%
+ Cash and cash equivalents                        1,330,301            640,441      107.7%
+
+
+
+
+                                              1
+RESULTS
+The board (the “Board”) of directors (the “Directors”) of Pou Sheng International
+(Holdings) Limited (the “Company”) announces the unaudited condensed consolidated
+results of the Company and its subsidiaries (collectively referred to as the “Group”) for
+the six months ended June 30, 2026 with comparative figures for the corresponding
+period as follows:
+
+CONDENSED CONSOLIDATED INCOME STATEMENT
+For the six months ended June 30, 2026
+
+                                                              For the six months
+                                                               ended June 30,
+                                                                 2026             2025
+                                                Notes        RMB’000          RMB’000
+                                                           (unaudited)       (unaudited)
+
+Revenue                                          3           8,964,585         9,159,425
+Cost of sales                                               (5,922,041)       (6,090,215)
+
+Gross profit                                                 3,042,544         3,069,210
+Other operating income and gains (losses)                       74,635           102,671
+Selling and distribution expenses                           (2,416,447)       (2,508,356)
+Administrative expenses                                       (352,763)         (381,929)
+
+Operating profit                                              347,969           281,596
+
+Finance costs                                    5            (21,913)           (28,091)
+Finance income                                                 18,252             21,599
+                                                               (3,661)            (6,492)
+Other gains                                                     1,385                  –
+
+Profit before taxation                                        345,693           275,104
+Income tax expense                               4            (91,582)          (74,998)
+
+Profit for the period                            5            254,111           200,106
+
+Attributable to:
+  Owners of the Company                                       243,652           187,615
+  Non-controlling interests                                    10,459            12,491
+
+                                                              254,111           200,106
+
+Earnings per share                               7
+  – Basic                                               RMB4.70 cents     RMB3.62 cents
+
+  – Diluted                                             RMB4.68 cents     RMB3.61 cents
+
+                                            2
+CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+For the six months ended June 30, 2026
+
+                                                             For the six months
+                                                               ended June 30,
+                                                                 2026           2025
+                                                            RMB’000         RMB’000
+                                                          (unaudited)     (unaudited)
+
+Profit for the period                                         254,111        200,106
+
+Other comprehensive income (expense)
+An item that will not be reclassified to profit or loss
+Fair value gain (loss) on investments in equity
+  instrument at fair value through other
+  comprehensive income                                            521           (716)
+
+An item that may be reclassified subsequently to
+  profit or loss
+Exchange differences arising on the translation of
+  foreign operations                                              291          (1,626)
+
+Other comprehensive income (expense) for the period               812          (2,342)
+
+Total comprehensive income for the period                     254,923        197,764
+
+Attributable to:
+  Owners of the Company                                       244,464        185,273
+  Non-controlling interests                                    10,459         12,491
+
+                                                              254,923        197,764
+
+
+
+
+                                              3
+CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+At June 30, 2026
+
+                                                                 At              At
+                                                           June 30,   December 31,
+                                                              2026            2025
+                                                 Note     RMB’000        RMB’000
+                                                        (unaudited)       (audited)
+
+Non-current assets
+Investment properties                                       120,700        120,700
+Property, plant and equipment                               604,730        689,212
+Right-of-use assets                                       1,143,326      1,106,919
+Deposits paid for acquisition of property,
+  plant and equipment                                       42,809          38,518
+Rental deposits                                             85,344          94,208
+Intangible assets                                           99,422          99,623
+Goodwill                                                   522,163         522,163
+Interests in joint ventures                                      –               –
+Equity instrument at fair value through
+  other comprehensive income                                 2,906           2,508
+Other financial assets at amortised cost                   149,180          49,734
+Bank deposits over three months                            477,840         527,840
+Deferred tax assets                                        140,664         145,752
+
+                                                          3,389,084      3,397,177
+
+Current assets
+Inventories                                               4,668,280      5,020,147
+Trade and other receivables                       8       1,983,450      2,094,184
+Taxation recoverable                                         25,747         34,752
+Financial assets at fair value through
+  profit or loss                                            280,825        220,581
+Bank deposits over three months                             353,420        653,627
+Cash and cash equivalents                                 1,330,301        640,441
+
+                                                          8,642,023      8,663,732
+
+
+
+
+                                             4
+                                                               At              At
+                                                         June 30,   December 31,
+                                                            2026            2025
+                                               Note     RMB’000        RMB’000
+                                                      (unaudited)       (audited)
+
+Current liabilities
+Trade and other payables                        9       1,381,706      1,739,264
+Contract liabilities                                      310,722        249,788
+Taxation payable                                           18,387          8,130
+Lease liabilities                                         472,455        487,688
+
+                                                        2,183,270      2,484,870
+
+Net current assets                                      6,458,753      6,178,862
+
+Total assets less current liabilities                   9,847,837      9,576,039
+
+Non-current liabilities
+Deferred tax liabilities                                  33,837          19,656
+Lease liabilities                                        704,119         654,532
+
+                                                         737,956         674,188
+
+Net assets                                              9,109,881      8,901,851
+
+
+Capital and reserves
+Share capital                                              46,343         46,438
+Reserves                                                8,966,223      8,740,557
+
+Equity attributable to owners of the Company            9,012,566      8,786,995
+Non-controlling interests                                  97,315        114,856
+
+Total equity                                            9,109,881      8,901,851
+
+
+
+
+                                          5
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+1.   BASIS OF PREPARATION
+     The condensed consolidated financial statements have been prepared in accordance with Hong
+     Kong Accounting Standard 34 “Interim Financial Reporting” as issued by the Hong Kong Institute
+     of Certified Public Accountants (“HKICPA”) as well as the applicable disclosure requirements of
+     Appendix D2 to the Rules Governing the Listing of Securities on The Stock Exchange of Hong
+     Kong Limited (the “Stock Exchange”).
+
+2.   ACCOUNTING POLICIES
+     The condensed consolidated financial statements have been prepared on the historical cost basis
+     except for certain properties and financial instruments, which are measured at revalued amounts or
+     fair values, as appropriate.
+
+     Other than changes in accounting policies resulting from application of amendments to HKFRS
+     Accounting Standards, the accounting policies and methods of computation used in the condensed
+     consolidated financial statements for the six months ended June 30, 2026 are the same as those
+     presented in the Group’s annual consolidated financial statements for the year ended December 31,
+     2025.
+
+     Application of amendments to HKFRS Accounting Standards
+     In the current interim period, the Group has applied the following amendments to HKFRS
+     Accounting Standards as issued by the HKICPA, for the first time, which are mandatorily effective
+     for the Group’s annual period beginning on January 1, 2026 for the preparation of the Group’s
+     condensed consolidated financial statements:
+
+     Amendments to HKFRS 9 and HKFRS 7                    Amendments to the Classification and
+                                                            Measurement of Financial Instruments
+     Amendments to HKFRS 9 and HKFRS 7                    Contracts Referencing Nature-dependent
+                                                            Electricity
+     Amendments to HKFRS Accounting Standards             Annual Improvements to HKFRS Accounting
+                                                            Standards – Volume 11
+
+     The application of the amendments to HKFRS Accounting Standards in the current interim period
+     has had no material impact on the Group’s financial position and performance for the current and
+     prior periods and/or on the disclosures set out in these condensed consolidated financial statements.
+
+
+
+
+                                                   6
+3.   REVENUE AND SEGMENTAL INFORMATION
+     The Group is principally engaged in the distribution and retailing of sportswear and footwear
+     products and provision of large scale commercial spaces to retailers and distributors for
+     commissions from concessionaire sales. The Group’s results and revenue are reported as a whole on
+     a regular basis to the chief operating decision maker, being the executive directors of the Company,
+     for the purposes of performance assessment and resource allocation.
+
+     The following is an analysis of the Group’s revenue recognised at a point in time:
+
+                                                                           For the six months
+                                                                             ended June 30,
+                                                                              2026               2025
+                                                                          RMB’000            RMB’000
+                                                                        (unaudited)        (unaudited)
+
+     Sales of sportswear and footwear products                             8,915,555           9,105,516
+     Commissions from concessionaire sales                                    49,030              53,909
+
+
+                                                                           8,964,585           9,159,425
+
+
+4.   INCOME TAX EXPENSE
+                                                                           For the six months
+                                                                             ended June 30,
+                                                                              2026               2025
+                                                                          RMB’000            RMB’000
+                                                                        (unaudited)        (unaudited)
+
+     People’s Republic of China Enterprise Income Tax
+       – Current period                                                       88,506            121,652
+       – Overprovision in prior periods                                      (16,193)           (24,819)
+     Withholding tax on dividend                                                   –             15,000
+
+
+     Current tax charge – total                                               72,313            111,833
+     Deferred tax charge (credit)                                             19,269            (36,835)
+
+
+                                                                              91,582              74,998
+
+
+
+
+                                                   7
+5.   FINANCE COSTS/PROFIT FOR THE PERIOD
+                                                                         For the six months
+                                                                           ended June 30,
+                                                                            2026               2025
+                                                                        RMB’000            RMB’000
+                                                                      (unaudited)        (unaudited)
+
+     (a)   Finance costs
+
+           Interest expenses on bank borrowings                               797             1,482
+           Interest expenses on advances from a related party                  43                47
+           Interest expenses on lease liabilities                          21,073            26,562
+
+
+                                                                           21,913            28,091
+
+
+     (b)   Profit for the period
+
+           Profit for the period has been arrived at after charging
+             (crediting):
+
+           Total staff costs (included in selling and distribution
+             expenses and administrative expenses)                        969,637         1,053,815
+           Depreciation of right-of-use assets                            309,212           337,733
+           Depreciation of property, plant and equipment                  140,624           153,813
+           Net changes in allowance for inventories (included in
+             cost of sales)                                                   160            18,754
+           Amortisation of intangible assets (included in selling
+             and distribution expenses)                                     7,710             6,856
+           Gross rental income from investment properties,
+             net of direct expenses                                        (2,691)            (2,760)
+           Subsidy income from government (included in other
+             operating income and gains (losses))                         (14,154)          (25,837)
+           Loss on disposal/written off of property, plant and
+             equipment (included in other operating income and
+             gains (losses))                                                6,304             6,450
+           Impairment losses reversal on trade and other
+             receivables, net (included in other operating income
+             and gains (losses))                                           (1,735)            (4,403)
+
+
+           For the six months ended June 30, 2026 and 2025, cost of inventories recognised as an
+           expense represents cost of sales as shown in the condensed consolidated income statement.
+
+
+
+
+                                                   8
+6.   DIVIDENDS
+                                                                          For the six months
+                                                                            ended June 30,
+                                                                             2026               2025
+                                                                         RMB’000            RMB’000
+                                                                       (unaudited)        (unaudited)
+
+     Dividends recognised as distribution during the period:
+
+     2025 final dividend of HK$0.002 per share
+       (six months ended June 30, 2025:
+       2024 final dividend of HK$0.01 per share)                             9,012              47,368
+     2025 special dividend of HK$0.002 per share
+       (six months ended June 30, 2025:
+       2024 special dividend of HK$0.01 per share)                           9,012              47,368
+
+
+                                                                            18,024              94,736
+
+
+     Subsequent to the end of the current interim period, the Directors have determined that an interim
+     dividend of HK$0.016 per ordinary share of the Company (the “Share”) and a special dividend of
+     HK$0.016 per Share (six months ended June 30, 2025: interim dividend of HK$0.0115 per Share
+     and special dividend of HK$0.0115 per Share) amounting to approximately HK$170,096,000 (six
+     months ended June 30, 2025: HK$122,502,000) in aggregate will be paid to the holders of the
+     Shares (the “Shareholders”) whose names appear in the register of members of the Company (the
+     “Register of Members”) on Wednesday, September 16, 2026.
+
+
+
+
+                                                  9
+7.   EARNINGS PER SHARE
+     The calculation of the basic and diluted earnings per share attributable to owners of the Company is
+     based on the following data:
+
+                                                                           For the six months
+                                                                             ended June 30,
+                                                                              2026               2025
+                                                                          RMB’000            RMB’000
+                                                                        (unaudited)        (unaudited)
+
+     Earnings:
+
+     Earnings for the period attributable to owners of the
+       Company for the purposes of basic and
+       diluted earnings per share                                            243,652             187,615
+
+
+                                                                           For the six months
+                                                                             ended June 30,
+                                                                              2026               2025
+                                                                        (unaudited)        (unaudited)
+
+     Number of shares:
+
+     Weighted average number of ordinary shares for the purpose
+      of basic earnings per share                                     5,184,724,701       5,183,714,855
+
+     Effect of dilutive potential ordinary shares:
+       – Unvested awarded shares                                         20,063,828          11,983,003
+
+
+     Weighted average number of ordinary shares for the purpose
+      of diluted earnings per share                                   5,204,788,529       5,195,697,858
+
+
+     The weighted average number of ordinary shares shown above has been arrived at after deducting
+     the shares held by the trustee of the share award scheme of the Company.
+
+
+
+
+                                                     10
+8.   TRADE AND OTHER RECEIVABLES
+     The Group generally allows credit periods of 30 days to 60 days which are agreed with each of its
+     trade customers. The aged analysis of the Group’s trade receivables, net of allowance for doubtful
+     debts, presented based on the invoice date at the end of the reporting period, which approximated
+     the respective revenue recognition dates, is as follows:
+
+                                                                                At                  At
+                                                                          June 30,       December 31,
+                                                                             2026                2025
+                                                                         RMB’000            RMB’000
+                                                                       (unaudited)           (audited)
+
+     0 – 30 days                                                           935,166             807,770
+     31 – 90 days                                                           17,336               7,911
+     Over 90 days                                                              630                   –
+
+
+                                                                           953,132             815,681
+
+
+9.   TRADE AND OTHER PAYABLES
+     The aged analysis of the Group’s trade payables, presented based on the invoice date at the end of
+     the reporting period, is as follows:
+
+                                                                                At                  At
+                                                                          June 30,       December 31,
+                                                                             2026                2025
+                                                                         RMB’000            RMB’000
+                                                                       (unaudited)           (audited)
+
+     0 – 30 days                                                           213,958             517,127
+     31 – 90 days                                                                –               3,577
+     Over 90 days                                                                –               7,199
+
+
+                                                                           213,958             527,903
+
+
+
+
+                                                 11
+MANAGEMENT DISCUSSION AND ANALYSIS
+Business Review
+Business Environment
+In the six months ended June 30, 2026 (the “Period”), mainland China’s retail landscape
+remained dynamic and ever-evolving, with diversified and segmented demand firmly
+established in the mainstream. While the drop in offline foot traffic narrowed, consumers
+remained cautious and more inclined to spend on products and services that offer
+emotional value. At the same time, the continuous integration of artificial intelligence
+(“AI”) is helping retailers gain more precise insights into target customers, enabling
+them to optimise products and service experiences to meet rising expectations for
+efficiency and convenience. Meanwhile, in April 2026, mainland China’s Rules on
+Pricing Practices for Internet Platforms came into effect, regulating pricing competition
+mechanisms on e-commerce platforms and steering the industry back onto a sound path
+that prioritises efficiency and profitability.
+
+In response to these market conditions and in active support of relevant policies, the
+Group continued to strengthen its cross-channel capabilities by maintaining a high
+degree of agility and flexibility in decision-making. Meanwhile, it implemented rigorous
+inventory management, optimised its inventory mix, strictly controlled discounting to
+improve sales quality and leveraged its restructuring strategy to enhance synergies, all of
+which drove a solid improvement in the Group’s profitability.
+
+At the same time, the Group experienced improved conversion rates within its directly
+operated brick-and-mortar (“B&M”) network and enhanced in-season full-price sales.
+This was achieved by dynamically managing its store portfolio and enhancing
+productivity and operational efficiency at key stores, while deepening engagement with
+consumers and the services provided to them. The Group also prioritised healthier and
+balanced sales, strengthened its membership programmes and inventory integration, and
+broadened its appeal to a wider consumer base.
+
+
+
+
+                                            12
+Hybrid Channel Management – B&M
+During the Period, the Group’s B&M retail channels saw more resilient sales momentum,
+with the decline in foot traffic narrowing markedly despite ongoing changes in the
+market environment. The Group continued to develop its multi-brand outlet stores
+network and diversify its geographic footprint with sub-distributors to deepen its
+penetration and reach in lower-tier cities, achieving a more balanced sales distribution
+across different city tiers. However, footfall in lower‑tier cities remained more volatile,
+weighing on the performance of sub‑distributor channels relative to the Group’s directly
+operated stores.
+
+The Group continued to progress its retail refinement strategy by selectively rightsizing
+or upgrading stores, improving cost competitiveness, and boosting store-level
+productivity. It continued to adopt a holistic view towards new store openings, including
+for its existing brand portfolio and new brands, optimising total investment returns by
+prioritising geographic regions and store formats with high potential. New stores were
+only opened following thorough assessments that prioritise margins and business quality.
+As of June 30, 2026, the Group directly operated 3,110 stores across the Greater China
+region.
+
+Movement of directly operated stores during the six months ended:
+
+                                                                June 30,          June 30,
+                                                                   2026              2025
+
+At the beginning of the Period                                      3,310            3,448
+Net decrease                                                         (200)             (40)
+
+At the end of the Period                                            3,110            3,408
+
+
+B&M retail channels remain a critical and irreplaceable sales touchpoint for consumers
+in the Greater China region who want to discover must-have in-season new sports
+products that are both trendy and functional, while pursuing unique, personalised and
+seamless shopping experiences. Amid the current dynamic consumer backdrop, the
+Group continued to optimise its store formats and enhance its digital capabilities by
+integrating its B&M network, highly-integrated membership programmes and other
+digital services and tools into its B&M network, which, combined with cross-channel
+capabilities, further enriched the consumer experience. During the Period, the Group
+also further expanded its self-owned “YYQUALITY” – a multi-brand outlet store
+concept, offering consumers high-quality merchandise at great value, along with a
+one-stop diverse shopping experience. It also continued to conduct a review of regional
+operational structures and develop efficiency enhancement projects to optimise store
+entry and transaction rates, repeat purchases and higher-margin in-season sales within its
+offline network.
+
+
+
+
+                                            13
+Hybrid Channel Management – Online channels
+During the Period, the Group further strengthened its digital capabilities by leveraging a
+differentiated and multi-faceted operation matrix to deepen its engagement with diverse
+shopping groups, while enhancing operational efficiency. The Group operates three
+broad categories of online channels: private domain WeChat stores, live-streaming
+e-commerce and shelf-based e-commerce such as Tmall, JD and Vipshop. The Group’s
+digital sales momentum remained resilient, led by its online multi-channel footprint and
+live-streaming e-commerce, supporting effective inventory management.
+
+The Group consolidated its multiple regional WeChat stores into a single national store
+to drive greater efficiency. At the same time, the Group leveraged new AI technology to
+drive cost reduction and efficiency gains, while enriching its shelf-based e-commerce
+content. The Group also heightened the traffic efficiency of its Douyin live-streams
+conducted by designated Key Opinion Staff and influencers, fully integrating its
+inventory across mainland China to achieve higher-quality sales and encourage more
+repeat purchases. It also continued to support conversion rates by embedding
+value-added services, diverse content, and member-exclusive benefits into its online
+channels, while providing quality, personalised and comprehensive customer service
+with a human touch.
+
+Enhanced Strategic Alliances with Business Partners
+The Group continued to deepen its strategic partnerships with its business partners to
+provide an impeccable and diverse shopping experience and strengthen consumer
+connectivity. To strengthen its connected digital membership programmes across the
+Greater China region, the Group leveraged AI to gain deeper insights into member
+profiles and needs, seize current consumer opportunities and build predictive-trend
+capabilities to develop diversified content, interactive features and other related services,
+while supporting in-depth membership management and providing a premium and
+seamless online and offline consumer experience. The Group also further supported
+membership growth and increased in-season sell-through by strengthening the
+integration of its membership programmes with that of its brand partners.
+
+Moreover, the Group continued to reinforce its product-sharing platform (“PSP”) and
+further improve its efficiency in product allocation and logistics management. It also
+expanded its connected inventory programme with brand partners to efficiently share
+products and services across different platforms and channels, optimising its inventory
+mix and accelerating sales cycles.
+
+
+
+
+                                             14
+Strengthened Operational Excellence with Digital Transformation
+During the Period, the Group advanced its digital transformation agenda by deepening
+the integration and upgrade of its SAP system. Leveraging its multi-functional modules,
+the Group integrated and optimised its business and finance functions, while improving
+the efficiency of strategic decision-making at the management level. Through its
+further-upgraded and fully integrated business intelligence platform, the Group is able to
+monitor all of its operations through digital cloud-based financial dashboards with
+enhanced efficiency. It is continuing to optimise other digital tools and dashboards to
+drive its retail excellence, particularly in areas such as real-time in-store efficiency,
+resource optimisation and membership services through digital empowerment.
+
+Performance Analysis
+Financial Review
+During the Period, the Group recorded revenue of RMB8,964.6 million, maintaining
+solid revenue scale. Gross profit was RMB3,042.5 million, representing a decrease of
+0.9% when compared to the same period of last year. Profit attributable to owners of the
+Company for the Period increased by 29.9% to RMB243.7 million, supported by
+effective inventory ageing optimisation, stringent discount management and synergies
+achieved following its organisational restructure.
+
+Revenue
+During the Period, the Group’s total revenue decreased by 2.1% to RMB8,964.6 million,
+with the revenue decline narrowing year-on-year due to the Group’s continuous
+enhancement of its operational efficiency and strategic dynamic inventory management,
+as well as the establishment of fully integrated, one-stop operations. Meanwhile, the
+Group’s direct retail channels performing better than its sub-distributor channels.
+
+Gross Profit
+The Group’s gross profit during the Period amounted to RMB3,042.5 million. The
+Group’s gross profit margin increased by 0.4 percentage points, supported by effective
+inventory ageing optimisation and stringent discount management.
+
+Selling & Distribution Expenses and Administrative Expenses
+The Group’s selling and distribution expenses during the Period were RMB2,416.4
+million (first half of 2025: RMB2,508.4 million), accounting for 27.0% of the Group’s
+revenue (first half of 2025: 27.4%). Selling and distribution expenses primarily include
+concessionaire fees, depreciation of right-of-use assets in relation to stores, sales
+personnel salaries and commissions, other depreciation and amortisation charges, and
+other expenses that mainly include store operation expenses, property management fees,
+logistics expenses and other expenses.
+
+
+
+
+                                           15
+In line with the Group’s restructuring strategy and active expense management,
+administrative expenses during the Period decreased by 7.6% year-on-year to RMB352.8
+million (first half of 2025: RMB381.9 million), accounting for 3.9% of the Group’s
+revenue (first half of 2025: 4.2%). Administrative expenses primarily include
+management and administrative personnel salaries, depreciation and amortisation
+charges and other expenses.
+
+The Group’s selling and distribution expenses and administrative expenses during the
+Period were RMB2,769.2 million, a decrease of 4.2% year-on-year. This was equivalent
+to 30.9% of total revenue, with the savings accruing from the active management of
+rentals and people efficiency.
+
+Operating Profit
+The Group’s operating profit during the Period was RMB348.0 million, an increase of
+23.6%. The operating margin was 3.9%, an increase of 0.8 percentage points
+year-on-year, supported by synergies achieved following the Group’s organisational
+restructure.
+
+Finance Income and Finance Costs
+Finance income during the Period was RMB18.3 million, compared to RMB21.6 million
+in the first half of 2025. Finance costs during the Period decreased by 22.0% to
+RMB21.9 million, compared to RMB28.1 million in the first half of 2025. This reduction
+was mainly attributed to a decrease in interest expenses on lease liabilities.
+
+Profit for the Period
+During the Period, the Group recorded a net profit of RMB254.1 million, representing an
+increase of 27.0% year-on-year. Profit attributable to owners of the Company was
+RMB243.7 million, representing an increase of 29.9% year-on-year. The margin of profit
+attributable to owners of the Company was 2.7%, representing an increase of 0.7
+percentage points year-on-year.
+
+Working Capital Efficiency
+The average inventory turnover period for the Period was 148 days (first half of 2025:
+146 days). At the end of the Period, inventory aged over 12 months represented less than
+9% of total inventory, reflecting the Group’s successful efforts to maintain healthy
+inventory levels and enhance inventory efficiency. The balance of inventory as at June
+30, 2026 was RMB4,668.3 million (December 31, 2025: RMB5,020.1 million). The
+average trade receivables turnover period was 18 days (first half of 2025: 19 days),
+which remained consistent with the credit terms of 30 to 60 days that the Group gives its
+department store counters and retail distributors. The average trade payables turnover
+period during the Period was 11 days (first half of 2025: 25 days).
+
+
+
+
+                                           16
+Liquidity and Financial Resources
+As at June 30, 2026, the Group maintained a strong financial position, with bank
+balances and cash (which consist of bank deposits over three months and cash and cash
+equivalents) amounting to RMB2,161.6 million (December 31, 2025: RMB1,821.9
+million) while working capital (current assets minus current liabilities) was RMB6,458.8
+million (December 31, 2025: RMB6,178.9 million). As at June 30, 2026, the Group had
+no bank borrowings (December 31, 2025: nil). Bank balances and cash and bank
+borrowings were mainly denominated in Renminbi.
+
+The Group’s gearing ratio as at June 30, 2026, represented by total interest-bearing
+borrowings (excluding lease liabilities) as a percentage of total equity, was nil
+(December 31, 2025: nil). The Group maintained a solid net cash position (bank balances
+and cash minus bank borrowings) of RMB2,161.6 million (December 31, 2025:
+RMB1,821.9 million).
+
+The net cash generated from operating activities during the Period was RMB945.1
+million. The Group believes its liquidity requirements will continue to be satisfied by the
+combination of capital generated from operating activities and future bank borrowings.
+The net cash generated from investing activities during the Period was RMB116.4
+million, while the net cash used in financing activities was RMB373.7 million.
+
+Capital Expenditure
+The Group maintained its selective and prudent approach to capital expenditure planning,
+which covers: the strategic opening of new stores; the ongoing upgrade of
+experience-driven B&M stores that offer a better shopping experience; store productivity
+improvements; and the further roll-out of its long-term digital transformation strategy,
+namely the optimisation of its SAP ERP system. Total capital expenditure during the
+Period decreased to RMB96.3 million (first half of 2025: RMB119.4 million). As at June
+30, 2026, the Group had no material contingent liabilities.
+
+As at June 30, 2026, capital expenditure in respect of the acquisition of property, plant
+and equipment contracted for but not provided in the consolidated financial statements
+was RMB17.3 million (December 31, 2025: RMB13.3 million). The Group also entered
+into new leases for several retail stores that have not yet commenced, with an average
+non-cancellable period ranging from 1 to 5 years (December 31, 2025: 1 to 3 years),
+with the total future undiscounted cash flows over the non-cancellable period amounting
+to RMB21.8 million (December 31, 2025: RMB11.9 million).
+
+
+
+
+                                            17
+Foreign Exchange
+The Group conducts its business primarily in the Greater China region and the majority
+of its transactions are denominated in Renminbi. As at June 30, 2026, the Group had no
+hedging financial instruments for managing its foreign exchange exposure. As the
+exchange rate of the Renminbi against foreign currencies may fluctuate, the Group may
+enter into forward contracts, currency swaps or options to hedge against currency risks
+arising from foreign currency transactions when necessary.
+
+The Group has a dedicated treasury division and internal treasury policies and approval
+guidelines to manage and control its exposure to financial derivatives-related risk. The
+use of financial derivatives and approval procedures were in accordance with the
+Group’s internal policies and guidelines.
+
+PROSPECTS AND FUTURE DEVELOPMENTS
+Supported by recent global sporting events, footwear and apparel retailers outperformed
+the broader retail market, with sales growth in the segment outpacing the overall growth
+of total retail sales of consumer goods in the first half of 2026, according to the National
+Bureau of Statistics of China. As it continues to adapt to the dynamic and ever-evolving
+retail landscape, the Group remains focused on improving sales quality while advancing
+operational excellence and its digital transformation strategy. Key priorities include
+enhancing its business portfolio, diversifying its channel mix, boosting operational
+efficiency, upholding its strategic approach to dynamic inventory management, and
+enforcing stringent expense control. With segmented markets and lower-tier markets
+penetration emerging as important growth drivers, the Group will continue to adopt a
+holistic approach to resource allocation to capture opportunities, mitigate challenges and
+strengthen its competitive advantages as it progresses toward becoming an efficient,
+fully integrated one stop operation.
+
+Within its B&M retail channels, the Group will continue to advance its retail refinement
+strategy and strengthen offline-online integration to deliver digitally enhanced in‑store
+experiences, while remaining closely aligned with market trends, broadening its presence
+across a wider range of sports categories and adopting more innovative retail formats.
+This includes accelerating its capture of the fast-growing segmented market – through
+Dynafit in the outdoor segment, Pony 1972 in the casual outdoor segment and
+XEXYMIX in the yoga market – using its directly operated online stores network, while
+further bolstering its footprint in online channels, as well as the launch of themed
+multi-brand stores. The Group will also continue to strategically develop its self‑owned
+multi‑brand YYQUALITY outlets as both an efficient inventory‑clearance channel and
+an incubation platform for emerging brands, while offering consumers high-quality
+merchandise at exceptional value. The Group will also continue working with franchise
+partners to deepen its penetration and reach in lower-tier cities.
+
+
+
+
+                                            18
+Within its online channels, the Group will build on the efficiencies gained from the
+consolidation of its regional WeChat stores. It will further strengthen the operational
+structure of its Douyin livestreaming teams, continuously leverage AI to enhance its
+operational capabilities and efficiency and attract targeted traffic at more competitive
+costs. The Group will also continue to further integrate inventory within its Douyin
+livestreams, introduce more enhancements to its online multi-channel footprint, and
+refine product selection and stock planning to accelerate the time to market for new
+products. It will also pursue a multifaceted approach, such as advancing Xiaohongshu
+grass‑planting, content‑driven e‑commerce initiatives and in‑house livestreaming and
+more closely linking its offline presence with the online community to further improve
+online profitability. The Group will also continue to capture opportunities arising from
+instant retail through intelligent product-to-store matching to support faster fulfilment
+and more efficient delivery.
+
+The Group will continue to strengthen its strategic partnerships with business associates,
+broaden its collaborations in inventory sharing and mutually-connected membership
+programmes, which enable consumers to enjoy the same premium, member-exclusive
+products, offers and experiences found in the directly operated stores of these brands in
+the Greater China region, driving high-quality growth.
+
+Simultaneously, the Group will continue to advance the integration and optimisation of
+its SAP system by leveraging its multi-functional modular capabilities and integrated
+business and financial operations to enable efficient decision-making. The Group will
+also leverage its upgraded business intelligence platforms to enable the real-time
+monitoring of its overall operations through cloud-based financial dashboards and other
+digital empowerment tools. Furthermore, the Group will continue to reinforce its
+in-season sell-through, off-season clearance and solid margins through its PSP, while
+pursuing a more agile procurement strategy and inventory management.
+
+Despite the near-term challenges and uncertainties, the prospects for the sports industry
+in the Greater China region remain bright, supported by the ongoing commitment of
+mainland Chinese authorities to high-quality sports development and with the industry’s
+projected expansion to over RMB7 trillion in value in 2030. Sportswear consumption
+growth will be further supported by the recent FIFA World Cup, and the upcoming 2027
+FIFA Women’s World Cup and 2028 Summer Olympic Games. These trends will
+continue to underpin the Group’s sustainable growth momentum and strengthen its
+long-term operating performance, while safeguarding its dividend paying capacity.
+
+
+
+
+                                           19
+HUMAN RESOURCES
+As at June 30, 2026, the Group had approximately 17,300 employees in total. The Group
+provides competitive remuneration packages that are determined with reference to
+prevailing salary levels in the market and individual performance. The Company offers
+share awards to eligible employees in order to provide them with incentives and to
+recognise their contributions and ongoing efforts. In addition, the Group provides other
+fringe benefits, such as social insurance, mandatory provident funds, medical coverage
+and training programmes for employees based on their respective personal career
+development.
+
+INTERIM DIVIDEND AND SPECIAL DIVIDEND
+The Board has resolved to declare an interim dividend of HK$0.016 in cash per Share
+for the six months ended June 30, 2026 (six months ended June 30, 2025: interim
+dividend of HK$0.0115 per Share). In addition to the interim dividend, to reward the
+Shareholders’ continued support, the Board has resolved to declare a special dividend of
+HK$0.016 in cash per Share (six months ended June 30, 2025: special dividend of
+HK$0.0115 per Share), bringing the total dividends declared for the Period to HK$0.032
+per Share, representing a payout ratio of 60%. The interim dividend and special dividend
+will be paid on Friday, October 9, 2026 to the Shareholders whose names appear on the
+Register of Members on Wednesday, September 16, 2026.
+
+CLOSURE OF REGISTER OF MEMBERS
+The Register of Members will be closed from Wednesday, September 16, 2026 to Friday,
+September 18, 2026, both days inclusive, during which period no transfer of Shares will
+be effected. In order to qualify for the interim dividend and special dividend, all transfer
+documents accompanied by the relevant share certificates must be lodged with the
+Company’s branch share registrar and transfer office in Hong Kong, Computershare
+Hong Kong Investor Services Limited at Shops 1712-1716, 17th Floor, Hopewell Centre,
+183 Queen’s Road East, Wanchai, Hong Kong for registration no later than 4:30 p.m. on
+Tuesday, September 15, 2026. The record date for entitlement to the interim dividend
+and special dividend will be Wednesday, September 16, 2026.
+
+
+
+
+                                            20
+PURCHASE, SALE OR REDEMPTION OF LISTED SECURITIES
+During the six months ended June 30, 2026, the Company repurchased a total of
+10,665,000 Shares on the Stock Exchange for an aggregate consideration of
+HK$4,902,301 (before expenses). All the repurchased Shares were subsequently
+cancelled. As at June 30, 2026, the total number of Shares in issue was 5,315,514,615.
+
+Particulars of the repurchases of Shares are as follows:
+
+                                                                             Aggregate
+                                                    Purchase price        consideration
+                            Number of                 per Share                 (before
+                               Shares            Highest        Lowest        expenses)
+Date                      repurchased             (HK$)          (HK$)           (HK$)
+
+January 2, 2026                 90,000             0.470              –          42,300
+January 5, 2026                560,000             0.475          0.470         265,075
+January 6, 2026                447,000             0.475              –         212,325
+January 9, 2026              3,850,000             0.485              –       1,867,250
+March 12, 2026               2,446,000             0.440          0.425       1,056,680
+March 13, 2026               3,272,000             0.450          0.435       1,458,671
+                            10,665,000                                        4,902,301
+
+
+Save as disclosed above, neither the Company nor any of its subsidiaries had purchased,
+sold or redeemed any of the Company’s listed securities (including sale of treasury
+shares as defined in the Rules Governing the Listing of Securities on the Stock Exchange
+(“the Listing Rules”)) (six months ended June 30, 2025: nil). As at June 30, 2026 and up
+to the date of this announcement, the Company did not hold any treasury shares whether
+in the Central Clearing and Settlement System, or otherwise.
+
+REVIEW OF ACCOUNTS
+The audit committee of the Company has reviewed, with management and Messrs.
+Deloitte Touche Tohmatsu, the independent auditor of the Company (“Messrs. Deloitte
+Touche Tohmatsu”), the Group’s unaudited condensed consolidated interim financial
+information for the six months ended June 30, 2026, the interim report, the accounting
+principles and practices adopted by the Group and has discussed risk management,
+internal controls, and financial reporting matters.
+
+
+
+
+                                            21
+In addition, Messrs. Deloitte Touche Tohmatsu has reviewed the unaudited condensed
+consolidated financial information of the Group for the six months ended June 30, 2026
+in accordance with Hong Kong Standard on Review Engagements 2410 “Review of
+Interim Financial Information Performed by the Independent Auditor of the Entity” as
+issued by the HKICPA.
+
+CORPORATE GOVERNANCE
+The Company has applied the principles of, and has complied with all applicable code
+provisions and, where applicable, the recommended best practices set out in Corporate
+Governance Code contained in Appendix C1 to the Listing Rules throughout the six
+months ended June 30, 2026.
+
+MODEL CODE FOR SECURITIES TRANSACTIONS BY DIRECTORS
+The Company has adopted the Model Code for Securities Transactions by Directors of
+Listed Issuers (the “Model Code”) as set out in Appendix C3 to the Listing Rules as the
+Company’s code of conduct for dealings in securities of the Company by Directors.
+Having made specific enquiry by the Company to all Directors, each of them has
+confirmed that he/she has complied with the required standards set out in the Model
+Code throughout the six months ended June 30, 2026.
+
+PUBLICATION OF RESULTS ANNOUNCEMENT AND INTERIM REPORT
+This announcement is published on the websites of the Company (www.pousheng.com)
+and the Hong Kong Exchanges and Clearing Limited (www.hkexnews.hk). The 2026
+interim report of the Company containing all applicable information required by the
+Listing Rules will be made available on the above websites and sent to the Shareholders
+in the manner required by the Listing Rules in due course.
+
+
+
+
+                                          22
+ACKNOWLEDGEMENT
+I would like to take this opportunity to express our sincere appreciation of the support
+from our customers, suppliers and Shareholders. I would also like to thank my fellow
+Directors for their valuable contribution and the staff of the Group for their commitment
+and dedicated services throughout the Period.
+
+                                                             By Order of the Board
+                                                                Chiu, Hui-Yao
+                                                                  Chairman
+
+Hong Kong, August 12, 2026
+
+As at the date of this announcement, the Board comprises:
+
+Non-executive Directors
+Mr. Chiu, Hui-Yao (Chairman), Ms. Tsai Patty, Pei Chun and Mr. Li I-nan
+
+Executive Directors
+Mr. Hu, Chia-Ho, Ms. Chang, Su-Ching (Chief Executive Officer) and Mr. Chen, Li-Chieh
+(Chief Financial Officer)
+
+Independent Non-executive Directors
+Mr. Feng Lei Ming, Mr. Liu, Hsi-Liang and Ms. Leung Pui Yee
+
+Website: www.pousheng.com
+
+
+
+
+                                           23
+

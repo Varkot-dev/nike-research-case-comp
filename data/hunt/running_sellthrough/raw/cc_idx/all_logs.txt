@@ -1,0 +1,57 @@
+CC-MAIN-2024-26 www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Mens-Running* 0 0 ok
+CC-MAIN-2024-33 www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Mens-Running* 0 0 ok
+CC-MAIN-2024-42 www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Mens-Running* 0 0 ok
+CC-MAIN-2025-05 www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Mens-Running* 0 0 ok
+CC-MAIN-2025-18 www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Mens-Running* 0 0 ok
+CC-MAIN-2025-33 www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Mens-Running* 0 0 ok
+CC-MAIN-2025-43 www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Mens-Running* 0 0 ok
+CC-MAIN-2026-08 www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Mens-Running* 0 0 ok
+CC-MAIN-2024-26 www.fleetfeet.com/products/* 1 0 ok
+CC-MAIN-2024-33 www.fleetfeet.com/products/* 1 0 ok
+CC-MAIN-2024-42 www.fleetfeet.com/products/* 1 0 ok
+CC-MAIN-2025-05 www.fleetfeet.com/products/* 1 0 ok
+CC-MAIN-2025-18 www.fleetfeet.com/products/* 1 0 ok
+CC-MAIN-2025-33 www.fleetfeet.com/products/* 1 0 ok
+CC-MAIN-2025-43 www.fleetfeet.com/products/* 1 0 ok
+CC-MAIN-2026-08 www.fleetfeet.com/products/* 1 0 ok
+giveup www.fleetfeet.com/products/* CC-MAIN-2026-21
+CC-MAIN-2026-34 www.fleetfeet.com/products/* 1 0 ok
+CC-MAIN-2024-26 www.runningwarehouse.com/Brooks_Ghost* 0 0 ok
+CC-MAIN-2024-33 www.runningwarehouse.com/Brooks_Ghost* 0 0 ok
+CC-MAIN-2024-42 www.runningwarehouse.com/Brooks_Ghost* 0 0 ok
+CC-MAIN-2025-05 www.runningwarehouse.com/Brooks_Ghost* 0 0 ok
+CC-MAIN-2025-18 www.runningwarehouse.com/Brooks_Ghost* 1 0 ok
+giveup www.runningwarehouse.com/Brooks_Ghost* CC-MAIN-2025-33
+CC-MAIN-2024-26 www.runningwarehouse.com/HOKA_Clifton* 0 0 ok
+giveup www.runningwarehouse.com/HOKA_Clifton* CC-MAIN-2024-33
+CC-MAIN-2024-42 www.runningwarehouse.com/HOKA_Clifton* 0 0 ok
+CC-MAIN-2025-05 www.runningwarehouse.com/HOKA_Clifton* 1 0 ok
+CC-MAIN-2025-18 www.runningwarehouse.com/HOKA_Clifton* 1 0 ok
+CC-MAIN-2025-33 www.runningwarehouse.com/HOKA_Clifton* 0 0 ok
+CC-MAIN-2024-26 www.runningwarehouse.com/Nike_Pegasus* 0 0 ok
+CC-MAIN-2024-33 www.runningwarehouse.com/Nike_Pegasus* 0 0 ok
+CC-MAIN-2024-42 www.runningwarehouse.com/Nike_Pegasus* 0 0 ok
+giveup www.runningwarehouse.com/Nike_Pegasus* CC-MAIN-2025-05
+CC-MAIN-2025-18 www.runningwarehouse.com/Nike_Pegasus* 0 0 ok
+CC-MAIN-2025-33 www.runningwarehouse.com/Nike_Pegasus* 0 0 ok
+giveup www.runningwarehouse.com/Nike_Pegasus* CC-MAIN-2025-43
+CC-MAIN-2024-26 www.runningwarehouse.com/Nike_Vomero* 0 0 ok
+giveup www.runningwarehouse.com/Nike_Vomero* CC-MAIN-2024-33
+CC-MAIN-2024-42 www.runningwarehouse.com/Nike_Vomero* 0 0 ok
+CC-MAIN-2025-05 www.runningwarehouse.com/Nike_Vomero* 0 0 ok
+CC-MAIN-2025-18 www.runningwarehouse.com/Nike_Vomero* 0 0 ok
+CC-MAIN-2025-33 www.runningwarehouse.com/Nike_Vomero* 0 0 ok
+CC-MAIN-2024-26 www.zappos.com/p/hoka-clifton* 1 1 ok
+CC-MAIN-2024-33 www.zappos.com/p/hoka-clifton* 0 0 ok
+CC-MAIN-2024-42 www.zappos.com/p/hoka-clifton* 0 0 ok
+CC-MAIN-2025-05 www.zappos.com/p/hoka-clifton* 1 0 ok
+CC-MAIN-2025-18 www.zappos.com/p/hoka-clifton* 0 0 ok
+CC-MAIN-2025-33 www.zappos.com/p/hoka-clifton* 1 0 ok
+CC-MAIN-2025-43 www.zappos.com/p/hoka-clifton* 1 0 ok
+CC-MAIN-2026-08 www.zappos.com/p/hoka-clifton* 0 0 ok
+CC-MAIN-2026-21 www.zappos.com/p/hoka-clifton* 0 0 ok
+giveup www.zappos.com/p/hoka-clifton* CC-MAIN-2026-34
+giveup www.zappos.com/p/nike-pegasus* CC-MAIN-2024-26
+giveup www.zappos.com/p/nike-pegasus* CC-MAIN-2024-33
+CC-MAIN-2024-42 www.zappos.com/p/nike-pegasus* 0 0 ok
+CC-MAIN-2025-05 www.zappos.com/p/nike-pegasus* 0 0 ok

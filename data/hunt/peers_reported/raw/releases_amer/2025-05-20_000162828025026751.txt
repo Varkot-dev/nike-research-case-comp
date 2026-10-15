@@ -1,0 +1,704 @@
+SOURCE https://www.sec.gov/Archives/edgar/data/1988894/000162828025026751/as-20250331.htm
+ 
+ as-20250331 0001988894 false 12/31 3/31/2025 Q1 2025 iso4217:USD iso4217:USD xbrli:shares as:country as:segment xbrli:pure xbrli:shares iso4217:CNY as:subsidiary iso4217:EUR 0001988894 2025-01-01 2025-03-31 0001988894 2024-01-01 2024-03-31 0001988894 2025-03-31 0001988894 2024-12-31 0001988894 2024-03-31 0001988894 2023-12-31 0001988894 ifrs-full:IssuedCapitalMember 2023-12-31 0001988894 ifrs-full:SharePremiumMember 2023-12-31 0001988894 ifrs-full:CapitalReserveMember 2023-12-31 0001988894 ifrs-full:ReserveOfCashFlowHedgesMember 2023-12-31 0001988894 ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember 2023-12-31 0001988894 ifrs-full:ReserveOfRemeasurementsOfDefinedBenefitPlansMember 2023-12-31 0001988894 ifrs-full:OtherReservesMember 2023-12-31 0001988894 ifrs-full:RetainedEarningsMember 2023-12-31 0001988894 ifrs-full:NoncontrollingInterestsMember 2023-12-31 0001988894 ifrs-full:ReserveOfCashFlowHedgesMember 2024-01-01 2024-03-31 0001988894 ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember 2024-01-01 2024-03-31 0001988894 ifrs-full:ReserveOfRemeasurementsOfDefinedBenefitPlansMember 2024-01-01 2024-03-31 0001988894 ifrs-full:RetainedEarningsMember 2024-01-01 2024-03-31 0001988894 ifrs-full:NoncontrollingInterestsMember 2024-01-01 2024-03-31 0001988894 ifrs-full:OtherReservesMember 2024-01-01 2024-03-31 0001988894 ifrs-full:IssuedCapitalMember 2024-01-01 2024-03-31 0001988894 ifrs-full:SharePremiumMember 2024-01-01 2024-03-31 0001988894 ifrs-full:CapitalReserveMember 2024-01-01 2024-03-31 0001988894 ifrs-full:IssuedCapitalMember 2024-03-31 0001988894 ifrs-full:SharePremiumMember 2024-03-31 0001988894 ifrs-full:CapitalReserveMember 2024-03-31 0001988894 ifrs-full:ReserveOfCashFlowHedgesMember 2024-03-31 0001988894 ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember 2024-03-31 0001988894 ifrs-full:ReserveOfRemeasurementsOfDefinedBenefitPlansMember 2024-03-31 0001988894 ifrs-full:OtherReservesMember 2024-03-31 0001988894 ifrs-full:RetainedEarningsMember 2024-03-31 0001988894 ifrs-full:NoncontrollingInterestsMember 2024-03-31 0001988894 ifrs-full:IssuedCapitalMember 2024-12-31 0001988894 ifrs-full:SharePremiumMember 2024-12-31 0001988894 ifrs-full:CapitalReserveMember 2024-12-31 0001988894 ifrs-full:ReserveOfCashFlowHedgesMember 2024-12-31 0001988894 ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember 2024-12-31 0001988894 ifrs-full:ReserveOfRemeasurementsOfDefinedBenefitPlansMember 2024-12-31 0001988894 ifrs-full:OtherReservesMember 2024-12-31 0001988894 ifrs-full:RetainedEarningsMember 2024-12-31 0001988894 ifrs-full:NoncontrollingInterestsMember 2024-12-31 0001988894 ifrs-full:ReserveOfCashFlowHedgesMember 2025-01-01 2025-03-31 0001988894 ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember 2025-01-01 2025-03-31 0001988894 ifrs-full:ReserveOfRemeasurementsOfDefinedBenefitPlansMember 2025-01-01 2025-03-31 0001988894 ifrs-full:OtherReservesMember 2025-01-01 2025-03-31 0001988894 ifrs-full:RetainedEarningsMember 2025-01-01 2025-03-31 0001988894 ifrs-full:NoncontrollingInterestsMember 2025-01-01 2025-03-31 0001988894 ifrs-full:IssuedCapitalMember 2025-01-01 2025-03-31 0001988894 ifrs-full:SharePremiumMember 2025-01-01 2025-03-31 0001988894 ifrs-full:IssuedCapitalMember 2025-03-31 0001988894 ifrs-full:SharePremiumMember 2025-03-31 0001988894 ifrs-full:CapitalReserveMember 2025-03-31 0001988894 ifrs-full:ReserveOfCashFlowHedgesMember 2025-03-31 0001988894 ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember 2025-03-31 0001988894 ifrs-full:ReserveOfRemeasurementsOfDefinedBenefitPlansMember 2025-03-31 0001988894 ifrs-full:OtherReservesMember 2025-03-31 0001988894 ifrs-full:RetainedEarningsMember 2025-03-31 0001988894 ifrs-full:NoncontrollingInterestsMember 2025-03-31 0001988894 ifrs-full:OperatingSegmentsMember as:TechnicalApparelMember 2025-01-01 2025-03-31 0001988894 ifrs-full:OperatingSegmentsMember as:TechnicalApparelMember 2024-01-01 2024-03-31 0001988894 ifrs-full:OperatingSegmentsMember as:OutdoorPerformanceMember 2025-01-01 2025-03-31 0001988894 ifrs-full:OperatingSegmentsMember as:OutdoorPerformanceMember 2024-01-01 2024-03-31 0001988894 ifrs-full:OperatingSegmentsMember as:BallRacquetSportsMember 2025-01-01 2025-03-31 0001988894 ifrs-full:OperatingSegmentsMember as:BallRacquetSportsMember 2024-01-01 2024-03-31 0001988894 ifrs-full:OperatingSegmentsMember 2025-01-01 2025-03-31 0001988894 ifrs-full:OperatingSegmentsMember 2024-01-01 2024-03-31 0001988894 ifrs-full:MaterialReconcilingItemsMember 2025-01-01 2025-03-31 0001988894 ifrs-full:MaterialReconcilingItemsMember 2024-01-01 2024-03-31 0001988894 ifrs-full:UnallocatedAmountsMember 2025-01-01 2025-03-31 0001988894 ifrs-full:UnallocatedAmountsMember 2024-01-01 2024-03-31 0001988894 2024-01-01 2024-12-31 0001988894 srt:AmericasMember 2025-01-01 2025-03-31 0001988894 srt:AmericasMember 2024-01-01 2024-03-31 0001988894 as:GreaterChinaMember 2025-01-01 2025-03-31 0001988894 as:GreaterChinaMember 2024-01-01 2024-03-31 0001988894 as:EMEAMember 2025-01-01 2025-03-31 0001988894 as:EMEAMember 2024-01-01 2024-03-31 0001988894 srt:AsiaPacificMember 2025-01-01 2025-03-31 0001988894 srt:AsiaPacificMember 2024-01-01 2024-03-31 0001988894 country:US 2025-01-01 2025-03-31 0001988894 country:US 2024-01-01 2024-03-31 0001988894 country:CN 2025-01-01 2025-03-31 0001988894 country:CN 2024-01-01 2024-03-31 0001988894 as:TechnicalApparelMember as:WholesaleMember 2025-01-01 2025-03-31 0001988894 as:TechnicalApparelMember as:WholesaleMember 2024-01-01 2024-03-31 0001988894 as:OutdoorPerformanceMember as:WholesaleMember 2025-01-01 2025-03-31 0001988894 as:OutdoorPerformanceMember as:WholesaleMember 2024-01-01 2024-03-31 0001988894 as:BallRacquetSportsMember as:WholesaleMember 2025-01-01 2025-03-31 0001988894 as:BallRacquetSportsMember as:WholesaleMember 2024-01-01 2024-03-31 0001988894 as:WholesaleMember 2025-01-01 2025-03-31 0001988894 as:WholesaleMember 2024-01-01 2024-03-31 0001988894 as:TechnicalApparelMember as:DTCMember 2025-01-01 2025-03-31 0001988894 as:TechnicalApparelMember as:DTCMember 2024-01-01 2024-03-31 0001988894 as:OutdoorPerformanceMember as:DTCMember 2025-01-01 2025-03-31 0001988894 as:OutdoorPerformanceMember as:DTCMember 2024-01-01 2024-03-31 0001988894 as:BallRacquetSportsMember as:DTCMember 2025-01-01 2025-03-31 0001988894 as:BallRacquetSportsMember as:DTCMember 2024-01-01 2024-03-31 0001988894 as:DTCMember 2025-01-01 2025-03-31 0001988894 as:DTCMember 2024-01-01 2024-03-31 0001988894 as:TimeVestedEquitySettledOptionsMember 2025-03-31 0001988894 as:EmployeeStockOwnershipPlan2019Member 2025-01-01 2025-03-31 0001988894 as:EmployeeStockOwnershipPlan2023Member 2025-01-01 2025-03-31 0001988894 as:GroupPerformanceBasedEquitySettledOptionsMember 2025-03-31 0001988894 as:EmployeeStockOwnershipPlan2019And2023Member 2024-12-31 0001988894 as:EmployeeStockOwnershipPlan2019And2023Member 2023-12-31 0001988894 as:EmployeeStockOwnershipPlan2019And2023Member 2025-01-01 2025-03-31 0001988894 as:EmployeeStockOwnershipPlan2019And2023Member 2024-01-01 2024-03-31 0001988894 as:EmployeeStockOwnershipPlan2019And2023Member 2025-03-31 0001988894 as:EmployeeStockOwnershipPlan2019And2023Member 2024-03-31 0001988894 ifrs-full:RestrictedShareUnitsMember 2024-01-31 2024-01-31 0001988894 as:PerformanceShareUnitsMember 2024-01-31 2024-01-31 0001988894 ifrs-full:RestrictedShareUnitsMember 2024-12-31 0001988894 ifrs-full:RestrictedShareUnitsMember 2023-12-31 0001988894 ifrs-full:RestrictedShareUnitsMember 2025-01-01 2025-03-31 0001988894 ifrs-full:RestrictedShareUnitsMember 2024-01-01 2024-03-31 0001988894 ifrs-full:RestrictedShareUnitsMember 2025-03-31 0001988894 ifrs-full:RestrictedShareUnitsMember 2024-03-31 0001988894 as:PerformanceShareUnitsMember 2024-12-31 0001988894 as:PerformanceShareUnitsMember 2023-12-31 0001988894 as:PerformanceShareUnitsMember 2025-01-01 2025-03-31 0001988894 as:PerformanceShareUnitsMember 2024-01-01 2024-03-31 0001988894 as:PerformanceShareUnitsMember 2025-03-31 0001988894 as:PerformanceShareUnitsMember 2024-03-31 0001988894 ifrs-full:GrossCarryingAmountMember ifrs-full:LandMember 2024-12-31 0001988894 ifrs-full:GrossCarryingAmountMember ifrs-full:BuildingsMember 2024-12-31 0001988894 ifrs-full:GrossCarryingAmountMember as:MachineryAndEquipmentMember 2024-12-31 0001988894 ifrs-full:GrossCarryingAmountMember ifrs-full:ConstructionInProgressMember 2024-12-31 0001988894 ifrs-full:GrossCarryingAmountMember 2024-12-31 0001988894 ifrs-full:GrossCarryingAmountMember ifrs-full:LandMember 2025-01-01 2025-03-31 0001988894 ifrs-full:GrossCarryingAmountMember ifrs-full:BuildingsMember 2025-01-01 2025-03-31 0001988894 ifrs-full:GrossCarryingAmountMember as:MachineryAndEquipmentMember 2025-01-01 2025-03-31 0001988894 ifrs-full:GrossCarryingAmountMember ifrs-full:ConstructionInProgressMember 2025-01-01 2025-03-31 0001988894 ifrs-full:GrossCarryingAmountMember 2025-01-01 2025-03-31 0001988894 ifrs-full:GrossCarryingAmountMember ifrs-full:LandMember 2025-03-31 0001988894 ifrs-full:GrossCarryingAmountMember ifrs-full:BuildingsMember 2025-03-31 0001988894 ifrs-full:GrossCarryingAmountMember as:MachineryAndEquipmentMember 2025-03-31 0001988894 ifrs-full:GrossCarryingAmountMember ifrs-full:ConstructionInProgressMember 2025-03-31 0001988894 ifrs-full:GrossCarryingAmountMember 2025-03-31 0001988894 ifrs-full:AccumulatedDepreciationAmortisationAndImpairmentMember ifrs-full:LandMember 2024-12-31 0001988894 ifrs-full:AccumulatedDepreciationAmortisationAndImpairmentMember ifrs-full:BuildingsMember 2024-12-31 0001988894 ifrs-full:AccumulatedDepreciationAmortisationAndImpairmentMember as:MachineryAndEquipmentMember 2024-12-31 0001988894 ifrs-full:AccumulatedDepreciationAmortisationAndImpairmentMember ifrs-full:ConstructionInProgressMember 2024-12-31 0001988894 ifrs-full:AccumulatedDepreciationAmortisationAndImpairmentMember 2024-12-31 0001988894 ifrs-full:AccumulatedDepreciationAmortisationAndImpairmentMember ifrs-full:LandMember 2025-01-01 2025-03-31 0001988894 ifrs-full:AccumulatedDepreciationAmortisationAndImpairmentMember ifrs-full:BuildingsMember 2025-01-01 2025-03-31 0001988894 ifrs-full:AccumulatedDepreciationAmortisationAndImpairmentMember as:MachineryAndEquipmentMember 2025-01-01 2025-03-31 0001988894 ifrs-full:AccumulatedDepreciationAmortisationAndImpairmentMember ifrs-full:ConstructionInProgressMember 2025-01-01 2025-03-31 0001988894 ifrs-full:AccumulatedDepreciationAmortisationAndImpairmentMember 2025-01-01 2025-03-31 0001988894 ifrs-full:AccumulatedDepreciationAmortisationAndImpairmentMember ifrs-full:LandMember 2025-03-31 0001988894 ifrs-full:AccumulatedDepreciationAmortisationAndImpairmentMember ifrs-full:BuildingsMember 2025-03-31 0001988894 ifrs-full:AccumulatedDepreciationAmortisationAndImpairmentMember as:MachineryAndEquipmentMember 2025-03-31 0001988894 ifrs-full:AccumulatedDepreciationAmortisationAndImpairmentMember ifrs-full:ConstructionInProgressMember 2025-03-31 0001988894 ifrs-full:AccumulatedDepreciationAmortisationAndImpairmentMember 2025-03-31 0001988894 ifrs-full:LandMember 2025-03-31 0001988894 ifrs-full:BuildingsMember 2025-03-31 0001988894 as:MachineryAndEquipmentMember 2025-03-31 0001988894 ifrs-full:ConstructionInProgressMember 2025-03-31 0001988894 ifrs-full:AccumulatedImpairmentMember 2025-03-31 0001988894 ifrs-full:AccumulatedImpairmentMember 2024-12-31 0001988894 as:Usd800MillionOf6.750NewSeniorSecuredNotesMember 2024-02-16 0001988894 as:ChinaMerchantsBankCoLtdLineOfCreditMember 2024-09-02 0001988894 ifrs-full:TopOfRangeMember as:ChinaMerchantsBankCoLtdLineOfCreditMember 2024-09-02 0001988894 as:ChinaMerchantsBankCoLtdLineOfCreditMember 2025-03-31 0001988894 as:ChinaMerchantsBankCoLtdLineOfCreditMember 2024-11-19 0001988894 as:ChinaMerchantsBankCoLtdLineOfCreditMember 2024-11-19 2024-11-19 0001988894 ifrs-full:BottomOfRangeMember as:ChinaMerchantsBankCoLtdLineOfCreditMember 2025-03-31 0001988894 as:IFRSRevolvingCreditFacilityMember 2025-03-31 0001988894 ifrs-full:WarrantyProvisionMember 2024-12-31 0001988894 ifrs-full:RestructuringProvisionMember 2024-12-31 0001988894 ifrs-full:MiscellaneousOtherProvisionsMember 2024-12-31 0001988894 ifrs-full:WarrantyProvisionMember 2025-01-01 2025-03-31 0001988894 ifrs-full:RestructuringProvisionMember 2025-01-01 2025-03-31 0001988894 ifrs-full:MiscellaneousOtherProvisionsMember 2025-01-01 2025-03-31 0001988894 ifrs-full:WarrantyProvisionMember 2025-03-31 0001988894 ifrs-full:RestructuringProvisionMember 2025-03-31 0001988894 ifrs-full:MiscellaneousOtherProvisionsMember 2025-03-31 0001988894 as:AntaSportsAndSubsidiariesMember 2025-01-01 2025-03-31 0001988894 as:AntaSportsAndSubsidiariesMember 2024-01-01 2024-03-31 0001988894 as:UnsecuredInvestmentLoanMember ifrs-full:ParentMember 2025-01-01 2025-03-31 0001988894 as:UnsecuredInvestmentLoanMember ifrs-full:ParentMember 2024-01-01 2024-03-31 0001988894 as:UnsecuredFacilityLoanMember ifrs-full:ParentMember 2025-01-01 2025-03-31 0001988894 as:UnsecuredFacilityLoanMember ifrs-full:ParentMember 2024-01-01 2024-03-31 0001988894 ifrs-full:ParentMember 2025-01-01 2025-03-31 0001988894 ifrs-full:ParentMember 2024-01-01 2024-03-31 0001988894 as:CurrentPayableMember as:AntaSportsAndSubsidiariesMember 2025-03-31 0001988894 as:CurrentPayableMember as:AntaSportsAndSubsidiariesMember 2024-12-31 0001988894 as:CurrentReceivablesMember as:AntaSportsAndSubsidiariesMember 2025-03-31 0001988894 as:CurrentReceivablesMember as:AntaSportsAndSubsidiariesMember 2024-12-31 0001988894 as:RightOfUseAssetAndLeaseLiabilityMember as:LowTidePropertiesLtdMember 2025-03-31 0001988894 as:RightOfUseAssetAndLeaseLiabilityMember as:LowTidePropertiesLtdMember 2024-12-31 0001988894 as:OtherNonCurrentFinancialAssetsMember ifrs-full:FinancialAssetsAtAmortisedCostCategoryMember 2025-03-31 0001988894 as:OtherNonCurrentFinancialAssetsMember ifrs-full:FinancialAssetsAtAmortisedCostCategoryMember 2024-12-31 0001988894 as:OtherNonCurrentFinancialAssetsMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember 2025-03-31 0001988894 as:OtherNonCurrentFinancialAssetsMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember ifrs-full:AtFairValueMember 2025-03-31 0001988894 ifrs-full:Level3OfFairValueHierarchyMember as:OtherNonCurrentFinancialAssetsMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember ifrs-full:AtFairValueMember 2025-03-31 0001988894 as:OtherNonCurrentFinancialAssetsMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember 2024-12-31 0001988894 as:OtherNonCurrentFinancialAssetsMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember ifrs-full:AtFairValueMember 2024-12-31 0001988894 ifrs-full:Level3OfFairValueHierarchyMember as:OtherNonCurrentFinancialAssetsMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember ifrs-full:AtFairValueMember 2024-12-31 0001988894 as:NonCurrentPromissoryNotesMember 2025-03-31 0001988894 as:NonCurrentPromissoryNotesMember ifrs-full:FinancialAssetsAtAmortisedCostCategoryMember ifrs-full:AtFairValueMember 2025-03-31 0001988894 ifrs-full:Level3OfFairValueHierarchyMember as:NonCurrentPromissoryNotesMember ifrs-full:FinancialAssetsAtAmortisedCostCategoryMember ifrs-full:AtFairValueMember 2025-03-31 0001988894 as:NonCurrentPromissoryNotesMember 2024-12-31 0001988894 as:NonCurrentPromissoryNotesMember ifrs-full:FinancialAssetsAtAmortisedCostCategoryMember ifrs-full:AtFairValueMember 2024-12-31 0001988894 ifrs-full:Level3OfFairValueHierarchyMember as:NonCurrentPromissoryNotesMember ifrs-full:FinancialAssetsAtAmortisedCostCategoryMember ifrs-full:AtFairValueMember 2024-12-31 0001988894 as:NonCurrentForeignExchangeDerivativesMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember 2025-03-31 0001988894 as:NonCurrentForeignExchangeDerivativesMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember ifrs-full:AtFairValueMember 2025-03-31 0001988894 ifrs-full:Level2OfFairValueHierarchyMember as:NonCurrentForeignExchangeDerivativesMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember ifrs-full:AtFairValueMember 2025-03-31 0001988894 as:NonCurrentForeignExchangeDerivativesMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember 2024-12-31 0001988894 as:NonCurrentForeignExchangeDerivativesMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember ifrs-full:AtFairValueMember 2024-12-31 0001988894 ifrs-full:Level2OfFairValueHierarchyMember as:NonCurrentForeignExchangeDerivativesMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember ifrs-full:AtFairValueMember 2024-12-31 0001988894 as:CurrentHoldToCollectAccountsReceivablesMember ifrs-full:FinancialAssetsAtAmortisedCostCategoryMember 2025-03-31 0001988894 as:CurrentHoldToCollectAccountsReceivablesMember ifrs-full:FinancialAssetsAtAmortisedCostCategoryMember 2024-12-31 0001988894 as:CurrentAvailableForSaleFactoringReceivablesMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember 2025-03-31 0001988894 as:CurrentAvailableForSaleFactoringReceivablesMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember ifrs-full:AtFairValueMember 2025-03-31 0001988894 ifrs-full:Level3OfFairValueHierarchyMember as:CurrentAvailableForSaleFactoringReceivablesMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember ifrs-full:AtFairValueMember 2025-03-31 0001988894 as:CurrentAvailableForSaleFactoringReceivablesMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember 2024-12-31 0001988894 as:CurrentAvailableForSaleFactoringReceivablesMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember ifrs-full:AtFairValueMember 2024-12-31 0001988894 ifrs-full:Level3OfFairValueHierarchyMember as:CurrentAvailableForSaleFactoringReceivablesMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember ifrs-full:AtFairValueMember 2024-12-31 0001988894 as:OtherCurrentInterestFreeReceivablesMember ifrs-full:FinancialAssetsAtAmortisedCostCategoryMember 2025-03-31 0001988894 as:OtherCurrentInterestFreeReceivablesMember ifrs-full:FinancialAssetsAtAmortisedCostCategoryMember 2024-12-31 0001988894 as:CurrentPromissoryNotesMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember 2025-03-31 0001988894 as:CurrentPromissoryNotesMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember ifrs-full:AtFairValueMember 2025-03-31 0001988894 ifrs-full:Level3OfFairValueHierarchyMember as:CurrentPromissoryNotesMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember ifrs-full:AtFairValueMember 2025-03-31 0001988894 as:CurrentPromissoryNotesMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember 2024-12-31 0001988894 as:CurrentPromissoryNotesMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember ifrs-full:AtFairValueMember 2024-12-31 0001988894 ifrs-full:Level3OfFairValueHierarchyMember as:CurrentPromissoryNotesMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember ifrs-full:AtFairValueMember 2024-12-31 0001988894 as:CurrentForeignExchangeDerivativesMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember 2025-03-31 0001988894 as:CurrentForeignExchangeDerivativesMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember ifrs-full:AtFairValueMember 2025-03-31 0001988894 ifrs-full:Level2OfFairValueHierarchyMember as:CurrentForeignExchangeDerivativesMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember ifrs-full:AtFairValueMember 2025-03-31 0001988894 as:CurrentForeignExchangeDerivativesMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember 2024-12-31 0001988894 as:CurrentForeignExchangeDerivativesMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember ifrs-full:AtFairValueMember 2024-12-31 0001988894 ifrs-full:Level2OfFairValueHierarchyMember as:CurrentForeignExchangeDerivativesMember ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember ifrs-full:AtFairValueMember 2024-12-31 0001988894 as:CurrentForeignExchangeDerivativesMember ifrs-full:FinancialAssetsAtFairValueThroughProfitOrLossCategoryMember 2025-03-31 0001988894 as:CurrentForeignExchangeDerivativesMember ifrs-full:FinancialAssetsAtFairValueThroughProfitOrLossCategoryMember ifrs-full:AtFairValueMember 2025-03-31 0001988894 ifrs-full:Level2OfFairValueHierarchyMember as:CurrentForeignExchangeDerivativesMember ifrs-full:FinancialAssetsAtFairValueThroughProfitOrLossCategoryMember ifrs-full:AtFairValueMember 2025-03-31 0001988894 as:CurrentForeignExchangeDerivativesMember ifrs-full:FinancialAssetsAtFairValueThroughProfitOrLossCategoryMember 2024-12-31 0001988894 as:CurrentForeignExchangeDerivativesMember ifrs-full:FinancialAssetsAtFairValueThroughProfitOrLossCategoryMember ifrs-full:AtFairValueMember 2024-12-31 0001988894 ifrs-full:Level2OfFairValueHierarchyMember as:CurrentForeignExchangeDerivativesMember ifrs-full:FinancialAssetsAtFairValueThroughProfitOrLossCategoryMember ifrs-full:AtFairValueMember 2024-12-31 0001988894 as:IfrsCashAndCashEquivalentsMember ifrs-full:FinancialAssetsAtAmortisedCostCategoryMember 2025-03-31 0001988894 as:IfrsCashAndCashEquivalentsMember ifrs-full:FinancialAssetsAtAmortisedCostCategoryMember 2024-12-31 0001988894 ifrs-full:Level1OfFairValueHierarchyMember ifrs-full:AtFairValueMember 2025-03-31 0001988894 ifrs-full:Level2OfFairValueHierarchyMember ifrs-full:AtFairValueMember 2025-03-31 0001988894 ifrs-full:Level3OfFairValueHierarchyMember ifrs-full:AtFairValueMember 2025-03-31 0001988894 ifrs-full:Level1OfFairValueHierarchyMember ifrs-full:AtFairValueMember 2024-12-31 0001988894 ifrs-full:Level2OfFairValueHierarchyMember ifrs-full:AtFairValueMember 2024-12-31 0001988894 ifrs-full:Level3OfFairValueHierarchyMember ifrs-full:AtFairValueMember 2024-12-31 0001988894 ifrs-full:FinancialLiabilitiesAtAmortisedCostCategoryMember ifrs-full:LongtermBorrowingsMember 2025-03-31 0001988894 ifrs-full:FinancialLiabilitiesAtAmortisedCostCategoryMember ifrs-full:LongtermBorrowingsMember ifrs-full:AtFairValueMember 2025-03-31 0001988894 ifrs-full:FinancialLiabilitiesAtAmortisedCostCategoryMember ifrs-full:Level2OfFairValueHierarchyMember ifrs-full:LongtermBorrowingsMember ifrs-full:AtFairValueMember 2025-03-31 0001988894 ifrs-full:FinancialLiabilitiesAtAmortisedCostCategoryMember ifrs-full:LongtermBorrowingsMember 2024-12-31 0001988894 ifrs-full:FinancialLiabilitiesAtAmortisedCostCategoryMember ifrs-full:LongtermBorrowingsMember ifrs-full:AtFairValueMember 2024-12-31 0001988894 ifrs-full:FinancialLiabilitiesAtAmortisedCostCategoryMember ifrs-full:Level2OfFairValueHierarchyMember ifrs-full:LongtermBorrowingsMember ifrs-full:AtFairValueMember 2024-12-31 0001988894 ifrs-full:FinancialLiabilitiesAtAmortisedCostCategoryMember as:LongTermObligationsUnderLeasesMember 2025-03-31 0001988894 ifrs-full:FinancialLiabilitiesAtAmortisedCostCategoryMember as:LongTermObligationsUnderLeasesMember 2024-12-31 0001988894 ifrs-full:FinancialLiabilitiesAtAmortisedCostCategoryMember as:OtherLongTermLiabilitiesMember 2025-03-31 0001988894 ifrs-full:FinancialLiabilitiesAtAmortisedCostCategoryMember as:OtherLongTermLiabilitiesMember 2024-12-31 0001988894 as:FinancialLiabilitiesMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember as:NonCurrentForeignExchangeDerivativesMember 2025-03-31 0001988894 as:FinancialLiabilitiesMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember as:NonCurrentForeignExchangeDerivativesMember ifrs-full:AtFairValueMember 2025-03-31 0001988894 as:FinancialLiabilitiesMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember ifrs-full:Level2OfFairValueHierarchyMember as:NonCurrentForeignExchangeDerivativesMember ifrs-full:AtFairValueMember 2025-03-31 0001988894 as:FinancialLiabilitiesMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember as:NonCurrentForeignExchangeDerivativesMember 2024-12-31 0001988894 as:FinancialLiabilitiesMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember as:NonCurrentForeignExchangeDerivativesMember ifrs-full:AtFairValueMember 2024-12-31 0001988894 as:FinancialLiabilitiesMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember ifrs-full:Level2OfFairValueHierarchyMember as:NonCurrentForeignExchangeDerivativesMember ifrs-full:AtFairValueMember 2024-12-31 0001988894 as:FinancialLiabilitiesMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember as:NonCurrentCrossCurrencySwapDerivativesMember 2025-03-31 0001988894 as:FinancialLiabilitiesMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember as:NonCurrentCrossCurrencySwapDerivativesMember ifrs-full:AtFairValueMember 2025-03-31 0001988894 as:FinancialLiabilitiesMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember ifrs-full:Level2OfFairValueHierarchyMember as:NonCurrentCrossCurrencySwapDerivativesMember ifrs-full:AtFairValueMember 2025-03-31 0001988894 as:FinancialLiabilitiesMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember as:NonCurrentCrossCurrencySwapDerivativesMember 2024-12-31 0001988894 as:FinancialLiabilitiesMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember as:NonCurrentCrossCurrencySwapDerivativesMember ifrs-full:AtFairValueMember 2024-12-31 0001988894 as:FinancialLiabilitiesMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember ifrs-full:Level2OfFairValueHierarchyMember as:NonCurrentCrossCurrencySwapDerivativesMember ifrs-full:AtFairValueMember 2024-12-31 0001988894 ifrs-full:FinancialLiabilitiesAtAmortisedCostCategoryMember ifrs-full:ShorttermBorrowingsMember 2025-03-31 0001988894 ifrs-full:FinancialLiabilitiesAtAmortisedCostCategoryMember ifrs-full:ShorttermBorrowingsMember 2024-12-31 0001988894 ifrs-full:FinancialLiabilitiesAtAmortisedCostCategoryMember as:CurrentObligationsUnderLeasesMember 2025-03-31 0001988894 ifrs-full:FinancialLiabilitiesAtAmortisedCostCategoryMember as:CurrentObligationsUnderLeasesMember 2024-12-31 0001988894 ifrs-full:FinancialLiabilitiesAtAmortisedCostCategoryMember as:CurrentAccountsPayableMember 2025-03-31 0001988894 ifrs-full:FinancialLiabilitiesAtAmortisedCostCategoryMember as:CurrentAccountsPayableMember 2024-12-31 0001988894 ifrs-full:FinancialLiabilitiesAtAmortisedCostCategoryMember as:CurrentAccruedLiabilitiesMember 2025-03-31 0001988894 ifrs-full:FinancialLiabilitiesAtAmortisedCostCategoryMember as:CurrentAccruedLiabilitiesMember 2024-12-31 0001988894 ifrs-full:FinancialLiabilitiesAtFairValueThroughProfitOrLossCategoryMember as:CurrentDerivativeFinancialInstrumentsForeignExchangeDerivativesMember 2025-03-31 0001988894 ifrs-full:FinancialLiabilitiesAtFairValueThroughProfitOrLossCategoryMember as:CurrentDerivativeFinancialInstrumentsForeignExchangeDerivativesMember ifrs-full:AtFairValueMember 2025-03-31 0001988894 ifrs-full:FinancialLiabilitiesAtFairValueThroughProfitOrLossCategoryMember ifrs-full:Level2OfFairValueHierarchyMember as:CurrentDerivativeFinancialInstrumentsForeignExchangeDerivativesMember ifrs-full:AtFairValueMember 2025-03-31 0001988894 ifrs-full:FinancialLiabilitiesAtFairValueThroughProfitOrLossCategoryMember as:CurrentDerivativeFinancialInstrumentsForeignExchangeDerivativesMember 2024-12-31 0001988894 ifrs-full:FinancialLiabilitiesAtFairValueThroughProfitOrLossCategoryMember as:CurrentDerivativeFinancialInstrumentsForeignExchangeDerivativesMember ifrs-full:AtFairValueMember 2024-12-31 0001988894 ifrs-full:FinancialLiabilitiesAtFairValueThroughProfitOrLossCategoryMember ifrs-full:Level2OfFairValueHierarchyMember as:CurrentDerivativeFinancialInstrumentsForeignExchangeDerivativesMember ifrs-full:AtFairValueMember 2024-12-31 0001988894 as:FinancialLiabilitiesMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember as:CurrentDerivativeFinancialInstrumentsForeignExchangeDerivativesMember 2025-03-31 0001988894 as:FinancialLiabilitiesMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember as:CurrentDerivativeFinancialInstrumentsForeignExchangeDerivativesMember ifrs-full:AtFairValueMember 2025-03-31 0001988894 as:FinancialLiabilitiesMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember ifrs-full:Level2OfFairValueHierarchyMember as:CurrentDerivativeFinancialInstrumentsForeignExchangeDerivativesMember ifrs-full:AtFairValueMember 2025-03-31 0001988894 as:FinancialLiabilitiesMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember as:CurrentDerivativeFinancialInstrumentsForeignExchangeDerivativesMember 2024-12-31 0001988894 as:FinancialLiabilitiesMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember as:CurrentDerivativeFinancialInstrumentsForeignExchangeDerivativesMember ifrs-full:AtFairValueMember 2024-12-31 0001988894 as:FinancialLiabilitiesMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember ifrs-full:Level2OfFairValueHierarchyMember as:CurrentDerivativeFinancialInstrumentsForeignExchangeDerivativesMember ifrs-full:AtFairValueMember 2024-12-31 0001988894 as:FinancialLiabilitiesMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember as:CurrentDerivativeFinancialInstrumentsInterestRateDerivativesMember 2025-03-31 0001988894 as:FinancialLiabilitiesMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember as:CurrentDerivativeFinancialInstrumentsInterestRateDerivativesMember ifrs-full:AtFairValueMember 2025-03-31 0001988894 as:FinancialLiabilitiesMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember ifrs-full:Level2OfFairValueHierarchyMember as:CurrentDerivativeFinancialInstrumentsInterestRateDerivativesMember ifrs-full:AtFairValueMember 2025-03-31 0001988894 as:FinancialLiabilitiesMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember as:CurrentDerivativeFinancialInstrumentsInterestRateDerivativesMember 2024-12-31 0001988894 as:FinancialLiabilitiesMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember as:CurrentDerivativeFinancialInstrumentsInterestRateDerivativesMember ifrs-full:AtFairValueMember 2024-12-31 0001988894 as:FinancialLiabilitiesMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember ifrs-full:Level2OfFairValueHierarchyMember as:CurrentDerivativeFinancialInstrumentsInterestRateDerivativesMember ifrs-full:AtFairValueMember 2024-12-31 0001988894 as:PrepaidExpensesAndOtherReceivablesMember 2025-03-31 0001988894 as:PrepaidExpensesAndOtherReceivablesMember 2024-12-31 0001988894 as:OtherTaxReceivablesMember 2025-03-31 0001988894 as:OtherTaxReceivablesMember 2024-12-31 0001988894 as:DerivativeFinancialInstrumentsMember 2025-03-31 0001988894 as:DerivativeFinancialInstrumentsMember 2024-12-31 0001988894 as:PromissoryNotesMember 2025-03-31 0001988894 as:PromissoryNotesMember 2024-12-31 0001988894 as:IFRSOtherCurrentLiabilitiesMember 2025-03-31 0001988894 as:IFRSOtherCurrentLiabilitiesMember 2024-12-31 0001988894 as:OtherCurrentTaxLiabilitiesMember 2025-03-31 0001988894 as:OtherCurrentTaxLiabilitiesMember 2024-12-31 0001988894 as:DerivativeFinancialInstrumentsMember 2025-03-31 0001988894 as:DerivativeFinancialInstrumentsMember 2024-12-31 0001988894 ifrs-full:Level3OfFairValueHierarchyMember ifrs-full:OtherEquitySecuritiesMember 2024-12-31 0001988894 ifrs-full:Level3OfFairValueHierarchyMember as:PromissoryNotesMember 2024-12-31 0001988894 ifrs-full:Level3OfFairValueHierarchyMember as:AvailableForSaleFactoringReceivableMember 2024-12-31 0001988894 ifrs-full:Level3OfFairValueHierarchyMember 2024-12-31 0001988894 ifrs-full:Level3OfFairValueHierarchyMember ifrs-full:OtherEquitySecuritiesMember 2025-01-01 2025-03-31 0001988894 ifrs-full:Level3OfFairValueHierarchyMember as:PromissoryNotesMember 2025-01-01 2025-03-31 0001988894 ifrs-full:Level3OfFairValueHierarchyMember as:AvailableForSaleFactoringReceivableMember 2025-01-01 2025-03-31 0001988894 ifrs-full:Level3OfFairValueHierarchyMember 2025-01-01 2025-03-31 0001988894 ifrs-full:Level3OfFairValueHierarchyMember ifrs-full:OtherEquitySecuritiesMember 2025-03-31 0001988894 ifrs-full:Level3OfFairValueHierarchyMember as:PromissoryNotesMember 2025-03-31 0001988894 ifrs-full:Level3OfFairValueHierarchyMember as:AvailableForSaleFactoringReceivableMember 2025-03-31 0001988894 ifrs-full:Level3OfFairValueHierarchyMember 2025-03-31 0001988894 2025-01-24 0001988894 ifrs-full:FactoringOfReceivablesMember as:ThirdPartyBankingInstitutionFactorMember ifrs-full:CreditRiskMember 2025-03-31 0001988894 as:VestedAndUnvestedSharesOfRestrictedShareUnitsPerformanceShareUnitsAndStockOptionsMember 2025-01-01 2025-03-31 0001988894 as:VestedAndUnvestedSharesOfRestrictedShareUnitsPerformanceShareUnitsAndStockOptionsMember 2024-01-01 2024-03-31 0001988894 as:UnvestedPerformanceShareUnitsAndStockOptionsMember 2025-01-01 2025-03-31 0001988894 as:UnvestedPerformanceShareUnitsAndStockOptionsMember 2024-01-01 2024-03-31 
+ Exhibit 99.2 
+ AMER SPORTS, INC. 
+ UNAUDITED CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS 
+ January - March 2025 
+ Domicile: | Cayman Islands | 
+ Address: | Cricket Square, Hutchins Drive | 
+ P.O. Box 2681 | 
+ Grand Cayman KY1-1111 | 
+ Cayman Islands | 
+ Entity registration number: | 358866 | 
+ 1 
+ UNAUDITED CONDENSED CONSOLIDATED INTERIM STATEMENT OF INCOME AND OTHER COMPREHENSIVE INCOME 
+ For the Three Months Ended March 31, | 
+ In millions (except for earnings per share information) | Notes | 2025 | 2024 | 
+ Revenue | 4 | $ | 1,472.5 | $ | 1,192.5 | 
+ Cost of goods sold | ( 621.4 ) | ( 544.4 ) | 
+ Gross profit | 851.1 | 648.1 | 
+ Selling, general and administrative expenses | ( 641.9 ) | ( 543.8 ) | 
+ Impairment losses | ( 0.3 ) | ( 1.3 ) | 
+ Other operating income | 5.3 | 6.0 | 
+ Operating profit | 214.2 | 109.0 | 
+ Interest expense | ( 22.0 ) | ( 68.3 ) | 
+ Foreign currency exchange gains/(losses), net & other finance costs | 3.9 | ( 14.0 ) | 
+ Loss on debt extinguishment | — | ( 14.3 ) | 
+ Interest income | 1.5 | 2.7 | 
+ Net finance cost | 6 | ( 16.6 ) | ( 93.9 ) | 
+ Income before tax | 197.6 | 15.1 | 
+ Income tax expense | 7 | ( 59.5 ) | ( 8.2 ) | 
+ Net income | $ | 138.1 | $ | 6.9 | 
+ Net income attributable to: | 
+ Equity holders of the Company | $ | 134.6 | $ | 5.1 | 
+ Non-controlling interests | $ | 3.5 | $ | 1.8 | 
+ Earnings per share | 17 | 
+ Basic earnings per share | $ | 0.24 | $ | 0.01 | 
+ Diluted earnings per share | $ | 0.24 | $ | 0.01 | 
+ Net income | $ | 138.1 | $ | 6.9 | 
+ 2 
+ UNAUDITED CONDENSED CONSOLIDATED INTERIM STATEMENT OF INCOME AND OTHER COMPREHENSIVE INCOME (CONTINUED) 
+ For the Three Months Ended March 31, | 
+ In millions (except for earnings per share information) | Notes | 2025 | 2024 | 
+ Other comprehensive income (OCI) | 
+ Items that will not be reclassified to the statement of income | 
+ Remeasurement effects of postemployment benefit plans | 0.6 | ( 3.9 ) | 
+ Income tax related to remeasurement effects | ( 0.2 ) | 1.0 | 
+ Items that subsequently may be reclassified to the statement of income | 
+ Translation differences | 95.1 | 65.0 | 
+ Cash flow hedges | ( 36.0 ) | 21.4 | 
+ Income tax related to cash flow hedges | 7.3 | ( 4.3 ) | 
+ Tax windfall on share-based payments | 0.1 | — | 
+ Other comprehensive income, net of tax | 66.9 | 79.2 | 
+ TOTAL COMPREHENSIVE INCOME | $ | 205.0 | $ | 86.1 | 
+ Total comprehensive income attributable to: | 
+ Equity holders of the Company | $ | 201.5 | $ | 84.3 | 
+ Non-controlling interests | $ | 3.5 | $ | 1.8 | 
+ The notes are an integral part of the unaudited condensed consolidated interim financial information. 
+ 3 
+ UNAUDITED CONDENSED CONSOLIDATED INTERIM STATEMENT OF FINANCIAL POSITION 
+ ASSETS 
+ In millions | Notes | March 31,
+2025 | December 31,
+2024 | 
+ NON-CURRENT ASSETS | 
+ | 
+ Intangible assets | 8 | $ | 2,638.4 | $ | 2,590.1 | 
+ Goodwill | 8 | 2,161.9 | 2,127.7 | 
+ Property, plant and equipment | 9 | 561.2 | 549.5 | 
+ Right-of-use assets | 565.4 | 524.3 | 
+ Non-current financial assets | 16.9 | 16.8 | 
+ Defined benefit pension assets | 11.3 | 11.7 | 
+ Other non-current assets | 46.2 | 49.3 | 
+ Deferred tax assets | 81.7 | 67.6 | 
+ TOTAL NON-CURRENT ASSETS | 6,083.0 | 5,937.0 | 
+ | 
+ CURRENT ASSETS | 
+ | 
+ Inventories | 10 | 1,267.2 | 1,223.3 | 
+ Accounts receivable, net | 549.8 | 607.1 | 
+ Prepaid expenses and other receivables | 193.7 | 213.2 | 
+ Current tax assets | 11.6 | 10.3 | 
+ Cash and cash equivalents | 422.1 | 345.4 | 
+ TOTAL CURRENT ASSETS | 2,444.4 | 2,399.3 | 
+ | | | 
+ TOTAL ASSETS | $ | 8,527.4 | $ | 8,336.3 | 
+ 4 
+ UNAUDITED CONDENSED CONSOLIDATED INTERIM STATEMENT OF FINANCIAL POSITION (CONTINUED) 
+ SHAREHOLDERS’ EQUITY AND LIABILITIES 
+ In millions | Notes | March 31,
+2025 | December 31,
+2024 | 
+ EQUITY (DEFICIT) | 
+ Share capital | $ | 18.5 | $ | 18.4 | 
+ Share premium | 3,199.9 | 3,189.1 | 
+ Capital reserve | 2,789.2 | 2,789.2 | 
+ Cash flow hedge reserve | ( 9.1 ) | 19.6 | 
+ Accumulated deficit and other | ( 780.3 ) | ( 1,017.0 ) | 
+ Equity attributable to equity holders of the parent company | 5,218.2 | 4,999.3 | 
+ Non-controlling interests | 12.6 | 9.1 | 
+ TOTAL EQUITY | 5,230.8 | 5,008.4 | 
+ LIABILITIES | 
+ NON-CURRENT LIABILITIES | 
+ Non-current borrowings | 11 | 791.2 | 790.8 | 
+ Non-current lease liabilities | 484.1 | 439.0 | 
+ Defined benefit pension liabilities | 30.0 | 30.0 | 
+ Other non-current liabilities | 14.1 | 15.5 | 
+ Non-current provisions | 13 | 6.3 | 5.9 | 
+ Non-current tax liabilities | 5.1 | 4.9 | 
+ Deferred tax liabilities | 497.1 | 487.4 | 
+ TOTAL NON-CURRENT LIABILITIES | 1,827.9 | 1,773.5 | 
+ CURRENT LIABILITIES | 
+ Other borrowings | 11 | 137.4 | 136.5 | 
+ Current lease liabilities | 121.6 | 116.9 | 
+ Accounts payable | 457.0 | 549.0 | 
+ Other current liabilities | 12 | 654.9 | 687.9 | 
+ Current provisions | 13 | 34.4 | 33.7 | 
+ Current tax liabilities | 63.4 | 30.4 | 
+ TOTAL CURRENT LIABILITIES | 1,468.7 | 1,554.4 | 
+ TOTAL LIABILITIES | 3,296.6 | 3,327.9 | 
+ TOTAL SHAREHOLDERS’ EQUITY AND LIABILITIES | $ | 8,527.4 | $ | 8,336.3 | 
+ The notes are an integral part of the unaudited condensed consolidated interim financial information. 
+ 5 
+ UNAUDITED CONDENSED CONSOLIDATED INTERIM STATEMENT OF CASH FLOWS 
+ For the Three Months Ended March 31, | 
+ In millions | Notes | 2025 | 2024 | 
+ NET CASH FLOW FROM OPERATING ACTIVITIES | 
+ Net income | $ | 138.1 | $ | 6.9 | 
+ Adjustments for: | 
+ Depreciation and amortization | 77.7 | 62.5 | 
+ Impairment losses | 0.3 | 1.3 | 
+ Share-based payment expense | 5 | 6.5 | 1.0 | 
+ Other non-cash valuation losses | — | 1.4 | 
+ Interest income | 6 | ( 1.5 ) | ( 2.7 ) | 
+ Interest expense | 6 | 22.0 | 68.3 | 
+ Foreign currency exchange losses, net & other finance costs | 6 | ( 3.9 ) | 14.0 | 
+ Loss on debt extinguishment | 6 | — | 14.3 | 
+ Income tax expense | 7 | 59.5 | 8.2 | 
+ Changes in: | 
+ Inventories | ( 26.2 ) | ( 17.9 ) | 
+ Accounts receivables | 66.7 | 28.2 | 
+ Prepaid expenses and other assets | 4.5 | 23.2 | 
+ Accounts payables | ( 71.4 ) | ( 11.5 ) | 
+ Other liabilities | ( 39.4 ) | 1.2 | 
+ Cash generated from operating activities | 232.9 | 198.4 | 
+ Interest paid | ( 35.6 ) | ( 54.5 ) | 
+ Interest received | 4.1 | 2.8 | 
+ Income taxes paid | ( 37.7 ) | ( 30.2 ) | 
+ Net cash flows from operating activities | 163.7 | 116.5 | 
+ NET CASH FLOW FROM INVESTING ACTIVITIES | 
+ Acquisition of property, plant and equipment | ( 41.1 ) | ( 58.7 ) | 
+ Acquisition of intangible assets | ( 26.6 ) | ( 4.5 ) | 
+ Acquisition of right-of-use assets | ( 1.5 ) | ( 4.1 ) | 
+ Net cash flows used in investing activities | ( 69.2 ) | ( 67.3 ) | 
+ 6 
+ UNAUDITED CONDENSED CONSOLIDATED INTERIM STATEMENT OF CASH FLOWS (CONTINUED) 
+ For the Three Months Ended March 31, | 
+ In millions | Notes | 2025 | 2024 | 
+ NET CASH FLOW FROM FINANCING ACTIVITIES | 
+ Repayments of short-term borrowings from financial institutions | — | ( 90.0 ) | 
+ Net (repayments of)/proceeds from revolving credit facilities | — | ( 284.9 ) | 
+ Proceeds from long-term borrowings from financial institutions | — | 2,027.3 | 
+ Repayments of long-term borrowings from financial institutions | — | ( 1,830.5 ) | 
+ Repayments of long-term borrowings from related parties | — | ( 1,460.4 ) | 
+ Proceeds from share issuance | — | 1,514.8 | 
+ Proceeds from exercise of share options | 10.9 | — | 
+ Payments of lease liabilities | ( 25.5 ) | ( 22.9 ) | 
+ Payments of debt issuance costs | ( 0.5 ) | ( 2.1 ) | 
+ Settlements of forward contracts and balance sheet hedges | ( 12.2 ) | ( 31.0 ) | 
+ Release of derivative contract collateral | 1.5 | — | 
+ Other financing items | ( 1.6 ) | ( 5.2 ) | 
+ Net cash flows used in financing activities | ( 27.4 ) | ( 184.9 ) | 
+ CHANGE IN CASH AND CASH EQUIVALENTS | 67.1 | ( 135.7 ) | 
+ Cash and cash equivalents | 
+ Cash and cash equivalents at period end | 422.1 | 337.3 | 
+ Translation differences | 9.6 | ( 10.4 ) | 
+ Cash and cash equivalents at the beginning of the period | 345.4 | 483.4 | 
+ CHANGE IN CASH AND CASH EQUIVALENTS | $ | 67.1 | $ | ( 135.7 ) | 
+ Supplemental disclosure of cash flow information 
+ | 
+ NON-CASH INVESTING ACTIVITIES 
+ | 
+ Capital expenditures in accounts payable 
+ | $ | ( 31.5 ) | $ | ( 19.8 ) | 
+ NON-CASH FINANCING ACTIVITIES | 
+ Equitization of related party loans and interest | $ | — | $ | 2,562.0 | 
+ The notes are an integral part of the unaudited condensed consolidated interim financial information. 
+ 7 
+ UNAUDITED CONDENSED CONSOLIDATED INTERIM STATEMENT OF CHANGES IN SHAREHOLDERS’ EQUITY 
+ Equity (deficit) attributable to equity holders of the parent company | 
+ Accumulated deficit and other | 
+ In millions | Share capital | Share premium | Capital reserve | Cash flow hedge reserve | Translation differences | Remeasurements | Other reserves | Accumulated deficit | Non-controlling interests | Total | 
+ Balance at January 1, 2024 | $ | 642.2 | $ | — | $ | 227.2 | $ | ( 10.6 ) | $ | 0.6 | $ | 40.6 | $ | ( 2.7 ) | $ | ( 1,057.5 ) | $ | 3.4 | $ | ( 156.8 ) | 
+ Other comprehensive income/(loss) | — | — | — | 17.2 | 65.0 | ( 2.9 ) | — | — | — | 79.2 | 
+ Net income for the period | — | — | — | — | — | — | — | 5.1 | 1.8 | 6.9 | 
+ Total comprehensive income/(loss), net of tax | — | — | — | 17.2 | 65.0 | ( 2.9 ) | — | 5.1 | 1.8 | 86.1 | 
+ Transactions with owners: | 
+ Share-based payments | — | — | — | — | — | — | 26.3 | — | — | 26.3 | 
+ Elimination of Class A and B shares | ( 642.2 ) | — | — | — | — | — | — | — | — | ( 642.2 ) | 
+ Capital increase - share issuance | 16.9 | 2,133.4 | — | — | — | — | — | — | — | 2,150.3 | 
+ Contribution of related party debt to equity | — | — | 2,562.0 | — | — | — | — | — | — | 2,562.0 | 
+ Balance at March 31, 2024 | $ | 16.9 | $ | 2,133.4 | $ | 2,789.2 | $ | 6.6 | $ | 65.6 | $ | 37.7 | $ | 23.6 | $ | ( 1,052.4 ) | $ | 5.2 | $ | 4,025.5 | 
+ Balance at January 1, 2025 | $ | 18.4 | $ | 3,189.1 | $ | 2,789.2 | $ | 19.6 | $ | ( 137.6 ) | $ | 42.5 | $ | 63.0 | $ | ( 984.9 ) | $ | 9.1 | $ | 5,008.4 | 
+ Other comprehensive (loss)/income | — | — | — | ( 28.7 ) | 95.1 | 0.4 | 0.1 | — | — | 66.9 | 
+ Net income for the period | — | — | — | — | — | — | — | 134.6 | 3.5 | 138.1 | 
+ Total comprehensive (loss)/income, net of tax | — | — | — | ( 28.7 ) | 95.1 | 0.4 | 0.1 | 134.6 | 3.5 | 205.0 | 
+ Transactions with owners: | 
+ Share-based payments | — | — | — | — | — | — | 6.5 | — | — | 6.5 | 
+ Shares issued for exercise/vesting of share based payments | 0.1 | 10.8 | — | — | — | — | — | — | — | 10.9 | 
+ Balance at March 31, 2025 | $ | 18.5 | $ | 3,199.9 | $ | 2,789.2 | $ | ( 9.1 ) | $ | ( 42.5 ) | $ | 42.9 | $ | 69.6 | $ | ( 850.3 ) | $ | 12.6 | $ | 5,230.8 | 
+ The notes are an integral part of the unaudited condensed consolidated interim financial information. 
+ 8 
+ NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS 
+ NOTES TO THE UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS | PAGE NUMBER | 
+ NOTE 1 | The Company | 10 
+ | 
+ NOTE 2 | Summary of Material Accounting Policies | 10 
+ | 
+ NOTE 3 | Segment Reporting | 11 
+ | 
+ NOTE 4 | Revenue from Contracts with Customers | 13 
+ | 
+ NOTE 5 | Share-Based Payments | 14 
+ | 
+ NOTE 6 | Net Finance Cost | 16 
+ | 
+ NOTE 7 | Income Taxes | 16 
+ | 
+ NOTE 8 | Intangible Assets | 17 
+ | 
+ NOTE 9 | Property, Plant and Equipment | 17 
+ | 
+ NOTE 10 | Inventories | 18 
+ | 
+ NOTE 11 | Borrowings | 18 
+ | 
+ NOTE 12 | Other Current Liabilities | 19 
+ | 
+ NOTE 13 | Provisions | 19 
+ | 
+ NOTE 14 | Commitments | 19 
+ | 
+ NOTE 15 | Related Party Transactions | 20 
+ | 
+ NOTE 16 | Balance Sheet Values of Financial Assets and Liabilities by Measurement Categories | 22 
+ | 
+ NOTE 17 | Earnings Per Share | 25 
+ | 
+ NOTE 18 | Subsequent Events | 26 
+ | 
+ 9 
+ NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS 
+ NOTE 1. THE COMPANY 
+ Background and description of the business 
+ Amer Sports, Inc. (the “Company”) was founded on January 3, 2020 and is incorporated and domiciled in Grand Cayman, the Cayman Islands. The Company’s registered office is Cricket Square, Hutchins Drive, PO Box 2681, Grand Cayman KY1-1111, Cayman Islands. The Company and its consolidated subsidiaries are referred to as the “Group” or “Amer Sports”. 
+ Amer Sports is a global group of sport and outdoor brands, including Arc’teryx, Salomon, Wilson, Atomic and Peak Performance. Amer Sports manufactures, markets and sells sports equipment, apparel, and footwear through wholesale and direct to consumer (“DTC”) channels globally and has a sales network in over 30 countries, with North America, Europe, Asia and China being the main market areas. 
+ Seasonality 
+ Although the Company operates in a number of sporting goods segments during all four seasons, its business is subject to seasonal fluctuations. Historically, the fourth quarter of a financial year has been the strongest quarter for the Company in terms of both revenue and profitability, primarily due to higher sales through the Company’s DTC channel compared to the rest of the year and a higher share of fall and winter collections in the Company’s Technical Apparel and Outdoor Performance segments. The Ball & Racquet Sports segment is generally more consistent across fiscal quarters. Working capital requirements typically increase throughout the second and third fiscal quarters as inventory builds to support our peak shipping and selling period which typically occurs from August to December. Cash provided by operating activities is typically highest in the first fiscal quarter due to the significant inflows associated with the peak selling season. 
+ NOTE 2. SUMMARY OF MATERIAL ACCOUNTING POLICIES 
+ Basis of preparation 
+ These unaudited condensed consolidated interim financial statements as of and for the three months ended March 31, 2025 have been prepared in accordance with International Accounting Standard (“IAS”) 34, Interim Financial Reporting as issued by the International Accounting Standards Board (“IASB”) as of January 1, 2025. 
+ This interim report does not include all the notes of the type normally included in an annual financial report. Accordingly, this report is to be read in conjunction with the annual report for the year ended December 31, 2024. The accounting policies adopted are consistent with those of the previous financial year. 
+ The unaudited condensed consolidated interim financial statements are presented in millions of U.S. dollars (“$” or “USD”). 
+ The presented figures and percentages are subject to rounding adjustments, which may cause discrepancies between the sum of the individual figures and the presented aggregated column and row totals. The figures have been prepared under the historical cost basis except for financial instruments, including derivative financial instruments, which are recorded at fair value through other comprehensive income and through profit or loss and the initial recognition of assets acquired and liabilities assumed in a business combination, which are recorded at fair value. The unaudited condensed consolidated interim financial statements have been prepared on a going concern basis, which contemplates the realization of assets and the settlement of liabilities and commitments in the normal course of the business. 
+ In the third quarter of 2024, the Company changed its presentation of credit card processing fees in the consolidated statement of income and other comprehensive income, which were previously recorded as contra-revenue and have been reclassified as selling, general and administrative expenses. We believe this presentation better reflects the nature of the costs incurred by the Company. Prior period amounts have been reclassified to conform with current period presentation. The amounts reclassified were immaterial and had no impact on previously reported operating profit or net income. 
+ 10 
+ NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS (CONTINUED) 
+ In the third quarter of 2024, the Company changed its presentation in the consolidated statement of cash flows to present net cash flows from revolving credit facilities with repayment terms less than three months separately from other short-term borrowings from financial institutions. The Company elected to make this reclassification as they believe it more appropriately reflects the nature of the source and use of the cash flows, and improves comparability to peers. Prior period amounts have been reclassified to conform with current period presentation. The change had no impact on net cash flow from financing activities or any other financial statement information. 
+ Beginning in the fourth quarter of 2024, the Company changed its presentation of foreign exchange gains and losses related to operational transactions in the consolidated statement of income and other comprehensive income, which were previously recorded as selling, general and administrative expenses, and are now recorded as foreign currency exchange losses, net & other finance costs. We believe this presentation better reflects the operating performance of the Company and improves comparability to peers. The impact on prior period financial statements is immaterial. 
+ Standards issued and not yet adopted 
+ The standards and interpretations applicable to the Company that are issued, but not yet effective, up to the date of issuance of the Company’s unaudited condensed consolidated interim financial statements are discussed below. The Company has not early adopted these standards and amendments and intends to adopt them, if applicable, when they become effective. The following standard amendments become effective at the earliest for annual periods beginning on or after January 1, 2026, but are not expected to have a material impact on the consolidated financial statements of the Company: 
+ • Amendments to IFRS 9 and IFRS 7, Amendments to the Classification and Measurement of Financial Instruments (effective for annual periods beginning on or after January 1, 2026). 
+ • Annual Improvements to IFRS Accounting Standards, Volume 11 (effective for annual periods beginning on or after January 1, 2026). 
+ IFRS 18, Presentation and Disclosure in Financial Statements will be effective for periods beginning on or after January 1, 2027. The Company is currently assessing the potential impact of this standard. 
+ Standards issued and adopted 
+ The Company has applied the following new or revised standards, amendments and interpretations that are required to be applied as of January 1, 2025: 
+ • Amendments to IAS 21, Lack of Exchangeability - no material impact 
+ Significant accounting judgments, estimates, and assumptions 
+ When preparing the unaudited condensed consolidated interim financial statements, the Company’s management makes judgments and estimates influencing the content of the unaudited condensed interim financial statements and it must exercise its judgment regarding the application of accounting policies. Management continuously evaluates the judgments and estimates it uses. 
+ The significant judgments made and the estimates used by management have been applied in the same manner as reported in the consolidated financial statements for the year ended December 31, 2024. 
+ NOTE 3. SEGMENT REPORTING 
+ The Company's Chief Operating Decision Maker (“CODM”) reviews results of operations to make decisions about allocating resources and assessing performance. Based on the current reporting structures, decision-making processes and considering the aggregation criteria in IFRS 8.12, Operating Segments , the Company identified three reportable segments: Technical Apparel, Outdoor Performance and Ball & Racquet Sports. 
+ 11 
+ NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS (CONTINUED) 
+ Amer Sports brands operate in the following key categories: 
+ Technical Apparel, which includes Arc’teryx and Peak Performance. 
+ Outdoor Performance, which includes the Salomon, Atomic, and Armada brands. On May 1, 2024, the Company sold ENVE, which was part of the Outdoor Performance segment. The ENVE business represented less than 1% of the Company’s net revenue and was not considered material to the Company's consolidated results of operations. 
+ Ball & Racquet Sports, which includes Wilson, Demarini, Louisville Slugger, EvoShield, and ATEC. 
+ The Company measures each segment’s performance based on revenue and adjusted operating profit as these are the measures used by the CODM for assessing the performance of operating segments. 
+ Information on reportable segments 
+ Revenue and Depreciation and Amortization of reportable segments for the three months ended March 31, 2025, and 2024 were as follows: 
+ Revenue | Depreciation & Amortization | 
+ In millions | 2025 | 2024 | 2025 | 2024 | 
+ Technical Apparel | $ | 663.8 | $ | 517.1 | $ | 35.7 | $ | 28.0 | 
+ Outdoor Performance | 502.4 | 401.8 | 30.9 | 25.3 | 
+ Ball & Racquet Sports | 306.3 | 273.6 | 9.7 | 7.6 | 
+ Total Reportable Segments | 1,472.5 | 1,192.5 | 76.3 | 60.9 | 
+ Corporate | — | — | 1.4 | 1.6 | 
+ Total | $ | 1,472.5 | $ | 1,192.5 | $ | 77.7 | $ | 62.5 | 
+ Adjusted Operating Profit of reportable segments for the three months ended March 31, 2025, and 2024 were as follows: 
+ In millions | 2025 | 2024 | 
+ Technical Apparel | $ | 157.8 | $ | 117.3 | 
+ Outdoor Performance | 73.8 | 19.4 | 
+ Ball & Racquet Sports | 20.2 | 10.8 | 
+ Total Adjusted Operating Profit of Reportable Segments | 251.8 | 147.5 | 
+ Corporate expenses (1) 
+ | ( 19.6 ) | ( 17.7 ) | 
+ Adjustments: | 
+ Depreciation and amortization on PPA fair value step up (2) 
+ | ( 10.5 ) | ( 10.7 ) | 
+ Restructuring expenses (3) 
+ | ( 2.9 ) | ( 0.9 ) | 
+ Expenses related to transaction activities (4) 
+ | ( 0.3 ) | ( 5.8 ) | 
+ Expenses related to certain legal proceedings (5) 
+ | 0.7 | — | 
+ Share-based payment expenses (6) 
+ | ( 5.0 ) | ( 3.4 ) | 
+ Interest expense | ( 22.0 ) | ( 68.3 ) | 
+ Foreign currency exchange losses, net & other finance costs | 3.9 | ( 14.0 ) | 
+ Loss on debt extinguishment | — | ( 14.3 ) | 
+ Interest income | 1.5 | 2.7 | 
+ Income before tax | $ | 197.6 | $ | 15.1 | 
+ __________________________________________________ 
+ (1) Includes corporate expenses, which have not been allocated to reportable segments 
+ 12 
+ NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS (CONTINUED) 
+ (2) Consists of depreciation and amortization on PPA fair value step up of intangible and tangible assets in connection with the acquisition and delisting of Amer Sports in 2019. For further information, refer to Note 1. The Company in the Company’s annual report on Form 20-F for the year ended December 31, 2024. 
+ (3) Includes expenses for restructuring from severance, exit and termination events, and other non-recurring costs from payroll tax audits. 
+ (4) Includes advisory fees in connection with M&A activities and non-recurring costs associated with our IPO and disposal of businesses. 
+ (5) Includes inventory write-offs, legal fees and judgements in connection with non-recurring legal actions. 
+ (6) Includes expenses for the share-based payments and for fixed cash compensation on stock options vested at period end under the 2019 and 2023 ESOP plans. Refer to Note 5. Share-Based Payments for additional information about the 2019 and 2023 ESOP plans. 
+ The Company does not present other items of the unaudited condensed consolidated interim statement of income and other comprehensive income as well as assets and liabilities per segment as such information is not evaluated or used by the CODM for decision-making purposes on a regular basis. 
+ The majority ( 71.0 % and 71.6 % as of March 31, 2025 and December 31, 2024, respectively) of non-current assets, comprising of goodwill, other intangible assets, property, plant and equipment as well as right-of-use assets are owned from Finland. No other country is deemed individually material for the Company in all periods presented for the purpose of this disclosure. 
+ NOTE 4. REVENUE FROM CONTRACTS WITH CUSTOMERS 
+ Amer Sports operates primarily in one industry — the design, manufacturing, distribution, selling and marketing of sporting goods, apparel and footwear. The Company is managed through its global brands supported by regional sales organizations and group wide platforms such as global operations and sourcing, IT and finance. 
+ Geographic revenues are presented according to customers’ location. 
+ GEOGRAPHIC BREAKDOWN OF REVENUES 
+ | For the Three Months Ended March 31, | 
+ In millions | 2025 | 2024 | 
+ Americas (1) 
+ | $ | 464.7 | $ | 414.9 | 
+ Greater China (2) 
+ | 446.0 | 311.6 | 
+ EMEA (3) 
+ | 404.9 | 360.6 | 
+ Asia Pacific (4) 
+ | 156.9 | 105.4 | 
+ Total | $ | 1,472.5 | $ | 1,192.5 | 
+ __________________________________________________ 
+ (1) Consists of the United States, Canada and other countries in Latin America. Revenue generated in the United States comprised 22.3 % and 26.0 % of the total Company revenue for the three months ended March 31, 2025, and 2024, respectively. No other country in the region generated more than 10% of the total Company revenue in any of the periods presented. 
+ (2) Consists of Mainland China, Hong Kong, Taiwan and Macau. Revenue generated in Mainland China comprised 28.8 % and 24.7 % of the total Company revenue for the three months ended March 31, 2025, and 2024, respectively. No other country in the region generated more than 10% of the total Company revenue in any of the periods presented. 
+ (3) Consists of Europe, the Middle East and Africa. The revenue generated in this region primarily consists of sales in France, Germany, the UK, Austria, Switzerland, Sweden, Norway, Italy and Spain. No country in the region generated more than 10% of the total Company revenue in any of the periods presented. 
+ 13 
+ NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS (CONTINUED) 
+ (4) Excludes Greater China. The Company has its own sales companies in Japan, South Korea, Australia and Malaysia. No country in the region generated more than 10% of the total Company revenue in any of the periods presented. 
+ BREAKDOWN OF REVENUES BY CHANNEL 
+ For the Three Months Ended March 31, | 
+ In millions | 2025 | 2024 | 
+ Wholesale | 
+ Technical Apparel | $ | 203.2 | $ | 166.8 | 
+ Outdoor Performance | 320.3 | 293.2 | 
+ Ball & Racquet Sports | 256.4 | 234.7 | 
+ 779.9 | 694.7 | 
+ DTC | 
+ Technical Apparel | $ | 460.6 | $ | 350.3 | 
+ Outdoor Performance | 182.1 | 108.6 | 
+ Ball & Racquet Sports | 49.9 | 38.9 | 
+ 692.6 | 497.8 | 
+ Total | $ | 1,472.5 | $ | 1,192.5 | 
+ The Company did not recognize 10% or more of total revenue with any single customer in any of the periods presented. 
+ CONTRACT BALANCES 
+ Contract liabilities were $ 77.6 million and $ 82.5 million, as of March 31, 2025 and December 31, 2024 respectively, and primarily relate to deferred revenue as well as accrued discounts and rebates. The balance of contract liabilities as of each period end are generally recognized as revenue within one year. 
+ NOTE 5. SHARE-BASED PAYMENTS 
+ The Company has various long-term incentive programs which are designed to align the interest of the shareholders and key employees in order to increase the value of the Company in the long-term, and to commit key employees to the Company. 
+ Share-based payment expense, which is classified as selling, general, and administrative expenses on the unaudited condensed consolidated interim statement of income and other comprehensive income was as follows: 
+ For the Three Months Ended March 31, | 
+ In millions | 2025 | 2024 | 
+ Restricted and performance share units | $ | 3.8 | $ | 0.1 | 
+ Equity-settled share options | 2.7 | 1.0 | 
+ Cash-settled awards | 0.0 | ( 1.0 ) | 
+ Total | $ | 6.5 | $ | 0.1 | 
+ Employee Stock Ownership Plan 2019 and Employee Stock Ownership Plan 2023 
+ The company made grants of options under the Employee Stock Ownership Plan 2019 ("2019 ESOP") and the Employee Stock Ownership Plan 2023 ("2023 ESOP"), a portion of which became eligible for vesting upon the "exit event" (public offering of the shares of the Company), which management deemed probable on December 28, 2023, and closed on February 5, 2024. 
+ 14 
+ NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS (CONTINUED) 
+ In addition to an exit event, 35 % of the options granted are time-vested, which vest ratably over five years (for the 2019 ESOP) and three years (for the 2023 ESOP), and 65 % of the options granted will vest according to attainment of Group and/or brand performance conditions. 
+ The following table summarizes the activity of share options under the 2019 and 2023 ESOP during the three months ended March 31, 2025 and 2024. 
+ For the Three Months Ended March 31, 
+ | 
+ 2025 | 2024 | 
+ 2019 & 2023 ESOP | Number of
+options | Weighted
+average
+exercise price | Number of
+options | Weighted
+average
+exercise price | 
+ Outstanding at January 1, | 12,707,244 | $ | 10.02 | 14,911,455 | $ | 9.92 | 
+ Granted during the year | — | — | — | — | 
+ Forfeited during the year | ( 1,027,769 ) | 10.55 | — | — | 
+ Exercised during the year | ( 153,473 ) | 10.31 | — | — | 
+ Outstanding at March 31, | 11,526,002 | 9.98 | 14,911,455 | 9.92 | 
+ Exercisable at March 31, | 6,264,431 | $ | 9.93 | — | $ | — | 
+ The options outstanding had a remaining weighted average contractual life of 4.75 years and 5.75 years at March 31, 2025 and March 31, 2024, respectively. 
+ Amer Sports, Inc. 2024 Omnibus Incentive Plan 
+ The Company made grants of RSUs that generally vest ratably over a period of three years , subject to continued employment of the recipients. The Company also made grants of performance share units (“PSUs”), which generally vest at the end of a three-year period, subject to continued employment and the achievement of certain revenue and Adjusted EBITDA targets. 
+ Fair value of units granted 
+ The following table summarizes the activity in RSUs for employees and non-employee directors during the three months ended March 31, 2025 and 2024. 
+ For the Three Months Ended March 31, | 
+ 2025 | 2024 | 
+ RSU's | Number of
+units | Weighted Average
+Grant Date Fair Value | Number of
+units | Weighted Average
+Grant Date Fair Value | 
+ Outstanding at January 1, | 1,018,974 | $ | 13.63 | — | $ | — | 
+ Granted during the year | 6,448 | 27.98 | 53,844 | 13.00 | 
+ Vested during the year | ( 57,850 ) | 13.04 | — | — | 
+ Forfeited during the year | ( 16,405 ) | 13.84 | — | — | 
+ Outstanding at March 31, | 951,167 | $ | 13.76 | 53,844 | $ | 13.00 | 
+ 15 
+ NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS (CONTINUED) 
+ The following table summarizes the activity in PSUs for employees during the three months ended March 31, 2025 and 2024. 
+ For the Three Months Ended March 31, | 
+ 2025 | 2024 | 
+ PSU's | Number of
+units | Weighted Average
+Grant Date Fair Value | Number of
+units | Weighted Average
+Grant Date Fair Value | 
+ Outstanding at January 1, | 1,888,821 | $ | 14.55 | — | $ | — | 
+ Granted during the year | — | — | — | — | 
+ Vested during the year | ( 7,333 ) | 14.55 | — | — | 
+ Forfeited during the year | ( 30,573 ) | 14.61 | — | — | 
+ Outstanding at March 31, | 1,850,915 | $ | 14.55 | — | $ | — | 
+ NOTE 6. NET FINANCE COST 
+ For the Three Months Ended March 31, | 
+ In millions | 2025 | 2024 | 
+ Interest income | $ | 1.5 | $ | 2.7 | 
+ Interest expense | 
+ Interest expense on interest bearing debt | ( 14.5 ) | ( 42.1 ) | 
+ Interest expense on lease liabilities | ( 7.2 ) | ( 4.3 ) | 
+ Interest expense related to pension liabilities | ( 0.1 ) | ( 0.1 ) | 
+ Interest expense to related parties | — | ( 21.8 ) | 
+ Other interest expense | ( 0.2 ) | — | 
+ ( 22.0 ) | ( 68.3 ) | 
+ Foreign currency exchange gains/(losses), net & other finance costs | 
+ Exchange rate gains/(losses) | 5.9 | ( 11.7 ) | 
+ Change in fair value of interest rate derivative instruments not used in hedge accounting | — | ( 0.4 ) | 
+ Other finance cost | ( 2.0 ) | ( 1.9 ) | 
+ 3.9 | ( 14.0 ) | 
+ Loss on debt extinguishment | — | ( 14.3 ) | 
+ Net finance cost | $ | ( 16.6 ) | $ | ( 93.9 ) | 
+ NOTE 7. INCOME TAXES 
+ In accordance with IAS 34, Interim Financial Reporting, income tax expense for the condensed consolidated interim financial statements is calculated on the basis of the average annual tax rate that is expected for the entire fiscal year, adjusted for the tax effect of certain items recognized in the interim period. As such, the effective tax rate in the consolidated interim financial statements may differ from management’s best estimate of the effective rate. 
+ 16 
+ NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS (CONTINUED) 
+ The effective tax rate was 30 % and 54 % for the three months ended March 31, 2025, and 2024, respectively. The decrease is due to higher forecasted pre-tax income, jurisdictional mix of earnings, lower non-deductible interest expenses and the utilization of deferred income tax benefits related to tax loss carryforwards for the the three months ended March 31, 2025 compared to prior year. 
+ Jurisdictions in which the Company operates have implemented the Pillar Two EU Directive and it is applicable as of December 31, 2024. The Company took measures to assess its exposure to Pillar Two minimum taxation and no material top-up taxes arose for the Company for the year ended December 31, 2024. The Company will monitor the development of regulatory updates, as the OECD is expected to publish additional guidance. The Company will continue to assess the impact of the Pillar Two income taxes legislation on its future financial performance. 
+ NOTE 8. INTANGIBLE ASSETS 
+ Impairment review 
+ Impairment tests of goodwill and intangible assets with indefinite useful lives, such as trademarks, are performed when management has identified indications of impairment or once a year when business plans for the next strategic planning horizon are approved by management. 
+ Goodwill is monitored by management at the Cash Generating Unit (“CGU”) level, the level at which it and other intangible assets with indefinite lives are tested for impairment. The CGUs in the Company are the following: Winter Sports Equipment, Salomon, Arc’teryx, Ball & Racquet Sports, and Peak Performance. 
+ Management has considered whether any impairment indicators existed at the reporting date, and has concluded that the carrying amounts of goodwill and intangible assets with indefinite useful lives are fully recoverable as of March 31, 2025. 
+ NOTE 9. PROPERTY, PLANT AND EQUIPMENT 
+ In millions | Land | Buildings and
+constructions | Machinery
+and
+equipment | Advances paid
+and
+construction
+in progress | Property,
+plant
+and
+equipment | 
+ Initial cost at January 1, 2025 | $ | 35.6 | $ | 476.5 | $ | 490.5 | $ | 48.5 | $ | 1,051.1 | 
+ Additions | — | 3.5 | 4.7 | 17.4 | 25.6 | 
+ Disposals | — | ( 2.6 ) | ( 0.4 ) | — | ( 3.0 ) | 
+ Transfers | — | 6.8 | 3.4 | ( 10.2 ) | — | 
+ Translation differences | 1.2 | 10.4 | 12.5 | 1.1 | 25.2 | 
+ Balance at March 31, 2025 | $ | 36.8 | $ | 494.6 | $ | 510.7 | $ | 56.8 | $ | 1,098.9 | 
+ Accumulated depreciation and impairment losses at January 1, 2025 | — | 208.1 | 293.5 | — | 501.6 | 
+ Depreciation during the period | — | 13.8 | 12.6 | — | 26.4 | 
+ Disposals | — | ( 2.6 ) | ( 0.4 ) | — | ( 3.0 ) | 
+ Translation differences | — | 4.8 | 7.9 | — | 12.7 | 
+ Balance at March 31, 2025 | — | 224.1 | 313.6 | — | 537.7 | 
+ Total Balance at March 31, 2025 | $ | 36.8 | $ | 270.5 | $ | 197.1 | $ | 56.8 | $ | 561.2 | 
+ 17 
+ NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS (CONTINUED) 
+ NOTE 10. INVENTORIES 
+ Gross and net inventories 
+ In millions | March 31,
+2025 | December 31,
+2024 | 
+ Gross inventories | $ | 1,315.8 | $ | 1,263.5 | 
+ Net realizable value valuation provision | ( 48.6 ) | ( 40.2 ) | 
+ Net inventories | $ | 1,267.2 | $ | 1,223.3 | 
+ In millions | March 31,
+2025 | December 31,
+2024 | 
+ Net inventories | 
+ Raw materials and consumables | $ | 40.4 | $ | 36.6 | 
+ Work in progress | 48.5 | 44.6 | 
+ Finished goods | 1,178.3 | 1,142.1 | 
+ Total | $ | 1,267.2 | $ | 1,223.3 | 
+ NOTE 11. BORROWINGS 
+ In millions | March 31,
+2025 | December 31,
+2024 | 
+ Non-current borrowings | $ | 791.2 | $ | 790.8 | 
+ Other borrowings | 137.4 | 136.5 | 
+ Total | $ | 928.6 | $ | 927.3 | 
+ Non-current borrowings 
+ Senior Secured Notes 
+ On February 16, 2024, Amer Sports Company (the “Issuer”), our wholly owned subsidiary, entered into an indenture (the “Indenture”) with The Bank of New York Mellon, as trustee, Wilmington Trust (London) Limited, as notes collateral agent, and the guarantors party thereto, pursuant to which the Issuer issued $ 800.0 million principal amount of 6.75 % senior secured notes (the “Notes”). Pursuant to the Indenture, the Notes will mature on February 16, 2031. 
+ Other borrowings 
+ China Facilities 
+ On September 2, 2024, Amer Sports Shanghai Trading Ltd., our wholly owned subsidiary, entered into a CNY 500 million unsecured working capital line of credit with China Merchants Bank Co., Ltd (the “September China Facility”), which bears interest at 3.0 %. The line of credit expires in September 2025. As of March 31, 2025, $ 68.7 million (based on the CNY/USD exchange rate on March 31, 2025), the full amount of the line of credit under the September China Facility was outstanding and included in Other Borrowings on the unaudited condensed consolidated interim statement of financial position. 
+ On November 19, 2024, Amer Sports Shanghai Trading Ltd., our wholly owned subsidiary, entered into an additional CNY 500 million unsecured working capital line of credit with Bank of China Limited (the “November China Facility”, and together with the September China Facility, the “China Facilities”), which bears interest at the one-year China Loan Prime Rate less 50 basis points, equivalent to 2.6 % at the time of withdrawal on November 22, 2024. The line of credit expires in November 2025. As of March 31, 2025, $ 68.7 million (based on the CNY/USD exchange rate on March 31, 2025), the full amount of the line of credit under the November China Facility was outstanding and included in Other Borrowings on the unaudited condensed consolidated interim statement of financial position. 
+ 18 
+ NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS (CONTINUED) 
+ Undrawn credit facilities 
+ As of March 31, 2025, there were no borrowings drawn on the Revolving Credit Facility (“RCF”) or the Standard Chartered Bank Facility. For further discussion of these facilities, refer to Note 19. Borrowings in the Company’s annual report on Form 20-F for the year ended December 31, 2024. 
+ NOTE 12. OTHER CURRENT LIABILITIES 
+ In millions | March 31,
+2025 | December 31,
+2024 | 
+ Related to financing activities: | 
+ Payables related to derivatives | $ | 26.3 | $ | 22.3 | 
+ Accrued interest | 7.9 | 23.2 | 
+ Related to operating and other activities: | 
+ Accrued personnel costs | 197.6 | 244.1 | 
+ Accrued advertising and promotions | 111.0 | 118.1 | 
+ Contract liabilities | 77.6 | 82.5 | 
+ Sales and value-added taxes | 68.6 | 54.3 | 
+ Refund liabilities | 44.1 | 41.8 | 
+ Goods received not invoiced | 41.0 | 45.5 | 
+ Accrued royalties | 4.2 | 6.7 | 
+ Other accrued liabilities | 76.6 | 49.4 | 
+ Total | $ | 654.9 | $ | 687.9 | 
+ NOTE 13. PROVISIONS 
+ In millions | Product warranty | Restructuring | Other | Total | 
+ Balance at January 1, 2025 | $ | 25.0 | $ | 1.6 | $ | 13.0 | $ | 39.6 | 
+ Provisions made during the period | 5.5 | 3.6 | 2.9 | 12.0 | 
+ Provisions used during the period | ( 3.0 ) | ( 4.5 ) | ( 1.4 ) | ( 8.9 ) | 
+ Provisions reversed during the period | ( 0.6 ) | ( 0.1 ) | ( 0.1 ) | ( 0.8 ) | 
+ Translation differences | ( 1.1 ) | 0.6 | ( 0.7 ) | ( 1.2 ) | 
+ Balance at March 31, 2025 | $ | 25.8 | $ | 1.2 | $ | 13.7 | $ | 40.7 | 
+ Long-term provisions | $ | 6.3 | 
+ Current provisions | 34.4 | 
+ Total | $ | 40.7 | 
+ The majority of the provisions resulted from repair or replacement of products during their warranty period. Restructuring provisions result from severance, exit, and termination events. Other provisions include asset retirement obligations related to leased premises. The majority of provisions are realized within one year . 
+ NOTE 14. COMMITMENTS 
+ In millions | March 31,
+2025 | December 31,
+2024 | 
+ Guarantees | $ | 54.6 | $ | 36.5 | 
+ Other commitments 
+ | 356.0 | 339.5 | 
+ 19 
+ NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS (CONTINUED) 
+ Guarantees are primarily due to rental guarantees for owned retail stores and contribution guarantees for employee pension and life insurance plans. 
+ Other commitments are primarily long-term endorsement contracts with several professional and non-professional sports leagues, particularly in the United States, and contracts with brand ambassadors. 
+ There are no guarantees or contingencies given for the management of the Company, for the shareholders, or for the associated companies. 
+ Ongoing litigation 
+ The Company has extensive international operations and is involved in a number of legal proceedings, including product liability suits. Litigation is assessed on an ongoing basis by evaluating the probability of any potential financial impact. In management's opinion, we have adequate legal defenses, insurance coverage, or accrued liabilities with respect to such proceedings. We do not expect that any settlement would have a material adverse effect on the unaudited condensed consolidated interim statement of income and other comprehensive income or unaudited condensed consolidated interim statement of financial position. 
+ NOTE 15. RELATED PARTY TRANSACTIONS 
+ The scope of related parties is consistent with those that were defined in the Company's 2024 annual report on Form 20-F. 
+ The Company's transactions with ANTA Sports and subsidiaries comprise of the following: 
+ For the Three Months Ended March 31, | 
+ In millions | 2025 | 2024 | 
+ Purchases of goods and services from ANTA Sports and subsidiaries | $ | 9.6 | $ | 1.9 | 
+ Sales of goods and services to ANTA Sports and subsidiaries | 7.4 | 2.4 | 
+ Sales to ANTA Sports are generally based on the same terms and conditions that apply to sales to third parties. 
+ The Company's transactions with the former parent company, Amer Sports Holding (Cayman) Limited, comprise of the following: 
+ For the Three Months Ended March 31, | 
+ In millions | 2025 | 2024 | 
+ Interest expenses: | 
+ Investment Loan | $ | — | $ | 19.1 | 
+ Facility A Loan | — | 2.5 | 
+ Total | $ | — | $ | 21.6 | 
+ 20 
+ NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS (CONTINUED) 
+ The following balances are outstanding at the end of the respective reporting periods in relation to transactions with related parties (except for key management personnel): 
+ In millions | March 31,
+2025 | December 31,
+2024 | 
+ ANTA Sports and subsidiaries | 
+ Current payables | $ | 10.8 | $ | 11.3 | 
+ Current receivables | 11.1 | 10.4 | 
+ Entity controlled by a member of the board of directors of Amer Sports, Inc. | 
+ Right-of-use asset / Lease liability | $ | 0.8 | $ | 0.8 | 
+ Current payables to and receivables from ANTA Sports and subsidiaries have a short term maturity, are interest free and not secured. 
+ 21 
+ NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS (CONTINUED) 
+ NOTE 16. BALANCE SHEET VALUES OF FINANCIAL ASSETS AND LIABILITIES BY MEASUREMENT CATEGORIES 
+ March 31, 2025 | December 31, 2024 | 
+ In millions | Category | Carrying amount | Fair value | Level 1 | Level 2 | Level 3 | Carrying amount | Fair value | Level 1 | Level 2 | Level 3 | 
+ NON-CURRENT FINANCIAL ASSETS | 
+ Other non-current assets | Amortized cost | $ | 46.1 | $ | — | $ | — | $ | — | $ | — | $ | 47.1 | $ | — | $ | — | $ | — | $ | — | 
+ Other non-current financial assets | Fair value through OCI | 12.7 | 12.7 | — | — | 12.7 | 12.6 | 12.6 | — | — | 12.6 | 
+ Promissory notes | Amortized cost | 4.2 | 4.3 | — | — | 4.3 | 4.2 | 4.2 | — | — | 4.2 | 
+ Derivative financial instruments (3) | 
+ Foreign exchange derivatives - used in hedge accounting | Fair value through OCI | 0.1 | 0.1 | — | 0.1 | — | 2.2 | 2.2 | — | 2.2 | — | 
+ CURRENT FINANCIAL ASSETS | 
+ Hold-to-collect accounts receivable | Amortized cost | 513.6 | — | — | — | — | 570.9 | — | — | — | — | 
+ Available for sale factoring receivables | Fair value through OCI | 36.2 | 36.2 | — | — | 36.2 | 36.2 | 36.2 | — | — | 36.2 | 
+ Other non-interest yielding receivables (1) | Amortized cost | 124.2 | — | — | — | — | 127.5 | — | — | — | — | 
+ Promissory notes (1) | Amortized Cost | 4.0 | 4.0 | — | — | 4.0 | 7.0 | 7.0 | — | — | 7.0 | 
+ Derivative financial instruments (3) | 
+ Foreign exchange derivatives - used in hedge accounting | Fair value through OCI | 16.3 | 16.3 | — | 16.3 | — | 38.9 | 38.9 | — | 38.9 | — | 
+ Foreign exchange derivatives - not used in hedge accounting | Fair value through profit or loss | 9.1 | 9.1 | — | 9.1 | — | 5.6 | 5.6 | — | 5.6 | — | 
+ Cash and cash equivalents | Amortized cost | 422.1 | — | — | — | — | 345.4 | — | — | — | — | 
+ Total financial assets per level | $ | — | $ | 25.5 | $ | 57.2 | $ | — | $ | 46.7 | $ | 60.0 | 
+ 22 
+ NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS (CONTINUED) 
+ March 31, 2025 | December 31, 2024 
+ | 
+ In millions | Category | Carrying amount | Fair Value | Level 1 | Level 2 | Level 3 | Carrying amount | Fair Value | Level 1 | Level 2 | Level 3 | 
+ NON-CURRENT FINANCIAL LIABILITIES | 
+ Non-current borrowings | Amortized cost | 791.2 | 818.0 | — | 818.0 | — | 790.8 | 809.0 | — | 809.0 | — | 
+ Non-current lease liabilities | Amortized cost | 484.1 | — | — | — | — | 439.0 | — | — | — | — | 
+ Other non-current liabilities | Amortized cost | 8.6 | — | — | — | — | 13.6 | — | — | — | — | 
+ Derivative financial instruments (3) | 
+ Foreign exchange derivatives - used in hedge accounting | Fair Value through OCI | 3.4 | 3.4 | — | 3.4 | — | 0.6 | 0.6 | — | 0.6 | — | 
+ Cross Currency Swaps - used in hedge accounting | Fair Value through OCI | 2.1 | 2.1 | — | 2.1 | — | 1.2 | 1.2 | — | 1.2 | — | 
+ CURRENT FINANCIAL LIABILITIES | 
+ Current other borrowings | Amortized cost | 137.4 | — | — | — | — | 136.5 | — | — | — | — | 
+ Current lease liabilities | Amortized cost | 121.6 | — | — | — | — | 116.9 | — | — | — | — | 
+ Accounts payable | Amortized cost | 457.0 | — | — | — | — | 549.0 | — | — | — | — | 
+ Other current liabilities (2) | Amortized cost | 560.0 | — | — | — | — | 611.3 | — | — | — | — | 
+ Derivative financial instruments (3) | 
+ Foreign exchange derivatives - not used in hedge accounting | Fair value through profit or loss | 3.3 | 3.3 | — | 3.3 | — | 8.0 | 8.0 | — | 8.0 | — | 
+ Foreign exchange derivatives - used in hedge accounting | Fair Value through OCI | 23.0 | 23.0 | — | 23.0 | — | 14.3 | 14.3 | — | 14.3 | — | 
+ Interest rate derivatives - used in hedge accounting | Fair Value through OCI | 0.0 | 0.0 | — | 0.0 | — | — | — | — | — | — | 
+ Total financial liabilities per level | $ | — | $ | 849.8 | $ | — | $ | — | $ | 833.1 | $ | — | 
+ 23 
+ NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS (CONTINUED) 
+ In millions | March 31,
+2025 | December 31,
+2024 | 
+ (1) Other non-interest yielding receivables 
+ | 
+ Prepaid expenses and other receivables | $ | 193.7 | $ | 213.2 | 
+ Less | 
+ Other tax receivables | 40.1 | 34.2 | 
+ Derivative financial instruments | 25.4 | 44.5 | 
+ Promissory notes | 4.0 | 7.0 | 
+ Total other non-interest yielding receivables | $ | 124.2 | $ | 127.5 | 
+ (2) Other current liabilities 
+ | $ | 654.9 | $ | 687.9 | 
+ Less | 
+ Other tax liabilities | 68.6 | 54.3 | 
+ Derivative financial instruments | 26.3 | 22.3 | 
+ Total other current liabilities | $ | 560.0 | $ | 611.3 | 
+ (3) The values of the derivatives as per the unaudited condensed consolidated interim statement of financial position have been recorded as they are disclosed in the Company’s unaudited condensed consolidated interim statement of financial position and fair value reserve, and therefore cannot be reconciled with their actual fair values. 
+ Carrying amounts of current financial instruments carried at amortized cost are reasonable approximation of fair value due to their short-term nature. 
+ Level 1: The fair value of financial instruments traded in active markets is based on quoted market prices at the end of the reporting period. The Company does not have any financial instruments included in Level 1. 
+ Level 2: The fair value of financial instruments that are not traded in an active market (e.g. over-the-counter derivatives) is determined using valuation techniques that maximize the use of observable market data and rely as little as possible on entity-specific estimates. If all significant inputs required to fair value an instrument are observable, the instrument is included in Level 2. 
+ Level 3: If one or more of the significant inputs is not based on observable market data, the instrument is included in Level 3. 
+ The Company’s policy is to recognize transfers into and out of fair value hierarchy levels at the end of the reporting period. There were no transfers between Levels 2 and 3 for recurring fair value measurements during the reporting period. 
+ The valuation process and valuation techniques, which are stated in the 2024 consolidated annual financial statements, are applicable in the reporting period. 
+ Specific valuation techniques used to value financial instruments include: 
+ • for interest rate swaps and cross-currency swaps – the present value of the estimated future cash flows based on observable yield curves; 
+ • for foreign currency forwards – the present value of future cash flows based on the forward exchange rates at the end of the reporting period; and 
+ • for other financial instruments – discounted cash flow analysis. 
+ All of the resulting fair value estimates are included in Level 2, except for unlisted equity securities, promissory notes and available-for-sale factoring receivables, where the fair values have been determined based on present values and the discount rates used were adjusted for counterparty or own credit risk. In cases where credit risk of counterparty is low and maturity is short-term, the carrying amount of such instrument approximates its fair value. 
+ 24 
+ NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS (CONTINUED) 
+ The following table shows the valuation technique used in measuring Level 3 fair values for financial instruments in the unaudited condensed consolidated interim statement of financial position, as well as the significant unobservable inputs used. 
+ Type | Valuation technique | Significant unobservable input | 
+ Unlisted equity securities | Market comparison approach: fair value of unlisted equity securities is determined by reference to market multiples of comparable listed companies, adjusted by discount for lack of marketability. | (i) Sales growth factor
+(ii) Risk-adjusted discount rate | 
+ Promissory notes | The carrying amount approximates fair value due to the relatively short period to maturity of these instruments and low credit risk of counterparty.
+ Long-term promissory notes are valued using a discounted cash flow. Expected future cash inflows are discounted over the term of the respective contracts using market interest rates as at the reporting date, adjusted for the credit risk of the counterparty. | The carrying amount approximates fair value for short-term promissory notes due to the relatively short period to maturity of these instruments and low credit risk of counterparty.
+ For long-term promissory notes, the significant unobservable input is the risk adjusted discount rate. | 
+ Available-for-sale factoring receivables | The carrying amount approximates fair value due to the short-term maturity of these instruments and low credit risk of counterparty. | The carrying amount approximates fair value due to the short-term maturity of these instruments and low credit risk of counterparty. | 
+ The following table presents the changes in Level 3 items during the period: 
+ In millions | Unlisted equity securities | Promissory notes | Available-for-sale
+factoring
+receivables | Total | 
+ Opening balance January 1, 2025 | $ | 12.6 | $ | 11.2 | $ | 36.2 | $ | 60.0 | 
+ Additions | — | 16.5 | 14.2 | 30.7 | 
+ Disposals | — | ( 19.9 ) | ( 14.2 ) | ( 34.1 ) | 
+ Exchange rate gains | 0.1 | 0.4 | — | 0.5 | 
+ Closing balance March 31, 2025 | $ | 12.7 | $ | 8.2 | $ | 36.2 | $ | 57.1 | 
+ The Company terminated its receivables financing arrangements for two subsidiaries with a third-party banking institution (“Factor in EMEA”) on January 24, 2025. The agreement previously allowed the Company to sell accounts receivable up to a limit of € 60 million. The Company previously used the full limit on a daily basis. 
+ NOTE 17. EARNINGS PER SHARE 
+ The following table presents an overview of the calculated basic and diluted earnings per share: 
+ For the Three Months Ended March 31, | 
+ In millions (except for share and earnings per share information) | 2025 | 2024 | 
+ Net income attributable to equity holders of the Company | $ | 134.6 | $ | 5.1 | 
+ Basic weighted-average number of ordinary shares | 553,986,158 | 463,422,683 | 
+ Diluted weighted-average number of ordinary shares | 557,567,556 | 466,345,776 | 
+ Basic earnings per share | $ | 0.24 | $ | 0.01 | 
+ Diluted earnings per share | $ | 0.24 | $ | 0.01 | 
+ 25 
+ NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS (CONTINUED) 
+ For the three months ended March 31, 2025 and March 31, 2024, nil and 397,128 , respectively, of weighted average potentially dilutive shares outstanding related to unvested stock options and restricted share units were excluded from the computation of diluted earnings per share because their effects would have been anti-dilutive. 
+ In addition, for the three months ended March 31, 2025 and March 31, 2024, 4,622,182 and 4,449,782 , respectively, of weighted average potentially dilutive shares outstanding related to unvested performance share units and stock options were excluded from the computation of diluted earnings per share because issuance of such shares is contingent upon the satisfaction of certain conditions which were not satisfied by the end of the period. 
+ NOTE 18. SUBSEQUENT EVENTS 
+ Management has evaluated events subsequent to March 31, 2025 and through May 20, 2025, the date these unaudited condensed interim financial statements were issued. There were no events which occurred subsequent to March 31, 2025 that merited disclosure in these unaudited condensed consolidated interim financial statements. 
+ 26 

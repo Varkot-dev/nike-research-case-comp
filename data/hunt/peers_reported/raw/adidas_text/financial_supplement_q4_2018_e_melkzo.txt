@@ -1,0 +1,391 @@
+  FINANCIAL
+SUPPLEMENT
+
+
+
+
+JANUARY – DECEMBER
+                                                             FINANCIAL SUPPLEMENT FOR FOURTH QUARTER AND FULL YEAR 2018
+
+                                                             TABLE OF CONTENT
+
+
+
+                                                             Consolidated Statement of
+                                                             Financial Position                                03
+
+                                                             Consolidated Income Statement                     05
+
+                                                             Consolidated Statement of
+                                                             Comprehensive Income                              06
+
+                                                             Consolidated Statement of
+                                                             Changes in Equity                                 07
+
+                                                             Consolidated Statement of Cash Flows              08
+FINANCIAL SUPPLEMENT FOR FOURTH QUARTER AND FULL YEAR 2018
+
+
+
+
+                                                                                                                                                                                                                                     02
+ADIDAS
+
+
+
+
+                                                                                                      To enhance readability, registered trademarks as well as references to rounding differences are omitted in this publication.
+                                                             CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+                                                             adidas AG Consolidated Statement of Financial Position (IFRS) 1 € in millions
+
+
+
+                                                                                                                                                                                                                                Note                Dec. 31, 2018   Dec. 31, 2017  2   Change in %    Jan. 1, 2017  2
+
+                                                             Assets
+                                                             Cash and cash equivalents                                                                                                                                              06                     2,629              1,598           64.5            1,510
+                                                             Short-term financial assets                                                                                                                                            07                         6                  5            5.3                 5
+                                                             Accounts receivable                                                                                                                                                    08                     2,418              2,315            4.4            2,200
+                                                             Other current financial assets                                                                                                                                         09                       542               393            38.1              729
+                                                             Inventories                                                                                                                                                            10                     3,445              3,692           (6.7)           3,763
+                                                             Income tax receivables                                                                                                                                                 38                        48                 71          (32.3)               98
+FINANCIAL SUPPLEMENT FOR FOURTH QUARTER AND FULL YEAR 2018
+
+
+
+
+                                                             Other current assets                                                                                                                                                   11                       725               498            45.6              580
+                                                             Assets classified as held for sale                                                                                                                                     12                         –                 72         (100.0)                –
+                                                             Total current assets                                                                                                                                                                          9,813             8,645            13.5            8,886
+
+
+                                                             Property, plant and equipment                                                                                                                                          13                     2,237              2,000           11.8            1,915
+                                                             Goodwill                                                                                                                                                               14                     1,245              1,220            2.0            1,412
+                                                             Trademarks                                                                                                                                                             15                       844               806             4.7            1,108
+                                                             Other intangible assets                                                                                                                                                15                       196               154            27.0              167
+                                                             Long-term financial assets                                                                                                                                             16                       276               236            16.9              194
+                                                             Other non-current financial assets                                                                                                                                     17                       256               219            16.9                96
+                                                             Deferred tax assets                                                                                                                                                    38                       651               630             3.4              732
+                                                             Other non-current assets                                                                                                                                               18                        94               108           (13.5)               94
+                                                             Total non-current assets                                                                                                                                                                      5,799             5,374             7.9            5,718
+
+
+                                                             Total assets                                                                                                                                                                                 15,612            14,019            11.4           14,604
+                                                             1 IFRS 9 and IFRS 15 are initially applied at January 1, 2018. Under the transition methods chosen, comparative information is not restated except for certain hedging requirements.
+                                                             2 Restated according to IAS 8, see Note 03 in the 2018 Annual Report.
+
+
+
+
+                                                                                                                                                                                                                                                                                                                        03
+ADIDAS
+                                                             adidas AG Consolidated Statement of Financial Position (IFRS) 1 € in millions
+
+
+
+                                                                                                                                                                                                                                Note                Dec. 31, 2018   Dec. 31, 2017  2   Change in %    Jan. 1, 2017  2
+
+                                                             Liabilities and equity
+                                                             Short-term borrowings                                                                                                                                                  19                        66               137           (51.5)             636
+                                                             Accounts payable                                                                                                                                                                              2,300              1,975           16.5            2,496
+                                                             Other current financial liabilities                                                                                                                                    20                       186               362           (48.6)             201
+                                                             Income taxes                                                                                                                                                           38                       268               424           (36.8)             402
+                                                             Other current provisions                                                                                                                                               21                     1,232               741            66.2              573
+                                                             Current accrued liabilities                                                                                                                                            22                     2,305              2,180            5.7            2,023
+                                                             Other current liabilities                                                                                                                                              23                       477               473             1.0              434
+                                                             Total current liabilities                                                                                                                                                                     6,834             6,291             8.6            6,765
+FINANCIAL SUPPLEMENT FOR FOURTH QUARTER AND FULL YEAR 2018
+
+
+
+
+                                                             Long-term borrowings                                                                                                                                                   19                     1,609               983            63.7              982
+                                                             Other non-current financial liabilities                                                                                                                                24                       103                 22          357.7                22
+                                                             Pensions and similar obligations                                                                                                                                       25                       246               298           (17.3)             355
+                                                             Deferred tax liabilities                                                                                                                                               38                       241               190            26.8              289
+                                                             Other non-current provisions                                                                                                                                           21                       128                 80           60.2                44
+                                                             Non-current accrued liabilities                                                                                                                                        22                        19                 85          (77.7)             120
+                                                             Other non-current liabilities                                                                                                                                          26                        68                 53           29.2                46
+                                                             Total non-current liabilities                                                                                                                                                                 2,414             1,711            41.1            1,859
+
+
+                                                             Share capital                                                                                                                                                                                   199               204            (2.3)             201
+                                                             Reserves                                                                                                                                                                                        123               (29)           n.a.              743
+                                                             Retained earnings                                                                                                                                                                             6,054              5,858            3.4            5,053
+                                                             Shareholders’ equity                                                                                                                                                   27                     6,377             6,032             5.7            5,997
+
+
+                                                             Non-controlling interests                                                                                                                                              29                       (13)              (15)           15.3              (17)
+
+
+                                                             Total equity                                                                                                                                                                                  6,364             6,017             5.8            5,980
+
+
+                                                             Total liabilities and equity                                                                                                                                                                 15,612            14,019            11.4           14,604
+                                                             1 IFRS 9 and IFRS 15 are initially applied at January 1, 2018. Under the transition methods chosen, comparative information is not restated except for certain hedging requirements.
+                                                             2 Restated according to IAS 8, see Note 03 in the 2018 Annual Report.
+
+
+
+
+                                                                                                                                                                                                                                                                                                                        04
+ADIDAS
+                                                             CONSOLIDATED INCOME STATEMENT
+                                                             adidas AG Consolidated Income Statement (IFRS) € in millions
+
+
+
+                                                                                                                                                           Year ending     Year ending
+                                                                                                                                                 Note     Dec. 31, 2018   Dec. 31, 2017   Change
+                                                             Net sales                                                                              40          21,915          21,218        3.3%
+                                                             Cost of sales                                                                                      10,552          10,514        0.4%
+                                                             Gross profit                                                                                       11,363          10,703       6.2%
+                                                               (% of net sales)                                                                                 51.8%           50.4%        1.4pp
+                                                             Royalty and commission income                                                                         129             115      12.0%
+                                                             Other operating income                                                                  33             48              17    187.9%
+                                                             Other operating expenses                                                        13, 15, 34          9,172           8,766        4.6%
+                                                               (% of net sales)                                                                                 41.9%           41.3%        0.5pp
+FINANCIAL SUPPLEMENT FOR FOURTH QUARTER AND FULL YEAR 2018
+
+
+
+
+                                                               Marketing and point-of-sale expenses                                                              3,001           2,724      10.2%
+                                                                 (% of net sales)                                                                               13.7%           12.8%        0.9pp
+                                                               Distribution and selling expenses                                                                 4,450           4,307        3.3%
+                                                                 (% of net sales)                                                                               20.3%           20.3%        0.0pp
+                                                               General and administration expenses                                                               1,576           1,568        0.5%
+                                                                 (% of net sales)                                                                                7.2%            7.4%      (0.2pp)
+                                                               Sundry expenses                                                                                     105             130    (19.7%)
+                                                                 (% of net sales)                                                                                0.5%            0.6%      (0.1pp)
+                                                               Impairment losses (net) on accounts receivable and contract assets                                   41              37      12.0%
+                                                             Operating profit                                                                                    2,368           2,070      14.4%
+                                                               (% of net sales)                                                                                 10.8%            9.8%        1.1pp
+                                                             Financial income                                                                       36              57              46      24.1%
+                                                             Financial expenses                                                                     36              47              93    (49.6%)
+                                                             Income before taxes                                                                                 2,378           2,023      17.6%
+                                                               (% of net sales)                                                                                 10.9%            9.5%        1.3pp
+                                                             Income taxes                                                                           38             669             668        0.1%
+                                                               (% of income before taxes)                                                                       28.1%           33.0%      (4.9pp)
+                                                             Net income from continuing operations                                                               1,709           1,354      26.2%
+                                                                (% of net sales)                                                                                 7.8%            6.4%        1.4pp
+                                                             Losses from discontinued operations, net of tax                                        04               5             254    (98.2%)
+                                                             Net income                                                                                          1,704           1,100      55.0%
+                                                               (% of net sales)                                                                                  7.8%            5.2%        2.6pp
+                                                             Net income attributable to shareholders                                                             1,702           1,097      55.1%
+
+
+
+
+                                                                                                                                                                                                     05
+                                                               (% of net sales)                                                                                  7.8%            5.2%        2.6pp
+ADIDAS
+
+
+
+
+                                                             Net income attributable to non-controlling interests                                                    3               3     (6.1%)
+
+                                                             Basic earnings per share from continuing operations (in €)                             39            8.46            6.68     26.7%
+                                                             Diluted earnings per share from continuing operations (in €)                           39            8.45            6.63     27.4%
+
+                                                             Basic earnings per share from continuing and discontinued operations (in €)            39            8.44            5.42     55.6%
+                                                             Diluted earnings per share from continuing and discontinued operations (in €)          39            8.42            5.38     56.5%
+                                                             CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+                                                             adidas AG Consolidated Statement of Comprehensive Income (IFRS) 1 € in millions
+
+
+
+                                                                                                                                                                                                                                                            Year ending     Year ending
+                                                                                                                                                                                                                                                    Note   Dec. 31, 2018   Dec. 31, 2017
+                                                             Net income after taxes                                                                                                                                                                               1,704            1,100
+                                                             Items of other comprehensive income that will not be reclassified subsequently to profit or loss
+                                                             Remeasurements of defined benefit plans (IAS 19), net of tax 2                                                                                                                           25            (13)              23
+                                                             Net loss on other equity investments (IFRS 9), net of tax                                                                                                                                31             (8)               –
+                                                             Subtotal of items of other comprehensive income that will not be reclassified subsequently to profit or loss                                                                                           (21)              23
+                                                             Items of other comprehensive income that will be reclassified to profit or loss when specific conditions are met
+                                                             Net gain/(loss) on cash flow hedges and net foreign investment hedges, net of tax                                                                                                        31            232            (375)
+FINANCIAL SUPPLEMENT FOR FOURTH QUARTER AND FULL YEAR 2018
+
+
+
+
+                                                             Net gain on cost of hedging reserve, net of tax – options                                                                                                                                31              3                1
+                                                             Net loss on cost of hedging reserve, net of tax – forward contracts                                                                                                                      31            (10)               –
+                                                             Reclassification of foreign currency differences on loss of significant influence                                                                                                                       (4)              15
+                                                             Currency translation differences                                                                                                                                                                       (49)          (481) 3
+                                                             Subtotal of items of other comprehensive income that will be reclassified to profit or loss when specific conditions are met                                                                           171            (840)
+
+
+                                                             Other comprehensive income                                                                                                                                                                             150            (818)
+
+
+                                                             Total comprehensive income                                                                                                                                                                           1,855             282
+
+
+                                                             Attributable to shareholders of adidas AG                                                                                                                                                            1,851             278
+                                                             Attributable to non-controlling interests                                                                                                                                                               4                 4
+
+                                                             1 IFRS 9 and IFRS 15 are initially applied at January 1, 2018. Under the transition methods chosen, comparative information is not restated except for certain hedging requirements.
+                                                             2 Includes actuarial gains or losses relating to defined benefit obligations, return on plan assets (excluding interest income) and the asset ceiling effect.
+                                                             3 Restated according to IAS 8, see Note 03 in the 2018 Annual Report.
+
+
+
+
+                                                                                                                                                                                                                                                                                            06
+ADIDAS
+                                                             CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+                                                             adidas AG Consolidated Statement of Changes in Equity (IFRS) 1 € in millions
+
+
+
+                                                                                                                                                                                                                                                                          Cost of
+                                                                                                                                                                                                                    Cumulative                                Cost of    hedging
+                                                                                                                                                                                                                      currency                               hedging    reserve –                              Share-          Non-
+                                                                                                                                                                                            Share           Capital translation                 Hedging     reserve –    forward         Other     Retained   holders’   controlling
+                                                                                                                                                                           Note            capital         reserve differences                  reserve       options   contracts    reserves 2    earnings     equity     interests   Total equity
+                                                             Balance at December 31, 2016                                                                                                      201               838                (52)             146           –            –         (182)       5,521     6,472           (17)         6,455
+                                                             IFRS 9 transition effect, net of tax                                                                              31                                                                                 (6)                                    6          –                            –
+                                                             Adjustment according to IAS 8, net of tax                                                                         03                                                                                                                     (475)      (475)                        (475)
+                                                             Balance at January 1, 2017                                                                                                        201               838                (52)             146          (6)           –         (182)       5,053     5,997           (17)         5,980
+                                                             Other comprehensive income                                                                                                                                           (468) 3           (375)          1                         23         (1)      (819)            1           (818)
+FINANCIAL SUPPLEMENT FOR FOURTH QUARTER AND FULL YEAR 2018
+
+
+
+
+                                                             Net income                                                                                                                                                                                                                               1,097     1,097             3          1,100
+                                                             Total comprehensive income                                                                                                                                           (468)             (375)          1            –            23       1,096       278             4            282
+                                                             Reissuance of treasury shares due to the conversion of convertible bonds                                          27                  3               46                                                                                  180        229                          229
+                                                             Repurchase of treasury shares                                                                                     27                (0)                                                                                                   (73)       (73)                         (73)
+                                                             Repurchase of treasury shares due to equity-settled share-based payment                                           27                (0)                                                                                                   (15)       (15)                         (15)
+                                                             Reissuance of treasury shares due to equity-settled share-based payment                                           27                  0                                                                                                    19         20                           20
+                                                             Dividend payment                                                                                                                                                                                                                         (405)      (405)           (1)          (406)
+                                                             Equity-settled share-based payment                                                                                28                                                                                                                        2          2                            2
+                                                             Balance at December 31, 2017                                                                                                      204               884              (520)             (229)         (5)           –         (159)       5,858     6,032           (15)         6,017
+                                                             IFRS 9 transition effect, net of tax                                                                              31                                                                     (6)                       6                        3          3            (0)             3
+                                                             IFRS 15 transition effect, net of tax                                                                             32                                                                                                                      (25)       (25)           (0)           (25)
+                                                             Balance at January 1, 2018                                                                                                        204               884              (520)             (234)         (5)           6         (159)       5,836     6,011           (15)         5,996
+                                                             Other comprehensive income                                                                                                                                             (54)             231           3          (10)          (21)                  149             1            150
+                                                             Net income                                                                                                                                                                                                                               1,702     1,702             3          1,704
+                                                             Total comprehensive income                                                                                                                                             (54)             231           3          (10)         (21)       1,702     1,851             4          1,855
+                                                             Reissuance of treasury shares due to the conversion of convertible bonds                                          27                  0                 3                                                                                  27         30                           30
+                                                             Repurchase of treasury shares                                                                                     27                (5)                                                                                                  (996)    (1,001)                      (1,001)
+                                                             Repurchase of treasury shares due to equity-settled share-based payment                                           27                (0)                                                                                                   (19)       (19)                         (19)
+                                                             Reissuance of treasury shares due to equity-settled share-based payment                                           27                  0                                                                                                    22         23                           23
+                                                             Dividend payment                                                                                                                                                                                                                         (528)      (528)           (1)          (530)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                      07
+ADIDAS
+
+
+
+
+                                                             Equity-settled share-based payment                                                                                28                                                                                                                       11         11                           11
+                                                             Balance at December 31, 2018                                                                                                      199               887              (574)               (3)         (3)          (5)        (180)       6,054     6,377           (13)         6,364
+                                                             1 IFRS 9 and IFRS 15 are initially applied at January 1, 2018. Under the transition methods chosen, comparative information is not restated except for certain hedging requirements.
+                                                             2 Reserves for remeasurements of defined benefit plans (IAS 19), option plans and acquisition of shares from non-controlling interest shareholders.
+                                                             3 Adjusted according to IAS 8 with an amount of € 57 million, see Note 03 in the 2018 Annual Report.
+                                                             CONSOLIDATED STATEMENT OF CASH FLOWS
+                                                             adidas AG Consolidated Statement of Cash Flows (IFRS) € in millions
+
+
+
+                                                                                                                                                                      Year ending     Year ending
+                                                                                                                                                            Note     Dec. 31, 2018   Dec. 31, 2017
+
+                                                             Operating activities:
+                                                             Income before taxes                                                                                            2,378           2,023
+
+                                                             Adjustments for:
+                                                             Depreciation, amortization and impairment losses                                   13, 14, 15, 34, 36            490             484
+                                                             Reversals of impairment losses                                                                    33              (3)             (1)
+                                                             Unrealized foreign exchange gains, net                                                                           (10)            (75)
+FINANCIAL SUPPLEMENT FOR FOURTH QUARTER AND FULL YEAR 2018
+
+
+
+
+                                                             Interest income                                                                                   36             (24)            (25)
+                                                             Interest expense                                                                                  36              42              62
+                                                             Losses on sale of property, plant and equipment and intangible assets, net                                         9              17
+                                                             Other non-cash expenses                                                                       33, 34              17               3
+                                                             Payment for external funding of pension obligations (CTA)                                                        (90)            (30)
+                                                             Proceeds from early termination of promotion and advertising contracts                        05, 33               –              76
+                                                             Operating profit before working capital changes                                                                2,808           2,534
+                                                             Increase in receivables and other assets                                                                        (209)           (477)
+                                                             Decrease/(increase) in inventories                                                                               180            (216)
+                                                             Increase in accounts payable and other liabilities                                                               741             422
+                                                             Cash generated from operations before interest and taxes                                                       3,520           2,263
+                                                             Interest paid                                                                                                    (40)            (65)
+                                                             Income taxes paid                                                                                               (815)           (556)
+                                                             Net cash generated from operating activities – continuing operations                                           2,666           1,641
+                                                             Net cash (used in)/generated from operating activities – discontinued operations                                 (20)              6
+                                                             Net cash generated from operating activities                                                                   2,646           1,648
+
+
+
+
+                                                                                                                                                                                                     08
+ADIDAS
+                                                             adidas AG Consolidated Statement of Cash Flows (IFRS) € in millions
+
+
+
+                                                                                                                                               Year ending     Year ending
+                                                                                                                                       Note   Dec. 31, 2018   Dec. 31, 2017
+
+                                                             Investing activities:
+                                                             Purchase of trademarks and other intangible assets                                        (96)            (74)
+                                                             Proceeds from sale of trademarks and other intangible assets                                2               0
+                                                             Purchase of property, plant and equipment                                                (611)           (678)
+                                                             Proceeds from sale of property, plant and equipment                                        13               2
+                                                             Proceeds from sale of assets held for sale                                  12             71               –
+                                                             Proceeds from sale of a disposal group                                      12             18               6
+                                                             Proceeds from disposal of discontinued operations net of cash disposed                      –             174
+                                                             Purchase of sale of short-term financial assets                                            (0)             (0)
+                                                             Purchase of investments and other long-term assets                                        (56)           (132)
+FINANCIAL SUPPLEMENT FOR FOURTH QUARTER AND FULL YEAR 2018
+
+
+
+
+                                                             Interest received                                                                          24              25
+                                                             Net cash used in investing activities – continuing operations                            (636)           (676)
+                                                             Net cash used in investing activities – discontinued operations                             –              (4)
+                                                             Net cash used in investing activities                                                    (636)           (680)
+
+                                                             Financing activities:
+                                                             Proceeds from long-term borrowings                                                        141               –
+                                                             Proceeds from issuance of a convertible bond                                19            518               –
+                                                             Payments for options related to a convertible bond                          19            (35)              –
+                                                             Repayments of finance lease obligations                                                    (2)             (2)
+                                                             Dividend paid to shareholders of adidas AG                                  27           (528)           (405)
+                                                             Dividend paid to non-controlling interest shareholders                                     (1)             (1)
+                                                             Repurchase of treasury shares                                               27         (1,000)            (85)
+                                                             Repurchase of treasury shares due to share-based payments                                 (22)            (15)
+                                                             Proceeds from reissuance of treasury shares due to share-based payments                    19              13
+                                                             Proceeds from short-term borrowings                                         19              9               –
+                                                             Repayments of short-term borrowings                                         19            (49)           (273)
+                                                             Net cash used in financing activities – continuing operations                            (951)           (769)
+                                                             Net cash used in financing activities – discontinued operations                             –              (0)
+                                                             Net cash used in financing activities                                                    (951)           (769)
+
+
+
+
+                                                                                                                                                                              09
+ADIDAS
+
+
+
+
+                                                             Effect of exchange rates on cash                                                          (29)           (111)
+                                                             Increase of cash and cash equivalents                                                   1,031              88
+                                                             Cash and cash equivalents at beginning of year                              06          1,598           1,510
+                                                             Cash and cash equivalents at end of period                                  06          2,629           1,598
+

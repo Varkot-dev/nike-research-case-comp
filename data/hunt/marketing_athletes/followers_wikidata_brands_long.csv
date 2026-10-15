@@ -1,0 +1,89 @@
+entity,qid,platform,handle,date,followers,rank
+Adidas,Q3895,youtube_channel,UCuLUOxd7ezJ8c6NSLBNRRfg,2021-07-02,927000.0,normal
+Adidas,Q3895,youtube_channel,UCuLUOxd7ezJ8c6NSLBNRRfg,2023-03-22,979000.0,normal
+Adidas,Q3895,youtube_channel,UCuLUOxd7ezJ8c6NSLBNRRfg,2023-05-31,1000000.0,normal
+Adidas,Q3895,youtube_channel,UCuLUOxd7ezJ8c6NSLBNRRfg,2024-01-16,1130000.0,normal
+Adidas,Q3895,youtube_channel,UCuLUOxd7ezJ8c6NSLBNRRfg,2024-05-18,1260000.0,normal
+Adidas,Q3895,youtube_channel,UCuLUOxd7ezJ8c6NSLBNRRfg,2024-08-10,1470000.0,normal
+Adidas,Q3895,youtube_channel,UCuLUOxd7ezJ8c6NSLBNRRfg,2025-02-09,1820000.0,normal
+Adidas,Q3895,youtube_channel,UCuLUOxd7ezJ8c6NSLBNRRfg,2025-07-14,2050000.0,preferred
+Air Jordan,Q420953,twitter_id,198975780,2021-01-07,4147011.0,normal
+Air Jordan,Q420953,twitter_id,198975780,2020-04-21,3905946.0,normal
+Air Jordan,Q420953,youtube_channel,UCqnGgTN0ajGp0LaoKkyxAxA,2021-07-02,398000.0,normal
+Air Jordan,Q420953,twitter_id,198975780,2022-03-02,4314874.0,normal
+Air Jordan,Q420953,twitter_id,198975780,2023-02-06,4504197.0,preferred
+Air Jordan,Q420953,youtube_channel,UCqnGgTN0ajGp0LaoKkyxAxA,2023-03-22,393000.0,normal
+Air Jordan,Q420953,youtube_channel,UCqnGgTN0ajGp0LaoKkyxAxA,2024-04-06,403000.0,normal
+Air Jordan,Q420953,youtube_channel,UCqnGgTN0ajGp0LaoKkyxAxA,2025-04-14,414000.0,preferred
+Lululemon,Q6702957,twitter_id,16252784,2021-01-10,1005423.0,normal
+Lululemon,Q6702957,twitter_id,16252784,2020-04-22,1029014.0,normal
+Lululemon,Q6702957,youtube_channel,UCCzODDnIM4xdZxOLUGF7KSg,2021-07-03,269000.0,normal
+Lululemon,Q6702957,twitter_id,16252784,2022-02-28,988100.0,normal
+Lululemon,Q6702957,twitter_id,16252784,2023-02-05,980804.0,preferred
+Lululemon,Q6702957,youtube_channel,UCCzODDnIM4xdZxOLUGF7KSg,2023-03-22,283000.0,normal
+Lululemon,Q6702957,youtube_channel,UCCzODDnIM4xdZxOLUGF7KSg,2024-04-29,297000.0,normal
+Lululemon,Q6702957,youtube_channel,UCCzODDnIM4xdZxOLUGF7KSg,2025-05-11,305000.0,preferred
+Lululemon,Q6702957,instagram,lululemon,2026-06-12,5800000.0,normal
+New Balance,Q742988,twitter_id,5838072,2021-02-05,257868.0,normal
+New Balance,Q742988,twitter_id,5838072,2022-01-27,264505.0,normal
+New Balance,Q742988,twitter_id,5838072,2023-02-08,287245.0,preferred
+"Nike, Inc.",Q483915,twitter_id,415859364,2021-03-16,8386270.0,normal
+"Nike, Inc.",Q483915,youtube_channel,UCUFgkRb0ZHc4Rpq15VRCICA,2021-07-03,1640000.0,normal
+"Nike, Inc.",Q483915,twitter_id,415859364,2022-01-08,8924028.0,normal
+"Nike, Inc.",Q483915,instagram,nike,2022-01-01,191000000.0,normal
+"Nike, Inc.",Q483915,instagram,nike,2021-01-01,131000000.0,normal
+"Nike, Inc.",Q483915,instagram,nike,2020-01-01,100000000.0,normal
+"Nike, Inc.",Q483915,instagram,nike,2019-01-01,84000000.0,normal
+"Nike, Inc.",Q483915,instagram,nike,2018-01-01,75000000.0,normal
+"Nike, Inc.",Q483915,instagram,nike,2017-01-01,68000000.0,normal
+"Nike, Inc.",Q483915,twitter_id,415859364,2023-02-11,9709524.0,preferred
+"Nike, Inc.",Q483915,youtube_channel,UCUFgkRb0ZHc4Rpq15VRCICA,2023-03-22,1720000.0,normal
+"Nike, Inc.",Q483915,youtube_channel,UCUFgkRb0ZHc4Rpq15VRCICA,2024-04-20,1860000.0,normal
+"Nike, Inc.",Q483915,youtube_channel,UCUFgkRb0ZHc4Rpq15VRCICA,2024-10-05,2050000.0,normal
+"Nike, Inc.",Q483915,youtube_channel,UCUFgkRb0ZHc4Rpq15VRCICA,2025-10-11,2200000.0,preferred
+Puma (brand),Q157064,twitter_id,50883209,2021-01-03,1685961.0,normal
+Puma (brand),Q157064,twitter_id,50883209,2020-04-14,1654835.0,normal
+Puma (brand),Q157064,youtube_channel,UCZq427EjGqUbV6pZIjEKkgg,2021-07-02,569000.0,normal
+Puma (brand),Q157064,twitter_id,50883209,2022-02-28,1835054.0,normal
+Puma (brand),Q157064,twitter_id,50883209,2023-02-12,1995950.0,preferred
+Puma (brand),Q157064,youtube_channel,UCZq427EjGqUbV6pZIjEKkgg,2023-03-22,632000.0,normal
+Puma (brand),Q157064,youtube_channel,UCZq427EjGqUbV6pZIjEKkgg,2024-01-16,744000.0,normal
+Puma (brand),Q157064,youtube_channel,UCZq427EjGqUbV6pZIjEKkgg,2024-10-14,823000.0,normal
+Puma (brand),Q157064,youtube_channel,UCZq427EjGqUbV6pZIjEKkgg,2025-10-18,893000.0,preferred
+Reebok,Q466183,twitter_id,21915474,2021-03-16,715262.0,normal
+Reebok,Q466183,youtube_channel,UCLhK4_HF-LEtBC71LYL2Z4g,2021-08-04,165000.0,normal
+Reebok,Q466183,twitter_id,21915474,2022-02-26,704210.0,normal
+Reebok,Q466183,twitter_id,21915474,2023-02-06,701920.0,preferred
+Reebok,Q466183,youtube_channel,UCLhK4_HF-LEtBC71LYL2Z4g,2023-03-22,166000.0,normal
+Reebok,Q466183,youtube_channel,UCLhK4_HF-LEtBC71LYL2Z4g,2024-05-04,167000.0,normal
+Reebok,Q466183,youtube_channel,UCLhK4_HF-LEtBC71LYL2Z4g,2025-05-11,168000.0,preferred
+Salomon Group,Q2120822,twitter_id,24105509,2021-01-02,81650.0,normal
+Salomon Group,Q2120822,twitter_id,24105509,2020-04-23,79454.0,normal
+Salomon Group,Q2120822,youtube_channel,UCCH7Ny59oLRGfw3imhL0d7A,2021-07-03,194000.0,normal
+Salomon Group,Q2120822,twitter_id,24105509,2022-02-26,84516.0,normal
+Salomon Group,Q2120822,youtube_channel,UCCH7Ny59oLRGfw3imhL0d7A,2022-03-17,222000.0,normal
+Salomon Group,Q2120822,twitter_id,24105509,2023-02-05,86950.0,preferred
+Salomon Group,Q2120822,youtube_channel,UCCH7Ny59oLRGfw3imhL0d7A,2023-03-22,242000.0,normal
+Salomon Group,Q2120822,youtube_channel,UCCH7Ny59oLRGfw3imhL0d7A,2024-04-29,263000.0,normal
+Salomon Group,Q2120822,youtube_channel,UCCH7Ny59oLRGfw3imhL0d7A,2025-05-18,283000.0,preferred
+Skechers,Q2945643,twitter_id,19406332,2021-01-04,47556.0,normal
+Skechers,Q2945643,twitter_id,19406332,2020-04-27,48089.0,normal
+Skechers,Q2945643,twitter_id,19406332,2022-02-21,47229.0,normal
+Skechers,Q2945643,twitter_id,19406332,2023-02-02,48740.0,preferred
+Under Armour,Q2031485,twitter_id,23114836,2021-01-07,956812.0,normal
+Under Armour,Q2031485,twitter_id,23114836,2020-03-19,971854.0,normal
+Under Armour,Q2031485,youtube_channel,UCsjmH-FH4KbZMR3_AT8egWQ,2021-07-03,255000.0,normal
+Under Armour,Q2031485,twitter_id,23114836,2022-02-21,956454.0,normal
+Under Armour,Q2031485,twitter_id,23114836,2023-02-11,972939.0,preferred
+Under Armour,Q2031485,youtube_channel,UCsjmH-FH4KbZMR3_AT8egWQ,2023-03-22,267000.0,normal
+Under Armour,Q2031485,youtube_channel,UCsjmH-FH4KbZMR3_AT8egWQ,2024-04-29,289000.0,normal
+Under Armour,Q2031485,youtube_channel,UCsjmH-FH4KbZMR3_AT8egWQ,2025-05-11,293000.0,preferred
+Asics,Q327247,youtube_channel,UCcmYRPv2dNVkSWgCp_5M7yA,2022-03-09,28700.0,normal
+Asics,Q327247,twitter_id,730370318561202177,2022-08-23,121738.0,preferred
+Asics,Q327247,youtube_channel,UCcmYRPv2dNVkSWgCp_5M7yA,2023-02-18,32500.0,normal
+Asics,Q327247,youtube_channel,UCcmYRPv2dNVkSWgCp_5M7yA,2024-01-16,37800.0,normal
+Asics,Q327247,youtube_channel,UCcmYRPv2dNVkSWgCp_5M7yA,2025-02-01,43800.0,preferred
+Converse (brand),Q319515,twitter_id,183398746,2021-01-04,1061096.0,normal
+Converse (brand),Q319515,twitter_id,183398746,2020-04-19,1080449.0,normal
+Converse (brand),Q319515,twitter_id,183398746,2022-01-08,1052779.0,normal
+Converse (brand),Q319515,twitter_id,183398746,2023-02-09,1046294.0,preferred

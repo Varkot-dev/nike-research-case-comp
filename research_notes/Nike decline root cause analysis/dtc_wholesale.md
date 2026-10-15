@@ -60,7 +60,7 @@ Score: 1 held, 4 partly, 3 failed. A primary cause should pass P2, P3 and P6 mos
 
 1. **Shelf ceded to challengers (this hypothesis).** Real but modest. It gave On, Hoka and New Balance distribution at Foot Locker, run specialty, DSW and European independents while their running and comfort products were catching a consumer trend Nike's innovation pipeline missed.
 2. **Digital dependence and promotion.** This is the large one in the numbers: Digital rose to $12.1B, then fell $3.5B. Hill (Dec 2024): digital ran "roughly a 50/50 split of full-price to promotional sales" (SNIPPET, via search summary of the call).
-3. **Classics over-supply.** Resale premium collapse (Air Jordan 1 High general releases 26% to 35% below retail, `data/jordan_resale_goat_20261013.csv`), Sportswear and Jordan drag (other repo notes).
+3. **Classics over-supply and brand fatigue.** Resale premium collapse, Sportswear and Jordan drag (other repo notes).
 
 Separately, the challengers' rise has its own upstream driver (the running and comfort trend plus an innovation gap), shown by their DTC growth. China (local brands, deflationary price war) and Converse are independent of this channel story.
 
@@ -145,3 +145,166 @@ Separately, the challengers' rise has its own upstream driver (the running and c
 | Puma H1 2025 wholesale (Just Style) | 2025 | SNIPPET | Wholesale -4.9% c.a. H1 2025 |
 | Hill "50/50" digital full-price split, Q2 FY25 call | 2024-12-19 | SNIPPET | Digital promotion dependence |
 | Repo notes reused: `retailers_and_resale.md`, `academic_literature.md`, `analysts_and_consumer_data.md`, `competitors_and_turnarounds.md`, `china_market.md`, `nike_standing.md` | 2026-10-13 | OPENED (repo) | Stack, JD, Fleet Feet, Van Crombrugge, Circana run specialty, Q1 FY27 call |
+
+## Challenge: REFUTER
+
+Date: 2026-10-13. Lens: try to disprove "the DTC pivot and wholesale account cuts gave shelf space to competitors and caused the share loss." All filings below were downloaded from EDGAR in this session (OPENED) unless marked otherwise. Arithmetic is mine and labelled.
+
+### R1. Verdict
+
+**The hypothesis as stated ("caused the share loss") does not survive. Downgrade from contributing cause to minor.** The account cuts were real and challengers did use the vacated doors, but nearly every discriminating prediction fails: the shelf loss in revenue terms was small and temporary, it was fully reversed two years before Nike's decline began, Nike out-grew the US market during the peak cut years, challengers grew just as fast in places where Nike never vacated shelf, and a wholesale-heavy incumbent (VF / Vans) lost as much US share as Nike without any comparable door purge. I would cut the investigator's estimate of the shelf mechanism's share of the 2019 to 2025 US share loss from 20 to 40% (1 to 2 pts) to roughly 0 to 20% (0 to 1 pt), and keep it at the low end (about 5%) of the FY2024 to FY2026 revenue decline.
+
+### R2. Failed predictions found in this pass
+
+1. **The shelf was already back before the decline started (timing kill).** NA wholesale: $10,875M (FY2019), $9,371M (FY2020), $10,186M (FY2021), $9,621M (FY2022), **$11,273M (FY2023, a record above FY2019)**, $11,004M (FY2024), $10,484M (FY2025), $11,958M (FY2026) (`data/nike_channel_split.csv`, 10-K segment tables). The wholesale revenue trough lasted three COVID-confounded years and ended in FY2023. Nike's revenue decline began in FY2025, two years after NA wholesale had regained its FY2019 level. A shelf-space cause predicts the decline coincides with the shelf gap; it follows the shelf's return instead.
+2. **Globally the cuts never shrank wholesale.** NIKE Brand wholesale went from $25,423M (FY2019) to $27,758M (FY2024), +9.2% (my arithmetic, same CSV). EMEA wholesale rose $7,076M to $8,522M (FY2019 to FY2023, +20%). "Giving away shelf" did not show up as lost wholesale dollars outside a temporary NA dip.
+3. **Nike out-grew the US market during the peak cut years.** NA revenue rose from $15,902M (FY2019) to $21,608M (FY2023), +35.9% (my arithmetic), while Euromonitor puts US athletic footwear market growth at a 4.0% CAGR for 2019 to 2024, about +17% over four years (HGI, OPENED this session, 2026-01-13, citing Passport Dec 18, 2025). Price increases and COVID demand inflate both, but a company handing share to rivals through lost shelf should not grow about twice as fast as its market. This also fits GlobalData's flat 35% share 2021 to 2023 already in the notes.
+4. **Hoka's growth shows no step-change when Nike's cuts peaked.** Hoka wholesale (Deckers 10-Ks, fiscal years ending March): $74.9M FY2016, $93.1M FY2017, $132.7M FY2018, $185.1M FY2019, $277.1M FY2020, $405.2M FY2021, $628.7M FY2022, $925.9M FY2023, $1,126.1M FY2024, $1,397.8M FY2025, $1,651.8M FY2026. Year-on-year growth (my arithmetic): +24%, +43%, +39%, +50%, +46%, +55%, +47%, +22%, +24%, +18%. Hoka was already growing about 40 to 50% a year before Consumer Direct Acceleration (June 2020) and before the 2020 to 2021 named exits. The only visible acceleration (FY2022, +55%) is about 5 to 9 pts above trend. Sources: Deckers FY2020 10-K (filed 2020-06-01, five-year segment table) and FY2022, FY2024, FY2026 10-Ks (filed 2022-05-27, 2024-05-24, 2026-05-22), OPENED. Hoka DTC $75.5M (FY2020) to $680.6M (FY2024), 9.0x, confirmed (FY2020 and FY2024 10-K brand tables, OPENED).
+5. **Challengers boomed where Nike did not vacate shelf.**
+   - On Europe sales: CHF 128.3M (2019), 187.5M (2020), 260.4M (2021), 354.3M (2022) (On 424B4 2021-09-16 and 2022 20-F filed 2023-03-21, OPENED). That is +176% while Nike's EMEA wholesale was rising 20%.
+   - On Asia-Pacific: CHF 260.2M (2024) to 511.1M (2025), +106.7% constant currency (On 2025 20-F, filed 2026-03-03, OPENED), and +54.7% c.c. in Q2 2026 (On 6-K press release, 2026-08-11, OPENED via WebFetch). Nike kept its China distributors (Topsports, Pou Sheng) the whole time, yet Greater China is Nike's worst region.
+   - On North America grew +86% in calendar 2020 (CHF 111.8M to 208.1M, 424B4, OPENED), mostly before the December 2020 and 2021 named account exits.
+   The natural experiment (challenger growth in no-cut regions vs cut regions) shows growth everywhere, which is demand pull, not vacated-shelf push.
+6. **Nike re-took the NA shelf in FY2026 and Q1 FY2027 and challengers kept growing; where they slowed, they said it was their own choice.** NA wholesale +14% c.n. in FY2026 and +9.0% reported in Q1 FY2027 ($2,981M vs $2,736M; NA Direct -6.0%, $2,146M vs $2,284M; NA total +2.1%, my arithmetic from the channel CSV). Over the same period: On Americas +23.4% c.c. in 2025 and +13.0% c.c. in Q2 2026; On wholesale +32.6% c.c. in 2025 and +12.7% c.c. in Q2 2026, with On saying it is "deliberately managing wholesale sell-in ... to protect full-price integrity in a promotional marketplace" (On 6-K, 2026-08-11, OPENED via WebFetch). Hoka wholesale +18.2% in FY2026 (Deckers FY2026 10-K, OPENED); Hoka Q1 FY2027 +7.7% to $703.5M (Just Style, July 2026, OPENED via WebFetch; Deckers release copies SNIPPET). Honest caveat: the Hoka slowdown is consistent with Nike's shelf return, so the reversal test is not a clean kill; but Nike's own total did not recover, which is what the hypothesis needs.
+7. **Peer control: a wholesale-heavy incumbent lost as much share without a Nike-style purge.** Euromonitor US athletic footwear company shares (HGI table, OPENED): VF Corp 9.4% (2019) to 3.9% (2025), about -5.5 pts, versus Nike -5.2 pts. adidas, which also cut thousands of US accounts in 2021, went 11.0% to 10.1% (-0.9). Top-10 combined share was flat (77.7% to 77.8%). Share moved from fading franchises (Vans, Nike classics) to On (6.3% in 2025), Skechers (9.0%), New Balance (6.4%) and Deckers (3.8%), regardless of the incumbent's channel strategy. HGI also reports Nike's global share fell 540 bps to 22.9% over the 10 years to 2025, which includes markets where Nike made no comparable cuts.
+8. **The biggest share loss came before the cuts.** Euromonitor via HGI: Nike 40.5% (2016) to 34.1% (2019), -6.4 pts, with Nike's full wholesale footprint mostly intact (CDO was announced June 2017 and the named exits were mostly 2020 to 2021). Verified on the opened HGI page.
+
+### R3. Checks on numbers the investigator cited
+
+| Claim | Primary source check | Result |
+|---|---|---|
+| Hoka wholesale $277M to $629M | Deckers FY2020 10-K: 277,097; FY2022 10-K: 628,674 (fiscal years ending March 2020 and March 2022) | Correct; note Deckers FY ends March, so FY2020 is about 10 months after Nike FY2019 |
+| On North America CHF 112M to CHF 410M, "FY2019 to FY2022 window" | On 424B4: 111.8 (2019); 2022 20-F: 409.5 (2021), 738.5 (2022) | **Window mislabelled**: 410M is calendar 2021, not 2022. 2022 was CHF 738.5M. The point still stands but the pairing is wrong |
+| Hoka DTC 9x vs wholesale 4x | FY2020 and FY2024 10-K brand tables: DTC 75.5 to 680.6; wholesale 277.1 to 1,126.1 | Correct (9.0x, 4.1x) |
+| On wholesale CHF 1,375.5M (2024) | On 2025 20-F: 1,375.5 (2024), 1,753.4 (2025) | Correct |
+| Foot Locker Nike 59% (2024) vs 65% (2023) | Foot Locker 10-K filed 2025-03-27 | Correct ("Approximately 59% and 65% was purchased from one supplier, Nike") |
+| Euromonitor 40.5 / 34.1 / 28.9; 4.0% CAGR 2019 to 2024 | HGI page, curl this session | Correct |
+| NA wholesale $9,621M FY2022, $11,958M FY2026 | channel CSV | Correct |
+
+### R4. What survives
+
+- The mechanism exists at the margin: Foot Locker's Nike share fell 75% to 59%, challengers explicitly cited Nike's retreat, and Hoka's slowdown in 2026 coincides with Nike's return. These are real but they explain where challengers got their first doors, not why consumers chose them or why Nike's revenue fell in FY2025 to FY2027.
+- The better-supported story: product and franchise fatigue (classics over-supplied, running and comfort missed) shows up in every channel, every region and every incumbent with a fading franchise, while the shelf-specific predictions (timing, geography, reversal, peer control) fail.
+
+### R5. Sources (this pass)
+
+| Source | Date | Status |
+|---|---|---|
+| Deckers 10-K FY2020, https://www.sec.gov/Archives/edgar/data/910521/000091052120000016/deck331202010-k.htm | 2020-06-01 | OPENED |
+| Deckers 10-K FY2022, https://www.sec.gov/Archives/edgar/data/910521/000091052122000017/deck-20220331.htm | 2022-05-27 | OPENED |
+| Deckers 10-K FY2024, https://www.sec.gov/Archives/edgar/data/910521/000091052124000017/deck-20240331.htm | 2024-05-24 | OPENED |
+| Deckers 10-K FY2026, https://www.sec.gov/Archives/edgar/data/910521/000162828026037664/deck-20260331.htm | 2026-05-22 | OPENED |
+| On Holding 424B4 prospectus, https://www.sec.gov/Archives/edgar/data/1858985/000119312521275158/d175570d424b4.htm | 2021-09-16 | OPENED |
+| On Holding 20-F FY2022, https://www.sec.gov/Archives/edgar/data/1858985/000185898523000011/onholdingag-20221231.htm | 2023-03-21 | OPENED |
+| On Holding 20-F FY2025, https://www.sec.gov/Archives/edgar/data/1858985/000185898526000008/onholdingag-20251231.htm | 2026-03-03 | OPENED |
+| On Holding 6-K Q2 2026 press release, https://www.sec.gov/Archives/edgar/data/0001858985/000185898526000018/a26q2-ex993xpressrelease.htm | 2026-08-11 | OPENED (WebFetch summary with quotes) |
+| Just Style, Deckers Q1 FY27 result, https://www.just-style.com/news/deckers-q1-fy27-result/ | 2026-07 | OPENED (WebFetch) |
+| Deckers Q1 FY27 release copies (BusinessWire, Las Vegas Sun) | 2026-07-23 | SNIPPET (402 / stream error) |
+| Foot Locker 10-K FY2024, https://www.sec.gov/Archives/edgar/data/850209/000143774925009620/floc20241213_10k.htm | 2025-03-27 | OPENED |
+| HGI, https://hgi.io/insights/have-athletic-footwear-industry-titans-lost-their-step/ | 2026-01-13 | OPENED (curl) |
+| Nike channel and segment data, `data/nike_channel_split.csv` | FY2019 to Q1 FY2027 | OPENED (repo, verified) |
+
+## Challenge: ROOT-CAUSE
+
+Date: 2026-10-13. Lens: assume the symptom (Nike lost shelf at multi-brand retail and lost share) is real, and ask whether the shelf loss is itself a downstream effect of a different upstream cause. Status labels as above. Filings below were downloaded from EDGAR in this session (OPENED). Arithmetic is mine and labelled. Note: the shared web-search budget ran out partway through this pass, so some threads (Topsports brand mix, Dick's brand-level data) could not be pursued; I did not work around the limit.
+
+### RC1. Verdict
+
+**Symptom of another cause. The shelf mechanism is a transmission belt between two upstream causes, not a cause in its own right.**
+
+1. **Upstream cause A (the decision): the Consumer Direct Offense was a deliberate per-transaction economics play adopted in response to a North American wholesale problem that already existed.** The account cuts were the designed consequence, not an accident.
+2. **Upstream cause B (the demand): the product cycle, especially running, decided who filled the vacated shelf and whether Nike could win it back.** Retailers kept moving away from Nike even when Nike gave them more allocation than planned. They moved back only when Nike's running product earned it.
+
+The REFUTER pass already showed that the shelf predictions fail on timing, geography and peers. This pass adds why: the same data are fitted better by "Nike chose the economics of its own channel, and then lost the product contest". Shelf space sits downstream of both.
+
+### RC2. New evidence: the account cuts were downstream of a decision made for revenue per pair, in a market that was already soft
+
+- **Nike's own stated rationale was the economics of a transaction.** CFO Andy Campion, Q4 FY2017 call (Nike 8-K Ex. 99.1, filed 2017-07-05, OPENED): direct "represent[s] roughly 35% of our business on a wholesale equivalent basis but drove 70% of our growth in fiscal year '17", and "fulfilling demand through NIKE.com generates nearly twice the revenue and significantly higher-margin on each transaction... So we will continue to prioritize and drive a more immediate shift towards more direct service of the consumer." In the same call: "In fiscal year '18, we will more deliberately fuel growth in the direct dimensions of our business while also more deliberately transforming or transitioning away from other less differentiated and less productive points of distribution."
+- **The North American wholesale market was already weak before the cuts.** Same call: "we continue to see a high single-digit disparity between revenue growth and Futures growth in North America. While the North America retail landscape remains promotional..." Nike FY2017 10-K (filed 2017-07-20, OPENED): NA marketplace "impacted by... shifting consumer traffic patterns across digital and physical channels, retail consolidation and a promotional environment", and NA footwear growth came from "Sportswear and Jordan Brand categories, partially offset by declines in other categories". NIKE Brand futures for June to November 2017 were $14.7B, 2% below the prior year (FY2017 10-K, Orders).
+- **Interpretation (inference):** the shelf withdrawal was a choice with two upstream drivers: (a) Nike believed a pair sold on its own site was worth about 2x a wholesale pair, and (b) its wholesale business was already soft and promotional, with growth concentrated in lifestyle classics. Euromonitor's 2016 to 2019 share loss (-6.4 pts, already in these notes) belongs to the same pre-existing weakness. The shelf ceded later is a consequence of that diagnosis, not a separate root cause.
+- **The same economics explain most of today's revenue arithmetic.** The CFO's "nearly twice the revenue" ratio is the primary-source basis for the investigator's "roughly half the revenue per pair" give-back assumption, which until now rested on inference. When Nike reverses the pivot, revenue falls mechanically even if pairs sold do not.
+
+### RC3. New evidence: in North America, the FY2026 revenue pattern is a channel-mix effect of the unwind, not lost shelf
+
+- Nike FY2026 10-K (filed 2026-07-15, OPENED), North America, p. 37: "Wholesale revenues increased 14% including expanded distribution, higher shipments to existing partners and fewer marketplace management actions... NIKE Direct revenues decreased 6% due to declines in digital sales of 10%... Unit sales of footwear increased 6%, while lower ASP per pair reduced footwear revenues by approximately 1 percentage point. Lower ASP per pair was primarily due to channel mix."
+- Same 10-K, p. 30, the strategy: "Repositioning NIKE Brand Digital as a full-price platform and reinvesting in wholesale distribution. This includes liquidating inventory through increased markdowns across NIKE Direct, and higher sales returns and discounts with our wholesale partners."
+- Same 10-K, p. 33: NIKE Brand Digital fell from $9.6B to $8.6B, "primarily due to reduced traffic". Globally, NIKE Brand footwear units fell 1% and lower ASP, "primarily due to channel mix", took another 1 pt.
+- NA channel arithmetic (channel CSV, my arithmetic): FY2025 to FY2026 NA wholesale +$1,474M, NA Direct -$535M, NA total +$939M.
+- **Interpretation:** in the one region where Nike re-bought the shelf, Nike sold 6% more pairs in FY2026. Part of the "reduced traffic" on Digital is self-inflicted: Nike removed promotions from the channel that had relied on them (Hill's roughly 50/50 full-price split is SNIPPET only, see section 9). The mechanism behind the Digital collapse is the reversal of the CDA promotional-digital model. Lost shelf does not explain it. This repeats the investigator's own separation of "broader DTC unwind" from "shelf mechanism", and strengthens it with Nike's own unit data.
+
+### RC4. New evidence: retailers moved away from Nike on sell-through even when Nike gave them more allocation
+
+- **Nike moderated the cuts at Foot Locker, but the shift continued.** SGB Media, 2022-11-18 (OPENED): Foot Locker "now expects to end the year with a higher Nike sales mix than it first anticipated", and the shift will be "more gradual" (CEO Mary Dillon). New Balance sales at Foot Locker rose "almost 70%" in the quarter.
+- **After the March 2023 reset, Foot Locker's Nike share kept falling.** Retail Dive, 2023-03-20 (OPENED): Foot Locker and Nike worked to "revitalize" the partnership "complementary to the Nike direct-to-consumer strategy", while Foot Locker planned a bigger running category with Hoka and On. Yet Foot Locker's Nike share of purchases fell from 65% (2023) to 59% (2024) (Foot Locker 10-K filed 2025-03-27, verified in REFUTER R3). A shelf-supply cause predicts Nike's share stabilises once Nike resumes supply. It kept falling, which fits a demand cause.
+- **The shelf followed product, in both directions.** Apparel Resources, 2025-08-19 (OPENED), citing JPMorgan's Matthew Boss: Foot Locker had placed On, Hoka, adidas and New Balance ahead of Nike in the lead running columns, and only now restored Nike to "pole position", "the first time in two years". The article says Nike "lost ground" in running "while prioritizing lifestyle sneakers". The two years when Nike was behind (about 2023 to 2025) came *after* the Foot Locker reset. Retailers demoted Nike on sell-through and promoted it again when its running product (the Pegasus and Vomero cycle under Hill, per other notes) improved.
+- **Challengers grew in China, where Nike never vacated the shelf.** On 2025 20-F (filed 2026-03, OPENED): APAC net sales CHF 141.1M (2023), 260.2M (2024), 511.1M (2025), and "The 96.4% increase in net sales in APAC was primarily driven by strong sales growth in China and Japan across both channels." On also runs 38 locations in China, including Hong Kong. This sharpens the REFUTER's APAC point: the On growth is explicitly China and Japan, and in both channels. In Greater China, Nike kept Topsports and Pou Sheng and fell 22.5% over two years.
+
+### RC5. Alternative explanation that fits the same data better
+
+**The chain: (1) by FY2017 Nike's wholesale business was soft, promotional and dependent on lifestyle; (2) Nike chose own-channel economics (about 2x revenue per pair) and cut accounts; (3) the vacated doors were filled by the brands whose product consumers wanted (running and comfort: Hoka, On, New Balance); (4) after Nike had narrowed product creation toward classics fed through Digital, retailers rationally gave those brands more space even after Nike offered supply back; (5) unwinding the promotional Digital model now costs revenue mechanically (channel mix) and through lost traffic.** Under this chain:
+- Timing fits: share loss before the cuts (2016 to 2019), flat share while the cuts peaked (2021 to 2023), renewed loss after supply returned (2024 to 2025).
+- Geography fits: the biggest decline is in China, where no shelf was ceded.
+- Reversal fits: shelf bought back, units up in NA, but revenue per pair down and Digital down.
+- Retailer behaviour fits: Foot Locker's Nike share fell further after the reset, and placement followed running sell-through.
+The pure shelf hypothesis predicts none of the last three.
+
+### RC6. Quantification under this lens
+
+- Shelf mechanism as an independent cause of the FY2024 to FY2026 revenue decline: **about 0 to 10%** (below the investigator's 5 to 15%, consistent with REFUTER's low end). Most of what looks like shelf effect is product pull (RC4) or channel-mix arithmetic of the unwind (RC3).
+- The upstream CDA decision (account cuts plus promotional Digital plus classics supply) remains the largest single cause, consistent with timeline_forensics.md (50 to 60%). The shelf is one of its outputs.
+- 2019 to 2025 US share loss: shelf plausibly about 0.5 to 1 pt of 5.2 (10 to 20%), mostly as the entry ramp for Hoka and On in 2020 to 2022. Inference, wide error bars.
+
+### RC7. Gaps
+
+- No account-level sell-through data to separate Foot Locker's "push" (Nike allocation) from "pull" (consumer choice) quarter by quarter.
+- The web-search budget ran out before I could check Topsports brand mix or Dick's brand-level data for challenger gains at a favoured Nike partner.
+- The 2x revenue-per-transaction ratio is Nike's FY2017 figure. The current ratio after promotions is not disclosed.
+
+### RC8. Sources (this pass)
+
+| Source | Date | Status | Used for |
+|---|---|---|---|
+| Nike Q4 FY2017 earnings call transcript, 8-K Ex. 99.1, https://www.sec.gov/Archives/edgar/data/320187/000032018717000059/q4fy17erccexhibit991.htm | 2017-07-05 (call 2017-06-29) | OPENED | "nearly twice the revenue"; "less differentiated and less productive points of distribution"; NA futures disparity and promotional landscape |
+| Nike FY2017 10-K, https://www.sec.gov/Archives/edgar/data/320187/000032018717000090/nke-5312017x10k.htm | 2017-07-20 | OPENED | NA retail consolidation and promotional environment; growth only in Sportswear and Jordan; futures $14.7B, -2% |
+| Nike FY2026 10-K, https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm | 2026-07-15 | OPENED | NA footwear units +6%, ASP down on channel mix (p. 37); Digital repositioned as full-price (p. 30); Digital $8.6B, "reduced traffic" (p. 33); global footwear units -1% |
+| On Holding 2025 20-F, https://www.sec.gov/Archives/edgar/data/1858985/000185898526000008/onholdingag-20251231.htm | 2026-03 | OPENED | APAC CHF 141.1M / 260.2M / 511.1M; growth "driven by strong sales growth in China and Japan across both channels"; 38 China locations |
+| On Q4 and FY2025 results release, https://press.on-running.com/on-announces-fourth-quarter-and-full-year-results-and-the-filing-of-its-annual-report-on-form-20-f-for-2025 | 2026-03-03 | OPENED | Regional and channel growth rates for 2025 |
+| SGB Media, "Foot Locker finds surprise boost from Nike in third quarter", https://sgbonline.com/foot-locker-finds-surprise-boost-from-nike-in-third-quarter/ | 2022-11-18 | OPENED | Higher Nike mix than planned; shift "more gradual"; New Balance up about 70% |
+| Retail Dive, "Foot Locker to close 400 stores, revitalize Nike partnership", https://www.retaildive.com/news/foot-locker-close-400-stores-revitalize-nike-partnership/645420/ | 2023-03-20 | OPENED | Reset "complementary to the Nike direct-to-consumer strategy"; running expansion with Hoka and On |
+| Apparel Resources, "Foot Locker restores Nike Prime store placement", https://apparelresources.com/business-news/retail/foot-locker-restores-nike-prime-store-placement-partnership-rebuilds/ | 2025-08-19 | OPENED | Nike behind On, Hoka, adidas, New Balance in running for two years; "lost ground" in running while prioritising lifestyle |
+| CNBC, Foot Locker renewed Nike relationship (2023-03-20) | 2023-03-20 | Not opened (403) | Not used for any claim |
+| Press reports that Nike is about 45% of JD Sports' sales (MarketScreener, Reuters syndication) | 2025 | SNIPPET | Context only; not used for any conclusion |
+| Nike channel data, `data/nike_channel_split.csv` | FY2019 to FY2026 | OPENED (repo, verified) | NA FY2025 to FY2026 channel changes |
+
+## Challenge: REFUTER (addendum, second pass)
+
+Date: 2026-10-13. A full REFUTER pass already sits above (sections R1 to R5) and a ROOT-CAUSE pass after it. Their checks hold, so this pass is short. It adds only two points that are not already covered and does not repeat the web research. Sources: `data/nike_channel_split.csv` (OPENED, repo, verified) and the Deckers and On filings already cited in R5 (OPENED by the earlier pass, reused). All arithmetic is mine.
+
+**Verdict: the hypothesis does not survive as a cause of the FY2024 to FY2026 decline. Minor.** I agree with R1.
+
+1. **A peak-to-trough logic problem in the investigator's quantification.** The account cuts and the challenger door wins happened in 2020 to 2023 (R2 points 1 and 4). Any revenue lost to them was already missing from Nike's FY2024 peak of $51,362M. A loss that is already in the base year cannot also explain a fall *from* that base. To explain the FY2024 to FY2026 decline, the shelf mechanism needs new shelf loss after FY2024. The data show the opposite: NIKE Brand wholesale was $27,758M (FY2024), $25,883M (FY2025) and $27,453M (FY2026). The FY2025 dip of $1,875M was almost fully recovered in FY2026 as Nike *added* distribution. So the investigator's upper-bound check ($0.6B to $1.0B a year of Hoka and On sales taken from Nike-vacated doors) measures a level of diverted revenue, not a contributor to the change, and should not be set against the $4,964M decline.
+2. **The "$2B" Hoka plus On wholesale figure has no stated window and mixes currencies.** From the filings in R5: Hoka wholesale grew $277.1M (Deckers FY2020) to $1,651.8M (FY2026), +$1,375M; On wholesale grew CHF 200.7M (2019) to CHF 1,753.4M (2025), +CHF 1,553M. Over 2019 to 2025 the combined gain is well above $2B. Over the decline window it is smaller: Hoka $1,126.1M (FY2024) to $1,651.8M (FY2026), +$526M, and On CHF 1,375.5M (2024) to CHF 1,753.4M (2025), +CHF 378M. I do not convert CHF to USD here to avoid an unsourced rate. Either way, the window that matters for the decline holds roughly $0.5B (Hoka) plus CHF 0.4B (On) of challenger wholesale gains, made while Nike was *re-expanding* wholesale, so the share attributable to Nike-vacated doors in that window is likely near zero.
+
+**Number checks (repo CSV, OPENED):** NIKE Brand wholesale -$305M, NIKE Brand Direct -$3,799M (21,519 to 17,720) and NIKE, Inc. revenue -$4,964M (51,362 to 46,398), FY2024 to FY2026, are all correct.
+
+**Revised share:** shelf-space mechanism about 0 to 5% of the FY2024 to FY2026 revenue decline (not 5 to 15%). Its real role was earlier: it gave challengers entry doors in 2020 to 2023, about 0 to 1 pt of the 2019 to 2025 US share loss, in line with R1.
+
+### RC9. Addendum (second ROOT-CAUSE pass, 2026-10-13): kept short on purpose
+
+The ROOT-CAUSE section above already covers this lens in full, so this pass does not repeat it. It closes one gap listed in RC7 (Dick's brand-level data) with primary filings, because that is the cleanest remaining natural experiment: a large US partner that Nike *favoured* during the cuts.
+
+- **Nike's share of Dick's Sporting Goods merchandise purchases** (Dick's 10-Ks, all downloaded from EDGAR this session, OPENED): FY2016 about 20%; FY2019 about 21%; FY2020 about 19%; FY2021 about 17%; FY2022 about 23%; FY2023 about 24%; FY2024 about 25%. FY2025 is about 31% but includes the acquired Foot Locker business, so it is not comparable.
+- **What a pure shelf cause predicts:** where Nike kept and grew its shelf, Nike should hold share. **What happened:** at Dick's, Nike's purchase share rose 8 pts from FY2021 to FY2024, the same window in which Euromonitor's US share kept falling to 28.9% in 2025 (figure already in these notes). Nike's US shelf was concentrated into favoured partners, not simply lost, and more Nike on a favoured shelf did not stop the share loss.
+- **Caveat:** purchase share is what Dick's bought, not what consumers bought. It reflects Nike's allocation push and may overstate sell-through. I found no Dick's-level data on Nike returns or markdowns, so I make no claim about them.
+- **Effect on verdict:** reinforces RC1. The shelf mechanism is downstream of Nike's channel decision and of the product contest; it does not change the 0 to 10% estimate in RC6.
+
+| Source | Date | Status | Used for |
+|---|---|---|---|
+| Dick's 10-K FY2016, https://www.sec.gov/Archives/edgar/data/1089063/000108906317000010/dks-10k_20170128.htm | 2017-03-24 | OPENED | Nike about 20% of purchases |
+| Dick's 10-K FY2019, https://www.sec.gov/Archives/edgar/data/1089063/000108906320000014/dks-20200201.htm | 2020-03-20 | OPENED | about 21% |
+| Dick's 10-K FY2020, https://www.sec.gov/Archives/edgar/data/1089063/000108906321000036/dks-20210130.htm | 2021-03-24 | OPENED | about 19% |
+| Dick's 10-K FY2021, https://www.sec.gov/Archives/edgar/data/1089063/000108906322000031/dks-20220129.htm | 2022-03-23 | OPENED | about 17% |
+| Dick's 10-K FY2022, https://www.sec.gov/Archives/edgar/data/1089063/000108906323000023/dks-20230128.htm | 2023-03-23 | OPENED | about 23% |
+| Dick's 10-K FY2023, https://www.sec.gov/Archives/edgar/data/1089063/000108906324000037/dks-20240203.htm | 2024-03-28 | OPENED | about 24% |
+| Dick's 10-K FY2024, https://www.sec.gov/Archives/edgar/data/1089063/000108906325000012/dks-20250201.htm | 2025-03-27 | OPENED | about 25% |
+| Dick's 10-K FY2025, https://www.sec.gov/Archives/edgar/data/1089063/000108906326000007/dks-20260131.htm | 2026-03-27 | OPENED | about 31%, includes Foot Locker |

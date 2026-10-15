@@ -1,0 +1,89 @@
+run_date,listed,prelisted_future_opening,operating_est,window_note
+2023-01-07,250,0,250,"earlier ATP source (record set changed 2023-10, about 130); not comparable with 2025+"
+2023-04-01,252,0,252,"earlier ATP source (record set changed 2023-10, about 130); not comparable with 2025+"
+2023-07-01,253,0,253,"earlier ATP source (record set changed 2023-10, about 130); not comparable with 2025+"
+2023-10-07,135,0,135,"earlier ATP source (record set changed 2023-10, about 130); not comparable with 2025+"
+2024-01-06,132,0,132,"earlier ATP source (record set changed 2023-10, about 130); not comparable with 2025+"
+2024-04-06,128,0,128,"earlier ATP source (record set changed 2023-10, about 130); not comparable with 2025+"
+2024-07-06,129,0,129,"earlier ATP source (record set changed 2023-10, about 130); not comparable with 2025+"
+2024-10-05,129,0,129,"earlier ATP source (record set changed 2023-10, about 130); not comparable with 2025+"
+2025-02-22,236,0,236,consistent static-JSON source
+2025-03-15,236,0,236,consistent static-JSON source
+2025-04-17,237,0,237,consistent static-JSON source
+2025-04-19,237,0,237,consistent static-JSON source
+2025-04-26,237,0,237,consistent static-JSON source
+2025-05-03,237,0,237,consistent static-JSON source
+2025-05-10,237,0,237,consistent static-JSON source
+2025-05-17,237,0,237,consistent static-JSON source
+2025-05-24,237,0,237,consistent static-JSON source
+2025-05-31,237,0,237,consistent static-JSON source
+2025-06-07,237,0,237,consistent static-JSON source
+2025-06-14,237,0,237,consistent static-JSON source
+2025-06-21,237,0,237,consistent static-JSON source
+2025-06-28,237,0,237,consistent static-JSON source
+2025-07-05,237,0,237,consistent static-JSON source
+2025-07-09,237,0,237,consistent static-JSON source
+2025-07-12,237,0,237,consistent static-JSON source
+2025-07-15,237,0,237,consistent static-JSON source
+2025-07-19,237,0,237,consistent static-JSON source
+2025-07-22,237,0,237,consistent static-JSON source
+2025-07-26,237,0,237,consistent static-JSON source
+2025-08-02,238,0,238,consistent static-JSON source
+2025-08-09,238,0,238,consistent static-JSON source
+2025-08-16,238,0,238,consistent static-JSON source
+2025-08-23,238,0,238,consistent static-JSON source
+2025-08-30,238,0,238,consistent static-JSON source
+2025-09-06,238,0,238,consistent static-JSON source
+2025-09-13,230,0,230,consistent static-JSON source
+2025-09-20,230,0,230,consistent static-JSON source
+2025-09-27,230,0,230,consistent static-JSON source
+2025-10-04,230,0,230,consistent static-JSON source
+2025-10-11,230,0,230,consistent static-JSON source
+2025-10-18,230,0,230,consistent static-JSON source
+2025-10-25,230,0,230,consistent static-JSON source
+2025-11-01,230,0,230,consistent static-JSON source
+2025-11-08,230,0,230,consistent static-JSON source
+2025-11-15,230,0,230,consistent static-JSON source
+2025-11-22,230,0,230,consistent static-JSON source
+2025-11-29,230,0,230,consistent static-JSON source
+2025-12-06,230,0,230,consistent static-JSON source
+2025-12-13,230,0,230,consistent static-JSON source
+2025-12-20,230,0,230,consistent static-JSON source
+2025-12-27,230,0,230,consistent static-JSON source
+2026-01-03,230,0,230,consistent static-JSON source
+2026-01-10,229,0,229,consistent static-JSON source
+2026-01-17,224,0,224,consistent static-JSON source
+2026-01-24,224,0,224,consistent static-JSON source
+2026-01-31,224,0,224,consistent static-JSON source
+2026-02-07,225,0,225,consistent static-JSON source
+2026-02-14,225,0,225,consistent static-JSON source
+2026-02-21,224,0,224,consistent static-JSON source
+2026-02-28,224,0,224,consistent static-JSON source
+2026-03-07,224,0,224,consistent static-JSON source
+2026-03-14,224,0,224,consistent static-JSON source
+2026-03-21,225,0,225,consistent static-JSON source
+2026-03-28,225,0,225,consistent static-JSON source
+2026-04-04,225,0,225,consistent static-JSON source
+2026-04-11,225,0,225,consistent static-JSON source
+2026-04-18,225,0,225,consistent static-JSON source
+2026-05-16,225,0,225,consistent static-JSON source
+2026-05-23,225,0,225,consistent static-JSON source
+2026-05-30,225,0,225,consistent static-JSON source
+2026-06-06,225,0,225,consistent static-JSON source
+2026-06-13,225,0,225,consistent static-JSON source
+2026-06-20,225,0,225,consistent static-JSON source
+2026-06-27,225,0,225,consistent static-JSON source
+2026-07-04,225,0,225,consistent static-JSON source
+2026-07-11,225,0,225,consistent static-JSON source
+2026-07-18,225,0,225,consistent static-JSON source
+2026-07-25,225,0,225,consistent static-JSON source
+2026-08-01,225,0,225,consistent static-JSON source
+2026-08-08,225,0,225,consistent static-JSON source
+2026-08-15,225,0,225,consistent static-JSON source
+2026-08-22,226,1,225,consistent static-JSON source
+2026-08-29,228,2,226,consistent static-JSON source
+2026-09-05,228,2,226,consistent static-JSON source
+2026-09-12,229,3,226,consistent static-JSON source
+2026-09-19,233,7,226,consistent static-JSON source
+2026-09-26,236,10,226,consistent static-JSON source
+2026-10-03,236,10,226,consistent static-JSON source

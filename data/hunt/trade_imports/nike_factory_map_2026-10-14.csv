@@ -1,0 +1,713 @@
+snapshot,contractor_id,name,supplier_name,factory_tier,product_type,brand,country/region,region,city,workers,workers_line,workers_female,workers_migrant,average_worker_age,special_events
+2026-10-14,BR000395,PETTENATI,PETTENATI,Tier 1/ATL,Apparel,Nike,Brazil,AMERICAS,Caxias Do Sul,667,561,98,6,32,
+2026-10-14,CN000995,ISA INDUSTRIAL CO LTD (HESHAN) (CHINA),ISA,Tier 2/BTL,Footwear,Nike,China,N ASIA,Heshan,550,460,7,0,28,
+2026-10-14,CN001112,PRIME ASIA (CHINA),PRIME ASIA,Tier 2/BTL,Footwear,Nike,China,N ASIA,"Dongguan,Guangdong",878,588,0,0,42,
+2026-10-14,CN001267,SHANGHAI YKK ZIPPER CO LTD (MINGHANG BRANCH),YKK,Tier 2/BTL,Footwear,Nike,China,N ASIA,Shanghai,928,716,66,0,38,
+2026-10-14,CN001347,"Dalian YKK Zipper Co.,Ltd.",YKK,Tier 2/BTL,Apparel,Nike,China,N ASIA,Dalian,851,659,63,3,38,
+2026-10-14,ID003271,BAIKSAN (INDONESIA),BAIKSAN ,Tier 2/BTL,Footwear,Nike,Indonesia,S ASIA,Karawang,466,386,4,0,32,
+2026-10-14,US000169,"Fjord, Ltd.",TEGRA,Tier 1/ATL,Apparel,Nike,USA,AMERICAS,Woodburn,148,116,43,10,53,
+2026-10-14,VN001041,"KURIM VIETNAM CO., LTD",KURIM,Tier 2/BTL,Footwear,Nike,Vietnam,SE ASIA,Binh Duong,386,286,60,0,33,
+2026-10-14,CN002111,"Tiong Liong-Fuqing Hong Liong Textile Tech Co.,Ltd. (Dyeing)",TIONG LIONG GROUP,Tier 2/ATL,Footwear,Nike,China,N ASIA,"FUQING City, FUJIAN",299,205,45,0,43,
+2026-10-14,KH000257,"KKN Apparel Co.,ltd",NICE APPAREL,Tier 1/ATL,Apparel,Nike,Cambodia,SE ASIA,Koh Kong,5522,5335,66,0,30,Collegiate
+2026-10-14,KH000699,Top Summit Garment Inc,SABRINA,Tier 1/ATL,Apparel,Nike,Cambodia,SE ASIA,Kandal,6030,4229,95,0,30,Collegiate
+2026-10-14,BR000701,COOPERSHOES-COOPERATIVA DE TRABALHO E INDUSTRIA DE CALCADOS JOANETENSE LTDA (Morada Nova).,COOPERSHOES,Tier 1/ATL,Footwear,Converse,Brazil,AMERICAS,Morada Nova,2421,1796,61,0,31,
+2026-10-14,VN001337,"HESHENG CO., LTD.",HESHENG,Tier 1/ATL,Equipment,Nike,Vietnam,SE ASIA,Bac Ninh,62,60,62,2,36,Collegiate
+2026-10-14,VN000221,"Hi-Tech Viet Nam Apparel Co.,Ltd.",HI TECH,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Duy Xuyen District,1692,1677,82,0,31,
+2026-10-14,KH003245,"SHCA GARMENT (CAMBODIA) CO., LTD",SHCA GARMENT,Tier 1/ATL,Apparel,Nike,Cambodia,SE ASIA,Samraong Tong ,798,780,61,1,31,
+2026-10-14,CN000300,"Longchuan Somona Footwear Co.,Ltd Wuhua Branch",STELLA,Tier 2/ATL,Footwear,Nike,China,N ASIA,Meizhou,882,828,0,0,41,Collegiate
+2026-10-14,TW000912,FORMOSA TING SHO ENT CO LTD (TAIWAN),FORMOSA TING SHO,Tier 2/BTL,Footwear,Nike,Taiwan,N ASIA,Changhua,49,16,50,69,35,
+2026-10-14,VN003240,B'LAO SPORT COMPANY LIMITED,BLAO SPORT,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Hue,564,462,80,0,32,
+2026-10-14,TH001504,SADESA THAILAND Sena,SADESA,Tier 2/BTL,Footwear,Nike,Thailand,SE ASIA,Ayutthaya,574,401,0,0,37,
+2026-10-14,MD000597,YSA  MOL,YESIM,Tier 1/ATL,Apparel,Nike,Moldova,EMEA,TARAKLIA,392,313,96,0,44,
+2026-10-14,CN000579,"Long Fa Shoes Industrial Huizhou Co., Ltd.",DEAN SHOES,Tier 1/ATL,Footwear,Nike,China,N ASIA,Huizhou,3477,2405,80,0,46,
+2026-10-14,US000047,C.C. Creations,CC CREATIONS,Tier 1/ATL,Apparel,Nike,USA,AMERICAS,Bryan,282,243,67,0,35,Collegiate
+2026-10-14,VN002630,TNG INVESTMENT AND TRADING JSC - DONG HY GARMENT,TNG,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Thai Nguyen Province,1390,1258,81,0,30,
+2026-10-14,CN003467,"Meizhou Wanfeng Luggage Co., Ltd.",HIP KEUNG,Tier 1/ATL,Equipment,Nike,China,N ASIA,Meizhou ,170,150,67,0,35,
+2026-10-14,ID002713,PT.BERKAH KARYA JAYA SENTOSA,PT.BERKAH KARYA,Tier 1/ATL,Apparel,Nike,Indonesia,S ASIA,Semarang,150,117,38,0,30,Collegiate
+2026-10-14,KR000610,DONGJIN TEXTILE DYEING HOUSE,DONGJIN,Tier 2/ATL,Footwear,Nike,South Korea,N ASIA,"SA-HA GU, BUSAN",42,39,10,23,46,
+2026-10-14,TH000339,"Nan Yang Garment Co., Ltd.",NAN YANG,Tier 1/ATL,Apparel,Nike,Thailand,SE ASIA,Wachirabaramee,2108,1796,81,17,33,
+2026-10-14,VN003235,ELITE APPARATECH LLC,ELITE APPARATECH,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Long Khanh City,1035,923,68,0,24,Collegiate
+2026-10-14,ID000110,PT. Formosa Bag Indonesia,FORMOSA,Tier 1/ATL,Equipment,Nike,Indonesia,S ASIA,Grobogan,5865,5191,87,1,28,
+2026-10-14,VN000682,"SNP CO.,LTD.",SPORTS CITY,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Taipei City,2780,2456,90,0,28,
+2026-10-14,US000258,"K-L MFG. CO., INC.",K&L MANUFACTURING,Tier 1/ATL,Apparel,Nike,USA,AMERICAS,Spokane,93,88,73,0,51,Collegiate
+2026-10-14,CN000494,"Dongguan Stella Footwear Product Creation Co., LTD.",STELLA,Tier 1/ATL,Footwear,Nike,China,N ASIA,Dongguan,479,289,54,0,38,Collegiate
+2026-10-14,VN000625,MAXPORT LIMITED VIET NAM _ NAM DINH BRANCH MAXPORT 06,MAXPORT,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Ninh Binh,457,404,89,0,39,Collegiate
+2026-10-14,CN000193,"Haiyan Golden Gate Socks Industry Co., Ltd",HAIYAN,Tier 1/ATL,Equipment,Nike,China,N ASIA,Haiyan,70,52,88,0,48,
+2026-10-14,US000043,Blue Star Graphics,BLUE STAR,Tier 1/ATL,Apparel,Nike,USA,AMERICAS,Frisco,45,41,66,0,44,Collegiate
+2026-10-14,VN003275,Germton Development Company Limited,GERMTON DEVELOPMENT,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Chien Dan Commune,361,325,95,0,35,
+2026-10-14,IN003232,"SHAHI EXPORTS PVT LTD, UNIT 37",SHAHI,Tier 1/ATL,Apparel,Nike,India,S ASIA,MYSORE,1863,1827,91,0,36,Collegiate
+2026-10-14,ID000422,PT. POU YUEN INDONESIA,POU CHEN,Tier 1/ATL,Footwear,Nike,Indonesia,S ASIA,CIANJUR,12122,9959,57,0,27,
+2026-10-14,ID002799,PT. Glorystar Wisesa,GLORYSTAR WISESA,Tier 1/ATL,Apparel,Nike,Indonesia,S ASIA,Majalengka,580,536,94,0,31,
+2026-10-14,IN002914,Bharath (INDIA),BHARATH,Tier 2/ATL,Footwear,Nike,India,S ASIA,Ranipet,31,24,0,0,28,Collegiate
+2026-10-14,KH003563,"DI SETA (CAMBODIA) INDUSTRIAL CO., LTD.",DI SETA (CAMBODIA),Tier 1/ATL,Equipment,Nike,Cambodia,SE ASIA,Doun Keo,304,250,69,0,23,
+2026-10-14,CN000495,Long Chuan Simona Footwear Co. Ltd,STELLA,Tier 1/ATL,Footwear,Nike,China,N ASIA,HeYuan,3869,3287,90,0,45,Collegiate
+2026-10-14,TH000216,Cassia Garment Company Limited,RAMATEX,Tier 1/ATL,Apparel,Nike,Thailand,SE ASIA,Rathjaburana,747,623,65,91,35,
+2026-10-14,ES000232,Iruna Comunicacion Textil - SERISUR,IRUNA,Tier 1/ATL,Apparel,Nike,Spain,EMEA,Chauchina-Granada,16,13,62,0,43,
+2026-10-14,TH000710,Minone Enterprises Co Ltd,MINONE,Tier 1/ATL,Equipment,Nike,Thailand,SE ASIA,NANGRONG,497,439,84,0,38,
+2026-10-14,LK002303,MAS FABRICS (PRIVATE) LIMITED – INTIMO DIVISION,MAS HOLDINGS,Tier 2/BTL,Apparel,Nike,Sri Lanka,S ASIA,Thulhiriya,1233,1137,15,0,29,
+2026-10-14,VN000658,TUNTEX SOC TRANG VIETNAM CO.LTD,TUNTEX,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Can Tho,1897,1446,85,1,30,Collegiate
+2026-10-14,JP001195,TEIJIN CORDLEY LTD (TAIWAN OKAHATA CO LTD) (JAPAN),TEIJIN CORDLEY,Tier 2/BTL,Footwear,Nike,Japan,N ASIA,Shimane,183,160,31,0,35,
+2026-10-14,ID000522,PT. TKG TAEKWANG INDONESIA,TAEKWANG,Tier 1/ATL,Footwear,Nike,Indonesia,S ASIA,"Belendung, Cibogo",26189,24010,98,0,29,Collegiate
+2026-10-14,TH000143,"Universal Sporting Goods (Thai) Co., Ltd.",UNIVERSAL,Tier 1/ATL,Apparel,Nike,Thailand,SE ASIA,samphan,337,248,79,40,42,Collegiate
+2026-10-14,VN002334,"VIETNAM CHINGLUH SHOES CO.,LTD - VINH LONG BRANCH II",CHING LUH,Tier 1/ATL,Footwear,Nike,Vietnam,SE ASIA,LONG HO DISTRICT,693,494,39,0,29,
+2026-10-14,TH002809,"M.I.I.T. CO., LTD",M.I.I.T. CO,Tier 1/ATL,Apparel,Nike,Thailand,SE ASIA,Mueang Samutsakhon,393,315,70,96,33,
+2026-10-14,PK000480,M S STYLE TEXTILE (PVT.) LIMITED (SUNDER) - unit VI,STYLE TEXTILE,Tier 1/ATL,Apparel,Nike,Pakistan,S ASIA,Lahore,3662,2731,28,0,31,Collegiate
+2026-10-14,CN001381,SHANGHAI YKK ZIPPER CO LTD ( Lingang New Area),YKK,Tier 2/BTL,Apparel,Nike,China,N ASIA,Shanghai,539,430,63,0,37,
+2026-10-14,US000010,ARTFX INC.,TEGRA,Tier 1/ATL,Apparel,Nike,USA,AMERICAS,Norfolk,148,116,43,10,53,
+2026-10-14,VN000451,VIET THINH GARMENT JOINT STOCK COMPANY,SOUTH ISLAND,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,HO CHI MINH,1613,1337,81,0,38,Collegiate
+2026-10-14,KH003287,"MING YANG INDUSTRY (CAMBODIA) CO., LTD",MINGYANG,Tier 1/ATL,Equipment,Nike,Cambodia,SE ASIA,Phnom Penh,670,623,67,2,28,
+2026-10-14,ID000234,PT. Feng Tay Indonesia Enterprises,FENG TAY,Tier 1/ATL,Footwear,Nike,Indonesia,S ASIA,Bandung,14311,12238,64,0,34,
+2026-10-14,CN002812,"Nantong Golden Yuelai Gym Equipment Co., Ltd",NANTONG GOLDEN,Tier 1/ATL,Equipment,Nike,China,N ASIA,Haimen,224,159,48,0,43,
+2026-10-14,VN002659,"Haivina Co., Ltd.",HAIVINA,Tier 1/ATL,Equipment,Nike,Vietnam,SE ASIA,Hai Phong city,2216,2008,98,0,40,
+2026-10-14,GT002611,Hoosier Manufacturing - HM4,INDIANA KNITWEAR,Tier 1/ATL,Apparel,Nike,Guatemala,AMERICAS,Bodegas GC,854,815,59,1,35,Collegiate
+2026-10-14,VN002614,"FASHION GARMENTS 2 CO., LTD. - TAN PHU BRANCH",FASHION GARMENTS,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Tan Phu district,3137,2751,91,0,18,
+2026-10-14,NI000473,ANNIC II S.A.,GILDAN,Tier 1/ATL,Apparel,Nike,Nicaragua,AMERICAS,Masatepe,7769,7688,52,0,27,Collegiate
+2026-10-14,VN000166,"FASHION GARMENTS 2 CO., LTD",HIRDARAMANI,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Dong Nai,2174,1883,85,0,35,
+2026-10-14,ID000492,PT. Grand Best Indonesia,TUNTEX,Tier 1/ATL,Apparel,Nike,Indonesia,S ASIA,SEMARANG,1591,1458,97,0,36,Collegiate
+2026-10-14,CN002791,"ENPING E-MART ENTERPRISE CO., LTD.,",COSMOPOLITAN TEXTILE,Tier 2/BTL,Footwear,Nike,China,N ASIA,Enping City,116,92,23,0,40,
+2026-10-14,CN000811,Chang Tai Song Lin Woven Belt Co. LTD,CHI YANG RIBBON,Tier 2/BTL,Apparel,Nike,China,N ASIA,Zhang Zhou,106,92,88,0,45,
+2026-10-14,EG002335,MILTEKS TEXTILE EGYPT,MILTEKS,Tier 1/ATL,Apparel,Nike,Egypt,EMEA,Cairo,695,608,60,0,28,
+2026-10-14,CN002474,"Qingdao Qien Sporting Goods Co.,Ltd",QINGDAO QIEN,Tier 1/ATL,Equipment,Nike,China,N ASIA,Qingdao,32,21,24,0,41,
+2026-10-14,GB002627,Tower Garments (London) Ltd,TOWER GARMENTS,Tier 1/ATL,Apparel,Nike,United Kingdom,EMEA,ENFIELD,90,90,60,0,35,
+2026-10-14,ID001299,GOLD LONG JOHN (INDONESIA),GOLD LONG JOHN,Tier 2/ATL,Footwear,Nike,Indonesia,S ASIA,Kecamatan Batujajar,400,184,82,4,31,
+2026-10-14,ID000052,PT. CCH INDONESIA,CHUAN CHENG,Tier 1/ATL,Apparel,Nike,Indonesia,S ASIA,Bandung Barat,1607,1464,59,0,31,
+2026-10-14,ID002322,PT. Gelindo Garmentama,EAGLE NICE,Tier 1/ATL,Apparel,Nike,Indonesia,S ASIA,Bandung,2252,2021,75,1,31,
+2026-10-14,BR000419,RS/Tupa Ind. De Plastico Ltda,RS TUPA INDUSTRIA DE PLASTICOS,Tier 2/ATL,Footwear,Nike,Brazil,AMERICAS,Novo Hamburgo,146,110,50,0,45,
+2026-10-14,CN000683,"Chuzhou Korrun Future Luggage Products Co., Ltd",FORMOSA,Tier 1/ATL,Equipment,Nike,China,N ASIA,Chuzhou,627,525,80,0,41,
+2026-10-14,VN000651,"Pro Kingtex Vietnam Co., Ltd",EAGLE NICE,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,HO CHI MINH CITY,2049,1865,89,0,38,Collegiate
+2026-10-14,TH000340,Nan Yang Garment,NAN YANG,Tier 1/ATL,Apparel,Nike,Thailand,SE ASIA,Ladyao Nakhonsawan,1034,857,77,0,35,Collegiate
+2026-10-14,ID002304,PT Batang Apparel Indonesia,ONTIDE,Tier 1/ATL,Apparel,Nike,Indonesia,S ASIA,Batang,2407,2351,91,0,27,Collegiate
+2026-10-14,CN000784,BAIKSAN (CHINA),BAIKSAN,Tier 2/BTL,Footwear,Nike,China,N ASIA,Dongguan,184,143,69,0,45,
+2026-10-14,AR000412,R. A. INTERTRADING S. A.,RA INTERTRADING,Tier 1/ATL,Apparel,Nike,Argentina,AMERICAS,CAPITAL FEDERAL,719,614,57,43,41,
+2026-10-14,IN001335,Fairway Enterprises Company Limited (India Branch) -  Unit 2,FENG TAY,Tier 1/ATL,Footwear,Nike,India,S ASIA,Krishnagiri,3924,3315,68,0,31,
+2026-10-14,VN000567,TKG TAEKWANG VINA JOINT STOCK COMPANY BRANCH 2,TAEKWANG,Tier 1/ATL,Footwear,Nike,Vietnam,SE ASIA,Bien Hoa,10593,9714,91,0,38,
+2026-10-14,CN000117,PMI Joinease plastic & metal products,PMI JOINEASE,Tier 1/ATL,Equipment,Nike,China,N ASIA,Hui Zhou,969,804,56,0,38,Collegiate
+2026-10-14,VN001005,TKG ECO MATERIAL SYNTHETIC (VIETNAM),TKG ECO MATERIAL,Tier 2/BTL,Footwear,Nike,Vietnam,SE ASIA,Tay Ninh,502,383,29,0,30,
+2026-10-14,VN002920,"LI CHENG ENTERPRISE VIET NAM CO., LTD",LI CHENG ENTERPRISE,Tier 2/ATL,Footwear,Nike,Vietnam,SE ASIA,Bien Hoa,87,68,49,15,32,
+2026-10-14,CN000348,Ningbo Shenzhou Knitting Co. Ltd,SHENZHOU,Tier 1/ATL,Apparel,Nike,China,N ASIA,Ningbo,2423,2272,70,0,35,Collegiate
+2026-10-14,HN000194,Southern Apparel Contractors S.A. The Arena,TEGRA,Tier 1/ATL,Apparel,Nike,Honduras,AMERICAS,San Pedro Sula,5208,3906,63,1,36,Collegiate
+2026-10-14,CN000123,"JIAXING KANAAN BAG R&D CO.,LTD",KANAAN,Tier 1/ATL,Equipment,Nike,China,N ASIA,Jiaxiang,119,27,78,0,45,
+2026-10-14,KR000926,GB LIGHT CO LTD,GB LIGHT,Tier 2/BTL,Footwear,Nike,South Korea,N ASIA,Gangseo Gu,109,38,0,0,41,
+2026-10-14,KH002507,"AROMA SUCCESS GARMENT CO., LTD",SABRINA,Tier 1/ATL,Apparel,Nike,Cambodia,SE ASIA,Phnom Penh,1340,1189,90,0,30,Collegiate
+2026-10-14,TH000330,"NB Apparel Co., Ltd",NICE APPAREL,Tier 1/ATL,Apparel,Nike,Thailand,SE ASIA,Nongbualampu,1343,1293,74,0,35,Collegiate
+2026-10-14,US000272,RJ Liebe Athletic Lettering Co.,RJ LIEBE ATHLETIC LETTERING,Tier 1/ATL,Apparel,Nike,USA,AMERICAS,Chesterfield,14,6,50,0,53,
+2026-10-14,VN003293,"ESANG VINA CO., LTD",ESANG,Tier 1/ATL,Equipment,Nike,Vietnam,SE ASIA,Duc Hoa,624,539,78,1,35,
+2026-10-14,US003010,Redwall,REDWALL,Tier 1/ATL,Apparel,Nike,USA,AMERICAS,Oak Creek,148,113,55,0,38,Collegiate
+2026-10-14,IN002421,Ortholite India Pvt Ltd.,ORTHOLITE,Tier 2/ATL,Footwear,Nike,India,S ASIA,AMBUR,231,155,61,0,30,
+2026-10-14,MX003484,Athletic Sewing S de RL de CV,MOMENTEC,Tier 1/ATL,Apparel,Nike,Mexico,AMERICAS,REYNOSA,1183,858,69,0,26,
+2026-10-14,CN000629,"JiangSu HongBao Sporting Goods Co., Ltd.",YEGIN,Tier 1/ATL,Equipment,Nike,China,N ASIA,HuaiAn,362,331,89,0,40,Collegiate
+2026-10-14,VN001136,SAMBU FINE CHEMICAL CO LTD (VIETNAM),SAMBU FINE CHEMICAL,Tier 2/ATL,Footwear,Nike,Vietnam,SE ASIA,"Binh Phuc, Chon Thanh Ward",177,97,34,9,31,
+2026-10-14,CN000024,"Jiangsu Asian Sourcing Headwear MFG. CO., Ltd",ASIAN SOURCING HEADWEAR,Tier 1/ATL,Apparel,Nike,China,N ASIA,Huai An,953,864,89,0,43,Collegiate
+2026-10-14,VN000704,Regent Garment Factory Limited - Business location- Regent 2,CRYSTAL,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Hai Phong,1013,885,81,0,36,
+2026-10-14,LK000291,MAS KREEDA  Vaanavil ,MAS HOLDINGS,Tier 1/ATL,Apparel,Nike,Sri Lanka,S ASIA,Kilinochchi,1544,1300,76,0,26,Collegiate
+2026-10-14,IN002333,AHP APPARELS PVT.LTD. UNIT 61,SHAHI,Tier 1/ATL,Apparel,Nike,India,S ASIA,"SHIKARIPURA, SHIVAMOGGA",3041,2846,83,0,31,Collegiate
+2026-10-14,ID001304,PT Lucky Textile Semarang Demak,TUNTEX,Tier 1/ATL,Apparel,Nike,Indonesia,S ASIA,Demak,1675,1373,100,0,34,Collegiate
+2026-10-14,CN000672,HUBEI TOP EAGLE GARMENT LTD.,NICE APPAREL,Tier 1/ATL,Apparel,Nike,China,N ASIA,Songzi Hubei,258,213,94,0,43,Collegiate
+2026-10-14,PK000479,Style Textile (Pvt) Limited (QIE),STYLE TEXTILE,Tier 1/ATL,Apparel,Nike,Pakistan,S ASIA,Lahore,3736,2136,34,0,31,
+2026-10-14,ID001163,SHINTA WOOSUNG PT (INDONESIA),SHINTA WOOSUNG,Tier 2/BTL,Footwear,Nike,Indonesia,S ASIA,Serang,246,198,52,13,34,
+2026-10-14,FR002658,LELABPLUS,LELAB,Tier 1/ATL,Apparel,Nike,France,EMEA,Ivry sur Seine,14,10,60,100,44,
+2026-10-14,CN002384,Dongguan Crystal Knitting & Garment Co Ltd,CRYSTAL,Tier 1/ATL,Apparel,Nike,China,N ASIA,Dongguan ,2814,2580,57,0,43,
+2026-10-14,VN003483,VIET DAT VIETNAM SMART MANUFACTURING COMPANY LIMITED,JOV GARMENT ACCESSORIAL MATERIAL,Tier 2/BTL,Apparel,Nike,Vietnam,SE ASIA,VN - Ho Chi Minh,47,41,51,2,25,
+2026-10-14,CA000464,SP Apparel Inc.,SP APPAREL,Tier 1/ATL,Apparel,Nike,Canada,AMERICAS,St-Hyacinthe,255,200,70,5,50,
+2026-10-14,KR000601,You Young,YOU YOUNG,Tier 2/ATL,Footwear,Nike,South Korea,N ASIA,Busan,125,29,0,0,42,
+2026-10-14,VN001014,"JOOWON VINA CO., LTD.",JOOWON TECH,Tier 2/BTL,Footwear,Nike,Vietnam,SE ASIA,NHON TRACH DISTRICT,350,292,48,0,29,
+2026-10-14,VN000008,ADORA FOOTWEAR LIMITED,HUALI,Tier 1/ATL,Footwear,Converse,Vietnam,SE ASIA,Ninh Binh Province,5873,5367,90,0,41,
+2026-10-14,CN001338,League Optical(Zhongshan) Workshop Limited,ARTS OPTICAL,Tier 1/ATL,Equipment,Nike,China,N ASIA,Zhongshan,61,57,49,0,40,
+2026-10-14,CN003475,"Nanjing Guotai Shengyang Garment Co.,Ltd.",NANJING GUOTAI SHENGYANG,Tier 1/ATL,Apparel,Converse,China,N ASIA,Nanjing,29,28,100,0,49,
+2026-10-14,US000366,"Oregon Screen Impressions, Inc.",OREGON SCREEN IMPRESSIONS,Tier 1/ATL,Apparel,Nike,USA,AMERICAS,Portland,91,66,58,0,44,
+2026-10-14,CN000465,"SHENZHEN PENGYIFA INDUSTRIAL CO, LTD",SHENZHEN PENGYIFA,Tier 1/ATL,Apparel,Nike,China,N ASIA,SHENZHEN GUANGMING DISTRICT,45,28,68,0,39,
+2026-10-14,CN000602,"ZheJiang Clis Fashion Co., Ltd.",ZHEJIANG XIANCHEN IMPORT AND EXPORT,Tier 1/ATL,Apparel,Nike,China,N ASIA,Hangzhou,42,27,93,0,38,
+2026-10-14,VN000504,TNG Investment and Trading JSC - Dai Tu Garment Branch,TNG,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Thai Nguyen,1993,1829,79,0,33,
+2026-10-14,CN000199,HUAFENG HAPTIC,HUA FENG TEXTILE,Tier 2/ATL,Footwear,Nike,China,N ASIA,Putian,115,93,63,0,39,
+2026-10-14,ID003314,PT. AGUNG PELITA INDUSTRINDO,PRATAMA,Tier 2/ATL,Footwear,Nike,Indonesia,S ASIA,BREBES,2003,1958,88,0,31,
+2026-10-14,CN000605,"Zao Zhuang RuiXing Shoes Co., Ltd",CHANGSHIN,Tier 1/ATL,Footwear,Nike,China,N ASIA,Zaozhuang City,1225,1137,99,0,44,
+2026-10-14,IN001371,"Brandix Apparel India Pvt Ltd, Unit-2",BRANDIX ASIA HOLDINGS,Tier 1/ATL,Apparel,Nike,India,S ASIA,Visakhapatnam,3980,3700,100,0,28,
+2026-10-14,CN001432,TRIMCO GROUP (ZHEJIANG) CO LTD,TRIMCO GROUP,Tier 2/ATL,Apparel,Nike,China,N ASIA,Yu Yao City,420,264,54,0,37,
+2026-10-14,TH000734,"HI-TECH APPAREL CO.,LTD. (SUPANBURI BRANCH)",HI TECH,Tier 1/ATL,Apparel,Nike,Thailand,SE ASIA,Suphanburi,416,394,80,18,25,Collegiate
+2026-10-14,CN000581,"YongZhou Kaixiang Shoetown Footwear Co., Ltd. NOT A FINISHED GOODS FACILITY",SHOETOWN,Tier 2/ATL,Footwear,Nike,China,N ASIA,Yongzhou,1004,920,92,0,45,
+2026-10-14,LK003397,Sarasavi Exports (Pvt) Ltd,SARASAVI,Tier 1/ATL,Equipment,Nike,Sri Lanka,S ASIA,Makumbura,456,349,80,0,30,
+2026-10-14,US002643,Blue Ridge Designs LLC,BLUE RIDGE DESIGNS,Tier 1/ATL,Apparel,Nike,USA,AMERICAS,HILLSVILLE,43,37,70,43,40,
+2026-10-14,LK000722,"Brandix Apparel Solutions (Pvt) Limited – Essentials, Batticaloa",BRANDIX ASIA HOLDINGS,Tier 1/ATL,Apparel,Nike,Sri Lanka,S ASIA,Batticaloa,3257,2982,94,0,30,
+2026-10-14,KH000640,FOOTMARK CAMBODIA CORPORATION,FOOTMARK,Tier 1/ATL,Apparel,Nike,Cambodia,SE ASIA,Phnom Penh,130,115,82,0,36,
+2026-10-14,VN000739,WEILINA VIET NAM FOOTWEAR COMPANY LIMITED,HUALI,Tier 1/ATL,Footwear,Converse,Vietnam,SE ASIA,YEN DINH,2816,2395,77,0,38,
+2026-10-14,VN401161,SEYANG CORPORATION VIETNAM,SEYANG,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Kim Thanh,270,240,100,0,41,
+2026-10-14,KR002300,"SeoHeung Co., Ltd. (3D Printer Center)",SEOHEUNG,Tier 2/BTL,Footwear,Nike,South Korea,N ASIA,Busan,48,1,0,0,48,
+2026-10-14,US000686,Fanatics Licensed Sports Group,FANATICS,Tier 1/ATL,Apparel,Nike,USA,AMERICAS,Easton,523,425,73,0,45,
+2026-10-14,VN000098,"All Wells International Co., Ltd.",SPORTS GEAR,Tier 1/ATL,Footwear,Nike,Vietnam,SE ASIA,Ho Chi Minh,2819,2124,80,0,36,
+2026-10-14,VN401101,Germton Industrial Company Ltd.,GERMTON,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Xuan Phu commune,2421,1682,85,0,30,
+2026-10-14,VN002640,Fashion Garments Company Limited,FASHION GARMENTS,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Da Nang,2280,1983,92,0,25,
+2026-10-14,TH000201,"HI TECH APPAREL CO LTD, BRANCH 70",HI TECH,Tier 1/ATL,Apparel,Nike,Thailand,SE ASIA,Bangkru,1009,952,62,89,37,
+2026-10-14,VN002709,Tiong Liong Vietnam (VIETNAM ZHONGJU INDUSTRIAL COMPANY LIMITED),TIONG LIONG GROUP,Tier 2/BTL,Footwear,Nike,Vietnam,SE ASIA,Ho Chi Minh City,247,70,29,33,28,
+2026-10-14,US003280,Marco Fine Art,MARCO FINE ARTS,Tier 1/ATL,Apparel,Converse,USA,AMERICAS,Austin,70,61,61,0,31,
+2026-10-14,TW000813,CHI YANG RIBBON,CHI YANG RIBBON,Tier 2/ATL,Apparel,Nike,Taiwan,N ASIA,New Taipei,58,37,68,19,45,Collegiate
+2026-10-14,VN000374,HUNG LONG GARMENT AND SERVICE JOINT STOCK COMPANY,HUNG LONG GARMENT,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,HUNG YEN,1750,1500,70,0,28,
+2026-10-14,CN002466,"Nantong Nafung Gym Equipment Co.,Ltd",NANTONG NAFUNG,Tier 1/ATL,Equipment,Nike,China,N ASIA,Nantong,159,124,31,0,46,
+2026-10-14,IN002067,SPRINGFEEL POLYURETHANE FOAMS PVT LTD,SPRINGFEEL POLYURETHANE,Tier 2/BTL,Footwear,Nike,India,S ASIA,Kelambakkam,291,246,0,0,33,
+2026-10-14,IN001395,MAXIM LABEL & PACKAGING (INDIA) PVT LTD,MAXIM,Tier 2/BTL,Apparel,Nike,India,S ASIA,Bangalore,106,54,43,0,35,
+2026-10-14,LK001344,Trischel Fabric (PVT) Ltd,MAS HOLDINGS,Tier 2/BTL,Apparel,Nike,Sri Lanka,S ASIA,Thulhiriya,1077,912,1,2,32,
+2026-10-14,LK000919,STRETCHLINE,STRETCHLINE,Tier 2/BTL,Apparel,Nike,Sri Lanka,S ASIA,Malwana,2560,1508,12,0,30,
+2026-10-14,VN000639,"Yegin Industry (Vietnam) Co., Ltd",YEGIN,Tier 1/ATL,Equipment,Nike,Vietnam,SE ASIA,Tan Phuoc District,900,780,69,0,32,
+2026-10-14,MY000524,Tai Wah Garments Industry Sdn Bhd Kulai Jaya,RAMATEX,Tier 1/ATL,Apparel,Nike,Malaysia,S ASIA,Johor Darul Takzim,1189,1135,31,92,33,
+2026-10-14,VN000571,Vietnam Pou Sung Co. Ltd.,POU CHEN,Tier 1/ATL,Footwear,Nike,Vietnam,SE ASIA,Dong Nai City,15375,11985,88,0,37,Collegiate
+2026-10-14,AR000074,DASS ELDORADO SRL,DASS,Tier 1/ATL,Footwear,Nike,Argentina,AMERICAS,ELDORADO,159,103,15,4,37,
+2026-10-14,ID000253,PT KMK Global Sports / K1,KMK,Tier 1/ATL,Footwear,Nike,Indonesia,S ASIA,Tangerang,9335,7426,85,0,36,
+2026-10-14,CN001017,"JOV GARMENT ACCESSORIAL MATERIAL CO., LTD",JOV GARMENT ACCESSORIAL MATERIAL,Tier 2/BTL,Apparel,Nike,China,N ASIA,Songjiang,127,67,60,0,42,
+2026-10-14,CN000426,"Kunshan Sabrina Clothes-Making  Co., Ltd.",SABRINA,Tier 1/ATL,Apparel,Nike,China,N ASIA,Kunshan,817,721,94,0,40,Collegiate
+2026-10-14,SV003007,Celeritas Manufacturing S.A. de C.V.,CELERITAS MANUFACTURING S.A. DE C.V.,Tier 1/ATL,Apparel,Nike,El Salvador,AMERICAS,SOYAPANGO,1510,1430,80,0,40,Collegiate
+2026-10-14,MY000212,HONSIN APPAREL SDN. BHD.,HONSIN,Tier 1/ATL,Apparel,Nike,Malaysia,S ASIA,BATU PAHAT,902,775,33,88,34,
+2026-10-14,KH003457,"S-YOLO APPAREL (CAMBODIA) CO., LTD",SHCA GARMENT,Tier 1/ATL,Apparel,Nike,Cambodia,SE ASIA,Chum Kiri District,270,240,68,0,30,
+2026-10-14,LK000280,MAS KREEDA Balangoda ,MAS HOLDINGS,Tier 1/ATL,Apparel,Nike,Sri Lanka,S ASIA,Balangoda,1464,1280,82,0,29,
+2026-10-14,KH000638,Dewhirst Cambodia,CASTLECRAFTS,Tier 1/ATL,Apparel,Nike,Cambodia,SE ASIA,Phnom Penh,2988,2443,76,1,32,
+2026-10-14,EG000186,Jade Textile Cairo,YESIM,Tier 1/ATL,Apparel,Nike,Egypt,EMEA,10th of Ramadan,3925,3030,24,11,31,
+2026-10-14,CN000197,"Zhuji Hengtai Knitting & Textile Co., Ltd.",DELTA,Tier 1/ATL,Apparel,Nike,China,N ASIA,Zhuji,173,125,56,0,38,
+2026-10-14,CN000670,EAGLE NICE JINGMEN GARMENTS CO LTD,EAGLE NICE,Tier 1/ATL,Apparel,Nike,China,N ASIA,Jingmen,615,463,83,0,44,
+2026-10-14,ID000619,PT SELALU CINTA INDONESIA,KMK,Tier 1/ATL,Footwear,Converse,Indonesia,S ASIA,SALATIGA,17532,16440,87,0,27,
+2026-10-14,BR000306,W.S. Calcados Ltda.,W.S CALCADOS,Tier 1/ATL,Footwear,Converse,Brazil,AMERICAS,Nova Petropolis,46,39,90,0,42,
+2026-10-14,TW001244,"Summitex Enterprise Co., Ltd",YAW LIAMY,Tier 2/BTL,Equipment,Nike,Taiwan,N ASIA,Tai Pao City,152,85,7,76,38,
+2026-10-14,TR000179,Delta Alfa Corap Ve Tekstil Sanayi Tic Ltd Sti,DELTA EQ GROUP,Tier 1/ATL,Equipment,Nike,Turkey,EMEA,Duzce,503,328,88,0,37,Collegiate
+2026-10-14,CN002287,Zhuji Hengan Socks Co Ltd,HENGTAI,Tier 1/ATL,Apparel,Nike,China,N ASIA,zhuji,45,38,37,0,38,
+2026-10-14,VN000557,"FREETREND INDUSTRIAL (VIETNAM) CO., LTD",DEAN SHOES,Tier 1/ATL,Footwear,Nike,Vietnam,SE ASIA,Thu Duc,6265,6057,91,0,40,
+2026-10-14,TH000202,Hi-Tech Apparel Co. Ltd.,HI TECH,Tier 1/ATL,Apparel,Nike,Thailand,SE ASIA,Bangkok,1316,828,80,52,35,Collegiate
+2026-10-14,IN001354,SHAHI EXPORTS PVT LTD,SHAHI,Tier 2/BTL,Apparel,Nike,India,S ASIA,SHIVAMOGGGA,1711,1300,47,0,35,
+2026-10-14,VN003304,"B & D Lingerie Viet Nam Co., Ltd",DELTA,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,QUY NHON CITY,2903,2487,86,0,30,
+2026-10-14,CN002473,"Qingdao Licheng Health Technology Co., Ltd.",QINGDAO LICHENG,Tier 1/ATL,Equipment,Nike,China,N ASIA,Qingdao,42,32,28,0,39,
+2026-10-14,CN000687,NINGBO SHENZHOU KNITTING CO. LTD. (PRINTING MILL & MC),SHENZHOU,Tier 1/ATL,Apparel,Nike,China,N ASIA,Ningbo,639,593,44,0,36,Collegiate
+2026-10-14,KH001445,PPSEC COMPANY LIMITED,SEC ACCESSORIES,Tier 2/ATL,Apparel,Nike,Cambodia,SE ASIA,Phnom Penh,592,509,39,3,28,
+2026-10-14,US000416,"Robinson Manufacturing Company, Dayton",ROBINSON,Tier 1/ATL,Apparel,Nike,USA,AMERICAS,Dayton,45,40,73,0,41,Collegiate
+2026-10-14,VN002015,"DONGJIN TEXTILE VINA Co., Ltd ",DONGJIN,Tier 2/BTL,Footwear,Nike,Vietnam,SE ASIA,Dong Nai City,361,300,8,7,33,
+2026-10-14,TW001287,Dah Jeng Embroidery,EMBLEM SOURCE,Tier 1/ATL,Apparel,Nike,Taiwan,N ASIA,New Taipei City,85,51,98,49,36,
+2026-10-14,VN000644,PAIHO (VIETNAM),PAIHO GROUP,Tier 2/BTL,Footwear,Nike,Vietnam,SE ASIA,Ho Chi Minh City,3754,3139,52,0,31,
+2026-10-14,KH002508,"Wilson Leather Cambodia Co., LTD.",GUANG DER,Tier 1/ATL,Equipment,Nike,Cambodia,SE ASIA,Samraong Tong District,2876,2136,60,3,32,
+2026-10-14,NL000421,RIETVELD SERIGRAFIE BV,RIETVELD,Tier 1/ATL,Apparel,Nike,Netherlands,EMEA,Zoeterwoude Rijndijk,31,23,48,61,38,
+2026-10-14,KH002823,"WP Sports (Cambodia) Co., Ltd.",WELLPOWER,Tier 1/ATL,Equipment,Nike,Cambodia,SE ASIA,Svaay Rieng,1080,891,96,4,34,Collegiate
+2026-10-14,KR000069,ChangShin Inc.,CHANGSHIN,Tier 1/ATL,Footwear,Nike,South Korea,N ASIA,Busan,1055,353,46,0,48,
+2026-10-14,CN000586,"Yantai NE Apparel CO.,LTD",NICE APPAREL,Tier 1/ATL,Apparel,Nike,China,N ASIA,Yantai,760,659,93,0,43,Collegiate
+2026-10-14,CN002295,Beijing Our Clothing and Apparel Ltd,BEIJING CLOTHING,Tier 1/ATL,Apparel,Nike,China,N ASIA,BeiJing,4,3,0,0,45,
+2026-10-14,VN000785,BAIKSAN (VIETNAM),BAIKSAN,Tier 2/BTL,Footwear,Nike,Vietnam,SE ASIA,Binh Duong,343,329,11,0,31,
+2026-10-14,LK002985,Jay Jay Mills Lanka (Pvt) Ltd - Expansion Unit T01,JAY JAY MILLS,Tier 1/ATL,Apparel,Nike,Sri Lanka,S ASIA,Trincomalee,891,716,78,0,25,
+2026-10-14,US000600,Evergreen Apparel Mfg.,YY & ASSOCIATES,Tier 1/ATL,Apparel,Nike,USA,AMERICAS,Hillsboro,21,16,63,0,45,
+2026-10-14,VN001346,"FORMOSA TAFFETA DONG NAI CO., LTD.",FORMOSA TAFFETA,Tier 2/BTL,Apparel,Nike,Vietnam,SE ASIA,Nhon Trach District,1127,988,60,6,31,
+2026-10-14,US000436,SFO Apparel Inc. (Sewing & Cutting),SFO APPAREL,Tier 1/ATL,Apparel,Nike,USA,AMERICAS,Brisbane,54,47,89,0,58,
+2026-10-14,TW001350,YKK Taiwan Chung Li 2nd Factory,YKK,Tier 2/BTL,Footwear,Nike,Taiwan,N ASIA,Taoyuan,1280,1132,53,26,39,
+2026-10-14,CN002340,"Longhui Stella Footwear Co., Ltd",STELLA,Tier 2/ATL,Footwear,Nike,China,N ASIA,Shaoyang City,598,553,98,0,45,Collegiate
+2026-10-14,AR002408,WILL DER,DER WILL,Tier 1/ATL,Apparel,Converse,Argentina,AMERICAS,Ricardo Rojas,105,79,82,0,38,
+2026-10-14,CN000025,Huaian Yuantong Headwear Mfg Co Ltd,ASIAN SOURCING HEADWEAR,Tier 1/ATL,Apparel,Nike,China,N ASIA,HUAI AN,641,510,79,0,44,Collegiate
+2026-10-14,LK000045,BODYLINE PVT LIMITED,MAS HOLDINGS,Tier 1/ATL,Apparel,Nike,Sri Lanka,S ASIA,HORANA,5552,4782,83,0,28,Collegiate
+2026-10-14,VN001443,BUSINESS LOCATION IN VUNG LIEM - TY XUAN COMPANY LIMITED,LAI YIH,Tier 1/ATL,Footwear,Converse,Vietnam,SE ASIA,Vinh Long,1421,1305,83,0,32,
+2026-10-14,TR000323,Milteks Tekstil Sanayi ve Ticaret A S,MILTEKS,Tier 1/ATL,Apparel,Nike,Turkey,EMEA,Istanbul,227,112,38,0,35,
+2026-10-14,KH003009,SUPER KNITTING CAMBODIA,SUPER KNITTING,Tier 1/ATL,Apparel,Nike,Cambodia,SE ASIA,Takeo,1154,1130,61,1,23,
+2026-10-14,TR000675,FITA TEKSTIL KONF.LTD.STI,YESIM,Tier 1/ATL,Apparel,Nike,Turkey,EMEA,Bursa,344,320,91,0,32,
+2026-10-14,ID000677,PT. CHING LUH INDONESIA,CHING LUH,Tier 1/ATL,Footwear,Nike,Indonesia,S ASIA,Cikupa,8034,7251,76,0,38,
+2026-10-14,VN003236,"DONGSHIN VINA CO.,LTD",DONG SHIN GLOBAL MARKETING TECHNOLOGY,Tier 1/ATL,Footwear,Nike,Vietnam,SE ASIA,Trang Bom,175,128,55,0,33,Collegiate
+2026-10-14,US002646,"G&G Outfitters, Inc.",G AND G OUTFITTERS,Tier 1/ATL,Apparel,Nike,USA,AMERICAS,Lanham,279,186,52,0,37,Collegiate
+2026-10-14,CN001374,"Xiamen Expanding Industrial Co., Ltd",HADDAD,Tier 1/ATL,Apparel,Nike,China,N ASIA,xiamen,78,70,63,0,44,
+2026-10-14,CN000738,"Zhijie Footwear Technical Service (Zhongshan) CO.,Ltd",HUALI,Tier 1/ATL,Footwear,Converse,China,N ASIA,Zhongshan,245,70,74,0,44,
+2026-10-14,VN003476,Phu Hung Joint Stock Company,PHU HUNG,Tier 1/ATL,Apparel,Converse,Vietnam,SE ASIA,Hung Yen,490,410,74,0,35,
+2026-10-14,VN000554,"VINH LONG FOOTWEAR CO., LTD.",LAI YIH,Tier 1/ATL,Footwear,Converse,Vietnam,SE ASIA,VINH LONG,5478,4106,73,0,32,
+2026-10-14,CN003396,"SI HAN MANUFACTURING CO.,LTD.",SI HAN,Tier 1/ATL,Apparel,Nike,China,N ASIA,Dongguan,48,25,80,0,40,
+2026-10-14,LK003134,Brandix Apparel Solutions (PVT) LTD,BRANDIX SOLUTIONS,Tier 1/ATL,Apparel,Nike,Sri Lanka,S ASIA,Rambukkana,3032,2210,60,0,36,
+2026-10-14,ID001400,PT PAXAR INDONESIA (AVERY DENNISON GROUP),AVERY DENNISON,Tier 2/BTL,Footwear,Nike,Indonesia,S ASIA,Bekasi,404,325,39,0,30,
+2026-10-14,VN000454,CONG TIEN GARMENT JOINT STOCK COMPANY,SOUTH ISLAND,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Long Thuan Ward,1134,965,72,0,31,Collegiate
+2026-10-14,JP000559,"KITAI CO., LTD",KITAI,Tier 1/ATL,Apparel,Nike,Japan,N ASIA,kashiba,74,64,80,2,50,
+2026-10-14,CN002511,Ramatex Printing Garment (Suzhou) Ltd,RAMATEX,Tier 2/BTL,Apparel,Nike,China,N ASIA,Suzhou,570,495,0,0,40,
+2026-10-14,ID002395,PT.WONEEL MIDAS LEATHERS,PT. WONEEL MIDAS LEATHERS,Tier 1/ATL,Equipment,Nike,Indonesia,S ASIA,Gunungkidul,2121,1974,75,0,25,
+2026-10-14,KR000845,DAERIM TEXTILE CO LTD (KOREA),DAERIM TEXTILE,Tier 2/BTL,Footwear,Nike,South Korea,N ASIA,Busan,75,55,16,15,55,
+2026-10-14,ID001212,PT Tong Hong Tannery,TONG HONG,Tier 2/BTL,Footwear,Nike,Indonesia,S ASIA,Kabupaten Serang,233,200,45,0,27,
+2026-10-14,TW000593,"Yuan Ling Knitting Industrial CO., LTD.",YUAN LING,Tier 2/BTL,Footwear,Nike,Taiwan,N ASIA,Changhua City,175,78,19,55,28,
+2026-10-14,VN000167,"Fashion Garments 2 Co., Ltd - Xuan Tay",HIRDARAMANI,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Cam My District,686,598,99,0,33,
+2026-10-14,CN002989,"Fujian Xingxun New Materials Technology Co., Ltd.","FUJIAN XINGXUN NEW MATERIALS TECHNOLOGY CO., LTD.",Tier 2/ATL,Footwear,Nike,China,N ASIA,QUANZHOU CITY,260,210,19,0,38,
+2026-10-14,VN000743,"Vung Tau Orient Co., Ltd - unit 02",FENG TAY AC,Tier 1/ATL,Equipment,Nike,Vietnam,SE ASIA,Ho Chi Minh,3160,2781,75,0,35,Collegiate
+2026-10-14,TH000354,NICE APPAREL COMPANY LIMITED,NICE APPAREL,Tier 1/ATL,Apparel,Nike,Thailand,SE ASIA,Khonkaen,1384,952,93,0,28,Collegiate
+2026-10-14,ID000434,PT Chang Shin Indonesia,CHANGSHIN,Tier 1/ATL,Footwear,Nike,Indonesia,S ASIA,Karawang,2340,2247,77,0,29,
+2026-10-14,VN401091,Branch of Thuan Phuong Embroideries Garments Company Limited - Thuan Phuong Long An Factory,THUAN PHUONG,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Long Cang,2393,2288,61,0,35,
+2026-10-14,CN002789,"JIANGSU NINGSHENG GARMENT CO.,LTD   ",JIANGSU NINGSHENG GARMENT,Tier 1/ATL,Apparel,Nike,China,N ASIA,WUXI,85,80,83,0,49,
+2026-10-14,HN002979,GILDAN TEXTILES DE SULA S DE R L RIO NANCE 6,GILDAN,Tier 2/BTL,Apparel,Nike,Honduras,AMERICAS,Choloma,1822,1750,4,0,29,
+2026-10-14,KH002926,"Goodmate (Cambodia) Headwears Co., Ltd",GOODMATE,Tier 1/ATL,Apparel,Nike,Cambodia,SE ASIA,Phnom Penh,384,381,75,0,30,
+2026-10-14,VN003313,PROMAX TEXTILE (VIETNAM) CO. LTD – FTY3,PROMAX TEXTILE,Tier 2/BTL,Apparel,Nike,Vietnam,SE ASIA,Nhon Trach district,550,500,24,0,28,
+2026-10-14,VN000353,"Worldon Vietnam Co., Ltd.",SHENZHOU,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Ho Chi Minh,7951,6905,78,0,28,Collegiate
+2026-10-14,CN000222,"HUIZHOU YANGMING INDUSTRIAL CO., LTD.",PT MAP,Tier 1/ATL,Apparel,Converse,China,N ASIA,HuiZhou,50,28,75,0,45,
+2026-10-14,CN002294,Shanghai Shengaoyu Costume Ltd.,SHANGHAI SHENGAOYU,Tier 1/ATL,Apparel,Nike,China,N ASIA,Shanghai,9,4,0,0,38,
+2026-10-14,EG000702,Jade textile Ismailia S.A.E,YESIM,Tier 1/ATL,Apparel,Nike,Egypt,EMEA,Ismailia,5679,3573,41,8,31,
+2026-10-14,VN000568,"Thuan Phuong Embroideries Garments Co., Ltd.",THUAN PHUONG,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Ho Chi Minh City,1343,1022,75,0,28,
+2026-10-14,TW000897,FAR EASTERN,FAR EASTERN,Tier 2/BTL,Apparel,Nike,Taiwan,N ASIA,Taoyuan,273,182,37,70,35,Collegiate
+2026-10-14,MX002657,Skytex Mexico S.A de C.V.,SABRINA,Tier 2/BTL,Apparel,Nike,Mexico,AMERICAS,Huejotzingo,1600,1400,40,0,31,
+2026-10-14,ID000106,PT Dayup Indo,DAYUP,Tier 1/ATL,Equipment,Nike,Indonesia,S ASIA,JAKARTA,1292,1198,94,0,34,Collegiate
+2026-10-14,KH000200,"Hi-Tech Apparel Cambodia Co., Ltd.",HI TECH,Tier 1/ATL,Apparel,Nike,Cambodia,SE ASIA,Poipet,2784,2678,69,0,30,
+2026-10-14,ID003321,PT CHENG ZHAN WANG,CHENG ZHAN WANG,Tier 2/ATL,Footwear,Nike,Indonesia,S ASIA,Majalengka,150,125,58,0,28,
+2026-10-14,VN000626,NV Apparel Company Limited,NICE APPAREL,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,An Giang,2213,1934,76,1,31,Collegiate
+2026-10-14,MX003003,AMRAY S.A DE C.V,ZHEJIANG WALT,Tier 1/ATL,Equipment,Nike,Mexico,AMERICAS,Penjamo,367,271,72,7,29,
+2026-10-14,VN002002,"COSMO VIETNAM CO.,LTD",COSMOPOLITAN TEXTILE,Tier 2/BTL,Footwear,Converse,Vietnam,SE ASIA,Duc Hoa Dist,155,54,24,0,31,
+2026-10-14,VN002571,UN-AVAILABLE CO. LTD,UN AVAILABLE,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Ho Chi Minh,641,454,67,2,33,
+2026-10-14,SV001103,PETTENATI CENTRO AMERICA S.A. DE C.V.,PETTENATI,Tier 2/BTL,Apparel,Nike,El Salvador,AMERICAS,Coatepeque,950,860,23,1,31,
+2026-10-14,TH000146,VEGA BALLS MANUFACTURING,VEGA BALL,Tier 1/ATL,Equipment,Nike,Thailand,SE ASIA,Mueang Samut Prakan District,257,241,76,0,40,Collegiate
+2026-10-14,VN000671,MAPLE COMPANY LIMITED,RAMATEX,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Hai Phong City,3382,2980,69,0,32,
+2026-10-14,GT000731,"Hoosier Manufacturing, Compania Limitada",INDIANA KNITWEAR,Tier 1/ATL,Apparel,Nike,Guatemala,AMERICAS,Guatemala,474,453,68,0,40,Collegiate
+2026-10-14,CN001182,TAG TIME,TAG TIME,Tier 2/ATL,Apparel,Nike,China,N ASIA,Dongguan,117,87,39,0,35,
+2026-10-14,TW000476,STANWELL-EXPAN CO. LTD,STANWELL-EXPAN,Tier 2/ATL,Apparel,Nike,Taiwan,N ASIA,Taoyuan,256,159,45,6,41,Collegiate
+2026-10-14,CN000596,ShangGao Yisen Industry Co. Ltd.,POU CHEN,Tier 1/ATL,Footwear,Nike,China,N ASIA,YiChun,5929,4782,86,0,49,
+2026-10-14,TH003286,99 Embroidery (1999) Co.Ltd. (Chumphae branch),NICE APPAREL,Tier 2/ATL,Apparel,Nike,Thailand,SE ASIA,Chum Phae,153,132,70,2,32.7,Collegiate
+2026-10-14,ID001137,SAMBU FINE CHEMICAL CO LTD (INDONESIA),SAMBU FINE CHEMICAL,Tier 2/ATL,Footwear,Nike,Indonesia,S ASIA,Kabupaten Bekasi,55,37,46,22,28,
+2026-10-14,CN000099,"Yumei (Shantou) Garments Co., Ltd",EAGLE NICE,Tier 1/ATL,Apparel,Nike,China,N ASIA,Shantou,2467,1977,80,0,40,
+2026-10-14,TW000935,GOLD LONG JOHN (TR1) (TAIWAN),GOLD LONG JOHN,Tier 2/ATL,Footwear,Nike,Taiwan,N ASIA,Changhua,550,196,37,29,40,
+2026-10-14,VN001474,"LUCKYTEX SOC TRANG VIETNAM CO., LTD",TUNTEX,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Can Tho,1121,826,81,0,30,Collegiate
+2026-10-14,CN000727,"Zhangjiagang New HuaYuan Accessones Co., Ltd",HUAYUAN ACCESSORIES,Tier 1/ATL,Apparel,Nike,China,N ASIA,Zhangjiagang,97,86,91,0,41,
+2026-10-14,LK003519,Dipped Products PLC,DIPPED,Tier 1/ATL,Equipment,Nike,Sri Lanka,S ASIA,Colombo,123,122,66,0,30,
+2026-10-14,PK000703,Style Raiwind,STYLE TEXTILE,Tier 1/ATL,Apparel,Nike,Pakistan,S ASIA,Kasur,20829,16191,32,0,30,Collegiate
+2026-10-14,VN000706,TKG TAEKWNG BINH PHUOC COMPANY LIMITED,TAEKWANG,Tier 2/ATL,Footwear,Nike,Vietnam,SE ASIA,Chon Than Townlet,1922,1745,87,0,32,
+2026-10-14,JO000531,Pine Tree Company for Textile Manufacturing PSC,RAMATEX,Tier 1/ATL,Apparel,Nike,Jordan,EMEA,AMMAN,2301,2095,60,75,33,
+2026-10-14,VN001275,YOUNGIL (VIETNAM),YOUNGIL LEATHER,Tier 2/BTL,Footwear,Nike,Vietnam,SE ASIA,TRANG BANG,1017,821,40,0,34,
+2026-10-14,TW002621,"ACE Accessories Co., Ltd.",ACE ACCESSORIES,Tier 1/ATL,Equipment,Nike,Taiwan,N ASIA,TAICHUNG,91,65,74,0,32,
+2026-10-14,IT000460,SELF MAGLIERIA SRL,SELF MAGLIERIA,Tier 1/ATL,Apparel,Nike,Italy,EMEA,Vertemate con Minoprio,30,25,92,0,52,
+2026-10-14,CN000470,Shao Yang County SteIIa Footwear LTD ,STELLA,Tier 1/ATL,Footwear,Nike,China,N ASIA,Shaoyang,845,789,98,0,45,Collegiate
+2026-10-14,CN002316,"Zhangpu Hengxin Bags Co., Ltd",ZHANGPU HENGXIN,Tier 1/ATL,Apparel,Nike,China,N ASIA,Zhangzhou,193,172,92,0,47,
+2026-10-14,LK001366,"Brandix Apparel Solutions (Pvt) Limited – Essentials, Koggala",BRANDIX ASIA HOLDINGS,Tier 1/ATL,Apparel,Nike,Sri Lanka,S ASIA,Koggala,980,898,87,0,33,
+2026-10-14,VN401121,"Song Hong Garment JSC - Song Hong Nghia Hung Branch: Factory 15,16,17,18",SONG HONG,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Ninh Binh,1915,1770,81,0,25,
+2026-10-14,CN000835,"FOSHAN COSMO HUAZHOU TEXTILE CO.,LTD.",COSMOPOLITAN TEXTILE,Tier 2/BTL,Footwear,Nike,China,N ASIA,Foshan,164,115,16,0,41,
+2026-10-14,CN001216,TORAY SAKAI CO. LTD.,TORAY,Tier 2/BTL,Apparel,Nike,China,N ASIA,Nantong,1600,1200,53,0,38,
+2026-10-14,VN002986,Maxturn Apparel Company Limited,MAXTURN APPAREL,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Bac Ninh,916,843,97,2,37,
+2026-10-14,LK001345,HAYLEYS FABRIC PLC ,MAS HOLDINGS,Tier 2/BTL,Apparel,Nike,Sri Lanka,S ASIA,Neboda,1569,1455,22,0,32,
+2026-10-14,KH003199,United Creation Optical (Cambodia) Co. Ltd.,UNITED CREATION,Tier 1/ATL,Equipment,Nike,Cambodia,SE ASIA,Somoroung Tong,354,320,55,13,24,
+2026-10-14,VN003565,THAGACO INTERNATIONAL INVESTMENT JOINT STOCK COMPANY–  THAGACO SMART GREEN DINH HOA GARMENT BRANCH,THAGACO,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Thai Nguyen,1540,1030,83,0,38,
+2026-10-14,CN000129,ANHUI COSMO SPORTING GOODS COMPANY LIMITED,ANHUI COSMO,Tier 1/ATL,Equipment,Nike,China,N ASIA,Lu an,366,330,95,0,48,
+2026-10-14,CN001327,"Dongguan Ye Ji Industrial Co., Ltd.",CRYSTAL,Tier 1/ATL,Apparel,Nike,China,N ASIA,DONGGUAN CITY,917,807,66,0,44,
+2026-10-14,IN001435,TRIMCO GROUP (INDIA) PVT LTD,TRIMCO GROUP,Tier 2/ATL,Apparel,Nike,India,S ASIA,Vasai East ,120,75,8,0,36,
+2026-10-14,VN001331,"TMVN MANUFACTURING CO.,LTD.",TP INC,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Ninh Binh,2613,2393,88,0,35,
+2026-10-14,TH000337,"NAN YANG GARMENT CO., LTD.",NAN YANG,Tier 1/ATL,Apparel,Nike,Thailand,SE ASIA,Nongkham,1121,908,71,81,35,Collegiate
+2026-10-14,PH002644,Maxpro Sports Manufacturing Inc.,MAXPRO,Tier 1/ATL,Equipment,Nike,Philippines,N ASIA,Bataan,203,164,41,0,35,
+2026-10-14,GT000227,Hoosier Manufacturing,INDIANA KNITWEAR,Tier 1/ATL,Apparel,Nike,Guatemala,AMERICAS,Villa Nueva,4550,4269,62,0,31,Collegiate
+2026-10-14,PK003488,INTERLOOP LIMITED DENIM,INTERLOOP LIMITED DENIM,Tier 1/ATL,Apparel,Nike,Pakistan,S ASIA,Punjab,5813,5266,5,0,29,
+2026-10-14,VN000502,Business Location of MDK Embroideries Garments Company Limited - Binh Chanh Factory,THUAN PHUONG,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Ho Chi Minh,782,744,79,0,34,
+2026-10-14,SV000486,Supertex El Salvador S.A. de C.V.,SUPERTEX,Tier 1/ATL,Apparel,Nike,El Salvador,AMERICAS,Chalchuapa,3309,2611,70,0,30,
+2026-10-14,CN000198,Dong Guan New Prosperity Optical Mfy Ltd. Chang An Branch,SUN HING OPTICAL,Tier 1/ATL,Equipment,Nike,China,N ASIA,Dongguan,71,60,73,0,42,
+2026-10-14,VN001508,Gold Long John (Vietnam 2nd location),GOLD LONG JOHN,Tier 2/ATL,Footwear,Nike,Vietnam,SE ASIA,Nhon Trach,743,550,35,0,32,
+2026-10-14,TW000048,"CHUAN CHENG HAT CO., LTD.",CHUAN CHENG,Tier 1/ATL,Apparel,Nike,Taiwan,N ASIA,TAICHUNG,120,101,86,21,45,
+2026-10-14,IN003322,Rembrandt Leatherworks Private Limited,REMBRANDT LEATHERWORKS,Tier 1/ATL,Equipment,Nike,India,S ASIA,NOIDA,405,355,0,0,25,
+2026-10-14,GE001319,Ajara Textile Ltd (Bobokvati),MILTEKS,Tier 1/ATL,Apparel,Nike,Georgia,EMEA,Kobuleti,1570,1430,97,0,47,
+2026-10-14,TW000921,"Fulltide Enterprise Co., Ltd.",FULL TIDE,Tier 2/BTL,Equipment,Nike,Taiwan,N ASIA,Dayuan Dist,281,213,36,58,38,
+2026-10-14,MX002995,Skyrina.SA de C.V,SABRINA,Tier 1/ATL,Apparel,Nike,Mexico,AMERICAS,Tlatlauquitepec,350,300,90,0,32,Collegiate
+2026-10-14,VN003234,LEADING STAR THANH HOA GARMENT COMPANY LIMITED,LEADING STAR,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Bim Son,1831,1641,69,0,33,
+2026-10-14,VN000210,"H&L APPAREL(VIETNAM) CO.,LTD",H&L,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Ben Cat District,1050,1000,95,0,25,Collegiate
+2026-10-14,ID000411,PT Rodeo Prima Jaya,PRIMA,Tier 1/ATL,Apparel,Nike,Indonesia,S ASIA,Semarang,590,550,91,0,45,
+2026-10-14,TR002992,Eren Perakende ve Tekstil AS (Misinli),EREN PERAKENDE,Tier 1/ATL,Apparel,Converse,Turkey,EMEA,Tekirdag,55,34,50,0,37,
+2026-10-14,LK002998,Hirdaramani Fashions (Pvt) Ltd - Vavuniya,HIRDARAMANI FASHIONS (PVT) LTD VAVUNIYA,Tier 1/ATL,Apparel,Nike,Sri Lanka,S ASIA,Vavuniya,1087,938,81,0,29,
+2026-10-14,IN001259,YKK INDIA PVT. LTD. ,YKK,Tier 2/ATL,Apparel,Nike,India,S ASIA,Rewari,1258,970,26,0,34,
+2026-10-14,CN001506,FUQING TIONGLIONG XINYE SHOES MATERIAL CO LTD,TIONG LIONG GROUP,Tier 2/BTL,Footwear,Nike,China,N ASIA,Fuqing City,122,70,59,0,37,
+2026-10-14,CN000318,"NINGBO MITSUBANA APPERAL CO., LTD",NINGBO MITSUBANA,Tier 1/ATL,Apparel,Nike,China,N ASIA,NINGBO,99,90,82,0,46,
+2026-10-14,TH001221,"TRANSFER TECH CO., LTD",TRANSFER TECH CO LTD,Tier 2/ATL,Apparel,Nike,Thailand,SE ASIA,Samut Sakhon,188,91,23,93,33,
+2026-10-14,CN000162,Far Eastern Apparal Suzhou Ltd. Co,FAR EASTERN,Tier 1/ATL,Apparel,Nike,China,N ASIA,Suzhou,714,462,90,0,42,Collegiate
+2026-10-14,VN003283,OUTLOOK INTERNATIONAL GROUP (VIETNAM) COMPANY LIMITED,WENZHOU OUTLOOK,Tier 1/ATL,Equipment,Nike,Vietnam,SE ASIA,Pho Yen City,157,125,78,16,31,
+2026-10-14,CN002278,TAYIN R&D CO LTD (CHINA),TAYIN,Tier 2/BTL,Footwear,Nike,China,N ASIA,QINGYUAN,412,222,56,0,37,
+2026-10-14,CN000396,"Qingdao Changshin Shoes Co., Ltd.",CHANGSHIN,Tier 1/ATL,Footwear,Nike,China,N ASIA,QingDao,2162,1794,88,0,48,
+2026-10-14,VN000732,"MANUFACTURE OF ARTISTIC BELT & ACCESSORIES CO., LTD.",ARTISTIC BELT AND ACCESSORIES,Tier 1/ATL,Equipment,Nike,Vietnam,SE ASIA,Ben Cat Town,75,66,85,5,36,
+2026-10-14,VN000653,"Regina Miracle International Vietnam Co., Ltd",REGINA MIRACLE,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Hai Phong,2281,2215,71,0,28,Collegiate
+2026-10-14,LK001394,MAXIM IMPRESSION LANKA (PVT) LTD,MAXIM,Tier 2/BTL,Apparel,Nike,Sri Lanka,S ASIA,Homagama,192,104,24,0,35,
+2026-10-14,ID000223,PT Adis Dimension Footwear,SHOETOWN,Tier 1/ATL,Footwear,Nike,Indonesia,S ASIA,Tangerang,8371,8137,57,0,31,Collegiate
+2026-10-14,KH001316,"Gifted Hosiery (Cambodia) Co., Ltd.",ZHEJIANG WALT,Tier 1/ATL,Equipment,Nike,Cambodia,SE ASIA,Kampong Soam,1942,1799,58,3,32,
+2026-10-14,VN002999,"Worldon Vietnam Co., Ltd. (Flyknit)",SHENZHOU,Tier 2/ATL,Footwear,Nike,Vietnam,SE ASIA,HO CHI MINH CITY,1044,954,76,0,26,
+2026-10-14,MY001487,Song Lin Garment Sdn Bhd,RAMATEX,Tier 1/ATL,Apparel,Nike,Malaysia,S ASIA,Batu Pahat,853,814,59,92,34,
+2026-10-14,SV003295,Supertex El Salvador SA DE CV - Lourdes,SUPERTEX,Tier 1/ATL,Apparel,Nike,El Salvador,AMERICAS,San Juan Opico La Libertad,850,694,88,0,31,
+2026-10-14,EG000627,Delta Galil Industries LTD Egypt,DELTA EQ GROUP,Tier 1/ATL,Apparel,Nike,Egypt,EMEA,El-Minya,2733,2630,85,0,30,
+2026-10-14,VN000684,"Acode Sporting Goods Co., Ltd.",EXCELLENCE SPORTING GOODS,Tier 1/ATL,Equipment,Nike,Vietnam,SE ASIA,Bac Tan Uyen,432,399,78,0,31,
+2026-10-14,ID002911,PT. Shinjin Tex Indonesia,SHIN JIN TEXTILE,Tier 2/ATL,Footwear,Nike,Indonesia,S ASIA,Tangerang,226,182,40,3,33,
+2026-10-14,CN002296,Sheyang Zhixiang Knitting Clothing Factory,ZHIXIANG KNITTING FACTORY,Tier 1/ATL,Apparel,Nike,China,N ASIA,YAN CHENG,290,262,92,0,44,
+2026-10-14,VN000618,"Delta Galil Vietnam Co., Ltd",DELTA EQ GROUP,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Binh Dinh ,3993,2818,81,0,32,Collegiate
+2026-10-14,MX003474,Augusta Sportswear de Mexico S. de R.L. de C.V.,MOMENTEC,Tier 1/ATL,Apparel,Nike,Mexico,AMERICAS,Merida,730,554,75,1,35.41,
+2026-10-14,CN000406,Quanzhou  Fengze Yisheng Leather Co,GRUPO MEXICO,Tier 1/ATL,Apparel,Converse,China,N ASIA,Quanzhou,43,37,70,0,49,
+2026-10-14,LT000735,UAB Haltex,UAB HALTEX,Tier 1/ATL,Apparel,Nike,Lithuania,EMEA,Alytus,297,248,92,2,46,
+2026-10-14,CN001340,Paxar Packaging Guangzhou Ltd.,AVERY DENNISON,Tier 2/ATL,Apparel,Nike,China,N ASIA,Guangzhou,3704,2496,45,0,39,
+2026-10-14,ID003229,PT. Tayin Footwear Indonesia,TAYIN,Tier 2/ATL,Footwear,Nike,Indonesia,S ASIA,Kabupaten Majalengka,93,70,57,10,22,
+2026-10-14,VN000311," Business Location - MDK Embroideries Garments Co., Ltd",THUAN PHUONG,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Ho Chi Minh City,1017,838,86,0,31,
+2026-10-14,LK002797,Jinadasa Bennett (Pvt) Ltd. Mawathagama,FOUNDATION GARMENTS,Tier 1/ATL,Apparel,Nike,Sri Lanka,S ASIA,Kurunegala,1297,989,87,0,18,
+2026-10-14,VN002512,"SIGMA VIETNAM INDUSTRIAL CO.,LTD",SIGMA,Tier 1/ATL,Equipment,Nike,Vietnam,SE ASIA,Vinh Long,1752,1626,63,2,26,
+2026-10-14,CN001389,PAIHO (WUXI 1),PAIHO GROUP,Tier 2/BTL,Footwear,Nike,China,N ASIA,WUXI CITY,927,560,62,3,38,
+2026-10-14,ID002313,PT Mercindo Global Manufaktur,MERCINDO,Tier 1/ATL,Equipment,Nike,Indonesia,S ASIA,Ungaran,2648,2474,69,0,28,Collegiate
+2026-10-14,CN003277,Smart Home Branch of Zhangzhou Easepal Industrial Corporation,HCMB EASEPAL,Tier 1/ATL,Equipment,Nike,China,N ASIA,zhangzhou,191,176,49,0,38,
+2026-10-14,TW000576,Wan Way,WAN WAY,Tier 1/ATL,Equipment,Nike,Taiwan,N ASIA,Tainan,9,6,33,0,44,Collegiate
+2026-10-14,TH000364,"Oriental Garment Co., Ltd – Nongbuadang",ORIENTAL GARMENT,Tier 1/ATL,Apparel,Nike,Thailand,SE ASIA,Nongbuadang,258,255,70,0,38,
+2026-10-14,CN000898,Far Eastern Dyeing & Finishing (SuZhou) LTD,FAR EASTERN,Tier 2/BTL,Apparel,Nike,China,N ASIA,Suzhou,647,232,0,0,29,Collegiate
+2026-10-14,IN001330,SHAHI EXPORTS PVT LTD UNIT 26,SHAHI,Tier 1/ATL,Apparel,Nike,India,S ASIA,Mandya,5513,5069,86,0,35,Collegiate
+2026-10-14,ID000238,PT Shoetown Kasokandel Indonesia,SHOETOWN,Tier 2/ATL,Footwear,Nike,Indonesia,S ASIA,Majalengka,4070,3604,48,0,25,
+2026-10-14,CN000191,Honways Apparel Shuyang Limited,HONSIN,Tier 1/ATL,Apparel,Nike,China,N ASIA,Jiangsu Province,276,176,91,0,50,
+2026-10-14,CN002896,"Weifang Aoxiang Sports Products Co., Ltd",WEIFANG AOXIANG SPORTS,Tier 1/ATL,Equipment,Nike,China,N ASIA,Weifang,25,20,45,0,45,
+2026-10-14,CN002001,"COSMO TEXTILE CO.,LTD(ZHONGSHAN)",COSMOPOLITAN TEXTILE,Tier 2/BTL,Footwear,Converse,China,N ASIA,Zhongshan,220,75,9,0,41,
+2026-10-14,LK001317,"Unichela (Pvt)Ltd, Vidiyal Division",MAS HOLDINGS,Tier 1/ATL,Apparel,Nike,Sri Lanka,S ASIA,Kilinochchi,2186,1724,99,0,26,
+2026-10-14,KR001505,SAMIL TEXTILE CO LTD (Korea),SAMIL,Tier 2/BTL,Footwear,Nike,South Korea,N ASIA,Busan,38,15,40,0,58,
+2026-10-14,KH003456,"TIANCHEN (CAMBODIA) LUGGAGE CO., LTD.",HIP KEUNG,Tier 1/ATL,Equipment,Nike,Cambodia,SE ASIA,Kampong Speu,425,410,59,0,22,
+2026-10-14,US002822,RJ Liebe Athletic Lettering Co. (Downtown),RJ LIEBE ATHLETIC LETTERING,Tier 1/ATL,Apparel,Nike,USA,AMERICAS,ST. Louis,9,7,100,0,59,
+2026-10-14,US003140,The Emblem Source,EMBLEM SOURCE,Tier 1/ATL,Apparel,Nike,USA,AMERICAS,Addison,18,16,50,0,36,Collegiate
+2026-10-14,VN000148,"Vung Tau Orient Co., Ltd",FENG TAY AC,Tier 1/ATL,Equipment,Nike,Vietnam,SE ASIA,Ho Chi Minh City,1245,1180,64,0,36,Collegiate
+2026-10-14,CN001043,DONGGUAN JUN SHENG FOOTWEAR PARTS CO LTD (KURIM DONGGUAN) (CHINA),KURIM,Tier 2/BTL,Footwear,Nike,China,N ASIA,"DONGGUAN, GUANGDONG",140,109,46,0,49,
+2026-10-14,VN000552,VIETNAM CHINGLUH SHOES CO. Ltd.,CHING LUH,Tier 1/ATL,Footwear,Nike,Vietnam,SE ASIA,Ben Luc,16428,13735,80,0,40,Collegiate
+2026-10-14,CN000978,HUA FENG (CHINA),HUA FENG TEXTILE,Tier 2/BTL,Footwear,Nike,China,N ASIA,Putian,300,215,37,0,42,
+2026-10-14,CN000397,"Qingdao Changshin Shoes Co., LTD. Jimo Factory",CHANGSHIN,Tier 1/ATL,Footwear,Nike,China,N ASIA,Qingdao,329,265,37,0,49,
+2026-10-14,CN000539,"Dongguan Youkai Industrial Co., Ltd",DONGGUAN YOUKAI,Tier 1/ATL,Equipment,Nike,China,N ASIA,Dongguan,11,9,33,0,47,Collegiate
+2026-10-14,TR002792,Eren Perakende ve Tekstil AS (Corlu),EREN PERAKENDE,Tier 1/ATL,Apparel,Converse,Turkey,EMEA,Ergene,65,60,83,0,39,
+2026-10-14,CN000766,ASIATAN (CHINA),ASIATAN,Tier 2/BTL,Footwear,Nike,China,N ASIA,Jiangmen City,340,264,60,0,45,
+2026-10-14,VN001368,"Vietnam Chingluh Shoes Co., Ltd - Vinh Long Branch",CHING LUH,Tier 1/ATL,Footwear,Nike,Vietnam,SE ASIA,VINH LONG,1738,1293,75,0,31,
+2026-10-14,VN001367,CHANG SHIN DONG NAI COMPANY LTD,CHANGSHIN,Tier 1/ATL,Footwear,Nike,Vietnam,SE ASIA,Dong Nai,3311,2962,94,0,31,
+2026-10-14,SV000080,"DECOTEX INTERNATIONAL, Ldta de C.V.",TEGRA,Tier 1/ATL,Apparel,Nike,El Salvador,AMERICAS,Ciudad Arce,1237,849,83,0,32,
+2026-10-14,CN001484,"Shaanxi White River Apparel CO., LTD.",SPORTS CITY,Tier 1/ATL,Apparel,Nike,China,N ASIA,Weinan City,800,470,98,0,37,
+2026-10-14,CN002991,RAMATEX TEXTILES (NANTONG) LTD,RAMATEX,Tier 1/ATL,Apparel,Nike,China,N ASIA,Nantong City,105,100,0,0,16,
+2026-10-14,CN000578,"Shoetown Footwear Co.,Ltd",SHOETOWN,Tier 1/ATL,Footwear,Nike,China,N ASIA,Qingyuan City,10674,8439,88,0,41,Collegiate
+2026-10-14,TW000910,"FORMOSA TAFFETA CO., LTD.",FORMOSA TAFFETA,Tier 2/BTL,Apparel,Nike,Taiwan,N ASIA,Touliou,1868,1442,39,37,45,
+2026-10-14,AR000079,Der Will S.A.,DER WILL,Tier 1/ATL,Equipment,Nike,Argentina,AMERICAS,Buenos Aires,253,225,49,0,29,Collegiate
+2026-10-14,VN002411,HUA FENG (VIETNAM),HUA FENG TEXTILE,Tier 2/BTL,Footwear,Nike,Vietnam,SE ASIA,Phuoc An,1196,931,28,23,30,
+2026-10-14,VN001450,WILSON (VIETNAM) LTD,WILSON GARMENT,Tier 2/ATL,Apparel,Nike,Vietnam,SE ASIA,Trang Bang,605,460,46,8,27,
+2026-10-14,VN000551,"CAN SPORTS VIETNAM CO., LTD",SPORTS GEAR,Tier 1/ATL,Footwear,Nike,Vietnam,SE ASIA,Tay Ninh,6831,5124,70,0,37,
+2026-10-14,ID000243,CHANG SHIN INDONESIA,CHANGSHIN,Tier 1/ATL,Footwear,Nike,Indonesia,S ASIA,KARAWANG,13818,13201,85,0,33,Collegiate
+2026-10-14,VN002819,"TREMON SPORTING GOODS ENTERPRISE CO.,LTD (A STRIKER)",TREMON,Tier 1/ATL,Equipment,Nike,Vietnam,SE ASIA,Tay Ninh,371,272,62,1,38,
+2026-10-14,TW000881,"ECLAT TEXTILE CO., LTD. - DA YUAN FACTORY",ECLAT,Tier 2/ATL,Apparel,Nike,Taiwan,N ASIA,Taoyuan,324,249,33,69,33,
+2026-10-14,LK000278,Mas Fabrics Pvt Ltd - Methliya,MAS HOLDINGS,Tier 1/ATL,Apparel,Nike,Sri Lanka,S ASIA,Kegalle,2647,2151,79,0,30,
+2026-10-14,ID000589,PT YC TEC INDONESIA,YC TEC CORPORATION,Tier 2/ATL,Footwear,Nike,Indonesia,S ASIA,Purwakarta,315,203,49,4,30,
+2026-10-14,CN000580,"Shoetown Hunan FOOTWEAR CO.,LTD",SHOETOWN,Tier 1/ATL,Footwear,Nike,China,N ASIA,YongZhou City,2062,1725,86,0,46,
+2026-10-14,TH000218,"VERTEX APPAREL 2022 CO.,LTD.",HI TECH,Tier 1/ATL,Apparel,Nike,Thailand,SE ASIA,Ubonratchathani,1091,837,76,23,29,Collegiate
+2026-10-14,KH003320,"Di Seta (Cambodia) Co.,Ltd",DI SETA (CAMBODIA),Tier 1/ATL,Equipment,Nike,Cambodia,SE ASIA,Phnom Penh,886,821,53,0,25,
+2026-10-14,KH000669,"Berry Apparel (Cambodia) Co., Ltd.",RAMATEX,Tier 1/ATL,Apparel,Nike,Cambodia,SE ASIA,Phnom Penh,1854,1671,80,0,36,
+2026-10-14,VN001503,DUCKSAN CO LTD (Vietnam),DUCKSAN,Tier 2/BTL,Footwear,Nike,Vietnam,SE ASIA,Bac Tan Uyen,192,137,73,7,29,
+2026-10-14,VN001379,"UNIPAX VI THANH CO., LTD.",HWASEUNG CROWN,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Vi Thanh ,2334,2209,83,0,29,Collegiate
+2026-10-14,US000467,Staples Promotional Products,STAPLES CONTRACT AND COMMERCIAL,Tier 1/ATL,Apparel,Nike,USA,AMERICAS,Orange City,296,262,73,0,41,Collegiate
+2026-10-14,CN001211,TONG HONG TANNERY CO LTD (CHINA),TONG HONG,Tier 2/BTL,Footwear,Nike,China,N ASIA,Bekasi,1050,850,77,0,36,
+2026-10-14,JO000283,Sterling Apparel Manufacturing L.L.C. Sahab,MAS HOLDINGS,Tier 1/ATL,Apparel,Nike,Jordan,EMEA,Sahab,1968,1525,70,95,29,
+2026-10-14,ID000659,"SUMBER MASANDA JAYA, PT",PRATAMA,Tier 1/ATL,Footwear,Nike,Indonesia,S ASIA,Brebes,15150,13650,92,0,23,Collegiate
+2026-10-14,IT000431,Sarno Display S.r.l. SOCIETA' BENEFIT,GATTO,Tier 1/ATL,Equipment,Nike,Italy,EMEA,Carnate,90,60,58,3,46,
+2026-10-14,JP000430,"Sato knit Co., Ltd",SATO KNIT,Tier 1/ATL,Apparel,Nike,Japan,N ASIA,Amakusa-city,43,40,100,50,43,
+2026-10-14,CN000275,LION BROTHERS (SHENZHEN) CO. LTD.,AVERY DENNISON,Tier 2/ATL,Apparel,Nike,China,N ASIA,Shenzhen,280,210,56,0,36,
+2026-10-14,TW000174,"Feng Tay Enterprises Co., Ltd",FENG TAY,Tier 1/ATL,Footwear,Nike,Taiwan,N ASIA,Douliou,1763,223,50,0,43,
+2026-10-14,VN000665,Far Eastern Apparel Limited Vietnam,FAR EASTERN,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Ho Chi Minh ,1703,1315,69,0,31,Collegiate
+2026-10-14,IL000090,Delta Socks Ltd.,DELTA EQ GROUP,Tier 1/ATL,Equipment,Nike,Israel,EMEA,KARMIEL,205,13,38,0,38,
+2026-10-14,IN003416,East Wind Footwear Company Limited (India Branch) - Unit 2,FENG TAY,Tier 1/ATL,Footwear,Nike,India,S ASIA,Chennai,3545,2399,84,0,33,
+2026-10-14,CN002605,"Xiamen Goge Garment Co., LTD",XIAMEN GOGE,Tier 1/ATL,Apparel,Nike,China,N ASIA,Xiamen,30,23,100,0,45,
+2026-10-14,VN000458,Viet Khanh Company Limited,SOUTH ISLAND,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Dong Thap,1330,1203,61,0,27,Collegiate
+2026-10-14,JP000343,HAYAFUJI,HAYAFUJI,Tier 1/ATL,Footwear,Nike,Japan,N ASIA,Kyoto-shi,5,4,50,0,53,
+2026-10-14,CN001401,AVERY DENNISON (GUANGZHOU) CONVERTED PRODUCTS LTD.,AVERY DENNISON,Tier 2/BTL,Footwear,Nike,China,N ASIA,Guangzhou,2589,1598,54,0,36,
+2026-10-14,LK000369,JK GARMENTS (PRIVATE) LIMITED,HONSIN,Tier 1/ATL,Apparel,Nike,Sri Lanka,S ASIA,KURUNEGALA,1030,825,78,0,32,
+2026-10-14,TW000894,EVEREST TEXTILE CO LTD,EVEREST TEXTILE,Tier 2/BTL,Apparel,Nike,Taiwan,N ASIA,Tainan City,1443,1127,48,45,43,
+2026-10-14,CN000673,HESHAN TOP EAGLE GARMENT LTD.,NICE APPAREL,Tier 1/ATL,Apparel,Nike,China,N ASIA,Heshan,505,297,93,0,42,
+2026-10-14,TH000382,"Pilotknit Sport Wear Co.,ltd.",PILOT,Tier 1/ATL,Apparel,Nike,Thailand,SE ASIA,Muang,615,526,64,84,30,
+2026-10-14,ID000317,PT Morich Indo Fashion,MORICH,Tier 1/ATL,Apparel,Nike,Indonesia,S ASIA,UNGARAN,2893,2760,74,0,24,
+2026-10-14,TW001061,MEN CHUEN FIBRE INDUSTRY CO LTD (LUZHU),MEN CHUEN,Tier 2/BTL,Apparel,Nike,Taiwan,N ASIA,Taoyuan,172,111,4,84,36,
+2026-10-14,MX000259,Vertical Knits S.A. de C.V.,VERTICAL KNITS,Tier 1/ATL,Apparel,Nike,Mexico,AMERICAS,Baca,1902,1669,47,0,35,
+2026-10-14,SV000176,"Textiles La Paz, L.L.C.",FUN TEES,Tier 1/ATL,Apparel,Nike,El Salvador,AMERICAS,El Rosario La Paz,2274,1714,67,0,35,
+2026-10-14,KR001011,"JOONGANG DYEING FABRIC CO., LTD",JOONGANG TEXTILE,Tier 2/BTL,Footwear,Nike,South Korea,N ASIA,Busan,40,27,4,48,42,
+2026-10-14,KH002810,SUNNY JET HOSIERY (CAMBODIA) CO.LTD,SUNNY JET,Tier 1/ATL,Apparel,Nike,Cambodia,SE ASIA,Phnom Penh,495,475,69,1,25,
+2026-10-14,TW001192,PAIHO (TAIWAN)- Knitting,PAIHO GROUP,Tier 2/BTL,Footwear,Nike,Taiwan,N ASIA,CHANG HUA HSIEN,1004,570,63,45,39,
+2026-10-14,VN000444,"Song Hong Garment JSC - Song Hong 7 Branch: Factory 11,12,13,14",SONG HONG,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Ninh Binh,1763,1571,25,0,24,
+2026-10-14,TW001107,PONY LEATHER CORPORATION (TAIWAN),PONY LEATHER CORPORATION,Tier 2/BTL,Footwear,Nike,Taiwan,N ASIA,Changhua,173,90,42,0,46,
+2026-10-14,CN000526,Ramatex Apparel Suzhou Ltd.,RAMATEX,Tier 1/ATL,Apparel,Nike,China,N ASIA,Suzhou,303,256,93,0,43,
+2026-10-14,VN002534,Vo Nhai Garment Branch – TNG Investment and Trading JSC,VO NHAI 1 GARMENT BRANCH,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Thai Nguyen,1975,1780,73,0,31,
+2026-10-14,TW001142,SAN FANG (TR1) (TAIWAN),SAN FANG,Tier 2/BTL,Footwear,Nike,Taiwan,N ASIA,Kaohsiung,632,396,6,14,41,
+2026-10-14,BR000086,DASS Nordeste Calcados e Artigos Esportivos LTDA.,DASS,Tier 1/ATL,Footwear,Nike,Brazil,AMERICAS,SANTO ESTEVAO,3319,3121,55,0,31,
+2026-10-14,IN001406,AVERY DENNISON INDIA PVT LTD,AVERY DENNISON,Tier 2/BTL,Footwear,Nike,India,S ASIA,Bangalore,398,389,1,0,42,
+2026-10-14,CN001333,"XingNing City XinChang Shoes Co., LTD. YeTang Branch",DEAN SHOES,Tier 2/ATL,Footwear,Nike,China,N ASIA,Meizhou,303,276,64,0,46,
+2026-10-14,US000371,"Pacific Athletic Wear, Inc. ",PACIFIC ATHLETIC WEAR,Tier 1/ATL,Apparel,Nike,USA,AMERICAS,Garden Grove,101,86,58,0,46,
+2026-10-14,KR000782,BAIKSAN (KOREA),BAIKSAN,Tier 2/BTL,Footwear,Nike,South Korea,N ASIA,Busan,57,30,0,0,40,
+2026-10-14,TR000780,Avery Dennison Tekstil Urunleri Sanayi ve Ticaret Ltd. Sti.,AVERY DENNISON,Tier 2/BTL,Apparel,Nike,Turkey,EMEA,Tekirdag,428,307,50,0,41,
+2026-10-14,CN000131,"Dong Guan Goldenprene Sporting Goods Co., Ltd.",GUANG DER,Tier 1/ATL,Equipment,Nike,China,N ASIA,"Liaobu Town, Dong Guan",630,490,58,0,46,Collegiate
+2026-10-14,ID001276,YOUNGIL (INDONESIA),YOUNGIL LEATHER,Tier 2/BTL,Footwear,Nike,Indonesia,S ASIA,Tangerang Banten,299,219,1,0,32,
+2026-10-14,ID003482,PT Multi Karya Usaha,MULTI KARYA USAHA,Tier 2/ATL,Footwear,Nike,Indonesia,S ASIA,"Kp. Kosambi, Balaraja, Kab",831,680,43,0,30,
+2026-10-14,CN000242,"JIANGSU JINHUBAO GARMENT CO., LTD",DECOR,Tier 1/ATL,Apparel,Nike,China,N ASIA,YANGZHOU,141,122,87,0,47,
+2026-10-14,ID001481,PT PRATAMA ABADI INDUSTRI,PRATAMA,Tier 1/ATL,Footwear,Nike,Indonesia,S ASIA,Garut,7769,7181,97,0,23,Collegiate
+2026-10-14,VN001399,"LEE BOU INTERNATIONAL BINH DUONG CO., LTD",LEE BOU LABEL ENTERPRISE,Tier 2/ATL,Apparel,Nike,Vietnam,SE ASIA,Ho Chi Minh,234,120,43,13,30,Collegiate
+2026-10-14,KH002616,"Evermax Garment Accessories (Cambodia)Co., LTD",MAXIM,Tier 2/BTL,Apparel,Nike,Cambodia,SE ASIA,Khan Por Sen Chey,60,47,79,0,33,
+2026-10-14,TW001149,SHAN BEEN JEOU INDUSTRIAL CO LTD (TAIWAN),SHAN BEEN,Tier 2/BTL,Footwear,Nike,Taiwan,N ASIA,Taichung,91,66,32,36,41,
+2026-10-14,VN000452,VINH TIEN GARMENT JOINT STOCK COMPANY,SOUTH ISLAND,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Vinh Long,1561,1291,72,0,33,
+2026-10-14,ID002993,PT Jinlin Luggage Indonesia,FORMOSA,Tier 1/ATL,Equipment,Nike,Indonesia,S ASIA,JEPARA,1350,1181,31,2,24,
+2026-10-14,VN000555,"CHANG SHIN VIETNAM COMPANY, LTD.",CHANGSHIN,Tier 1/ATL,Footwear,Nike,Vietnam,SE ASIA,Dong Nai,34190,30898,75,0,36,
+2026-10-14,BR000058,COCALQUI COOPERATIVA DE TRABALHO DA INDUSTRIA DE CALCADOS DE QUIXERAMOBIM LTDA.,ANIGER,Tier 1/ATL,Footwear,Nike,Brazil,AMERICAS,QUIXERAMOBIM,4769,4636,56,0,33,
+2026-10-14,IT000385,POVOLO SRL,POVOLO,Tier 1/ATL,Apparel,Nike,Italy,EMEA,Gallarate,24,16,94,31,50,
+2026-10-14,VN002407,"Men-Chuen Viet Nam Co., Ltd. (Nhon Trach VI)",MEN CHUEN,Tier 2/ATL,Apparel,Nike,Vietnam,SE ASIA,Nhon Trach,305,191,21,8,29,
+2026-10-14,ID001492,PT Victory Chingluh Indonesia,CHING LUH,Tier 1/ATL,Footwear,Nike,Indonesia,S ASIA,Tangerang,3949,3405,57,0,35,
+2026-10-14,KH000533,"Olive Apparel (Cambodia) Co., Ltd.",RAMATEX,Tier 1/ATL,Apparel,Nike,Cambodia,SE ASIA,Phnom Penh,1965,1781,79,0,35,Collegiate
+2026-10-14,ID000120,PT. Kanindo Makmur Jaya,KANAAN,Tier 1/ATL,Equipment,Nike,Indonesia,S ASIA,Jepara,6064,5958,67,0,25,
+2026-10-14,TW001430,BUTTON INTERNATIONAL CO LTD (TAIWAN),BUTTON INTERNATIONAL,Tier 2/BTL,Apparel,Nike,Taiwan,N ASIA,Taoyuan,117,102,40,19,41,
+2026-10-14,MY000446,South Island Garment Sdn Bhd,SOUTH ISLAND,Tier 1/ATL,Apparel,Nike,Malaysia,S ASIA,Perai,591,319,45,81,39,Collegiate
+2026-10-14,TW002115,Sun Luen International Corporation,TIONG LIONG GROUP,Tier 2/BTL,Footwear,Nike,Taiwan,N ASIA,Changhu,78,47,21,62,35,
+2026-10-14,JO003282,JERASH GARMENTS AND FASHION MANUFACTURING CO LTD - UNIT 4,"JERASH GARMENTS & FASHIONS, UNIT 4",Tier 1/ATL,Apparel,Converse,Jordan,EMEA,Sahab,1331,1195,90,68,25,
+2026-10-14,US000503,Big Game Sports,BIG GAME SPORTS,Tier 1/ATL,Equipment,Nike,USA,AMERICAS,Dallas,69,50,30,28,35,Collegiate
+2026-10-14,ID000381,PT Semarang Garment,ONTIDE,Tier 1/ATL,Apparel,Nike,Indonesia,S ASIA,Semarang,3851,3462,96,0,35,Collegiate
+2026-10-14,KH002414,Charmgo (Cambodia) Co. Ltd,CHARMGO,Tier 1/ATL,Apparel,Nike,Cambodia,SE ASIA,Kampong Spey,1449,1384,66,3,29,
+2026-10-14,CN001143,SAN FANG (TR1) (CHINA),SAN FANG,Tier 2/BTL,Footwear,Nike,China,N ASIA,DONGGUAN,307,225,0,0,38,
+2026-10-14,VN002506,Song Hong - Nghia Hung Garment Joint Stock Company,SONG HONG NGHIA HUNG COMPANY,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Ninh Binh,2313,2121,79,0,23,
+2026-10-14,VN000624,MAXPORT LIMITED VIET NAM NAM DINH BRANCH MAXPORT 05,MAXPORT,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Ninh Binh,1368,1019,86,0,38,Collegiate
+2026-10-14,VN000546,"Fu-Luh Shoes Co., LTD",CHING LUH,Tier 1/ATL,Footwear,Nike,Vietnam,SE ASIA,Tay Ninh,10570,9439,75,0,35,
+2026-10-14,TW001074,"TIONG LIONG-Tiong Liong Industrial Co., Ltd. (Lamination)",TIONG LIONG GROUP,Tier 2/BTL,Footwear,Nike,Taiwan,N ASIA,Taichung City,55,29,38,14,45,
+2026-10-14,VN000070,"CHANG SHIN VIETNAM CO., LTD",CHANGSHIN,Tier 1/ATL,Footwear,Nike,Vietnam,SE ASIA,Long Thanh District,5828,5291,90,0,37,
+2026-10-14,VN003013,BRANCH OF MDK EMBROIDERIES GARMENTS COMPANY LIMITED - BINH CHANH 2 FACTORY,"THUAN PHUONG EMBROIDERIES GARMENTS CO., LTD - BINH CHANH FACTORY 2",Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Tay Ninh,817,736,76,0,34,
+2026-10-14,TH000207,"Future Garment Co., Ltd.",HI TECH,Tier 1/ATL,Apparel,Nike,Thailand,SE ASIA,Bangkok,430,360,64,92,34,
+2026-10-14,US002988,ELITE SPORTSWEAR L.P.,ELITE SPORTSWEAR,Tier 1/ATL,Apparel,Nike,USA,AMERICAS,READING,416,188,81,0,44,
+2026-10-14,CN001302,Qingyuan City Liannan Yao Nationality Autonomous County Rongfang Footwear,SHOETOWN,Tier 1/ATL,Footwear,Nike,China,N ASIA,QING YUAN,609,556,97,0,41,
+2026-10-14,TW001341,"Cheng Horng Industrial Co., Ltd.",LITTLE KING,Tier 2/BTL,Apparel,Nike,Taiwan,N ASIA,Taoyuan,118,89,21,46,42,
+2026-10-14,CN003252,"Dongguan Dingjia Sporting Goods Co.,Ltd.",DONGGUAN DINGJIA,Tier 1/ATL,Equipment,Nike,China,N ASIA,Dongguan,29,25,88,0,44,
+2026-10-14,VN001467,GreenTech Headgear Company Limited,ASIAN SOURCING HEADWEAR,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Ho Chi Minh,2587,2144,79,0,31,Collegiate
+2026-10-14,IT000680,Gianel Shoes srl,GIANEL,Tier 1/ATL,Footwear,Converse,Italy,EMEA,CASARANO,152,143,64,3,36,
+2026-10-14,KH001480,"Apple Apparel (Cambodia) Co., Ltd.",RAMATEX,Tier 1/ATL,Apparel,Nike,Cambodia,SE ASIA,Phonm Penh,828,744,76,0,34,
+2026-10-14,CN001232,"WEIXING INDUSTRIAL DEVELOPMENT CO., LTD. LINHAI ZIPPER BRANCH",WEIXING INDUSTRIAL DEVELOPMENT CO LTD,Tier 2/BTL,Footwear,Nike,China,N ASIA,Linhai,2428,1577,31,0,35,
+2026-10-14,VN000564,"Annora Vietnam  Footwear Co.,Ltd",HUALI,Tier 1/ATL,Footwear,Nike,Vietnam,SE ASIA,Thanh Hoa Province,20063,18239,89,0,38,
+2026-10-14,VN000566,TKG TAEKWANG VINA JOINT STOCK COMPANY-MY THO BRANCH,TAEKWANG,Tier 2/ATL,Footwear,Nike,Vietnam,SE ASIA,My Tho,6429,5854,95,0,32,
+2026-10-14,PH003225,ALSTON APPAREL INC.,SPORTS CITY,Tier 1/ATL,Apparel,Nike,Philippines,N ASIA,Lapu Lapu,750,600,92,0,30,
+2026-10-14,TW000373,Pou Chen Corporation,POU CHEN,Tier 1/ATL,Footwear,Nike,Taiwan,N ASIA,Changhua,1338,451,79,0,47,Collegiate
+2026-10-14,VN000547,"Vietnam Golden Victory Co., Ltd.",STELLA,Tier 1/ATL,Footwear,Nike,Vietnam,SE ASIA,Nam Dinh,9574,7926,93,0,38,Collegiate
+2026-10-14,CN000095,Zhejiang Guangtai Delta Socks Co. Ltd.,DELTA EQ GROUP,Tier 1/ATL,Equipment,Nike,China,N ASIA,Datang Street Zhuji,215,164,54,0,39,Collegiate
+2026-10-14,TW002497,"YieChong Industrial Co., Ltd.",YIECHONG,Tier 1/ATL,Equipment,Nike,Taiwan,N ASIA,Taichung,16,12,75,0,45,Collegiate
+2026-10-14,KR000889,EUN SUNG GLOBAL CO LTD (KOREA),EUN SUNG GLOBAL,Tier 2/BTL,Footwear,Nike,South Korea,N ASIA,"Gimhae, Gyeongnam",34,13,31,0,52,
+2026-10-14,VN003226,Dae Young Vina,DAE YOUNG RUBBER,Tier 2/ATL,Footwear,Nike,Vietnam,SE ASIA,Ho Chi Minh City,123,107,51,2,35,
+2026-10-14,PK000115,Interloop Limited,INTERLOOP,Tier 1/ATL,Equipment,Nike,Pakistan,S ASIA,Faisalabad,20897,18194,12,0,31,
+2026-10-14,MX003307,Textivision,FAR EASTERN,Tier 2/BTL,Apparel,Nike,Mexico,AMERICAS,Tlalnepantla,217,192,73,0,35,Collegiate
+2026-10-14,VN000565,TKG TAEKWANG VINA JOINT STOCK COMPANY,TAEKWANG,Tier 1/ATL,Footwear,Nike,Vietnam,SE ASIA,BIEN HOA,15894,13390,90,0,39,
+2026-10-14,BA000363,Sportek,DIAMANT,Tier 1/ATL,Footwear,Nike,Bosnia,EMEA,Kotor Varos,1998,1835,71,0,41,
+2026-10-14,CN001039,KURARAY CO LTD (CLARINO) (TR1) (TR1) (CHINA),KURARAY,Tier 2/BTL,Footwear,Nike,China,N ASIA,Jiaxing Zhejiang,390,200,15,0,35,
+2026-10-14,BR000057,Dass Sul Calcados e Artigos Esportivos Ltda,CLASSICO,Tier 1/ATL,Apparel,Nike,Brazil,AMERICAS,Saudades,821,443,68,44,32,
+2026-10-14,CN000292,"Fujian Xiefeng Footwear Co.,Ltd.",FENG TAY,Tier 1/ATL,Footwear,Nike,China,N ASIA,Putian,4157,3513,67,0,46,Collegiate
+2026-10-14,ID000608,PT. SHOETOWN LIGUNG INDONESIA,SHOETOWN,Tier 1/ATL,Footwear,Nike,Indonesia,S ASIA,MAJALENGKA,11935,10075,43,0,24,
+2026-10-14,VN001141,SAN FANG (TR1) (VIETNAM),SAN FANG,Tier 2/BTL,Footwear,Nike,Vietnam,SE ASIA,PHU MY TOWN,1182,960,57,2,31,
+2026-10-14,CN000100,"Eagle Nice (Yifeng) Garments Co., Ltd",EAGLE NICE,Tier 1/ATL,Apparel,Nike,China,N ASIA,Yifeng,1630,1225,95,0,45,
+2026-10-14,ID002293,PT ECLAT TEXTILE INTERNATIONAL,ECLAT,Tier 1/ATL,Apparel,Nike,Indonesia,S ASIA,Kendal,6038,5837,90,0,24,Collegiate
+2026-10-14,CN000188,Pingxiang City Guangxuan Footwear Co. Ltd.,SHOETOWN,Tier 2/ATL,Footwear,Nike,China,N ASIA,Pingxiang,551,486,94,0,45,
+2026-10-14,VN000628,Viet Long Hung Garment Company Limited,SOUTH ISLAND,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Dong Thap,1888,1720,63,0,29,Collegiate
+2026-10-14,VN001272,YOU YOUNG (VIETNAM),YOU YOUNG,Tier 2/BTL,Footwear,Nike,Vietnam,SE ASIA,Tay Nam Ward,308,145,28,0,32,
+2026-10-14,US000377,"Paramount Apparel International, LLC.",PARAMOUNT,Tier 1/ATL,Apparel,Nike,USA,AMERICAS,Bourbon,290,90,42,0,44,Collegiate
+2026-10-14,VN002385,ROLLSPORT VIETNAM FOOTWEAR LIMTED,HUALI,Tier 2/ATL,Footwear,Nike,Vietnam,SE ASIA,Tho Xuan,2305,2216,0,0,35,
+2026-10-14,VN000455,NAM THIEN COMPANY LIMITED,SOUTH ISLAND,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Ho Chi Minh,507,440,75,0,33,Collegiate
+2026-10-14,VN002815,KWAN TAT VIET NAM INDUSTRIAL LIMITED,KWAN TAT VIET NAM INDUSTRIAL LIMITED,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Ho Chi Minh,76,64,88,17,27,Collegiate
+2026-10-14,CN001037,KUO YUEN (TR1) (CHINA),KUO YUEN,Tier 2/BTL,Footwear,Nike,China,N ASIA,ZHEJIANG,40,30,67,0,46,
+2026-10-14,CN001339,"Boling Digital (Xiamen) Technology Co.,Ltd",HADDAD,Tier 1/ATL,Apparel,Nike,China,N ASIA,Xiamen City,107,93,85,0,42,
+2026-10-14,VN003478,TDT Investment and Development JSC,TDT INVESTMENT AND DEVELOPMENT,Tier 1/ATL,Apparel,Converse,Vietnam,SE ASIA,Thai Nguyen,782,543,72,0,30,
+2026-10-14,IT002346,TIGAMARO SRL,TIGAMARO,Tier 1/ATL,Apparel,Nike,Italy,EMEA,Macerata,85,72,93,6,32,
+2026-10-14,VN000661,Maxport Limited (Viet Nam) - Thai Binh Branch,MAXPORT,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Hung Yen City,2639,2167,83,0,37,Collegiate
+2026-10-14,BR000087,Dass Nordeste Calcados e Artigos Esportivos Ltda,DASS,Tier 1/ATL,Footwear,Nike,Brazil,AMERICAS,Vitoria da Conquista,3319,3121,55,0,31,
+2026-10-14,JO000282,MAS Al Safi Apparel Manufacturing LLC - Madaba,MAS HOLDINGS,Tier 1/ATL,Apparel,Nike,Jordan,EMEA,Madaba,610,540,90,2,29,
+2026-10-14,CN000582,YANCHENG XINBO GARMENTS CO LTD,DECOR,Tier 1/ATL,Apparel,Nike,China,N ASIA,Yancheng,178,153,95,0,48,
+2026-10-14,IT000082,Diamant srl,DIAMANT,Tier 1/ATL,Footwear,Nike,Italy,EMEA,Sorga,250,188,71,5,44,
+2026-10-14,EG002317,ENVA TEXTILE GROUP FOR SOCKS PRODUCTION S.A.E,ENVA TEXTILE GROUP,Tier 1/ATL,Apparel,Nike,Egypt,EMEA,ISMAILIA,371,262,63,0,25,
+2026-10-14,IN000297,Lotus Footwear Enterprises Private Ltd. (India Branch) - Unit 1,FENG TAY,Tier 1/ATL,Footwear,Nike,India,S ASIA,Thiruvannamalai,6142,6111,57,0,35,
+2026-10-14,VN003558,Pro Sports Nghi Xuan Joint Stock Company,HIRDARAMANI,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Nghi Xuan District,900,465,96,0,35,
+2026-10-14,TR003462,Ev-kon Tekstil San. Ve Tic. A.S.,YESIM,Tier 1/ATL,Apparel,Nike,Turkey,EMEA,Mardin,1089,940,43,0,29,
+2026-10-14,VN003255,Tho Xuan Corporation Company Limited,THO XUAN CORP,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Hoi Hien,643,601,85,0,36,
+2026-10-14,VN000994,ISA INDUSTRIAL CO LTD (VIETNAM),ISA,Tier 2/BTL,Footwear,Nike,Vietnam,SE ASIA,Ho Chi MInh City,684,555,10,0,26,
+2026-10-14,TR002022,MILTEKS TEKSTIL SAN VE TIC AS,MILTEKS,Tier 2/BTL,Apparel,Nike,Turkey,EMEA,Kahramanmaras,511,414,23,0,36,
+2026-10-14,JP000700,"Atoms., Inc",ATOMS,Tier 1/ATL,Equipment,Nike,Japan,N ASIA,SAKURAI,5,2,0,0,47,
+2026-10-14,VN002314,Haivina Hong Linh Co. Ltd,HAIVINA HONG,Tier 1/ATL,Equipment,Nike,Vietnam,SE ASIA,Ha Tinh Province,1313,1196,98,0,36,Collegiate
+2026-10-14,VN003292,Crystal Martin (Vietnam) Company Limited,CRYSTAL,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Bac Ninh,5437,5171,66,0,33,
+2026-10-14,US000378,Imperial Winona,PARAMOUNT,Tier 1/ATL,Apparel,Nike,USA,AMERICAS,Winona,91,88,73,0,40,Collegiate
+2026-10-14,BR003567,Dass Nordeste Calcados e Artigos Esportivos S/A,CLASSICO,Tier 1/ATL,Apparel,Nike,Brazil,AMERICAS,Iguai,713,690,47,0,27,
+2026-10-14,VN002417,Lucky Star Vietnam Garment Company Limited,LUCKY STAR,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Ho Chi Minh,1105,956,72,0,28,
+2026-10-14,VN000562,"VIETNAM DONA ORIENT CO., LTD",FENG TAY,Tier 1/ATL,Footwear,Nike,Vietnam,SE ASIA,Trang Bom,8545,8252,60,0,36,Collegiate
+2026-10-14,SV003514,"Celeritas de San Bartolo, S.A. de C.V.",INDUSTRIAS MERLET,Tier 1/ATL,Apparel,Nike,El Salvador,AMERICAS,SANTA ANA,780,754,75,0,33,
+2026-10-14,LK000650,Texlan Center Private Limited,INTERLOOP,Tier 1/ATL,Equipment,Nike,Sri Lanka,S ASIA,Minuwangoda,1124,846,43,0,33,
+2026-10-14,KR000869,DUCKSAN CO LTD (KOREA),DUCKSAN,Tier 2/BTL,Footwear,Nike,South Korea,N ASIA,Gyeonggi Do,11,10,0,20,42,
+2026-10-14,KR001510,JOONGANG TEXTILE CO LTD (WARP/WEFT KNIT),JOONGANG TEXTILE,Tier 2/BTL,Footwear,Nike,South Korea,N ASIA,Busan,58,16,31,25,40,
+2026-10-14,CN000577,"Jiangxi Guangyou Shoetown Footwear Co., Ltd.",SHOETOWN,Tier 1/ATL,Footwear,Nike,China,N ASIA,Nanchang,1166,850,82,0,44,
+2026-10-14,EG000508,TEXTILES INTERNATIONAL OF EGYPT LTD.,TIE TEXTILES,Tier 1/ATL,Apparel,Nike,Egypt,EMEA,CAIRO,741,655,64,0,33,
+2026-10-14,VN001036,KUO YUEN (VIETNAM),KUO YUEN,Tier 2/BTL,Footwear,Nike,Vietnam,SE ASIA,Dong Nai,240,184,65,6,34,
+2026-10-14,LK000442,MAS KREEDA Shadeline ,MAS HOLDINGS,Tier 1/ATL,Apparel,Nike,Sri Lanka,S ASIA,MAHIYANGANAYA,3385,2879,76,0,28,
+2026-10-14,IT000274,LIM SRL,LIM,Tier 1/ATL,Footwear,Converse,Italy,EMEA,Montagnana,39,29,21,24,42,
+2026-10-14,VN001303,Rollsport Vietnam Footwear Limited,HUALI,Tier 1/ATL,Footwear,Nike,Vietnam,SE ASIA,Thanh Hoa,17400,15804,91,0,35,
+2026-10-14,US003502,Zellerfeld Shoe Company,ZELLERFELD,Tier 1/ATL,Footwear,Nike,USA,AMERICAS,Austin,28,22,27,0,36,
+2026-10-14,VN003238,"SAB Industrial (Vietnam) Co.,Ltd.",WEIXING INDUSTRIAL DEVELOPMENT CO LTD,Tier 2/BTL,Footwear,Nike,Vietnam,SE ASIA,Bac Son Ward Bim Son,649,489,53,0,32,
+2026-10-14,VN001297,Hua Feng Haptic Vietnam,HUA FENG TEXTILE,Tier 2/ATL,Footwear,Nike,Vietnam,SE ASIA,Nhon Trach,338,317,44,1,30,
+2026-10-14,VN000362,ORIENTAL GARMENT AN GIANG CO LTD,ORIENTAL GARMENT,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,AN GIANG,443,368,78,2,37,
+2026-10-14,CN000936,GOLD LONG JOHN (TR1) (CHINA),GOLD LONG JOHN,Tier 2/ATL,Footwear,Nike,China,N ASIA,Zhongshan Guangdong,276,165,33,0,37,
+2026-10-14,ID000226,PT Eagle Nice Indonesia,EAGLE NICE,Tier 1/ATL,Apparel,Nike,Indonesia,S ASIA,Kabupaten Serang,2647,1943,73,1,36,
+2026-10-14,SV003569,Cygnus Investments SA de CV I-9,CYGNUS,Tier 1/ATL,Apparel,Nike,El Salvador,AMERICAS,Olocuilta,340,278,53,0,31,Collegiate
+2026-10-14,VN000071,"ECLAT TEXTILE CO., LTD. (VIETNAM)",ECLAT,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Nhon Trach,4281,3750,88,0,34,
+2026-10-14,CN001004,MAXIM SMART MANUFACTURING CO LTD,MAXIM,Tier 2/BTL,Apparel,Nike,China,N ASIA,Jiaxing,705,309,49,0,38,
+2026-10-14,VN000457,TTG Co. Ltd.,SOUTH ISLAND,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Dong Thap,48,38,45,0,31,
+2026-10-14,AR000239,JDTEX INDUMENTARIA S.A.,JDTEX INDUMENTARIA SA,Tier 1/ATL,Apparel,Converse,Argentina,AMERICAS,Lujan,21,18,83,0,52,
+2026-10-14,CN001332,"Shandong Yuanchenghe Garment Co.,Ltd",FAR EASTERN,Tier 1/ATL,Apparel,Nike,China,N ASIA,Taian City,176,137,92,0,38,Collegiate
+2026-10-14,MX002717,Grumax,GRUPO,Tier 1/ATL,Apparel,Nike,Mexico,AMERICAS,Xalapa,494,436,61,0,35,
+2026-10-14,ID000391,PT Marel Sukses Pratama,PT MAP,Tier 1/ATL,Apparel,Converse,Indonesia,S ASIA,Yogyakarta,146,112,71,0,30,
+2026-10-14,VN000072,"E-Top (Vietnam) Co.,Ltd",ECLAT,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Ho Chi Minh,2876,2700,96,0,33,Collegiate
+2026-10-14,GT002307,Marbelys 2,MARBELYS,Tier 1/ATL,Apparel,Nike,Guatemala,AMERICAS,San Pedro Sacatepequez,134,128,57,0,23,
+2026-10-14,MX003527,RMC DE MEXICO SA DE CV,RMC DE MEXICO,Tier 1/ATL,Apparel,Nike,Mexico,AMERICAS,Linares,293,240,75,0,35,
+2026-10-14,VN003131,"PROSPORTS FASHION (VIET NAM) CO., LTD.",PROSPORTS FASHION,Tier 1/ATL,Apparel,Converse,Vietnam,SE ASIA,Hai Phong,549,455,84,0,38,
+2026-10-14,VN002975,EAGLE NICE VIETNAM COMPANY LIMITED,EAGLE NICE,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Tay Ninh,683,411,91,3,35,
+2026-10-14,CN000585,"Xinchang Shoes Co.,Ltd",DEAN SHOES,Tier 2/ATL,Footwear,Nike,China,N ASIA,Xinning,3604,3280,84,0,46,
+2026-10-14,US000747,Walt USA LLC,ZHEJIANG WALT,Tier 1/ATL,Equipment,Nike,USA,AMERICAS,N Logan,31,26,62,0,30,
+2026-10-14,CN001242,XIANG ZHOU LEATHER CO LTD (CHINA),XIANG ZHOU LEATHER,Tier 2/BTL,Footwear,Nike,China,N ASIA,"Zhangzhou, Fujian",410,350,51,0,40,
+2026-10-14,VN002318,Ramatex Industrial (Nam Dinh) Company Limited,RAMATEX,Tier 2/BTL,Apparel,Nike,Vietnam,SE ASIA,Nam Dinh,394,358,28,0,36,
+2026-10-14,ID000844,DAEHWA INDONESIA PT (TR1) (INDONESIA),DAEHWA,Tier 2/BTL,Footwear,Nike,Indonesia,S ASIA,BEKASI,281,222,3,0,38,
+2026-10-14,CN003404,"Xiamen Xinduoyu Manufacturing Co., Ltd.",XIAMEN XINDUOYU MANUFACTURING,Tier 1/ATL,Apparel,Nike,China,N ASIA,Xiamen,86,65,69,0,49,
+2026-10-14,VN000413,Avery Dennison RIS Vietnam Co. Ltd.,AVERY DENNISON,Tier 2/ATL,Apparel,Nike,Vietnam,SE ASIA,Can Giuoc,2775,2147,39,0,23,Collegiate
+2026-10-14,VN002654,"Tremon Sporting Goods Enterprise Co.,Ltd",TREMON,Tier 1/ATL,Equipment,Nike,Vietnam,SE ASIA,Tay Ninh,712,602,72,1,26,
+2026-10-14,CN002007,"Huajin Textile Printing &Dyeing Co.,LTD",HUAJIN,Tier 2/BTL,Footwear,Converse,China,N ASIA,Linyi County,667,491,36,15,42,
+2026-10-14,LK000281,MAS KREEDA PDC & MEC,MAS HOLDINGS,Tier 1/ATL,Apparel,Nike,Sri Lanka,S ASIA,Colombo,233,119,63,0,32,
+2026-10-14,HK000825,TRIMCO GROUP (HONG KONG) CO LTD,TRIMCO GROUP,Tier 2/BTL,Apparel,Nike,China,N ASIA,Kwai Chung,186,34,53,0,51,
+2026-10-14,LK000487,MAS KREEDA Synergy ,MAS HOLDINGS,Tier 1/ATL,Apparel,Nike,Sri Lanka,S ASIA,Avissawella,2858,2348,67,0,30,Collegiate
+2026-10-14,ID001501,PT DAEWON ECO INDONESIA,DAEWON,Tier 2/BTL,Footwear,Nike,Indonesia,S ASIA,Bekasi,37,20,35,25,33,
+2026-10-14,AR000314,Cooperativa Textil Seuca Ltda.,COOPERATIVA TEXTIL SEUCA,Tier 1/ATL,Apparel,Converse,Argentina,AMERICAS,Guaymallen,21,17,82,0,30,
+2026-10-14,VN000326,Ha Noi Garment No. 40 Joint Stock Company,MAXPORT,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Ha Noi City,83,61,85,0,46,Collegiate
+2026-10-14,GE001478,Ajara Textile Ltd (Rustavi),MILTEKS,Tier 1/ATL,Apparel,Nike,Georgia,EMEA,Rustavi,1744,1624,96,0,43,
+2026-10-14,VN003133,"JOY VINA FASHION CO., LTD",JOY VINA FASHION,Tier 1/ATL,Apparel,Converse,Vietnam,SE ASIA,Hung Yen,345,301,81,2,32,
+2026-10-14,KH003552,"SISHUN UMBRELLA (CAMBODIA) CO., LTD.",SISHUN UMBRELLA GROUP,Tier 1/ATL,Equipment,Nike,Cambodia,SE ASIA,Samrong Tong,86,78,68,0,38,
+2026-10-14,CN000296,"Long Yue Shoes Industrial Hui Zhou Co.,Ltd.",DEAN SHOES,Tier 2/ATL,Footwear,Nike,China,N ASIA,Huizhou,1807,1566,66,0,46,Collegiate
+2026-10-14,ID002662,PT YIH QUAN FOOTWEAR INDONESIA,LAI YIH,Tier 1/ATL,Footwear,Converse,Indonesia,S ASIA,REGENCY BATANG,1499,1346,72,0,24,
+2026-10-14,CN000407,"JIAXING QUANG VIET GARMENT CO., LTD.",QUANG VIET,Tier 1/ATL,Apparel,Nike,China,N ASIA,Ping Hu,1325,1075,60,0,41,
+2026-10-14,VN000667,"PREMIER GLOBAL (VIETNAM) GARMENT FACTORY CO., LTD",NICE APPAREL,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,THUAN AN CITY,1354,1334,72,0,32,
+2026-10-14,VN000177,Far Eastern Apparel (Vietnam) Limited,FAR EASTERN,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Ho Chi Minh,3879,2902,83,0,33,Collegiate
+2026-10-14,VN000408,"QUANG VIET ENTERPRISE CO., LTD",QUANG VIET,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,HO CHI MINH,4594,3926,93,0,39,
+2026-10-14,VN000050,"CCH TOP VN CO., LTD.",CHUAN CHENG,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,HO CHI MINH,1315,1230,88,0,38,
+2026-10-14,PK001377,Style Textile(Pvt.) Limited-SAP,STYLE TEXTILE,Tier 1/ATL,Apparel,Nike,Pakistan,S ASIA,Kasur/Lahore,12824,12212,1,0,28,Collegiate
+2026-10-14,EG000598,Jade Textile Alexandria  ,YESIM,Tier 1/ATL,Apparel,Nike,Egypt,EMEA,Alexandria,1191,616,24,0,33,
+2026-10-14,VN001089,Gain Lucky (Vietnam) Limited,SHENZHOU,Tier 2/BTL,Apparel,Nike,Vietnam,SE ASIA,Gia Loc Ward ,10150,9800,46,0,30,Collegiate
+2026-10-14,VN000666,"BRANCH 1 OF GREENTECH HEADGEAR CO., LTD IN DONG NAI",ASIAN SOURCING HEADWEAR,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,NHON TRACH,1680,1400,80,0,32,Collegiate
+2026-10-14,ID000231,PT Pratama Abadi Industri,PRATAMA,Tier 1/ATL,Footwear,Nike,Indonesia,S ASIA,Tangerang Selatan,6535,4787,83,0,37,Collegiate
+2026-10-14,CN003244,"Zhejiang Top Circle Textiles Co.,Ltd",ZHEJIANG TOP,Tier 1/ATL,Apparel,Nike,China,N ASIA,Jiaxing,102,90,67,0,43,
+2026-10-14,ID000501,Taitat Putra Rejeki,PT MAP,Tier 1/ATL,Equipment,Converse,Indonesia,S ASIA,Bogor,64,48,77,2,46,
+2026-10-14,VN000746,"Colltex Garment Mfy Co., Ltd.(VN)",ECLAT,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Tay Ninh,2186,2061,96,0,32,Collegiate
+2026-10-14,CN002504,"Xiamen Kaiyuan Technology Co.,Ltd",XIAMEN KAIYUAN,Tier 1/ATL,Apparel,Nike,China,N ASIA,Xiamen,32,26,100,0,49,
+2026-10-14,VN001369,"PHUC TAI TAY NINH CO., LTD",SPORTS GEAR,Tier 1/ATL,Footwear,Nike,Vietnam,SE ASIA,Tay Ninh,327,286,80,0,37,
+2026-10-14,IT000059,Avery Dennison RIS Italia S.r.l.,AVERY DENNISON,Tier 2/ATL,Footwear,Nike,Italy,EMEA,Ancarano,348,218,42,0,47,
+2026-10-14,HN000709,AVERY DENNISON RIS HONDURAS S DE R,AVERY DENNISON,Tier 2/ATL,Apparel,Nike,Honduras,AMERICAS,Villanueva,950,800,0,1,33,
+2026-10-14,CN000490,"Yichun Yisen Industry Co., Ltd",POU CHEN,Tier 2/ATL,Footwear,Nike,China,N ASIA,Yichun city,2681,2324,98,0,46,
+2026-10-14,ID001486,PT MAS ARYA INDONESIA,MAS HOLDINGS,Tier 1/ATL,Apparel,Nike,Indonesia,S ASIA,Semarang,2143,2099,80,1,25,
+2026-10-14,CN000294,"Fujian Lifeng Footwear Industrial Development CO.,LTD.",FENG TAY,Tier 1/ATL,Footwear,Nike,China,N ASIA,Putian,2529,2318,71,0,45,
+2026-10-14,GE000615,Ajara Textile Ltd (Poti),MILTEKS,Tier 1/ATL,Apparel,Nike,Georgia,EMEA,Poti,1606,1499,93,0,46,
+2026-10-14,ID002495,PT. TKG TAEKWANG CIREBON,TAEKWANG,Tier 1/ATL,Footwear,Nike,Indonesia,S ASIA,Kab Cirebon,1081,907,70,0,26,
+2026-10-14,CN001343,Stretchline (Zhongshan) Limited,STRETCHLINE,Tier 2/BTL,Apparel,Nike,China,N ASIA,Zhongshan,518,471,27,0,35,
+2026-10-14,VN000866,DONGJIN TEXTILE VINA,DONGJIN,Tier 2/BTL,Footwear,Nike,Vietnam,SE ASIA,Dong Nai,185,108,11,9,38,
+2026-10-14,CN000529,SongSen Garment Suzhou Ltd,RAMATEX,Tier 1/ATL,Apparel,Nike,China,N ASIA,Suzhou,362,337,90,0,42,
+2026-10-14,TH001255,YKK (THAILAND) CO LTD,YKK,Tier 2/BTL,Apparel,Nike,Thailand,SE ASIA,Samutprakarn,412,252,64,4,38,
+2026-10-14,TH000338,"NAN YANG GARMENT CO.,LTD",NAN YANG,Tier 1/ATL,Apparel,Nike,Thailand,SE ASIA,Sampran,1548,1347,64,90,32,
+2026-10-14,AR000063,COOPERSHOES - COOPERATIVA DE CALCADOS E COMPONENTES JOANETENSE LTDA - Las Flores,COOPERSHOES,Tier 1/ATL,Footwear,Converse,Argentina,AMERICAS,Las Flores,43,22,45,0,40,
+2026-10-14,ID000244,PT. CHANGSHIN  REKSA JAYA,CHANGSHIN,Tier 1/ATL,Footwear,Nike,Indonesia,S ASIA,GARUT,10641,10171,97,0,27,
+2026-10-14,VN002821,Sun Yuan Optical (Vietnam) Co. Ltd.,SUN YUAN OPTICAL (VIETNAM) CO LTD,Tier 1/ATL,Equipment,Nike,Vietnam,SE ASIA,My Yen Commune,115,86,85,0,36,
+2026-10-14,VN002330,Viet Long Giang Garment Joint Stock Company ,SOUTH ISLAND,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Can Tho City,1186,991,74,0,25,
+2026-10-14,CN002793,"Shishi Maihong Clothing Co., LTD",SHISHI HONGTING,Tier 1/ATL,Apparel,Nike,China,N ASIA,shishi,121,97,74,0,44,
+2026-10-14,VN000879,"ECLAT FABRIC CO., LTD.",ECLAT,Tier 2/BTL,Apparel,Nike,Vietnam,SE ASIA,Ba Ria-Vung Tau,844,556,40,0,29,
+2026-10-14,BR001444,TOPSHOES IND CALCADOS SA,COOPERSHOES,Tier 1/ATL,Footwear,Converse,Brazil,AMERICAS,QUIXERE,820,554,65,0,29,
+2026-10-14,CN002796,"Hao’s Fitness Equipment (Shanghai) Co., Ltd. TRADING LTD",JOSH SHANGHAI INDUSTRIAL,Tier 1/ATL,Equipment,Nike,China,N ASIA,Shanghai,41,35,31,0,24,
+2026-10-14,CN000730,SHAOYANG STELLA FOOTWEAR COMPANY LIMITED,STELLA,Tier 1/ATL,Footwear,Nike,China,N ASIA,SHAOYANG CITY,3869,3415,83,0,47,Collegiate
+2026-10-14,CN000101,Ningbo Eastex,NINGBO EASTEX,Tier 1/ATL,Apparel,Nike,China,N ASIA,Ningbo,180,153,76,0,42,Collegiate
+2026-10-14,CN000414,"Lijing Regina Miracle Intimate Apparel (Zhaoqing) Co., Ltd",REGINA MIRACLE,Tier 1/ATL,Apparel,Nike,China,N ASIA,Zhaoqing,249,221,71,0,31,Collegiate
+2026-10-14,TW000103,"Chang Wong Industrial Co., Ltd.",CHANG WONG INDUSTRIAL,Tier 1/ATL,Equipment,Nike,Taiwan,N ASIA,Taichung City,31,23,35,26,45,
+2026-10-14,CN000192,"The Haddad Apparel Wuxi, Co., LTD",HADDAD,Tier 1/ATL,Apparel,Nike,China,N ASIA,Wuxi,69,46,83,0,46,
+2026-10-14,VN000563,Pou Chen Vietnam Enterprise Ltd.,POU CHEN,Tier 1/ATL,Footwear,Nike,Vietnam,SE ASIA,Dong Nai City,16060,12339,83,0,40,Collegiate
+2026-10-14,US000014,"A & K Designs, Inc.",A & K DESIGNS,Tier 1/ATL,Apparel,Nike,USA,AMERICAS,Portland,136,125,69,0,45,Collegiate
+2026-10-14,JP000595,Sewing Jonah,SEWING JONAH,Tier 1/ATL,Apparel,Nike,Japan,N ASIA,Kumamoto -city,19,15,100,7,44,
+2026-10-14,ID001490,PT Sport Glove Indonesia ,PT SPORT,Tier 1/ATL,Equipment,Nike,Indonesia,S ASIA,Sleman,1874,1636,75,0,31,
+2026-10-14,VN003228,"DIN SEN VIETNAM (LONG AN) ENTERPRISE CO., LTD",EAGLE NICE,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Tay Ninh,2786,2221,85,0,38,Collegiate
+2026-10-14,VN001111,PRIME ASIA (VIETNAM),PRIME ASIA,Tier 2/BTL,Footwear,Nike,Vietnam,SE ASIA,VungTau,1428,940,0,0,32,
+2026-10-14,VN000570,"DONA VICTOR FOOTWEAR CO., LTD",FENG TAY,Tier 1/ATL,Footwear,Nike,Vietnam,SE ASIA,DONG NAI,10680,8613,71,0,39,Collegiate
+2026-10-14,VN000560,TKG TAEKWANG MOC BAI JOINT STOCK COMPANY,TAEKWANG,Tier 1/ATL,Footwear,Nike,Vietnam,SE ASIA,Tay Ninh,6522,6369,85,0,40,
+2026-10-14,KH001334,"Papillion Textile (Cambodia) Co., Ltd",TUNTEX,Tier 1/ATL,Apparel,Nike,Cambodia,SE ASIA,Phnom Penh,1260,1154,89,0,34,
+2026-10-14,CN002663,"Fujian Zhuojian Garment Technology Co., Ltd",FUJIAN ZHUOJIAN,Tier 1/ATL,Apparel,Nike,China,N ASIA,Quanzhou,99,89,67,0,39,
+2026-10-14,KH002381,"Hip Keung (Cambodia) Manufacturing Co., Ltd.",HIP KEUNG,Tier 1/ATL,Apparel,Nike,Cambodia,SE ASIA,Phnom Penh,879,854,74,2,25,
+2026-10-14,IN000150,East Wind Footwear Company Limited (India Branch) - Unit I,FENG TAY,Tier 1/ATL,Footwear,Nike,India,S ASIA,Chennai,4830,4638,63,0,33,
+2026-10-14,ID000235,PT Nikomas Gemilang,POU CHEN,Tier 1/ATL,Footwear,Nike,Indonesia,S ASIA,Serang,23522,19181,84,0,27,Collegiate
+2026-10-14,CN002536,"JINGNING XUANCHEN TECHNOLOGY CO., LTD.",JINGNING XUANCHEN TECHNOLOGY,Tier 1/ATL,Apparel,Nike,China,N ASIA,Lishui,59,52,94,0,45,
+2026-10-14,CN002471,"QINGDAO MAITE FITNESS EQUIPMENT CO.,LTD",QINGDAO MAITE,Tier 1/ATL,Equipment,Nike,China,N ASIA,Qingdao,17,9,11,0,40,
+2026-10-14,VN000077,"Unipax Co., Ltd",HWASEUNG CROWN,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Bien Hoa City,1999,1534,95,0,38,Collegiate
+2026-10-14,CN000843,DAE SUNG METAL CO LTD (CHINA),DAE SUNG METAL,Tier 2/BTL,Footwear,Nike,China,N ASIA,Dong Guan,160,69,65,0,42,
+2026-10-14,KR001138,SAMBU FINE CHEMICAL CO LTD (KOREA),SAMBU FINE CHEMICAL,Tier 2/BTL,Footwear,Nike,South Korea,N ASIA,Gyungnam,105,50,64,2,43,
+2026-10-14,TH003278,Pranda Jewelry Public Company Limited,PRANDA JEWELRY,Tier 1/ATL,Equipment,Nike,Thailand,SE ASIA,Bangna,1504,1024,61,1,39,
+2026-10-14,ID000250,PT Victory Chingluh Indonesia,CHING LUH,Tier 1/ATL,Footwear,Nike,Indonesia,S ASIA,Tangerang,11562,9585,71,0,34,
+2026-10-14,VN000550,"Dona Pacific (Vietnam) Co., Ltd.",FENG TAY,Tier 1/ATL,Footwear,Nike,Vietnam,SE ASIA,Dong Nai,7791,7105,62,0,37,
+2026-10-14,CN000352,Ningbo Bell Garment Industrial Co. Ltd,NINGBO BELL,Tier 1/ATL,Apparel,Nike,China,N ASIA,Ningbo,136,115,86,0,46,
+2026-10-14,VN000450,Viet Tien Garment Corporation,SOUTH ISLAND,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Ho Chi Minh,1503,1347,79,0,39,Collegiate
+2026-10-14,CN000893,EVEREST TEXTILES CHINA,EVEREST TEXTILE,Tier 2/BTL,Apparel,Nike,China,N ASIA,Shanghai,514,318,49,0,42,
+2026-10-14,ID000251,PT PRATAMA ABADI INDUSTRI,PRATAMA,Tier 1/ATL,Footwear,Nike,Indonesia,S ASIA,Sukabumi,17509,15554,83,0,27,Collegiate
+2026-10-14,VN001500,COSMO-E-MART NON-WOVEN COMPANY LIMITED,COSMOPOLITAN TEXTILE,Tier 2/BTL,Footwear,Nike,Vietnam,SE ASIA,Duc Hoa District,58,36,31,17,35,
+2026-10-14,CN003253,"DONGGUAN RICHWAY HANDBAG CO., LTD.",DONGGUAN RICHWAY,Tier 1/ATL,Apparel,Nike,China,N ASIA,Dongguan,115,100,64,0,47,
+2026-10-14,VN000911,FORMOSA TAFFETA VIETNAM CO LTD,FORMOSA TAFFETA,Tier 2/BTL,Apparel,Nike,Vietnam,SE ASIA,XA BINH DUC,1061,920,60,3,33,
+2026-10-14,CN003257,"Nanjing 3H Medical Products Co., Ltd.",NANJING 3H MEDICAL,Tier 1/ATL,Equipment,Nike,China,N ASIA,Nanjing ,670,360,60,0,38,
+2026-10-14,TR000599,Almaxtex Tekstil Sanayi ve Ticaret A.S.,YESIM,Tier 1/ATL,Apparel,Nike,Turkey,EMEA,Bursa,2261,1156,42,0,40,Collegiate
+2026-10-14,TW000814,"Chun Yu Ribbon ENT Co., Ltd.",CHI YANG RIBBON,Tier 2/BTL,Apparel,Nike,Taiwan,N ASIA,Changhua,129,109,83,24,42,
+2026-10-14,CN000154,"Walt Technology Group Co., Ltd.",ZHEJIANG WALT,Tier 1/ATL,Apparel,Nike,China,N ASIA,Haining,865,392,82,1,41,
+2026-10-14,CN000276,"Pinghu Lipai Bags and Luggage Co., Ltd.",PINGHU LIPAI,Tier 1/ATL,Apparel,Nike,China,N ASIA,Pinghu,190,158,92,0,44,
+2026-10-14,LK000315,MAS Fabrics (Private) Limited - Matrix,MAS HOLDINGS,Tier 2/BTL,Footwear,Nike,Sri Lanka,S ASIA,Warakapola,1483,1185,60,0,34,
+2026-10-14,VN000029,AURORA VIETNAM INDUSTRIAL FOOTWEAR CO. LTD,HUALI,Tier 1/ATL,Footwear,Converse,Vietnam,SE ASIA,HAI PHONG,4919,4335,89,0,42,
+2026-10-14,CN000527,RAMATEX INDUSTRIAL SUZHOU LTD,RAMATEX,Tier 1/ATL,Apparel,Nike,China,N ASIA,Suzhou,501,458,85,0,38,
+2026-10-14,KR000248,TKG ECO MATERIAL SYNTHETIC (TR1) (KOREA),TKG ECO MATERIAL,Tier 2/ATL,Footwear,Nike,South Korea,N ASIA,Gyeongsangnam do,150,68,12,0,49,
+2026-10-14,CN001088,"NINGBO SHENZHOU KNITTING CO., LTD",SHENZHOU,Tier 2/BTL,Apparel,Nike,China,N ASIA,Ningbo,5734,4981,37,0,37,Collegiate
+2026-10-14,BR000085,DASS NORDESTE CALÇADOS E ARTIGOS ESPORTIVOS LTDA,DASS,Tier 1/ATL,Footwear,Nike,Brazil,AMERICAS,Ivoti,44,22,86,0,44,
+2026-10-14,CN000777,"Avery Dennison (Suzhou) Co.,Ltd ",AVERY DENNISON,Tier 2/BTL,Apparel,Nike,China,N ASIA,Suzhou,731,520,56,0,35,
+2026-10-14,VN000927,GB LIGHT CO LTD (VIETNAM),GB LIGHT,Tier 2/BTL,Footwear,Nike,Vietnam,SE ASIA,Ho Chi Minh,49,23,0,0,33,
+2026-10-14,KH000424,Sabrina Cambodia Garment Manufacturing,SABRINA,Tier 1/ATL,Apparel,Nike,Cambodia,SE ASIA,Samrong Torng District,5887,4211,95,0,35,Collegiate
+2026-10-14,MD000022,Asena 4,YESIM,Tier 1/ATL,Apparel,Nike,Moldova,EMEA,"KONGAZ,COMRAT",670,537,97,0,43,Collegiate
+2026-10-14,PK002990,Interloop Limited Apparel Park,INTERLOOP,Tier 1/ATL,Equipment,Nike,Pakistan,S ASIA,Faisalabad,2273,1945,11,0,26,
+2026-10-14,CN002297,Guangzhou Yisetong Clothing Co.Ltd,GUANGZHOU YISETONG,Tier 1/ATL,Apparel,Nike,China,N ASIA,Guangzhou,5,4,50,0,35,
+2026-10-14,BR000208,Textil H.J.Hering Ltda,TEXTIL H.J. HERING,Tier 1/ATL,Apparel,Nike,Brazil,AMERICAS,Indaial,390,369,82,0,36,
+2026-10-14,TH000895,EVEREST TEXTILES THAILAND-V,EVEREST TEXTILE,Tier 2/BTL,Apparel,Nike,Thailand,SE ASIA,Banpong,502,281,46,10,41,
+2026-10-14,CN002574,"WUXI BROTHERS PACKAGING CO., LTD ","WUXI BROTHERS PACKAGING CO., LTD",Tier 1/ATL,Equipment,Nike,China,N ASIA,Wuxi,21,14,86,0,39,
+2026-10-14,IN000299,Fairway Enterprises Company Ltd (India Branch) - Unit 1,FENG TAY,Tier 1/ATL,Footwear,Nike,India,S ASIA,KRISHNAGIRI,5179,4159,61,0,32,
+2026-10-14,TW001022,JUNMAY LABEL (TAIWAN),JUNMAY LABEL,Tier 2/BTL,Footwear,Nike,Taiwan,N ASIA,Tainan,76,36,69,28,39,
+2026-10-14,MX000556,Vertical Knits S.A. de C.V. (MDC - Tizimin),VERTICAL KNITS,Tier 1/ATL,Apparel,Nike,Mexico,AMERICAS,Tizimin,952,731,65,0,28,Collegiate
+2026-10-14,MX002535,Vertical Knits S.A. de C.V. (MDC - Campeche),VERTICAL KNITS,Tier 1/ATL,Apparel,Nike,Mexico,AMERICAS,Colonial Campeche,468,372,76,0,34,
+2026-10-14,TW000591,YICHANE CO.LTD,YICHANE,Tier 1/ATL,Equipment,Nike,Taiwan,N ASIA,Tainan,27,16,75,0,48,
+2026-10-14,JP001038,KURARAY CO LTD (CLARINO) (TR1) (JAPAN),KURARAY,Tier 2/BTL,Footwear,Nike,Japan,N ASIA,Osaka,1700,1400,7,0,35,
+2026-10-14,VN002910,VIET NAM ARGENT OPTICAL LIMITED COMPANY,VIET NAM ARGENT OPTICAL,Tier 1/ATL,Equipment,Nike,Vietnam,SE ASIA,Binh Tuyen,263,202,75,0,34,
+2026-10-14,MX002323,Zentrix Huamantla,ZENTRIX,Tier 1/ATL,Apparel,Nike,Mexico,AMERICAS,Huamantla,1327,1134,70,0,39,
+2026-10-14,ID002932,PT DAH JU INDONESIA,DAH SHENG,Tier 2/BTL,Footwear,Nike,Indonesia,S ASIA,Kabupaten Cirebon,396,266,47,0,23,
+2026-10-14,KR000497,"TKG TAEKWANG INDUSTRY CO., LTD.",TAEKWANG,Tier 1/ATL,Footwear,Nike,South Korea,N ASIA,GIMHAE,925,310,58,2,47,
+2026-10-14,VN001099,ORTHOLITE VIETNAM CO LTD (VIETNAM),ORTHOLITE,Tier 2/BTL,Footwear,Nike,Vietnam,SE ASIA,Ho Chi Minh,994,893,53,0,29,
+2026-10-14,VN000178,Far Eastern New Apparel (Vietnam) Ltd (MDC),FAR EASTERN,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Dong Nai,3530,2530,76,42,31,Collegiate
+2026-10-14,TH000138,"Thai Sock Co., Ltd.",THAI SOCKS,Tier 1/ATL,Equipment,Nike,Thailand,SE ASIA,Prapradaeng,360,279,75,0,39,Collegiate
+2026-10-14,GT002306,Marbelys,MARBELYS,Tier 1/ATL,Apparel,Nike,Guatemala,AMERICAS,San Pedro Sacatepequez,134,128,57,0,23,
+2026-10-14,US003141,"Fanatics Licensed Sports Group, LLC. - Hoover",FANATICS,Tier 1/ATL,Apparel,Nike,USA,AMERICAS,Tampa,430,400,69,0,48,Collegiate
+2026-10-14,VN001251,"YKK VIETNAM CO., LTD",YKK,Tier 2/BTL,Apparel,Nike,Vietnam,SE ASIA,Dong Nai,2162,1971,66,0,32,
+2026-10-14,ID003011,PT. Dae Young Technology Indonesia,DAE YOUNG RUBBER,Tier 2/ATL,Footwear,Nike,Indonesia,S ASIA,Subang,232,208,59,1,28,
+2026-10-14,VN002377,"FASHION GARMENTS MEKONG CO., LTD",FASHION GARMENTS,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Tam Nong,1852,1702,76,0,28,
+2026-10-14,VN001342,PROMAX TEXTILE (VIETNAM) CO. LTD,PROMAX TEXTILE,Tier 2/BTL,Apparel,Nike,Vietnam,SE ASIA,Dong Nai,878,802,37,3,28,
+2026-10-14,LA002826,Hi-Tech Savannakhet Apparel Sole Company Limited,HI TECH,Tier 1/ATL,Apparel,Nike,Laos,SE ASIA,Phomvihane,276,204,100,7,27,
+2026-10-14,TH000205,"Hi-Tech Chaiyaphum Apparel (2020) Co.,Ltd.",HI TECH,Tier 1/ATL,Apparel,Nike,Thailand,SE ASIA,Muang,1007,739,85,45,36,Collegiate
+2026-10-14,TW000875,ECI ELASTIC CO LTD,ECI,Tier 2/ATL,Apparel,Nike,Taiwan,N ASIA,Changhua,148,88,58,40,42,Collegiate
+2026-10-14,TH001277,YRC TEXTILE,YRC TEXTILE,Tier 2/BTL,Apparel,Nike,Thailand,SE ASIA,Kratoomband,2686,2411,2,13,36,
+2026-10-14,VN000453,"Viet Hong Garment Export Co., Ltd.",SOUTH ISLAND,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Vinh Long,1484,1274,74,0,33,
+2026-10-14,CN002650,SIMONA TANNING (ZHONGSHAN) CO. LIMITED,SIMONA TANNING,Tier 2/BTL,Footwear,Nike,China,N ASIA,Zhongshan,176,135,41,1,45,
+2026-10-14,VN002928,VIETNAM JINTAI TEXTILE TECHNOLOGY COMPANY LIMITED,JOV GARMENT ACCESSORIAL MATERIAL,Tier 2/BTL,Apparel,Nike,Vietnam,SE ASIA,Tan Uyen,58,46,61,4,29,
+2026-10-14,VN000641,Longway Vietnam Company Limited,LONGWAY,Tier 1/ATL,Equipment,Nike,Vietnam,SE ASIA,Duc Lap,781,666,85,0,37,
+2026-10-14,TH001133,SADESA THAILAND (KABINBURI),SADESA,Tier 2/BTL,Footwear,Nike,Thailand,SE ASIA,Kabinburi,735,577,0,0,39,
+2026-10-14,KH001440,"MARVEL GARMENT CO.,LTD.",SHENZHOU,Tier 1/ATL,Apparel,Nike,Cambodia,SE ASIA,Phnom Penh,20064,18467,95,2,29,
+2026-10-14,TH003223,"Asia Caps (Thailand) Co., Ltd.",ASIA CAPS,Tier 1/ATL,Apparel,Nike,Thailand,SE ASIA,Bangkok,178,133,93,100,27,
+2026-10-14,ID001140,SAN FANG (TR1) (INDONESIA),SAN FANG,Tier 2/BTL,Footwear,Nike,Indonesia,S ASIA,"Serang , Banten",487,396,8,5,26,
+2026-10-14,MY001184,Ramatex Textiles Industrial Sdn Bhd,RAMATEX,Tier 2/BTL,Apparel,Nike,Malaysia,S ASIA,Johor,3678,3301,0,71,32,
+2026-10-14,ZA000548,VIMAL CLOTHING ENTERPRISE CC,VIMAL CLOTHING,Tier 1/ATL,Apparel,Nike,South Africa,EMEA,Durban,210,203,94,0,46,
+2026-10-14,VN000613,TKG TAEKWANG CAN THO COMPANY LIMITED,TAEKWANG,Tier 1/ATL,Footwear,Nike,Vietnam,SE ASIA,Cai Rang,14672,14277,65,0,28,
+2026-10-14,HN000180,GILDAN HOSIERY RIO NANCE S de R.L.,GILDAN,Tier 1/ATL,Equipment,Nike,Honduras,AMERICAS,Choloma,2247,2175,40,0,29,
+2026-10-14,BR000066,COOPERSHOES - COOPERATIVA DE TRABALHO E INDUSTRIA DE CALÇADOS JOANETENSE LTDA (Picada Café),COOPERSHOES,Tier 1/ATL,Footwear,Converse,Brazil,AMERICAS,Picada Cafe,494,180,71,0,36,
+2026-10-14,ID001502,DONGJIN (Indonesia),DONGJIN,Tier 2/BTL,Footwear,Nike,Indonesia,S ASIA,Karawang,463,357,7,0,30,
+2026-10-14,VN001390,"Maxim Label and Packaging Vietnam Co., Ltd",MAXIM,Tier 2/BTL,Apparel,Nike,Vietnam,SE ASIA,Thuan An,726,441,45,0,28,
+2026-10-14,VN001507,KUO YUEN (VIETNAM) TAY NINH,KUO YUEN,Tier 2/BTL,Footwear,Nike,Vietnam,SE ASIA,Trang Bang,445,385,51,0,37,
+2026-10-14,VN003458,PROMAX TEXTILE (VIETNAM) CO. LTD.  (FTY 2),PROMAX TEXTILE,Tier 2/BTL,Apparel,Nike,Vietnam,SE ASIA,Nhon Trach district,360,320,69,0,30,
+2026-10-14,IN000298,Lotus Footwear Enterprises Private Limited Unit-2,FENG TAY,Tier 1/ATL,Footwear,Nike,India,S ASIA,Near Kanchipuram,4641,4631,60,0,33,
+2026-10-14,IT000083,Diamant srl #2,DIAMANT,Tier 1/ATL,Footwear,Nike,Italy,EMEA,MONTEBELLUNA,58,50,80,4,41,
+2026-10-14,CN001193,PAIHO (DONGGUAN 3),PAIHO GROUP,Tier 2/BTL,Footwear,Nike,China,N ASIA,DONGGUAN,1800,950,58,0,35,
+2026-10-14,US000418,Ripon Athletic,RIPON,Tier 1/ATL,Apparel,Nike,USA,AMERICAS,Berlin,140,120,92,0,54,
+2026-10-14,CN000471,ShaoYang LianTai SQ HanShou Upper Facility,STELLA,Tier 2/ATL,Footwear,Nike,China,N ASIA,Chande City,1007,945,99,1,44,Collegiate
+2026-10-14,JO003281,"Jerash Garments and Fashions Manufacturing Co.Ltd, Al - Hasa Unit ","JERASH GARMENTS & FASHIONS, AL-HASA UNIT APPAREL",Tier 1/ATL,Apparel,Converse,Jordan,EMEA,Tafilah,474,432,92,8,25,
+2026-10-14,VN000899,FAR EASTERN POLYTEX (VIETNAM) LTD,FAR EASTERN,Tier 2/BTL,Apparel,Nike,Vietnam,SE ASIA,Bau Bang District,1101,476,30,0,29,Collegiate
+2026-10-14,ID000392,PT Mitra Garindo Perkasa,MAP,Tier 1/ATL,Apparel,Nike,Indonesia,S ASIA,Bogor,1089,935,92,0,34,
+2026-10-14,MX002383,DOG STYLE SA DE CV,DOG STYLE SA,Tier 1/ATL,Equipment,Nike,Mexico,AMERICAS,LEON GTO,173,147,56,0,32,
+2026-10-14,TH000332,NICE APPAREL COMPANY LIMITED,NICE APPAREL,Tier 1/ATL,Apparel,Nike,Thailand,SE ASIA,Mueang Nonthaburi,1291,854,68,57,21,Collegiate
+2026-10-14,SV003535,HanesBrands El Salvador Socks,GILDAN,Tier 1/ATL,Equipment,Nike,El Salvador,AMERICAS,SAN JUAN OPICO,2300,1318,47,0,29,
+2026-10-14,TH000203,"Hi-Tech Chai1 Co.,Ltd. ",HI TECH,Tier 1/ATL,Apparel,Nike,Thailand,SE ASIA,Muang,1092,973,67,22,37,
+2026-10-14,VN002012,"Ting Heng Co., Ltd",TING HENG,Tier 2/BTL,Footwear,Converse,Vietnam,SE ASIA,Duc Hoa,123,103,68,5,30,
+2026-10-14,TW000267,"LI CHENG ENTERPRISE CO.,LTD",LI CHENG ENTERPRISE,Tier 2/ATL,Footwear,Nike,Taiwan,N ASIA,Yun-Lin Hsien,360,211,47,36,35,
+2026-10-14,TH000204,"HI-TECH SURIN APPAREL (2020) CO., LTD (00001)",HI TECH,Tier 1/ATL,Apparel,Nike,Thailand,SE ASIA,Thatoom,778,695,73,0,37,Collegiate
+2026-10-14,CN000405,Quanzhou Unison Light Industrial Manufacturing Co. Ltd.,QUANZHOU UNISON LIGHT INDUSTRIAL,Tier 1/ATL,Apparel,Nike,China,N ASIA,Quanzhou,82,62,81,0,48,
+2026-10-14,JP003233,"EISHIN CO., LTD.",CROSTER,Tier 1/ATL,Equipment,Nike,Japan,N ASIA,Fukushima,85,77,66,0,45,
+2026-10-14,VN003472,Viet Duc Garment Branch - TNG Investment and Trading JSC,TNG,Tier 1/ATL,Apparel,Nike,Vietnam,SE ASIA,Thai Nguyen City,1272,1240,78,0,35,
+2026-10-14,BR000017,ANIGER CALCADOS SUPRIMENTOS E EMPREENDIMENTOS LTDA,ANIGER,Tier 1/ATL,Footwear,Nike,Brazil,AMERICAS,Campo Bom RS,480,164,30,1,43,
+2026-10-14,VN000149,EverTech Plastic Vietnam Company LTD Branch,EVER TECH,Tier 2/ATL,Footwear,Nike,Vietnam,SE ASIA,HO CHI MINH CITY,650,591,34,1,28,
+2026-10-14,JO001493,Ad Dulyal,MAS HOLDINGS,Tier 1/ATL,Apparel,Nike,Jordan,EMEA,Zarqa,1204,1043,84,86,30,
+2026-10-14,VN003297,"Lok Wah (Vietnam) Manufacturing Co., Ltd",LOK WAH,Tier 1/ATL,Equipment,Nike,Vietnam,SE ASIA,Ninh Binh,291,252,71,1,36,
+2026-10-14,KR000611,DUCKSAN ,DUCKSAN,Tier 2/ATL,Footwear,Nike,South Korea,N ASIA,Gyeonggi-do,29,24,17,8,50,
+2026-10-14,CN000482,"SUNNY JET HOSIERY CO., LIMITED",SUNNY JET,Tier 1/ATL,Apparel,Nike,China,N ASIA,YANGZHOU,220,146,92,0,45,
+2026-10-14,CN002426,Dongguan leefong label manufacture co ltd.,LEE BOU LABEL ENTERPRISE,Tier 1/ATL,Apparel,Nike,China,N ASIA,DONGGUAN,475,406,2,0,36,
+2026-10-14,IT000478,Styldea SRL,STYLDEA,Tier 1/ATL,Footwear,Converse,Italy,EMEA,Altivole,6,4,100,0,60,
+2026-10-14,IN001485,"AHP APPAREL PVT LTD., UNIT 60",SHAHI,Tier 1/ATL,Apparel,Nike,India,S ASIA,HASSAN,2704,906,95,0,28,Collegiate
+2026-10-14,VN000423,"framas Korea Vina Co., Ltd",FRAMAS,Tier 2/ATL,Footwear,Nike,Vietnam,SE ASIA,Dong Nai,679,380,41,0,32,
+2026-10-14,VN001213,TONG HONG TANNERY CO LTD (VIETNAM),TONG HONG,Tier 2/BTL,Footwear,Nike,Vietnam,SE ASIA,PHU MY,1310,1210,55,2,36,
+2026-10-14,VN000934,GOLD LONG JOHN (VIETNAM),GOLD LONG JOHN,Tier 2/ATL,Footwear,Nike,Vietnam,SE ASIA,Dong Nai,510,315,7,0,33,
+2026-10-14,CN003415,"Shenzhen Allwell Sports Products Manufacturing Co.,Ltd",SHENZHEN ALLWELL,Tier 1/ATL,Equipment,Nike,China,N ASIA,Shenzhen,93,63,43,0,39,
+2026-10-14,VN000616,VIRTUE KING VIETNAM COMPANY LIMITED,GUANG DER,Tier 1/ATL,Equipment,Nike,Vietnam,SE ASIA,Ho Chi Minh city,2064,1945,80,0,24,Collegiate
+2026-10-14,BR000056,DASS NORDESTE CALCADOS E ARTIGOS ESPORTIVOS LTDA.,CLASSICO,Tier 1/ATL,Apparel,Nike,Brazil,AMERICAS,Vitoria da Conquista,2415,1480,81,0,29,
+2026-10-14,CN000909,"FORMOSA TAFFETA (CHANGSHU) CO., LTD",FORMOSA TAFFETA,Tier 2/BTL,Apparel,Nike,China,N ASIA,Changshu,234,128,30,0,39,
+2026-10-14,TH000342,Nice Apparel Company Limited Branch Chumphae,NICE APPAREL,Tier 1/ATL,Apparel,Nike,Thailand,SE ASIA,Chumpae,3711,3629,71,0,36,Collegiate
+2026-10-14,VN000874,"Vietnam ECI Elastic Co., Ltd",ECI,Tier 2/BTL,Apparel,Nike,Vietnam,SE ASIA,Binh Duong Ward,264,219,65,5,34,
+2026-10-14,CN000584,Shoetown JinTan,SHOETOWN,Tier 1/ATL,Footwear,Nike,China,N ASIA,Qingyuan City,781,710,91,0,42,
+2026-10-14,VN000848,"DAEWON CHEMICAL VINA CO., LTD.",DAEWON,Tier 2/BTL,Footwear,Nike,Vietnam,SE ASIA,LONG THANH,370,210,67,0,33,
+2026-10-14,TW001351,YKK Taiwan Chung Li 3rd Factory,YKK,Tier 2/BTL,Footwear,Nike,Taiwan,N ASIA,Taoyuan,150,133,41,11,44,
+2026-10-14,CN002403,"QINGDAO HONGTAISHENGDA TRADE CO., LTD.","QINGDAO HONGTAISHENGDA TRADE CO., LTD.",Tier 2/ATL,Footwear,Nike,China,N ASIA,Qingdao,59,42,93,0,41,
+2026-10-14,ID000530,PT Trigoldenstar Wisesa,TRIGOLDENSTAR,Tier 1/ATL,Apparel,Nike,Indonesia,S ASIA,Karawang,131,105,93,0,35,
+2026-10-14,VN000569,"Vietnam Dona Standard Footwear Co., Ltd",FENG TAY,Tier 1/ATL,Footwear,Nike,Vietnam,SE ASIA,Dong Nai,18838,16456,69,0,35,

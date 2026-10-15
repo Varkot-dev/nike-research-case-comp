@@ -1,0 +1,15 @@
+ticker,period,call_date,source_url,words,nike_mentions,jordan_mentions,adidas_mentions,hoka_mentions,new_balance_mentions,asics_mentions,on_running_mentions,nike_per_10k,nike_sentences,nike_positive,nike_negative,nike_net_tone
+DKS,FY2025Q1,2025-05-28,https://www.fool.com/earnings/call-transcripts/2025/05/28/dicks-dks-q1-2025-earnings-call-transcript/,9640,12,0,0,0,0,0,0,12.45,10,3,0,3
+DKS,FY2025Q2,2025-08-28,https://www.fool.com/earnings/call-transcripts/2025/08/28/dicks-dks-q2-2025-earnings-call-transcript/,8950,2,0,0,0,0,0,2,2.23,2,1,0,1
+DKS,FY2025Q3,2025-11-25,https://www.fool.com/earnings/call-transcripts/2025/11/25/dicks-sporting-goods-dks-earnings-transcript/,10511,3,0,0,0,0,0,1,2.85,3,0,0,0
+DKS,FY2025Q4,2026-03-12,https://www.fool.com/earnings/call-transcripts/2026/03/12/dicks-dks-q4-2025-earnings-call-transcript/,8753,3,1,3,1,1,0,1,3.43,3,3,0,3
+DKS,FY2026Q1,2026-05-27,https://www.fool.com/earnings/call-transcripts/2026/05/27/dicks-dks-q1-2026-earnings-transcript/,8906,1,0,1,0,0,0,2,1.12,1,0,0,0
+DKS,FY2026Q2,2026-08-25,https://www.fool.com/earnings/call-transcripts/2026/09/01/dicks-sporting-goods-dks-q2-2026-earnings-call-transcript/,8774,10,0,4,2,0,0,4,11.4,9,8,0,8
+ASO,FY2023Q4,2024-03-21,https://www.fool.com/earnings/call-transcripts/2024/03/21/academy-sports-and-outdoors-aso-q4-2023-earnings-c/,11488,5,0,0,2,2,0,2,4.35,5,3,0,3
+ASO,FY2024Q1,2024-06-11,https://www.fool.com/earnings/call-transcripts/2024/06/11/academy-sports-and-outdoors-aso-q1-2024-earnings-c/,11711,5,0,1,3,3,0,5,4.27,5,2,0,2
+ASO,FY2024Q2,2024-09-10,https://www.fool.com/earnings/call-transcripts/2024/09/10/academy-sports-and-outdoors-aso-q2-2024-earnings-c/,10653,4,0,0,0,1,1,0,3.75,4,3,0,3
+ASO,FY2024Q3,2024-12-10,https://www.fool.com/earnings/call-transcripts/2024/12/10/academy-sports-and-outdoors-aso-q3-2024-earnings-c/,10493,7,0,0,0,0,0,2,6.67,7,2,0,2
+ASO,FY2024Q4,2025-03-20,https://www.fool.com/earnings/call-transcripts/2025/03/20/academy-sports-and-outdoors-aso-q4-2024-earnings-c/,10663,16,27,1,0,1,1,2,15.01,14,6,0,6
+ASO,FY2025Q4,2026-03-17,https://www.fool.com/earnings/call-transcripts/2026/03/17/academy-sports-aso-q4-2025-earnings-transcript/,9838,8,21,0,0,0,0,2,8.13,8,6,0,6
+ASO,FY2026Q1,2026-06-09,https://www.fool.com/earnings/call-transcripts/2026/06/09/academy-sports-aso-q1-2026-earnings-transcript/,10015,10,14,1,1,1,0,2,9.99,10,5,0,5
+ASO,FY2026Q2,2026-09-10,https://www.fool.com/earnings/call-transcripts/2026/09/10/academy-sports-aso-q2-2027-earnings-call-transcript/,10883,4,3,2,8,2,1,0,3.68,4,1,0,1

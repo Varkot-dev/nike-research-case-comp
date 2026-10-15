@@ -1,0 +1,315 @@
+company,year,quarter,metric,region,value,prior,yoy_reported_pct,yoy_cn_pct,unit,source,line
+adidas,2021,4,net_sales_region,EMEA,1832.0,1559.0,17.5,15.2,EUR m,20220309_adidas_ag_fy2021_results_en_a9jsso.txt,304
+adidas,2021,4,net_sales_region,North America,1303.0,1317.0,-1.1,-3.7,EUR m,20220309_adidas_ag_fy2021_results_en_a9jsso.txt,305
+adidas,2021,4,net_sales_region,Greater China,1037.0,1287.0,-19.4,-24.3,EUR m,20220309_adidas_ag_fy2021_results_en_a9jsso.txt,306
+adidas,2021,4,net_sales_region,Asia-Pacific,541.0,587.0,-7.8,-6.0,EUR m,20220309_adidas_ag_fy2021_results_en_a9jsso.txt,307
+adidas,2021,4,net_sales_region,Latin America,397.0,365.0,8.8,8.7,EUR m,20220309_adidas_ag_fy2021_results_en_a9jsso.txt,308
+adidas,2021,4,net_sales_region,Other Businesses,28.0,27.0,3.6,4.1,EUR m,20220309_adidas_ag_fy2021_results_en_a9jsso.txt,309
+adidas,2021,4,net_sales,Total,5137.0,5142.0,-0.1,,EUR m,20220309_adidas_ag_fy2021_results_en_a9jsso.txt,258
+adidas,2021,4,gross_profit,Total,2519.0,2526.0,-0.3,,EUR m,20220309_adidas_ag_fy2021_results_en_a9jsso.txt,260
+adidas,2021,4,inventory,Total,4009.0,4397.0,-8.8,,EUR m,20220309_adidas_ag_fy2021_results_en_a9jsso.txt,386
+adidas,2022,4,net_sales_region,EMEA,2073.0,1832.0,13.2,12.2,EUR m,20230308_adidas_ag_fy2022_results_en_xdfsuy.txt,292
+adidas,2022,4,net_sales_region,North America,1540.0,1303.0,18.3,6.0,EUR m,20230308_adidas_ag_fy2022_results_en_xdfsuy.txt,293
+adidas,2022,4,net_sales_region,Greater China,520.0,1037.0,-49.9,-49.7,EUR m,20230308_adidas_ag_fy2022_results_en_xdfsuy.txt,294
+adidas,2022,4,net_sales_region,Asia-Pacific,606.0,541.0,12.0,16.2,EUR m,20230308_adidas_ag_fy2022_results_en_xdfsuy.txt,295
+adidas,2022,4,net_sales_region,Latin America,544.0,397.0,37.1,47.2,EUR m,20230308_adidas_ag_fy2022_results_en_xdfsuy.txt,296
+adidas,2022,4,net_sales_region,Other Businesses,39.0,28.0,41.0,41.6,EUR m,20230308_adidas_ag_fy2022_results_en_xdfsuy.txt,297
+adidas,2022,4,net_sales,Total,5205.0,5137.0,1.3,,EUR m,20230308_adidas_ag_fy2022_results_en_xdfsuy.txt,247
+adidas,2022,4,gross_profit,Total,2035.0,2519.0,-19.2,,EUR m,20230308_adidas_ag_fy2022_results_en_xdfsuy.txt,249
+adidas,2022,4,inventory,Total,5973.0,4009.0,49.0,,EUR m,20230308_adidas_ag_fy2022_results_en_xdfsuy.txt,369
+adidas,2024,4,net_sales_region,Europe,1754.0,1389.0,26.2,25.0,EUR m,adidasAG_FY_2024_Results_EN_vf_ptevlo.txt,464
+adidas,2024,4,net_sales_region,North America,1342.0,1159.0,15.7,14.7,EUR m,adidasAG_FY_2024_Results_EN_vf_ptevlo.txt,465
+adidas,2024,4,net_sales_region,Greater China,794.0,670.0,18.4,16.1,EUR m,adidasAG_FY_2024_Results_EN_vf_ptevlo.txt,466
+adidas,2024,4,net_sales_region,Emerging Markets,940.0,744.0,26.3,20.8,EUR m,adidasAG_FY_2024_Results_EN_vf_ptevlo.txt,467
+adidas,2024,4,net_sales_region,Latin America,807.0,479.0,68.5,31.4,EUR m,adidasAG_FY_2024_Results_EN_vf_ptevlo.txt,468
+adidas,2024,4,net_sales_region,Japan/South Korea,318.0,302.0,5.3,8.9,EUR m,adidasAG_FY_2024_Results_EN_vf_ptevlo.txt,469
+adidas,2024,4,net_sales_region,Other Businesses,19.0,33.0,-42.0,-42.6,EUR m,adidasAG_FY_2024_Results_EN_vf_ptevlo.txt,470
+adidas,2024,4,net_sales,Total,5965.0,4812.0,24.0,,EUR m,adidasAG_FY_2024_Results_EN_vf_ptevlo.txt,417
+adidas,2024,4,gross_profit,Total,2970.0,2147.0,38.3,,EUR m,adidasAG_FY_2024_Results_EN_vf_ptevlo.txt,419
+adidas,2024,4,inventory,Total,4989.0,4525.0,10.3,,EUR m,adidasAG_FY_2024_Results_EN_vf_ptevlo.txt,552
+adidas,2025,4,net_sales_region,Europe,1825.0,1754.0,4.0,5.0,EUR m,adidasAG_FY_2025_Results_EN_Final_tb9z6m.txt,672
+adidas,2025,4,net_sales_region,North America,1266.0,1342.0,-6.0,3.0,EUR m,adidasAG_FY_2025_Results_EN_Final_tb9z6m.txt,673
+adidas,2025,4,net_sales_region,Greater China,848.0,794.0,7.0,15.0,EUR m,adidasAG_FY_2025_Results_EN_Final_tb9z6m.txt,674
+adidas,2025,4,net_sales_region,Emerging Markets,943.0,940.0,0.0,15.0,EUR m,adidasAG_FY_2025_Results_EN_Final_tb9z6m.txt,675
+adidas,2025,4,net_sales_region,Latin America,835.0,807.0,3.0,18.0,EUR m,adidasAG_FY_2025_Results_EN_Final_tb9z6m.txt,676
+adidas,2025,4,net_sales_region,Japan/South Korea,319.0,318.0,0.0,13.0,EUR m,adidasAG_FY_2025_Results_EN_Final_tb9z6m.txt,677
+adidas,2025,4,net_sales_region,Other Businesses,16.0,19.0,-18.0,-15.0,EUR m,adidasAG_FY_2025_Results_EN_Final_tb9z6m.txt,678
+adidas,2025,4,net_sales,Total,24811.0,23683.0,4.8,,EUR m,adidasAG_FY_2025_Results_EN_Final_tb9z6m.txt,518
+adidas,2025,4,gross_profit,Total,12804.0,12026.0,6.5,,EUR m,adidasAG_FY_2025_Results_EN_Final_tb9z6m.txt,520
+adidas,2025,4,inventory,Total,5832.0,4989.0,16.9,,EUR m,adidasAG_FY_2025_Results_EN_Final_tb9z6m.txt,714
+adidas,2024,1,net_sales_region,Europe,1733.0,1509.0,14.8,13.8,EUR m,adidasAG_Q1_2024Results_EN_final_yzkso8.txt,264
+adidas,2024,1,net_sales_region,North America,1122.0,1177.0,-4.7,-3.6,EUR m,adidasAG_Q1_2024Results_EN_final_yzkso8.txt,265
+adidas,2024,1,net_sales_region,Greater China,897.0,884.0,1.5,7.8,EUR m,adidasAG_Q1_2024Results_EN_final_yzkso8.txt,266
+adidas,2024,1,net_sales_region,Emerging Markets,712.0,672.0,5.9,16.8,EUR m,adidasAG_Q1_2024Results_EN_final_yzkso8.txt,267
+adidas,2024,1,net_sales_region,Latin America,615.0,595.0,3.3,17.6,EUR m,adidasAG_Q1_2024Results_EN_final_yzkso8.txt,268
+adidas,2024,1,net_sales_region,Japan/South Korea,339.0,347.0,-2.1,7.5,EUR m,adidasAG_Q1_2024Results_EN_final_yzkso8.txt,269
+adidas,2024,1,net_sales_region,Other Businesses,32.0,80.0,-60.0,-55.6,EUR m,adidasAG_Q1_2024Results_EN_final_yzkso8.txt,270
+adidas,2024,1,net_sales,Total,5458.0,5274.0,3.5,,EUR m,adidasAG_Q1_2024Results_EN_final_yzkso8.txt,217
+adidas,2024,1,gross_profit,Total,2796.0,2363.0,18.3,,EUR m,adidasAG_Q1_2024Results_EN_final_yzkso8.txt,219
+adidas,2024,1,inventory,Total,4427.0,5675.0,-22.0,,EUR m,adidasAG_Q1_2024Results_EN_final_yzkso8.txt,287
+adidas,2025,1,net_sales_region,Europe,1986.0,1733.0,14.6,14.0,EUR m,adidasAG_Q1_2025_Results_EN_Final_mju03h.txt,316
+adidas,2025,1,net_sales_region,North America,1184.0,1122.0,5.5,2.8,EUR m,adidasAG_Q1_2025_Results_EN_Final_mju03h.txt,317
+adidas,2025,1,net_sales_region,Greater China,1029.0,897.0,14.7,12.7,EUR m,adidasAG_Q1_2025_Results_EN_Final_mju03h.txt,318
+adidas,2025,1,net_sales_region,Emerging Markets,870.0,712.0,22.3,23.4,EUR m,adidasAG_Q1_2025_Results_EN_Final_mju03h.txt,319
+adidas,2025,1,net_sales_region,Latin America,698.0,615.0,13.5,26.2,EUR m,adidasAG_Q1_2025_Results_EN_Final_mju03h.txt,320
+adidas,2025,1,net_sales_region,Japan/South Korea,374.0,339.0,10.2,12.8,EUR m,adidasAG_Q1_2025_Results_EN_Final_mju03h.txt,321
+adidas,2025,1,net_sales_region,Other Businesses,21.0,29.0,-28.0,-28.2,EUR m,adidasAG_Q1_2025_Results_EN_Final_mju03h.txt,322
+adidas,2025,1,net_sales,Total,6153.0,5458.0,12.7,,EUR m,adidasAG_Q1_2025_Results_EN_Final_mju03h.txt,269
+adidas,2025,1,gross_profit,Total,3205.0,2796.0,14.6,,EUR m,adidasAG_Q1_2025_Results_EN_Final_mju03h.txt,271
+adidas,2025,1,inventory,Total,5072.0,4427.0,14.6,,EUR m,adidasAG_Q1_2025_Results_EN_Final_mju03h.txt,338
+adidas,2026,1,net_sales_region,Europe,2090.0,1986.0,5.0,6.0,EUR m,adidasAG_Q1_2026_Results_EN_Final_vkqpi2.txt,139
+adidas,2026,1,net_sales_region,North America,1200.0,1184.0,1.0,12.0,EUR m,adidasAG_Q1_2026_Results_EN_Final_vkqpi2.txt,140
+adidas,2026,1,net_sales_region,Greater China,1135.0,1029.0,10.0,17.0,EUR m,adidasAG_Q1_2026_Results_EN_Final_vkqpi2.txt,141
+adidas,2026,1,net_sales_region,Emerging Markets,869.0,870.0,-0.0,10.0,EUR m,adidasAG_Q1_2026_Results_EN_Final_vkqpi2.txt,142
+adidas,2026,1,net_sales_region,Latin America,831.0,698.0,19.0,26.0,EUR m,adidasAG_Q1_2026_Results_EN_Final_vkqpi2.txt,143
+adidas,2026,1,net_sales_region,Japan/South Korea,405.0,374.0,8.0,23.0,EUR m,adidasAG_Q1_2026_Results_EN_Final_vkqpi2.txt,144
+adidas,2026,1,net_sales,Total,6592.0,6153.0,7.1,,EUR m,adidasAG_Q1_2026_Results_EN_Final_vkqpi2.txt,313
+adidas,2026,1,gross_profit,Total,3369.0,3205.0,5.1,,EUR m,adidasAG_Q1_2026_Results_EN_Final_vkqpi2.txt,315
+adidas,2026,1,inventory,Total,5788.0,5072.0,14.1,,EUR m,adidasAG_Q1_2026_Results_EN_Final_vkqpi2.txt,409
+adidas,2024,2,net_sales_region,Europe,1912.0,1592.0,20.1,19.4,EUR m,adidasAG_Q2_2024_Results_EN_fxihuh.txt,304
+adidas,2024,2,net_sales_region,North America,1302.0,1399.0,-6.9,-7.7,EUR m,adidasAG_Q2_2024_Results_EN_fxihuh.txt,305
+adidas,2024,2,net_sales_region,Greater China,822.0,766.0,7.4,9.3,EUR m,adidasAG_Q2_2024_Results_EN_fxihuh.txt,306
+adidas,2024,2,net_sales_region,Emerging Markets,749.0,600.0,24.9,24.6,EUR m,adidasAG_Q2_2024_Results_EN_fxihuh.txt,307
+adidas,2024,2,net_sales_region,Latin America,673.0,596.0,12.8,32.6,EUR m,adidasAG_Q2_2024_Results_EN_fxihuh.txt,308
+adidas,2024,2,net_sales_region,Japan/South Korea,321.0,326.0,-1.8,5.8,EUR m,adidasAG_Q2_2024_Results_EN_fxihuh.txt,309
+adidas,2024,2,net_sales_region,Other Businesses,23.0,48.0,-51.5,-51.3,EUR m,adidasAG_Q2_2024_Results_EN_fxihuh.txt,310
+adidas,2024,2,net_sales,Total,5822.0,5343.0,8.9,,EUR m,adidasAG_Q2_2024_Results_EN_fxihuh.txt,257
+adidas,2024,2,gross_profit,Total,2959.0,2719.0,8.8,,EUR m,adidasAG_Q2_2024_Results_EN_fxihuh.txt,259
+adidas,2024,2,inventory,Total,4544.0,5540.0,-18.0,,EUR m,adidasAG_Q2_2024_Results_EN_fxihuh.txt,393
+adidas,2026,2,net_sales_region,Europe,2108.0,1997.0,6.0,6.0,EUR m,adidasAG_Q2_2026_Results_EN_Final_z7f9t2.txt,177
+adidas,2026,2,net_sales_region,North America,1522.0,1339.0,14.0,17.0,EUR m,adidasAG_Q2_2026_Results_EN_Final_z7f9t2.txt,178
+adidas,2026,2,net_sales_region,Greater China,953.0,798.0,19.0,15.0,EUR m,adidasAG_Q2_2026_Results_EN_Final_z7f9t2.txt,179
+adidas,2026,2,net_sales_region,Emerging Markets,848.0,762.0,11.0,12.0,EUR m,adidasAG_Q2_2026_Results_EN_Final_z7f9t2.txt,180
+adidas,2026,2,net_sales_region,Latin America,907.0,673.0,35.0,28.0,EUR m,adidasAG_Q2_2026_Results_EN_Final_z7f9t2.txt,181
+adidas,2026,2,net_sales_region,Japan/South Korea,376.0,355.0,6.0,18.0,EUR m,adidasAG_Q2_2026_Results_EN_Final_z7f9t2.txt,182
+adidas,2026,2,net_sales,Total,6743.0,5952.0,13.3,,EUR m,adidasAG_Q2_2026_Results_EN_Final_z7f9t2.txt,452
+adidas,2026,2,gross_profit,Total,3540.0,3077.0,15.0,,EUR m,adidasAG_Q2_2026_Results_EN_Final_z7f9t2.txt,454
+adidas,2026,2,inventory,Total,5969.0,5261.0,13.5,,EUR m,adidasAG_Q2_2026_Results_EN_Final_z7f9t2.txt,636
+adidas,2024,3,net_sales_region,Europe,2152.0,1812.0,18.8,18.1,EUR m,adidasAG_Q3_2024_Results_EN_final_aqkvyz.txt,304
+adidas,2024,3,net_sales_region,North America,1362.0,1484.0,-8.3,-7.3,EUR m,adidasAG_Q3_2024_Results_EN_final_aqkvyz.txt,305
+adidas,2024,3,net_sales_region,Greater China,946.0,870.0,8.7,8.9,EUR m,adidasAG_Q3_2024_Results_EN_final_aqkvyz.txt,306
+adidas,2024,3,net_sales_region,Emerging Markets,910.0,834.0,9.1,16.2,EUR m,adidasAG_Q3_2024_Results_EN_final_aqkvyz.txt,307
+adidas,2024,3,net_sales_region,Latin America,677.0,621.0,9.1,28.4,EUR m,adidasAG_Q3_2024_Results_EN_final_aqkvyz.txt,308
+adidas,2024,3,net_sales_region,Japan/South Korea,361.0,318.0,13.5,18.1,EUR m,adidasAG_Q3_2024_Results_EN_final_aqkvyz.txt,309
+adidas,2024,3,net_sales_region,Other Businesses,29.0,38.0,-22.1,-27.8,EUR m,adidasAG_Q3_2024_Results_EN_final_aqkvyz.txt,310
+adidas,2024,3,net_sales,Total,6438.0,5999.0,7.3,,EUR m,adidasAG_Q3_2024_Results_EN_final_aqkvyz.txt,257
+adidas,2024,3,gross_profit,Total,3301.0,2955.0,11.7,,EUR m,adidasAG_Q3_2024_Results_EN_final_aqkvyz.txt,259
+adidas,2024,3,inventory,Total,4524.0,4849.0,-6.7,,EUR m,adidasAG_Q3_2024_Results_EN_final_aqkvyz.txt,394
+adidas,2023,4,net_sales_region,EMEA,1863.0,2073.0,-10.1,-7.0,EUR m,adidas_ag_fy2023_results_en_final_bmt7gz.txt,499
+adidas,2023,4,net_sales_region,North America,1159.0,1542.0,-24.8,-20.6,EUR m,adidas_ag_fy2023_results_en_final_bmt7gz.txt,500
+adidas,2023,4,net_sales_region,Greater China,670.0,520.0,29.0,36.8,EUR m,adidas_ag_fy2023_results_en_final_bmt7gz.txt,501
+adidas,2023,4,net_sales_region,Asia-Pacific,570.0,606.0,-6.0,-0.1,EUR m,adidas_ag_fy2023_results_en_final_bmt7gz.txt,502
+adidas,2023,4,net_sales_region,Latin America,479.0,542.0,-11.7,1.0,EUR m,adidas_ag_fy2023_results_en_final_bmt7gz.txt,503
+adidas,2023,4,net_sales_region,Other Businesses,35.0,39.0,-11.3,-10.2,EUR m,adidas_ag_fy2023_results_en_final_bmt7gz.txt,504
+adidas,2023,4,net_sales,Total,4812.0,5205.0,-7.6,,EUR m,adidas_ag_fy2023_results_en_final_bmt7gz.txt,451
+adidas,2023,4,gross_profit,Total,2147.0,2035.0,5.5,,EUR m,adidas_ag_fy2023_results_en_final_bmt7gz.txt,453
+adidas,2023,4,inventory,Total,4525.0,5973.0,-24.3,,EUR m,adidas_ag_fy2023_results_en_final_bmt7gz.txt,588
+adidas,2017,4,net_sales_region,North America,1175.0,969.0,21.3,30.8,EUR m,adidasag_2017fyresults_en_final_g9zwep.txt,295
+adidas,2017,4,net_sales_region,Greater China,922.0,741.0,24.4,31.7,EUR m,adidasag_2017fyresults_en_final_g9zwep.txt,296
+adidas,2017,4,net_sales_region,Russia/CIS,146.0,175.0,-16.2,-13.9,EUR m,adidasag_2017fyresults_en_final_g9zwep.txt,297
+adidas,2017,4,net_sales_region,Latin America,510.0,471.0,8.3,18.6,EUR m,adidasag_2017fyresults_en_final_g9zwep.txt,298
+adidas,2017,4,net_sales_region,Other Businesses,152.0,149.0,1.9,7.2,EUR m,adidasag_2017fyresults_en_final_g9zwep.txt,301
+adidas,2017,4,net_sales,Total,5056.0,4500.0,12.4,,EUR m,adidasag_2017fyresults_en_final_g9zwep.txt,257
+adidas,2017,4,gross_profit,Total,2613.0,2226.0,17.4,,EUR m,adidasag_2017fyresults_en_final_g9zwep.txt,259
+adidas,2017,4,inventory,Total,3692.0,3763.0,-1.9,,EUR m,adidasag_2017fyresults_en_final_g9zwep.txt,390
+adidas,2017,1,net_sales_region,North America,988.0,728.0,35.8,30.6,EUR m,adidasag_2017q1results_en_nnfmj9.txt,181
+adidas,2017,1,net_sales_region,Greater China,990.0,762.0,29.9,30.3,EUR m,adidasag_2017q1results_en_nnfmj9.txt,182
+adidas,2017,1,net_sales_region,Russia/CIS,160.0,138.0,16.0,-9.8,EUR m,adidasag_2017q1results_en_nnfmj9.txt,183
+adidas,2017,1,net_sales_region,Latin America,454.0,394.0,15.4,8.7,EUR m,adidasag_2017q1results_en_nnfmj9.txt,184
+adidas,2017,1,net_sales_region,Other Businesses,421.0,396.0,6.2,3.9,EUR m,adidasag_2017q1results_en_nnfmj9.txt,187
+adidas,2017,1,net_sales,Total,5671.0,4769.0,18.9,,EUR m,adidasag_2017q1results_en_nnfmj9.txt,142
+adidas,2017,1,gross_profit,Total,2790.0,2358.0,18.3,,EUR m,adidasag_2017q1results_en_nnfmj9.txt,146
+adidas,2017,1,inventory,Total,3609.0,2939.0,22.8,,EUR m,adidasag_2017q1results_en_nnfmj9.txt,213
+adidas,2017,2,net_sales_region,North America,1014.0,788.0,28.7,25.8,EUR m,adidasag_2017q2results_final_i1jqx5.txt,235
+adidas,2017,2,net_sales_region,Greater China,865.0,685.0,26.3,27.7,EUR m,adidasag_2017q2results_final_i1jqx5.txt,236
+adidas,2017,2,net_sales_region,Russia/CIS,181.0,172.0,5.2,-10.7,EUR m,adidasag_2017q2results_final_i1jqx5.txt,237
+adidas,2017,2,net_sales_region,Latin America,441.0,379.0,16.4,13.9,EUR m,adidasag_2017q2results_final_i1jqx5.txt,238
+adidas,2017,2,net_sales_region,Other Businesses,198.0,155.0,27.6,26.7,EUR m,adidasag_2017q2results_final_i1jqx5.txt,241
+adidas,2017,2,net_sales,Total,5038.0,4199.0,20.0,,EUR m,adidasag_2017q2results_final_i1jqx5.txt,194
+adidas,2017,2,gross_profit,Total,2525.0,2074.0,21.7,,EUR m,adidasag_2017q2results_final_i1jqx5.txt,198
+adidas,2017,2,inventory,Total,3644.0,3514.0,3.7,,EUR m,adidasag_2017q2results_final_i1jqx5.txt,333
+adidas,2017,3,net_sales_region,North America,1099.0,927.0,18.5,22.7,EUR m,adidasag_2017q3results_en_rdwlne.txt,212
+adidas,2017,3,net_sales_region,Greater China,1012.0,822.0,23.1,28.3,EUR m,adidasag_2017q3results_en_rdwlne.txt,213
+adidas,2017,3,net_sales_region,Russia/CIS,173.0,195.0,-11.1,-16.7,EUR m,adidasag_2017q3results_en_rdwlne.txt,214
+adidas,2017,3,net_sales_region,Latin America,502.0,487.0,3.0,8.4,EUR m,adidasag_2017q3results_en_rdwlne.txt,215
+adidas,2017,3,net_sales_region,Other Businesses,192.0,175.0,9.9,13.7,EUR m,adidasag_2017q3results_en_rdwlne.txt,218
+adidas,2017,3,net_sales,Total,5677.0,5222.0,8.7,,EUR m,adidasag_2017q3results_en_rdwlne.txt,173
+adidas,2017,3,gross_profit,Total,2864.0,2510.0,14.1,,EUR m,adidasag_2017q3results_en_rdwlne.txt,177
+adidas,2017,3,inventory,Total,3441.0,3203.0,7.4,,EUR m,adidasag_2017q3results_en_rdwlne.txt,305
+adidas,2018,4,net_sales_region,Europe,1216.0,1292.0,-5.9,-5.7,EUR m,adidasag_2018fyresults_final_en_didfkl.txt,291
+adidas,2018,4,net_sales_region,North America,1297.0,1175.0,10.4,8.6,EUR m,adidasag_2018fyresults_final_en_didfkl.txt,292
+adidas,2018,4,net_sales_region,Asia-Pacific,1665.0,1500.0,11.0,10.7,EUR m,adidasag_2018fyresults_final_en_didfkl.txt,293
+adidas,2018,4,net_sales_region,Russia/CIS,132.0,146.0,-9.8,-1.9,EUR m,adidasag_2018fyresults_final_en_didfkl.txt,294
+adidas,2018,4,net_sales_region,Latin America,447.0,510.0,-12.5,-1.2,EUR m,adidasag_2018fyresults_final_en_didfkl.txt,295
+adidas,2018,4,net_sales_region,Emerging Markets,256.0,280.0,-8.7,-5.3,EUR m,adidasag_2018fyresults_final_en_didfkl.txt,296
+adidas,2018,4,net_sales_region,Other Businesses,221.0,152.0,45.4,42.5,EUR m,adidasag_2018fyresults_final_en_didfkl.txt,297
+adidas,2018,4,net_sales,Total,5234.0,5056.0,3.5,,EUR m,adidasag_2018fyresults_final_en_didfkl.txt,249
+adidas,2018,4,gross_profit,Total,2732.0,2613.0,4.6,,EUR m,adidasag_2018fyresults_final_en_didfkl.txt,252
+adidas,2018,4,inventory,Total,3445.0,3692.0,-6.7,,EUR m,adidasag_2018fyresults_final_en_didfkl.txt,394
+adidas,2018,1,net_sales_region,North America,1040.0,988.0,5.3,21.1,EUR m,adidasag_2018q1results_en_gi6gby.txt,168
+adidas,2018,1,net_sales_region,Russia/CIS,119.0,160.0,-25.5,-16.4,EUR m,adidasag_2018q1results_en_gi6gby.txt,170
+adidas,2018,1,net_sales_region,Latin America,430.0,454.0,-5.3,10.5,EUR m,adidasag_2018q1results_en_gi6gby.txt,171
+adidas,2018,1,net_sales_region,Emerging Markets,308.0,367.0,-16.0,-5.4,EUR m,adidasag_2018q1results_en_gi6gby.txt,172
+adidas,2018,1,net_sales_region,Other Businesses,190.0,197.0,-3.4,2.8,EUR m,adidasag_2018q1results_en_gi6gby.txt,173
+adidas,2018,1,net_sales,Total,5548.0,5447.0,1.9,,EUR m,adidasag_2018q1results_en_gi6gby.txt,127
+adidas,2018,1,gross_profit,Total,2835.0,2702.0,4.9,,EUR m,adidasag_2018q1results_en_gi6gby.txt,132
+adidas,2018,1,inventory,Total,3224.0,3609.0,-10.7,,EUR m,adidasag_2018q1results_en_gi6gby.txt,197
+adidas,2018,2,net_sales_region,North America,1082.0,1014.0,6.8,15.6,EUR m,adidasag_2018q2results_en_ws12f1.txt,214
+adidas,2018,2,net_sales_region,Asia-Pacific,1726.0,1495.0,15.4,18.8,EUR m,adidasag_2018q2results_en_ws12f1.txt,215
+adidas,2018,2,net_sales_region,Latin America,416.0,441.0,-5.6,14.7,EUR m,adidasag_2018q2results_en_ws12f1.txt,216
+adidas,2018,2,net_sales_region,Emerging Markets,251.0,277.0,-9.2,1.5,EUR m,adidasag_2018q2results_en_ws12f1.txt,217
+adidas,2018,2,net_sales_region,Russia/CIS,177.0,181.0,-1.7,14.1,EUR m,adidasag_2018q2results_en_ws12f1.txt,218
+adidas,2018,2,net_sales_region,Other Businesses,188.0,198.0,-4.9,-1.5,EUR m,adidasag_2018q2results_en_ws12f1.txt,219
+adidas,2018,2,net_sales,Total,5261.0,5038.0,4.4,,EUR m,adidasag_2018q2results_en_ws12f1.txt,175
+adidas,2018,2,gross_profit,Total,2751.0,2525.0,9.0,,EUR m,adidasag_2018q2results_en_ws12f1.txt,179
+adidas,2018,2,inventory,Total,3425.0,3644.0,-6.0,,EUR m,adidasag_2018q2results_en_ws12f1.txt,303
+adidas,2018,3,net_sales_region,North America,1269.0,1099.0,15.5,16.5,EUR m,adidasag_2018q3results_en_q58ee5.txt,202
+adidas,2018,3,net_sales_region,Asia-Pacific,1894.0,1664.0,13.8,15.2,EUR m,adidasag_2018q3results_en_q58ee5.txt,203
+adidas,2018,3,net_sales_region,Latin America,340.0,502.0,-32.2,-0.4,EUR m,adidasag_2018q3results_en_q58ee5.txt,204
+adidas,2018,3,net_sales_region,Emerging Markets,329.0,376.0,-12.6,-2.4,EUR m,adidasag_2018q3results_en_q58ee5.txt,205
+adidas,2018,3,net_sales_region,Russia/CIS,166.0,173.0,-4.3,6.5,EUR m,adidasag_2018q3results_en_q58ee5.txt,206
+adidas,2018,3,net_sales_region,Other Businesses,230.0,192.0,19.8,20.0,EUR m,adidasag_2018q3results_en_q58ee5.txt,207
+adidas,2018,3,net_sales,Total,5873.0,5677.0,3.5,,EUR m,adidasag_2018q3results_en_q58ee5.txt,163
+adidas,2018,3,gross_profit,Total,3044.0,2864.0,6.3,,EUR m,adidasag_2018q3results_en_q58ee5.txt,168
+adidas,2018,3,inventory,Total,3216.0,3441.0,-6.5,,EUR m,adidasag_2018q3results_en_q58ee5.txt,292
+adidas,2019,4,net_sales_region,Europe,1401.0,1216.0,15.2,14.3,EUR m,adidasag_2019fyresults_en_final_qtr4ei.txt,304
+adidas,2019,4,net_sales_region,North America,1475.0,1297.0,13.7,10.0,EUR m,adidasag_2019fyresults_en_final_qtr4ei.txt,305
+adidas,2019,4,net_sales_region,Asia-Pacific,1930.0,1665.0,15.9,13.3,EUR m,adidasag_2019fyresults_en_final_qtr4ei.txt,306
+adidas,2019,4,net_sales_region,Russia/CIS,153.0,132.0,15.5,6.0,EUR m,adidasag_2019fyresults_en_final_qtr4ei.txt,307
+adidas,2019,4,net_sales_region,Latin America,476.0,447.0,6.5,21.7,EUR m,adidasag_2019fyresults_en_final_qtr4ei.txt,308
+adidas,2019,4,net_sales_region,Emerging Markets,303.0,256.0,18.3,13.4,EUR m,adidasag_2019fyresults_en_final_qtr4ei.txt,309
+adidas,2019,4,net_sales_region,Other Businesses,101.0,221.0,-54.4,-54.9,EUR m,adidasag_2019fyresults_en_final_qtr4ei.txt,310
+adidas,2019,4,net_sales,Total,5838.0,5234.0,11.5,,EUR m,adidasag_2019fyresults_en_final_qtr4ei.txt,261
+adidas,2019,4,gross_profit,Total,2858.0,2732.0,4.6,,EUR m,adidasag_2019fyresults_en_final_qtr4ei.txt,265
+adidas,2019,4,inventory,Total,4085.0,3445.0,18.6,,EUR m,adidasag_2019fyresults_en_final_qtr4ei.txt,411
+adidas,2019,1,net_sales_region,Europe,1551.0,1603.0,-3.3,-3.2,EUR m,adidasag_q12019results_final_en_r0p4ls.txt,182
+adidas,2019,1,net_sales_region,North America,1157.0,1040.0,11.2,3.3,EUR m,adidasag_q12019results_final_en_r0p4ls.txt,183
+adidas,2019,1,net_sales_region,Asia-Pacific,2139.0,1856.0,15.2,11.7,EUR m,adidasag_q12019results_final_en_r0p4ls.txt,184
+adidas,2019,1,net_sales_region,Russia/CIS,136.0,119.0,14.5,21.6,EUR m,adidasag_q12019results_final_en_r0p4ls.txt,185
+adidas,2019,1,net_sales_region,Latin America,376.0,430.0,-12.7,-3.4,EUR m,adidasag_q12019results_final_en_r0p4ls.txt,186
+adidas,2019,1,net_sales_region,Emerging Markets,330.0,308.0,7.0,10.3,EUR m,adidasag_q12019results_final_en_r0p4ls.txt,187
+adidas,2019,1,net_sales_region,Other Businesses,195.0,190.0,2.7,-0.3,EUR m,adidasag_q12019results_final_en_r0p4ls.txt,188
+adidas,2019,1,net_sales,Total,5883.0,5548.0,6.1,,EUR m,adidasag_q12019results_final_en_r0p4ls.txt,139
+adidas,2019,1,gross_profit,Total,3151.0,2835.0,11.2,,EUR m,adidasag_q12019results_final_en_r0p4ls.txt,143
+adidas,2019,1,inventory,Total,3285.0,3224.0,1.9,,EUR m,adidasag_q12019results_final_en_r0p4ls.txt,216
+adidas,2020,1,net_sales_region,Europe,1426.0,1551.0,-8.0,-8.1,EUR m,adidasag_q12020results_final_en_vq2mcn.txt,190
+adidas,2020,1,net_sales_region,North America,1201.0,1157.0,3.8,0.8,EUR m,adidasag_q12020results_final_en_vq2mcn.txt,191
+adidas,2020,1,net_sales_region,Asia-Pacific,1184.0,2139.0,-44.7,-44.9,EUR m,adidasag_q12020results_final_en_vq2mcn.txt,192
+adidas,2020,1,net_sales_region,Russia/CIS,154.0,136.0,12.8,9.0,EUR m,adidasag_q12020results_final_en_vq2mcn.txt,193
+adidas,2020,1,net_sales_region,Latin America,339.0,376.0,-9.7,-0.4,EUR m,adidasag_q12020results_final_en_vq2mcn.txt,194
+adidas,2020,1,net_sales_region,Emerging Markets,293.0,330.0,-11.1,-11.0,EUR m,adidasag_q12020results_final_en_vq2mcn.txt,195
+adidas,2020,1,net_sales_region,Other Businesses,156.0,195.0,-20.3,-21.2,EUR m,adidasag_q12020results_final_en_vq2mcn.txt,196
+adidas,2020,1,net_sales,Total,4753.0,5883.0,-19.2,,EUR m,adidasag_q12020results_final_en_vq2mcn.txt,147
+adidas,2020,1,gross_profit,Total,2345.0,3151.0,-25.6,,EUR m,adidasag_q12020results_final_en_vq2mcn.txt,151
+adidas,2020,1,inventory,Total,4334.0,3285.0,31.9,,EUR m,adidasag_q12020results_final_en_vq2mcn.txt,223
+adidas,2021,1,net_sales_region,EMEA,1770.0,1705.0,3.8,7.6,EUR m,adidasag_q12021results_final_en_j1scvs.txt,210
+adidas,2021,1,net_sales_region,North America,1157.0,1166.0,-0.8,8.1,EUR m,adidasag_q12021results_final_en_j1scvs.txt,211
+adidas,2021,1,net_sales_region,Greater China,1402.0,559.0,151.1,155.9,EUR m,adidasag_q12021results_final_en_j1scvs.txt,212
+adidas,2021,1,net_sales_region,Asia-Pacific,603.0,602.0,0.1,3.9,EUR m,adidasag_q12021results_final_en_j1scvs.txt,213
+adidas,2021,1,net_sales_region,Latin America,297.0,303.0,-2.1,18.0,EUR m,adidasag_q12021results_final_en_j1scvs.txt,214
+adidas,2021,1,net_sales_region,Other Businesses,39.0,47.0,-16.7,-16.1,EUR m,adidasag_q12021results_final_en_j1scvs.txt,215
+adidas,2021,1,net_sales,Total,5268.0,4381.0,20.2,,EUR m,adidasag_q12021results_final_en_j1scvs.txt,164
+adidas,2021,1,gross_profit,Total,2730.0,2178.0,25.4,,EUR m,adidasag_q12021results_final_en_j1scvs.txt,166
+adidas,2021,1,inventory,Total,3938.0,4334.0,-9.1,,EUR m,adidasag_q12021results_final_en_j1scvs.txt,229
+adidas,2022,1,net_sales_region,EMEA,1935.0,1770.0,9.3,9.1,EUR m,adidasag_q1_2022results_en_wougz2.txt,219
+adidas,2022,1,net_sales_region,North America,1402.0,1157.0,21.2,12.8,EUR m,adidasag_q1_2022results_en_wougz2.txt,220
+adidas,2022,1,net_sales_region,Greater China,1004.0,1402.0,-28.4,-34.6,EUR m,adidasag_q1_2022results_en_wougz2.txt,221
+adidas,2022,1,net_sales_region,Asia-Pacific,506.0,603.0,-16.0,-15.7,EUR m,adidasag_q1_2022results_en_wougz2.txt,222
+adidas,2022,1,net_sales_region,Latin America,419.0,297.0,41.2,38.0,EUR m,adidasag_q1_2022results_en_wougz2.txt,223
+adidas,2022,1,net_sales_region,Other Businesses,36.0,39.0,-7.5,-7.6,EUR m,adidasag_q1_2022results_en_wougz2.txt,224
+adidas,2022,1,net_sales,Total,5302.0,5268.0,0.6,,EUR m,adidasag_q1_2022results_en_wougz2.txt,174
+adidas,2022,1,gross_profit,Total,2648.0,2730.0,-3.0,,EUR m,adidasag_q1_2022results_en_wougz2.txt,176
+adidas,2022,1,inventory,Total,4542.0,3938.0,15.3,,EUR m,adidasag_q1_2022results_en_wougz2.txt,235
+adidas,2023,1,net_sales_region,EMEA,1996.0,1935.0,3.1,4.0,EUR m,adidasag_q1_2023results_en_final_ciz6cw.txt,245
+adidas,2023,1,net_sales_region,North America,1177.0,1403.0,-16.1,-19.6,EUR m,adidasag_q1_2023results_en_final_ciz6cw.txt,246
+adidas,2023,1,net_sales_region,Greater China,884.0,1004.0,-11.9,-9.4,EUR m,adidasag_q1_2023results_en_final_ciz6cw.txt,247
+adidas,2023,1,net_sales_region,Asia-Pacific,567.0,506.0,12.0,15.6,EUR m,adidasag_q1_2023results_en_final_ciz6cw.txt,248
+adidas,2023,1,net_sales_region,Latin America,595.0,417.0,42.6,48.7,EUR m,adidasag_q1_2023results_en_final_ciz6cw.txt,249
+adidas,2023,1,net_sales_region,Other Businesses,45.0,36.0,24.1,25.1,EUR m,adidasag_q1_2023results_en_final_ciz6cw.txt,250
+adidas,2023,1,net_sales,Total,5274.0,5302.0,-0.5,,EUR m,adidasag_q1_2023results_en_final_ciz6cw.txt,200
+adidas,2023,1,gross_profit,Total,2363.0,2648.0,-10.8,,EUR m,adidasag_q1_2023results_en_final_ciz6cw.txt,202
+adidas,2023,1,inventory,Total,5675.0,4542.0,24.9,,EUR m,adidasag_q1_2023results_en_final_ciz6cw.txt,263
+adidas,2019,2,net_sales_region,Europe,1421.0,1420.0,0.1,0.1,EUR m,adidasag_q22019results_final_en_k9krlp.txt,224
+adidas,2019,2,net_sales_region,North America,1213.0,1082.0,12.1,5.8,EUR m,adidasag_q22019results_final_en_k9krlp.txt,225
+adidas,2019,2,net_sales_region,Asia-Pacific,1872.0,1726.0,8.5,7.8,EUR m,adidasag_q22019results_final_en_k9krlp.txt,226
+adidas,2019,2,net_sales_region,Russia/CIS,171.0,177.0,-3.9,-4.1,EUR m,adidasag_q22019results_final_en_k9krlp.txt,227
+adidas,2019,2,net_sales_region,Latin America,403.0,416.0,-3.1,4.7,EUR m,adidasag_q22019results_final_en_k9krlp.txt,228
+adidas,2019,2,net_sales_region,Emerging Markets,281.0,251.0,11.9,12.4,EUR m,adidasag_q22019results_final_en_k9krlp.txt,229
+adidas,2019,2,net_sales_region,Other Businesses,147.0,188.0,-22.0,-23.6,EUR m,adidasag_q22019results_final_en_k9krlp.txt,230
+adidas,2019,2,net_sales,Total,5509.0,5261.0,4.7,,EUR m,adidasag_q22019results_final_en_k9krlp.txt,181
+adidas,2019,2,gross_profit,Total,2945.0,2751.0,7.0,,EUR m,adidasag_q22019results_final_en_k9krlp.txt,185
+adidas,2019,2,inventory,Total,3579.0,3425.0,4.5,,EUR m,adidasag_q22019results_final_en_k9krlp.txt,328
+adidas,2020,2,net_sales_region,Europe,844.0,1421.0,-40.7,-40.2,EUR m,adidasag_q22020results_final_en_l5bdew.txt,235
+adidas,2020,2,net_sales_region,North America,763.0,1213.0,-37.1,-38.2,EUR m,adidasag_q22020results_final_en_l5bdew.txt,236
+adidas,2020,2,net_sales_region,Asia-Pacific,1572.0,1872.0,-16.0,-15.6,EUR m,adidasag_q22020results_final_en_l5bdew.txt,237
+adidas,2020,2,net_sales_region,Russia/CIS,104.0,171.0,-39.2,-34.4,EUR m,adidasag_q22020results_final_en_l5bdew.txt,238
+adidas,2020,2,net_sales_region,Latin America,114.0,403.0,-71.6,-63.9,EUR m,adidasag_q22020results_final_en_l5bdew.txt,239
+adidas,2020,2,net_sales_region,Emerging Markets,108.0,281.0,-61.6,-60.0,EUR m,adidasag_q22020results_final_en_l5bdew.txt,240
+adidas,2020,2,net_sales_region,Other Businesses,74.0,147.0,-49.5,-49.9,EUR m,adidasag_q22020results_final_en_l5bdew.txt,241
+adidas,2020,2,net_sales,Total,3579.0,5509.0,-35.0,,EUR m,adidasag_q22020results_final_en_l5bdew.txt,192
+adidas,2020,2,gross_profit,Total,1826.0,2945.0,-38.0,,EUR m,adidasag_q22020results_final_en_l5bdew.txt,196
+adidas,2020,2,inventory,Total,5213.0,3579.0,45.6,,EUR m,adidasag_q22020results_final_en_l5bdew.txt,337
+adidas,2021,2,net_sales_region,EMEA,1910.0,965.0,97.8,99.4,EUR m,adidasag_q22021results_final_en_xtejf1.txt,217
+adidas,2021,2,net_sales_region,North America,1249.0,726.0,72.0,86.6,EUR m,adidasag_q22021results_final_en_xtejf1.txt,218
+adidas,2021,2,net_sales_region,Greater China,1003.0,1199.0,-16.3,-15.9,EUR m,adidasag_q22021results_final_en_xtejf1.txt,219
+adidas,2021,2,net_sales_region,Asia-Pacific,533.0,337.0,58.1,66.3,EUR m,adidasag_q22021results_final_en_xtejf1.txt,220
+adidas,2021,2,net_sales_region,Latin America,348.0,103.0,238.0,230.1,EUR m,adidasag_q22021results_final_en_xtejf1.txt,221
+adidas,2021,2,net_sales_region,Other Businesses,34.0,21.0,61.9,64.1,EUR m,adidasag_q22021results_final_en_xtejf1.txt,222
+adidas,2021,2,net_sales,Total,5077.0,3352.0,51.5,,EUR m,adidasag_q22021results_final_en_xtejf1.txt,171
+adidas,2021,2,gross_profit,Total,2632.0,1720.0,53.0,,EUR m,adidasag_q22021results_final_en_xtejf1.txt,173
+adidas,2021,2,inventory,Total,4054.0,5213.0,-22.2,,EUR m,adidasag_q22021results_final_en_xtejf1.txt,297
+adidas,2022,2,net_sales_region,EMEA,2079.0,1910.0,8.8,6.8,EUR m,adidasag_q2_2022_results_en_final_tpcpjw.txt,214
+adidas,2022,2,net_sales_region,North America,1706.0,1249.0,36.5,21.3,EUR m,adidasag_q2_2022_results_en_final_tpcpjw.txt,215
+adidas,2022,2,net_sales_region,Greater China,719.0,1003.0,-28.3,-35.1,EUR m,adidasag_q2_2022_results_en_final_tpcpjw.txt,216
+adidas,2022,2,net_sales_region,Asia-Pacific,550.0,533.0,3.1,2.6,EUR m,adidasag_q2_2022_results_en_final_tpcpjw.txt,217
+adidas,2022,2,net_sales_region,Latin America,514.0,348.0,47.5,37.0,EUR m,adidasag_q2_2022_results_en_final_tpcpjw.txt,218
+adidas,2022,2,net_sales_region,Other Businesses,29.0,34.0,-15.9,-16.0,EUR m,adidasag_q2_2022_results_en_final_tpcpjw.txt,219
+adidas,2022,2,net_sales,Total,5596.0,5077.0,10.2,,EUR m,adidasag_q2_2022_results_en_final_tpcpjw.txt,169
+adidas,2022,2,gross_profit,Total,2815.0,2632.0,7.0,,EUR m,adidasag_q2_2022_results_en_final_tpcpjw.txt,171
+adidas,2022,2,inventory,Total,5483.0,4054.0,35.3,,EUR m,adidasag_q2_2022_results_en_final_tpcpjw.txt,291
+adidas,2023,2,net_sales_region,EMEA,1980.0,2079.0,-4.8,-0.8,EUR m,adidasag_q2_2023results_en_final_ywsmim.txt,302
+adidas,2023,2,net_sales_region,North America,1399.0,1707.0,-18.1,-16.4,EUR m,adidasag_q2_2023results_en_final_ywsmim.txt,303
+adidas,2023,2,net_sales_region,Greater China,766.0,719.0,6.5,16.4,EUR m,adidasag_q2_2023results_en_final_ywsmim.txt,304
+adidas,2023,2,net_sales_region,Asia-Pacific,550.0,550.0,0.1,7.0,EUR m,adidasag_q2_2023results_en_final_ywsmim.txt,305
+adidas,2023,2,net_sales_region,Latin America,596.0,512.0,16.4,29.8,EUR m,adidasag_q2_2023results_en_final_ywsmim.txt,306
+adidas,2023,2,net_sales_region,Other Businesses,36.0,29.0,26.6,27.9,EUR m,adidasag_q2_2023results_en_final_ywsmim.txt,307
+adidas,2023,2,net_sales,Total,5343.0,5596.0,-4.5,,EUR m,adidasag_q2_2023results_en_final_ywsmim.txt,257
+adidas,2023,2,gross_profit,Total,2719.0,2815.0,-3.4,,EUR m,adidasag_q2_2023results_en_final_ywsmim.txt,259
+adidas,2023,2,inventory,Total,5540.0,5483.0,1.0,,EUR m,adidasag_q2_2023results_en_final_ywsmim.txt,383
+adidas,2019,3,net_sales_region,Europe,1698.0,1645.0,3.2,3.5,EUR m,adidasag_q32019results_en_final_olrg4a.txt,203
+adidas,2019,3,net_sales_region,North America,1468.0,1269.0,15.7,10.4,EUR m,adidasag_q32019results_en_final_olrg4a.txt,204
+adidas,2019,3,net_sales_region,Asia-Pacific,2090.0,1894.0,10.4,7.7,EUR m,adidasag_q32019results_en_final_olrg4a.txt,205
+adidas,2019,3,net_sales_region,Russia/CIS,199.0,166.0,19.7,13.2,EUR m,adidasag_q32019results_en_final_olrg4a.txt,206
+adidas,2019,3,net_sales_region,Latin America,405.0,340.0,19.0,5.1,EUR m,adidasag_q32019results_en_final_olrg4a.txt,207
+adidas,2019,3,net_sales_region,Emerging Markets,388.0,329.0,18.1,14.0,EUR m,adidasag_q32019results_en_final_olrg4a.txt,208
+adidas,2019,3,net_sales_region,Other Businesses,162.0,230.0,-29.5,-30.6,EUR m,adidasag_q32019results_en_final_olrg4a.txt,209
+adidas,2019,3,net_sales,Total,6410.0,5873.0,9.1,,EUR m,adidasag_q32019results_en_final_olrg4a.txt,160
+adidas,2019,3,gross_profit,Total,3339.0,3044.0,9.7,,EUR m,adidasag_q32019results_en_final_olrg4a.txt,164
+adidas,2019,3,inventory,Total,3677.0,3216.0,14.3,,EUR m,adidasag_q32019results_en_final_olrg4a.txt,307
+adidas,2021,3,net_sales_region,EMEA,2248.0,2079.0,8.1,8.8,EUR m,adidasag_q32021results_final_en_pdvx9t.txt,204
+adidas,2021,3,net_sales_region,North America,1396.0,1309.0,6.6,8.6,EUR m,adidasag_q32021results_final_en_pdvx9t.txt,205
+adidas,2021,3,net_sales_region,Greater China,1155.0,1297.0,-11.0,-14.6,EUR m,adidasag_q32021results_final_en_pdvx9t.txt,206
+adidas,2021,3,net_sales_region,Asia-Pacific,504.0,557.0,-9.6,-8.2,EUR m,adidasag_q32021results_final_en_pdvx9t.txt,207
+adidas,2021,3,net_sales_region,Latin America,405.0,264.0,53.4,55.4,EUR m,adidasag_q32021results_final_en_pdvx9t.txt,208
+adidas,2021,3,net_sales_region,Other Businesses,45.0,55.0,-18.3,-18.0,EUR m,adidasag_q32021results_final_en_pdvx9t.txt,209
+adidas,2021,3,net_sales,Total,5752.0,5561.0,3.4,,EUR m,adidasag_q32021results_final_en_pdvx9t.txt,158
+adidas,2021,3,gross_profit,Total,2884.0,2798.0,3.1,,EUR m,adidasag_q32021results_final_en_pdvx9t.txt,160
+adidas,2021,3,inventory,Total,3664.0,4676.0,-21.6,,EUR m,adidasag_q32021results_final_en_pdvx9t.txt,284
+adidas,2022,3,net_sales_region,EMEA,2463.0,2248.0,9.6,7.4,EUR m,adidasag_q3_2022results_en_final_ybnm5t.txt,242
+adidas,2022,3,net_sales_region,North America,1750.0,1396.0,25.4,8.2,EUR m,adidasag_q3_2022results_en_final_ybnm5t.txt,243
+adidas,2022,3,net_sales_region,Greater China,937.0,1155.0,-18.9,-26.6,EUR m,adidasag_q3_2022results_en_final_ybnm5t.txt,244
+adidas,2022,3,net_sales_region,Asia-Pacific,579.0,504.0,15.1,14.6,EUR m,adidasag_q3_2022results_en_final_ybnm5t.txt,245
+adidas,2022,3,net_sales_region,Latin America,633.0,405.0,56.4,50.6,EUR m,adidasag_q3_2022results_en_final_ybnm5t.txt,246
+adidas,2022,3,net_sales_region,Other Businesses,46.0,45.0,2.8,2.7,EUR m,adidasag_q3_2022results_en_final_ybnm5t.txt,247
+adidas,2022,3,net_sales,Total,6408.0,5752.0,11.4,,EUR m,adidasag_q3_2022results_en_final_ybnm5t.txt,197
+adidas,2022,3,gross_profit,Total,3146.0,2884.0,9.1,,EUR m,adidasag_q3_2022results_en_final_ybnm5t.txt,199
+adidas,2022,3,inventory,Total,6315.0,3664.0,72.4,,EUR m,adidasag_q3_2022results_en_final_ybnm5t.txt,319
+adidas,2023,3,net_sales_region,EMEA,2396.0,2463.0,-2.7,1.9,EUR m,adidasag_q3_2023results_final_en_vmxejg.txt,323
+adidas,2023,3,net_sales_region,North America,1484.0,1752.0,-15.2,-8.8,EUR m,adidasag_q3_2023results_final_en_vmxejg.txt,324
+adidas,2023,3,net_sales_region,Greater China,870.0,937.0,-7.1,5.7,EUR m,adidasag_q3_2023results_final_en_vmxejg.txt,325
+adidas,2023,3,net_sales_region,Asia-Pacific,567.0,579.0,-2.1,6.8,EUR m,adidasag_q3_2023results_final_en_vmxejg.txt,326
+adidas,2023,3,net_sales_region,Latin America,621.0,632.0,-1.8,12.8,EUR m,adidasag_q3_2023results_final_en_vmxejg.txt,327
+adidas,2023,3,net_sales_region,Other Businesses,39.0,46.0,-14.9,-13.9,EUR m,adidasag_q3_2023results_final_en_vmxejg.txt,328
+adidas,2023,3,net_sales,Total,5999.0,6408.0,-6.4,,EUR m,adidasag_q3_2023results_final_en_vmxejg.txt,278
+adidas,2023,3,gross_profit,Total,2955.0,3146.0,-6.1,,EUR m,adidasag_q3_2023results_final_en_vmxejg.txt,280
+adidas,2023,3,inventory,Total,4849.0,6315.0,-23.2,,EUR m,adidasag_q3_2023results_final_en_vmxejg.txt,405

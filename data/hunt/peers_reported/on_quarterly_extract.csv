@@ -1,0 +1,120 @@
+company,year,quarter,metric,region,value,yoy_reported_pct,yoy_cn_pct,unit,source
+on,2021,3,net_sales_region,EMEA (Europe pre-2023),88.3,50.3,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898521000004/a991pressreleasedatednovem.htm
+on,2021,3,net_sales_region,North America,112.2,82.6,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898521000004/a991pressreleasedatednovem.htm
+on,2021,3,net_sales_region,Asia-Pacific,13.1,71.4,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898521000004/a991pressreleasedatednovem.htm
+on,2021,3,net_sales,Total,218.0,67.6,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898521000004/a991pressreleasedatednovem.htm
+on,2021,4,net_sales_region,North America,133.4,100.1,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898522000008/a991pressreleasedatedmarch.htm
+on,2021,4,net_sales_region,Asia-Pacific,10.6,35.0,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898522000008/a991pressreleasedatedmarch.htm
+on,2021,4,net_sales,Total,191.1,53.7,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898522000008/a991pressreleasedatedmarch.htm
+on,2021,4,gross_margin_pct,Total,58.5,51.7,,% (prior in yoy col),https://www.sec.gov/Archives/edgar/data/1858985/000185898522000008/a991pressreleasedatedmarch.htm
+on,2021,4,inventory,Total,134.178,30.4,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898522000008/a991pressreleasedatedmarch.htm
+on,2022,1,net_sales_region,EMEA (Europe pre-2023),74.9,31.3,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898522000016/a22q1-pressrelease.htm
+on,2022,1,net_sales_region,North America,138.4,86.5,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898522000016/a22q1-pressrelease.htm
+on,2022,1,net_sales_region,Asia-Pacific,16.4,125.9,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898522000016/a22q1-pressrelease.htm
+on,2022,1,net_sales,Total,235.7,67.9,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898522000016/a22q1-pressrelease.htm
+on,2022,1,gross_margin_pct,Total,51.8,57.6,,% (prior in yoy col),https://www.sec.gov/Archives/edgar/data/1858985/000185898522000016/a22q1-pressrelease.htm
+on,2022,1,inventory,Total,162.451,21.1,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898522000016/a22q1-pressrelease.htm
+on,2022,2,net_sales_region,North America,181.7,102.5,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898522000020/a22q2-pressrelease.htm
+on,2022,2,net_sales_region,EMEA (Europe pre-2023),83.3,17.5,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898522000020/a22q2-pressrelease.htm
+on,2022,2,net_sales_region,Asia-Pacific,17.9,52.2,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898522000020/a22q2-pressrelease.htm
+on,2022,2,net_sales,Total,291.7,66.6,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898522000020/a22q2-pressrelease.htm
+on,2022,2,gross_margin_pct,Total,55.1,60.7,,% (prior in yoy col),https://www.sec.gov/Archives/edgar/data/1858985/000185898522000020/a22q2-pressrelease.htm
+on,2022,2,inventory,Total,216.713,61.5,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898522000020/a22q2-pressrelease.htm
+on,2022,3,net_sales_region,North America,176.3,57.1,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898522000025/a22q3-pressrelease.htm
+on,2022,3,net_sales_region,EMEA (Europe pre-2023),116.5,31.8,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898522000025/a22q3-pressrelease.htm
+on,2022,3,net_sales_region,Asia-Pacific,24.2,85.2,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898522000025/a22q3-pressrelease.htm
+on,2022,3,net_sales_region,Rest of World,11.0,150.0,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898522000025/a22q3-pressrelease.htm
+on,2022,3,net_sales,Total,328.0,50.4,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898522000025/a22q3-pressrelease.htm
+on,2022,3,gross_margin_pct,Total,57.1,60.2,,% (prior in yoy col),https://www.sec.gov/Archives/edgar/data/1858985/000185898522000025/a22q3-pressrelease.htm
+on,2022,3,inventory,Total,262.451,95.6,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898522000025/a22q3-pressrelease.htm
+on,2022,4,net_sales_region,North America,738.5,80.3,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898523000015/a991pressreleasedatedmarch.htm
+on,2022,4,net_sales_region,EMEA (Europe pre-2023),354.3,36.1,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898523000015/a991pressreleasedatedmarch.htm
+on,2022,4,net_sales_region,Asia-Pacific,80.2,87.7,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898523000015/a991pressreleasedatedmarch.htm
+on,2022,4,net_sales_region,Rest of World,49.1,310.5,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898523000015/a991pressreleasedatedmarch.htm
+on,2022,4,net_sales,Total,1222.1,68.7,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898523000015/a991pressreleasedatedmarch.htm
+on,2022,4,gross_margin_pct,Total,56.0,59.4,,% (prior in yoy col),https://www.sec.gov/Archives/edgar/data/1858985/000185898523000015/a991pressreleasedatedmarch.htm
+on,2022,4,inventory,Total,395.6,194.8,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898523000015/a991pressreleasedatedmarch.htm
+on,2023,1,net_sales_region,EMEA,118.9,51.6,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898523000034/a23q1-ex991xpressrelease.htm
+on,2023,1,net_sales_region,Americas,270.2,91.9,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898523000034/a23q1-ex991xpressrelease.htm
+on,2023,1,net_sales_region,Asia-Pacific,31.1,89.4,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898523000034/a23q1-ex991xpressrelease.htm
+on,2023,1,net_sales,Total,420.2,78.3,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898523000034/a23q1-ex991xpressrelease.htm
+on,2023,1,gross_margin_pct,Total,58.3,51.8,,% (prior in yoy col),https://www.sec.gov/Archives/edgar/data/1858985/000185898523000034/a23q1-ex991xpressrelease.htm
+on,2023,1,inventory,Total,465.2,17.6,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898523000034/a23q1-ex991xpressrelease.htm
+on,2023,2,net_sales_region,EMEA,113.6,28.9,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898523000042/a23q2-ex993xpressrelease.htm
+on,2023,2,net_sales_region,Americas,296.6,59.8,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898523000042/a23q2-ex993xpressrelease.htm
+on,2023,2,net_sales_region,Asia-Pacific,34.1,90.2,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898523000042/a23q2-ex993xpressrelease.htm
+on,2023,2,net_sales,Total,444.3,52.3,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898523000042/a23q2-ex993xpressrelease.htm
+on,2023,2,gross_margin_pct,Total,59.5,55.1,,% (prior in yoy col),https://www.sec.gov/Archives/edgar/data/1858985/000185898523000042/a23q2-ex993xpressrelease.htm
+on,2023,2,inventory,Total,435.9,10.2,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898523000042/a23q2-ex993xpressrelease.htm
+on,2023,3,net_sales_region,EMEA,144.0,19.9,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898523000052/a23q3-ex991xpressrelease.htm
+on,2023,3,net_sales_region,Americas,294.9,60.5,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898523000052/a23q3-ex991xpressrelease.htm
+on,2023,3,net_sales_region,Asia-Pacific,41.6,71.5,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898523000052/a23q3-ex991xpressrelease.htm
+on,2023,3,net_sales,Total,480.5,46.5,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898523000052/a23q3-ex991xpressrelease.htm
+on,2023,3,gross_margin_pct,Total,59.9,57.1,,% (prior in yoy col),https://www.sec.gov/Archives/edgar/data/1858985/000185898523000052/a23q3-ex991xpressrelease.htm
+on,2023,3,inventory,Total,424.5,7.3,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898523000052/a23q3-ex991xpressrelease.htm
+on,2023,4,net_sales_region,EMEA,488.7,29.2,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898524000014/ex991pressreleasedatedmarc.htm
+on,2023,4,net_sales_region,Americas,1162.2,52.2,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898524000014/ex991pressreleasedatedmarc.htm
+on,2023,4,net_sales_region,Asia-Pacific,141.1,75.9,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898524000014/ex991pressreleasedatedmarc.htm
+on,2023,4,net_sales,Total,1792.1,46.6,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898524000014/ex991pressreleasedatedmarc.htm
+on,2023,4,gross_margin_pct,Total,59.6,56.0,,% (prior in yoy col),https://www.sec.gov/Archives/edgar/data/1858985/000185898524000014/ex991pressreleasedatedmarc.htm
+on,2023,4,inventory,Total,356.5,-9.9,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898524000014/ex991pressreleasedatedmarc.htm
+on,2024,1,net_sales_region,EMEA,126.2,6.1,10.4,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898524000020/a24q1-ex991xpressrelease.htm
+on,2024,1,net_sales_region,Americas,329.6,22.0,30.4,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898524000020/a24q1-ex991xpressrelease.htm
+on,2024,1,net_sales_region,Asia-Pacific,52.4,68.6,90.7,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898524000020/a24q1-ex991xpressrelease.htm
+on,2024,1,net_sales,Total,508.2,20.9,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898524000020/a24q1-ex991xpressrelease.htm
+on,2024,1,gross_margin_pct,Total,59.7,58.3,,% (prior in yoy col),https://www.sec.gov/Archives/edgar/data/1858985/000185898524000020/a24q1-ex991xpressrelease.htm
+on,2024,1,inventory,Total,365.3,2.5,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898524000020/a24q1-ex991xpressrelease.htm
+on,2024,2,net_sales_region,EMEA,138.4,21.8,22.2,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898524000024/a24q2-ex993xpressrelease.htm
+on,2024,2,net_sales_region,Americas,370.0,24.8,25.8,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898524000024/a24q2-ex993xpressrelease.htm
+on,2024,2,net_sales_region,Asia-Pacific,59.2,73.7,84.7,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898524000024/a24q2-ex993xpressrelease.htm
+on,2024,2,net_sales,Total,567.7,27.8,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898524000024/a24q2-ex993xpressrelease.htm
+on,2024,2,gross_margin_pct,Total,59.9,59.5,,% (prior in yoy col),https://www.sec.gov/Archives/edgar/data/1858985/000185898524000024/a24q2-ex993xpressrelease.htm
+on,2024,2,inventory,Total,401.3,12.6,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898524000024/a24q2-ex993xpressrelease.htm
+on,2024,3,net_sales_region,EMEA,165.8,15.1,15.2,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898524000029/a24q3-ex991xpressrelease.htm
+on,2024,3,net_sales_region,Americas,395.5,34.1,34.5,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898524000029/a24q3-ex991xpressrelease.htm
+on,2024,3,net_sales_region,Asia-Pacific,74.6,79.3,85.7,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898524000029/a24q3-ex991xpressrelease.htm
+on,2024,3,net_sales,Total,635.8,32.3,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898524000029/a24q3-ex991xpressrelease.htm
+on,2024,3,gross_margin_pct,Total,60.6,59.9,,% (prior in yoy col),https://www.sec.gov/Archives/edgar/data/1858985/000185898524000029/a24q3-ex991xpressrelease.htm
+on,2024,3,inventory,Total,348.9,-2.1,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898524000029/a24q3-ex991xpressrelease.htm
+on,2024,4,net_sales_region,EMEA,577.8,18.2,19.9,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898525000005/ex991pressreleasedatedmarc.htm
+on,2024,4,net_sales_region,Americas,1480.3,27.4,31.2,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898525000005/ex991pressreleasedatedmarc.htm
+on,2024,4,net_sales_region,Asia-Pacific,260.2,84.5,95.6,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898525000005/ex991pressreleasedatedmarc.htm
+on,2024,4,net_sales,Total,2318.3,29.4,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898525000005/ex991pressreleasedatedmarc.htm
+on,2024,4,gross_margin_pct,Total,60.6,59.6,,% (prior in yoy col),https://www.sec.gov/Archives/edgar/data/1858985/000185898525000005/ex991pressreleasedatedmarc.htm
+on,2024,4,inventory,Total,419.2,17.6,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898525000005/ex991pressreleasedatedmarc.htm
+on,2025,1,net_sales_region,EMEA,168.6,33.6,33.0,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898525000008/a25q1-ex991xpressrelease.htm
+on,2025,1,net_sales_region,Americas,437.4,32.7,28.6,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898525000008/a25q1-ex991xpressrelease.htm
+on,2025,1,net_sales_region,Asia-Pacific,120.6,130.1,128.9,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898525000008/a25q1-ex991xpressrelease.htm
+on,2025,1,net_sales,Total,726.6,43.0,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898525000008/a25q1-ex991xpressrelease.htm
+on,2025,1,gross_margin_pct,Total,59.9,59.7,,% (prior in yoy col),https://www.sec.gov/Archives/edgar/data/1858985/000185898525000008/a25q1-ex991xpressrelease.htm
+on,2025,1,inventory,Total,399.3,-4.7,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898525000008/a25q1-ex991xpressrelease.htm
+on,2025,2,net_sales_region,EMEA,197.8,42.9,46.1,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898525000012/a25q2-ex993xpressrelease.htm
+on,2025,2,net_sales_region,Americas,432.3,16.8,23.6,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898525000012/a25q2-ex993xpressrelease.htm
+on,2025,2,net_sales_region,Asia-Pacific,119.2,101.3,110.9,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898525000012/a25q2-ex993xpressrelease.htm
+on,2025,2,net_sales,Total,749.2,32.0,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898525000012/a25q2-ex993xpressrelease.htm
+on,2025,2,gross_margin_pct,Total,61.5,59.9,,% (prior in yoy col),https://www.sec.gov/Archives/edgar/data/1858985/000185898525000012/a25q2-ex993xpressrelease.htm
+on,2025,2,inventory,Total,360.4,-14.0,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898525000012/a25q2-ex993xpressrelease.htm
+on,2025,3,net_sales_region,EMEA,213.3,28.6,33.0,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898525000015/a25q3-ex991xpressrelease.htm
+on,2025,3,net_sales_region,Americas,436.2,10.3,21.0,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898525000015/a25q3-ex991xpressrelease.htm
+on,2025,3,net_sales_region,Asia-Pacific,144.9,94.2,109.2,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898525000015/a25q3-ex991xpressrelease.htm
+on,2025,3,net_sales,Total,794.4,24.9,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898525000015/a25q3-ex991xpressrelease.htm
+on,2025,3,gross_margin_pct,Total,65.7,60.6,,% (prior in yoy col),https://www.sec.gov/Archives/edgar/data/1858985/000185898525000015/a25q3-ex991xpressrelease.htm
+on,2025,3,inventory,Total,380.6,-9.2,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898525000015/a25q3-ex991xpressrelease.htm
+on,2025,4,net_sales_region,EMEA,762.7,32.0,34.7,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000010/ex991pressreleasedatedmarc.htm
+on,2025,4,net_sales_region,Americas,1740.1,17.6,23.4,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000010/ex991pressreleasedatedmarc.htm
+on,2025,4,net_sales_region,Asia-Pacific,511.1,96.4,106.7,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000010/ex991pressreleasedatedmarc.htm
+on,2025,4,net_sales,Total,3014.0,30.0,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000010/ex991pressreleasedatedmarc.htm
+on,2025,4,gross_margin_pct,Total,62.8,60.6,,% (prior in yoy col),https://www.sec.gov/Archives/edgar/data/1858985/000185898526000010/ex991pressreleasedatedmarc.htm
+on,2025,4,inventory,Total,419.8,0.1,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000010/ex991pressreleasedatedmarc.htm
+on,2026,1,net_sales_region,EMEA,207.1,22.8,25.6,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000014/a26q1-ex991xpressrelease.htm
+on,2026,1,net_sales_region,Americas,450.7,3.1,17.1,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000014/a26q1-ex991xpressrelease.htm
+on,2026,1,net_sales_region,Asia-Pacific,174.0,44.4,61.4,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000014/a26q1-ex991xpressrelease.htm
+on,2026,1,net_sales,Total,831.9,14.5,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000014/a26q1-ex991xpressrelease.htm
+on,2026,1,gross_margin_pct,Total,64.2,59.9,,% (prior in yoy col),https://www.sec.gov/Archives/edgar/data/1858985/000185898526000014/a26q1-ex991xpressrelease.htm
+on,2026,1,inventory,Total,406.0,-3.3,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000014/a26q1-ex991xpressrelease.htm
+on,2026,2,net_sales_region,EMEA,228.2,15.4,20.5,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000018/a26q2-ex993xpressrelease.htm
+on,2026,2,net_sales_region,Americas,451.6,4.5,13.0,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000018/a26q2-ex993xpressrelease.htm
+on,2026,2,net_sales_region,Asia-Pacific,170.5,43.1,54.7,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000018/a26q2-ex993xpressrelease.htm
+on,2026,2,net_sales,Total,850.3,13.5,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000018/a26q2-ex993xpressrelease.htm
+on,2026,2,gross_margin_pct,Total,65.4,61.5,,% (prior in yoy col),https://www.sec.gov/Archives/edgar/data/1858985/000185898526000018/a26q2-ex993xpressrelease.htm
+on,2026,2,inventory,Total,472.9,12.6,,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000018/a26q2-ex993xpressrelease.htm

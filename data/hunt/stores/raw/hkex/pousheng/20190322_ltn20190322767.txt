@@ -1,0 +1,984 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong
+Limited take no responsibility for the contents of this announcement, make no
+representation as to its accuracy or completeness and expressly disclaim any liability
+whatsoever for any loss howsoever arising from or in reliance upon the whole or any
+part of the contents of this announcement.
+
+
+
+
+  POU SHENG INTERNATIONAL (HOLDINGS) LIMITED
+
+                       (Incorporated in Bermuda with limited liability)
+                                    (Stock Code: 3813)
+
+
+                        FINAL RESULTS
+             FOR THE YEAR ENDED DECEMBER 31, 2018
+
+ THE GROUP’S FINANCIAL HIGHLIGHTS
+                                                       For the year ended
+                                                         December 31,       Percentage
+                                                          2018         2017   increase
+
+ Revenue (RMB’000)                                  22,677,375      18,833,313      20.4%
+ Operating profit (RMB’000)                            966,881         770,392      25.5%
+ Profit attributable to owners
+   of the Company (RMB’000)                             542,888           394,322   37.7%
+ Basic earnings per share (RMB cents)                     10.39              7.57   37.3%
+ Dividend per share
+   Final dividend (proposed) (HK$)                         0.025            0.020   25.0%
+
+
+
+
+                                              1
+RESULTS
+The board (the “Board”) of directors (the “Directors”) of Pou Sheng International
+(Holdings) Limited (the “Company”) is pleased to announce the audited consolidated
+results of the Company and its subsidiaries (collectively referred to as the “Group”) for
+the year ended December 31, 2018 with comparative figures for the corresponding year
+in 2017 as follows:
+
+CONSOLIDATED INCOME STATEMENT
+For the year ended December 31, 2018
+
+                                                                  2018               2017
+                                                  Notes        RMB’000            RMB’000
+
+Revenue                                             3          22,677,375       18,833,313
+Cost of sales                                                 (15,078,824)     (12,239,725)
+
+Gross profit                                                    7,598,551        6,593,588
+Other operating income and gains (losses)                         281,307          228,026
+Selling and distribution expenses                              (6,099,595)      (5,326,027)
+Administrative expenses                                          (813,382)        (725,195)
+
+Operating profit                                                 966,881           770,392
+
+Finance costs                                                   (149,843)         (106,908)
+Finance income                                                     6,260             6,386
+
+Finance costs – net                                             (143,583)         (100,522)
+Share of results of joint ventures                                  (929)           (3,583)
+Other gains (losses)                                4                  –            (9,068)
+
+Profit before taxation                                           822,369           657,219
+Income tax expense                                  5           (261,475)         (242,187)
+
+Profit for the year                                 6            560,894           415,032
+
+
+Attributable to:
+  Owners of the Company                                          542,888           394,322
+  Non-controlling interests                                       18,006            20,710
+
+                                                                 560,894           415,032
+
+
+Earnings per share                                  8
+  – Basic                                                 RMB10.39 cents     RMB7.57 cents
+
+
+  – Diluted                                               RMB10.31 cents     RMB7.50 cents
+
+
+                                            2
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+For the year ended December 31, 2018
+
+                                                          2018       2017
+                                                       RMB’000    RMB’000
+
+Profit for the year                                     560,894    415,032
+
+Other comprehensive income (expense)
+An item that will not be reclassified subsequently
+  to profit or loss
+Gain on revaluation of properties transferred from
+  property, plant and equipment and prepaid lease
+  payments to investment properties, net of tax              –       6,381
+
+Items that may be reclassified subsequently
+   to profit or loss
+Exchange differences arising on translation
+   of foreign operations                                    637     (1,238)
+Reclassification upon deregistration of a subsidiary      1,247          –
+
+Other comprehensive income for the year                   1,884      5,143
+
+Total comprehensive income for the year                 562,778    420,175
+
+
+Attributable to:
+  Owners of the Company                                 544,307    399,438
+  Non-controlling interests                              18,471     20,737
+
+                                                        562,778    420,175
+
+
+
+
+                                            3
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+At December 31, 2018
+
+                                                            2018        2017
+                                                 Note    RMB’000     RMB’000
+
+Non-current assets
+Investment properties                                       94,700      94,700
+Property, plant and equipment                            1,131,676   1,054,005
+Deposits paid for acquisition of property,
+  plant and equipment                                      59,823      51,181
+Prepaid lease payments                                    109,357     112,571
+Rental deposits and prepayments                           168,693     154,865
+Intangible assets                                         378,648     502,435
+Goodwill                                                  532,808     532,612
+Interests in joint ventures                                38,074      39,003
+Loan to a joint venture                                     3,000       3,000
+Available-for-sale investment                                   –       2,190
+Equity instrument at fair value through
+  other comprehensive income                                 2,231          –
+
+                                                         2,519,010   2,546,562
+
+Current assets
+Inventories                                              6,694,022   5,589,344
+Trade and other receivables                       9      3,292,935   2,844,993
+Taxation recoverable                                           546       2,207
+Bank balances and cash                                     730,956     487,004
+
+                                                        10,718,459   8,923,548
+
+
+
+
+                                             4
+                                                         2018        2017
+                                               Note   RMB’000     RMB’000
+
+Current liabilities
+Trade and other payables                       10     2,097,581   2,104,417
+Contract liabilities                                    283,145           –
+Taxation payable                                        178,453     137,746
+Bank and other borrowings                             3,531,259   2,532,169
+Bank overdrafts                                               –     109,617
+
+                                                      6,090,438   4,883,949
+
+Net current assets                                    4,628,021   4,039,599
+
+Total assets less current liabilities                 7,147,031   6,586,161
+
+Non-current liability
+Deferred tax liabilities                               111,494     144,632
+
+Net assets                                            7,035,537   6,441,529
+
+
+Capital and reserves
+Share capital                                            46,588      46,530
+Reserves                                              6,820,979   6,344,162
+
+Equity attributable to owners of the Company          6,867,567   6,390,692
+Non-controlling interests                               167,970      50,837
+
+Total equity                                          7,035,537   6,441,529
+
+
+
+
+                                          5
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+1.   GENERAL INFORMATION
+     The Company is incorporated in Bermuda as an exempted company with limited liability and its
+     shares are listed on The Stock Exchange of Hong Kong Limited (the “Stock Exchange”). The
+     immediate holding company is Major Focus Management Limited, a company incorporated in the
+     British Virgin Islands. The shares of an intermediate holding company of the Company, Yue Yuen
+     Industrial (Holdings) Limited, an exempted company incorporated in Bermuda with limited
+     liability, are also listed on the Stock Exchange.
+
+     The consolidated financial statements are presented in Renminbi (“RMB”), which is also the
+     functional currency of the Company.
+
+2.   APPLICATION OF NEW AND AMENDMENTS TO HONG KONG FINANCIAL
+     REPORTING STANDARDS (“HKFRSs”)
+     New and Amendments to HKFRSs that are mandatorily effective for the current year
+     The Group has applied the following new and amendments to HKFRSs issued by the Hong Kong
+     Institute of Certified Public Accountants for the first time in the current year:
+
+     HKFRS 9                                 Financial Instruments
+     HKFRS 15                                Revenue from Contracts with Customers and the related
+                                               Amendments
+     HK(IFRIC) – Int 22                      Foreign Currency Transactions and Advance Consideration
+     Amendments to HKFRS 2                   Classification and Measurement of Share-based Payment
+                                               Transactions
+     Amendments to HKFRS 4                   Applying HKFRS 9 Financial Instruments with HKFRS 4
+                                               Insurance Contracts
+     Amendments to HKAS 28                   As part of the Annual Improvements to HKFRSs
+                                               2014 – 2016 Cycle
+     Amendments to HKAS 40                   Transfers of Investment Property
+
+     The new and amendments to HKFRSs have been applied in accordance with the relevant transition
+     provisions in the respective standards and amendments which result in changes in accounting
+     policies, amounts reported and/or disclosures as described below.
+
+     Except as described below, the application of the new and amendments to HKFRSs in the current
+     year has had no material impact on the Group’s financial performance and positions for the current
+     and prior years and/or on the disclosures set out in these consolidated financial statements.
+
+     HKFRS 15 “Revenue from Contracts with Customers”
+     The Group has applied HKFRS 15 for the first time in the current year. HKFRS 15 superseded
+     HKAS 18 “Revenue” and the related interpretations.
+
+     Upon adoption of HKFRS 15, receipt in advance from customers included in trade and other
+     payables amounting to RMB319,879,000 was reclassified to contract liabilities as at the date of
+     initial application, January 1, 2018.
+
+     Other than reclassification of contract liabilities, the adoption of HKFRS 15 does not have material
+     impact on the Group’s financial performance and position.
+
+
+
+
+                                                  6
+HKFRS 9 “Financial Instruments”
+In the current year, the Group has applied HKFRS 9 “Financial Instruments”. HKFRS 9 introduces
+new requirements for (1) the classification and measurement of financial assets and financial
+liabilities; and (2) expected credit losses (“ECL”) for financial assets.
+
+The Group has applied HKFRS 9 in accordance with the transition provisions set out in HKFRS 9,
+i.e. applied the classification and measurement requirements (including impairment under ECL
+model) retrospectively to instruments that have not been derecognised as at January 1, 2018 (date of
+initial application) and has not applied the requirements to instruments that have already been
+derecognised as at January 1, 2018. The difference between carrying amounts as at December 31,
+2017 and the carrying amounts as at January 1, 2018 are recognised in the opening accumulated
+profits and other components of equity, without restating comparative information.
+
+Accordingly, certain comparative information may not be comparable as comparative information
+was prepared under HKAS 39 “Financial Instruments: Recognition and Measurement”.
+
+Summary of effects arising from initial application of HKFRS 9
+(1) Classification and measurement of financial assets and financial liabilities
+      The Group elected to present in other comprehensive income for the fair value changes of its
+      equity investment previously classified as available-for-sale investment, of which
+      RMB2,190,000 related to the unquoted equity investment previously measured at cost less
+      impairment under HKAS 39. The investment is not held for trading and not expected to be
+      sold in the foreseeable future.
+
+      The adoption of HKFRS 9 does not have any impact on the classification and measurement
+      of financial liabilities.
+
+(2)   Impairment under ECL model
+      HKFRS 9 requires an ECL model, as opposed to an incurred credit loss model under HKAS
+      39. The ECL model requires an entity to account for ECL and changes in those ECL at each
+      reporting date to reflect changes in credit risk since initial recognition
+
+      The Group applies the HKFRS 9 simplified approach to measure ECL which uses a lifetime
+      ECL for all trade receivables. To measure the ECL, trade receivables have been grouped
+      based on aging status of trade receivables in terms of its Retail Business (as defined below).
+
+      Loss allowances for other financial assets at amortised cost mainly comprise of amounts due
+      from related parties, amount due from non-controlling interests of a subsidiary, loan to a
+      joint venture, other receivables and bank balances, are measured on 12-month ECL basis as
+      there had been no significant increase in credit risk since initial recognition.
+
+      As at January 1, 2018, the Group has assessed and reviewed the existing financial assets for
+      impairment using reasonable and supportable information that is available without undue
+      cost or effort in accordance with the requirements of HKFRS 9. Hence, no additional
+      impairment loss was identified.
+
+
+
+
+                                             7
+3.   REVENUE AND SEGMENTAL INFORMATION
+     The Group is principally engaged in the distribution and retailing of sportswear and footwear
+     products and leasing of large scale commercial spaces to retailers and distributors for concessionaire
+     sales (the “Retail Business”). Information is reported on a regular basis to the chief operating
+     decision maker, being the Board of Directors of the Company, for the purposes of resource
+     allocation and assessment of segment performance. As there is only one reportable segment, no
+     segment information is presented other than entity-wide disclosures.
+
+     Revenue from major business products
+     The following is an analysis of the Group’s revenue from its major business products recognised at
+     a point in time:
+
+                                                                                  2018              2017
+                                                                               RMB’000           RMB’000
+
+     Sales of sportswear and footwear products                                22,545,025       18,717,318
+     Commissions from concessionaire sales                                       132,350          115,995
+
+
+                                                                              22,677,375       18,833,313
+
+
+4.   OTHER GAINS (LOSSES) ARISING OTHER THAN OPERATING ACTIVITIES
+                                                                                  2018              2017
+                                                                               RMB’000           RMB’000
+
+     Loss on disposal of a joint venture                                                –           (5,105)
+     Loss on disposal of subsidiaries                                                   –           (4,363)
+     Fair value changes on investment properties                                        –              400
+
+
+                                                                                        –           (9,068)
+
+
+
+
+                                                   8
+5.   INCOME TAX EXPENSE
+                                                                                    2018             2017
+                                                                                 RMB’000          RMB’000
+
+     Taxation attributable to the Company and its subsidiaries:
+
+     People’s Republic of China (“PRC”)
+       Enterprise Income Tax (“EIT”) (note ii)
+       – current year                                                              293,749         272,701
+       – overprovision in prior years                                               (1,362)         (2,484)
+
+
+     Current tax charge – total                                                    292,387         270,217
+     Withholding tax (note iii)                                                      2,236               –
+     Deferred tax credit                                                           (33,148)        (28,030)
+
+
+                                                                                   261,475         242,187
+
+
+     notes:
+
+     (i)      Hong Kong
+
+              Hong Kong Profits Tax is calculated at 16.5% of the estimated assessable profit for both
+              years. No provision for Hong Kong Profits Tax has been made as the Group had no
+              assessable profit for both years.
+
+     (ii)     PRC
+
+              PRC EIT is calculated based on the statutory rate of 25% of the assessable profit for those
+              subsidiaries established in the PRC, as determined in accordance with the relevant enterprise
+              income tax law, implementation rules and notices in the PRC, except as follows:
+
+              Pursuant to
+              (Caishui [2011] No. 58) and the Bulletin of the State Administration of
+              Taxation [2012] No.12 issued in 2011 and 2012, during the period from January 1, 2011 to
+              December 31, 2020, any enterprise that is located in the Western Regions of PRC and
+              engaged in the business activities as listed in the “Catalogue of Encouraged Industries in
+              Western Regions” (the “New Catalogue”) as its major business from which the annual
+              revenue accounts for more than 70% of its total revenue for the financial year, is entitled to
+              pay EIT at the rate of 15% after its application is approved by the in-charge taxation
+              authorities. Certain subsidiaries of the Company which are located in the specified provinces
+              of Western Regions of the PRC and engaged in the business activities under the New
+              Catalogue. The Directors consider that the relevant subsidiaries are eligible for the
+              preferential tax rate of 15% in both years.
+
+
+
+
+                                                     9
+     (iii)   Pursuant to EIT Law of PRC and the Detailed Implementation Rules, distribution of the
+             profits earned by the subsidiaries in the PRC since January 1, 2008 to holding companies is
+             subject to the PRC withholding tax at the applicable tax rate of 10%.
+
+6.   PROFIT FOR THE YEAR
+                                                                                 2018            2017
+                                                                              RMB’000         RMB’000
+
+     Profit for the year has been arrived at after charging (crediting):
+
+     Directors’ and chief executives’ emoluments                                  2,133           2,046
+     Retirement benefit scheme contributions, excluding
+       directors and the chief executive                                       316,706          260,445
+     Equity-settled share-based payments, excluding directors
+       and the chief executive                                                   13,825          12,057
+     Other staff costs                                                        2,100,815       1,827,536
+
+
+     Total staff costs                                                        2,433,479       2,102,084
+
+
+     Auditor’s remuneration                                                      4,723            5,033
+     Depreciation of property, plant and equipment                             383,399          316,630
+     Net changes in allowance for inventories                                  (62,590)          88,203
+     Release of prepaid lease payments                                           3,214            3,971
+     Amortisation of intangible assets (included in selling
+       and distribution expenses)                                              123,849          112,317
+     Share of taxation of joint ventures (included in share of
+       results of joint ventures)                                                     –              33
+
+
+     For the years ended December 31, 2017 and 2018, cost of inventories recognised as an expense
+     represents cost of sales as shown in the consolidated income statement.
+
+
+
+
+                                                    10
+7.   DIVIDENDS
+                                                                                 2018             2017
+                                                                              RMB’000          RMB’000
+
+     Dividends recognised as distribution during the year:
+
+     2017 Final dividend of HK$0.020 per share
+       (2017: 2016 Final dividend of HK$0.020 per share)                         87,298           92,667
+
+
+     Subsequent to the end of the reporting period, final dividend in respect of the year ended December
+     31, 2018 of HK$0.025 per share (2017: HK$0.020 per share) has been proposed by the Directors
+     and will be paid to the shareholders of the Company (the “Shareholders”) whose names appear on
+     the register of members of the Company (the “Register of Members”) on Tuesday, June 11, 2019.
+
+     The proposed final dividend is subject to approval by the Shareholders at the forthcoming 2019
+     annual general meeting.
+
+8.   EARNINGS PER SHARE
+     The calculation of the basic and diluted earnings per share attributable to owners of the Company is
+     based on the following data:
+
+                                                                                 2018             2017
+                                                                              RMB’000          RMB’000
+
+     Earnings:
+
+     Earnings for the year attributable to owners of the Company
+       for the purposes of basic and diluted earnings per share                 542,888          394,322
+
+
+                                                                                   2018             2017
+
+     Number of shares:
+
+     Weighted average number of ordinary shares for
+      the purpose of basic earnings per share                             5,223,525,689   5,209,876,859
+
+     Effect of dilutive potential ordinary shares:
+       – Share options                                                        4,225,868       4,715,854
+       – Unvested awarded shares                                             39,093,273      41,694,148
+
+
+     Weighted average number of ordinary shares for the
+      purpose of diluted earnings per share                               5,266,844,830   5,256,286,861
+
+
+     The weighted average number of ordinary shares shown above has been arrived at after deducting
+     the shares held by the trustee of the share award scheme of the Company.
+
+
+
+
+                                                     11
+9.   TRADE AND OTHER RECEIVABLES
+                                                                                 2018             2017
+                                                                              RMB’000          RMB’000
+
+     Trade receivables                                                        1,739,803        1,609,167
+     Deposits, prepayments and other receivables                              1,553,132        1,235,826
+
+
+                                                                              3,292,935        2,844,993
+
+
+     The Group generally allows an average credit period of 30 days to 60 days which are agreed with
+     each of its trade customers. The aged analysis of the Group’s trade receivables net of allowance for
+     doubtful debts presented based on the invoice date at the end of the reporting period, which
+     approximated the respective revenue recognition dates, is as follows:
+
+                                                                                 2018             2017
+                                                                              RMB’000          RMB’000
+
+     0 to 30 days                                                             1,495,483        1,417,271
+     31 to 90 days                                                              230,681          181,900
+     Over 90 days                                                                13,639            9,996
+
+
+                                                                              1,739,803        1,609,167
+
+
+
+
+                                                   12
+10.   TRADE AND OTHER PAYABLES
+                                                                                   2018             2017
+                                                                                RMB’000          RMB’000
+
+      Trade payables                                                              648,037         548,365
+      Bills payables                                                                2,872          14,479
+      Receipt in advance from customers                                                 –         319,879
+      Deposits from customers                                                     344,464         272,994
+      Amounts due to related and connected parties                                  6,620           6,611
+      Accrued staff costs                                                         361,434         289,480
+      Sales discount and rebate payables                                           48,809          33,648
+      Other tax payables                                                          137,252         111,877
+      Other accruals and payables                                                 548,093         507,084
+
+
+                                                                                2,097,581       2,104,417
+
+
+      The aged analysis of the Group’s trade and bills payables, presented based on the invoice date at the
+      end of the reporting period, is as follows:
+
+                                                                                   2018             2017
+                                                                                RMB’000          RMB’000
+
+      0 to 30 days                                                                646,275         558,534
+      31 to 90 days                                                                 3,079             976
+      Over 90 days                                                                  1,555           3,334
+
+
+                                                                                  650,909         562,844
+
+
+      The average credit period for payment of purchases of goods is ranging from 30 days to 60 days.
+      The Group has financial risk management policies in place to ensure that all payables are settled
+      within the credit timeframe.
+
+
+
+
+                                                   13
+MANAGEMENT DISCUSSION AND ANALYSIS
+Business Review
+Business Model and Environment
+Throughout 2018, the Group continued to pour resources into elevating the operational
+efficiency of its brick and mortar (“B&M”) stores by using proven technologies to
+enhance the shopping experience of consumers – both via in-store B2C and C2C. This
+also paved the way for the Group to communicate with consumers through its
+omni-channel (i.e. B&M stores and its online app) approaches in the coming years, while
+moving it closer to its vision and mission to “Make sports your life!” and “Discover your
+persistent passion for sports by providing convenient and fun sports experiences via
+unique channels full of quality services and products you can access everyday.”.
+
+The Group is gearing up to position itself not only as a top ranking retailer for world-
+renowned sportswear brands in the Greater China region, but also as a sports services
+platform that enhances the stories around the brand owners’ products and provides
+quality customer relationship management (“CRM”) that utilises the Group’s unique
+resources in sports events and related services to communicate with consumers on the
+initiatives for “Make sports your life!” in ways that are fun and convenient through
+online and offline. Alongside these efforts to enhance and elevate the Group’s
+operational efficiency, it has been progressively offering more unique experiences,
+quality services, in-depth CRM and better product mix via its omni-channel while also
+experimenting with new store concepts which are expected to grow sports brands’
+businesses in China using creative approaches to align with and capture the future
+trends, needs and opportunities.
+
+In order to enhance the plot of the stories of its brand owners’ products and to increase
+consumer loyalty to these products, the Group organised 3-on-3 basketball tournaments,
+marathon events and trail runs in over 20 cities across China in 2018, strengthening the
+communication with sports fans and consumers through a series of months-long CRM
+marketing activities via the Group’s omni-channel, creating longer-lasting impacts than
+just participating in one-day activity event and establishing greater loyalty of consumers
+to the Group in return for the new opportunities for product sales growth. It is the
+Group’s strategy to add more product-related services on intellectual property (“IP”) and
+authorised sports events to build strong loyalty towards the omni-channel operated by
+the Group, through making good use of the consumers’ insights generating from our big
+data collected from an individual consumer’s participation in sports events as well as
+their product purchase records, which will eventually lead the change of its business
+format with less B&M store density but more sales.
+
+
+
+
+                                           14
+During this process of operational enhancement and elevation, the Group also sought to
+make improvements to its existing operations in 2018. Inventory levels were maintained
+at a relatively stable level by better monitoring and planning of procurement practices,
+while new online and offline sales channels were added to reinforce in-season
+sales-through and effective off-season clearance. The Group also developed promotion
+plans with support from its brand partners. It further digitised the business intelligence
+and performance index of its retail business, upgraded its B&M stores and improved
+sales efficiency by integrating and sharing the inventories of its regional stores and
+omni-channel. The Group’s objective is that all of its online sales channels can act as a
+platform for all B&M stores to continue selling products to consumers after they have
+left the stores; price gaps should not be the focus of consumers shopping online, but
+rather the value-added services (i.e. sports events related services), which will lead the
+consumers more willing to shop at the same price online as at the offline stores.
+
+As at December 31, 2018, the Group’s retail network consisted of 5,648 directly
+operated stores and 3,551 sub-distributor stores across the Greater China region.
+
+In order to capture the full benefit of the growing athleisure trend, the Group will
+continue to focus on opening and upgrading its experience-rich B&M stores, as well as a
+new mega store concept with multimedia and high-tech retail features that will better
+integrate the Group’s in-store sports services and sports networking elements with its
+online offerings and other sales channels.
+
+Nevertheless, the sports retailing environment in China remains highly competitive and
+fragmented. Although e-commerce will continue to be a scaled shopping platform that
+offers an attractive product discount, offline retail channels will remain important and
+irreplaceable sales touchpoints, as consumers seek unique and personalised shopping
+experiences for products and services. The Group will continue to invest heavily in
+upgrading and integrating its B&M stores and digital channels to reinforce the consumer
+experience and stimulate higher-margin as well as in-season sales, while also fulfilling
+the ever-changing shopping habits of end consumers. This will result in higher cost
+pressures, such as increased wages for hiring and retaining experienced front line
+sales-staffs and higher rental costs for larger-scale stores with more experience-driven
+facilities, among other investments in its omni-channel platform. While being potentially
+costly, these investments are essential for the Group to maintain its competitive
+advantages in line with the future trend of sports retailing in China.
+
+Despite this, the Group is cautiously optimistic toward the challenging economic
+backdrop, and confident about capturing promising opportunities in the long term.
+
+
+
+
+                                           15
+Analysis of Performance
+Financial Review
+In 2018, the Group recorded revenue of RMB22,677.4 million, representing an increase
+of 20.4% compared with the 2017 financial year. Gross profit was RMB7,598.6 million,
+an increase of 15.2% compared to the 2017 financial year. Profit attributable to owners
+of the Company in 2018 was RMB542.9 million, an increase of 37.7% compared with
+the 2017 financial year.
+
+Revenue
+The Group’s total revenue in 2018 grew 20.4% to RMB22,677.4 million, as compared
+with the 2017 financial year. This growth was attributed to the continuous development
+of the retail business as well as its rapid growth in online business.
+
+Gross Profit
+The Group’s gross profit in 2018 amounted to RMB7,598.6 million, with a gross profit
+margin of 33.5%. The gross profit margin decreased by 1.5 percentage points compared
+to the 2017 financial year due to the change of channel mix, increased discounts and
+clearance sales for emerging brands.
+
+Selling & Distribution Expenses and Administrative Expenses
+The Group’s selling and distribution expenses and administrative expenses in 2018 were
+RMB6,913.0 million, representing 30.5% of total revenue, an increase of 14.2% while
+decreased by 1.6 percentage points, compared with the 2017 financial year. The Group
+continued to invest in new concept stores and stores upgrades, the optimisation of its
+distribution and digital channels, as well as in the motivation of its sales team. These
+activities, together with increased business scale, led to a corresponding increase in staff
+costs, rental and depreciation expenses. With various efforts of cost control, optimisation
+of staffing costs, and closure of non-profitable stores, the operating expense ratio
+decreased by 1.6 percentage points to 30.5%.
+
+Operating Profit
+The Group’s operating profit in 2018 was RMB966.9 million, with an operating profit
+margin of 4.3%, compared to an operating profit of RMB770.4 million and operating
+margin of 4.1% in the 2017 financial year.
+
+Profit for the Year
+Due to the aforementioned reasons, the Group recorded a net profit of RMB560.9 million
+in 2018, an increase of 35.1% compared to the net profit of RMB415.0 million in the
+2017 financial year.
+
+
+
+
+                                            16
+Working Capital Efficiency
+The average inventory turnover period for 2018 was 149 days (2017: 149 days). Under
+the drastically changing market, the stabilisation in the inventory turnover period was
+attributable to an improved in-season sell-through, as well as acceleration of stock
+clearance and enhanced seasonal procurement plans. The Group is continuing to
+diligently manage inventory levels to optimise working capital efficiency. The average
+trade receivables turnover period for 2018 was 27 days (2017: 28 days), which remained
+consistent with the credit terms of 30 to 60 days that the Group gives to its department
+store counters and retail distributors. The average trade and bills payables turnover
+period for 2018 was 15 days (2017: 16 days).
+
+Liquidity and Financial Resources
+As at December 31, 2018, the Group had cash and cash equivalents of RMB731.0
+million (December 31, 2017: RMB377.4 million) and working capital (current assets
+minus current liabilities) of RMB4,628.0 million (December 31, 2017: RMB4,039.6
+million). Total bank and other borrowings were RMB3,531.3 million (December 31,
+2017: RMB2,532.2 million) and are repayable within one year. Bank and other
+borrowings were mainly denominated in Renminbi and so were cash and cash
+equivalents.
+
+The Group’s gearing ratio as of December 31, 2018, represented by total interest-bearing
+loans as a percentage of total equity, was 50.2% (December 31, 2017: 41.0%). The
+Group’s net debt to equity ratio as of December 31, 2018, represented by total
+interest-bearing loans minus bank balances and cash as a percentage of total equity, was
+39.8% (December 31, 2017: 33.5%)
+
+In 2018, the net cash used in operating activities was RMB6.2 million. The Group
+believes its liquidity requirements will be satisfied with the combination of capital
+generated from operating activities and future bank borrowings. The net cash used in
+investing activities in 2018 was RMB506.6 million, while the net cash generated from
+financing activities was RMB865.4 million. In 2018, the Group raised and repaid bank
+and other borrowings of RMB6,892.9 million and RMB5,894.9 million respectively.
+
+Capital Expenditure
+The Group’s capital expenditure primarily comprised of payments for upgrading existing
+store formats, expanding new concept and mega stores, and injecting resources into its
+online and sports services platform. In 2018, total capital expenditure was RMB531.7
+million (2017: RMB576.4 million). As at December 31, 2018, the Group had no material
+capital commitments and contingent liabilities.
+
+
+
+
+                                          17
+Foreign Exchange
+The Group conducted its business primarily in the Greater China region and the majority
+of its transactions are denominated in Renminbi. As at December 31, 2018, the Group
+had no significant hedging instruments for managing its foreign exchange exposure. As
+the exchange rate of RMB against foreign currencies may fluctuate, the Group may enter
+into forward contracts, currency swaps or options to hedge against currency risks arising
+from foreign currency transactions when necessary.
+
+The Group has a dedicated treasury division and internal treasury policies and approval
+guidelines to manage and control the Group’s exposure to complicate and speculative
+financial instruments. The use of derivatives and approval procedures were in accordance
+with our internal policies and guidelines during the year under review.
+
+HUMAN RESOURCES
+As at December 31, 2018, the Group had approximately 32,000 employees in total. The
+Group provides competitive remuneration packages that are determined with reference to
+prevailing salary levels in the market and individual performance. The Company offers
+awarded shares and/or share options to eligible employees in order to provide them with
+incentives and to recognise their contributions and ongoing efforts. In addition, the
+Group provides other fringe benefits, such as social insurance, mandatory provident
+funds, medical coverage and training programs for employees based on their respective
+personal career development.
+
+SIGNIFICANT EVENT
+Privatisation
+As the proposal requested by Pou Chen Corporation for the privatisation of the Company
+by way of a scheme of arrangement (the “Proposal” and the “Scheme”, respectively) was
+not approved by certain disinterested Scheme shareholders at the Court meeting held on
+April 9, 2018, the Proposal and the Scheme lapsed. Thus, the Proposal was not
+implemented, the Scheme did not become effective and the shares of the Company (the
+“Shares”) remain listed on the Stock Exchange.
+
+PROSPECTS AND FUTURE DEVELOPMENTS
+The Group’s management remains optimistic about the long-term growth opportunities
+in the sportswear market, which is being supported by rising levels of health awareness,
+higher sports participation rates and the growth of the ‘athleisure’ trend in the Greater
+China region. However, its short-to-medium term performance may be impacted by
+macroeconomic factors impacting China and global markets, including slowing
+economic growth and potential negative sentiment resulting from the trade tensions
+between China and the United States of America.
+
+
+
+
+                                           18
+Despite the aforesaid, the Group’s omni-channel distribution strategy will continue to
+benefit from the favorable environment being created by the support from the PRC
+government for the popularisation of sports activities. This will likely continue as
+China’s economy shifts away from exports and investment-led growth towards more
+sustainable growth based on higher domestic consumption, including increased spending
+on sports and cultural activities.
+
+The prospects for the sportswear market are significant. In its recently announced
+two-year development plan, the General Administration of Sport and the National
+Development and Reform Commission forecast that sports consumption in China will
+reach RMB1.5 trillion by 2020.
+
+The Group will continue to enhance its IP sports events across the Greater China region,
+as well as events licensed by sports event companies, organised with local governments
+or in collaboration with global brand partners. These include, but are not limited to, the
+following:
+
+•    “Go Wild” trail run tournament (IP event)
+•    “Dou Dao Di” 3 on 3 basketball league (IP event)
+•    HOOD to COAST marathon relay (licensed event)
+•    Kunshan Marathon, a cross-Strait focused annual marathon event (lead organiser)
+•    The Beijing and Shanghai marathons and other regional marathons, in cooperation
+     with brand partners
+•    YYsports online virtual running (strategic alliance with China’s biggest running
+     club company)
+•    Mini baseball training camp coached by Taiwan baseball superstar players (licensed
+     event)
+•    Running, basketball, baseball, rock climbing etc. training programs (local events,
+     serving as series to top-level sports events)
+
+In 2019, the Group will launch its first new concept mega store emphasising on a fusion
+design concept that combines products and services together in the offline store using a
+unique online interface. These stores will feature a much larger floor space than the
+Group’s traditional multi-brand stores and will seamlessly combine the sale of
+latest-trend products with professional personalised sports training services and venues,
+creating seamless omni-channel connectivity for enthusiastic sports fans and shoppers.
+
+The new concept store will incorporate more customisation and localisation, and will
+offer a wider variety of offerings. It will combine more high-tech and interactive features
+that will enable it to better cater for changing consumer trends, particularly rising
+demands for in-store experiences. This trend will make the Group easier to benefit from
+rising purchasing powers and changing lifestyles among mid-income consumers, also
+grant it more flexibility to plan and open new concept stores in addition to the locations
+of traditional stores.
+
+
+
+
+                                            19
+The Group will further develop its digital platform and business intelligence systems in
+the coming years to better support inventory management, optimise its resources and
+improve the efficiency of its working capital. At the same time, the Group will make use
+of its mega stores and warehouses as mini-distribution centers to further exploit the
+benefit of this effective channel and logistics strategy. It will continue to integrate and
+upgrade its omni-channel sales and distribution network, CRM applications (such as
+loyalty programs), and operational systems, to support the execution of sporting services
+and events across the Greater China region.
+
+In line with its customer centric strategy, the Group will continue to move closer to its
+goal of expanding the scale of its interaction with consumers to 365-day communications
+by cooperating with potential strategic partners and by connecting brands’ products to
+relevant sports events and related services to build consumers’ loyalty.
+
+Despite the challenging business environment and intensifying competition, the Group
+expects to further enhance its long-term performance and profitability by optimising its
+resources in order to maximise the returns for its customers, partners, employees and
+shareholders.
+
+SHARE OPTION SCHEME
+The share option scheme of the Company was adopted by the Shareholders on May 14,
+2008 (the “Share Option Scheme”), certain terms of which were amended on March 7,
+2012, and was valid and effective for a period of ten years from the date of adoption.
+The Share Option Scheme expired at the end of the day on May 13, 2018, after which no
+further share options should be offered or granted. However, the share options granted
+prior to the expiration of the Share Option Scheme shall continue to be valid and
+exercisable within their respective prescribed exercisable periods.
+
+As at December 31, 2018, an aggregate of 19,584,000 ordinary Shares have been issued,
+an aggregate of 18,913,640 ordinary Shares, representing approximately 0.35% of the
+total number of issued Shares, are issuable on the exercise of share options; and an
+aggregate of 28,244,190 ordinary Shares may be issued upon fully exercise of all share
+options granted under the Share Option Scheme.
+
+
+
+
+                                            20
+SHARE AWARD SCHEME
+The share award scheme of the Company was adopted on May 9, 2014 and duly amended
+on November 11, 2016, which is valid and effective for a term of 10 years commencing
+on May 9, 2014 (the “Share Award Scheme”). Any proposed award should be determined
+on the basis of individual performance and must be recommended by the remuneration
+committee of the Board and approved by the Board. The total number of Shares to be
+awarded under the Share Award Scheme shall not exceed 4% of the issued Shares as at
+the date of grant. The maximum number of Shares (including vested and non-vested
+Shares) which may be awarded to a selected participant shall not exceed 1% of the
+issued Shares from time to time.
+
+Eligible participant(s) selected by the Board for participation in the Share Award
+Scheme shall have no right to any dividend held under the trust before vesting which
+shall form part of the residual cash or any of the returned Shares. The trustee of the
+Share Award Scheme shall not exercise the voting rights in respect of any Shares held
+under the trust (including but not limited to the awarded Shares, the returned Shares, any
+bonus Shares and scrip dividend).
+
+During the year ended December 31, 2018, 20,179,000 share awards were granted,
+3,876,000 share awards lapsed or were cancelled and 13,538,680 share awards were
+vested under the Share Award Scheme. As at December 31, 2018, an aggregate of
+43,843,450 share awards which are subject to certain vesting conditions, remain
+unvested.
+
+ANNUAL GENERAL MEETING
+The forthcoming 2019 annual general meeting of the Company will be held on Friday,
+May 31, 2019 (the “2019 AGM”). Notice of the 2019 AGM will be published and issued
+to the Shareholders in due course.
+
+FINAL DIVIDEND
+The Directors recommend the payment of a final dividend in respect of the year ended
+December 31, 2018 of HK$0.025 per Share (2017: HK$0.020 per Share) to the
+Shareholders whose names appear on the Register of Members on Tuesday, June 11,
+2019, amounting to approximately HK$133.9 million, subject to approval by the
+Shareholders at the 2019 AGM.
+
+
+
+
+                                           21
+CLOSURE OF REGISTER OF MEMBERS
+Entitlement to attend and vote at the 2019 AGM
+For the purpose of ascertaining entitlement to attend and vote at the 2019 AGM (the
+“Entitlement to 2019 AGM”), the Register of Members will be closed from Monday,
+May 27, 2019 to Friday, May 31, 2019, both days inclusive, during which period no
+transfer of Shares will be effected. In order to be eligible to attend and vote at the 2019
+AGM, all transfer documents accompanied by the relevant share certificates must be
+lodged with the Company’s branch share registrar and transfer office in Hong Kong,
+Computershare Hong Kong Investor Services Limited at Shops 1712-1716, 17th Floor,
+Hopewell Centre, 183 Queen’s Road East, Wanchai, Hong Kong for registration no later
+than 4:30 p.m. on Friday, May 24, 2019. The record date for Entitlement to 2019 AGM
+will be Friday, May 31, 2019.
+
+Entitlement to the proposed final dividend
+For the purpose of ascertaining entitlement to the proposed final dividend (the
+“Entitlement to Final Dividend”), the Register of Members will be closed from Tuesday,
+June 11, 2019 to Friday, June 14, 2019, both days inclusive, during which period no
+transfer of Shares will be effected. In order to qualify for the proposed final dividend
+payable on Monday, June 24, 2019, all transfer documents accompanied by the relevant
+share certificates must be lodged with the Company’s branch share registrar and transfer
+office in Hong Kong, Computershare Hong Kong Investor Services Limited at Shops
+1712-1716, 17th Floor, Hopewell Centre, 183 Queen’s Road East, Wanchai, Hong Kong
+for registration no later than 4:30 p.m. on Monday, June 10, 2019. Dividend warrants
+will be despatched on Monday, June 24, 2019. The record date for Entitlement to Final
+Dividend will be Tuesday, June 11, 2019.
+
+PURCHASE, SALE OR REDEMPTION OF LISTED SECURITIES
+During the year ended December 31, 2018, neither the Company nor any of its
+subsidiaries purchased, sold or redeemed any of the Company’s Shares listed and traded
+on the Stock Exchange (2017: nil).
+
+REVIEW OF ACCOUNTS
+The audit committee of the Board has reviewed, with management and the independent
+auditor of the Company, the Group’s consolidated financial statements for the year
+ended December 31, 2018, the accounting principles and practices adopted by the Group
+and has discussed auditing, risk management and internal controls, and financial
+reporting matters.
+
+CORPORATE GOVERNANCE
+During the year ended December 31, 2018, the Company has applied the principles of
+and has complied with all code provisions contained in the Corporate Governance Code
+set out in Appendix 14 to the Listing Rules.
+
+
+
+
+                                            22
+MODEL CODE FOR SECURITIES TRANSACTIONS BY DIRECTORS
+The Company has adopted the Model Code for Securities Transactions by Directors of
+Listed Issuers (the “Model Code”) as set out in Appendix 10 to the Listing Rules as the
+Company’s code of conduct for dealings in securities of the Company by Directors.
+Following specific enquiry by the Company to all Directors, each of them has confirmed
+that he/she has complied with the required standard set out in the Model Code
+throughout the year ended December 31, 2018.
+
+PUBLICATION OF RESULTS ANNOUNCEMENT AND ANNUAL REPORT
+This announcement is published on the website of the Company (www.pousheng.com)
+and the designated issuer website of Stock Exchange (www.hkexnews.hk). The annual
+report 2018 of the Company will be dispatched to the Shareholders and available on the
+above websites in due course.
+
+ACKNOWLEDGEMENT
+I would like to take this opportunity to express our sincere appreciation of the support
+from our customers, suppliers and shareholders. I would also like to thank my fellow
+Directors for their valuable contribution and the staff of the Group for their commitment
+and dedicated services throughout the year.
+
+                                                               By Order of the Board
+                                                                  Wu, Pan-Tsu
+                                                                    Chairman
+
+Hong Kong, March 22, 2019
+
+As at the date of this announcement, the Board comprises:
+
+Executive Directors
+Mr. Wu, Pan-Tsu (Chairman) and Mr. Lee, Shao-Wu (Chief Executive Officer)
+
+Non-executive Directors
+Ms. Tsai Patty, Pei Chun and Mr. Li I-nan
+
+Independent Non-executive Directors
+Mr. Chen, Huan-Chung, Mr. Hsieh, Wuei-Jung and Mr. Feng Lei Ming
+
+Website: www.pousheng.com
+
+
+
+
+                                            23
+

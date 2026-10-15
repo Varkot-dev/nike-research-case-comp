@@ -1,0 +1,30 @@
+== R1. drop FOSL and PTON ==
+  nGM+ x6_^GSPC                                N= 27 cos=20 pos= 10/27   37% W[ 22, 56] B[ 19, 54] med= -20 medCI[ -35, +10]
+  nGM+ x12_^GSPC                               N= 27 cos=20 pos= 11/27   41% W[ 25, 59] B[ 21, 61] med= -18 medCI[ -25, +17]
+  nGM+ x12_XRT                                 N= 27 cos=20 pos= 12/27   44% W[ 28, 63] B[ 25, 64] med=  -1 medCI[ -23, +30]
+  nGM- x6_^GSPC                                N= 29 cos=22 pos=  9/29   31% W[ 17, 49] B[ 16, 50] med= -22 medCI[ -29,  -0]
+  nGM- x12_^GSPC                               N= 29 cos=22 pos=  7/29   24% W[ 12, 42] B[ 10, 39] med= -29 medCI[ -37, -19]
+  nGM- x12_XRT                                 N= 29 cos=22 pos=  7/29   24% W[ 12, 42] B[ 10, 39] med= -18 medCI[ -29,  -7]
+== R2. brand owners only (no pure retailers) ==
+  brands nGM+ x6_^GSPC                         N= 17 cos=10 pos= 10/17   59% W[ 36, 78] B[ 36, 82] med=  +7 medCI[ -20, +40]
+  brands nGM+ x12_^GSPC                        N= 17 cos=10 pos= 10/17   59% W[ 36, 78] B[ 31, 88] med= +16 medCI[ -22, +52]
+  brands nGM+ x12_XRT                          N= 17 cos=10 pos= 10/17   59% W[ 36, 78] B[ 31, 88] med= +24 medCI[  -1, +61]
+  brands nGM- x6_^GSPC                         N= 17 cos=10 pos=  4/17   24% W[ 10, 47] B[  6, 47] med= -29 medCI[ -39,  -0]
+  brands nGM- x12_^GSPC                        N= 17 cos=10 pos=  3/17   18% W[  6, 41] B[  0, 36] med= -37 medCI[ -62, -19]
+  brands nGM- x12_XRT                          N= 17 cos=10 pos=  3/17   18% W[  6, 41] B[  0, 36] med= -29 medCI[ -51, -12]
+== R3. ex-ante: current GM up AND next OM down (Nike Q1 FY27 +61bp, guide says EBIT falls faster than revenue) ==
+  curGM+ & nOM- x6_^GSPC                       N= 17 cos=14 pos=  8/17   47% W[ 26, 69] B[ 27, 71] med= -20 medCI[ -37, +15]
+  curGM+ & nOM- x12_^GSPC                      N= 17 cos=14 pos=  6/17   35% W[ 17, 59] B[ 14, 62] med= -22 medCI[ -25,  +4]
+  curGM+ & nOM- x12_XRT                        N= 17 cos=14 pos=  6/17   35% W[ 17, 59] B[ 14, 62] med= -11 medCI[ -25, +14]
+  curGM+ & nGM+ & nOM- x6_^GSPC                N= 12 cos= 9 pos=  6/12   50% W[ 25, 75] B[ 27, 78] med=  -7 medCI[ -37, +15]
+  curGM+ & nGM+ & nOM- x12_^GSPC               N= 12 cos= 9 pos=  4/12   33% W[ 14, 61] B[  8, 64] med= -23 medCI[ -30, +63]
+  curGM+ & nGM+ & nOM- x12_XRT                 N= 12 cos= 9 pos=  4/12   33% W[ 14, 61] B[  8, 64] med=  -7 medCI[ -25, +70]
+== R4. drawdown >= 75% only (Nike about 80% below its 2021 high) ==
+  dd75 nGM+ x6_^GSPC                           N= 19 cos=12 pos= 10/19   53% W[ 32, 73] B[ 31, 71] med=  +3 medCI[ -20, +15]
+  dd75 nGM+ x12_^GSPC                          N= 19 cos=12 pos= 10/19   53% W[ 32, 73] B[ 27, 75] med= +16 medCI[ -22, +30]
+  dd75 nGM+ x12_XRT                            N= 19 cos=12 pos= 10/19   53% W[ 32, 73] B[ 27, 75] med= +24 medCI[ -11, +44]
+  dd75 nGM- x6_^GSPC                           N= 12 cos=10 pos=  3/12   25% W[  9, 53] B[  0, 55] med= -23 medCI[ -44, +31]
+  dd75 nGM- x12_^GSPC                          N= 12 cos=10 pos=  3/12   25% W[  9, 53] B[  0, 55] med= -36 medCI[ -66, +21]
+  dd75 nGM- x12_XRT                            N= 12 cos=10 pos=  3/12   25% W[  9, 53] B[  0, 55] med= -22 medCI[ -57, +24]
+== R5. worst point within 12 months, nGM+ bucket ==
+  median min12 -30  share with min12 <= -25%: 20 / 33

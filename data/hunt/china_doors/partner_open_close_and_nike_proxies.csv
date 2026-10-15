@@ -1,0 +1,31 @@
+company,fiscal_period,metric,value,unit,source
+Topsports,FY2022/23 (to 28 Feb 2023),stores_opened,429,stores,ts_AR2526 p.9 table (HKEX 2026062400677)
+Topsports,FY2022/23 (to 28 Feb 2023),stores_closed,1559,stores,ts_AR2526 p.9
+Topsports,FY2023/24 (to 29 Feb 2024),stores_opened,526,stores,ts_AR2526 p.9
+Topsports,FY2023/24 (to 29 Feb 2024),stores_closed,947,stores,ts_AR2526 p.9
+Topsports,FY2024/25 (to 28 Feb 2025),stores_opened,258,stores,ts_AR2526 p.9
+Topsports,FY2024/25 (to 28 Feb 2025),stores_closed,1382,stores,ts_AR2526 p.9
+Topsports,FY2025/26 (to 28 Feb 2026),stores_opened,201,stores,ts_AR2526 p.9
+Topsports,FY2025/26 (to 28 Feb 2026),stores_closed,861,stores,ts_AR2526 p.9
+Topsports,FY2022/23,gross_selling_area_yoy,-6.8,pct,ts_AR2526 p.9
+Topsports,FY2023/24,gross_selling_area_yoy,-0.8,pct,ts_AR2526 p.9
+Topsports,FY2024/25,gross_selling_area_yoy,-12.4,pct,ts_AR2526 p.9
+Topsports,FY2025/26,gross_selling_area_yoy,-9.7,pct,ts_AR2526 p.9
+Topsports,Q1 FY2026/27 (to 31 May 2026),gross_selling_area_yoy,-11.2,pct,HKEX 2026062500529
+Topsports,Q1 FY2026/27 (to 31 May 2026),gross_selling_area_qoq,-2.9,pct,HKEX 2026062500529
+Topsports,FY2021/22,largest_supplier_share_of_purchases,59.0,pct,ts_AR2122 directors report (supplier unnamed; Nike by inference: Nike and Adidas are the named principal brands)
+Topsports,FY2022/23,largest_supplier_share_of_purchases,62.8,pct,ts_AR2223
+Topsports,FY2023/24,largest_supplier_share_of_purchases,64.8,pct,ts_AR2324
+Topsports,FY2024/25,largest_supplier_share_of_purchases,66.6,pct,ts_AR2425
+Topsports,FY2025/26,largest_supplier_share_of_purchases,62.7,pct,ts_AR2526 p.(Major customers and suppliers)
+Topsports,FY2023/24,principal_brands_(Nike+adidas)_revenue,24834.1,RMB m,ts_AR2425 / ts_AR2324
+Topsports,FY2024/25,principal_brands_(Nike+adidas)_revenue,23310.7,RMB m,ts_AR2526
+Topsports,FY2025/26,principal_brands_(Nike+adidas)_revenue,22329.9,RMB m,ts_AR2526 (-4.2%)
+Topsports,H1 FY2025/26 (Mar-Aug 2025),principal_brands_revenue,10811.5,RMB m,HKEX 2025102200838 (-4.8% vs 11351.3)
+Topsports,FY2025/26,nike_online_share_of_group_revenue,22,pct,HKEX 2026072200069 inside information 2026-07-22
+Pou Sheng,FY2021 (Dec 2021),largest_supplier_share_of_purchases,40.0,pct,ps_AR2021 (annual report 2021 filed 2022-04-14; supplier unnamed; printed 40.0%)
+Pou Sheng,FY2022 (Dec 2022),largest_supplier_share_of_purchases,60,pct,ps_AR2022 (filed 2023-04-20)
+Pou Sheng,FY2023 (Dec 2023),largest_supplier_share_of_purchases,61,pct,ps_AR2023 (filed 2024-04-22)
+Pou Sheng,FY2024 (Dec 2024),largest_supplier_share_of_purchases,58,pct,ps_AR2024 (filed 2025-04-22)
+Pou Sheng,FY2025 (Dec 2025),largest_supplier_share_of_purchases,55,pct,ps_AR2025 (filed 2026-04-21)
+Pou Sheng,FY2025 (Dec 2025),nike_online_share_of_group_revenue,15,pct,HKEX Pou Sheng announcement 2026-07-22 as reported by press (SNIPPET)

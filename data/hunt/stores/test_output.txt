@@ -1,0 +1,180 @@
+=== T1 US Nike-owned stores (locator, weekly) vs 10-K ===
+kind        factory_clearance  inline
+run_date                             
+2025-04-17                212      81
+2025-05-10                212      81
+2025-06-07                213      82
+2025-07-05                213      80
+2025-07-19                213      80
+2025-08-09                212      80
+2025-09-06                212      80
+2025-10-04                211      81
+2025-11-01                210      83
+2025-11-29                210      82
+2025-12-27                210      82
+2026-01-24                211      81
+2026-02-21                211      78
+2026-03-21                212      78
+2026-04-18                212      79
+2026-06-06                212      74
+2026-07-04                213      73
+2026-08-01                212      40
+2026-08-29                212      40
+2026-09-26                212      40
+kind        factory_clearance  inline
+run_date                             
+2026-08-15                212      40
+2026-08-22                212      40
+2026-08-29                212      40
+2026-09-05                212      40
+2026-09-12                212      40
+2026-09-19                212      40
+2026-09-26                212      40
+2026-10-03                212      40
+
+=== T1b closures (refs last seen before final run), US owned, by month ===
+last_seen  brand             
+2025-06    Nike                   2
+2025-07    Nike Factory Store     1
+2025-10    Nike                   1
+2025-11    Nike                   1
+2026-01    Nike                   3
+2026-02    Nike                   1
+2026-04    Nike                   3
+2026-05    Nike                   2
+           Nike Factory Store     1
+2026-06    Nike                   1
+2026-07    Nike                  33
+           Nike Factory Store     1
+US owned new refs since 2025-04-17: 8 {'Nike': 6, 'Nike Factory Store': 2}
+
+=== T2 US athletic partner doors (filings) ===
+partner     Academy  Big 5  DICK'S  Foot Locker  Genesco (Journeys etc)  Kohl's
+as_at                                                                          
+2019-02-02      NaN    NaN     NaN       2263.0                     NaN     NaN
+2020-02-01      NaN    NaN     NaN       2230.0                     NaN  1159.0
+2021-01-30    259.0    NaN   728.0       2185.0                  1460.0     NaN
+2022-01-29    259.0    NaN   730.0       1985.0                  1425.0     NaN
+2023-01-01      NaN  432.0     NaN          NaN                     NaN     NaN
+2023-01-28    268.0    NaN   728.0       1846.0                  1410.0     NaN
+2024-02-03    282.0    NaN   724.0       1744.0                  1341.0     NaN
+2025-02-01    298.0    NaN   723.0       1665.0                  1278.0  1175.0
+2025-06-29      NaN  414.0     NaN          NaN                     NaN     NaN
+2026-01-31    322.0    NaN   721.0       1610.0                  1236.0  1153.0
+2026-08-01    327.0    NaN   723.0       1531.0                  1186.0     NaN
+spider   academy_us  adidas  dicks_sporting_goods    dsw  foot_locker  hibbett_sports  jd_sports_us  puma  skechers
+m                                                                                                                  
+2025-01         NaN   199.0                   NaN    NaN          NaN             NaN           NaN   NaN       NaN
+2025-04       311.0   199.0                 341.5  498.0       1461.0             NaN         325.0  12.0     630.0
+2025-07       316.0   199.0                 773.0  497.0       1323.0             NaN         343.0  11.0     647.0
+2025-10       322.0   199.0                 780.0  501.0       1319.5           593.0         367.0  11.0       NaN
+2026-01       324.0   199.0                 781.0  501.0       1319.0             NaN         392.0  11.0     666.0
+2026-04       326.0   199.0                 774.0  492.0       1290.0           596.0         405.0  11.0     683.0
+2026-07       343.0     NaN                 777.0  495.0       1286.0           583.5         426.0  11.0     697.0
+2026-10       347.0   177.0                   NaN  495.0       1292.0             NaN         437.0  11.0     705.0
+
+=== T3 China partner doors: Topsports, Pou Sheng vs Anta, Li Ning controls ===
+           as_at  directly_operated_stores
+29 February 2020                      8395
+  31 August 2020                      8156
+  31 August 2021                      7785
+28 February 2022                      7695
+  31 August 2022                      6928
+28 February 2023                      6565
+  31 August 2023                      6209
+29 February 2024                      6144
+  31 August 2024                      5813
+28 February 2025                      5020
+  31 August 2025                      4688
+28 February 2026                      4360
+     as_at  directly_operated_stores  net_change_in_period
+2018-12-31                      5648                   NaN
+2019-06-30                      5895                   NaN
+2019-12-31                      5883                   NaN
+2020-06-30                      5597                   NaN
+2020-12-31                      5240                   NaN
+2021-06-30                      4968                   NaN
+2021-12-31                      4631                   NaN
+2022-06-30                      4455                -176.0
+2022-12-31                      4093                -538.0
+2023-06-30                      3723                -370.0
+2023-12-31                      3523                -570.0
+2024-06-30                      3478                 -45.0
+2024-12-31                      3448                 -75.0
+2025-06-30                      3408                 -40.0
+2025-12-31                      3310                -138.0
+2026-06-30                      3110                -200.0
+     as_at  anta_brand_stores_mainland_and_overseas
+2023-12-31                                     7053
+2024-06-30                                     7073
+2024-12-31                                     7135
+2025-06-30                                     7187
+2025-12-31                                     7203
+2026-06-30                                     7122
+            as_at  lining_core_pos_china
+    31 March 2021                   5784
+     30 June 2021                   5704
+30 September 2021                   5803
+ 31 December 2021                   5935
+    31 March 2022                   5872
+     30 June 2022                   5937
+30 September 2022                   6101
+ 31 December 2022                   6295
+    31 March 2023                   6206
+     30 June 2023                   6167
+30 September 2023                   6294
+ 31 December 2023                   6240
+    31 March 2024                   6214
+     30 June 2024                   6239
+30 September 2024                   6281
+ 31 December 2024                   6117
+    31 March 2025                   6088
+     30 June 2025                   6099
+30 September 2025                   6132
+ 31 December 2025                   6091
+    31 March 2026                   6075
+     30 June 2026                   6063
+           as_at  selling_area_qoq_pct  selling_area_yoy_pct retail_wholesale_sales_yoy_band
+30 November 2021                   3.9                   7.0            low-twenties decline
+28 February 2022                   0.6                   5.4              high-teens decline
+     31 May 2022                  -2.0                   2.8           high-twenties decline
+  31 August 2022                  -3.2                  -0.7        low single digit decline
+30 November 2022                  -1.3                  -5.7              high-teens decline
+28 February 2023                  -0.5                  -6.8               low-teens decline
+     31 May 2023                  -1.7                  -6.5           low-twenties increase
+  31 August 2023                   0.0                  -3.5        low single digit decline
+30 November 2023                   0.5                  -1.7              low-teens increase
+29 February 2024                   0.4                  -0.8       low single digit increase
+     31 May 2024                  -1.4                  -0.5        mid single digit decline
+  31 August 2024                  -1.3                  -1.9               low-teens decline
+30 November 2024                  -2.1                  -4.4        mid-single-digit decline
+28 February 2025                  -8.0                 -12.4        mid-single-digit decline
+     31 May 2025                  -1.3                 -12.3        mid-single-digit decline
+  31 August 2025                  -3.3                 -14.1       high-single-digit decline
+30 November 2025                  -1.3                 -13.4       high-single-digit decline
+28 February 2026                  -4.2                  -9.7        low-single-digit decline
+     31 May 2026                  -2.9                 -11.2               low-teens decline
+
+=== T3b Nike locator China (data quality) ===
+owner:type  FRANCHISEE_PARTNER_STORE  MONO_BRAND_NON_FRANCHISEE_PARTNER_STORE  NIKE_OWNED_STORE
+run_date                                                                                       
+2025-04-17                       920                                     1144               237
+2025-05-10                       988                                     1304               237
+2025-06-07                      1000                                     1377               237
+2025-07-05                      1002                                     1379               237
+2025-07-19                      1005                                     1420               237
+2025-08-09                      1005                                     1420               238
+2025-09-06                      1008                                     1430               238
+2025-10-04                      1008                                     1430               230
+2025-11-01                      1008                                     1430               230
+2025-11-29                      1008                                     1430               230
+2025-12-27                      1008                                     1430               230
+2026-01-24                      1008                                     1430               224
+2026-02-21                      1008                                     1430               224
+2026-03-21                      1008                                     1430               225
+2026-04-18                      1008                                     1430               225
+2026-06-06                      1008                                     1430               225
+2026-07-04                      1008                                     1430               225
+2026-08-01                      1008                                     1430               225
+2026-08-29                      1008                                     1430               228
+2026-09-26                      1008                                     1430               236

@@ -1,0 +1,106 @@
+grp           new  orig16
+brand                    
+ASICS         393    1085
+Brooks         69     271
+Converse      483     331
+HOKA          278     520
+Jordan        602    1863
+New Balance   782    1255
+Nike         2825    3882
+On            463     615
+Puma          479     518
+Reebok        129     108
+Salomon       206     315
+Saucony       218     538
+Vans          529     499
+adidas       1305    1834
+brand                           ASICS  Brooks  Converse  HOKA  Jordan  New Balance  Nike   On  Puma  Reebok  Salomon  Saucony  Vans  adidas
+store                                                                                                                                      
+bdgastore.com                       6       0         5     0      24            0   169    0    23       0        1        0     0       0
+capsuletoronto.com                 86       0        50    30      33           97   380   37     0       0       16        7     0       0
+cncpts.com                         20       0         3    12      10           35    78   12    41       0        8        0    10      49
+extrabutterny.com                 152      25        26   103     165          102   361   96    95      24       77       51    49     187
+kith.com                          109       0        23     6      81          303   255   34    41       1       35       42    36     237
+pacersrunning.com                 239     233         0   165       0          190   135   95    16       0        0      141     0      46
+shoepalace.com                     96       0        47    79     689            0   928  135    49      18       22       35   102     521
+sneakerpolitics.com               101       9        11    68     110           26   344   37    20       6       10       32    62     129
+undefeated.com                     39       0        46     0      51           77   229    0     1      13       30       29    35     123
+www.addictmiami.com                 0      12         0    15       5           46    40   89     2       0        0        1     2     148
+www.apbstore.com                    2       0         9     0      23           13    77    0    14       0        0        4     6      52
+www.dtlr.com                       64       0        14     1     317          125   487    0    12       0        0       39    49      32
+www.featuresneakerboutique.com     70       0        58    61      38           67    42  160    61       1       38       44    51      77
+www.footdistrict.com               19       2         4     1      19            0    53    0    15       0        0        1     1      63
+www.laceupnyc.com                   0       0        39     0       0           24     0    0    13       0        0        7    77      43
+www.lapstoneandhammer.com         142       4        32     7     224          166   498   25    30      20       59       90    40     143
+www.notre-shop.com                 42       0        10    18      30            9   106    0     0       0        0        0    19       3
+www.nrml.ca                        16       0         0     3      86           36   172   36     4       0        0        5     0      80
+www.oneness287.com                 95       0       260    61      81           53   587    0    93      41       68       78   151     414
+www.packershoes.com                19       0         5     3       4           15    29    3     0      16        0        5     6      20
+www.shoegallerymiami.com           14       0         1    41       4            8    30   44     2       6       16        3     6      19
+www.sneakersnstuff.com              0       0        32     0      20           63    68   14    61      20       33       13    21     150
+www.socialstatuspgh.com             3       0        15     0      81           79   105    7    54       5        2       18    19      85
+www.solefly.com                    30       0         0    38     109            0   248    3     0       1       23       12    14       1
+www.stadiumgoods.com              114      55       124    86     261          503  1286  251   350      65       83       99   272     517
+                   coef_vs_adidas  se_cluster_store              set  n_stores
+brand_ASICS                 0.057             0.054       all stores        25
+brand_Brooks                0.074             0.087       all stores        25
+brand_Converse              0.097             0.097       all stores        25
+brand_HOKA                 -0.032             0.061       all stores        25
+brand_Jordan                0.100             0.093       all stores        25
+brand_New Balance           0.051             0.054       all stores        25
+brand_Nike                  0.026             0.062       all stores        25
+brand_On                   -0.097             0.060       all stores        25
+brand_Puma                  0.102             0.063       all stores        25
+brand_Reebok                0.120             0.055       all stores        25
+brand_Salomon              -0.044             0.056       all stores        25
+brand_Saucony               0.087             0.081       all stores        25
+brand_Vans                 -0.044             0.055       all stores        25
+brand_ASICS                -0.058             0.032  new stores only        10
+brand_Brooks               -0.078             0.047  new stores only        10
+brand_Converse             -0.018             0.089  new stores only        10
+brand_HOKA                 -0.086             0.045  new stores only        10
+brand_Jordan               -0.038             0.032  new stores only        10
+brand_New Balance          -0.048             0.026  new stores only        10
+brand_Nike                 -0.075             0.044  new stores only        10
+brand_On                   -0.089             0.053  new stores only        10
+brand_Puma                  0.058             0.083  new stores only        10
+brand_Reebok               -0.004             0.013  new stores only        10
+brand_Salomon              -0.051             0.033  new stores only        10
+brand_Saucony              -0.052             0.041  new stores only        10
+brand_Vans                 -0.126             0.072  new stores only        10
+                n   md10  fresh_le180d_md10  n_fresh
+brand                                               
+ASICS        1478  0.252              0.220      868
+HOKA          798  0.185              0.129      411
+Jordan       2465  0.340              0.194     1285
+New Balance  2037  0.210              0.070     1205
+Nike         6707  0.229              0.154     3629
+On           1078  0.065              0.015      685
+adidas       3139  0.179              0.095     1712
+brand                           ASICS  HOKA  Jordan  New Balance  Nike    On  adidas
+store                                                                               
+bdgastore.com                    1.00   NaN    0.25          NaN  0.62   NaN     NaN
+capsuletoronto.com               0.00  0.07    0.00         0.01  0.01  0.05     NaN
+cncpts.com                       0.05  0.00    0.00         0.00  0.00  0.00    0.00
+extrabutterny.com                0.20  0.29    0.26         0.48  0.27  0.25    0.36
+kith.com                         0.00  0.00    0.02         0.01  0.01  0.00    0.00
+pacersrunning.com                0.30  0.22     NaN         0.22  0.15  0.01    0.00
+shoepalace.com                   0.27  0.25    0.48          NaN  0.33  0.13    0.02
+sneakerpolitics.com              0.83  0.19    0.45         0.38  0.53  0.16    0.59
+undefeated.com                   0.62   NaN    0.53         0.81  0.54   NaN    0.77
+www.addictmiami.com               NaN  0.00    0.00         0.07  0.10  0.02    0.14
+www.apbstore.com                 0.00   NaN    0.09         0.08  0.08   NaN    0.02
+www.dtlr.com                     0.53  0.00    0.74         0.48  0.68   NaN    0.72
+www.featuresneakerboutique.com   0.41  0.41    0.08         0.78  0.48  0.02    0.26
+www.footdistrict.com             0.58  1.00    0.74          NaN  0.72   NaN    0.71
+www.laceupnyc.com                 NaN   NaN     NaN         0.08   NaN   NaN    0.14
+www.lapstoneandhammer.com        0.04  0.00    0.01         0.29  0.01  0.00    0.06
+www.notre-shop.com               0.36  0.11    0.37         0.56  0.22   NaN    0.00
+www.nrml.ca                      0.38  1.00    0.34         0.33  0.29  0.08    0.44
+www.oneness287.com               0.07  0.00    0.05         0.08  0.02   NaN    0.13
+www.packershoes.com              0.53  1.00    0.25         0.93  0.07  1.00    0.85
+www.shoegallerymiami.com         0.00  0.00    0.00         0.38  0.00  0.00    0.26
+www.sneakersnstuff.com            NaN   NaN    0.55         0.52  0.79  0.57    0.45
+www.socialstatuspgh.com          0.33   NaN    0.05         0.32  0.14  0.14    0.11
+www.solefly.com                  0.37  0.34    0.61          NaN  0.59  0.00    1.00
+www.stadiumgoods.com             0.00  0.00    0.00         0.00  0.00  0.00    0.00

@@ -1,0 +1,1973 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility for the contents of this
+announcement, make no representation as to its accuracy or completeness and expressly disclaim any liability whatsoever for any loss
+howsoever arising from or in reliance upon the whole or any part of the contents of this announcement.
+
+
+
+
+                                 ANNUAL RESULTS ANNOUNCEMENT
+                               FOR THE YEAR ENDED 31 DECEMBER 2017
+
+ FINANCIAL HIGHLIGHTS
+
+ •      Reported net profit attributable to equity holders increased by 56% to RMB515 million, net profit margin
+        raised from 4.1% to 5.8% (comparative figures excluding net gain on disposal of 10% equity interest in
+        Double Happiness):
+        –     Revenue increased by 11% to RMB8,874 million
+        –     Gross profit margin expanded 0.9 percentage point
+        –     Enhanced operating leverage through disciplined cost management
+
+ •      Operating cash flow increased by approximately 40% to RMB1,159 million (relating to continuing
+        operations only).
+
+ •      Significant improvement in working capital continued:
+        –     Gross average working capital improved (reduced) by over 10% while revenue increased by 11%
+        –     Cash conversion cycle further improved (shortened) by 10 days (2016: 59 days/2017: 49 days)
+        –     Gross trade receivables improved (reduced) by 14%
+
+ OPERATIONAL HIGHLIGHTS
+
+ •      High-single digit growth for total platform retail sell-through, including online and offline channels.
+
+ •      Channel inventory turnover further improved to 6 months.
+
+ •      Overall Same-Store-Sales recorded mid-single digit growth.
+
+ •      Retail capabilities improvement continued:
+        –     Sell-out rate was up by approximately 4 percentage points
+        –     Discount rate improved by over 1 percentage point
+
+
+
+
+                                                               -1-
+ANNUAL RESULTS
+
+The board of directors (the “Board”) of Li Ning Company Limited (the “Company”) is pleased to announce the
+audited consolidated results of the Company and its subsidiaries (collectively, the “Group”) for the year ended 31
+December 2017, together with comparative figures of 2016, as follows:
+
+CONSOLIDATED BALANCE SHEET
+
+                                                                                       As at 31 December
+                                                                        Note              2017           2016
+                                                                                      RMB’000         RMB’000
+
+ASSETS
+Non-current assets
+Property, plant and equipment                                                           838,185           827,677
+Land use rights                                                                          75,986            77,887
+Intangible assets                                                                       257,947           282,696
+Deferred income tax assets                                                              234,327           207,458
+Available-for-sale financial assets                                                      14,000            14,000
+Investments accounted for using the equity method                                       689,071           625,008
+Derivative financial instruments                                                              –               319
+Other receivables and prepayments                                                       101,451            95,009
+
+Total non-current assets                                                              2,210,967         2,130,054
+
+Current assets
+Inventories                                                               4           1,102,538           965,422
+Trade receivables                                                         5           1,138,034         1,370,254
+Other receivables and prepayments – current portion                                     339,867           360,175
+Restricted bank deposits                                                                    721             1,001
+Cash and cash equivalents                                                             2,529,222         1,953,588
+
+Total current assets                                                                  5,110,382         4,650,440
+
+Total assets                                                                          7,321,349         6,780,494
+
+
+
+
+                                                       -2-
+                                                                             As at 31 December
+                                                                     Note       2017           2016
+                                                                            RMB’000         RMB’000
+
+EQUITY
+Capital and reserves attributable to equity holders of the Company
+Ordinary shares                                                               203,347        188,021
+Share premium                                                               3,189,792      2,539,355
+Shares held for Restricted Share Award Scheme                                 (69,600)       (50,605)
+Other reserves                                                              1,086,613      1,171,526
+Retained earnings                                                             660,895        146,302
+
+                                                                            5,071,047      3,994,599
+
+Non-controlling interests in equity                                             2,550          2,550
+
+Total equity                                                                5,073,597      3,997,149
+
+LIABILITIES
+Non-current liabilities
+License fees payable                                                          39,203         44,464
+Derivative financial instruments                                               5,584          1,343
+Deferred income tax liabilities                                               18,323          6,799
+Deferred income                                                               56,832         56,824
+
+Total non-current liabilities                                                119,942        109,430
+
+Current liabilities
+Trade payables                                                        6     1,145,113      1,047,323
+Other payables and accruals                                                   929,263        807,885
+License fees payable – current portion                                         33,392         41,603
+Current income tax liabilities                                                 20,042          9,118
+Borrowings                                                                          –        200,000
+Convertible bonds                                                                   –        567,986
+
+Total current liabilities                                                   2,127,810      2,673,915
+
+Total liabilities                                                           2,247,752      2,783,345
+
+Total equity and liabilities                                                7,321,349      6,780,494
+
+
+
+
+                                                    -3-
+CONSOLIDATED INCOME STATEMENT
+
+                                                                              Year ended 31 December
+                                                                       Note         2017           2016
+                                                                               RMB’000          RMB’000
+
+Continuing operations
+
+Revenue                                                                 3       8,873,912      8,015,293
+Cost of sales                                                           7      (4,697,429)    (4,310,065)
+
+Gross profit                                                                   4,176,483      3,705,228
+
+Distribution expenses                                                   7      (3,273,375)    (2,969,341)
+Administrative expenses                                                 7        (501,066)      (424,129)
+Other income and other gains-net                                        8          43,636         74,047
+
+Operating profit                                                                 445,678        385,805
+
+Finance income                                                          9         43,577          7,460
+Finance expenses                                                        9        (25,537)      (115,035)
+
+Finance income/(expenses) – net                                         9         18,040       (107,575)
+Share of profit of investments accounted for using the equity method              73,806          9,716
+
+Profit before income tax                                                         537,524        287,946
+
+Income tax expense                                                     10        (22,369)       (32,435)
+
+Profit for the year from continuing operations                                   515,155        255,511
+
+Discontinued operations
+
+Profit for the year                                                    13               –       132,157
+Gain on disposal of 10% equity interest in discontinued operations,
+  net of income tax                                                    13               –       313,201
+
+Profit for the year from discontinued operations                       13               –       445,358
+
+Profit for the year                                                              515,155        700,869
+
+Attributable to:
+
+Equity holders of the Company                                                    515,155        643,254
+Non-controlling interests                                                              –         57,615
+
+                                                                                 515,155        700,869
+
+
+
+
+                                                        -4-
+                                                                           Year ended 31 December
+                                                                    Note         2017           2016
+                                                                            RMB’000          RMB’000
+
+Profit attributable to equity holders of the Company arises from:
+
+Continuing operations                                                         515,155        255,511
+Discontinued operations                                             13              –        387,743
+
+                                                                              515,155        643,254
+
+Earnings per share from continuing and discontinued operations
+ attributable to equity holders of the Company for the year
+ (expressed in RMB cents per share)
+
+Basic earnings per share
+
+From continuing operations                                          11          21.47          11.53
+From discontinued operations                                        11              –          17.50
+
+                                                                                21.47          29.03
+
+Diluted earnings per share
+
+From continuing operations                                          11          20.87          11.50
+From discontinued operations                                        11              –          17.45
+
+                                                                                20.87          28.95
+
+
+
+
+                                                    -5-
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+
+                                                                   Year ended 31 December
+                                                                         2017           2016
+                                                                    RMB’000          RMB’000
+
+Profit for the year                                                   515,155        700,869
+Other comprehensive (loss)/income:
+Items that may be reclassified to profit or loss
+Currency translation differences                                       (3,850)         1,213
+
+Total comprehensive income for the year                               511,305        702,082
+
+Attributable to:
+Equity holders of the Company                                         511,305        644,467
+Non-controlling interests                                                   –         57,615
+
+                                                                      511,305        702,082
+
+Total comprehensive income attributable to equity holders of the
+ Company arises from:
+Continuing operations                                                 511,305        256,724
+Discontinued operations                                                     –        387,743
+
+                                                                      511,305        644,467
+
+
+
+
+                                                    -6-
+NOTES:
+
+1.   General Information
+
+     Li Ning Company Limited (the “Company”) and its subsidiaries (together, the “Group”) are principally engaged in brand
+     development, design, manufacture, sale and distribution of sport-related footwear, apparel, equipment and accessories in the People’s
+     Republic of China (the “PRC”).
+
+     The Company was incorporated on 26 February 2004 in the Cayman Islands as an exempted company with limited liability under the
+     Companies Law, Cap.22 (Law 3 of 1961, as consolidated and revised) of the Cayman Islands. The address of its registered office is
+     Cricket Square, Hutchins Drive, P.O. Box 2681, Grand Cayman KY1-1111, Cayman Islands.
+
+     The Company’s shares are listed on the Main Board of The Stock Exchange of Hong Kong Limited.
+
+     These consolidated financial results are presented in Renminbi (“RMB”), unless otherwise stated. These consolidated financial results
+     have been approved for issue by the Board on 21 March 2018.
+
+2.   Basis of preparation
+
+     This note provides a list of the significant accounting policies adopted in the preparation of these consolidated financial results. These
+     policies have been consistently applied to all the years presented, unless otherwise stated.
+
+     (i)     Compliance with IFRS and HKCO
+
+             The consolidated financial results of the Company have been prepared in accordance with International Financial Reporting
+             Standards (“IFRS”) and the disclosure requirements of the Hong Kong Companies Ordinance Cap. 622.
+
+     (ii)    Historical cost convention
+
+             The financial results have been prepared on a historical cost basis, except for the available-for-sale financial assets, financial
+             assets and liabilities (including derivative instruments) – measured at fair value.
+
+     (iii)   New and amended standards adopted by the Group
+
+             The Group has applied the following standards and amendments for the first time for their annual reporting period
+             commencing 1 January 2017:
+
+             Amendments to IAS 12                                 Income taxes
+             Amendments to IAS 7                                  Statement of cash flows
+             Amendments to IFRS 12                                Disclosure of interest in other entities
+
+             The adoption of these amendments did not have any impact on the amounts recognised in prior periods. Most of the
+             amendments will also not affect the current or future periods.
+
+
+
+
+                                                                    -7-
+(iv)   New standards and interpretations not yet adopted
+
+       The following are new standards and amendments to standards that have been issued but are not yet effective for the financial
+       year beginning on 1 January 2017 and have not been early adopted.
+
+       Amendments to IFRS 1                                First time adoption of IFRS (1)
+       Amendments to IFRS 2                                Classification and Measurement of Share-based Payment Transactions (1)
+       IFRS 9                                              Financial instruments (1)
+       IFRS 15                                             Revenue from contracts with customers (1)
+       Amendments to IAS 28                                Investments in associates and joint ventures (1)
+       Amendments to IAS 40                                Transfers of investment property(1)
+       IFRIC 22                                            Foreign Currency Transactions and Advance Consideration(1)
+       IFRS 16                                             Leases (2)
+       IFRIC 23                                            Uncertainty over Income Tax Treatments (2)
+       IFRS 17                                             Insurance Contracts (3)
+       Amendments to IFRS 10 and IAS 28                    Sale or contribution of assets between an investor and its associate or joint
+                                                             venture (4)
+       (1)
+                Effective for the accounting period beginning on 1 January 2018
+       (2)
+                Effective for the accounting period beginning on 1 January 2019
+       (3)
+                Effective for the accounting period beginning on 1 January 2021
+       (4)
+                The effective date is to be determined
+
+       The Group will apply the above new standards and amendments to standards when they become effective. The Group’s
+       assessment of the impact of certain new standards and interpretations is set out below.
+
+       IFRS 9 Financial Instruments
+
+       Nature of change
+
+       IFRS 9 addresses the classification, measurement and derecognition of financial assets and financial liabilities, introduces new
+       rules for hedge accounting and a new impairment model for financial assets.
+
+       Impact
+
+       The Group has reviewed its financial assets and liabilities and does not expect the new guidance to affect the classification
+       and measurement of these financial assets or financial liabilities.
+
+       The new standard also introduces expanded disclosure requirements and changes in presentation. These are expected to change
+       the nature and extent of the Group’s disclosures about its financial instruments particularly in the year of the adoption of the
+       new standard.
+
+       Date of adoption by Group
+
+       Must be applied for financial years commencing on or after 1 January 2018. The Group will apply the new rules
+       retrospectively from 1 January 2018, with the practical expedients permitted under the standard. Comparatives for 2017 will
+       not be restated.
+
+       IFRS 15 Revenue from Contracts with Customers
+
+       Nature of change
+
+       The standard will replace IAS 18 which covers contracts for goods and services and IAS 11 which covers construction
+       contracts and the related literature. The new standard is based on the principle that revenue is recognised when control of a
+       good or service transfers to a customer. The standard permits either a full retrospective or a modified retrospective approach
+       for the adoption.
+
+
+
+
+                                                             -8-
+            Impact
+
+            Management has assessed the effects of applying the new standard on the Group’s financial results and has identified the
+            following areas that will be affected:
+
+            Accounting for the customer loyalty programme – IFRS 15 requires that the total consideration received must be allocated
+            to the points and goods based on relative stand-alone selling prices rather than based on the residual value method. This will
+            result in higher amounts being allocated to the goods sold and result in an earlier recognition of a portion of the revenue.
+
+            Date of adoption by Group
+
+            Mandatory for financial years commencing on or after 1 January 2018. The Group intends to adopt the standard using the
+            modified retrospective approach which means that the cumulative impact of the adoption will be recognised in retained
+            earnings as of 1 January 2018 and that comparatives will not be restated.
+
+            IFRS 16 Leases
+
+            Nature of change
+
+            IFRS 16 was issued in January 2016. It will result in almost all leases being recognised on the balance sheet, as the distinction
+            between operating and finance leases is removed. Under the new standard, an asset (the right to use the leased item) and a
+            financial liability to pay rentals are recognised. The only exceptions are short-term and low-value leases. The accounting for
+            lessors will not significantly change.
+
+            Impact
+
+            The standard will affect primarily the accounting for the Group’s operating leases. As at the reporting date, the Group has
+            non-cancellable operating lease commitments of RMB800,572,000. The Group has not yet assessed what adjustments, if any,
+            are necessary for example because of the change in the definition of the lease term and the different treatment of variable
+            lease payments and of extension and termination options, or what exceptions will be taken. It is therefore not yet possible to
+            estimate the amount of right-of-use assets and lease liabilities that will have to be recognised on adoption of the new standard
+            and how this may affect the Group’s profit or loss and classification of cash flows going forward.
+
+            Date of adoption by Group
+
+            Mandatory for financial years commencing on or after 1 January 2019. At this stage, the Group does not intend to adopt the
+            standard before its effective date. The Group is currently assessing the impact of the new standard on the Group’s results
+            and financial position under different approaches in order to determine whether to apply the simplified transition approach or
+            modified retrospective approach for the first adoption.
+
+            There are no other standards that are not yet effective and that would be expected to have a material impact on the Group in
+            the current or future reporting periods and on foreseeable future transactions.
+
+3.   Segment information
+
+     Management is the Group’s chief operating decision-maker. Management reviews the Group’s internal reports periodically in order to
+     assess performance and allocate resources. Management has determined the operating segments based on these reports.
+
+     Management considers the business from a brand perspective. During the year ended 31 December 2015, the Group decided to
+     dispose 10% equity interest in Shanghai Double Happiness Co., Ltd. (“Double Happiness”) and announced its disposal plan on 23
+     October 2015. The disposal transaction was completed in December 2016, upon which Double Happiness has become an associate
+     company, and therefore no longer a reportable segment of the Group.
+
+     Management assesses the performance of the operating segments based on operating profit. Segment information provided to
+     Management for decision making is measured in a manner consistent with that in the financial statements.
+
+     Revenue consists of sales from LI-NING brand, all other brands from continuing operations and Double Happiness brand from
+     discontinued operations, which are RMB8,819,188,000, RMB54,724,000 and nil for the year ended 31 December 2017 and
+     RMB7,925,439,000, RMB89,854,000 and RMB700,181,000 for the year ended 31 December 2016, respectively.
+
+     Sales between segments are carried out on terms equivalent to those that prevail in arm’s length transactions. The revenue from
+     external parties reported to Management is measured in a manner consistent with that in the consolidated income statement.
+
+
+
+                                                                  -9-
+The segment information provided to Management for the reportable segments for the years ended 31 December 2017 and 2016 is as
+follows:
+
+                                                                                                         Discontinued
+                                                                        Continuing                             Double
+                                                   LI-NING                All other                        Happiness
+                                                      brand                 brands         Subtotal           brand *        Total
+                                                   RMB’000               RMB’000           RMB’000           RMB’000       RMB’000
+
+Year ended 31 December 2017
+Total revenue                                      8,819,188                88,190         8,907,378                  –    8,907,378
+Inter-segment revenue                                      –               (33,466)          (33,466)                 –      (33,466)
+
+Revenue from external customers                    8,819,188                54,724         8,873,912                  –    8,873,912
+
+
+Operating profit                                    455,556                  (9,878)        445,678                   –     445,678
+
+Distribution expenses and administrative
+  expenses                                         3,745,087                29,354         3,774,441                  –    3,774,441
+
+Depreciation and amortisation                       362,172                  7,615          369,787                   –     369,787
+
+Year ended 31 December 2016
+Total revenue                                      7,925,439               123,323         8,048,762          700,181      8,748,943
+Inter-segment revenue                                      –               (33,469)          (33,469)               –        (33,469)
+
+Revenue from external customers                    7,925,439                89,854         8,015,293          700,181      8,715,474
+
+
+Operating profit                                    361,432                 24,373          385,805           170,827       556,632
+
+Distribution expenses and administrative
+  expenses                                         3,380,337                13,133         3,393,470          162,934      3,556,404
+
+Depreciation and amortisation                       312,795                  4,831          317,626                   –     317,626
+
+
+*      Double Happiness brand has been classified as discontinued operations, the related revenue, expenses and income tax are
+       presented as a single amount in the income statement under “Profit for the year from discontinued operations” for the year
+       ended 31 December 2016.
+
+A reconciliation of operating profit to profit before income tax is provided as follows:
+
+                                                                                                        Year ended 31 December
+                                                                                                              2017             2016
+                                                                                                         RMB’000            RMB’000
+
+Operating profit from continuing operations                                                                445,678           385,805
+Finance income                                                                                              43,577             7,460
+Finance expenses                                                                                           (25,537)         (115,035)
+Share of profit of investments accounted for using the equity method                                        73,806             9,716
+
+Profit before income tax from continuing operations                                                        537,524          287,946
+
+
+Operating profit from discontinued operations                                                                    –          170,827
+Finance income                                                                                                   –            2,236
+Finance expenses                                                                                                 –             (155)
+Gain on disposal of 10% equity interest in discontinued operations                                               –          329,612
+
+Profit before income tax from discontinued operations                                                            –          502,520
+
+
+
+                                                               - 10 -
+     Geographical information of revenue
+
+                                                                                                        Year ended 31 December
+                                                                                                              2017             2016
+                                                                                                         RMB’000            RMB’000
+
+     Continuing operations
+     The PRC (including the Hong Kong Special Administrative Region)                                     8,634,026          7,808,789
+     Other regions                                                                                         239,886            206,504
+
+     Revenue from continuing operations                                                                  8,873,912          8,015,293
+
+     Discontinued operations
+     The PRC (including the Hong Kong Special Administrative Region)                                             –            653,129
+     Other regions                                                                                               –             47,052
+
+     Revenue from discontinued operations                                                                        –            700,181
+
+     Total                                                                                               8,873,912          8,715,474
+
+     Revenue by geographical location is determined on the basis of destination of shipment/delivery.
+
+     The Group has a large number of customers. For the years ended 31 December 2017 and 2016, no revenue derived from transactions
+     with a single external customer represented 10% or more of the Group’s total revenue.
+
+4.   Inventories
+
+                                                                                                            2017               2016
+                                                                                                         RMB’000            RMB’000
+
+     Raw materials                                                                                           1,270              1,763
+     Work in progress                                                                                        3,134              2,727
+     Finished goods                                                                                      1,228,486          1,104,135
+
+                                                                                                         1,232,890          1,108,625
+     Less: provision for write-down of inventories to net realisable value                                (130,352)          (143,203)
+
+                                                                                                         1,102,538            965,422
+
+     The cost of inventories recognised as expenses and included in cost of sales amounted to RMB4,598,262,000 for the year ended 31
+     December 2017 (2016: RMB4,214,265,000). Inventory provision and the amount of reversal have been included in cost of sales in the
+     consolidated income statement for the years ended 31 December 2017 and 2016.
+
+5.   Trade receivables
+
+                                                                                                            2017               2016
+                                                                                                         RMB’000            RMB’000
+
+     Accounts receivable                                                                                 1,530,779          1,777,665
+     Notes receivable                                                                                        9,100              6,726
+
+                                                                                                         1,539,879          1,784,391
+
+     Less: allowance for impairment of trade receivables                                                  (401,845)          (414,137)
+
+                                                                                                         1,138,034          1,370,254
+
+
+
+
+                                                                  - 11 -
+Ageing analysis of trade receivables at the respective balance sheet dates is as follows:
+
+                                                                                                          2017                   2016
+                                                                                                       RMB’000                RMB’000
+
+0 – 30 days                                                                                              671,736               667,529
+31 – 60 days                                                                                             229,891               191,606
+61 – 90 days                                                                                             176,579               225,382
+91 – 180 days                                                                                            118,219               323,546
+Over 180 days                                                                                            343,454               376,328
+
+                                                                                                       1,539,879              1,784,391
+
+Customers are normally granted credit terms within 90 days. As at 31 December 2017, trade receivables of RMB461,673,000 (31
+December 2016: RMB699,874,000) were past due. The Group’s estimation of allowance for impairment of trade receivables and other
+receivables reflects its best estimate of amounts that are potentially uncollectible. This determination requires significant judgment.
+In making such judgment, the Company evaluates, among certain economic factors specific to each customer and other factors, the
+historical payment pattern and credit-worthiness of each customer, the default rates of prior years, ageing of the trade receivable, and
+the latest communication with individual customers. Management has been closely monitoring the credit risk of each customer and
+actively pursuing collection of those receivables until all efforts are exhausted. An allowance for impairment of RMB401,845,000 has
+been made as at 31 December 2017 (31 December 2016: RMB414,137,000).
+
+The impairment was firstly assessed against individually significant balances, and the remaining balances were grouped for collective
+assessment according to their ageing groups and historical default rates as these customers were of similar credit risk.
+
+As of 31 December 2017, trade receivables of RMB59,828,000 (31 December 2016: RMB285,737,000) were past due but not
+impaired. These relate to a number of independent customers for whom there is no significant financial difficulty and based on past
+experience, the overdue amounts can be recovered. The ageing analysis of these trade receivables is as follows:
+
+                                                                                                          2017                   2016
+                                                                                                       RMB’000                RMB’000
+
+91 – 180 days                                                                                             59,828               285,737
+
+The movement in allowance for impairment of trade receivables is analysed as follows:
+
+                                                                                                          2017                   2016
+                                                                                                       RMB’000                RMB’000
+
+As at 1 January                                                                                          414,137               475,757
+Reversal of provision for impairment of trade receivables                                                (10,985)              (61,121)
+Trade receivables written off during the year as uncollectible                                            (1,307)                 (499)
+
+As at 31 December                                                                                        401,845               414,137
+
+The creation and release of provision for impaired trade receivables have been included in administrative expenses in the consolidated
+income statement. Amounts charged to the allowance account are generally written off when there is no expectation of recovering
+additional cash.
+
+The maximum exposure to credit risk at the balance sheet date is the carrying value of each class of trade receivables mentioned
+above.
+
+
+
+
+                                                              - 12 -
+6.   Trade payables
+
+     The normal credit period for trade payables generally ranges from 30 to 60 days. Ageing analysis of trade payables at the respective
+     balance sheet dates is as follows:
+
+                                                                                                            2017                  2016
+                                                                                                         RMB’000               RMB’000
+
+     0 – 30 days                                                                                           852,855               645,967
+     31 – 60 days                                                                                          258,212               302,661
+     61 – 90 days                                                                                           15,238                85,887
+     91 – 180 days                                                                                           7,059                 3,064
+     181 – 365 days                                                                                          6,621                 5,107
+     Over 365 days                                                                                           5,128                 4,637
+
+                                                                                                         1,145,113             1,047,323
+
+
+
+7.   Expenses by nature
+
+                                                                                                            2017                  2016
+                                                                                                         RMB’000               RMB’000
+
+     Cost of inventories recognised as expenses and included in cost of sales                            4,598,262             4,214,265
+     Depreciation on property, plant and equipment (Note a)                                                322,030               270,059
+     Amortisation of land use rights and intangible assets                                                  47,757                47,567
+     Advertising and marketing expenses                                                                    980,769               983,086
+     Commission and trade fair related expenses                                                            158,088               117,435
+     Staff costs, including directors’ emoluments (Note a)                                                 903,509               778,355
+     Operating lease rentals in respect of land and buildings and related expenses                         829,600               771,091
+     Research and product development expenses (Note a)                                                    169,724               125,682
+     Transportation and logistics expenses                                                                 317,303               302,221
+     Reversal of provision for impairment of trade receivables                                             (10,985)              (61,121)
+     Auditor’s remuneration                                                                                  5,662                 5,357
+       – Audit services                                                                                      4,700                 4,400
+       – Non-audit services                                                                                    962                   957
+     Management consulting expenses                                                                         55,348                50,144
+     Travelling and entertainment expenses                                                                  49,053                40,139
+
+     Note:
+
+     (a)     Research and product development expenses include depreciation on property, plant and equipment and staff costs in Research
+             & Development Department, which are also included in depreciation expense and staff costs as disclosed above.
+
+8.   Other income and other gains – net
+
+                                                                                                            2017                  2016
+                                                                                                         RMB’000               RMB’000
+
+     Government grants                                                                                      31,939                53,658
+     License fees income                                                                                    16,257                18,591
+     Profit on disposal of Available-for-sale financial assets                                                   –                 1,479
+     Financial assets at fair value through profit or loss                                                  (4,560)                  319
+
+                                                                                                            43,636                74,047
+
+
+
+
+                                                                  - 13 -
+9.    Finance income and expenses
+
+                                                                                                               2017                  2016
+                                                                                                            RMB’000               RMB’000
+
+      Finance income
+      Interest income on bank balances and deposits                                                            29,141                 7,460
+      Net foreign currency exchange gain                                                                        3,216                     –
+      Reversal of accrued interest expenses on convertible bonds                                               11,220                     –
+
+                                                                                                               43,577                 7,460
+
+      Finance expense
+      Amortisation of discount – license fees payable                                                          (5,792)               (9,146)
+      Interest expense on bank and other borrowings                                                            (6,876)              (15,401)
+      Interest expense on convertible bonds                                                                    (4,234)              (59,792)
+      Net foreign currency exchange loss                                                                            –                (4,642)
+      Others                                                                                                   (8,635)              (26,054)
+
+                                                                                                              (25,537)             (115,035)
+
+      Finance income/(expense) – net                                                                           18,040              (107,575)
+
+10.   Income tax expense
+
+                                                                                                               2017                  2016
+                                                                                                            RMB’000               RMB’000
+
+      Current income tax
+        – Hong Kong profits tax (Note b)                                                                        3,751                 2,223
+        – The PRC corporate income tax (Note c)                                                                32,712                 6,639
+        – Withholding income tax on interest income from subsidiaries in PRC (Note d)                           1,251                 4,867
+
+                                                                                                               37,714                13,729
+
+      Deferred income tax                                                                                     (15,345)               18,706
+
+      Income tax expense                                                                                       22,369                32,435
+
+      Notes:
+
+      (a)      The Company was incorporated in the Cayman Islands. Under current laws of the Cayman Islands, there are no income,
+               estate, corporation, capital gains or other taxes payable by the Company. The Company’s subsidiary, RealSports Pte Ltd.,
+               was established under the International Business Companies Acts of the British Virgin Islands, and is exempted from British
+               Virgin Islands income taxes.
+
+      (b)      Hong Kong profits tax has been provided at the rate of 16.5% on the estimated assessable profits arising in Hong Kong for the
+               year ended 31 December 2017 (2016: 16.5%).
+
+      (c)      Provision for the PRC corporate income tax is calculated based on the statutory tax rate of 25% (2016: 25%) on the assessable
+               income of each of the group companies.
+
+      (d)      This mainly arose from the interests due by the Company’s subsidiaries in the PRC to other group companies in Hong Kong
+               during the years ended 31 December 2017 and 2016, which are subject to withholding tax at the rate of 7%.
+
+
+
+
+                                                                   - 14 -
+11.   Earnings per share
+
+      Basic
+
+      Basic earnings per share is calculated by dividing the profit attributable to equity holders of the Company by the weighted average
+      number of shares in issue less shares held for Restricted Share Award Scheme during the year. Such weighted average number of
+      shares outstanding shall be adjusted for events such as bonus issue and stock dividend.
+
+      In April 2013, the Company completed the issuance of convertible securities. In January 2015, the Company had completed the
+      issuance of offer securities. The below market subscription price of these two events had effectively resulted in 57,690,000 ordinary
+      shares (31 December 2016: 70,553,000 ordinary shares) to be issued upon conversion for nil consideration (i.e. the bonus element),
+      and such impact has been taken into account in calculating the weighted average number of shares for the purpose of basic earnings
+      per share. The shares issued for nil consideration arising from the issuance of offer securities have been adjusted retrospectively and
+      treated as outstanding as if the issuance had occurred at the beginning of 2016.
+
+                                                                                                                 2017                   2016
+                                                                                                              RMB’000                RMB’000
+
+      Profit from continuing operations attributable to equity holders of the Company                           515,155               255,511
+
+      Profit from discontinued operations attributable to equity holders of the Company                               –               387,743
+
+
+      Deemed weighted average number of shares and convertible securities after adjustment
+       for related bonus element for basic earnings per share (in thousands)                                  2,399,231              2,216,001
+
+
+      Basic earnings per share – from continuing operations                                                       21.47                  11.53
+      Basic earnings per share – from discontinued operations                                                         –                  17.50
+
+      Basic earnings per share (RMB cents)                                                                        21.47                  29.03
+
+      Diluted
+
+      Diluted earnings per share is calculated by adjusting the weighted average number of shares in issue to assume conversion of all dilutive
+      potential shares. The Company’s dilutive potential shares comprise shares to be issued under convertible bonds, share option schemes and
+      Restricted Share Award Scheme. In relation to shares issued under share option schemes, a calculation is done to determine the number of
+      shares that could have been acquired at fair value (determined as the average market share price of the Company’s shares during the year)
+      based on the monetary value of the subscription rights attached to outstanding share options. The number of shares calculated as above is
+      compared with the number of shares that would have been issued assuming the exercise of the share options.
+
+                                                                                                                 2017                   2016
+                                                                                                              RMB’000                RMB’000
+
+      Profit from continuing operations attributable to equity holders of the Company, used to
+        determine diluted earnings per share                                                                    508,169               255,511
+
+      Profit from discontinued operations attributable to equity holders of the Company                               –               387,743
+
+
+      Deemed weighted average number of shares and convertible securities after adjustment
+       for related bonus element for basic earnings per share (in thousands)                                  2,399,231              2,216,001
+      Adjustment for the restricted shares (in thousands)                                                        14,295                  6,274
+      Adjustment for the convertible bonds (in thousands)                                                        14,052                      –
+      Adjustment for the share option schemes (in thousands)                                                      7,722                      –
+
+      Deemed weighted average number of shares for diluted earnings per share (in thousands)                  2,435,300              2,222,275
+
+
+      Diluted earnings per share – from continuing operations                                                     20.87                  11.50
+      Diluted earnings per share – from discontinued operations                                                       –                  17.45
+
+      Diluted earnings per share (RMB cents)                                                                      20.87                  28.95
+
+
+                                                                   - 15 -
+      Note:
+
+      As at 31 December 2017, there were 58 million share options that could potentially have a dilutive impact on continuing operations
+      in the future but were anti-dilutive during the year ended 31 December 2017. As at 31 December 2016, there were 43 million share
+      options and 169 million ordinary shares assuming conversion of convertible bonds that could potentially have dilutive impact on
+      continuing operations in the future but were anti-dilutive during the year ended 31 December 2016.
+
+12.   Dividends
+
+      The Board did not propose final dividend for the years ended 31 December 2017 and 2016.
+
+13.   Discontinued operations
+
+      The assets and liabilities related to Double Happiness, a former 57.5% owned subsidiary of the Company, have been presented as
+      held for sale following the approval of the Group’s Management and shareholders to dispose 10% equity interest in Double Happiness
+      to a wholly-owned subsidiary of Viva China at a consideration of RMB124,992,000 on 23 October 2015 and 4 December 2015,
+      respectively. Given that Double Happiness was classified as discontinued operations before the completion of the disposal, a single
+      amount is presented in the income statement for the year ended 31 December 2016. Further, to the extent the shares of Double
+      Happiness has not been listed on any major stock exchanges within four years following the completion of the disposal, the Company
+      has the right to call back the 10% equity interest and Viva China has the right to put back the 10% equity interest to the Company
+      at a price of RMB124,992,000 plus 6.5% interest per annum after deducting the relevant cash dividends entitled. The disposal was
+      completed in December 2016.
+
+      Analysis of the result of discontinued operations is as follows:
+
+                                                                                                                                  2016
+                                                                                                                               RMB’000
+
+      Revenue                                                                                                                    700,181
+      Expenses                                                                                                                  (527,273)
+
+      Profit before income tax                                                                                                   172,908
+      Income tax expense                                                                                                         (40,751)
+
+      Profit for the year                                                                                                        132,157
+
+      Gain on disposal of 10% equity interest in discontinued operations, net of income tax (Note)                               313,201
+
+      Profit for the year from discontinued operations                                                                           445,358
+
+
+      Attributable to:
+        – Equity holders of the Company                                                                                          387,743
+        – Non-controlling interests                                                                                               57,615
+
+      Profit for the year from discontinued operations                                                                           445,358
+
+
+
+
+                                                                    - 16 -
+Note:
+
+In December 2016, the Group completed the disposal of 10% equity interest in Double Happiness. Accordingly, Double Happiness
+has been accounted for as an associate company of the Group. The disposal transaction gave rise to a disposal gain of RMB330
+million (before the income tax of RMB16 million). Details of the gain on disposal are as follows:
+
+                                                                                                                      2016
+                                                                                                                   RMB’000
+
+Non-current assets                                                                                                  684,041
+Current assets                                                                                                      338,166
+
+Total assets                                                                                                      1,022,207
+
+Non-current liabilities                                                                                              60,009
+Current liabilities                                                                                                 375,547
+
+Total Liabilities                                                                                                   435,556
+
+Non-controlling interest                                                                                           (211,414)
+
+Net assets disposed                                                                                                 375,237
+
+Cash consideration received                                                                                         124,992
+Less: derivative financial liability                                                                                 (1,343)
+Gain on disposal – remeasurement of remaining 47.5% equity interest                                                 587,335
+
+Total                                                                                                               710,984
+
+Less: disposal cost                                                                                                   (6,135)
+
+Gain on disposal                                                                                                    329,612
+
+Cash flows
+
+                                                                                                                      2016
+                                                                                                                   RMB’000
+
+Cash flows from operating activities                                                                                159,489
+Cash flows from investing activities                                                                                (36,944)
+Cash flows from financing activities                                                                                (96,391)
+
+Net increase in cash and cash equivalents                                                                            26,154
+
+
+
+
+                                                          - 17 -
+DIVIDEND
+
+The Board resolved not to distribute any final dividend for the year ended 31 December 2017 (2016: nil).
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+Financial Overview
+
+The key operating and financial performance indicators of the Group for the year ended 31 December 2017 are set
+out below:
+
+                                                                   Year ended 31 December                  Change
+                                                                         2017           2016                  (%)
+
+Income statement items
+(All amounts in RMB thousands unless otherwise stated)
+
+Revenue (Note 1)                                                     8,873,912        8,015,293              10.7
+Gross profit                                                         4,176,483        3,705,228              12.7
+Operating profit                                                       445,678          385,805              15.5
+Earnings before interest, tax, depreciation and amortisation
+  (EBITDA) (Note 2)                                                   889,271           713,147               24.7
+Profit attributable to equity holders (Note 3)                        515,155           643,254              (19.9)
+Basic earnings per share (RMB cents) (Note 4)                           21.47             29.03              (26.0)
+
+Key financial ratios
+
+Profitability ratios
+Gross profit margin (%)                                                   47.1              46.2
+Operating profit (%)                                                       5.0               4.8
+Effective tax rate (%)                                                     4.2              11.3
+Margin of profit attributable to equity holders (%)                        5.8               8.0
+Return on equity attributable to equity holders (%)                       11.4              17.9
+
+Expenses to revenue ratios
+Staff costs (%)                                                           10.2               9.7
+Advertising and marketing expenses (%)                                    11.1              12.3
+Research and product development expenses (%)                              1.9               1.6
+
+                                                                  31 December      31 December
+                                                                         2017             2016
+
+Balance sheet items
+(All amounts in RMB thousands unless otherwise stated)
+
+Total assets (Note 5)                                                7,321,349        6,780,494
+Capital and reserves attributable to equity holders (Note 6)         5,071,047        3,994,599
+
+Key financial ratios
+
+Asset efficiency
+Average inventory turnover (days) (Note 7)                                 80                82
+Average trade receivables turnover (days) (Note 8)                         52                64
+Average trade payables turnover (days) (Note 9)                            83                87
+
+Asset ratios
+Debt-to-equity ratio (%) (Note10)                                        44.3              69.7
+Interest-bearing debt-to-equity ratio (%) (Note 11)                         –              19.2
+Net asset value per share (RMB cents)                                  234.65            200.56
+
+                                                         - 18 -
+Notes:
+
+1.       Including revenue for the period from 1 January to 30 September 2017: RMB6,001,594,000.
+
+2.       The calculation of earnings before interest, tax, depreciation and amortisation (EBITDA) is based on the sum of profit for the
+         year from continuing operations, income tax expense, finance expenses – net, depreciation on property, plant and equipment, and
+         amortisation of land use rights and intangible assets.
+
+3.       Including profit attributable to equity holders for the period from 1 January to 30 September 2017: RMB300,516,000.
+
+4.       The calculation of basic earnings per share is based on the profit attributable to equity holders of the Company for the year, divided
+         by the weighted average number of shares in issue less ordinary shares held for Restricted Share Award Scheme.
+
+5.       Total assets at 30 September 2017: RMB7,165,048,000.
+
+6.       Capital and reserves attributable to equity holders at 30 September 2017: RMB4,873,454,000.
+
+7.       The calculation of average inventory turnover (days) is based on the average of opening and closing inventory balances for the year
+         (excluding Double Happiness), divided by cost of sales and multiplied by the total number of days in the year.
+
+8.       The calculation of average trade receivables turnover (days) is based on the average of opening and closing balances of trade
+         receivables for the year (excluding Double Happiness), divided by revenue and multiplied by the total number of days in the year.
+
+9.       The calculation of average trade payables turnover (days) is based on the average of opening and closing balances of trade payables
+         for the year (excluding Double Happiness), divided by total purchases and multiplied by the total number of days in the year.
+
+10.      The calculation of debt-to-equity ratio is based on total liabilities divided by capital and reserves attributable to equity holders of the
+         Company at the end of the year.
+
+11.      The calculation of interest-bearing debt-to-equity ratio is based on total interest-bearing borrowings and convertible bonds divided by
+         capital and reserves attributable to equity holders of the Company at the end of the year.
+
+*        The aforesaid indicators provided by the Group may not necessarily be the same in terms of calculation methods as those provided by
+         other issuers.
+
+Revenue
+
+The Group’s revenue for the year ended 31 December 2017 amounted to RMB8,873,912,000, representing an
+increase of 10.7% as compared to that of 2016.
+
+Revenue breakdown by brand and product category
+
+                                                                         Year ended 31 December
+                                                                     2017                      2016
+
+                                                                                   % of                                  % of           Revenue
+                                                                                   total                                 total           change
+                                                     RMB’000                    revenue          RMB’000              revenue               (%)
+
+LI-NING brand
+Footwear                                                  4,146,021                 46.8         3,947,170                 49.3                5.0
+Apparel                                                   4,172,140                 47.0         3,514,339                 43.8               18.7
+Equipment/accessories                                       501,027                  5.6           463,930                  5.8                8.0
+
+Total                                                     8,819,188                 99.4         7,925,439                 98.9               11.3
+
+Other brands*
+Total                                                         54,724                  0.6           89,854                  1.1              -39.1
+
+Total                                                     8,873,912                100.0         8,015,293               100.0                10.7
+
+*        Including Lotto, Kason, Aigle and Danskin.
+
+                                                                       - 19 -
+The Group’s core brand, LI-NING brand, recorded revenue of RMB8,819,188,000, which accounted for 99.4% of
+the Group’s total revenue, representing a year-on-year increase of 11.3%. The business of the Group has entered
+into a phase of steady growth, however, at a slightly slower rate of increase. Details of which are as follows: (a) the
+key categories of the Company (namely running and cross-training) maintained strong growth momentum, recording
+a significant increase in sales; (b) the Company made continuous efforts in developing mobile internet services,
+fostering rapid development of e-commerce channel with a relatively higher sales growth recorded for the third
+consecutive year. Although the growth of e-commerce channel slowed down under the increasingly competitive
+market environment, the channel remained the one with the highest growth rate among all business channels of
+the Company; (c) though the development of internet business might cannibalize some of the market share of the
+previous offline business and the Company further enhanced control over trade fair orders of self-operated stores,
+the sales from direct operation still recorded a steady growth as the retail operation efficiency gradually rose; (d)
+the Company further enhanced control over trade fair orders of distributors to ensure that the channel inventory can
+remain at a reasonable level, which led to a slowdown in the revenue growth of its franchised distributor business.
+
+Revenue breakdown of LI-NING brand (in %) by sales channel
+
+                                                                   Year ended 31 December
+                                                                          2017            2016
+                                                                  % of revenue    % of revenue
+                                                                   of LI-NING      of LI-NING                  Change
+                                                                         brand           brand                    (%)
+
+LI-NING brand
+PRC market
+  Sales to franchised distributors                                           47.8                51.2             (3.4)
+  Sales from direct operation                                                30.7                31.9             (1.2)
+  Sales from e-commerce channel                                              18.8                14.3              4.5
+International markets                                                         2.7                 2.6              0.1
+
+Total                                                                      100.0                100.0
+
+Revenue breakdown of LI-NING brand by geographical location
+
+                                                             Year ended 31 December
+                                                           2017                  2016
+                                                                    % of                  % of
+                                                              revenue of            revenue of                 Revenue
+                                                                LI-NING               LI-NING                   change
+                                          Note       RMB’000       brand   RMB’000       brand                     (%)
+
+LI-NING brand
+PRC market
+  Northern region                           1        4,512,900           51.2       3,889,212           49.1      16.0
+  Southern region                           2        4,066,402           46.1       3,829,723           48.3       6.2
+International markets                                  239,886            2.7         206,504            2.6      16.2
+
+Total                                                8,819,188          100.0       7,925,439       100.0         11.3
+
+
+
+
+                                                         - 20 -
+Notes:
+
+1.       The Northern region includes provinces and autonomous regions covering Beijing, Tianjin, Shanxi, Shandong, Hebei, Inner Mongolia,
+         Henan, Heilongjiang, Jilin, Liaoning, Shaanxi, Gansu, Ningxia Hui Autonomous Region, Xinjiang Uygur Autonomous Region and
+         Qinghai.
+
+2.       The Southern region includes provinces and autonomous regions covering Guangdong, Guangxi, Fujian, Hainan, Yunnan, Guizhou,
+         Sichuan, Jiangxi, Chongqing, Tibet, Shanghai, Zhejiang, Jiangsu, Hunan, Hubei and Anhui.
+
+Cost of Sales and Gross Profit
+
+For the year ended 31 December 2017, overall cost of sales of the Group amounted to RMB4,697,429,000 (2016:
+RMB4,310,065,000), and overall gross profit margin was 47.1% (2016: 46.2%). Among which, cost of sales of
+LI-NING brand amounted to RMB4,662,181,000 (2016: RMB4,257,717,000), with gross profit margin of 47.1%
+(2016: 46.3%). During the year, the tag-cost-ratio was improved as the Company exercised effective control on
+procurement costs. Meanwhile, as the inventory structure was optimized, there was improvement in sales of new
+products of all channels. Moreover, the aggregate proportion of sales from higher-margin direct operation and
+e-commerce channel grew up. These factors resulted in a year-on-year increase of 0.8 percentage point of LI-NING
+brand’s gross profit margin.
+
+Distribution Expenses
+
+For the year ended 31 December 2017, the Group’s overall distribution expenses amounted to RMB3,273,375,000
+(2016: RMB2,969,341,000), accounting for 36.9% (2016: 37.0%) of the Group’s total revenue. Among which,
+distribution expenses of LI-NING brand amounted to RMB3,251,995,000 (2016: RMB2,961,481,000), accounting
+for 36.9% (2016: 37.4%) of LI-NING brand’s revenue.
+
+As all channels recorded sales growth, the relevant variable rentals, commission and logistics expenses increased
+while the rise in license fees was attributable to the sales growth in certain licensed product series. Meanwhile,
+the Company put continuous effort in optimizing its channels, intensified the investment in retail operation and
+devoted its resources mainly in user’s shopping experience. As a result, the relevant staff costs and corresponding
+depreciation on the asset investment of points of sales (“POSs”) recorded a significant year-on-year increase.
+However, the Group further strengthened the reasonable control over advertising and marketing expenses.
+Accordingly, although LI-NING brand’s distribution expenses increased year-on-year, its percentage to revenue
+decreased by 0.5 percentage point.
+
+The Group also made initial capital investments in new brands. Consequently, the percentage of the Group’s total
+distribution expenses to total revenue remained basically flat as the percentage of LI-NING brand’s distribution
+expenses to revenue decreased.
+
+Administrative Expenses
+
+For the year ended 31 December 2017, the Group’s overall administrative expenses amounted to RMB501,066,000
+(2016: RMB424,129,000), accounting for 5.6% (2016: 5.3%) of the Group’s total revenue. Among which,
+administrative expenses of LI-NING brand amounted to RMB493,092,000 (2016: RMB418,856,000), accounting
+for 5.6% of LI-NING brand’s revenue, which is 0.3 percentage point higher than the 5.3% in 2016. Administrative
+expenses of LI-NING brand mainly comprised of staff costs, management consulting fees, office rental, depreciation
+and amortisation charges, taxes, provision for impairment of trade receivables and other miscellaneous expenses.
+
+
+
+
+                                                                   - 21 -
+During the year, the Group had an active initiative in attracting talents for new businesses and the incentives
+for key personnel as the businesses gradually improved, contributing to an increase in related labor costs for the
+year; besides, the Group continuously increased the investment in product design and development, resulting in
+an increase of research and product development expenses; in addition, the corresponding provision for doubtful
+debts was reversed following the improvement of the distributors’ business as in the previous year, but the amount
+reversed was apparently less than that of last year. Taking into account all the above factors, LI-NING brand’s
+administrative expenses and its percentage to revenue of LI-NING brand increased year-on-year.
+
+Earnings before Interest, Tax, Depreciation and Amortisation (EBITDA)
+
+For the year ended 31 December 2017, the Group’s EBITDA amounted to RMB889,271,000 (2016 (relating
+to continuing operations only): RMB713,147,000). Among which, EBITDA of LI-NING brand amounted to
+RMB817,728,000 (2016: RMB674,066,000), representing a year-on-year increase of 21.3%. This was mainly
+attributable to the increase in revenue and gross profit margin.
+
+Finance Expenses
+
+For the year ended 31 December 2017, the Group’s net finance income amounted to RMB18,040,000 (2016: net
+expense of RMB107,575,000), representing 0.2% (2016: -1.3%) of the Group’s total revenue. The decrease in
+finance expenses was mainly due to the net interest impact of the convertible bonds due to conversion, the increase
+in interest income on bank balances and deposits, as well as the decrease in interest expense on bank and other
+borrowings. The net interest impact of the convertible bonds was an income amounting to RMB6,986,000 (2016:
+expense of RMB59,792,000).
+
+Income Tax Expense
+
+For the year ended 31 December 2017, income tax expense of the Group amounted to RMB22,369,000 (2016:
+RMB32,435,000) and the effective tax rate was 4.2% (2016: 11.3%). The lower effective tax rate is due to the
+utilization of tax losses of prior years for some subsidiaries of the Group, and recognition of certain deferred
+income tax assets.
+
+Profit for the year from Discontinued Operations
+
+In December 2016, the Group completed the disposal of 10% equity interest in Double Happiness to a wholly-
+owned subsidiary of Viva China. Accordingly, Double Happiness is accounted for as an associate company of the
+Group as of 31 December 2016. For the year ended 31 December 2016, the profit for the year from discontinued
+operations attributable to equity holders of the Company amounted to RMB387,743,000, which included the net
+profit from Double Happiness amounting to RMB74,542,000 and the gains relating to the equity transfer amounting
+to RMB313,201,000.
+
+Overall Profitability Indicators
+
+The overall profitability indicators of the Group improved significantly during the year ended 31 December 2017,
+which was attributable to the increase in both the sales revenue and gross profit margin, and the decrease in finance
+expenses of the Group during the year. During the year, the Group’s profit attributable to equity holders amounted
+to RMB515,155,000 (2016: RMB643,254,000, and RMB330,053,000 when excluding the net gain on disposal of
+10% equity interest in discontinued operations); the corresponding margin of profit attributable to equity holders
+was 5.8% (2016: 8.0%, and 4.1% when excluding the net gain on disposal of 10% equity interest in discontinued
+operations); return on equity attributable to equity holders was 11.4% (2016: 17.9%, and 9.2% when excluding the
+net gain on disposal of 10% equity interest in discontinued operations).
+
+
+
+
+                                                        - 22 -
+Provision for Inventories
+
+The Group’s policy in respect of provision for inventories for 2017 was the same as that in 2016. Inventories are
+stated at the cost or net realisable value, whichever is lower. In the event that net realisable value falls below cost,
+the difference is taken as provision for inventories. The Group considers this policy to be adequate in ensuring
+appropriate provision for inventories is made by the Group.
+
+As at 31 December 2017, the accumulated provision for inventories was RMB130,352,000 (31 December 2016:
+RMB143,203,000). The gross value of inventories at the end of the year increased as compared with that at the
+beginning of the year, while the structure of inventory ageing was improved, with a slight decrease in the balance
+of the overall provision for inventories.
+
+Provision for Doubtful Debts
+
+The Group’s policy in respect of provision for doubtful debts for 2017 was the same as that in 2016.
+
+As at 31 December 2017, the accumulated provision for doubtful debts was RMB401,845,000 (31 December 2016:
+RMB414,137,000). As the business of our channel distributors improved, the balance of long aged trade receivables
+gradually decreased, the Group therefore reversed certain provision for doubtful debts during the year.
+
+Liquidity and Financial Resource
+
+The Group’s net cash from operating activities for the year ended 31 December 2017 amounted to RMB1,159,143,000
+(2016: RMB995,476,000, including RMB835,987,000 from continuing operations and RMB159,489,000 from
+discontinued operations). As at 31 December 2017, cash and cash equivalents (including cash at banks and in hand, and
+fixed term deposits with original maturity of no more than three months) amounted to RMB2,529,222,000, representing
+a net increase of RMB575,634,000 as compared with the position as at 31 December 2016. The increase was due to the
+following items:
+
+                                                                                                         Year ended
+Item                                                                                               31 December 2017
+                                                                                                           RMB’000
+
+Operating activities:
+Net cash from operating activities                                                                           1,159,143
+Investing activities:
+Net capital expenditure                                                                                       (423,997)
+Dividends received                                                                                              52,784
+Net cash from other investing activities                                                                        28,697
+Financing activities:
+Net repayment of borrowings                                                                                   (200,000)
+Net cash used in other financing activities                                                                    (32,493)
+
+                                                                                                               584,134
+
+Add: Exchange loss on cash and cash equivalents                                                                  (8,500)
+
+Net increase in cash and cash equivalents                                                                      575,634
+
+As the overall performance of our channel partners demonstrated a steady upward trend, the recovery of trade
+receivables increased significantly, leading to significant improvement in the Group’s cash flow.
+
+
+
+                                                         - 23 -
+As at 31 December 2017, the Group’s available banking facilities amounted to RMB1,065,000,000, without
+outstanding borrowings or convertible bonds; as at 31 December 2016, the ratio of outstanding borrowings and
+convertible bonds to equity attributable to equity holders (i.e. the gearing ratio) was 19.2%.
+
+During the year, the Group did not hedge its exposure to interest rate risks via interest-rate swaps.
+
+Foreign Exchange Risk
+
+The Group’s operations are mainly carried out in the PRC, with most transactions settled in Renminbi. The
+reporting currency of the Group is Renminbi. The Group’s subsidiaries in South Korea and Hong Kong use South
+Korean Won and Hong Kong Dollars as their respective functional currencies. The Group has a small amount of
+cash and bank deposits denominated in Hong Kong Dollars, United States Dollars, Euros and South Korean Won.
+The Company also pays dividends in Hong Kong Dollars. In addition, the Group pays certain license fees and
+sponsorship fees in United States Dollars or Euros, and repays some bank borrowings in United States Dollars.
+
+The Group did not hedge its foreign exchange exposure during the year. Any significant exchange rate fluctuations
+of foreign currencies against the Renminbi could have had financial impact on the Group.
+
+Pledge of Assets
+
+As at 31 December 2017, the Group had no pledged assets. As at 31 December 2016, buildings and land use rights
+with net book value of RMB369,121,000 and RMB77,804,000 respectively were secured for acquiring the Group’s
+borrowings.
+
+Contingent Liabilities
+
+As at 31 December 2017, the Group had no significant contingent liabilities.
+
+BUSINESS REVIEW
+
+Driven by favorable national policies and continual steady growth of macro sports demands, domestic sports
+market sustained its robust growth momentum. In particular, the enhanced consumption structure resulted in
+more sophisticated demands in the sports market, while consumer demands were growingly explicit and mature.
+Tournaments and events stemming from healthcare, entertainment and athletic competition demands are increasing
+rapidly. Under the expanding market demand and the refined and mature consumption structure, the Company will
+continue to focus on creating LI-NING’s experience value as its focused efforts. During the year, the revenue of
+the Group maintained stable growth and its profitability improved steadily. Key operational indicators have been
+improved significantly.
+
+During the year, we continued to create LI-NING’s experience value in full swing through three major pillars,
+namely the enhanced products, channels and retail capability. Our innate sports DNA has impelled us to place
+more emphasis on sports research and investment in product research and development (R&D) to constantly design
+and provide professional products to athletes and sports enthusiasts. Incessant imagination, on the other hand, is
+driving LI-NING brand to be more trend-setting by integrating fashion, entertainment and leisure elements with
+professional sports, therefore creating more professional and stylish products and sports experience for sports
+enthusiasts and ones who enjoy life. To enhance retail capability, we are dedicated to enhancing the precision of
+our product planning and optimizing the supply model so as to satisfy end-user demands in a “swift + precise”
+way. As for retail stores, we upheld the consumer-oriented approach to enhance and re-shape retail experience at
+stores constantly. In parallel, we have taken initiatives to refine channel structure and improve channel efficiency
+by implementing various measures including closing down and renovating the inefficient and loss-making stores
+and opening highly efficient and profitable key experience-concept stores. During the year, the overall retail sell-
+through registered a high-single digit growth, with product discount and sell-out rate further improved.
+
+
+
+                                                         - 24 -
+Latest trade fair orders and operational update
+
+In terms of tag price, trade fair orders for LI-NING brand products (exclude LI-NING YOUNG) from franchised
+distributors registered a year-on-year growth for seventeen consecutive quarters. The orders from the latest trade
+fair for the third quarter of 2018, held in December 2017 registered a low-teens growth on a year-on-year basis.
+
+For the fourth quarter ended 31 December 2017, in respect of LI-NING Point-of-Sales (POS) which have been in
+operation since the beginning of the same quarter last year, the same-store-sales for the overall platform registered
+a low-teens growth on a year-on-year basis. In terms of channels, retail (direct operation) channel registered a low-
+teens growth; wholesale (franchised distributors) channel registered a high-single-digit increase, while the e-commerce
+virtual stores business registered a high-teens growth on a year-on-year basis.
+
+For the fourth quarter ended 31 December 2017, the retail sell-through of LI-NING POS (excluded LI-NING
+YOUNG) for the overall platform increased by mid-teens on a year-on-year basis. In terms of channels, offline
+channel (included retail and wholesale) registered a low-teens growth, with retail increased by mid-teens and
+wholesale increased by low-teens, while the e-commerce virtual stores business registered a low-thirties growth on
+a year-on-year basis.
+
+As at 31 December 2017, excluding LI-NING YOUNG POS, the total number of LI-NING POS in China amounted
+to 6,262, representing a net decrease of 84 POS since the end of previous quarter and a net decrease of 178 POS
+since the beginning of this year. Among the net decrease of 178 POS, direct retail and wholesale accounts for 70
+and 108 POS respectively. As at 31 December 2017, LI-NING YOUNG business newly opened 173 POS.
+
+LI-NING BRAND
+
+Create more professional and unique products through creativity and innovation
+
+During the year, in order to enhance the brand influence, we continued to focus on products related to five core
+categories, including basketball, running, training, badminton and sports casual. With the target to improve
+the competitiveness of LI-NING products, we emphasized on the brand’s feature of professional sports, while
+constantly explore the room for integration of sports with fashion, entertainment and leisure in our various products
+based on its differentiated features
+
+On professional products, we continued to accumulate the knowledge of sports during the year and apply such
+knowledge to our product design. We offered exclusive and highly professional experience to sports players in
+tandem with the innovation of functional material and scientific technology, thereby enhancing LI-NING brand’s
+competitiveness with more contribution and engagement in mainstream mass sports in China.
+
+–     During the year, the “Eleventh Generation of YuShuai” basketball shoes were nominated for International
+      Compasso d’Oro Award, the globally most influential design award. The shoe soles adopted dual density
+      of LI-NING Cloud technology, with slightly higher density in the upper sole to provide good support and
+      relatively lower density in the lower sole for cushioning and rebounding effect, which are designed to
+      weather challenges and score a victory. Midsole maintained the classic Synchro-adjustment System (SAS) of
+      the YuShuai series to integrate whole foot TPU with wrapping shoe face TPU, enabling good and consistent
+      coordination during sports exercises. Transparent rubber outsoles with pattern design offer powerful grip,
+      anti-slip and abrasion resistance functions.
+
+–     “Way of Wade 6” basketball shoes adopted Drive Foam rebounding technology jointly developed with BASF
+      in Germany for the first time, which offers satisfactory rebounding function. The simple color mix delivers a
+      sense of simplicity and leisure. The shoe face uses a lightweight elastic and seamless weaving material that is
+      light, soft, comfortable and perfect fitting. Multi-layer is applied to strengthen the shoe according to different
+      functional requirements and degree of pressure exerted on different parts to deliver a good sense of wrapping
+      and a lightweight experience. The shoes also feature breathing holes to maintain good breathability.
+
+                                                         - 25 -
+–    Using the lite midsole of LI-NING Cloud, “Super Light 14th” Running Shoes are 30% lighter than LI-NING
+     Cloud with rebounding effect 25% higher than that of FOAMEVAlite. Tuff RB durable rubber is used to
+     provide outstanding abrasion resistance, heel TPU renders further support and stability; while 3M reflection
+     technology helps ensure safety during night-time running.
+
+–    “Cloud IV Dual Density Cloud” running shoes is designed for runners with normal gaits and mild valgus heel
+     to prevent leg tilt and overpressure on knee joints and reduce the likelihood of sport injuries by ensuring the
+     smooth transition during heel-to-toe walking. High and low-density materials were allocated scientifically
+     based on running motion, which can provide more dynamic protection for runners during sports exercises. By
+     applying high function plastic materials to shoe faces, foot injuries arising from swinging of legs in intense
+     sports activities can be avoided. The design of hollow loop structure can reduce weight while satisfying the
+     functional demands and hence delivers a lightweight running experience.
+
+–    We continued to launch new badminton racket products based on the “Visual Technology Platform” and
+     achieved outstanding market performance. The 72-gram super light product launched in June chiefly
+     featured “72-Gram Super Light + 30-Pound String Tension”. In addition to being ultra-light, the product also
+     demonstrated brand’s excellent racket craftsmanship.
+
+–    “RANGER-Chameleon”, an uniquely-designed high-end badminton shoe product, was developed based on the
+     understanding of the sport functions of badminton by Li Ning Brand and the concept of product innovation.
+     “Chameleon” applied ground-breaking “Transparent Crystal Rubber” as professional biomimetic outsoles with
+     pattern and structure simulating the feet of reptiles to deliver stronger grip. The product also featured precise
+     bending gap of shoe soles to facilitate flexible change of direction. “Chameleon” is capable to fully satisfy
+     the on-court needs of professional athletes in terms of functional performance with the application of various
+     new materials and craftsmanship.
+
+–    2017 is the first year of LI-NING’s badminton apparel featuring the “All-in-one Weaving Design”. The
+     3-Dimension cut of the all-in-one weaving design is a new function catering for the needs of badminton
+     players developed by LI-NING, which can reduce the weight and friction brought by joined pieces. The “All-
+     in-one Weaving Body Technology + TPU Protection” can enhance the professional attributes, which exhibit
+     a charming outlook and offer functional protection for the apparel. In 2017, we launched four models of
+     uniquely designed all-in-one weaving uniform that employed various yarns and dye processes in All England
+     Open Badminton Championships, Sudirman Cup tournaments, World Tournament and China Open. Not only
+     exhibited a charming and stylish outlook, the uniform also won recognition from the national team players
+     and market consumers for the comfortability it delivered.
+
+In addition to developing professional products, we also reflected and proactively sought ways to enable our
+professional products more closely linked with cultural life. During the year, we cooperated with sports stars. By
+delivering and integrating elements of their personality and lifestyle into the product designs, we developed a
+number of commemorative products, which were widely popular. Meanwhile, we also had in-depth collaboration
+with fashion trend related media so as to integrate fashion elements into our products and create fashion sports
+experience.
+
+–    We launched the “BADFIVE” series, a trendy product line catering to young street basketball players,
+     receiving market recognition. Moreover, the NBA player Wade himself endorsed the “WADE” series
+     products with an avant-garde design. With the support of sales channels such as “WADE STORE” and “WADE
+     CORNER”, the products achieved satisfactory sales performance.
+
+
+
+
+                                                       - 26 -
+–     The brand-new “Wu Kong” was launched, which is a product under the “Fit” series. By applying the
+      exclusive Re-fit sustainable technology of LI-NING, the product enables simultaneous horizontal and vertical
+      expansion of soles to increase the comfortability. With the elastic and seamless weaving upper technology
+      applied, the surfaces are integrated into the trendy design and look. Cooperating with Zhang Chi, a pioneer
+      fashion designer in China, we created newly co-branded and limited packages inspired by Zhang Chi’s iconic
+      mask patterns under his personal brand CHI ZHANG, and launched limited edition products featuring “Zhang
+      Chi You Do”. This was also the first time for Zhang Chi to apply his iconic mask logo under CHI ZHANG
+      brand to develop crossover products. Moreover, the special edition of the tailor-made shoes was presented at
+      the CHI ZHANG 2018 S/S fashion show in Beijing.
+
+–     As our sports fashion series products were more aligned with the current trendy style and popular trend, we
+      created vivacious and competitive fashion products. While satisfying the market demand of public fashion
+      consumers, we extensively cooperated with Disney Marvel Studios, famous stars and pioneer fashion
+      designers. With breakthrough design styles, the new products aroused new focuses among consumers and
+      drew a number of young consumers into the stores. During the year, we focused on female consumers.
+      From the perspective of current popular themes and female consumer demands, we launched female focused
+      products including fashionable recon packs and flower printed packs, receiving great market recognition from
+      female consumers. In the second and third quarter, we continued the cooperation with Marvel Studios and
+      launch packs featuring “Guardians of the Galaxy Vol. 2” and “Marvel Classic”. Coupled with the popular
+      trend of related movies, these products drew keen interest from young consumers and gained relatively high
+      market attention.
+
+–     Following the Olympics limited collection “EXCEED”, we launched the ordinary edition of Exceed product.
+      The product launched in 2017 also applied LI-NING Cloud shock-absorbing technology and elastic and
+      seamless weaving upper technology. Featured with the delicate design of TPU sword logo on upper and
+      topped with popular color themes, the footwear product is frequently exposed inside and outside China
+      Fashion Week Show as well as Celebrity Sole Watch. Together with the launch of pro edition of LN x Marvel
+      Guardians of the Galaxy, all these have laid a foundation for developing Exceed into the classic evergreen
+      product embedded with the DNA of LI-NING brand.
+
+Developing LI-NING experience value through multi-level and multi-dimensional marketing campaigns
+
+During the year, our strategy of resources investment remained focused on the five major categories, including
+basketball, running, training, badminton and sports casual. On the basis of category features and consumer demand,
+we were dedicated to consolidating our resource advantages in sports events while constantly exploring new
+consumer groups, further enhancing and reinforcing our brand recognition from the existing consumer groups via
+digital means. Through allocating sports resources to different areas, our marketing coverage has been expanded
+from international events to grassroots leagues and achieved the cross-over exposure from professional sports to
+fashion, thereby consolidating our brand image in all domains.
+
+Consolidate professional brand image by integrating with resources of professional sports events
+
+–     In 2017, the Company continued to sponsor China Basketball Association (CBA) Professional League, China
+      Junior & high school Basketball League and China University Basketball League. LI-NING brand and the
+      underlying products firmly dominated China’s professional and collegiate basketball leagues at all levels.
+      Meanwhile, the LI-NING basketball segment exclusively organized “3+1” street basketball league, attracting
+      more teenage basketball lovers to participate in and experience the unique basketball culture that is absolutely
+      of street chic style and creating opportunities for product experience.
+
+
+
+
+                                                        - 27 -
+–   On the NBA front, the LI-NING brand successfully signed up C.J. McCollum, the player of Portland Trail
+    Blazers and the Most Improved Player for NBA season 2015-16. With C.J. McCollum’s brilliant performance,
+    a series of professional basketball products such as “Sonic”, “YuShuai”, “Speed” and “Power” have been
+    made known and loved by more NBA fans.
+
+–   In respect of badminton resources, LI-NING brand is committed to the goal of internationalization. In March
+    2017, LI-NING brand signed up with the Indonesian pair Natsir and Ahmad, the champions of badminton
+    mixed-doubles at the Olympics, the Indonesian player Hendra, the gold medalist at the Olympics as well as
+    the world champion Ahsan. This further diversified the top-notch sports resources of the badminton segment
+    under LI-NING brand. In the BWF World Championships held in August 2017, the Indonesian pair Natsir
+    and Ahmad won the championship of mixed-doubles group and the Ahsan pairs won the runner-up of men’s
+    doubles group, which further enhanced LI-NING brand’s professionalism and authority in badminton as well
+    as the brand’s global influence.
+
+–   For the marketing of badminton products, we continued to conduct promotion via tournaments as key
+    marketing platform to realize high-frequency and high-quality exposure of products. In 2017, the uniform
+    for AEOBC games, Sudirman Cup, BWF World Championships and Open Badminton Championships,
+    Chameleon Ranger shoes, Fu Haifeng N92 Memorial Pack as well as various new sponsored rackets for the
+    National Badminton Team including Chen Long N90IV were taken as product story-pack. Through players’
+    performance and via CCTV-5 broadcast, reports by top 4 web portals and reproduction by other media, we
+    have achieved outstanding propagation effect of over hundreds of million times.
+
+–   In 2017, LI-NING 10K Running League was held in 14 cities including Guangzhou, Kunming, Chongqing,
+    Shanghai, Ningbo, Xi’an and Shenzhen, with nearly 40,000 participants. In the marathon event of the
+    National Games held this year, the team members of Yunnan and Bayi, which were sponsored by LI-NING,
+    ranked the top two with LI-NING professional marathon gears. Such achievements have greatly improved the
+    influence and recognition of LI-NING professional running products among mass runners.
+
+–   LI-NING IRUN Club has gradually evolved into a phase of large-scale development in 2017. Adhering to
+    the main goal of building up triple-experience in stores, we developed the communication and interactive
+    experience platform for LI-NING running product fans and running enthusiasts throughout China, and
+    successfully commenced our own certification course on running consultant covering 33 IRUN stores.
+    Throughout the year, we have planned and organized running consultants to take part in 500 meet-up running
+    events, 10 themed running events, 60 marathon training camps and sharing sessions, attracting nearly 20,000
+    running enthusiasts into stores.
+
+–   For the “Super Light 14th” running shoes, LI-NING has effectively integrated various differentiated and
+    innovative advertisements and creative crossover ideas with promotion on “Moments” through WeChat
+    platform based on different customer groups, the overall engagement rate increased by 2.75 times as
+    compared with that of “Super Light 13th” running shoes for the same period last year. Meanwhile, we created
+    a craze for “Super Light” pop-up stores in prime commercial zones of Chongqing, Changsha, Shenzhen and
+    Shenyang, further closely engaging with end consumers and thus further enhancing the brand influence of “Super
+    Light” series.
+
+
+
+
+                                                     - 28 -
+Integrating with fashionable trends to accelerate brand rejuvenation
+
+–     In 2017, LI-NING brand made continuous efforts in brand rejuvenation to enrich brand connotation by
+      quickly tracking various fashionable entertainment which marks the street pop culture. We signed up popular
+      entertainment resource, driving the marketing and promotion for the street basketball series, BADFIVE.
+
+–     In August, we officially signed up Yao Xingtong (), a celebrity with strong sports image, as the
+      endorser for LI-NING running products in the related endorsement and promotion activities for our stores
+      nationwide. In the future, we will bring together the advantageous resources of each other for further
+      promotion of running and training products.
+
+–     We have maintained more effective communication with young consumers through the incorporation of
+      entertainment elements. We explored the fan economy with the product endorsements by showbiz artists and
+      Key Opinion Leaders (KOL), which in turn effectively attracted and explored additional potential customers.
+      By making our brand more fashionable, we provided the consumers with more fashionable product offerings.
+      During the year, through our cooperation with Keenyhouse, a cartoon image developed by Wang Likun (
+      ), a actress in China who is well known as ‘goddess’ without makeup, and her working team, we have
+      launched trendy T-shirts and caps. In the future, the business model of crossover products will become the
+      main initiative of entertainment marketing campaigns.
+
+–     We maintained in-depth cooperation with fashion media and realized product placement during media
+      shooting of artists. Meanwhile, we interacted with the media to have access of the circles of media fans and
+      artist fans. Actors including Chen Bolin (), Zhang Yishan (), Ou Hao (), Zhang Binbin (
+      ), Zhang Yunlong () and Yang Xuwen () put on LI-NING products during the shootings.
+      Besides, our products were well recognised by media partners, artists and fans.
+
+–     At the end of 2017, we sponsored “May The Dance Be With You”, the premier and top class street dance
+      competition show in China produced by Beijing Television Station. Our sponsorship of apparel products under
+      sports fashion series to the participating dance teams has earned us recognition from the related dance troupes and
+      increased the exposure of seasonal best-selling products, gaining keen attention of young consumers.
+
+
+
+
+                                                         - 29 -
+Sales Channel Expansion and Management
+
+As at 31 December 2017, the number of conventional stores, flagship stores, factory outlets and discount stores
+under LI-NING brand (including LNG, “      ” label) amounted to a total of 6,262, representing a net decrease of
+178 POS as compared to 31 December 2016. The number of distributors was 32, representing a net decrease of 7 as
+compared to 31 December 2016. POS breakdown as at 31 December 2017 is as follows:
+
+Number of franchised and directly-operated POS
+
+                                                                           31 December          31 December
+LI-NING Brand                                                                     2017                 2016               Change
+
+Franchised                                                                          4,721               4,829               -2.2%
+Directly-operated retail                                                            1,541               1,611               -4.3%
+
+Total                                                                               6,262               6,440               -2.8%
+
+Number of POS by geographical location
+
+                                                                           31 December          31 December
+Regions                                                                           2017                 2016               Change
+
+Northern Region (Note 1)                                                            3,110               3,151               -1.3%
+Southern Region (Note 2)                                                            3,152               3,289               -4.2%
+
+Total                                                                               6,262               6,440               -2.8%
+
+Notes:
+
+1.       The Northern region includes provinces and autonomous regions covering Beijing, Gansu, Hebei, Henan, Heilongjiang, Jilin,
+         Liaoning, Inner Mongolia, Ningxia, Qinghai, Shandong, Shanxi, Shaanxi, Tianjin and Xinjiang.
+
+2.       The Southern region includes provinces and autonomous regions covering Anhui, Fujian, Guangdong, Guangxi, Guizhou, Hainan,
+         Hubei, Hunan, Jiangsu, Jiangxi, Shanghai, Sichuan, Tibet, Yunnan, Zhejiang and Chongqing.
+
+Structural Adjustment and Quality Improvement of Sales Channels
+
+In 2017, through measures such as closing down and reforming inefficient and loss-making stores, pushing forward
+the optimization of the location, expansion and revamp of stores in shopping malls, as well as opening large stores
+with experience-concept and high cost-effectiveness and profitability, the Company actively optimized the structure
+of sales channels and improved their efficiency. We continued to strengthen the channel construction and operation
+management of outlets and cost-effective factory stores as well as facilitate the opening of new factory outlets, and
+upgrade and revamp the existing cost-effective ones. With the continuous optimization of channel inventory, we
+commenced to increase the supply of exclusive products for factory stores.
+
+
+
+
+                                                                - 30 -
+Transformation of Product Operation Model
+
+In 2017, the Company continued to push forward the transformation of its product operation model and made
+dedicated efforts in developing a product portfolio based on long and short product life cycles. We also developed
+a business model focusing on trade fair orders as the major business segment, complemented by Quick Response
+(QS) products that can capture market opportunities. We performed sales forecast, batch production, supply-
+chain synergy for trade fair products, thereby extending the sales cycle of popular products, reducing the supply
+of unsaleable products, better capturing business opportunities arising from the market trend and enhancing sales
+performance of stores accordingly.
+
+We continued to optimize our single store order management. For retail and distributors, the implementation of
+single store product assortment based on product locations, store classification and market segments were pushed
+forward. We continued to review and explore the link between the product assortments of stores and consumers
+demand, enhanced the precision of single store order and developed a more effective assortment model; for flagship
+stores and large stores with high cost-effectiveness, we emphasized more on aligning consumers’ demands with
+product offerings precisely.
+
+During the year, we continuously pushed forward the improvement of the supply model. With accurate forecast on
+demand, we have been able to rapidly and precisely satisfy demands of stores. As the order model was optimized,
+the efficiency of product delivery increased. The direct product delivery from National Distribution Centre (NDC)
+to stores was implemented. As of the end of 2017, there were already more than 300 stores participating in the
+aforesaid direct product delivery scheme. We developed a multi-dimensional demand forecast model, which
+enhanced the forecast of the total amounts of key products at the beginning of quarter and the rolling forecast at
+mid of quarter. Moreover, we implemented a product supply policy and developed a rolling replenishment system
+for stores.
+
+Transformation of Logistics System
+
+In 2017, the Company made continuous efforts in establishing a flexible and highly efficient retail logistics system.
+In line with the transformation of its product operation model, the Company developed various ways of delivering
+products to stores: to accelerate the new product launch, the directly delivery of products from NDC to stores.
+We have developed a fast delivery and distribution procedure from factories to stores. The procedure significantly
+shortened the time taken for goods delivery, which is conductive to enhancing the overall operation efficiency of the
+supply chain. In 2017, in line with the Company’s omni-channel, all warehouses were equipped with the operation
+capacity for B2B and B2C in order to provide delivery guidance and courier support to stores simultaneously.
+
+We developed a logistics resources platform, with an aim to support and satisfy the demand for logistics services
+resulting from the business growth of various divisions and sales channels. Providing customized logistics services
+and comprehensively utilizing internal and external resources, this platform can enhance the Company’s overall
+logistics efficiency at a lower operating cost.
+
+In line with its establishment of “swift + precise” product operation model, the Company developed an
+informational and intelligent logistics support system, optimized its information system and developed the capability
+in comprehensively processing information in digital manner. Moreover, we enhanced our ability to manage retail
+logistics plan, as well as the overall operation efficiency of the supply chain.
+
+
+
+
+                                                        - 31 -
+Improving Retail Operation Standards of Stores and Enhancing Retail Efficiency of Sales Channels
+
+In 2017, the Company continued to strengthen the establishment of the retail operation platform from headquarter
+to various regions. The operating standards of stores were updated according to the store types such as full category
+stores, professional sports stores and sports casual stores. Certain operational and management systems including
+the store management system and store information platform have commenced their operations, which strengthened
+the retail operation management of single stores. Meanwhile, through the establishment of online training system,
+we continued to increase the training coverage of self-operated and franchised stores and enhance the product
+knowledge and customer service standard of staff. Moreover, we continued to put more efforts in the investigations
+by way of mystery shoppers so as to improve the store operation standards.
+
+Subsequently, based on the development of various cities and business districts in which our stores are located, we
+will continue to segment the service standards of our operations, expand and strengthen the position training of our
+sports advisors and fashion advisors for the operations of our full category stores, professional sports stores and
+sports casual stores, providing more professional sports and shopping experience to our consumers and members.
+
+In 2017, various retail indicators of the Company including the retail efficiency of sales channels, associated
+purchase rate and sell-out rate of new products continued to increase; inventory turnover and inventory structure
+were improved significantly.
+
+Enhancing Store Image and Visual Promotion
+
+In 2017, the Company continued to strengthen commercial zone market analysis on the business structure at all
+market levels and integrate with the change of consumer structure, which enhanced the overall matrix of our
+store images and categories and in turn further aligned with the store images at different market levels. Through
+enhancing the displaying space, product experience of different categories and interactive area of full category
+stores, the sports experience and interaction of professional products were improved.. We successfully opened
+sports casual stores that centrally exhibit the performance of LI-NING’s sports fashion products, which better
+promoted the sales growth of fashionable products and enhanced the sports trendiness of LI-NING brand, thereby
+attaining high popularity among youth consumer groups.
+
+In 2017, according to the market development, the Company updated the management of store display system and
+created the position of store visual merchandising (VM) assistant, with an aim to enhance the overall planning of
+VM, retail marketing presentation (RM) and visual identity (VI) by adding visual applications such as electronic
+display. Hence, the shopping experience of consumers was enhanced in terms of brand and product promotions as
+well as consumer communication.
+
+Strengthening Membership Recruitment and Membership Marketing
+
+In 2017, the Company continued to strengthen membership development in respect of stores and online marketing
+while improving the social communication system for members and optimize membership rights and event
+frequency to expand members’ interactive experience at both online and offline platforms. We successfully
+integrated brand marketing with membership activities through the marketing of quarterly launch of new products,
+launch of limited edition products events as well as China Tour ()marketing events of international stars
+such as Wade and NBA players, which offered excellent experience to our member groups and enhanced loyalty
+of VIP members. Meanwhile, we gradually utilize member information to develop customized services catering to
+personal demands of members, thus realizing significant growth as compared with previous year in terms of number
+of members and sales contribution from members.
+
+
+
+
+                                                        - 32 -
+Enhancing Omni-channel Service Experience
+
+In 2017, the Company continued to develop the integrated business model with omni-channel strategy. In further
+developing the omni-channel system, we developed close ties in cooperation with top e-commerce and logistics
+enterprises and enhanced omni-channel sales services of online and offline stores. In 2017, various performance
+indicators including the orders responsivity, precise delivery, delivery punctuality and customer satisfaction have
+outperformed the industry. With the constant upgrade of the establishment of omni-channel system, the Company
+will further promote omni-channel cooperation across physical stores including franchised channel in the coming
+year. It is expected that we can make more efficient use of the omni-channel platform to enhance the utilization rate
+of inventory and enable consumers to experience LI-NING omni-channel services on all categories and channels at
+all time.
+
+E-Commerce
+
+In 2017, the e-commerce of Li Ning Company further attained steady growth and enhancement in terms of revenue
+and profitability.
+
+Meanwhile, the e-commerce of Li Ning Company achieved further breakthroughs in digital operation and the
+efforts of “We Media” in stores. Through developing a more complete system for digital operation model and
+mass content, e-commerce stores has, apart from a sales platform of simply selling products, evolved into an omni-
+experience platform enabling users to interact with the brand’s products, marketing activities, stars and tournaments
+through online platforms.
+
+Looking forward, the e-commerce business will continue to improve the development of its own digital operation
+while gradually applying this business model to physical channel, with an aim to promote strong digital operation
+capacity in various aspects such as product planning and marketing. Meanwhile, Li Ning Company will further
+integrate the marketing resources of more brands and launch in e-commerce platform, thereby fostering the resultant
+drive from the store matrix + We Media matrix.
+
+Supply Chain Management
+
+In 2017, the Company continued to enhance the management of product quality with a focus on enhancing product
+workmanship and details and improving wearing comfortability to enhance wearing experience of products, thus
+gaining positive feedbacks and good reputation among consumers. In respect of cost management, the Company
+implemented stringent cost control measures and practiced the concept of cost management on all areas ranging
+from product design and development to various production processes, by which the procurement costs have been
+effectively controlled. As such, consumers are directly benefited with products of enhanced cost-effectiveness.
+
+In response to the Company’s change of business model from wholesale to retail, the Company improved the
+responsiveness and elasticity of supply chain to assure precise and swift product delivery with the aim to cater to
+the demands of various business sectors for product supply. Regarding supply chain development, the Company
+continued to tighten the requirements on labour, career health and environmental protection to ensure sustainable
+development.
+
+
+
+
+                                                        - 33 -
+NEW BUSINESS
+
+DANSKIN Brand
+
+In October 2016, Li Ning Company announced the cooperation with Danskin, the professional dance sports brand
+in the United States, for the exclusive licensing right to operate the brand’s businesses in the Mainland China and
+Macao region. Established in New York in 1882, Danskin brand is a professional dancewear brand for women in
+the United States and emphasises the pursuit of lifestyle and cherishes the elegant and healthy attitude to life.
+
+In China, the sportswear market is huge and the consumer base is broad. Excluding the sectors relating to sports
+competition, there is still enormous potential to be explored in the female-themed fitness market. It can be expected
+that with the continual penetration of healthcare concept and the upgrade of middle-class consumption, the sports
+market will be showing a tendency of segmentation, and the women’s sports market shall become the new growth
+driver of the sports market.
+
+In 2017, Danskin brand focused on brand building, testing and promotion of market channels as its core businesses.
+
+The brand positioned itself as products of differentiation and showcased its style themed as fashionable lifestyle
+capitalizing on the brand’s dance DNA, its origin New York and its century-old brand history. Meanwhile, the
+brand refined its product lines, including the STUIDO series featuring the sports fitness concept, the U-RHYTHM
+series positioning with fashion and stylishness and the O-LEISURE series catering for the daily needs of white-
+collars and offering diverse and simple choices to wear for various occasions. The brand further introduced the
+American DANCE series, its origin DNA and the Japanese mid-and-high-end yoga series, thereby contributing to
+the “3+2” product line coverage.
+
+The brand’s channel expansion is basically on trial run at the current stage. Two stores were opened in Shanghai
+MIXc and K11 in 2017 and a store was newly opened in Yaohan Shanghai in January 2018. The brand also
+launched pop-up events in Shanghai Raffles City and Baoshan Wanda Plaza. Coupling with digital promotion and
+in-store marketing by offering members with interactive experience, the brand sought to provide consumers with
+more diverse and precise consumer experience, receiving favourable consumer responses.
+
+In the future, the brand will focus on digital channel in its marketing activities, with an aim to promote its brand
+value and strengthen the communication with consumers through day-to-day engagement. The brand will maintain
+the trial-run channel expansion that focuses on prestigious landmark shopping malls located in Beijing, Guangdong
+and other developed first-tier cities.
+
+“       ” Label
+
+In 2017, the “         ” label brand focused on the idea of voguish and creative lifestyle and further refined the
+product’s strategic direction and quality so as to enhance brand value through fashion sense and increase in product
+quality. Besides, the brand ensured distinctiveness of each series in the design process and diversified the product
+applications catering to different occasions based on the theme of fashionable sports lifestyle, including the series
+of travel vacation and high street sports. Meanwhile, the “         ” label brand has put consistent efforts in core
+categories and has closely followed the seasonal differences while focusing on the development of evergreen
+products.
+
+In respect of channels, we pursued more diverse development strategies by adopting the integrated retail model of
+shopping malls, department stores and outlets at the same time. Further, we endeavoured to refresh and upgrade
+store images to align with products, enhance brand features and improve in-store experience of consumers.
+
+As of 31 December 2017, 11 “       ” label brand concept POS were opened in cities including Beijing, Shanghai,
+Hangzhou, Hefei, Qingdao and Dalian based on the adjusted and optimized brand concept.
+
+
+                                                        - 34 -
+The competition for sports casual segment is still intense. Therefore, we kept on the prudent expansion plan for the
+development of “        ”label business. In the future, we will continue to steadily expand the market for “       ”
+label based on the brand’s development progress as well as varied external market environment; we will constantly
+deepen the research and exploration in aspects including operation model and channels.
+
+LI-NING YOUNG
+
+In 2017, the Company re-branded the existing LI-NING KIDS catering to the kidswear market and upgraded it to
+LI-NING YOUNG. In the meantime, targeting teenagers aged between 3 to 14, the brand has set up two product
+lines for different age groups: curious kids aged between 3 to 6 and vivacious adolescents aged between 7 to 14.
+The apparel and footwear under the brand cover various categories including running, basketball and sports fashion.
+
+During the year, we focused on the product positioning, formulation of channel sales strategies and team building to
+initiate the related preparation for the product, channel and other aspects and conduct testing accordingly. LI-NING
+YOUNG gradually developed a retail business model with products satisfying consumer needs as the core aspect,
+driven by retail profitability and maintaining sound development. The Company stepped up efforts in customer
+service and support in three areas such as channel, product and retail capability. While developing the brand’s
+unique execution standards for store operations, the Company has launched the centralized management with such
+retail operation standards.
+
+As of the end of 2017, LI-NING YOUNG opened 173 stores across 26 provinces in China. The brand covers an
+array of channels including, among others, on-street stores, department stores, sports complexes, shopping malls
+and outlets. In the meantime, the brand conducted detailed analysis on differential market and optimized channel
+structure in order to improve product performance in various channels and regions.
+
+In 2017, digital marketing was the primary promotion channel of LI-NING YOUNG. On 1 June 2017, the official
+WeChat account of LI-NING YOUNG was officially launched which mainly publishes information relating to
+product and brand introductions and interaction events. Meanwhile, LI-NING YOUNG actively participated in
+certain major events including LI-NING Wade’s China Tour • Hangzhou and Xi’an as well as LI-NING 10K
+Running League • Beijing, facilitating brand and product promotion in a more effective way.
+
+The competition for domestic kidswear market is still intense. In 2018, we will keep on the steady development
+with focus on store profitability as the key, continue to develop a retail business model with products satisfying
+consumer needs as the core, driven by retail profitability and maintaining sound development whilst creating values
+in terms of product experience, shopping experience and sports experience.
+
+
+
+
+                                                       - 35 -
+HUMAN RESOURCES
+
+Based on the strategic focus of the Company, our human resources team continued to improve the organization,
+incentive and talent management system in 2017, thereby providing support to strategic transformation and
+development of the organisation capacity building of the Company.
+
+–     Regarding organisational optimisation, we developed an efficient synergistic mechanism for the retail and
+      supply-chain through organisation and integration. In addition, the Southern Product Center was established
+      to enhance the operating efficiency of products in Southern region. The Company also enhanced the operating
+      efficiency of various product categories through their organisational segmentation while allocating more
+      organisational and human resources for new business such as LI-NING YOUNG;
+
+–     In terms of talent management, the Company continued to implement the retail and product talents
+      development system so as to screen and motivate key talents;
+
+–     In terms of remuneration package, the Company continued to improve the incentive mechanism for retail
+      front and various business units. We also implemented long-term incentive schemes for our core team so as
+      to motivate core talents and enhance the market competitiveness of core talents’ remuneration;
+
+–     Regarding the brand-building of employer side, an official WeChat account “LI-NING Recruitment” was
+      launched as a window to showcase the Company’s results in this area through a series of events organised
+      or participated in by it. During this year, the Company once again won the “2017 Top 100 Most Attractive
+      Employers in China” and “2017 the Best Working Environment” awards. Also, it was awarded various
+      employer brand awards such as the “2017 Excellent Award of Human Resources Management”, “Top 10
+      Excellent Employer in China” and “WeChat Public Platform Award”.
+
+In the future, pursuing the goal of establishing efficient operation system, we will continue to accomplish the goal
+of better product experience, sports experience and shopping experience as well as new business development
+goals in strengthening our management on the organisational performance and our talent team building. We wish
+to effectively manage the human resources, while continuing to strengthen our organisation capacity and enhance
+the overall performance of staff in order to give full support to the Company’s strategic goal and develop the
+organisation capacity and talent team supporting the change of the Company.
+
+As at 31 December 2017, the Group had 2,182 employees in total (30 June 2017: 2,007 employees), including 2,008
+employees at the Group’s headquarters and retail subsidiaries (30 June 2017: 1,825 employees), and 174 employees
+at the Group’s other subsidiaries (30 June 2017: 182 employees).
+
+
+
+
+                                                       - 36 -
+OUTLOOK
+
+Looking forward, we will continue to strengthen and improve the following business focuses in 2018. Meanwhile,
+we will focus on building up and consolidating LI-NING’s experience value, adhere to the principle of “business-
+oriented as the key overall”, and place focused efforts on enhancing efficiency in order to steadily improve our
+profitability:
+
+–    In respect of products, we will better integrate professional sports with fashion, entertainment and leisure.
+     Innovative designs will be made to enhance product competitiveness based on various sport features.
+     By constantly accumulating our knowledge on sports and leveraging the use of functional materials and
+     innovations of science and technologies, we will develop our brands to be more competitive in China’s
+     mainstream public sports categories. With the support of sports resources, we can enhance our interactive
+     experience with consumers, thereby producing truly competitive products and enhancing our brand value;
+
+–    In respect of channels, we will continue to focus on improving single-store efficiency and constantly improve
+     the efficiency and image of LI-NING’s channels. Taking a retail-efficiency approach, we will conduct
+     effective upgrades for the key stores. Moreover, we will continue to close down or upgrade inefficient stores
+     and expand the floor areas of stores with high cost-effectiveness;
+
+–    Continuous establishment and improvement of retail operation-supported platform will remain as one of our
+     major tasks. We will constantly improve the retail experience at our stores. The retail efficiency of our stores
+     will be improved and enhanced with the support of data technology platform. Meanwhile, we will continue to
+     focus on developing the order management capability so as to further enhance the effectiveness of our precise
+     product planning.
+
+–    We will continue to make additional investment in the upgrading of digital operation. Through big data
+     analysis, we can capture online and offline business opportunities and develop methods and measures for
+     bundled sales as well as an interactive retail service model;
+
+–    For new business, we will continue to make reasonable and prudent use of resources to explore business
+     opportunities and potential market in order to foster new opportunities for the Company’s profit growth in the
+     long run.
+
+Not only does the robust increase of market demands brings about new opportunities to the development of the
+whole sports industry, it also poses challenges to the development and enhancement of brand competitiveness. With
+the impact of consumption upgrade, the consumption structure of consumers will be shifted to a more refined and
+mature dimension. This will be accompanied by further demands on certain aspects including the brand influence
+and brand value attribution of various brands. Our innate sports DNA of LI-NING brand has impelled us to place
+more emphasis on sports research and the development of LI-NING’s omni-experience value. In the future, we will
+continue to devote major resources into gaining sports knowledge, technological research and development and
+development of LI-NING brand experience, proactively exploring and broadening room for business development.
+Creating more professional and unique LI-NING brand value will remain as the theme of the Company’s long-term
+development.
+
+PURCHASE, SALE OR REDEMPTION OF THE COMPANY’S SHARES
+
+The Company did not redeem any of its shares during the year ended 31 December 2017. Except for the purchase
+of shares by the trustee of the Restricted Share Award Schemes of the Company pursuant to the trust deed and the
+rules of Restricted Share Award Schemes of the Company, neither the Company nor any of its subsidiaries had
+purchased or sold any of the Company’s shares during the year.
+
+
+
+
+                                                       - 37 -
+CORPORATE GOVERNANCE
+
+The Company is committed to upholding a high standard of corporate governance by continued review and
+enhancement of its corporate governance practices, which enables the Company to keep abreast of the corporate
+governance level oriented to its business needs in a timely and effective manner. During the year ended 31
+December 2017, the Company has complied with the code provisions of the Corporate Governance Code (“Code
+Provisions”) contained in Appendix 14 to the Rules Governing the Listing of Securities on The Stock Exchange of
+Hong Kong Limited (the “Listing Rules”), except for the following deviation with considered reason as explained
+below.
+
+According to paragraph A.2.1 of the Code Provisions, the roles of the chairman and chief executive of a listed
+issuer should be separate and should not be performed by the same individual. As the Company has not yet
+identified a suitable candidate to be the chief executive officer (“CEO”) during the year of 2017, Mr. Li Ning, the
+Executive Chairman and Interim CEO of the Company, assumed the role of chief executive officer during the year.
+Therefore, there was no separation of the roles of the chairman and the chief executive as both roles are currently
+undertaken by Mr. Li Ning. Notwithstanding the above, the Board is of the view that the assumption of the roles of
+Executive Chairman and Interim CEO by Mr. Li Ning will provide the Group with consistent and steady leadership,
+and is particularly beneficial to the planning and implementation of the Group’s business strategies. The Board also
+believes that the current arrangement is in the interest of the Company and its Shareholders as a whole.
+
+Details of the corporate governance practices of the Company will be set out in the Corporate Governance Report
+contained in the 2017 annual report of the Company.
+
+AUDIT COMMITTEE
+
+The Audit Committee of the Company, consisting of three independent non-executive directors, has reviewed the
+accounting principles and practices adopted by the Group, and has also reviewed auditing, internal control and
+financial reporting matters, including the review of the annual results for the year ended 31 December 2017.
+
+ANNUAL GENERAL MEETING
+
+The annual general meeting (“AGM”) of the Company will be held at 11:00 am on Friday, 15 June 2018.
+
+The notice of the AGM will be despatched to the shareholders together with the 2017 annual report of the Company
+on or around 12 April 2018 and published on the website of the Company (http://ir.lining.com) and the “HKExnews”
+website of The Stock Exchange of Hong Kong Limited (www.hkexnews.hk).
+
+                                                                                                By order of the Board of
+                                                                                               Li Ning Company Limited
+                                                                                                         Li Ning
+                                                                                                 Executive Chairman and
+                                                                                             Interim Chief Executive Officer
+
+Hong Kong, 21 March 2018
+
+As at the date of this announcement, the executive director of the Company is Mr. Li Ning. The non-executive directors of the Company are
+Mr. Chen Yue, Scott, Mr. Wu, Jesse Jen-Wei and Mr. Li Qilin. The independent non-executive directors of the Company are Mr. Koo Fook
+Sun, Louis, Ms. Wang Ya Fei, Dr. Chan Chung Bun, Bunny and Mr. Su Jing Shyh, Samuel.
+
+
+
+
+                                                                 - 38 -
+
