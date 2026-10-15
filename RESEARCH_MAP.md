@@ -102,6 +102,20 @@ On the default branch: franchise oversupply, DTC and wholesale, the execution vs
 
 ## In progress
 
+### Niche-source hunt (DONE Oct 15, 2026, Academic research session; outputs in `research_notes/Niche sources/`, start with `00_NICHE_SYNTHESIS.md`; no smoking gun, base-rate margin argument is the lead)
+| # | Question | Planned output |
+|---|---|---|
+| N1 | Brand health panel: Piper Sandler teens Fall 2025 to Fall 2026 (extends the Spring 2022 to Spring 2025 work), ACSI athletic shoes, Axios Harris Poll 100, Interbrand, Kantar BrandZ, Brand Finance, Lyst Index | `N1_brand_health_panel.md` |
+| N2 | Industry experts with sell-through data: Circana public releases, Matt Powell (Spurwink), Running USA, Running Insight, SGB, Footwear News analyst columns | `N2_expert_sellthrough.md` |
+| N3 | Nike's own history from books and old 10-Ks: Reebok 1986 to 1988, 1998 to 2001, 2017; time to margin and unit recovery, stock path | `N3_nike_history_analogs.md` |
+| N4 | Nike subsidiary statutory accounts: Nike Korea (DART), Nike (UK) and Nike Retail (Companies House), Nike Japan (kanpo), others | `N4_subsidiary_accounts.md` |
+| N5 | China e-commerce event rankings: 11.11 and 618 sportswear brand rankings on Tmall, JD, Douyin 2019 to 2026 | `N5_china_ecommerce_rankings.md` |
+| N6 | Off-price channel census: Nike SKUs at TJX, Ross, Burlington, Nordstrom Rack, Saks Off 5th, Shoe Carnival, Famous Footwear via Common Crawl and call transcripts | `N6_offprice_census.md` |
+| N7 | Amateur running adoption: shoe counts at major marathons and races (RunRepeat, Running Warehouse, Believe in the Run), Strava and race photo studies | `N7_amateur_running_counts.md` |
+| N8 | Academic literature applied: disclosure withdrawal, guidance cessation, investor days, Mauboussin Base Rate Book; turn G9, G11 and D7 into return predictions | `N8_literature_base_rates.md` |
+| N9 | Options market: implied distribution through Investor Day and finals vs D7 base rates; cost of a put or put spread | `N9_options_investor_day.md` |
+
+
 
 
 | Topic and exact question | Owner session (branch) | Planned output | Started |

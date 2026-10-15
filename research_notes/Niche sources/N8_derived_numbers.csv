@@ -1,0 +1,57 @@
+item,value,source
+BRB >$25B real 3y P(CAGR<0),36.9,BRB Exh.4 p.25
+BRB >$25B real 3y P(CAGR>=5),36.2,BRB Exh.4 p.25
+BRB >$25B real 3y P(CAGR>=10),18.0,BRB Exh.4 p.25
+BRB >$25B real 5y P(CAGR<0),35.6,BRB Exh.4 p.25
+BRB >$25B real 5y P(CAGR>=5),31.8,BRB Exh.4 p.25
+BRB >$25B real 5y P(CAGR>=10),13.7,BRB Exh.4 p.25
+Nike revenue FY23->FY26 3y nominal CAGR %,-3.24,DERIVED
+Nike revenue FY21->FY26 5y nominal CAGR %,0.82,DERIVED
+Nike FY28 consensus revenue vs FY26: 2y CAGR %,-3.06,D5 FY28 rev 43.6B
+Op leverage FY23->FY26: dSales,-4819,filings
+  actual dEBIT,-2345,filings
+  BRB-predicted dEBIT,-339,BRB Exh.12
+  share of EBIT fall NOT explained by sector volume leverage %,85.5,DERIVED
+Op leverage FY24->FY26: dSales,-4964,filings
+  actual dEBIT,-2689,filings
+  BRB-predicted dEBIT,-350,BRB Exh.12
+  share of EBIT fall NOT explained by sector volume leverage %,87.0,DERIVED
+FY28 EBIT at consensus 7.2% ($M),3139,D5
+FY28 EBIT at 11.6% ($M),5058,D5
+Nike EBIT lost per $ of sales lost FY23->FY26,0.487,DERIVED from filings; sector BRB beta 0.074
+Nike EBIT lost per $ of sales lost FY24->FY26,0.542,DERIVED from filings; sector BRB beta 0.074
+FY24->FY26 gross profit change ($M),-2976,filings
+  of which volume at FY24 gross margin ($M),-2212,DERIVED
+  of which rate (GM change x FY26 sales) ($M),-764,DERIVED
+  opex (demand creation + overhead) change FY24->FY26 ($M),-462,filings
+  opex flex per $ of sales lost,0.093,DERIVED vs sector 1-0.074=0.926
+FY31 revenue at +3%/yr from FY28 consensus ($M),47643,DERIVED
+Volume-only EBIT gain if opex flat in $ (flow-through at FY26 GM 42.9%) ($M),1735,"DERIVED, assumption: FY28 GM = FY26 GM"
+To reach 11.6% of FY31 revenue: EBIT gain needed ($M) / left for rate ($M) / = gross margin points,"(2387, 652, 1.4)",DERIVED
+To reach 14.0% of FY31 revenue: EBIT gain needed ($M) / left for rate ($M) / = gross margin points,"(3531, 1796, 3.8)",DERIVED
+"Opex growth room: if opex grows 1%/yr FY28-31 on $16.1B-ish base, cost ($M)",488,DERIVED illustration
+Nike mean EBIT margin FY08-FY26 %,12.38,D5_valuation_annual_xbrl.csv
+Nike 10y mean FY17-FY26 %,11.83,same
+"E[FY31 margin | FY26=8.3, r5=0.73, mean=Nike own mean] %",9.4,"DERIVED from BRB p.59,62"
+"E[FY31 margin | FY26=8.3, r5=0.73, mean=Nike 10y mean] %",9.25,"DERIVED from BRB p.59,62"
+"E[FY31 margin | FY26=8.3, r5=0.73, mean=sector avg 11%] %",9.03,"DERIVED from BRB p.59,62"
+"E[FY31 margin | FY26=8.3, r5=0.73, mean=sector median 10%] %",8.76,"DERIVED from BRB p.59,62"
+"E[FY31 margin | FY27 consensus 5.7%, r4~0.76, Nike own mean] %",7.3,DERIVED (r4 interpolated between BRB 3y 0.79 and 5y 0.73/0.72)
+P(FY31 margin >= x | sd=2.2),"{11.0: 23.4, 11.6: 15.9, 12.0: 11.9, 14.0: 1.8}",DERIVED (sd 2.2 = Nike own FY08-26; 8.2 = pooled 10-firm 5y residual)
+P(FY31 margin >= x | sd=3.5),"{11.0: 32.4, 11.6: 26.5, 12.0: 22.9, 14.0: 9.4}",DERIVED (sd 2.2 = Nike own FY08-26; 8.2 = pooled 10-firm 5y residual)
+P(FY31 margin >= x | sd=5.0),"{11.0: 37.5, 11.6: 33.0, 12.0: 30.2, 14.0: 17.9}",DERIVED (sd 2.2 = Nike own FY08-26; 8.2 = pooled 10-firm 5y residual)
+P(FY31 margin >= x | sd=8.2),"{11.0: 42.3, 11.6: 39.4, 12.0: 37.6, 14.0: 28.7}",DERIVED (sd 2.2 = Nike own FY08-26; 8.2 = pooled 10-firm 5y residual)
+Analog episodes: >=+3.3pp (to 11.6%) in 5y,"3/13 = 23%  Wilson95 (8.0, 50.0)","D5 XBRL 10 firms, DERIVED"
+Analog episodes: >=+5.7pp (to 14%) in 5y,"2/13 = 15%  Wilson95 (4.0, 42.0)",same
+Reverse-DCF price at E[m]=9.4% (10% WACC) $,24.0,"consensus_and_valuation.md l.239 midpoints, linear"
+  vs $35.30 %,-32.0,DERIVED
+"Reverse-DCF price at E[m]=9.4% (9% WACC; $23 at 8%, $30 at 10%) $",27.9,consensus_and_valuation.md l.247
+CMR 3-day CAR -4.8%: SE / 95% CI (pp),2.08 / -8.9 to -0.7,"CMR preprint Table 3 p.48 (t=-2.31, N=73)"
+NKE Oct 2 2026 close-to-close %,-3.64,nke_daily_prices.csv
+S&P 500 same day %,0.73,Yahoo ^GSPC
+NKE abnormal vs S&P (simple difference) pp,-4.38,DERIVED
+HLT Stop coefficient on ChgError x $35.30 ($ per share EPS forecast error),0.0106,HLT Table 9 p.49 (deflated by price)
+"HLT FutureEPS gap stoppers - maintainers (mean, price-deflated) x $35.30 ($)",-0.247,"HLT Table 3 p.41 (t=-1.11, NOT significant; Wilcoxon z=-3.13)"
+"Share ratio after 5% fall in weighted distribution, a=1.80 / 4.68 %","(-8.8, -21.3)","DERIVED, cross-sectional CPG exponent, illustrative only"
+"Share ratio after 10% fall in weighted distribution, a=1.80 / 4.68 %","(-17.3, -38.9)","DERIVED, cross-sectional CPG exponent, illustrative only"
+"Share ratio after 20% fall in weighted distribution, a=1.80 / 4.68 %","(-33.1, -64.8)","DERIVED, cross-sectional CPG exponent, illustrative only"

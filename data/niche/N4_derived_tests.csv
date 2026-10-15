@@ -1,0 +1,126 @@
+entity,fiscal_year,metric,value,unit,tag,note
+Nike Korea LLC,FY21,revenue_growth_krw,12.262,%,DERIVED,"KRW, so already currency neutral; FY20 revenue 1,293.559 from FY21 report comparative"
+Nike Korea LLC,FY21,apla_currency_neutral_growth,8,%,DERIVED,"10-K / Q4 release, APLA segment"
+Nike Korea LLC,FY21,korea_minus_apla_cn_growth,4.262,pts,DERIVED,
+Nike Korea LLC,FY21,revenue_usd_approx,1272.051,USD m,DERIVED,KRW revenue / FY mean KRW per USD (Yahoo KRW=X)
+Nike Korea LLC,FY21,share_of_apla_revenue,23.808,%,DERIVED,Korea assumed inside APLA
+Nike Korea LLC,FY21,gross_margin_reported,16.36,%,DERIVED,
+Nike Korea LLC,FY21,gross_margin_ex_tp_adjustment,16.36,%,DERIVED,removes the transfer price adjustment line in cost of sales
+Nike Korea LLC,FY21,operating_margin_reported,2.0,%,DERIVED,
+Nike Korea LLC,FY21,operating_margin_ex_tp_adjustment,2.0,%,DERIVED,
+Nike Korea LLC,FY21,sga_pct_revenue,14.36,%,DERIVED,
+Nike Korea LLC,FY21,receivable_days,19.46,days,DERIVED,year-end receivables / annual revenue x 365
+Nike Korea LLC,FY21,inventory_days,73.762,days,DERIVED,year-end inventory / cost of sales ex TP adjustment x 365
+Nike Korea LLC,FY21,returns_provision_pct_revenue,2.581,%,DERIVED,
+Nike Korea LLC,FY21,returns_provision_less_recovery_asset,13.89,KRW bn,DERIVED,provision minus gross returned-goods recovery asset
+Nike Korea LLC,FY21,goods_purchases_pct_revenue,83.214,%,DERIVED,
+Nike Korea LLC,FY22,revenue_growth_krw,15.336,%,DERIVED,"KRW, so already currency neutral; FY20 revenue 1,293.559 from FY21 report comparative"
+Nike Korea LLC,FY22,apla_currency_neutral_growth,16,%,DERIVED,"10-K / Q4 release, APLA segment"
+Nike Korea LLC,FY22,korea_minus_apla_cn_growth,-0.664,pts,DERIVED,
+Nike Korea LLC,FY22,revenue_usd_approx,1409.113,USD m,DERIVED,KRW revenue / FY mean KRW per USD (Yahoo KRW=X)
+Nike Korea LLC,FY22,share_of_apla_revenue,23.663,%,DERIVED,Korea assumed inside APLA
+Nike Korea LLC,FY22,gross_margin_reported,21.825,%,DERIVED,
+Nike Korea LLC,FY22,gross_margin_ex_tp_adjustment,19.781,%,DERIVED,removes the transfer price adjustment line in cost of sales
+Nike Korea LLC,FY22,operating_margin_reported,5.724,%,DERIVED,
+Nike Korea LLC,FY22,operating_margin_ex_tp_adjustment,3.681,%,DERIVED,
+Nike Korea LLC,FY22,sga_pct_revenue,16.101,%,DERIVED,
+Nike Korea LLC,FY22,receivable_days,23.651,days,DERIVED,year-end receivables / annual revenue x 365
+Nike Korea LLC,FY22,inventory_days,82.809,days,DERIVED,year-end inventory / cost of sales ex TP adjustment x 365
+Nike Korea LLC,FY22,returns_provision_pct_revenue,3.066,%,DERIVED,
+Nike Korea LLC,FY22,returns_provision_less_recovery_asset,8.856,KRW bn,DERIVED,provision minus gross returned-goods recovery asset
+Nike Korea LLC,FY22,goods_purchases_pct_revenue,82.417,%,DERIVED,
+Nike Korea LLC,FY23,revenue_growth_krw,20.065,%,DERIVED,"KRW, so already currency neutral; FY20 revenue 1,293.559 from FY21 report comparative"
+Nike Korea LLC,FY23,apla_currency_neutral_growth,17,%,DERIVED,"10-K / Q4 release, APLA segment"
+Nike Korea LLC,FY23,korea_minus_apla_cn_growth,3.065,pts,DERIVED,
+Nike Korea LLC,FY23,revenue_usd_approx,1522.626,USD m,DERIVED,KRW revenue / FY mean KRW per USD (Yahoo KRW=X)
+Nike Korea LLC,FY23,share_of_apla_revenue,23.676,%,DERIVED,Korea assumed inside APLA
+Nike Korea LLC,FY23,gross_margin_reported,17.495,%,DERIVED,
+Nike Korea LLC,FY23,gross_margin_ex_tp_adjustment,16.844,%,DERIVED,removes the transfer price adjustment line in cost of sales
+Nike Korea LLC,FY23,operating_margin_reported,3.443,%,DERIVED,
+Nike Korea LLC,FY23,operating_margin_ex_tp_adjustment,2.792,%,DERIVED,
+Nike Korea LLC,FY23,sga_pct_revenue,14.052,%,DERIVED,
+Nike Korea LLC,FY23,receivable_days,15.744,days,DERIVED,year-end receivables / annual revenue x 365
+Nike Korea LLC,FY23,inventory_days,114.423,days,DERIVED,year-end inventory / cost of sales ex TP adjustment x 365
+Nike Korea LLC,FY23,returns_provision_pct_revenue,3.012,%,DERIVED,
+Nike Korea LLC,FY23,returns_provision_less_recovery_asset,20.933,KRW bn,DERIVED,provision minus gross returned-goods recovery asset
+Nike Korea LLC,FY23,goods_purchases_pct_revenue,94.622,%,DERIVED,
+Nike Korea LLC,FY24,revenue_growth_krw,-0.296,%,DERIVED,"KRW, so already currency neutral; FY20 revenue 1,293.559 from FY21 report comparative"
+Nike Korea LLC,FY24,apla_currency_neutral_growth,5,%,DERIVED,"10-K / Q4 release, APLA segment"
+Nike Korea LLC,FY24,korea_minus_apla_cn_growth,-5.296,pts,DERIVED,
+Nike Korea LLC,FY24,revenue_usd_approx,1512.618,USD m,DERIVED,KRW revenue / FY mean KRW per USD (Yahoo KRW=X)
+Nike Korea LLC,FY24,share_of_apla_revenue,22.479,%,DERIVED,Korea assumed inside APLA
+Nike Korea LLC,FY24,gross_margin_reported,17.967,%,DERIVED,
+Nike Korea LLC,FY24,gross_margin_ex_tp_adjustment,17.999,%,DERIVED,removes the transfer price adjustment line in cost of sales
+Nike Korea LLC,FY24,operating_margin_reported,1.968,%,DERIVED,
+Nike Korea LLC,FY24,operating_margin_ex_tp_adjustment,2.0,%,DERIVED,
+Nike Korea LLC,FY24,sga_pct_revenue,15.999,%,DERIVED,
+Nike Korea LLC,FY24,receivable_days,16.217,days,DERIVED,year-end receivables / annual revenue x 365
+Nike Korea LLC,FY24,inventory_days,81.603,days,DERIVED,year-end inventory / cost of sales ex TP adjustment x 365
+Nike Korea LLC,FY24,returns_provision_pct_revenue,2.287,%,DERIVED,
+Nike Korea LLC,FY24,returns_provision_less_recovery_asset,26.926,KRW bn,DERIVED,provision minus gross returned-goods recovery asset
+Nike Korea LLC,FY24,goods_purchases_pct_revenue,74.765,%,DERIVED,
+Nike Korea LLC,FY25,revenue_growth_krw,-5.669,%,DERIVED,"KRW, so already currency neutral; FY20 revenue 1,293.559 from FY21 report comparative"
+Nike Korea LLC,FY25,apla_currency_neutral_growth,-3,%,DERIVED,"10-K / Q4 release, APLA segment"
+Nike Korea LLC,FY25,korea_minus_apla_cn_growth,-2.669,pts,DERIVED,
+Nike Korea LLC,FY25,revenue_usd_approx,1350.74,USD m,DERIVED,KRW revenue / FY mean KRW per USD (Yahoo KRW=X)
+Nike Korea LLC,FY25,share_of_apla_revenue,21.608,%,DERIVED,Korea assumed inside APLA
+Nike Korea LLC,FY25,gross_margin_reported,19.072,%,DERIVED,
+Nike Korea LLC,FY25,gross_margin_ex_tp_adjustment,19.072,%,DERIVED,removes the transfer price adjustment line in cost of sales
+Nike Korea LLC,FY25,operating_margin_reported,2.0,%,DERIVED,
+Nike Korea LLC,FY25,operating_margin_ex_tp_adjustment,2.0,%,DERIVED,
+Nike Korea LLC,FY25,sga_pct_revenue,17.072,%,DERIVED,
+Nike Korea LLC,FY25,receivable_days,18.817,days,DERIVED,year-end receivables / annual revenue x 365
+Nike Korea LLC,FY25,inventory_days,89.909,days,DERIVED,year-end inventory / cost of sales ex TP adjustment x 365
+Nike Korea LLC,FY25,returns_provision_pct_revenue,3.328,%,DERIVED,
+Nike Korea LLC,FY25,returns_provision_less_recovery_asset,32.955,KRW bn,DERIVED,provision minus gross returned-goods recovery asset
+Nike Korea LLC,FY25,goods_purchases_pct_revenue,81.916,%,DERIVED,
+Nike Korea LLC,FY26,revenue_growth_krw,-5.164,%,DERIVED,"KRW, so already currency neutral; FY20 revenue 1,293.559 from FY21 report comparative"
+Nike Korea LLC,FY26,apla_currency_neutral_growth,-1,%,DERIVED,"10-K / Q4 release, APLA segment"
+Nike Korea LLC,FY26,korea_minus_apla_cn_growth,-4.164,pts,DERIVED,
+Nike Korea LLC,FY26,revenue_usd_approx,1250.009,USD m,DERIVED,KRW revenue / FY mean KRW per USD (Yahoo KRW=X)
+Nike Korea LLC,FY26,share_of_apla_revenue,20.023,%,DERIVED,Korea assumed inside APLA
+Nike Korea LLC,FY26,gross_margin_reported,22.604,%,DERIVED,
+Nike Korea LLC,FY26,gross_margin_ex_tp_adjustment,20.007,%,DERIVED,removes the transfer price adjustment line in cost of sales
+Nike Korea LLC,FY26,operating_margin_reported,4.597,%,DERIVED,
+Nike Korea LLC,FY26,operating_margin_ex_tp_adjustment,2.0,%,DERIVED,
+Nike Korea LLC,FY26,sga_pct_revenue,18.007,%,DERIVED,
+Nike Korea LLC,FY26,receivable_days,20.578,days,DERIVED,year-end receivables / annual revenue x 365
+Nike Korea LLC,FY26,inventory_days,80.374,days,DERIVED,year-end inventory / cost of sales ex TP adjustment x 365
+Nike Korea LLC,FY26,returns_provision_pct_revenue,2.773,%,DERIVED,
+Nike Korea LLC,FY26,returns_provision_less_recovery_asset,12.383,KRW bn,DERIVED,provision minus gross returned-goods recovery asset
+Nike Korea LLC,FY26,goods_purchases_pct_revenue,77.176,%,DERIVED,
+Nike Korea LLC,FY26,operating_profit_change_vs_FY25,44.625,KRW bn,DERIVED,
+Nike Korea LLC,FY26,tp_adjustment_credit,46.578,KRW bn,DERIVED,share of the operating profit change: 104%
+Nike Korea LLC,FY26,ngt_purchases_growth,-8.083,%,DERIVED,
+Nike Korea LLC,FY26,goods_purchases_growth,-10.651,%,DERIVED,
+Nike Korea LLC,FY26,inventory_growth,-16.201,%,DERIVED,
+Nike Korea LLC,FY26,returns_provision_growth,-20.975,%,DERIVED,
+Nike Korea LLC,FY26,trade_payables_growth,-39.091,%,DERIVED,
+Nike Korea LLC,FY23,apla_ex_korea_usd_approx,4908.374,USD m,DERIVED,
+Nike Korea LLC,FY24,apla_ex_korea_usd_approx,5216.382,USD m,DERIVED,
+Nike Korea LLC,FY25,apla_ex_korea_usd_approx,4900.26,USD m,DERIVED,
+Nike Korea LLC,FY26,apla_ex_korea_usd_approx,4992.991,USD m,DERIVED,
+Nike Retail B.V. (EMEA),FY22,trade_receivable_days,32.094,days,DERIVED,
+Nike Retail B.V. (EMEA),FY22,gross_margin,26.215,%,DERIVED,
+Nike Retail B.V. (EMEA),FY22,operating_margin,2.971,%,DERIVED,
+Nike Retail B.V. (EMEA),FY23,trade_receivable_days,21.812,days,DERIVED,
+Nike Retail B.V. (EMEA),FY23,gross_margin,25.128,%,DERIVED,
+Nike Retail B.V. (EMEA),FY23,operating_margin,3.335,%,DERIVED,
+Nike Retail B.V. (EMEA),FY23,revenue_growth_eur,18.603,%,DERIVED,
+Nike Retail B.V. (EMEA),FY23,inventory_growth,30.857,%,DERIVED,
+Nike Retail B.V. (EMEA),FY23,trade_receivable_growth,-18.662,%,DERIVED,
+Nike Retail B.V. (EMEA),FY23,rest_of_emea_revenue_growth,21.288,%,DERIVED,
+Nike Retail B.V. (EMEA),FY24,trade_receivable_days,21.482,days,DERIVED,
+Nike Retail B.V. (EMEA),FY24,gross_margin,22.706,%,DERIVED,
+Nike Retail B.V. (EMEA),FY24,operating_margin,-2.624,%,DERIVED,
+Nike Retail B.V. (EMEA),FY24,revenue_growth_eur,-2.74,%,DERIVED,
+Nike Retail B.V. (EMEA),FY24,inventory_growth,-20.207,%,DERIVED,
+Nike Retail B.V. (EMEA),FY24,trade_receivable_growth,-4.202,%,DERIVED,
+Nike Retail B.V. (EMEA),FY24,rest_of_emea_revenue_growth,-3.884,%,DERIVED,
+Nike Retail B.V. (EMEA),FY25,trade_receivable_days,30.568,days,DERIVED,
+Nike Retail B.V. (EMEA),FY25,gross_margin,22.729,%,DERIVED,
+Nike Retail B.V. (EMEA),FY25,operating_margin,-0.328,%,DERIVED,
+Nike Retail B.V. (EMEA),FY25,revenue_growth_eur,-11.15,%,DERIVED,
+Nike Retail B.V. (EMEA),FY25,inventory_growth,5.104,%,DERIVED,
+Nike Retail B.V. (EMEA),FY25,trade_receivable_growth,26.462,%,DERIVED,
+Nike Retail B.V. (EMEA),FY25,rest_of_emea_revenue_growth,-11.643,%,DERIVED,
