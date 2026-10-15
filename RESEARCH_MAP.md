@@ -82,20 +82,26 @@ On the default branch: franchise oversupply, DTC and wholesale, the execution vs
 
 **Known contradictions to resolve before submission:** guidance beats (note 19 says 22 of 22 items; deck says 14 of 14 quarters; D4 says Q1 FY27 fell below the guide midpoint); NA wholesale wording (thesis_tests says mostly sell-in, D2 says channel mix plus one-quarter pulse); dividend-cut angle (note 18 and D6 agree on 0.91x cover, D6 adds years of balance-sheet runway).
 
+
+### Smoking-gun hunt results (Oct 15, 2026, Academic research session)
+| # | Question | Files | One-line result |
+|---|---|---|---|
+| G1 | Forward demand from Nike's own filings: product purchase obligations, inventory purchase commitments, endorsement obligations, FY19 to Q1 FY27 | `research_notes/Smoking gun hunt/G1_purchase_obligations.md` | Not predictive; FY25 $7.9B was a filing error (about $5B) |
+| G2 | Receivables forensics: DSO, allowance for doubtful accounts, sales returns and markdown reserves vs wholesale growth, by quarter | `research_notes/Smoking gun hunt/G2_receivables_reserves.md` | No credit fingerprint in push quarters; wholesale DSO +4.5 to +9.7 days from Q3 FY26; segment AR and returns rollforward disclosures withdrawn |
+| G3 | Unit volumes from Nike Impact Reports and the Nike Manufacturing Map: footwear units, factory and worker counts by country, FY15 to latest | `research_notes/Smoking gun hunt/G3_units_factories.md` | Footwear units flat vs FY19; all growth was price; ASP now falling |
+| G4 | Securities class action complaints against Nike (2024 onward): confidential witness accounts on inventory, discounting and DTC, from court dockets | `research_notes/Smoking gun hunt/G4_litigation_witnesses.md` | Court dismissed 78 of 79 statements; 2022 allegations only |
+| G5 | Credit market read: Nike bond yields and spreads vs peers (TRACE), CDS if available, rating agency reports | `research_notes/Smoking gun hunt/G5_credit_market.md` | Bonds price single-A, tightest in peer group; no stress |
+| G6 | Web traffic and digital demand: Cloudflare Radar and Tranco domain ranks for nike.com and peers by country; app store ranks | `research_notes/Smoking gun hunt/G6_web_traffic.md` | nike.com visits -11% YoY vs peers flat to up; digital decline is demand outside EMEA |
+| G7 | Innovation pipeline: USPTO and EUIPO trademark and patent filings by Nike vs adidas, On, Deckers, 2015 to 2026 | `research_notes/Smoking gun hunt/G7_ip_pipeline.md` | 2026 trademark filings at a 15-year high; supports the long case product rebuild |
+| G8 | Tax and contingencies: EU state aid case on Nike's Dutch rulings, IRS and other disputes, unrecognized tax benefits, FY28 EPS exposure | `research_notes/Smoking gun hunt/G8_tax_contingencies.md` | No tax gap; Belgian customs claim (press EUR 1.5B) is the largest unmodeled item |
+| G9 | Resolve the guidance-beat contradiction (22 of 22 items vs 14 of 14 quarters vs Q1 FY27 below midpoint) against the releases | `research_notes/Smoking gun hunt/G9_guidance_record.md` | 16 of 16 inside guided range; Q1 FY27 first below midpoint |
+| G12 | Do sales-related reserve releases explain the FY26 beats? | `research_notes/Smoking gun hunt/G12_reserve_release.md` | YoY reserve swing equals 90% to 125% of the Q2 to Q4 FY26 revenue gaps to guide midpoint, $0.30 to $0.43 of FY26 EPS (what-if); CFO confirmed mechanism on Q4 FY26 call; adversarial check in progress (G12_check.md) |
+
 ## In progress
 
 ### Smoking-gun hunt (claimed Oct 15, 2026 by the Academic research session, `claude/stoic-shannon-dmkmyu`)
 | # | Question | Planned output |
 |---|---|---|
-| G1 | Forward demand from Nike's own filings: product purchase obligations, inventory purchase commitments, endorsement obligations, FY19 to Q1 FY27 | `research_notes/Smoking gun hunt/G1_purchase_obligations.md` |
-| G2 | Receivables forensics: DSO, allowance for doubtful accounts, sales returns and markdown reserves vs wholesale growth, by quarter | `research_notes/Smoking gun hunt/G2_receivables_reserves.md` |
-| G3 | Unit volumes from Nike Impact Reports and the Nike Manufacturing Map: footwear units, factory and worker counts by country, FY15 to latest | `research_notes/Smoking gun hunt/G3_units_factories.md` |
-| G4 | Securities class action complaints against Nike (2024 onward): confidential witness accounts on inventory, discounting and DTC, from court dockets | `research_notes/Smoking gun hunt/G4_litigation_witnesses.md` |
-| G5 | Credit market read: Nike bond yields and spreads vs peers (TRACE), CDS if available, rating agency reports | `research_notes/Smoking gun hunt/G5_credit_market.md` |
-| G6 | Web traffic and digital demand: Cloudflare Radar and Tranco domain ranks for nike.com and peers by country; app store ranks | `research_notes/Smoking gun hunt/G6_web_traffic.md` |
-| G7 | Innovation pipeline: USPTO and EUIPO trademark and patent filings by Nike vs adidas, On, Deckers, 2015 to 2026 | `research_notes/Smoking gun hunt/G7_ip_pipeline.md` |
-| G8 | Tax and contingencies: EU state aid case on Nike's Dutch rulings, IRS and other disputes, unrecognized tax benefits, FY28 EPS exposure | `research_notes/Smoking gun hunt/G8_tax_contingencies.md` |
-| G9 | Resolve the guidance-beat contradiction (22 of 22 items vs 14 of 14 quarters vs Q1 FY27 below midpoint) against the releases | `research_notes/Smoking gun hunt/G9_guidance_record.md` |
 
 
 | Topic and exact question | Owner session (branch) | Planned output | Started |
