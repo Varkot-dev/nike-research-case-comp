@@ -1,0 +1,13 @@
+origin,nike_fy_window_jun_may,us_sports_footwear_pairs_m_640411_plus_640219,value_usd_m,unit_value_usd_per_pair,pairs_yoy_pct,src,tag
+World,FY2024,213.1,3975.0,18.65,,"data/hunt/trade_imports/us_imports_hs6_athletic_monthly.csv (UN Comtrade, US Census data), all brands, US only",DERIVED
+World,FY2025,255.8,4750.0,18.57,20.0,"data/hunt/trade_imports/us_imports_hs6_athletic_monthly.csv (UN Comtrade, US Census data), all brands, US only",DERIVED
+World,FY2026,252.8,4934.0,19.52,-1.2,"data/hunt/trade_imports/us_imports_hs6_athletic_monthly.csv (UN Comtrade, US Census data), all brands, US only",DERIVED
+Vietnam,FY2024,116.2,2445.0,21.05,,"data/hunt/trade_imports/us_imports_hs6_athletic_monthly.csv (UN Comtrade, US Census data), all brands, US only",DERIVED
+Vietnam,FY2025,139.5,2915.0,20.9,20.1,"data/hunt/trade_imports/us_imports_hs6_athletic_monthly.csv (UN Comtrade, US Census data), all brands, US only",DERIVED
+Vietnam,FY2026,137.1,3029.0,22.09,-1.7,"data/hunt/trade_imports/us_imports_hs6_athletic_monthly.csv (UN Comtrade, US Census data), all brands, US only",DERIVED
+Indonesia,FY2024,31.1,582.0,18.69,,"data/hunt/trade_imports/us_imports_hs6_athletic_monthly.csv (UN Comtrade, US Census data), all brands, US only",DERIVED
+Indonesia,FY2025,45.6,821.0,17.99,46.5,"data/hunt/trade_imports/us_imports_hs6_athletic_monthly.csv (UN Comtrade, US Census data), all brands, US only",DERIVED
+Indonesia,FY2026,55.9,1093.0,19.57,22.5,"data/hunt/trade_imports/us_imports_hs6_athletic_monthly.csv (UN Comtrade, US Census data), all brands, US only",DERIVED
+China,FY2024,57.4,767.0,13.35,,"data/hunt/trade_imports/us_imports_hs6_athletic_monthly.csv (UN Comtrade, US Census data), all brands, US only",DERIVED
+China,FY2025,60.7,820.0,13.5,5.7,"data/hunt/trade_imports/us_imports_hs6_athletic_monthly.csv (UN Comtrade, US Census data), all brands, US only",DERIVED
+China,FY2026,45.4,558.0,12.28,-25.2,"data/hunt/trade_imports/us_imports_hs6_athletic_monthly.csv (UN Comtrade, US Census data), all brands, US only",DERIVED

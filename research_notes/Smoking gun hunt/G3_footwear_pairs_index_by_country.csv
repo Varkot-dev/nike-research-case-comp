@@ -1,0 +1,9 @@
+fiscal_year,vietnam_share_pct,indonesia_share_pct,china_share_pct,other_share_pct_DERIVED,footwear_units_index_FY19_100,vietnam_pairs_index,indonesia_pairs_index,china_pairs_index,other_pairs_index,src,tag
+FY2019,49,21,23,7,100.0,49.0,21.0,23.0,7.0,FY19 10-K p. 3,"OPENED (shares, rounded to 1 pt); DERIVED (index = share x units index, FY19 total = 100)"
+FY2020,50,24,22,4,92.0,46.0,22.1,20.2,3.7,FY20 10-K p. 3,"OPENED (shares, rounded to 1 pt); DERIVED (index = share x units index, FY19 total = 100)"
+FY2021,51,24,21,4,102.1,52.1,24.5,21.4,4.1,FY21 10-K p. 3,"OPENED (shares, rounded to 1 pt); DERIVED (index = share x units index, FY19 total = 100)"
+FY2022,44,30,20,6,99.1,43.6,29.7,19.8,5.9,FY22 10-K p. 3,"OPENED (shares, rounded to 1 pt); DERIVED (index = share x units index, FY19 total = 100)"
+FY2023,50,27,18,5,111.9,56.0,30.2,20.1,5.6,FY23 10-K p. 3,"OPENED (shares, rounded to 1 pt); DERIVED (index = share x units index, FY19 total = 100)"
+FY2024,50,27,18,5,109.7,54.8,29.6,19.7,5.5,FY24 10-K p. 3,"OPENED (shares, rounded to 1 pt); DERIVED (index = share x units index, FY19 total = 100)"
+FY2025,51,28,17,4,100.9,51.5,28.3,17.2,4.0,FY25 10-K p. 3,"OPENED (shares, rounded to 1 pt); DERIVED (index = share x units index, FY19 total = 100)"
+FY2026,52,27,16,5,99.9,52.0,27.0,16.0,5.0,FY26 10-K p. 3,"OPENED (shares, rounded to 1 pt); DERIVED (index = share x units index, FY19 total = 100)"

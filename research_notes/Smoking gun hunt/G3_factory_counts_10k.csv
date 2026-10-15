@@ -1,0 +1,12 @@
+fiscal_year,footwear_factories,footwear_countries,apparel_factories,apparel_countries,footwear_units_index_FY19_100,footwear_units_per_factory_index_FY19_100,src,tag
+FY2016,142,15,394,39,84.8,66.9,FY16 10-K p. 3,OPENED (counts); DERIVED (indices)
+FY2017,127,15,363,37,90.8,80.1,FY17 10-K p. 3,OPENED (counts); DERIVED (indices)
+FY2018,124,13,328,37,92.6,83.6,FY18 10-K p. 3,OPENED (counts); DERIVED (indices)
+FY2019,112,12,334,36,100.0,100.0,FY19 10-K p. 4,OPENED (counts); DERIVED (indices)
+FY2020,122,12,329,38,92.0,84.5,FY20 10-K p. 3,OPENED (counts); DERIVED (indices)
+FY2021,191,14,344,33,102.1,59.9,FY21 10-K p. 3 (older definition),OPENED (counts); DERIVED (indices)
+FY2022,120,11,279,33,99.1,92.5,FY22 10-K p. 4 (finished goods contract factories),OPENED (counts); DERIVED (indices)
+FY2023,123,11,291,31,111.9,101.9,FY23 10-K p. 3,OPENED (counts); DERIVED (indices)
+FY2024,96,11,285,33,109.7,128.0,FY24 10-K p. 3,OPENED (counts); DERIVED (indices)
+FY2025,97,11,303,34,100.9,116.5,FY25 10-K p. 3,OPENED (counts); DERIVED (indices)
+FY2026,95,11,321,34,99.9,117.8,FY26 10-K p. 3,OPENED (counts); DERIVED (indices)

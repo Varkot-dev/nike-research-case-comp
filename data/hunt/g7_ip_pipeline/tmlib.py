@@ -16,7 +16,7 @@ def q(body, tries=4):
     raise RuntimeError("tmsearch failed")
 FIELDS = ["id","wordmark","filedDate","abandonDate","cancelDate","alive","registrationDate","registrationId",
           "internationalClass","drawingCode","currentBasis","originalBasis","statusCode","statusDescription",
-          "ownerName","ownerType","markType","goodsAndServices","designCode","registrationType"]
+          "ownerName","firstUseAnyDate","firstUseCommerceDate","ownerType","markType","goodsAndServices","designCode","registrationType"]
 def fetch(query, y0=2000, y1=2026, per=1000):
     """page by calendar year with from/size (sort cursors are not returned by the backend)"""
     out = []
