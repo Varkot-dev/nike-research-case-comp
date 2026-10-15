@@ -1,0 +1,520 @@
+snapshot_date,source,gender,brand,listing_count,all_brand_facet_sum,share_pct
+2021-01-01,wayback,mens,ASICS,25,1389,1.80
+2021-01-01,wayback,mens,Brooks,14,1389,1.01
+2021-01-01,wayback,mens,Converse,104,1389,7.49
+2021-01-01,wayback,mens,Jordan,138,1389,9.94
+2021-01-01,wayback,mens,New Balance,107,1389,7.70
+2021-01-01,wayback,mens,Nike,686,1389,49.39
+2021-01-01,wayback,mens,PUMA,123,1389,8.86
+2021-01-01,wayback,mens,Saucony,1,1389,0.07
+2021-01-01,wayback,mens,Under Armour,28,1389,2.02
+2021-01-01,wayback,mens,adidas,163,1389,11.74
+2021-01-19,wayback,womens,ASICS,23,477,4.82
+2021-01-19,wayback,womens,Brooks,12,477,2.52
+2021-01-19,wayback,womens,Converse,33,477,6.92
+2021-01-19,wayback,womens,Jordan,24,477,5.03
+2021-01-19,wayback,womens,New Balance,16,477,3.35
+2021-01-19,wayback,womens,Nike,277,477,58.07
+2021-01-19,wayback,womens,PUMA,66,477,13.84
+2021-01-19,wayback,womens,Saucony,1,477,0.21
+2021-01-19,wayback,womens,adidas,25,477,5.24
+2021-04-10,wayback,mens,ASICS,31,1241,2.50
+2021-04-10,wayback,mens,Brooks,17,1241,1.37
+2021-04-10,wayback,mens,Converse,107,1241,8.62
+2021-04-10,wayback,mens,Jordan,124,1241,9.99
+2021-04-10,wayback,mens,New Balance,110,1241,8.86
+2021-04-10,wayback,mens,Nike,527,1241,42.47
+2021-04-10,wayback,mens,PUMA,140,1241,11.28
+2021-04-10,wayback,mens,Under Armour,37,1241,2.98
+2021-04-10,wayback,mens,adidas,148,1241,11.93
+2021-04-10,wayback,womens,ASICS,16,402,3.98
+2021-04-10,wayback,womens,Brooks,8,402,1.99
+2021-04-10,wayback,womens,Converse,28,402,6.97
+2021-04-10,wayback,womens,Jordan,17,402,4.23
+2021-04-10,wayback,womens,New Balance,12,402,2.99
+2021-04-10,wayback,womens,Nike,205,402,51.00
+2021-04-10,wayback,womens,PUMA,77,402,19.15
+2021-04-10,wayback,womens,Saucony,1,402,0.25
+2021-04-10,wayback,womens,adidas,38,402,9.45
+2021-07-01,wayback,mens,ASICS,45,1181,3.81
+2021-07-01,wayback,mens,Brooks,19,1181,1.61
+2021-07-01,wayback,mens,Converse,102,1181,8.64
+2021-07-01,wayback,mens,Jordan,100,1181,8.47
+2021-07-01,wayback,mens,New Balance,132,1181,11.18
+2021-07-01,wayback,mens,Nike,466,1181,39.46
+2021-07-01,wayback,mens,PUMA,154,1181,13.04
+2021-07-01,wayback,mens,Under Armour,30,1181,2.54
+2021-07-01,wayback,mens,adidas,133,1181,11.26
+2021-07-01,wayback,womens,ASICS,11,403,2.73
+2021-07-01,wayback,womens,Brooks,8,403,1.99
+2021-07-01,wayback,womens,Converse,34,403,8.44
+2021-07-01,wayback,womens,Jordan,10,403,2.48
+2021-07-01,wayback,womens,New Balance,17,403,4.22
+2021-07-01,wayback,womens,Nike,221,403,54.84
+2021-07-01,wayback,womens,PUMA,71,403,17.62
+2021-07-01,wayback,womens,Saucony,1,403,0.25
+2021-07-01,wayback,womens,adidas,30,403,7.44
+2021-10-05,wayback,mens,ASICS,46,996,4.62
+2021-10-05,wayback,mens,Brooks,24,996,2.41
+2021-10-05,wayback,mens,Converse,77,996,7.73
+2021-10-05,wayback,mens,Jordan,78,996,7.83
+2021-10-05,wayback,mens,New Balance,110,996,11.04
+2021-10-05,wayback,mens,Nike,381,996,38.25
+2021-10-05,wayback,mens,On,12,996,1.20
+2021-10-05,wayback,mens,PUMA,140,996,14.06
+2021-10-05,wayback,mens,Under Armour,16,996,1.61
+2021-10-05,wayback,mens,adidas,112,996,11.24
+2021-10-05,wayback,womens,ASICS,15,392,3.83
+2021-10-05,wayback,womens,Brooks,10,392,2.55
+2021-10-05,wayback,womens,Converse,33,392,8.42
+2021-10-05,wayback,womens,Jordan,5,392,1.28
+2021-10-05,wayback,womens,New Balance,19,392,4.85
+2021-10-05,wayback,womens,Nike,208,392,53.06
+2021-10-05,wayback,womens,On,6,392,1.53
+2021-10-05,wayback,womens,PUMA,60,392,15.31
+2021-10-05,wayback,womens,Saucony,1,392,0.26
+2021-10-05,wayback,womens,adidas,35,392,8.93
+2022-01-04,wayback,mens,ASICS,40,846,4.73
+2022-01-04,wayback,mens,Brooks,25,846,2.96
+2022-01-04,wayback,mens,Converse,66,846,7.80
+2022-01-04,wayback,mens,Jordan,48,846,5.67
+2022-01-04,wayback,mens,New Balance,127,846,15.01
+2022-01-04,wayback,mens,Nike,263,846,31.09
+2022-01-04,wayback,mens,On,12,846,1.42
+2022-01-04,wayback,mens,PUMA,142,846,16.78
+2022-01-04,wayback,mens,Saucony,1,846,0.12
+2022-01-04,wayback,mens,Under Armour,13,846,1.54
+2022-01-04,wayback,mens,adidas,109,846,12.88
+2022-01-04,wayback,womens,ASICS,19,478,3.97
+2022-01-04,wayback,womens,Brooks,12,478,2.51
+2022-01-04,wayback,womens,Converse,44,478,9.21
+2022-01-04,wayback,womens,Jordan,16,478,3.35
+2022-01-04,wayback,womens,New Balance,26,478,5.44
+2022-01-04,wayback,womens,Nike,238,478,49.79
+2022-01-04,wayback,womens,On,9,478,1.88
+2022-01-04,wayback,womens,PUMA,78,478,16.32
+2022-01-04,wayback,womens,Saucony,1,478,0.21
+2022-01-04,wayback,womens,adidas,35,478,7.32
+2022-04-01,wayback,mens,ASICS,38,1087,3.50
+2022-04-01,wayback,mens,Brooks,41,1087,3.77
+2022-04-01,wayback,mens,Converse,69,1087,6.35
+2022-04-01,wayback,mens,Jordan,72,1087,6.62
+2022-04-01,wayback,mens,New Balance,171,1087,15.73
+2022-04-01,wayback,mens,Nike,324,1087,29.81
+2022-04-01,wayback,mens,On,19,1087,1.75
+2022-04-01,wayback,mens,PUMA,171,1087,15.73
+2022-04-01,wayback,mens,Under Armour,24,1087,2.21
+2022-04-01,wayback,mens,adidas,158,1087,14.54
+2022-04-01,wayback,womens,ASICS,18,567,3.17
+2022-04-01,wayback,womens,Brooks,24,567,4.23
+2022-04-01,wayback,womens,Converse,55,567,9.70
+2022-04-01,wayback,womens,Jordan,20,567,3.53
+2022-04-01,wayback,womens,New Balance,31,567,5.47
+2022-04-01,wayback,womens,Nike,267,567,47.09
+2022-04-01,wayback,womens,On,14,567,2.47
+2022-04-01,wayback,womens,PUMA,79,567,13.93
+2022-04-01,wayback,womens,adidas,59,567,10.41
+2022-07-15,wayback,mens,ASICS,48,1426,3.37
+2022-07-15,wayback,mens,Brooks,51,1426,3.58
+2022-07-15,wayback,mens,Converse,75,1426,5.26
+2022-07-15,wayback,mens,HOKA,8,1426,0.56
+2022-07-15,wayback,mens,Jordan,99,1426,6.94
+2022-07-15,wayback,mens,New Balance,208,1426,14.59
+2022-07-15,wayback,mens,Nike,405,1426,28.40
+2022-07-15,wayback,mens,On,46,1426,3.23
+2022-07-15,wayback,mens,PUMA,198,1426,13.88
+2022-07-15,wayback,mens,Under Armour,32,1426,2.24
+2022-07-15,wayback,mens,adidas,256,1426,17.95
+2022-08-01,wayback,womens,ASICS,26,653,3.98
+2022-08-01,wayback,womens,Brooks,32,653,4.90
+2022-08-01,wayback,womens,Converse,59,653,9.04
+2022-08-01,wayback,womens,HOKA,5,653,0.77
+2022-08-01,wayback,womens,Jordan,36,653,5.51
+2022-08-01,wayback,womens,New Balance,26,653,3.98
+2022-08-01,wayback,womens,Nike,288,653,44.10
+2022-08-01,wayback,womens,On,15,653,2.30
+2022-08-01,wayback,womens,PUMA,80,653,12.25
+2022-08-01,wayback,womens,adidas,86,653,13.17
+2022-10-03,wayback,mens,ASICS,71,2018,3.52
+2022-10-03,wayback,mens,Brooks,99,2018,4.91
+2022-10-03,wayback,mens,Converse,80,2018,3.96
+2022-10-03,wayback,mens,HOKA,95,2018,4.71
+2022-10-03,wayback,mens,Jordan,116,2018,5.75
+2022-10-03,wayback,mens,New Balance,243,2018,12.04
+2022-10-03,wayback,mens,Nike,519,2018,25.72
+2022-10-03,wayback,mens,On,44,2018,2.18
+2022-10-03,wayback,mens,PUMA,206,2018,10.21
+2022-10-03,wayback,mens,Saucony,55,2018,2.73
+2022-10-03,wayback,mens,Under Armour,67,2018,3.32
+2022-10-03,wayback,mens,adidas,423,2018,20.96
+2022-10-03,wayback,womens,ASICS,33,932,3.54
+2022-10-03,wayback,womens,Brooks,71,932,7.62
+2022-10-03,wayback,womens,Converse,75,932,8.05
+2022-10-03,wayback,womens,HOKA,70,932,7.51
+2022-10-03,wayback,womens,Jordan,38,932,4.08
+2022-10-03,wayback,womens,New Balance,63,932,6.76
+2022-10-03,wayback,womens,Nike,333,932,35.73
+2022-10-03,wayback,womens,On,16,932,1.72
+2022-10-03,wayback,womens,PUMA,87,932,9.33
+2022-10-03,wayback,womens,Saucony,15,932,1.61
+2022-10-03,wayback,womens,Under Armour,7,932,0.75
+2022-10-03,wayback,womens,adidas,124,932,13.30
+2023-01-03,wayback,mens,ASICS,56,1899,2.95
+2023-01-03,wayback,mens,Brooks,59,1899,3.11
+2023-01-03,wayback,mens,Converse,82,1899,4.32
+2023-01-03,wayback,mens,HOKA,90,1899,4.74
+2023-01-03,wayback,mens,Jordan,136,1899,7.16
+2023-01-03,wayback,mens,New Balance,210,1899,11.06
+2023-01-03,wayback,mens,Nike,445,1899,23.43
+2023-01-03,wayback,mens,On,54,1899,2.84
+2023-01-03,wayback,mens,PUMA,191,1899,10.06
+2023-01-03,wayback,mens,Saucony,12,1899,0.63
+2023-01-03,wayback,mens,Under Armour,82,1899,4.32
+2023-01-03,wayback,mens,adidas,482,1899,25.38
+2023-01-03,wayback,womens,ASICS,30,867,3.46
+2023-01-03,wayback,womens,Brooks,47,867,5.42
+2023-01-03,wayback,womens,Converse,87,867,10.03
+2023-01-03,wayback,womens,HOKA,58,867,6.69
+2023-01-03,wayback,womens,Jordan,43,867,4.96
+2023-01-03,wayback,womens,New Balance,52,867,6.00
+2023-01-03,wayback,womens,Nike,306,867,35.29
+2023-01-03,wayback,womens,On,24,867,2.77
+2023-01-03,wayback,womens,PUMA,94,867,10.84
+2023-01-03,wayback,womens,Saucony,2,867,0.23
+2023-01-03,wayback,womens,adidas,124,867,14.30
+2023-04-07,wayback,mens,ASICS,66,2119,3.11
+2023-04-07,wayback,mens,Brooks,94,2119,4.44
+2023-04-07,wayback,mens,Converse,86,2119,4.06
+2023-04-07,wayback,mens,HOKA,46,2119,2.17
+2023-04-07,wayback,mens,Jordan,195,2119,9.20
+2023-04-07,wayback,mens,New Balance,263,2119,12.41
+2023-04-07,wayback,mens,Nike,492,2119,23.22
+2023-04-07,wayback,mens,On,73,2119,3.45
+2023-04-07,wayback,mens,PUMA,199,2119,9.39
+2023-04-07,wayback,mens,Saucony,9,2119,0.42
+2023-04-07,wayback,mens,Under Armour,123,2119,5.80
+2023-04-07,wayback,mens,adidas,473,2119,22.32
+2023-04-07,wayback,womens,ASICS,31,991,3.13
+2023-04-07,wayback,womens,Brooks,109,991,11.00
+2023-04-07,wayback,womens,Converse,99,991,9.99
+2023-04-07,wayback,womens,HOKA,41,991,4.14
+2023-04-07,wayback,womens,Jordan,57,991,5.75
+2023-04-07,wayback,womens,New Balance,76,991,7.67
+2023-04-07,wayback,womens,Nike,326,991,32.90
+2023-04-07,wayback,womens,On,37,991,3.73
+2023-04-07,wayback,womens,PUMA,87,991,8.78
+2023-04-07,wayback,womens,Saucony,7,991,0.71
+2023-04-07,wayback,womens,Under Armour,18,991,1.82
+2023-04-07,wayback,womens,adidas,103,991,10.39
+2023-07-14,wayback,mens,ASICS,87,2465,3.53
+2023-07-14,wayback,mens,Brooks,131,2465,5.31
+2023-07-14,wayback,mens,Converse,89,2465,3.61
+2023-07-14,wayback,mens,HOKA,81,2465,3.29
+2023-07-14,wayback,mens,Jordan,218,2465,8.84
+2023-07-14,wayback,mens,New Balance,229,2465,9.29
+2023-07-14,wayback,mens,Nike,547,2465,22.19
+2023-07-14,wayback,mens,On,84,2465,3.41
+2023-07-14,wayback,mens,PUMA,216,2465,8.76
+2023-07-14,wayback,mens,Saucony,38,2465,1.54
+2023-07-14,wayback,mens,Under Armour,163,2465,6.61
+2023-07-14,wayback,mens,adidas,582,2465,23.61
+2023-07-14,wayback,womens,ASICS,41,1213,3.38
+2023-07-14,wayback,womens,Brooks,109,1213,8.99
+2023-07-14,wayback,womens,Converse,114,1213,9.40
+2023-07-14,wayback,womens,HOKA,54,1213,4.45
+2023-07-14,wayback,womens,Jordan,93,1213,7.67
+2023-07-14,wayback,womens,New Balance,90,1213,7.42
+2023-07-14,wayback,womens,Nike,389,1213,32.07
+2023-07-14,wayback,womens,On,52,1213,4.29
+2023-07-14,wayback,womens,PUMA,110,1213,9.07
+2023-07-14,wayback,womens,Saucony,11,1213,0.91
+2023-07-14,wayback,womens,Under Armour,23,1213,1.90
+2023-07-14,wayback,womens,adidas,127,1213,10.47
+2023-10-02,wayback,mens,ASICS,90,2425,3.71
+2023-10-02,wayback,mens,Brooks,135,2425,5.57
+2023-10-02,wayback,mens,Converse,92,2425,3.79
+2023-10-02,wayback,mens,HOKA,89,2425,3.67
+2023-10-02,wayback,mens,Jordan,250,2425,10.31
+2023-10-02,wayback,mens,New Balance,229,2425,9.44
+2023-10-02,wayback,mens,Nike,567,2425,23.38
+2023-10-02,wayback,mens,On,102,2425,4.21
+2023-10-02,wayback,mens,PUMA,235,2425,9.69
+2023-10-02,wayback,mens,Saucony,35,2425,1.44
+2023-10-02,wayback,mens,Under Armour,160,2425,6.60
+2023-10-02,wayback,mens,adidas,441,2425,18.19
+2023-10-02,wayback,womens,ASICS,46,1259,3.65
+2023-10-02,wayback,womens,Brooks,111,1259,8.82
+2023-10-02,wayback,womens,Converse,120,1259,9.53
+2023-10-02,wayback,womens,HOKA,65,1259,5.16
+2023-10-02,wayback,womens,Jordan,110,1259,8.74
+2023-10-02,wayback,womens,New Balance,89,1259,7.07
+2023-10-02,wayback,womens,Nike,408,1259,32.41
+2023-10-02,wayback,womens,On,53,1259,4.21
+2023-10-02,wayback,womens,PUMA,116,1259,9.21
+2023-10-02,wayback,womens,Saucony,12,1259,0.95
+2023-10-02,wayback,womens,Under Armour,24,1259,1.91
+2023-10-02,wayback,womens,adidas,105,1259,8.34
+2024-01-01,wayback,mens,ASICS,92,2379,3.87
+2024-01-01,wayback,mens,Brooks,107,2379,4.50
+2024-01-01,wayback,mens,Converse,87,2379,3.66
+2024-01-01,wayback,mens,HOKA,81,2379,3.40
+2024-01-01,wayback,mens,Jordan,266,2379,11.18
+2024-01-01,wayback,mens,New Balance,216,2379,9.08
+2024-01-01,wayback,mens,Nike,644,2379,27.07
+2024-01-01,wayback,mens,On,97,2379,4.08
+2024-01-01,wayback,mens,PUMA,214,2379,9.00
+2024-01-01,wayback,mens,Saucony,33,2379,1.39
+2024-01-01,wayback,mens,Under Armour,163,2379,6.85
+2024-01-01,wayback,mens,adidas,379,2379,15.93
+2024-01-01,wayback,womens,ASICS,45,1240,3.63
+2024-01-01,wayback,womens,Brooks,91,1240,7.34
+2024-01-01,wayback,womens,Converse,101,1240,8.15
+2024-01-01,wayback,womens,HOKA,66,1240,5.32
+2024-01-01,wayback,womens,Jordan,114,1240,9.19
+2024-01-01,wayback,womens,New Balance,95,1240,7.66
+2024-01-01,wayback,womens,Nike,434,1240,35.00
+2024-01-01,wayback,womens,On,56,1240,4.52
+2024-01-01,wayback,womens,PUMA,109,1240,8.79
+2024-01-01,wayback,womens,Saucony,12,1240,0.97
+2024-01-01,wayback,womens,Under Armour,21,1240,1.69
+2024-01-01,wayback,womens,adidas,96,1240,7.74
+2024-04-02,wayback,mens,ASICS,63,2249,2.80
+2024-04-02,wayback,mens,Brooks,94,2249,4.18
+2024-04-02,wayback,mens,Converse,68,2249,3.02
+2024-04-02,wayback,mens,HOKA,70,2249,3.11
+2024-04-02,wayback,mens,Jordan,255,2249,11.34
+2024-04-02,wayback,mens,New Balance,161,2249,7.16
+2024-04-02,wayback,mens,Nike,628,2249,27.92
+2024-04-02,wayback,mens,On,100,2249,4.45
+2024-04-02,wayback,mens,PUMA,169,2249,7.51
+2024-04-02,wayback,mens,Saucony,26,2249,1.16
+2024-04-02,wayback,mens,Under Armour,203,2249,9.03
+2024-04-02,wayback,mens,adidas,412,2249,18.32
+2024-04-02,wayback,womens,ASICS,34,1236,2.75
+2024-04-02,wayback,womens,Brooks,90,1236,7.28
+2024-04-02,wayback,womens,Converse,86,1236,6.96
+2024-04-02,wayback,womens,HOKA,66,1236,5.34
+2024-04-02,wayback,womens,Jordan,129,1236,10.44
+2024-04-02,wayback,womens,New Balance,84,1236,6.80
+2024-04-02,wayback,womens,Nike,446,1236,36.08
+2024-04-02,wayback,womens,On,55,1236,4.45
+2024-04-02,wayback,womens,PUMA,90,1236,7.28
+2024-04-02,wayback,womens,Saucony,12,1236,0.97
+2024-04-02,wayback,womens,Under Armour,21,1236,1.70
+2024-04-02,wayback,womens,adidas,123,1236,9.95
+2024-07-06,wayback,mens,ASICS,52,2256,2.30
+2024-07-06,wayback,mens,Brooks,93,2256,4.12
+2024-07-06,wayback,mens,Converse,66,2256,2.93
+2024-07-06,wayback,mens,HOKA,94,2256,4.17
+2024-07-06,wayback,mens,Jordan,289,2256,12.81
+2024-07-06,wayback,mens,New Balance,174,2256,7.71
+2024-07-06,wayback,mens,Nike,654,2256,28.99
+2024-07-06,wayback,mens,On,96,2256,4.26
+2024-07-06,wayback,mens,PUMA,176,2256,7.80
+2024-07-06,wayback,mens,Saucony,22,2256,0.98
+2024-07-06,wayback,mens,Under Armour,176,2256,7.80
+2024-07-06,wayback,mens,adidas,364,2256,16.13
+2024-07-06,wayback,womens,ASICS,25,1268,1.97
+2024-07-06,wayback,womens,Brooks,91,1268,7.18
+2024-07-06,wayback,womens,Converse,89,1268,7.02
+2024-07-06,wayback,womens,HOKA,81,1268,6.39
+2024-07-06,wayback,womens,Jordan,145,1268,11.44
+2024-07-06,wayback,womens,New Balance,98,1268,7.73
+2024-07-06,wayback,womens,Nike,467,1268,36.83
+2024-07-06,wayback,womens,On,65,1268,5.13
+2024-07-06,wayback,womens,PUMA,76,1268,5.99
+2024-07-06,wayback,womens,Saucony,10,1268,0.79
+2024-07-06,wayback,womens,Under Armour,16,1268,1.26
+2024-07-06,wayback,womens,adidas,105,1268,8.28
+2024-10-01,wayback,mens,ASICS,46,2423,1.90
+2024-10-01,wayback,mens,Brooks,79,2423,3.26
+2024-10-01,wayback,mens,Converse,69,2423,2.85
+2024-10-01,wayback,mens,HOKA,113,2423,4.66
+2024-10-01,wayback,mens,Jordan,277,2423,11.43
+2024-10-01,wayback,mens,New Balance,147,2423,6.07
+2024-10-01,wayback,mens,Nike,746,2423,30.79
+2024-10-01,wayback,mens,On,110,2423,4.54
+2024-10-01,wayback,mens,PUMA,176,2423,7.26
+2024-10-01,wayback,mens,Saucony,19,2423,0.78
+2024-10-01,wayback,mens,Under Armour,292,2423,12.05
+2024-10-01,wayback,mens,adidas,349,2423,14.40
+2024-10-01,wayback,womens,ASICS,26,1182,2.20
+2024-10-01,wayback,womens,Brooks,73,1182,6.18
+2024-10-01,wayback,womens,Converse,84,1182,7.11
+2024-10-01,wayback,womens,HOKA,83,1182,7.02
+2024-10-01,wayback,womens,Jordan,135,1182,11.42
+2024-10-01,wayback,womens,New Balance,87,1182,7.36
+2024-10-01,wayback,womens,Nike,455,1182,38.49
+2024-10-01,wayback,womens,On,74,1182,6.26
+2024-10-01,wayback,womens,PUMA,74,1182,6.26
+2024-10-01,wayback,womens,Saucony,8,1182,0.68
+2024-10-01,wayback,womens,Under Armour,14,1182,1.18
+2024-10-01,wayback,womens,adidas,69,1182,5.84
+2025-02-01,wayback,mens,ASICS,40,2476,1.62
+2025-02-01,wayback,mens,Brooks,53,2476,2.14
+2025-02-01,wayback,mens,Converse,71,2476,2.87
+2025-02-01,wayback,mens,HOKA,110,2476,4.44
+2025-02-01,wayback,mens,Jordan,224,2476,9.05
+2025-02-01,wayback,mens,New Balance,156,2476,6.30
+2025-02-01,wayback,mens,Nike,897,2476,36.23
+2025-02-01,wayback,mens,On,102,2476,4.12
+2025-02-01,wayback,mens,PUMA,190,2476,7.67
+2025-02-01,wayback,mens,Saucony,62,2476,2.50
+2025-02-01,wayback,mens,Under Armour,278,2476,11.23
+2025-02-01,wayback,mens,adidas,293,2476,11.83
+2025-03-13,wayback,womens,ASICS,18,1155,1.56
+2025-03-13,wayback,womens,Brooks,55,1155,4.76
+2025-03-13,wayback,womens,Converse,68,1155,5.89
+2025-03-13,wayback,womens,HOKA,76,1155,6.58
+2025-03-13,wayback,womens,Jordan,106,1155,9.18
+2025-03-13,wayback,womens,New Balance,91,1155,7.88
+2025-03-13,wayback,womens,Nike,459,1155,39.74
+2025-03-13,wayback,womens,On,74,1155,6.41
+2025-03-13,wayback,womens,PUMA,70,1155,6.06
+2025-03-13,wayback,womens,Saucony,39,1155,3.38
+2025-03-13,wayback,womens,Under Armour,17,1155,1.47
+2025-03-13,wayback,womens,adidas,82,1155,7.10
+2025-04-07,wayback,mens,ASICS,39,2396,1.63
+2025-04-07,wayback,mens,Brooks,51,2396,2.13
+2025-04-07,wayback,mens,Converse,66,2396,2.75
+2025-04-07,wayback,mens,HOKA,108,2396,4.51
+2025-04-07,wayback,mens,Jordan,191,2396,7.97
+2025-04-07,wayback,mens,New Balance,146,2396,6.09
+2025-04-07,wayback,mens,Nike,862,2396,35.98
+2025-04-07,wayback,mens,On,89,2396,3.71
+2025-04-07,wayback,mens,PUMA,173,2396,7.22
+2025-04-07,wayback,mens,Saucony,73,2396,3.05
+2025-04-07,wayback,mens,Under Armour,255,2396,10.64
+2025-04-07,wayback,mens,adidas,343,2396,14.32
+2025-04-16,wayback,womens,ASICS,20,1105,1.81
+2025-04-16,wayback,womens,Brooks,52,1105,4.71
+2025-04-16,wayback,womens,Converse,66,1105,5.97
+2025-04-16,wayback,womens,HOKA,75,1105,6.79
+2025-04-16,wayback,womens,Jordan,90,1105,8.14
+2025-04-16,wayback,womens,New Balance,94,1105,8.51
+2025-04-16,wayback,womens,Nike,420,1105,38.01
+2025-04-16,wayback,womens,On,68,1105,6.15
+2025-04-16,wayback,womens,PUMA,75,1105,6.79
+2025-04-16,wayback,womens,Saucony,45,1105,4.07
+2025-04-16,wayback,womens,Under Armour,17,1105,1.54
+2025-04-16,wayback,womens,adidas,83,1105,7.51
+2025-08-26,wayback,mens,ASICS,58,2466,2.35
+2025-08-26,wayback,mens,Brooks,58,2466,2.35
+2025-08-26,wayback,mens,Converse,53,2466,2.15
+2025-08-26,wayback,mens,HOKA,91,2466,3.69
+2025-08-26,wayback,mens,Jordan,180,2466,7.30
+2025-08-26,wayback,mens,New Balance,136,2466,5.52
+2025-08-26,wayback,mens,Nike,840,2466,34.06
+2025-08-26,wayback,mens,On,86,2466,3.49
+2025-08-26,wayback,mens,PUMA,169,2466,6.85
+2025-08-26,wayback,mens,Saucony,110,2466,4.46
+2025-08-26,wayback,mens,Under Armour,130,2466,5.27
+2025-08-26,wayback,mens,adidas,555,2466,22.51
+2025-09-21,wayback,womens,ASICS,42,1523,2.76
+2025-09-21,wayback,womens,Brooks,47,1523,3.09
+2025-09-21,wayback,womens,Converse,55,1523,3.61
+2025-09-21,wayback,womens,HOKA,112,1523,7.35
+2025-09-21,wayback,womens,Jordan,84,1523,5.52
+2025-09-21,wayback,womens,New Balance,98,1523,6.43
+2025-09-21,wayback,womens,Nike,458,1523,30.07
+2025-09-21,wayback,womens,On,60,1523,3.94
+2025-09-21,wayback,womens,PUMA,75,1523,4.92
+2025-09-21,wayback,womens,Saucony,67,1523,4.40
+2025-09-21,wayback,womens,Under Armour,14,1523,0.92
+2025-09-21,wayback,womens,adidas,411,1523,26.99
+2025-12-11,wayback,mens,ASICS,34,1622,2.10
+2025-12-11,wayback,mens,Brooks,24,1622,1.48
+2025-12-11,wayback,mens,Converse,20,1622,1.23
+2025-12-11,wayback,mens,HOKA,92,1622,5.67
+2025-12-11,wayback,mens,Jordan,118,1622,7.27
+2025-12-11,wayback,mens,New Balance,89,1622,5.49
+2025-12-11,wayback,mens,Nike,647,1622,39.89
+2025-12-11,wayback,mens,On,56,1622,3.45
+2025-12-11,wayback,mens,PUMA,96,1622,5.92
+2025-12-11,wayback,mens,Saucony,97,1622,5.98
+2025-12-11,wayback,mens,Under Armour,46,1622,2.84
+2025-12-11,wayback,mens,adidas,303,1622,18.68
+2026-01-09,wayback,mens,ASICS,37,1535,2.41
+2026-01-09,wayback,mens,Brooks,21,1535,1.37
+2026-01-09,wayback,mens,Converse,23,1535,1.50
+2026-01-09,wayback,mens,HOKA,94,1535,6.12
+2026-01-09,wayback,mens,Jordan,124,1535,8.08
+2026-01-09,wayback,mens,New Balance,76,1535,4.95
+2026-01-09,wayback,mens,Nike,657,1535,42.80
+2026-01-09,wayback,mens,On,55,1535,3.58
+2026-01-09,wayback,mens,PUMA,46,1535,3.00
+2026-01-09,wayback,mens,Saucony,98,1535,6.38
+2026-01-09,wayback,mens,Under Armour,36,1535,2.35
+2026-01-09,wayback,mens,adidas,268,1535,17.46
+2026-04-19,wayback,mens,ASICS,43,1799,2.39
+2026-04-19,wayback,mens,Brooks,68,1799,3.78
+2026-04-19,wayback,mens,Converse,31,1799,1.72
+2026-04-19,wayback,mens,HOKA,99,1799,5.50
+2026-04-19,wayback,mens,Jordan,146,1799,8.12
+2026-04-19,wayback,mens,New Balance,96,1799,5.34
+2026-04-19,wayback,mens,Nike,683,1799,37.97
+2026-04-19,wayback,mens,On,60,1799,3.34
+2026-04-19,wayback,mens,PUMA,48,1799,2.67
+2026-04-19,wayback,mens,Saucony,108,1799,6.00
+2026-04-19,wayback,mens,Under Armour,36,1799,2.00
+2026-04-19,wayback,mens,adidas,381,1799,21.18
+2026-07-14,wayback,mens,ASICS,49,1843,2.66
+2026-07-14,wayback,mens,Brooks,66,1843,3.58
+2026-07-14,wayback,mens,Converse,28,1843,1.52
+2026-07-14,wayback,mens,HOKA,95,1843,5.15
+2026-07-14,wayback,mens,Jordan,158,1843,8.57
+2026-07-14,wayback,mens,New Balance,102,1843,5.53
+2026-07-14,wayback,mens,Nike,709,1843,38.47
+2026-07-14,wayback,mens,On,65,1843,3.53
+2026-07-14,wayback,mens,PUMA,51,1843,2.77
+2026-07-14,wayback,mens,Saucony,71,1843,3.85
+2026-07-14,wayback,mens,Under Armour,30,1843,1.63
+2026-07-14,wayback,mens,adidas,419,1843,22.73
+2026-07-21,wayback,womens,ASICS,45,1492,3.02
+2026-07-21,wayback,womens,Brooks,71,1492,4.76
+2026-07-21,wayback,womens,Converse,11,1492,0.74
+2026-07-21,wayback,womens,HOKA,75,1492,5.03
+2026-07-21,wayback,womens,Jordan,100,1492,6.70
+2026-07-21,wayback,womens,New Balance,78,1492,5.23
+2026-07-21,wayback,womens,Nike,526,1492,35.25
+2026-07-21,wayback,womens,On,62,1492,4.16
+2026-07-21,wayback,womens,PUMA,68,1492,4.56
+2026-07-21,wayback,womens,Saucony,59,1492,3.95
+2026-07-21,wayback,womens,Under Armour,8,1492,0.54
+2026-07-21,wayback,womens,adidas,389,1492,26.07
+2026-10-03,wayback,mens,ASICS,50,1938,2.58
+2026-10-03,wayback,mens,Brooks,63,1938,3.25
+2026-10-03,wayback,mens,Converse,39,1938,2.01
+2026-10-03,wayback,mens,HOKA,85,1938,4.39
+2026-10-03,wayback,mens,Jordan,168,1938,8.67
+2026-10-03,wayback,mens,New Balance,130,1938,6.71
+2026-10-03,wayback,mens,Nike,729,1938,37.62
+2026-10-03,wayback,mens,On,58,1938,2.99
+2026-10-03,wayback,mens,PUMA,60,1938,3.10
+2026-10-03,wayback,mens,Saucony,142,1938,7.33
+2026-10-03,wayback,mens,Under Armour,32,1938,1.65
+2026-10-03,wayback,mens,adidas,382,1938,19.71
+2026-10-13,live,mens,ASICS,46,1894,2.43
+2026-10-13,live,mens,Brooks,62,1894,3.27
+2026-10-13,live,mens,Converse,31,1894,1.64
+2026-10-13,live,mens,HOKA,80,1894,4.22
+2026-10-13,live,mens,Jordan,176,1894,9.29
+2026-10-13,live,mens,New Balance,127,1894,6.71
+2026-10-13,live,mens,Nike,727,1894,38.38
+2026-10-13,live,mens,On,60,1894,3.17
+2026-10-13,live,mens,PUMA,59,1894,3.12
+2026-10-13,live,mens,Saucony,141,1894,7.44
+2026-10-13,live,mens,Under Armour,33,1894,1.74
+2026-10-13,live,mens,adidas,352,1894,18.59
+2026-10-13,live,womens,ASICS,43,1478,2.91
+2026-10-13,live,womens,Brooks,68,1478,4.60
+2026-10-13,live,womens,Converse,11,1478,0.74
+2026-10-13,live,womens,HOKA,56,1478,3.79
+2026-10-13,live,womens,Jordan,94,1478,6.36
+2026-10-13,live,womens,New Balance,91,1478,6.16
+2026-10-13,live,womens,Nike,513,1478,34.71
+2026-10-13,live,womens,On,55,1478,3.72
+2026-10-13,live,womens,PUMA,71,1478,4.80
+2026-10-13,live,womens,Saucony,119,1478,8.05
+2026-10-13,live,womens,Under Armour,9,1478,0.61
+2026-10-13,live,womens,adidas,348,1478,23.55

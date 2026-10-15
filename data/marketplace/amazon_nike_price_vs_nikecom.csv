@@ -1,0 +1,13 @@
+snapshot_date,category,rank,title,asin,amazon_price_shown,nike_com_model,nike_com_full_price,amazon_vs_full_pct
+2026-10-13,mens_athletic,8,Nike Men's Air Monarch IV Training/Workout Shoes,B004LBMEB2,59.5,Nike Air Monarch IV,85.0,-30.0
+2026-10-13,mens_athletic,9,Nike Men's Run Defy Road Running Shoes,B0DYKN57S6,48.75,Nike Run Defy,65.0,-25.0
+2026-10-13,mens_athletic,17,Nike Men's Run Swift 3 Road Running Shoes,B0BX4CMJY7,63.75,Nike Run Swift 3,85.0,-25.0
+2026-10-13,mens_athletic,30,Nike Men's Revolution 8 Road Running Shoes,B0DPHRHRDL,56.25,Nike Revolution 8,75.0,-25.0
+2026-10-13,mens_fashion_sneakers,6,Nike Air Max Excee Mens Shoes,B0CRXD6MKQ,75.0,Nike Air Max Excee,100.0,-25.0
+2026-10-13,mens_fashion_sneakers,8,Nike mens Court Vision Lo Nn Shoes,B098F4XF6N,63.75,Nike Court Vision Low,85.0,-25.0
+2026-10-13,mens_running,5,Nike Men's Run Defy Road Running Shoes,B0DYKN57S6,48.75,Nike Run Defy,65.0,-25.0
+2026-10-13,mens_running,13,Nike Men's Run Swift 3 Road Running Shoes,B0BX4CMJY7,63.75,Nike Run Swift 3,85.0,-25.0
+2026-10-13,mens_running,18,Nike Men's Revolution 8 Road Running Shoes,B0DPHRHRDL,56.25,Nike Revolution 8,75.0,-25.0
+2026-10-13,womens_athletic,14,Nike Women's Revolution 8 Road Running Shoes,B0DPHTLDYK,52.5,Nike Revolution 8,75.0,-30.0
+2026-10-13,womens_running,8,Nike Women's Revolution 8 Road Running Shoes,B0DPHTLDYK,52.5,Nike Revolution 8,75.0,-30.0
+2026-10-13,womens_running,30,Nike Women's Run Swift 3 Road Running Shoes,B0F6R4ZGX4,63.75,Nike Run Swift 3,85.0,-25.0

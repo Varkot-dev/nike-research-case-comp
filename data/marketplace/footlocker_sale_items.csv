@@ -1,0 +1,650 @@
+snapshot_date,brand_filter,query,sku,name,original_price,price,discount_pct,result_total
+2026-10-13,HOKA,:relevance:collection_id:sale-shoes:brand:HOKA,62031VCH,HOKA Clifton 10 - Women's,155,123.99,20.0,28
+2026-10-13,HOKA,:relevance:collection_id:sale-shoes:brand:HOKA,2030BWHT,HOKA Clifton 10 - Men's,155,123.99,20.0,28
+2026-10-13,HOKA,:relevance:collection_id:sale-shoes:brand:HOKA,2030GYST,HOKA Clifton 10 - Men's,155,123.99,20.0,28
+2026-10-13,HOKA,:relevance:collection_id:sale-shoes:brand:HOKA,2030WBLC,HOKA Clifton 10 - Men's,155,123.99,20.0,28
+2026-10-13,HOKA,:relevance:collection_id:sale-shoes:brand:HOKA,2030ADSL,HOKA Clifton 10 - Men's,155,123.99,20.0,28
+2026-10-13,HOKA,:relevance:collection_id:sale-shoes:brand:HOKA,G860SCCV,HOKA Clifton 10 - Girls' Grade School,110,87.99,20.0,28
+2026-10-13,HOKA,:relevance:collection_id:sale-shoes:brand:HOKA,230STLLR,HOKA Clifton 10 - Men's,155,123.99,20.0,28
+2026-10-13,HOKA,:relevance:collection_id:sale-shoes:brand:HOKA,2030SCCV,HOKA Clifton 10 - Men's,155,123.99,20.0,28
+2026-10-13,HOKA,:relevance:collection_id:sale-shoes:brand:HOKA,2030OLTM,HOKA Clifton 10 - Men's,155,123.99,20.0,28
+2026-10-13,HOKA,:relevance:collection_id:sale-shoes:brand:HOKA,130BBLC,HOKA Rincon 4 - Men's,125,99.99,20.0,28
+2026-10-13,HOKA,:relevance:collection_id:sale-shoes:brand:HOKA,55370HBN,HOKA Clifton One9 - Men's,150,84.99,43.3,28
+2026-10-13,HOKA,:relevance:collection_id:sale-shoes:brand:HOKA,2030NWT,HOKA Clifton 10 - Men's,155,123.99,20.0,28
+2026-10-13,HOKA,:relevance:collection_id:sale-shoes:brand:HOKA,68874BMV,HOKA Rincon 4 - Girls' Grade School,90,53.99,40.0,28
+2026-10-13,HOKA,:relevance:collection_id:sale-shoes:brand:HOKA,5130WBLC,HOKA Rincon 4 - Men's,125,89.99,28.0,28
+2026-10-13,HOKA,:relevance:collection_id:sale-shoes:brand:HOKA,68860FFF,HOKA Clifton 10 - Boys' Grade School,110,87.99,20.0,28
+2026-10-13,HOKA,:relevance:collection_id:sale-shoes:brand:HOKA,6851PLTN,HOKA Mafate Speed 2 - Women's,170,101.99,40.0,28
+2026-10-13,HOKA,:relevance:collection_id:sale-shoes:brand:HOKA,26851WMW,HOKA Mafate Speed 2 - Women's,170,99.99,41.2,28
+2026-10-13,HOKA,:relevance:collection_id:sale-shoes:brand:HOKA,1172FLCK,HOKA Mafate Speed Three 2 - Men's,185,110.99,40.0,28
+2026-10-13,HOKA,:relevance:collection_id:sale-shoes:brand:HOKA,6851WMW,HOKA Mafate Speed 2 - Men's,170,119.99,29.4,28
+2026-10-13,HOKA,:relevance:collection_id:sale-shoes:brand:HOKA,1490FCMK,HOKA Clifton 9 GTX - Women's,165,132,20.0,28
+2026-10-13,HOKA,:relevance:collection_id:sale-shoes:brand:HOKA,6851CRSW,HOKA Mafate Speed 2 - Men's,170,119.99,29.4,28
+2026-10-13,HOKA,:relevance:collection_id:sale-shoes:brand:HOKA,6851VYNV,HOKA Mafate Speed 2 - Men's,170,119.99,29.4,28
+2026-10-13,HOKA,:relevance:collection_id:sale-shoes:brand:HOKA,62030RNN,HOKA Clifton 10 - Men's,155,123.99,20.0,28
+2026-10-13,HOKA,:relevance:collection_id:sale-shoes:brand:HOKA,6851WSLV,HOKA Mafate Speed 2 - Men's,170,119.99,29.4,28
+2026-10-13,HOKA,:relevance:collection_id:sale-shoes:brand:HOKA,3153SSSC,HOKA Transport - Men's,150,89.99,40.0,28
+2026-10-13,HOKA,:relevance:collection_id:sale-shoes:brand:HOKA,26851ISF,HOKA Mafate Speed 2 - Women's,170,84.99,50.0,28
+2026-10-13,HOKA,:relevance:collection_id:sale-shoes:brand:HOKA,2851WSLV,HOKA Mafate Speed 2 - Women's,170,119.99,29.4,28
+2026-10-13,HOKA,:relevance:collection_id:sale-shoes:brand:HOKA,56933ECK,HOKA Speedgoat 6 - Girls' Grade School,110,87.99,20.0,28
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,7723001,Nike Zoom Vomero 5 - Women's,170,149.99,11.8,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,V8154504,Nike Vomero Plus - Women's,180,149.99,16.7,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,I7189100,Nike Vomero 18 RR - Men's,155,119.99,22.6,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,Q0172900,Nike Air Max 90 Premium - Men's,145,109.99,24.1,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,W1590100,Nike Dunk Low - Boys' Grade School,92,69.99,23.9,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,W1588100,Nike Dunk Low - Boys' Preschool,72,54.99,23.6,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,I4409001,Nike Zoom KD Retro 6 - Men's,135,109.99,18.5,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,D1503101,Nike Dunk Low - Women's,120,99.99,16.7,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B6843001,Nike Air Force 1 '07 LV8 - Men's,125,99.99,20.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,52815401,Nike Vomero Plus - Women's,180,139.99,22.2,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,D1391100,Nike Dunk Low Retro - Men's,120,99.99,16.7,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,U7240300,Nike JA 3 - Men's,135,109.99,18.5,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,I0402001,Nike Sabrina 4 - Men's,135,99.99,25.9,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,41113560,Nike A'ja Two - Men's,145,99.99,31.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,Q0370121,Nike Vomero Plus - Women's,190,149.99,21.1,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,I4667400,Nike Book 2 - Men's,155,109.99,29.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,H7855100,Nike Air Max 95 - Men's,190,139.99,26.3,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,Q3921100,Nike Air Force 1 Kobe Protro Low - Men's,155,109.99,29.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,Q2593004,Nike Pegasus Premium - Women's,220,149.99,31.8,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,M4740014,Nike Air Max 95 - Men's,190,169.99,10.5,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,H8050100,Nike Air Max 270 - Men's,170,139.99,17.7,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,52599605,Nike Air Max 95 - Women's,190,139.99,26.3,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,V8154010,Nike Vomero Plus - Women's,180,139.99,22.2,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,J5996002,Nike Air Max 95 - Women's,190,159.99,15.8,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,W7299001,Nike Air Vapormax Plus - Men's,220,176,20.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,Q2593801,Nike Pegasus Premium - Women's,220,109.99,50.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,52061110,Nike Air Max Moto 2K - Women's,145,134.99,6.9,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,W1589100,Nike Dunk Low - Boys' Toddler,57,44.99,21.1,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B9109009,Nike Dunk Low - Boys' Grade School,92,69.99,23.9,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,V5064002,Nike P-6000 - Boys' Grade School,90,69.99,22.2,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,H0611400,Nike Air Vapormax Plus - Men's,220,176,20.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,I1662045,Nike Air Max 95 - Men's,200,159.99,20.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,H2881600,Nike Sabrina 3 - Men's,135,69.99,48.2,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B0018102,Nike Kobe Air Force 1 Low - Men's,120,96,20.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,J9955600,Nike Dunk Low - Women's,120,109.99,8.3,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,V6299410,Nike Griffey Max 1 - Men's,180,139.99,22.2,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B7695200,Nike Air Force 1 '07 ND1 - Women's,140,119.99,14.3,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B6388001,Nike AF1 '07 LV8 1 - Men's,125,119.99,4.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,0609042,Nike Air Max Plus - Girls' Grade School,147,109.99,25.2,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B9107123,Nike Dunk Low  - Boys' Toddler,57,44.99,21.1,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B9107009,Nike Dunk Low  - Boys' Toddler,57,44.99,21.1,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,Q0230062,Nike Dunk Low Retro Premium - Men's,130,99.99,23.1,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,W6973600,Nike Air Vapormax Plus - Men's,220,169.99,22.7,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,Q6413001,Nike V5 RNR - Boys' Toddler,62,54.99,11.3,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,41644310,Nike Book Craftsman - Men's,155,109.99,29.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,F2881302,Nike Sabrina 3 - Men's,135,129.99,3.7,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,V2706011,Nike Dunk Low Retro RIV - Men's,120,99.99,16.7,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,D1503124,Nike Dunk Low - Women's,120,71.99,40.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,V8154606,Nike Vomero Plus - Women's,180,129.99,27.8,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,41670500,Nike JA 3 - Men's,135,129.99,3.7,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,Q228100,Nike Air Force 1 '07 - Men's,125,99.99,20.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B6388004,Nike AF1 '07 LV8 1 - Men's,125,89.99,28.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,M6601451,Nike Air Max Plus Na9 - Men's,200,169.99,15.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,Z8605003,Nike A'One - Men's,115,109.99,4.4,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B6847600,Nike Air Force 1 '07 LV8 - Men's,115,99.99,13.1,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,Q1988001,Nike Shox R4 - Men's,155,124,20.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,42150702,Nike Vomero Plus - Men's,180,129.99,27.8,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B7676001,Nike Air Force 1 '07 FL - Men's,130,124.99,3.9,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,F6998012,Nike Vomero 5 - Boys' Grade School,112,89.99,19.7,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,O9918100,Nike Pegasus Premium - Women's,220,149.99,31.8,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B6836600,Nike Air Force 1 Low LV8 - Men's,125,89.99,28.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,F1877101,Nike Zoom Vomero 5 News - Women's,170,119.99,29.4,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,Q0098103,Nike Air Max 90 Mesh - Boys' Grade School,102,79.99,21.6,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,R0608100,Nike Air Force 1 '07 - Men's,125,100,20.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,D2723002,Nike Air Zoom Pegasus 41 - Women's,145,109.99,24.1,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B9109128,Nike Dunk Low - Girls' Grade School,92,54.99,40.2,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,R0838001,Nike Book 1 AM 95 PE - Men's,145,69.99,51.7,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,41940434,Nike Dunk Low Retro - Men's,130,99.99,23.1,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,J5629101,Nike Lebron XXIII - Men's,210,139.99,33.3,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B9107119,Nike Dunk Low  - Boys' Toddler,57,49.99,12.3,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,D6864029,Nike Air Max 90  - Boys' Grade School,102,81.6,20.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B6847100,Nike Air Force 1 '07 LV8 - Men's,115,99.99,13.1,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,Q7232400,Nike Little Posite Pro - Boys' Preschool,102,79.99,21.6,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,Q0206062,Nike Dunk Low - Boys' Grade School,102,79.99,21.6,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,F1877102,Nike Zoom Vomero 5 News - Women's,170,129.99,23.5,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,O4610001,Nike Air Force 1 Low - Boys' Grade School,115,68.99,40.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B6843002,Nike Air Force 1 '07 LV8 - Men's,125,119.99,4.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,M1360200,Nike Book 1 SE - Men's,145,84.99,41.4,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,H4460400,Nike Air Max Plus EMEA - Men's,190,139.99,26.3,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,42661060,Nike Air Max TL 2.5 - Men's,190,129.99,31.6,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,Q8356900,Nike Zoom KD 6 - Men's,145,109.99,24.1,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B0497001,Nike Air Trainer Huarache - Men's,170,84.99,50.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,4130015,Nike Air Max 95 BB Leather - Boys' Grade School,147,119.99,18.4,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,H4461100,Nike Air Force 1 07 FL - Men's,130,89.99,30.8,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,F3227401,Nike LD-1000 - Women's,105,52.49,50.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,M2404645,Nike Zoom Vomero 5 NA9 - Women's,170,84.99,50.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,88341009,Nike Shox NZ - Men's,135,99.99,25.9,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B9109122,Nike Dunk Low - Girls' Grade School,90,53.99,40.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,V4517002,Nike Air Max 90 Prm Reflect - Men's,145,99.99,31.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B9107006,Nike Dunk Low - Girls' Toddler,55,32.99,40.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,9926001,Nike Air Max 95  - Women's,190,170,10.5,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B1667003,Nike Air Max 95 OG - Men's,190,149.99,21.1,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B6388100,Nike AF1 '07 LV8 1 - Men's,125,99.99,20.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,D2723001,Nike Air Zoom Pegasus 41 - Women's,145,72.49,50.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B6399600,Nike Dunk Low Retro SE Essentials Plus 2 - Men's,125,89.99,28.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,M6974222,Nike Vomero 5 - Boys' Grade School,122,89.99,26.2,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,F7052100,Nike Air Max Phoenix - Boys' Grade School,125,74.99,40.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,Q2592012,Nike Pegasus Premium - Men's,220,159.99,27.3,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,Z3308116,Nike Air Max 1 EasyOn - Girls' Preschool,80,44.99,43.8,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,V3337006,Nike Air Max DN - Men's,170,119.99,29.4,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,F3227702,Nike LD-1000 - Women's,105,52.49,50.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,I7519001,Nike KD 18 - Men's,165,119.99,27.3,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,F7052103,Nike Air Max Phoenix - Boys' Grade School,127,99.99,21.3,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,3582001,Nike KD VI - Men's,135,109.99,18.5,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,R2305600,Nike V5 RNR Lace - Girls' Preschool,67,59.99,10.5,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,F7054012,Nike Air Max 95 - Girls' Grade School,147,119.99,18.4,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,Q2748600,Nike Air Force 1 Vday - Boys' Grade School,100,59.99,40.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B0018101,Nike Kobe Air Force 1 Low - Men's,120,114.99,4.2,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,R0614100,Nike Dunk Low - Boys' Grade School,102,79.99,21.6,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,53422610,Nike Air Force 1 Low '07 - Women's,115,89.99,21.7,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,FV360740,Nike Kobe IX EM - Boys' Grade School,122,99.99,18.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,M6572101,Nike Dunk Low Ess - Women's,120,99.99,16.7,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,J5996004,Nike Air Max 95 OG - Women's,190,149.99,21.1,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,Q7231400,Nike Little Posite Pro - Boys' Toddler,77,59.99,22.1,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,Q1908600,Nike Air Force 1 LV8 2 - Girls' Grade School,100,79.99,20.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B3566001,Nike Gato Lv8 - Men's,115,92,20.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,I7519500,Nike KD 18 - Men's,165,119.99,27.3,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,H2232600,Nike A'ja Two - Girls' Grade School,112,79.99,28.6,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,41559060,Nike G.T. Future - Men's,200,149.99,25.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B0612501,Nike Air Pegasus Wave - Men's,170,139.99,17.7,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,F0694001,Nike Lebron XXIII Lux - Men's,210,169.99,19.1,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,X4168516,Nike Air More Uptempo - Women's,160,129.99,18.8,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,V3596101,Nike LeBron XXIII - Boys' Grade School,165,94.99,42.4,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,Q0205100,Nike Air Force 1 FL2 - Boys' Grade School,100,79.99,20.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,42559090,Nike G.T. Future - Men's,200,99.99,50.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,M8331001,Nike Vomero Plus SE - Women's,190,149.99,21.1,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,Q9603133,Nike Zoom Vomero 5 NA36 - Women's,170,119.99,29.4,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,IO419001,Nike Air Force 1 Low '07 - Men's,200,139.99,30.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,Q7230400,Nike Little Posite Pro - Boys' Grade School,185,109.99,40.5,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,H3596001,Nike LeBron XXIII - Boys' Grade School,165,119.99,27.3,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,F7051003,Nike Air Max Phoenix - Boys' Toddler,87,59.99,31.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,Q2304100,Nike Kobe 3 High Halo - Boys' Grade School,130,77.99,40.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,41896030,Nike Air Force 1 '07 LV8 - Men's,115,92,20.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,5104100,Nike Dunk Low SE Femme - Women's,120,99.99,16.7,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,V2040600,Nike Dunk Low NA36 - Women's,120,89.99,25.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,95461012,Nike Air Max 95 - Girls' Preschool,112,109.99,1.8,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,V2532001,Nike Dunk Low - Men's,130,89.99,30.8,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,U3108300,Nike KD 18 GI - Men's,155,109.99,29.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,R563146,Nike Air Zoom Huarache 2K4 All Star - Men's,210,199.99,4.8,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,R4726100,Nike Air Diamond Turf II - Boys' Preschool,112,79.99,28.6,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,IR983100,Nike Shox BB4 - Men's,190,139.99,26.3,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,R0951400,Nike Air Force 1 '07 LV8 - Men's,125,100,20.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,W2626008,Nike Shox R4 - Boys' Grade School,122,59.99,50.8,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,41112510,Nike Sabrina 3 'WNBA 30th' - Men's,145,119.99,17.2,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,V2706010,Nike Dunk Low Retro RIV - Men's,120,99.99,16.7,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,C2626700,Nike Shox R4 - Girls' Grade School,122,72.99,40.2,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,52731000,Nike Air Max Plus - Women's,190,94.99,50.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,V5105102,Nike Dunk Low SE Street - Women's,120,99.99,16.7,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,Q2157110,Nike Vomero 18 - Boys' Grade School,122,94.99,22.1,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,V4798400,Nike LeBron XXIII - Boys' Grade School,165,129.99,21.2,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,U1960001,Nike G.T. Cut 4 - Men's,210,139.99,33.3,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,V3596700,Nike LeBron XXIII - Boys' Grade School,165,119.99,27.3,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,H1513001,Nike Lebron XXIII Alt - Men's,210,169.99,19.1,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,I8116600,Nike G.T. Cut 4 - Men's,210,199.99,4.8,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,R0951001,Nike Air Force 1 '07 LV8 - Men's,125,99.99,20.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,V4799600,Nike LeBron XXIII - Boys' Grade School,165,129.99,21.2,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B0018005,Nike Kobe Air Force 1 Low - Men's,120,96,20.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B6903800,Nike KD VI - Men's,145,109.99,24.1,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,M3074900,Nike Book 2 - Men's,145,139.99,3.5,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,53592910,Nike Air Force 1 '07 - Women's,125,99.99,20.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,R5900030,Nike Air Max 95 OG - Men's,200,149.99,25.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,D2722215,Nike Air Zoom Pegasus 41 - Men's,145,109.99,24.1,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,DC948611,Nike Air Force 1 '07 LE Low - Women's,115,57.49,50.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,6425060,Nike Air Max 95 Big Bubble Premium - Men's,190,149.99,21.1,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,Q0353126,Nike Cortez FL1 - Women's,100,89.99,10.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,Q7540671,Nike Shox Z - Women's,130,104.99,19.2,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,Z8605002,Nike A'One - Men's,115,59.99,47.8,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,H4046441,Nike Air Max DN8 NA13 - Girls' Grade School,170,129.99,23.5,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,Q0386226,Nike Dunk Low NA13 - Women's,130,99.99,23.1,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B3566002,Nike Gato Lv8 - Men's,115,92,20.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,61725600,Nike Air Diamond Turf II - Boys' Toddler,102,59.99,41.2,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,IV5085,Nike Force 1 Low BP Lace FL1 - Boys' Preschool,80,64.99,18.8,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,V4800004,Nike LeBron XXIII - Boys' Grade School,165,119.99,27.3,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,M6641400,Nike Kobe IX Low EM - Boys' Grade School,122,99.99,18.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,41113700,Nike A'ja Two - Men's,155,109.99,29.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,Q6411600,Nike V5 RNR - Girls' Grade School,77,64.99,15.6,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,IR6936,Nike Force 1 Low Lace SE - Boys' Toddler,65,54.99,15.4,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,41633310,Nike Book Craftsman - Men's,145,109.99,24.1,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,R0610025,Nike Shox NZ - Men's,145,109.99,24.1,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,M2507001,Nike Air Force 1 - Women's,115,99.99,13.1,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,IX412001,Nike Book 2 - Men's,150,109.99,26.7,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,V5831001,Nike Air Max 95 - Women's,190,149.99,21.1,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,R4725100,Nike Air Diamond Turf II - Boys' Toddler,102,79.99,21.6,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,F0694002,Nike Lebron XXIII Lux - Men's,210,169.99,19.1,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,IW1525,Nike G.T. Cut 3 - Boys' Grade School,132,78.99,40.2,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,1970100,Nike Air Force 1 Low LV8 1 Lace - Boys' Toddler,70,54.99,21.4,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,R1829001,Nike G.T. Cut 4 - Men's,210,149.99,28.6,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,R0613100,Nike Air Force 1 - Boys' Grade School,100,79.99,20.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,IQ2349,Nike G.T. Cut 3 - Boys' Grade School,132,78.99,40.2,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B5688100,Nike Air Force 1 LV8 1 - Boys' Grade School,100,79.99,20.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,V2096001,Nike Book 1 Safari - Men's,155,124.99,19.4,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,41701350,Nike Book Craftsman - Men's,145,119.99,17.2,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,H2231001,Nike Heathwood NRG - Girls' Grade School,122,89.99,26.2,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B6830602,Nike Air Max 95 Big Bubble - Men's,200,169.99,15.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,A2855600,Nike GT Cut 4 DH - Boys' Grade School,142,89.99,36.6,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,B2885200,Nike RealTree Calm Slides - Men's,65,34.99,46.2,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,V5686001,Nike Air Force 1 '07 NA13 - Women's,125,99.99,20.0,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,D0609700,Nike Air Max Plus - Girls' Grade School,145,109.99,24.1,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,IR6937,Nike Force 1 Low Lace SE - Boys' Preschool,80,69.99,12.5,252
+2026-10-13,Nike,:relevance:collection_id:sale-shoes:brand:Nike,X4878005,Nike LeBron XXIII - Boys' Grade School,165,97.99,40.6,252
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""-inf""-""25""",F2870600,Nike Kobe Off Court Slides - Men's,44,24.99,43.2,3
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""-inf""-""25""",F2870401,Nike Kobe Off Court Slides - Men's,44,24.99,43.2,3
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""-inf""-""25""",F2870002,Nike Kobe Off Court Slides - Men's,44,24.99,43.2,3
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""25""-""50""",F2870500,Nike Kobe Off Court Slides - Men's,44,35.2,20.0,13
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""25""-""50""",F2870101,Nike Kobe Off Court Slides - Men's,44,35.2,20.0,13
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""25""-""50""",F1746405,Nike Reactx ReJuven8 - Boys' Grade School,62,49.99,19.4,13
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""25""-""50""",Q6413103,Nike V5 RNR - Girls' Toddler,62,35.99,42.0,13
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""25""-""50""",N0237007,Nike Air Force 1 Low EasyOn - Boys' Preschool,70,39.99,42.9,13
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""25""-""50""",N5041603,Nike Air Zoom Pegasus 41 - Girls' Grade School,105,49.99,52.4,13
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""50""-""75""",V5060301,Nike ReactX Rejuven8 - Men's,75,59.99,20.0,42
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""50""-""75""",V5060403,Nike ReactX Rejuven8 - Men's,75,59.99,20.0,42
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""50""-""75""",HV506260,Nike ReactX Rejuven8 - Women's,75,59.99,20.0,42
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""50""-""75""",D7033003,Nike G.T. Cut 3 - Boys' Grade School,95,69.99,26.3,42
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""50""-""75""",V5060700,Nike ReactX Rejuven8 - Men's,75,59.99,20.0,42
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""50""-""75""",H4228100,Nike Air Force 1 Mid EasyOn - Boys' Grade School,100,59.99,40.0,42
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""50""-""75""",H3204100,Nike Air Force 1 '07 Fashion - Women's,115,57.49,50.0,42
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""50""-""75""",H2361300,Nike Cortez TXT - Women's,90,64.99,27.8,42
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""50""-""75""",H2881001,Nike Sabrina 3 - Men's,135,69.99,48.2,42
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""50""-""75""",F7001101,Nike A'One - Girls' Grade School,90,74.99,16.7,42
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""50""-""75""",H9293001,Nike Dunk Low SE - Boys' Grade School,100,74.99,25.0,42
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""50""-""75""",V5062803,Nike ReactX Rejuven8 - Women's,75,59.99,20.0,42
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""50""-""75""",H6000300,Nike Field General - Women's,105,52.49,50.0,42
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""75""-""100""",4610005,Nike Kobe Air Force 1 - Boys' Grade School,100,79.99,20.0,76
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""75""-""100""",F2886001,Nike Air Force 1 07 TWT - Men's,125,94.99,24.0,76
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""75""-""100""",B7311100,Nike Dunk Low Next Nature - Women's,120,99.99,16.7,76
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""75""-""100""",M2222101,Nike Dunk Low Retro NA72 - Men's,120,99.99,16.7,76
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""75""-""100""",Q2713700,Nike Air Force 1 '07 JA - Men's,125,94.99,24.0,76
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""75""-""100""",B6399002,Nike Dunk Low Retro SE Essentials Plus 2 - Men's,125,89.99,28.0,76
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""75""-""100""",M5843500,Nike KD18 - Men's,170,84.99,50.0,76
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""75""-""100""",Q2037101,Nike Air Force 1 '07 LV8 - Men's,125,99.99,20.0,76
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""100""-""150""",I6684400,Nike KD 18 - Men's,170,119.99,29.4,98
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""100""-""150""",B1087600,Nike Shox TL SE - Women's,190,129.99,31.6,98
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""100""-""150""",I1694001,Nike Vomero 5 - Men's,170,139.99,17.7,98
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""100""-""150""",V8150005,Nike Vomero Plus - Men's,180,129.99,27.8,98
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""100""-""150""",41720866,Nike G.T. Cut 4 - Men's,210,139.99,33.3,98
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""100""-""150""",F2534100,Nike Air Diamond Turf - Men's,155,119.99,22.6,98
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""100""-""150""",1401001,Nike Kobe 9 Elite Low EM - Men's,190,113.99,40.0,98
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""100""-""150""",F2519001,Nike KD 18 EYBL - Men's,170,119.99,29.4,98
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""100""-""150""",42661001,Nike Air Max TL 2.5 - Men's,190,129.99,31.6,98
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""100""-""150""",R2478700,Nike Sabrina 3 - Men's,135,129.99,3.7,98
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""100""-""150""",F2520300,Nike G.T. HUSTLE 3 VW PE - Men's,200,139.99,30.0,98
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""100""-""150""",H2367100,Nike KD18 LE - Men's,155,144.99,6.5,98
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""100""-""150""",7181102,Nike Vomero Plus RR - Men's,180,139.99,22.2,98
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""100""-""150""",V1992002,Nike KD 18 - Men's,155,144.99,6.5,98
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""100""-""150""",F7310400,Nike Air Max DN8 - Girls' Grade School,160,119.99,25.0,98
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""150""-""inf""",Q2592702,Nike Pegasus Premium - Men's,220,169.99,22.7,22
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""150""-""inf""",41955002,Nike Lebron XXIII Elite - Men's,235,224.99,4.3,22
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""150""-""inf""",B9149702,Nike Vomero 5 - Men's,170,159.99,5.9,22
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""150""-""inf""",Q2592011,Nike Pegasus Premium - Men's,220,179.99,18.2,22
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""150""-""inf""",IM738449,Nike Pegasus Premium NA39 - Women's,310,154.99,50.0,22
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""150""-""inf""",H4740009,Nike Air Max 95 - Men's,190,159.99,15.8,22
+2026-10-13,Nike,":relevance:collection_id:sale-shoes:brand:Nike:price:""150""-""inf""",R0047300,Nike Shox Ride 2 - Men's,190,152,20.0,22
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,22992066,Jordan 6 Rings - Men's,175,139.99,20.0,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,W6276001,Jordan AJ 1 Retro Low OG 2 - Men's,145,119.99,17.2,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,9811001,Jordan AJ 1 Retro High OG FC - Men's,185,110.99,40.0,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,F4396100,Jordan Air Jordan 3 Retro  - Men's,215,169.99,20.9,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,22992011,Jordan 6 Rings - Men's,175,139.99,20.0,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,K9246101,Jordan Air Jordan Retro 3 - Women's,205,159.99,22.0,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,Q3950009,Jordan Spizike Low - Boys' Grade School,130,99.99,23.1,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,32225600,Jordan Retro 4 Hydro - Men's,70,56,20.0,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,N2452104,Jordan Retro 11 Hydro - Men's,70,56,20.0,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,3952010,Jordan Spizike Low - Boys' Toddler,60,49.99,16.7,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,IB6714,Jordan Retro 4 - Girls' Toddler,90,74.99,16.7,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,53183660,Jordan Spizike Low - Women's,165,129.99,21.2,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,29921213,Jordan 6 Rings - Men's,175,129.99,25.7,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,X3521010,Jordan AJ 1 Low SE NG - Women's,140,99.99,28.6,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,V2417010,Jordan Spizike Low - Men's,165,109.99,33.3,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,35368100,Jordan Retro 8 - Boys' Grade School,165,139.99,15.2,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,K9246400,Jordan Air Jordan Retro 3 - Women's,205,159.99,22.0,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,22992601,Jordan 6 Rings - Men's,175,129.99,25.7,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,Q6998600,Jordan AJ 1 Retro Low OG - Men's,145,99.99,31.0,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,M7425100,Jordan Spizike Low - Men's,165,109.99,33.3,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,V0823200,Jordan Air Jordan 4 Retro - Women's,220,169.99,22.7,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,62992701,Jordan Retro 1 High OG - Boys' Grade School,140,109.99,21.4,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,V0823101,Jordan Air Jordan 4 Retro - Women's,220,179.99,18.2,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,N3686071,Jordan Jumpman Pro - Men's,150,144.99,3.3,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,53183610,Jordan Spizike Low - Women's,165,129.99,21.2,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,IW6279,Jordan Retro 1 Low OG - Boys' Toddler,65,54.99,15.4,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,53102860,Jordan Retro 11 Low - Women's,195,149.99,23.1,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,H4282100,Jordan Retro 1 High - Boys' Toddler,70,39.99,42.9,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,Q1280001,Jordan Retro 6 - Boys' Toddler,80,64.99,18.8,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,Q3952141,Jordan Spizike Low - Boys' Toddler,60,49.99,16.7,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,9812100,Jordan AJ 1 Mid SE - Men's,140,99.99,28.6,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,D0979009,Jordan Hydro VI Retro - Men's,70,64.99,7.2,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,H2047002,Jordan Sixty Plus Low - Men's,160,129.99,18.8,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,HV408900,Jordan Air Jordan 1 Low SE - Men's,130,99.99,23.1,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,Q1759060,Jordan Spizike Low - Men's,165,129.99,21.2,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,9813600,Jordan AJ 1 Low SE - Men's,130,99.99,23.1,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,53600847,Jordan Sixty Plus - Women's,160,99.99,37.5,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,53605472,Jordan AJ 1 Mid - Women's,130,125,3.8,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,62051910,Jordan Son of Mars Low - Boys' Grade School,130,109.99,15.4,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,Q6997200,Jordan AJ 1 Retro Low OG - Boys' Toddler,65,49.99,23.1,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,53201596,Jordan AJ 1 High - Women's,185,169.99,8.1,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,62842300,Jordan AJ 1 Mid - Boys' Grade School,110,106.24,3.4,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,V0823108,Jordan Air Jordan 4 Retro - Women's,220,169.99,22.7,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,H4363100,Jordan AJ 1 Retro High OG V3 - Men's,185,139.99,24.3,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,53703304,Jordan AJ 1 Low - Women's,140,114.99,17.9,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,R2300030,Jordan AJ 1 Retro Low OG - Boys' Grade School,120,94.99,20.8,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,DQ8425,Jordan AJ 1 Mid - Girls' Toddler,60,55,8.3,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,H2047101,Jordan Sixty Plus Low - Men's,160,119.99,25.0,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,I0759100,Jordan AJ 1 Low SE V2 - Women's,130,99.99,23.1,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,H1782200,Jordan Spizike Low V2 - Men's,165,119.99,27.3,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,Q3951201,Jordan Spizike Low - Boys' Preschool,80,47.99,40.0,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,35360100,Jordan Retro 8 - Girls' Toddler,90,74.99,16.7,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,2358200,Jordan Spizike Low V2 - Boys' Toddler,60,34.99,41.7,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,22992026,Jordan 6 Rings - Men's,175,119.99,31.4,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,R1836104,Jordan Spizike Low - Women's,165,129.99,21.2,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,H3950600,Jordan MVP 92 - Men's,145,124.99,13.8,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,62124940,Jordan AJ 1 Low SE - Boys' Grade School,110,105,4.5,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,41808101,Jordan Luka 5 - Men's,135,129.99,3.7,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,Q6997600,Jordan AJ 1 Retro Low OG - Boys' Toddler,65,37.99,41.6,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,4307400,Jordan 1 Low Alt SE Fem - Girls' Toddler,70,68.74,1.8,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,V4091002,Jordan Air Jordan 1 Mid SE - Men's,140,69.99,50.0,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,62059200,Jordan Air Jordan 1 Mid SE - Girls' Grade School,120,115,4.2,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,D2597102,Jordan Retro 1 High OG - Girls' Preschool,85,64.99,23.5,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,V4396006,Jordan Air Jordan 1 Low SE - Boys' Grade School,110,93.74,14.8,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,62125401,Jordan AJ 1 Mid SE - Girls' Grade School,120,118.74,1.1,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,62125840,Jordan AJ 1 Mid - Boys' Grade School,120,115,4.2,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,Q8425404,Jordan AJ 1 Mid - Boys' Toddler,60,56.24,6.3,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,4396201,Jordan Air Jordan 1 Low SE - Boys' Grade School,110,105,4.5,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,Q6996600,Jordan Retro 1 Low - Boys' Preschool,80,54.99,31.3,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,H2047100,Jordan Sixty Plus Low - Men's,160,119.99,25.0,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,M9931400,Jordan Air Jordan 40 - Men's,205,139.99,31.7,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,B1154001,Jordan Triangle - Men's,145,109.99,24.1,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,V4384108,Jordan Retro 4 - Girls' Toddler,90,74.99,16.7,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,62166302,Jordan Luka 5 - Boys' Grade School,105,62.99,40.0,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,V4795001,Jordan 1 Low Alt SS - Boys' Preschool,80,75,6.2,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,B7010001,Jordan AJ 1 Mid SE - Women's,135,109.99,18.5,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,62186610,Jordan Sixty Plus Low - Boys' Grade School,125,99.99,20.0,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,B7117403,Jordan AJ 1 Low ALT SE Fem - Girls' Preschool,80,75,6.2,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,61125540,Jordan AJ 1 Mid SE - Boys' Toddler,65,60,7.7,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,F0823600,Jordan Luka 4 - Men's,135,124.99,7.4,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,V4804001,Jordan 1 Low Alt SS - Boys' Toddler,70,65,7.1,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,54724078,Jordan AJ 1 Mid - Men's,130,89.99,30.8,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,52542007,Jordan AJ 1 Mid SE - Men's,140,104.99,25.0,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,M9931600,Jordan Air Jordan 40 - Men's,205,149.99,26.8,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,Q1999400,Jordan Air Jordan 1 Mid - Girls' Grade School,120,112.49,6.3,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,Q3950107,Jordan MVP 92 - Men's,145,116,20.0,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,B8862141,Jordan AJ 4 Remastered - Girls' Grade School,120,79.99,33.3,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,F4079003,Jordan AJ 1 Mid - Women's,135,79.99,40.7,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,Q8423002,Jordan AJ 1 Mid - Boys' Grade School,110,105,4.5,90
+2026-10-13,Jordan,:relevance:collection_id:sale-shoes:brand:Jordan,O3856110,Jordan Retro 11 - Girls' Toddler,90,64.99,27.8,90
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,42112284,adidas Adizero Evo SL - Men's,150,99.99,33.3,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,IF6490,adidas Originals Handball Spezial - Women's,110,89.99,18.2,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,JP8726,adidas Originals Handball Spezial - Women's,110,89.99,18.2,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KJ0996,adidas Originals Samba OG - Women's,110,89.99,18.2,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,LA6211,adidas Originals HYPERBOOST EPHR - Men's,170,118.99,30.0,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,IH9148,adidas Originals Samba OG - Women's,110,79.99,27.3,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KJ0993,adidas Originals Samba - Girls' Toddler,55,32.99,40.0,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,1LA6206,adidas Originals HYPERBOOST EPHR - Men's,170,118.99,30.0,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KI6678,adidas Originals Handball Spezial - Women's,120,89.99,25.0,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KJ2526,adidas Originals Handball Spezial Loafers - Women's,130,89.99,30.8,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,IH4000,adidas Originals Tokyo Mary Jane - Women's,90,69.99,22.2,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,45119970,adidas Originals Handball Spezial - Men's,110,89.99,18.2,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,JP6807,adidas Originals Samba Long Tongue - Women's,120,69.99,41.7,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KJ6129,adidas Originals Samba OG - Girls' Grade School,80,59.99,25.0,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KH9157,adidas Originals Handball Spezial - Women's,120,109.99,8.3,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KI6121,adidas Adistar Control 5 - Men's,120,83.95,30.0,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KJ0090,adidas Originals Handball Spezial - Women's,120,89.99,25.0,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,1LA5974,adidas Originals HYPERBOOST EPHR - Men's,170,118.99,30.0,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,JP9544,adidas Originals Samba Mary Jane - Girls' Grade School,80,69.99,12.5,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KH9019,adidas Originals Superstar II - Women's,110,79.99,27.3,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,JR3607,adidas Originals Handball Spezial - Women's,110,74.99,31.8,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,JR8749,adidas Originals Samba OG - Women's,100,79.99,20.0,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KJ6160,adidas Adizero Evo SL - Men's,150,144.99,3.3,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KJ7895,adidas Adistar XLG - Men's,150,109.99,26.7,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KI4505,adidas Adistar XLG - Men's,150,109.99,26.7,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,HQ7555,adidas Adistar XLG - Men's,150,109.99,26.7,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,JR0852,adidas Originals Handball Spezial - Women's,110,69.99,36.4,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KI8732,adidas Adistar Control 5 - Boys' Grade School,90,63,30.0,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KI6150,adidas Adistar Control 5 - Men's,120,83.95,30.0,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,JR3645,adidas Originals Handball Spezial - Women's,110,84.99,22.7,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,HQ4950,adidas Samba World Cup USA - Men's,110,89.99,18.2,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KJ6086,adidas Originals Samba - Women's,120,109.99,8.3,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,63008733,adidas Adistar Control 5 - Boys' Grade School,90,63,30.0,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KK4249,adidas Adistar Control 5 - Boys' Preschool,65,45.45,30.1,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KI6954,adidas Japan Cow Print - Women's,130,114.99,11.5,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,JR3419,adidas Adizero Evo SL - Men's,150,104.99,30.0,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,JQ3190,adidas Originals Samba - Boys' Toddler,55,49.99,9.1,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KI6120,adidas Adistar Control 5 - Men's,120,83.95,30.0,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KJ658113,adidas Purechill Slides - Boys' Grade School,60,39.99,33.4,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KH6698,adidas Purechill MOC - Men's,75,59.99,20.0,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,JQ9426,adidas Harden Volume 10 - Men's,160,127.95,20.0,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,IH4001,adidas Originals Tokyo Mary Jane - Women's,90,74.99,16.7,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,46210075,adidas Purechill MOC - Men's,75,59.99,20.0,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KI9356,adidas Control 5 - Men's,120,89.99,25.0,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KK4253,adidas Adistar Control 5 - Boys' Toddler,55,38.45,30.1,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,JQ1296,adidas Originals Gazelle Bold - Girls' Grade School,100,74.99,25.0,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KH9153,adidas Harden Volume 10 - Men's,160,109.99,31.3,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KJ1454,adidas Harden Volume 10 - Men's,160,154.99,3.1,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KZ9161,adidas Adistar XLG - Women's,150,99.99,33.3,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,IH1606,adidas Originals Japan - Women's,120,109.99,8.3,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KJ8966,adidas Climacool Laced - Men's,160,119.99,25.0,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KJ5731,adidas Adistar XLG - Men's,150,109.99,26.7,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,HQ4199,adidas Ultraboost 1.0 DNA - Men's,180,139.99,22.2,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,IH1605,adidas Originals Japan - Women's,120,99.99,16.7,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KJ658114,adidas Purechill Slides - Boys' Grade School,60,39.99,33.4,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,46210074,adidas Purechill MOC - Men's,75,59.99,20.0,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,45009969,adidas Handball Crocs BLACK/CREME - Men's,110,89.99,18.2,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KJ8967,adidas Climacool Laced - Men's,160,119.99,25.0,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,HQ4951,adidas Samba World Cup Mexico - Men's,110,89.99,18.2,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KI8600,adidas Adistar Control 5 - Men's,120,83.95,30.0,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KI7516,adidas ADISTAR XLG - Men's,150,109.99,26.7,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,JS4932,adidas Boston 13 - Men's,160,129.99,18.8,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,HQ9426,adidas Foga D Rose PE - Men's,180,107.99,40.0,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,JQ9137,adidas Harden Volume 9 - Men's,160,129.99,18.8,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,JS2592,adidas D.O.N. Issue 7 - Men's,120,94.99,20.8,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,46006892,adidas Adilette 94 - Men's,60,54.99,8.4,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,JS1406,adidas Originals Gazelle Indoor - Women's,120,71.99,40.0,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,JP6144,adidas Originals Samba Long Tongue - Women's,120,59.99,50.0,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KI524204,adidas Originals Adistar Control 5 - Women's,130,106,18.5,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KJ648113,adidas Purechill Slides - Boys' Preschool,60,39.99,33.4,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KZ9162,adidas Adistar XLG - Women's,150,119.99,20.0,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,IH68271,adidas Samba Argentina - Men's,110,89.99,18.2,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,63005737,adidas Control 5 - Girls' Grade School,90,69.99,22.2,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,KJ8968,adidas Climacool Laced - Men's,160,119.99,25.0,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,JR7697,adidas D.O.N. Issue 7 - Men's,120,94.99,20.8,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,42117379,adidas Adizero Goukana - Men's,160,129.99,18.8,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,IF6513,adidas Originals Samba OG - Women's,100,59.99,40.0,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,HQ7572,adidas Spezial - Boys' Toddler,55,44.99,18.2,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,HQ4202,adidas Ultraboost 1.0 DNA - Men's,180,139.99,22.2,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,JP9626,adidas Originals Megaride - Men's,170,129.99,23.5,81
+2026-10-13,adidas,:relevance:collection_id:sale-shoes:brand:adidas,HQ9438,adidas Colombia Handball Spezial - Men's,120,114.99,4.2,81
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U204LSWB,New Balance 204L - Women's,120,59.99,50.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,52530022,New Balance 530 - Women's,110,89.99,18.2,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U204LSWC,New Balance 204L - Women's,120,59.99,50.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U2000ETB,New Balance 2000 - Men's,170,99.99,41.2,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,G90607ZT,New Balance 9060 - Girls' Grade School,115,89.99,21.7,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,20205876,New Balance 2000 - Women's,170,79.99,52.9,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U201046D,New Balance 2010 - Women's,145,79.99,44.8,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U740DT2,New Balance 740 - Men's,115,84.99,26.1,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,52204402,New Balance 204L - Women's,120,71.99,40.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U740MS2,New Balance 740 - Men's,115,69.99,39.1,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U20008XQ,New Balance 2000 - Women's,170,79.99,52.9,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,52204502,New Balance 204L - Women's,120,69.99,41.7,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,52200082,New Balance Abzorb 2000 - Women's,170,79.99,52.9,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U200035P,New Balance 2000 - Women's,170,79.99,52.9,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U740GM,New Balance 740 - Women's,115,68.99,40.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U53052N,New Balance 530 - Women's,110,89.99,18.2,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U20107PT,New Balance 2010 - Men's,145,109.99,24.1,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U20008L,New Balance 2000 - Women's,170,79.99,52.9,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U740HL2,New Balance 740 - Women's,115,68.99,40.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U7407YI,New Balance 740 - Men's,115,79.99,30.4,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U1906RHB,New Balance 1906R - Women's,155,92.99,40.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,1906RER,New Balance 1906 - Women's,155,92.99,40.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,M2002RBL,New Balance 2002R - Men's,145,99.99,31.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U740PG2,New Balance 740 - Women's,115,68.99,40.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,GC1000FB,New Balance 1000 - Boys' Grade School,105,62.99,40.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,42130206,New Balance 2010 - Men's,145,99.99,31.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,G90601XW,New Balance 9060 - Girls' Grade School,115,99.99,13.1,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U200082I,New Balance 2000 - Men's,170,99.99,41.2,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,W2002RCC,New Balance 2002R - Women's,145,86.99,40.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,42130208,New Balance 2000 - Men's,170,99.99,41.2,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,2ST07100,New Balance 2002R - Boys' Grade School,100,59.99,40.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U204L7AM,New Balance 204L - Women's,120,71.99,40.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,42200087,New Balance 2000 Abzorb - Men's,170,99.99,41.2,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U7406HJ,New Balance 740 - Men's,115,79.99,30.4,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,42130220,New Balance 2000 - Men's,170,99.99,41.2,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U9060CTD,New Balance 9060 - Men's,160,109.99,31.3,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,63200090,New Balance 2000 - Boys' Grade School,125,74.99,40.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,IZ740DK,New Balance 740 - Girls' Toddler,75,54.99,26.7,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U201075,New Balance 2010 - Women's,145,99.99,31.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U2000VD,New Balance 2000 - Men's,170,99.99,41.2,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U20008LL,New Balance 2000 - Women's,170,99.99,41.2,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,42200077,New Balance 2000 Abzorb - Men's,170,99.99,41.2,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U200076U,New Balance 2000 - Men's,170,101.99,40.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U740GO2,New Balance 740 - Men's,115,68.99,40.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U20008LR,New Balance 2000 - Men's,170,99.99,41.2,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,52190622,New Balance 1906 - Women's,154.99,69.99,54.8,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,I7409R4,New Balance 740 - Boys' Toddler,75,59.99,20.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U503069,New Balance 5030 - Women's,120,89.99,25.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U20106KC,New Balance 2010 - Women's,145,99.99,31.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U20003OZ,New Balance 2000 - Men's,170,101.99,40.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,M1000FLB,New Balance 1000 - Men's,150,59.99,60.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,42647703,New Balance FF Trainer - Men's,140,104.99,25.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,P7407QM,New Balance 740 - Girls' Preschool,85,69.99,17.7,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U1906RCN,New Balance 1906R - Women's,155,92.99,40.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,20008XQM,New Balance 2000 - Men's,170,101.99,40.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,GR740SF,New Balance 740 - Boys' Grade School,90,64.99,27.8,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U740GM2,New Balance 740 - Men's,115,79.99,30.4,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,NB522043,New Balance 204L Suede - Women's,120,89.99,25.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,GC1906DM,New Balance 1906 - Boys' Grade School,110,49.99,54.6,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,PSB480EC,New Balance 480 - Boys' Preschool,75,59.99,20.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,G7407LM,New Balance 740 - Girls' Grade School,90,79.99,11.1,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U200015V,New Balance 2000 - Men's,170,101.99,40.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,42647702,New Balance FF Trainer - Men's,140,104.99,25.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,GSB480SB,New Balance 480 - Boys' Grade School,80,34.99,56.3,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,63190696,New Balance 1906 - Girls' Grade School,110,64.99,40.9,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U1906RCF,New Balance 1906R - Women's,155,92.99,40.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,42130258,New Balance 2000 - Men's,170,99.99,41.2,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,M1000T,New Balance 1000 - Men's,150,89.99,40.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,PC1906EX,New Balance 1906 - Girls' Preschool,100,59.99,40.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,U574SPB,New Balance 574 - Men's,100,49.99,50.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,20205878,New Balance 2000 - Women's,170,84.99,50.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,GR740GO,New Balance 740 - Boys' Grade School,90,54.99,38.9,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,UTRNWA,New Balance FF Trainer - Men's,130,64.99,50.0,74
+2026-10-13,New Balance,:relevance:collection_id:sale-shoes:brand:New Balance,GR740DK,New Balance 740 - Girls' Grade School,90,64.99,27.8,74
+2026-10-13,On,:relevance:collection_id:sale-shoes:brand:On,10056130,On Cloudtilt - Women's,170,139.99,17.7,24
+2026-10-13,On,:relevance:collection_id:sale-shoes:brand:On,10054845,On Cloudtilt - Women's,170,139.99,17.7,24
+2026-10-13,On,:relevance:collection_id:sale-shoes:brand:On,10925533,On Cloudzone - Women's,150,119.99,20.0,24
+2026-10-13,On,:relevance:collection_id:sale-shoes:brand:On,30741536,On Cloudmonster 1 - Men's,180,139.99,22.2,24
+2026-10-13,On,:relevance:collection_id:sale-shoes:brand:On,10243147,On Cloudtilt Remix - Women's,170,139.99,17.7,24
+2026-10-13,On,:relevance:collection_id:sale-shoes:brand:On,10943334,On Cloudmonster Void - Women's,170,139.99,17.7,24
+2026-10-13,On,:relevance:collection_id:sale-shoes:brand:On,10075116,On Cloudzone - Women's,150,129.99,13.3,24
+2026-10-13,On,:relevance:collection_id:sale-shoes:brand:On,10081926,On Cloudzone - Men's,150,105,30.0,24
+2026-10-13,On,:relevance:collection_id:sale-shoes:brand:On,49085831,On Cloudmonster Void - Men's,170,139.99,17.7,24
+2026-10-13,On,:relevance:collection_id:sale-shoes:brand:On,11085212,On Cloudtilt Remix - Women's,170,119.99,29.4,24
+2026-10-13,On,:relevance:collection_id:sale-shoes:brand:On,10944928,On Cloudmonster Void - Women's,170,159.99,5.9,24
+2026-10-13,On,:relevance:collection_id:sale-shoes:brand:On,10811344,On Cloudmonster Void - Women's,170,119.99,29.4,24
+2026-10-13,On,:relevance:collection_id:sale-shoes:brand:On,10914415,On Cloudmonster Void - Men's,170,129.99,23.5,24
+2026-10-13,On,:relevance:collection_id:sale-shoes:brand:On,10814561,On Cloudmonster Void - Women's,170,119.99,29.4,24
+2026-10-13,On,:relevance:collection_id:sale-shoes:brand:On,10394884,On Cloudswift Amp - Women's,180,126,30.0,24
+2026-10-13,On,:relevance:collection_id:sale-shoes:brand:On,30040791,On Cloud X 4 - Men's,160,129.99,18.8,24
+2026-10-13,On,:relevance:collection_id:sale-shoes:brand:On,10911344,On Cloudmonster Void - Men's,170,119.99,29.4,24
+2026-10-13,On,:relevance:collection_id:sale-shoes:brand:On,6197785,On Cloudmonster - Women's,170,119.99,29.4,24
+2026-10-13,On,:relevance:collection_id:sale-shoes:brand:On,10393588,On Cloudswift Amp - Women's,180,126,30.0,24
+2026-10-13,On,:relevance:collection_id:sale-shoes:brand:On,10671014,On Cloudmonster Void - Men's,170,129.99,23.5,24
+2026-10-13,On,:relevance:collection_id:sale-shoes:brand:On,11430485,On Cloud Play - Boys' Preschool,100,79.99,20.0,24
+2026-10-13,On,:relevance:collection_id:sale-shoes:brand:On,30052050,On Cloudsurfer Next - Women's,150,119.99,20.0,24
+2026-10-13,On,:relevance:collection_id:sale-shoes:brand:On,10501217,On Cloudmonster Void Lunar New Year - Women's,180,139.99,22.2,24
+2026-10-13,On,:relevance:collection_id:sale-shoes:brand:On,10044347,On Cloudleap - Boys' Grade School,100,79.99,20.0,24
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,31308101,PUMA LaFrance 3x Black - Men's,115,89.99,21.7,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,3104390N,PUMA LaFrance Amour - Men's,115,79.99,30.4,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,31227101,PUMA LaFrance RNR Solar - Men's,125,54.99,56.0,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,31297801,PUMA LaFrance Oak Tree - Men's,115,68.99,40.0,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,31348001,PUMA La France - Men's,115,79.99,30.4,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,1217401,PUMA MB.04 Low - Men's,115,69.99,39.1,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,PM414295,PUMA LaFrance - Men's,115,79.99,30.4,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,1402101,PUMA MB.05 - Men's,135,89.99,33.3,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,64859901,PUMA MB 05 Fast & Furious LA - Boys' Preschool,90,53.99,40.0,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,31347802,PUMA LaFrance - Men's,110,79.99,27.3,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,40098656,PUMA Speedcat OG  - Women's,100,79.99,20.0,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,31345201,PUMA Hali 1 - Men's,130,77.99,40.0,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,62280201,PUMA MB.05 Fast & Furious - Boys' Grade School,115,68.99,40.0,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,40778701,PUMA Speedcat Ballet Cow - Women's,100,49.99,50.0,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,40834201,PUMA Speedcat Ballet - Women's,90,69.99,22.2,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,41279601,PUMA MB.05 - Men's,135,89.99,33.3,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,40767303,PUMA Speedcat Etoile - Women's,110,89.99,18.2,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,40834202,PUMA Nova Speedcat Ballet - Women's,90,69.99,22.2,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,64416101,PUMA MB 05 Fast & Furious Miami - Boys' Preschool,90,53.99,40.0,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,31347801,PUMA LaFrance - Men's,115,99.99,13.1,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,40358906,PUMA Speedcat Go - Women's,90,79.99,11.1,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,40169902,PUMA Speedcat - Girls' Preschool,70,54.99,21.4,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,31308001,PUMA LaFrance Wolf - Men's,110,65.99,40.0,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,40490603,PUMA Speedcat Go - Women's,100,69.99,30.0,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,40871801,PUMA Speedcat Lux - Women's,110,65.99,40.0,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,31345701,PUMA Hali 1 - Boys' Grade School,110,65.99,40.0,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,62402201,PUMA MB.05 Fast & Furious Miami JR - Boys' Grade School,115,68.99,40.0,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,41403101,PUMA LaFrance - Men's,120,89.99,25.0,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,31240001,PUMA MB.05 World Tour - Boys' Preschool,90,53.99,40.0,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,31227404,PUMA LaFrance RNR Bonds - Men's,125,74.99,40.0,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,31347401,PUMA Hali 1 - Boys' Preschool,95,69.99,26.3,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,31416201,PUMA Speedcat Fast & Furious  - Men's,110,79.99,27.3,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,40899502,PUMA Speedcat Go - Women's,100,79.99,20.0,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,40614101,PUMA Speedcat Cow - Women's,110,54.99,50.0,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,31309701,PUMA LaFrance Bright Lights - Men's,115,68.99,40.0,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,55358903,PUMA Speedcat Go - Women's,90,79.99,11.1,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,40426301,PUMA Speedcat Ballet Gloss - Women's,80,64.99,18.8,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,40713501,PUMA x Wicked Speedcat Ballet Silver Slippers - Women's,90,53.99,40.0,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,31284001,PUMA All-Pro Nitro 2 Flau'jae - Men's,140,119.99,14.3,40
+2026-10-13,PUMA,:relevance:collection_id:sale-shoes:brand:PUMA,31271502,PUMA LA FRANCE RNNR - Men's,120,99.99,16.7,40
+2026-10-13,Saucony,:relevance:collection_id:sale-shoes:brand:Saucony,S6081267,Saucony Ride Millennium - Women's,110,49.99,54.6,24
+2026-10-13,Saucony,:relevance:collection_id:sale-shoes:brand:Saucony,61012629,Saucony Omni 9 - Boys' Toddler,65,49.99,23.1,24
+2026-10-13,Saucony,:relevance:collection_id:sale-shoes:brand:Saucony,SY126Z12,Saucony Omni 9 - Boys' Grade School,90,69.99,22.2,24
+2026-10-13,Saucony,:relevance:collection_id:sale-shoes:brand:Saucony,S6073953,Saucony Progrid Omni 9 - Women's,155,109.99,29.0,24
+2026-10-13,Saucony,:relevance:collection_id:sale-shoes:brand:Saucony,SY225B07,Saucony Omni 9 - Boys' Grade School,90,52.99,41.1,24
+2026-10-13,Saucony,:relevance:collection_id:sale-shoes:brand:Saucony,S710381,Saucony Progrid Omni 9 - Men's,155,92.99,40.0,24
+2026-10-13,Saucony,:relevance:collection_id:sale-shoes:brand:Saucony,S6073915,Saucony Progrid Omni 9 - Women's,155,92.99,40.0,24
+2026-10-13,Saucony,:relevance:collection_id:sale-shoes:brand:Saucony,64012637,Saucony Omni 9 - Boys' Preschool,80,59.99,25.0,24
+2026-10-13,Saucony,:relevance:collection_id:sale-shoes:brand:Saucony,52610312,Saucony Progrid Omni 9 - Women's,155,99.99,35.5,24
+2026-10-13,Saucony,:relevance:collection_id:sale-shoes:brand:Saucony,S707399,Saucony Progrid Omni 9 - Women's,155,92.99,40.0,24
+2026-10-13,Saucony,:relevance:collection_id:sale-shoes:brand:Saucony,S610573,Saucony Progrid Omni 9 - Women's,155,99.99,35.5,24
+2026-10-13,Saucony,:relevance:collection_id:sale-shoes:brand:Saucony,SL126V28,Saucony Omni 9 Spring - Boys' Infant,65,49.99,23.1,24
+2026-10-13,Saucony,:relevance:collection_id:sale-shoes:brand:Saucony,S608849,Saucony Trainer 80 - Women's,100,44.99,55.0,24
+2026-10-13,Saucony,:relevance:collection_id:sale-shoes:brand:Saucony,S608122,Saucony Ride Millennium - Women's,110,69.99,36.4,24
+2026-10-13,Saucony,:relevance:collection_id:sale-shoes:brand:Saucony,SYF25AAM,Saucony Omni 9 - Boys' Grade School,90,69.99,22.2,24
+2026-10-13,Saucony,:relevance:collection_id:sale-shoes:brand:Saucony,S7093638,Saucony Guide 7 - Men's,135,80.99,40.0,24
+2026-10-13,Saucony,:relevance:collection_id:sale-shoes:brand:Saucony,63012613,Saucony Omni 9 - Boys' Grade School,90,69.99,22.2,24
+2026-10-13,Saucony,:relevance:collection_id:sale-shoes:brand:Saucony,S608841,Saucony Trainer 80 - Women's,100,44.99,55.0,24
+2026-10-13,Saucony,:relevance:collection_id:sale-shoes:brand:Saucony,S607399,Saucony Progrid Omni 9 - Women's,155,109.99,29.0,24
+2026-10-13,Saucony,:relevance:collection_id:sale-shoes:brand:Saucony,S6093620,Saucony Guide 7 - Women's,135,109.99,18.5,24
+2026-10-13,Saucony,:relevance:collection_id:sale-shoes:brand:Saucony,S7073990,Saucony Progrid Omni 9 - Men's,155,119.99,22.6,24
+2026-10-13,Saucony,:relevance:collection_id:sale-shoes:brand:Saucony,SY225B03,Saucony Omni 9 - Boys' Grade School,90,89,1.1,24
+2026-10-13,Saucony,:relevance:collection_id:sale-shoes:brand:Saucony,11000100,Saucony Ride 18 - Women's,145,119.99,17.2,24
+2026-10-13,Saucony,:relevance:collection_id:sale-shoes:brand:Saucony,SYF25AAE,Saucony Omni 9 - Boys' Grade School,90,64.99,27.8,24
+2026-10-13,Brooks,:relevance:collection_id:sale-shoes:brand:Brooks,1D421131,Brooks Glycerin Max 2 - Men's,200,149.95,25.0,10
+2026-10-13,Brooks,:relevance:collection_id:sale-shoes:brand:Brooks,52120468,Brooks Glycerin Max 2 - Women's,200,149.95,25.0,10
+2026-10-13,Brooks,:relevance:collection_id:sale-shoes:brand:Brooks,52468131,Brooks Glycerin Max 2 - Women's,200,149.95,25.0,10
+2026-10-13,Brooks,:relevance:collection_id:sale-shoes:brand:Brooks,4431B020,Brooks Adrenaline GTS 25 - Women's,155,124.95,19.4,10
+2026-10-13,Brooks,:relevance:collection_id:sale-shoes:brand:Brooks,BR521120,Brooks Adrenaline GTS 25 - Women's,155,124.95,19.4,10
+2026-10-13,Brooks,:relevance:collection_id:sale-shoes:brand:Brooks,42464020,Brooks Ghost Max 3 - Men's,160,154.99,3.1,10
+2026-10-13,Brooks,:relevance:collection_id:sale-shoes:brand:Brooks,BR421890,Brooks Glycerin Max 2 - Men's,200,149.95,25.0,10
+2026-10-13,Brooks,:relevance:collection_id:sale-shoes:brand:Brooks,4431B128,Brooks Adrenaline GTS 25 - Women's,155,124.95,19.4,10
+2026-10-13,Brooks,:relevance:collection_id:sale-shoes:brand:Brooks,BR521675,Brooks Glycerin Max 2 - Women's,200,149.99,25.0,10
+2026-10-13,Brooks,:relevance:collection_id:sale-shoes:brand:Brooks,52455745,Brooks Hyperion Max 3 - Women's,200,159.99,20.0,10
+2026-10-13,Converse,:relevance:collection_id:sale-shoes:brand:Converse,A19934C1,Converse Shai 001 - Men's,130,109.99,15.4,16
+2026-10-13,Converse,:relevance:collection_id:sale-shoes:brand:Converse,A23975C,Converse Shai 001 Ox - Men's,140,119.99,14.3,16
+2026-10-13,Converse,:relevance:collection_id:sale-shoes:brand:Converse,A19837C1,Converse Shai 001 - Men's,130,109.99,15.4,16
+2026-10-13,Converse,:relevance:collection_id:sale-shoes:brand:Converse,A23976C,Converse Shai 001 Ox - Men's,140,119.99,14.3,16
+2026-10-13,Converse,:relevance:collection_id:sale-shoes:brand:Converse,A18927F,Converse Conv AS Low Script - Men's,65,49.99,23.1,16
+2026-10-13,Converse,:relevance:collection_id:sale-shoes:brand:Converse,A18910F,Converse Chuck Taylor All Star High - Women's,70,59.99,14.3,16
+2026-10-13,Converse,:relevance:collection_id:sale-shoes:brand:Converse,A24323C,Converse Shai 001 Lace-Up Ox - Men's,120,104.99,12.5,16
+2026-10-13,Converse,:relevance:collection_id:sale-shoes:brand:Converse,A24961C,Converse Shai 001 Lace-Up Ox - Men's,120,104.99,12.5,16
+2026-10-13,Converse,:relevance:collection_id:sale-shoes:brand:Converse,A15490C,Converse Lift Stack  - Women's,80,59.99,25.0,16
+2026-10-13,Converse,:relevance:collection_id:sale-shoes:brand:Converse,19839C,Converse Shai 001 - Men's,130,109.99,15.4,16
+2026-10-13,Converse,:relevance:collection_id:sale-shoes:brand:Converse,A17948F,Converse Chuck Taylor All Star High - Women's,75,54.99,26.7,16
+2026-10-13,Converse,:relevance:collection_id:sale-shoes:brand:Converse,A19785C,Converse CTAS High Throwback - Men's,82,79.99,2.5,16
+2026-10-13,Converse,:relevance:collection_id:sale-shoes:brand:Converse,A14836C,Converse X Naruto CTAS Hi - Men's,80,59.99,25.0,16
+2026-10-13,Converse,:relevance:collection_id:sale-shoes:brand:Converse,A18926F,Converse Conv AS HI Script - Men's,70,54.99,21.4,16
+2026-10-13,Converse,:relevance:collection_id:sale-shoes:brand:Converse,A15867C,Converse Chuck Taylor All Star Lift Double Stack - Girls' Grade School,70,39.99,42.9,16
+2026-10-13,Converse,:relevance:collection_id:sale-shoes:brand:Converse,A23977C,Converse Shai 001 Ox - Men's,150,129.99,13.3,16
+2026-10-13,ASICS,:relevance:collection_id:sale-shoes:brand:ASICS®,1203B299,ASICS® GEL-1130 - Women's,110,89.99,18.2,10
+2026-10-13,ASICS,:relevance:collection_id:sale-shoes:brand:ASICS®,3B118700,ASICS® GEL-Cumulus 16 - Women's,150,99.99,33.3,10
+2026-10-13,ASICS,:relevance:collection_id:sale-shoes:brand:ASICS®,1B120100,ASICS® GEL-Cumulus 16 - Women's,150,99.99,33.3,10
+2026-10-13,ASICS,:relevance:collection_id:sale-shoes:brand:ASICS®,3B117400,ASICS® GEL-Cumulus 16 - Men's,150,144.99,3.3,10
+2026-10-13,ASICS,:relevance:collection_id:sale-shoes:brand:ASICS®,3A388024,ASICS® GEL-Kayano 20 - Women's,170,139.99,17.7,10
+2026-10-13,ASICS,:relevance:collection_id:sale-shoes:brand:ASICS®,3B120100,ASICS® GEL-Cumulus 16 - Men's,150,144.99,3.3,10
+2026-10-13,ASICS,:relevance:collection_id:sale-shoes:brand:ASICS®,2B753103,ASICS® GEL-Nimbus 27 - Women's,165,119.99,27.3,10
+2026-10-13,ASICS,:relevance:collection_id:sale-shoes:brand:ASICS®,2A164124,ASICS® GEL-1130 - Women's,100,79.99,20.0,10
+2026-10-13,ASICS,:relevance:collection_id:sale-shoes:brand:ASICS®,1C028200,ASICS® GEL-Nimbus 27 ATC - Men's,165,129.99,21.2,10
+2026-10-13,ASICS,:relevance:collection_id:sale-shoes:brand:ASICS®,3A275114,ASICS® GT-2160 - Men's,130,99.99,23.1,10

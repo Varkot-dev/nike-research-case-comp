@@ -1,0 +1,7 @@
+ticker,announce_date,timing,action,pre_close_date,pre_close,reaction_day,reaction_close,reaction_pct,two_day_pct,pct_6m_from_pre,pct_12m_from_pre,spy_6m_pct,spy_12m_pct,rel_12m_pts_vs_spy,low_within_12m,low_date,low_vs_reaction_close_pct,close_12m_vs_reaction_close_pct,source
+KHC,2019-02-21,after close,cut 36% (0.625 to 0.40),2019-02-21,48.18,2019-02-22,34.95,-27.5,-29.0,-45.3,-40.3,6.4,22.5,-62.8,25.0,2019-08-27,-28.5,-22.0,"market data: Yahoo Finance chart API, downloaded 2026-10-13"
+VFC,2023-02-07,pre-market,cut 41% (0.51 to 0.30),2023-02-06,28.66,2023-02-07,28.52,-0.5,-0.8,-29.7,-43.9,10.3,23.4,-67.3,13.1,2023-11-01,-54.1,-46.3,"market data: Yahoo Finance chart API, downloaded 2026-10-13"
+VFC,2023-10-30,after close,cut 70% (0.30 to 0.09),2023-10-30,17.12,2023-10-31,14.73,-14.0,-23.5,-28.1,33.0,21.3,41.5,-8.5,11.97,2024-05-23,-18.7,51.1,"market data: Yahoo Finance chart API, downloaded 2026-10-13"
+INTC,2023-02-22,see note,cut 66% (0.365 to 0.125),2023-02-21,26.06,2023-02-22,25.47,-2.3,-1.7,27.2,67.2,10.6,29.1,38.1,24.9,2023-02-27,-2.2,68.7,"market data: Yahoo Finance chart API, downloaded 2026-10-13"
+INTC,2024-08-01,after close,suspended (0.125 to 0),2024-08-01,29.05,2024-08-02,21.48,-26.1,-30.8,-32.9,-30.1,10.8,17.1,-47.1,18.13,2025-04-08,-15.6,-6.0,"market data: Yahoo Finance chart API, downloaded 2026-10-13"
+EL,2024-10-31,pre-market,cut 47% (0.66 to 0.35),2024-10-30,87.15,2024-10-31,68.94,-20.9,-23.6,-33.2,9.0,-2.2,19.2,-10.3,50.06,2025-04-08,-27.4,35.3,"market data: Yahoo Finance chart API, downloaded 2026-10-13"

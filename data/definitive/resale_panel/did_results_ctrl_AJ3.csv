@@ -1,0 +1,5 @@
+ci95,design,estimate_mean,estimate_median,n,pre_post_shoes,shoes
+"(-0.504, 0.181)",A_early_premium_cohort,-0.1594,-0.1733,"{('AJ1H', False): 7, ('AJ1H', True): 7, ('AJ3/4', False): 5, ('AJ3/4', True): 7}",,
+"(np.float64(-0.414), np.float64(0.112))",C_twfe_halfyear,-0.1833,,76,"{'AJ1H': 6, 'AJ3/4': 3}",34
+,C_twfe_halfyear_cut2025H1,-0.0683,,76,,
+,B_within_shoe_2023cohort,-0.1564,,"AJ1H 4, AJ3/4 2",,

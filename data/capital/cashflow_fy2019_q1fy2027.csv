@@ -1,0 +1,11 @@
+period,net_income,cash_from_operations,capex,fcf_cfo_minus_capex_my_arithmetic,dividends_paid,share_repurchases,dividends_pct_of_fcf,fcf_after_div_and_buybacks,wc_accounts_receivable,wc_inventories,wc_prepaid_and_other_assets,wc_payables_accrued_and_other_liabs,wc_total,stock_based_comp,restructuring_severance_cash,interest_paid,source
+FY2019,4029,5903,1119,4784,1332,4286,28,-834,-270,-490,-203,1525,562,325,n/d,153,FY21 10-K p. 60
+FY2020,2539,2485,1086,1399,1452,3067,104,-3120,1239,-1854,-654,24,-1245,429,n/d,140,FY21 10-K p. 60
+FY2021,5727,6657,695,5962,1638,608,27,3716,-1606,507,-182,1326,45,611,n/d (FY21 charges 294),293,FY23 10-K p. 58; FY21 10-K p. 60
+FY2022,6046,5188,758,4430,1837,4014,41,-1421,-504,-1676,-845,1365,-1660,638,n/d,290,FY23 10-K p. 58
+FY2023,5070,5841,969,4872,2012,5480,41,-2620,489,-133,-644,-225,-513,755,n/d,347,FY23 10-K p. 58
+FY2024,5700,7429,812,6617,2169,4250,33,198,-329,908,-260,397,716,804,123,381,FY26 10-K p. 58
+FY2025,3219,3698,430,3268,2300,2985,70,-2017,-257,120,-224,-426,-787,709,247,389,FY26 10-K p. 58
+FY2026,3108,2868,684,2184,2407,146,110,-369,-1207,-31,519,-959,-1678,715,142,323,FY26 10-K p. 58
+Q1FY2026,727,222,207,15,591,126,n/m (quarter or FCF<0),-702,-215,-610,-165,93,-897,185,n/d,n/d,Q1 FY27 10-Q p. 4
+Q1FY2027,712,135,199,-64,610,0,n/m (quarter or FCF<0),-674,695,-312,-10,-1219,-846,158,"about 243 (accrual ""substantially all"" paid)",n/d,Q1 FY27 10-Q p. 4

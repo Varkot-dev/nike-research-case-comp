@@ -1,0 +1,19 @@
+balance_date,sales_related_reserve,of_which_sales_returns_reserve,est_cost_of_inventory_for_returns,yoy_change_usd_m,quarter_wholesale_revenue_nike_brand_plus_converse,reserve_pct_of_quarter_wholesale,source,basis
+2022-05-31,1015,,194,,,,"FY22 10-K p. 68, 86",balances as printed; ratio and change are my arithmetic; wholesale from data/nike_channel_split.csv
+2022-08-31,950,,,,7327,13.0,Q1 FY23 10-Q p. 7,balances as printed; ratio and change are my arithmetic; wholesale from data/nike_channel_split.csv
+2022-11-30,1149,,,,7591,15.1,Q2 FY23 10-Q p. 8,balances as printed; ratio and change are my arithmetic; wholesale from data/nike_channel_split.csv
+2023-02-28,1067,,,,6746,15.8,Q3 FY23 10-Q p. 8,balances as printed; ratio and change are my arithmetic; wholesale from data/nike_channel_split.csv
+2023-05-31,994,,226,-21,7032,14.1,"FY23 10-K p. 67, 84",balances as printed; ratio and change are my arithmetic; wholesale from data/nike_channel_split.csv
+2023-08-31,1003,,,53,7312,13.7,Q1 FY24 10-Q p. 7,balances as printed; ratio and change are my arithmetic; wholesale from data/nike_channel_split.csv
+2023-11-30,1130,,,-19,7375,15.3,Q2 FY24 10-Q p. 9,balances as printed; ratio and change are my arithmetic; wholesale from data/nike_channel_split.csv
+2024-02-29,1227,,,160,6845,17.9,Q3 FY24 10-Q p. 9,balances as printed; ratio and change are my arithmetic; wholesale from data/nike_channel_split.csv
+2024-05-31,1282,799,331,288,7324,17.5,"FY24 10-K p. 69, 85; returns reserve FY25 10-K p. 83",balances as printed; ratio and change are my arithmetic; wholesale from data/nike_channel_split.csv
+2024-08-31,1200,,,197,6685,18.0,Q1 FY25 10-Q p. 7,balances as printed; ratio and change are my arithmetic; wholesale from data/nike_channel_split.csv
+2024-11-30,1560,,,430,7132,21.9,Q2 FY25 10-Q p. 8,balances as printed; ratio and change are my arithmetic; wholesale from data/nike_channel_split.csv
+2025-02-28,1682,,,455,6363,26.4,Q3 FY25 10-Q p. 8,balances as printed; ratio and change are my arithmetic; wholesale from data/nike_channel_split.csv
+2025-05-31,1834,1277,528,552,6578,27.9,"FY25 10-K p. 68, 83",balances as printed; ratio and change are my arithmetic; wholesale from data/nike_channel_split.csv
+2025-08-31,1788,,,588,7034,25.4,Q1 FY26 10-Q p. 7,balances as printed; ratio and change are my arithmetic; wholesale from data/nike_channel_split.csv
+2025-11-30,1748,,,188,7642,22.9,Q2 FY26 10-Q p. 8,balances as printed; ratio and change are my arithmetic; wholesale from data/nike_channel_split.csv
+2026-02-28,1658,,,-24,6608,25.1,Q3 FY26 10-Q p. 8,balances as printed; ratio and change are my arithmetic; wholesale from data/nike_channel_split.csv
+2026-05-31,1589,1099,511,-245,6774,23.5,"FY26 10-K p. 67, 84",balances as printed; ratio and change are my arithmetic; wholesale from data/nike_channel_split.csv
+2026-08-31,1488,,,-300,6948,21.4,Q1 FY27 10-Q p. 7,balances as printed; ratio and change are my arithmetic; wholesale from data/nike_channel_split.csv

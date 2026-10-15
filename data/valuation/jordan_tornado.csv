@@ -1,0 +1,8 @@
+input,low,high,value_per_share_at_low_usd,value_per_share_at_high_usd,swing_usd,base_value_per_share_usd,basis
+target_margin,0.08,0.14,2.8,4.79,1.99,3.79,"my arithmetic: Base case of data/valuation/jordan_valuation.xlsx, one input flexed at a time"
+wacc,0.09,0.11,4.41,3.32,1.09,3.79,"my arithmetic: Base case of data/valuation/jordan_valuation.xlsx, one input flexed at a time"
+g,0.01,0.03,3.47,3.93,0.46,3.79,"my arithmetic: Base case of data/valuation/jordan_valuation.xlsx, one input flexed at a time"
+tax,0.2,0.25,3.92,3.66,0.26,3.79,"my arithmetic: Base case of data/valuation/jordan_valuation.xlsx, one input flexed at a time"
+roic,0.15,0.25,3.65,3.88,0.23,3.79,"my arithmetic: Base case of data/valuation/jordan_valuation.xlsx, one input flexed at a time"
+m0,0.047,0.067,3.73,3.85,0.12,3.79,"my arithmetic: Base case of data/valuation/jordan_valuation.xlsx, one input flexed at a time"
+s2c,2.0,3.0,3.75,3.82,0.08,3.79,"my arithmetic: Base case of data/valuation/jordan_valuation.xlsx, one input flexed at a time"

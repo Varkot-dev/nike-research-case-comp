@@ -1,0 +1,13 @@
+period,price_date,price,shares_m,mcap_m,fin_debt_m,cash_sti_m,ev_m,rev_m,ebitda_m,ebit_margin,eps_gaap,eps_norm,pe_trailing,pe_trailing_norm,pe_forward,fwd_eps,fwd_eps_basis,ev_sales,ev_ebitda
+FY2016 end,2016-05-31,55.22,1682.0,92880,2038,5457,89461,32376.0,5304.0,0.1434,2.16,2.16,25.6,25.6,23.1,2.39,"FY2017 actual EPS, PitchBook analyst-normalized (perfect-foresight proxy)",2.76,16.9
+FY2017 end,2017-05-31,52.99,1643.0,87063,3802,6179,84686,34350.0,5661.0,0.144,2.51,2.39,21.1,22.2,22.1,2.4,"FY2018 actual EPS, PitchBook analyst-normalized (perfect-foresight proxy)",2.47,15.0
+FY2018 end,2018-05-31,71.8,1601.0,114952,3810,5245,113517,36397.0,5153.0,0.1203,1.17,2.4,61.4,29.9,28.8,2.49,"FY2019 actual EPS, PitchBook analyst-normalized (perfect-foresight proxy)",3.12,22.0
+FY2019 end,2019-05-31,77.14,1568.0,120956,3479,4663,119772,39117.0,5570.0,0.124,2.49,2.49,31.0,31.0,42.2,1.83,"FY2020 actual EPS, PitchBook analyst-normalized (perfect-foresight proxy)",3.06,21.5
+FY2020 end,2020-05-29,98.58,1555.0,153295,9657,8787,154165,37403.0,4095.0,0.0796,1.6,1.83,61.6,53.9,27.7,3.56,"FY2021 actual EPS, PitchBook analyst-normalized (perfect-foresight proxy)",4.12,37.6
+FY2021 end,2021-05-28,136.46,1578.0,215334,9415,13476,211273,44538.0,7720.0,0.1554,3.56,3.56,38.3,38.3,36.3,3.76,"FY2022 actual EPS, PitchBook analyst-normalized (perfect-foresight proxy)",4.74,27.4
+FY2022 end,2022-05-31,118.85,1571.0,186713,9430,12997,183146,46710.0,7696.0,0.1468,3.75,3.76,31.7,31.6,36.8,3.23,"FY2023 actual EPS, PitchBook analyst-normalized (perfect-foresight proxy)",3.92,23.8
+FY2023 end,2023-05-31,105.26,1532.0,161258,8933,10675,159516,51217.0,7054.0,0.121,3.23,3.23,32.6,32.6,26.6,3.96,"FY2024 actual EPS, PitchBook analyst-normalized (perfect-foresight proxy)",3.11,22.6
+FY2024 end,2024-05-31,95.05,1503.0,142860,8909,11582,140187,51362.0,7383.0,0.1273,3.73,3.96,25.5,24.0,45.3,2.1,"FY2025 actual EPS, PitchBook analyst-normalized (perfect-foresight proxy)",2.73,19.0
+FY2025 end,2025-05-30,60.59,1476.0,89430,7961,9151,88240,46309.0,4586.0,0.0816,2.16,2.1,28.1,28.9,38.6,1.57,"FY2026 actual EPS, PitchBook analyst-normalized (perfect-foresight proxy)",1.91,19.2
+FY2026 end,2026-05-29,46.23,1480.9,68461,7942,9027,67376,46398.0,4647.0,0.083,2.1,1.57,22.0,29.4,26.7,1.73093,FY2027 Yahoo consensus 90 days before 2026-10-13 (circa mid-July 2026),1.45,14.5
+Today (TTM to Q1 FY27),2026-10-12,35.35,1485.3,52506,7893,8368,52031,45891.0,4654.0,0.0819,2.08,,17.0,,27.4,1.28806,FY2027 Yahoo consensus 2026-10-13,1.13,11.2

@@ -1,0 +1,27 @@
+venue,snapshot_date,brand,styles_or_colorways,share_on_sale_pct,avg_discount_on_sale_pct,source
+Running Warehouse mens_road,2026-10-13,Saucony,145,31.7,27.6,data/marketplace/runningwarehouse_brand_summary.csv
+Running Warehouse mens_road,2026-10-13,ASICS,121,19.0,16.8,data/marketplace/runningwarehouse_brand_summary.csv
+Running Warehouse mens_road,2026-10-13,Nike,98,49.0,29.5,data/marketplace/runningwarehouse_brand_summary.csv
+Running Warehouse mens_road,2026-10-13,adidas,86,22.1,27.6,data/marketplace/runningwarehouse_brand_summary.csv
+Running Warehouse mens_road,2026-10-13,New Balance,86,20.9,27.4,data/marketplace/runningwarehouse_brand_summary.csv
+Running Warehouse mens_road,2026-10-13,Brooks,85,32.9,23.2,data/marketplace/runningwarehouse_brand_summary.csv
+Running Warehouse mens_road,2026-10-13,Hoka,84,9.5,22.8,data/marketplace/runningwarehouse_brand_summary.csv
+Running Warehouse mens_road,2026-10-13,On Running,32,12.5,21.5,data/marketplace/runningwarehouse_brand_summary.csv
+Running Warehouse womens_road,2026-10-13,Saucony,138,29.7,30.3,data/marketplace/runningwarehouse_brand_summary.csv
+Running Warehouse womens_road,2026-10-13,ASICS,118,20.3,17.4,data/marketplace/runningwarehouse_brand_summary.csv
+Running Warehouse womens_road,2026-10-13,Nike,91,50.5,30.0,data/marketplace/runningwarehouse_brand_summary.csv
+Running Warehouse womens_road,2026-10-13,New Balance,83,19.3,27.3,data/marketplace/runningwarehouse_brand_summary.csv
+Running Warehouse womens_road,2026-10-13,Brooks,81,28.4,24.4,data/marketplace/runningwarehouse_brand_summary.csv
+Running Warehouse womens_road,2026-10-13,Hoka,78,6.4,24.4,data/marketplace/runningwarehouse_brand_summary.csv
+Running Warehouse womens_road,2026-10-13,adidas,57,22.8,27.0,data/marketplace/runningwarehouse_brand_summary.csv
+Running Warehouse womens_road,2026-10-13,On Running,21,9.5,21.5,data/marketplace/runningwarehouse_brand_summary.csv
+Foot Locker shoes,2026-10-13,Nike,1911,13.2,25.0,data/marketplace/footlocker_brand_sale_mix.csv; footlocker_discount_by_brand.csv
+Foot Locker shoes,2026-10-13,adidas,962,8.4,24.0,data/marketplace/footlocker_brand_sale_mix.csv; footlocker_discount_by_brand.csv
+Foot Locker shoes,2026-10-13,Jordan,656,13.7,20.5,data/marketplace/footlocker_brand_sale_mix.csv; footlocker_discount_by_brand.csv
+Foot Locker shoes,2026-10-13,New Balance,419,17.7,37.5,data/marketplace/footlocker_brand_sale_mix.csv; footlocker_discount_by_brand.csv
+Foot Locker shoes,2026-10-13,Saucony,306,7.8,31.5,data/marketplace/footlocker_brand_sale_mix.csv; footlocker_discount_by_brand.csv
+Foot Locker shoes,2026-10-13,HOKA,175,16.0,27.5,data/marketplace/footlocker_brand_sale_mix.csv; footlocker_discount_by_brand.csv
+Foot Locker shoes,2026-10-13,On,153,15.7,22.3,data/marketplace/footlocker_brand_sale_mix.csv; footlocker_discount_by_brand.csv
+Foot Locker shoes,2026-10-13,Brooks,130,7.7,20.6,data/marketplace/footlocker_brand_sale_mix.csv; footlocker_discount_by_brand.csv
+Foot Locker shoes,2026-10-13,ASICS,116,8.6,20.1,data/marketplace/footlocker_brand_sale_mix.csv; footlocker_discount_by_brand.csv
+Foot Locker shoes,2026-10-13,ALL,6295,11.4,,data/marketplace/footlocker_brand_sale_mix.csv; footlocker_discount_by_brand.csv

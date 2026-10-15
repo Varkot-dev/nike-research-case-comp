@@ -7,3 +7,5 @@ data/hunt/*/raw/**/*.html
 data/hunt/*/raw/**/*.pdf
 data/hunt/pricing_catalog/shopify_products_*.csv
 data/hunt/pricing_catalog/shopify_tidy_brand_products_*.csv
+__pycache__/
+*.pyc

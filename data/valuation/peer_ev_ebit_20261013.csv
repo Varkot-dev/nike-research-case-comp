@@ -1,0 +1,10 @@
+ticker,price,px_ccy,fin_ccy,mcap_fin_m,net_debt_fin_m,ev_fin_m,ttm_rev_m,ttm_ebit_m,ebit_margin,ev_sales,ev_ebit,yahoo_ev_m,ttm_basis
+ADS.DE,153.25,EUR,EUR,26828,4416,31244,26041,2183,8.4%,1.20,14.3,31000,"Yahoo trailing to 2026-06-30; matches adidas quarterly releases (sum Q3 25..Q2 26 = 6630+6076+6592+6743 rev; 736+164+705+574 EBIT)"
+PUM.DE,23.41,EUR,EUR,3412,2285,5697,6990,-280,-4.0%,0.82,nan,5697,"Rev Yahoo TTM to 2026-06-30; EBIT DERIVED from Puma releases: Q3 25 1.5%x1955.7=29, Q4 25 -19.7%x1564.9=-308, Q1 26 52, Q2 26 -53.1"
+DECK,84.17,USD,USD,11462,-1130,10332,5527,1253,22.7%,1.87,8.2,10365,"Yahoo trailing to 2026-06-30"
+ONON,35.475,USD,CHF,9873,-677,9196,3220,444,13.8%,2.86,20.7,11138,"Yahoo trailing to 2026-06-30 (CHF)"
+AS,29.165,USD,USD,16969,381,17350,7436,969,13.0%,2.33,17.9,16931,"Yahoo trailing to 2026-06-30"
+2020.HK,72.45,HKD,CNY,171156,-13326,157830,85182,20208,23.7%,1.85,7.8,197066,"Yahoo trailing to 2026-06-30 (CNY)"
+2331.HK,12.53,HKD,CNY,27617,-13240,14377,30017,3965,13.2%,0.48,3.6,19084,"DERIVED FY2025 (Yahoo 29598/3951) + H1 26 - H1 25 from Li Ning interim p.? (15235.3-14816.8; 2451.9-2438.5)"
+LULU,94.3,USD,USD,10922,751,11674,11094,1979,17.8%,1.05,5.9,11231,"Yahoo trailing to 2026-07-31"
+NKE,35.355,USD,USD,52513,2757,55270,46398,3797,8.2%,1.19,14.6,55263,"Yahoo FY to 2026-05-31 (Q1 FY27 not yet in Yahoo trailing)"

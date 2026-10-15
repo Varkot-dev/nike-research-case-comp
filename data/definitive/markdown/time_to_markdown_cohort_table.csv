@@ -1,0 +1,12 @@
+line,release_year,n,n_with_wayback_obs,disc_within_30d_yes/known,disc_within_60d_yes/known,disc_within_90d_yes/known,disc_within_180d_yes/known,n_discounted_ever_observed,median_first_disc_day_upper_bound,n_censored_full,median_censor_day,median_depth_pct
+AJ1 High OG,2024,7,7,0/7,0/5,0/4,0/0,0,,7,91,
+AJ1 High OG,2025,8,5,0/4,0/4,0/3,0/1,0,,5,103,
+AJ1 High OG,2026,7,4,0/3,0/1,0/1,0/0,0,,4,53.5,
+AJ3,2024,4,2,0/2,0/1,0/1,0/0,0,,2,75.0,
+AJ3,2025,9,5,0/4,0/4,0/3,0/0,0,,5,101,
+AJ3,2026,5,1,0/0,0/0,0/0,0/0,0,,1,5,
+AJ4,2024,7,5,0/3,0/3,0/3,0/1,1,210,4,167.5,24.8
+AJ4,2025,8,2,0/1,0/1,0/0,0/0,1,430,2,40.0,25.0
+AJ4,2026,6,2,0/2,0/0,0/0,0/0,0,,2,54.5,
+Pegasus 41,2024,15,15,0/15,0/14,0/14,3/12,15,825,0,,29.7
+Vomero 5,2024,15,15,0/14,0/12,1/10,4/12,12,218.0,3,927,29.4
