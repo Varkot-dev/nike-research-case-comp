@@ -1,0 +1,74 @@
+advertiser_entity,advertiser_id,country,lifetime_ads_low,lifetime_ads_high,tag,source
+lululemon athletica canada inc.,AR01614014350098432001,CA,10000,20000,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+"Nike, Inc.",AR16735076323512287233,US,9000,10000,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+"Under Armour, Inc.",AR16916677161513910273,US,7000,8000,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+Under Armour Europe B.V.,AR17609292796076752897,NL,7000,8000,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+Skechers S.à.r.l,AR05700832618807820289,CH,6000,7000,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+New Balance Athletic Shoes UK Ltd,AR09722647622644137985,GB,3000,4000,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+On AG,AR01173884174826733569,CH,2000,3000,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+"Skechers U.S.A., Inc",AR10368367437014892545,US,2000,3000,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+"Adidas America, Inc",AR14017378248766259201,US,2000,3000,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+Brooks Sports Inc,AR02322649044444250113,US,1000,2000,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+Brooks Sports B.V.,AR01965077761328414721,NL,1000,2000,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+Deckers Japan GK,AR13731142661585240065,JP,1000,2000,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+"New Balance Athletic Shoe, Inc.",AR04323445746671026177,US,1000,2000,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+Lululemon Athletica Australia Pty Ltd,AR12317441102226391041,AU,1000,2000,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+NEW BALANCE AUSTRALIA PTY LTD,AR04351791774910382081,AU,700,800,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+lululemon athletica JP Limited Liability Company,AR12957738211148300289,JP,700,800,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+New Balance Canada,AR07975901190913261569,CA,400,500,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+PUMA SE,AR05343765221255151617,DE,400,500,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+"UNDER ARMOUR, INC.",AR01173566398786437121,US,400,500,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+New Balance,AR03373622508073779201,GB,100,200,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+New Balance New Zealand Limited,AR01542586844942696449,NZ,100,200,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+Nike Retail Services Inc,AR04810212910225686529,US,100,200,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+SKECHERS USA LTD.,AR11611496071020150785,GB,100,200,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+SKECHERS PERU S.R.L.,AR17630216845950713857,PE,100,200,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+SKECHERS FOOTWEAR LTD,AR14027318314917691393,IL,100,200,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+Under Armour Europe B.V.,AR12404215753891381249,NL,100,200,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+New Balance Athletics Inc.,AR18131401132386287617,US,98,98,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+HOKAY LLC,AR03179030210045542401,US,95,95,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+Skechers GmbH,AR03844490974008967169,CH,71,71,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+LULULEMON ATHLETICA TRADING,AR06362141867382931457,QA,65,65,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+"New Balance Athletics, Inc.",AR11240974774312108033,US,58,58,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+Deckers Wonen nv.,AR16286504647718338561,BE,54,54,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+"CHRIS NIKEL'S AUTOHAUS, INC.",AR03032139511023796225,US,38,38,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+Skechers Usa,AR17486109062398476289,NL,33,33,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+Hoka Den Haag,AR11165323082921410561,NL,32,32,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+Skechers,AR09967219905340112897,FR,30,30,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+SKECHERS USA IBERIA SL,AR13477913794994765825,ES,28,28,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+Deckers IT,AR11403562238770937857,NL,22,22,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+PUMALA S.A.S.,AR02266184827390656513,AR,19,19,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+Deckers nv,AR12777851717932810241,BE,17,17,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+Deckers Tapijt NV,AR08403610810391199745,BE,17,17,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+JUDITH PUMA,AR04907934565944786945,PE,12,12,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+Rik Deckers,AR14747589518777384961,BE,11,11,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+HOKATRANS,AR06834843846266847233,BE,11,11,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+"Converse Financial Advisory, Inc.",AR15570994140228354049,US,10,10,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+HOKA,AR04982043367643807745,DE,10,10,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+PUMAK S A,AR17127356525837287425,UY,9,9,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+DECKERS GARAGE LLC,AR03095230656456687617,US,8,8,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+SKECHERS USA IBERIA SL,AR15049608844483231745,ES,8,8,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+"NIKEMA FOR CONGRESS, INC",AR16447621240497111041,US,7,7,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+株式会社hokan,AR01357898818808446977,JP,6,6,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+"Nike-Tech, Inc.",AR15801173016852824065,US,6,6,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+Robert Hokamp,AR00158138256297295873,US,5,5,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+Giovanna Puma,AR14021401619510329345,GB,5,5,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+"Converse Marketing, Inc.",AR09230776818171117569,US,3,3,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+Deckers Biokiste,AR09629429910149791745,DE,3,3,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+robert hokamp,AR07958826892025397249,US,3,3,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+Stacy Hoka Amolo,AR03086757038168997889,GB,3,3,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+"Nike, Inc.",AR04119126533128323073,US,3,3,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+Pumato Labs,AR16822431019100536833,US,3,3,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+"UNDER ARMOUR, INC.",AR10277217313186906113,US,3,3,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+C.DECKERS,AR07217001437740400641,BE,2,2,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+Hokarob AS,AR09312105253736284161,NO,2,2,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+Aaron Hokanson,AR11585704113802838017,US,2,2,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+Puma - S.R.L.,AR02264508501655027713,IT,2,2,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+Myrthe Deckers,AR13681778652537159681,NL,1,1,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+NEW BALANCE AUSTRALIA PTY LTD,AR15912290246071418881,AU,1,1,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+"NIKE, Inc.",AR06535278389996027905,US,1,1,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+PUMA,AR12189222206588321793,IN,1,1,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+Pumar GmbH,AR01387673327400648705,CH,1,1,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+Puma Roofing,AR13416197391283912705,US,1,1,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+"Under Armour Retail, Inc.",AR02854688504783306753,US,1,1,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json
+"adidas America, Inc",AR10725380451691659265,US,1,1,"OPENED (prior session, SearchSuggestions RPC, no login)",data/hunt/marketing_athletes/raw/google_ads/suggest_*.json

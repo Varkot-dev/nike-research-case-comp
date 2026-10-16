@@ -1,0 +1,633 @@
+u,st,rel,pub,mod,title,brand,slug,stem,num,date,date_basis,cls,ym,hy
+/nike-vomero-18,200,,2025-05-25,,Cut in half: Nike Vomero 18 Review (2025) | RunRepeat,Nike,vomero-18,vomero,18.0,2025-05-25,review_published,B_new_version,2025-05,2025H1
+/nike-vomero-plus,200,,2025-09-11,,Cut in half: Nike Vomero Plus Review (2025) | RunRepeat,Nike,vomero-plus,vomero-plus,,2025-09-11,review_published,A_new_model,2025-09,2025H2
+/adidas-adizero-evo-sl,200,,2024-11-26,,Cut in half: adidas Adizero EVO SL Review | RunRepeat,adidas,adizero-evo-sl,adizero-evo-sl,,2024-11-26,review_published,A_new_model,2024-11,2024H2
+/hoka-bondi-9,200,,2025-02-09,,Cut in half: HOKA Bondi 9 Review (2025) | RunRepeat,Hoka,bondi-9,bondi,9.0,2025-02-09,review_published,B_new_version,2025-02,2025H1
+/saucony-endorphin-speed-5,200,,2025-07-21,,Cut in half: Saucony Endorphin Speed 5 Review (2025) | RunRepeat,Saucony,endorphin-speed-5,endorphin-speed,5.0,2025-07-21,review_published,B_new_version,2025-07,2025H2
+/nike-pegasus-premium,200,,2025-05-26,,Cut in half: Nike Pegasus Premium Review (2025) | RunRepeat,Nike,pegasus-premium,pegasus-premium,,2025-05-26,review_published,A_new_model,2025-05,2025H1
+/hoka-clifton-10,200,Apr 2025,2025-05-04,,Cut in half: HOKA Clifton 10 Review (2025) | RunRepeat,Hoka,clifton-10,clifton,10.0,2025-04-01,release_date_field,B_new_version,2025-04,2025H1
+/asics-novablast-5,200,,2024-12-10,,Cut in half: ASICS Novablast 5 Review | RunRepeat,ASICS,novablast-5,novablast,5.0,2024-12-10,review_published,B_new_version,2024-12,2024H2
+/brooks-ghost-max-3,200,Aug 2025,2025-11-04,,Cut in half: Brooks Ghost Max 3 Review (2025) | RunRepeat,Brooks,ghost-max-3,ghost-max,3.0,2025-08-01,release_date_field,B_new_version,2025-08,2025H2
+/brooks-adrenaline-gts-25,200,Nov 2025,2026-05-03,,Cut in half: Brooks Adrenaline GTS 25 Review (2026) | RunRepeat,Brooks,adrenaline-gts-25,adrenaline-gts,25.0,2025-11-01,release_date_field,B_new_version,2025-11,2025H2
+/new-balance-fuel-cell-super-comp-trainer-v-3,200,,2024-09-04,,Cut in half: New Balance FuelCell SuperComp Trainer v3 Review | RunRepeat,New Balance,fuel-cell-super-comp-trainer-v-3,fuel-cell-super-comp-trainer,3.0,2024-09-04,review_published,B_new_version,2024-09,2024H2
+/adidas-adizero-adios-pro-4,200,,2025-01-19,,Cut in half: adidas Adizero Adios Pro 4 Review (2025) | RunRepeat,adidas,adizero-adios-pro-4,adizero-adios-pro,4.0,2025-01-19,review_published,B_new_version,2025-01,2025H1
+/new-balance-fuel-cell-super-comp-elite-v-5,200,,2025-10-20,,Cut in half: New Balance FuelCell SuperComp Elite v5 Review (2025) | RunRepeat,New Balance,fuel-cell-super-comp-elite-v-5,fuel-cell-super-comp-elite,5.0,2025-10-20,review_published,B_new_version,2025-10,2025H2
+/hoka-mach-7,200,Mar 2026,2026-05-10,,Cut in half: HOKA Mach 7 Review (2026) | RunRepeat,Hoka,mach-7,mach,7.0,2026-03-01,release_date_field,B_new_version,2026-03,2026H1
+/nike-pegasus-41,200,Jun 2024,2024-06-20,,Cut in half: Nike Pegasus 41 Review | RunRepeat,Nike,pegasus-41,pegasus,41.0,2024-06-01,release_date_field,B_new_version,2024-06,2024H1
+/nike-alphafly-3,200,,2024-02-04,,Cut in half: Nike Alphafly 3 Review | RunRepeat,Nike,alphafly-3,alphafly,3.0,2024-02-04,review_published,B_new_version,2024-02,2024H1
+/nike-pegasus-42,200,Apr 2026,2026-04-25,,Cut in half: Nike Pegasus 42 Review (2026) | RunRepeat,Nike,pegasus-42,pegasus,42.0,2026-04-01,release_date_field,B_new_version,2026-04,2026H1
+/hoka-speedgoat-7,200,Feb 2026,2026-07-09,,Cut in half: HOKA Speedgoat 7 Review (2026) | RunRepeat,Hoka,speedgoat-7,speedgoat,7.0,2026-02-01,release_date_field,B_new_version,2026-02,2026H1
+/asics-gel-nimbus-27,200,,2025-02-13,,Cut in half: ASICS Gel Nimbus 27 Review (2025) | RunRepeat,ASICS,gel-nimbus-27,gel-nimbus,27.0,2025-02-13,review_published,B_new_version,2025-02,2025H1
+/adidas-supernova-rise-3,200,,2026-02-26,,Cut in half: adidas Supernova Rise 3 Review (2026) | RunRepeat,adidas,supernova-rise-3,supernova-rise,3.0,2026-02-26,review_published,B_new_version,2026-02,2026H1
+/nike-structure-plus,200,,2026-03-09,,Cut in half: Nike Structure Plus Review (2026) | RunRepeat,Nike,structure-plus,structure-plus,,2026-03-09,review_published,A_new_model,2026-03,2026H1
+/new-balance-fresh-foam-x-more-v-6,200,,2025-09-16,,Cut in half: New Balance Fresh Foam X More v6 Review (2025) | RunRepeat,New Balance,fresh-foam-x-more-v-6,fresh-foam-x-more,6.0,2025-09-16,review_published,B_new_version,2025-09,2025H2
+/nike-vaporfly-4,200,,2025-04-20,,Cut in half: Nike Vaporfly 4 Review (2025) | RunRepeat,Nike,vaporfly-4,vaporfly,4.0,2025-04-20,review_published,B_new_version,2025-04,2025H1
+/brooks-hyperion-max-3,200,Jul 2025,2025-11-10,,Cut in half: Brooks Hyperion Max 3 Review (2025) | RunRepeat,Brooks,hyperion-max-3,hyperion-max,3.0,2025-07-01,release_date_field,B_new_version,2025-07,2025H2
+/nike-vomero-premium,200,,2025-10-30,,Cut in half: Nike Vomero Premium Review (2025) | RunRepeat,Nike,vomero-premium,vomero-premium,,2025-10-30,review_published,A_new_model,2025-10,2025H2
+/saucony-triumph-23,200,,2025-09-17,,Cut in half: Saucony Triumph 23 Review (2025) | RunRepeat,Saucony,triumph-23,triumph,23.0,2025-09-17,review_published,B_new_version,2025-09,2025H2
+/asics-gel-kayano-32,200,,2025-07-18,,Cut in half: ASICS Gel Kayano 32 Review (2025) | RunRepeat,ASICS,gel-kayano-32,gel-kayano,32.0,2025-07-18,review_published,B_new_version,2025-07,2025H2
+/nike-structure-26,200,,2025-09-12,,Cut in half: Nike Structure 26 Review (2025) | RunRepeat,Nike,structure-26,structure,26.0,2025-09-12,review_published,B_new_version,2025-09,2025H2
+/puma-velocity-nitro-4,200,,2025-09-23,,Cut in half: PUMA Velocity Nitro 4 Review (2025) | RunRepeat,Puma,velocity-nitro-4,velocity-nitro,4.0,2025-09-23,review_published,B_new_version,2025-09,2025H2
+/brooks-glycerin-max-2,200,Nov 2025,2026-05-19,,Cut in half: Brooks Glycerin Max 2 Review (2026) | RunRepeat,Brooks,glycerin-max-2,glycerin-max,2.0,2025-11-01,release_date_field,B_new_version,2025-11,2025H2
+/brooks-ghost-17,200,,2025-11-03,,Cut in half: Brooks Ghost 17 Review (2025) | RunRepeat,Brooks,ghost-17,ghost,17.0,2025-11-03,review_published,B_new_version,2025-11,2025H2
+/nike-winflo-12,200,Mar 2026,2026-04-29,,Cut in half: Nike Winflo 12 Review (2026) | RunRepeat,Nike,winflo-12,winflo,12.0,2026-03-01,release_date_field,B_new_version,2026-03,2026H1
+/hoka-mach-6,200,,2024-04-20,,Cut in half: HOKA Mach 6 Review | RunRepeat,Hoka,mach-6,mach,6.0,2024-04-20,review_published,B_new_version,2024-04,2024H1
+/new-balance-fresh-foam-680-v9,200,Feb 2026,2026-07-21,,Cut in half: New Balance Fresh Foam 680 v9 Review (2026) | RunRepeat,New Balance,fresh-foam-680-v9,fresh-foam-680,9.0,2026-02-01,release_date_field,B_new_version,2026-02,2026H1
+/brooks-ghost-16,200,,2024-07-30,,Cut in half: Brooks Ghost 16 Review | RunRepeat,Brooks,ghost-16,ghost,16.0,2024-07-30,review_published,B_new_version,2024-07,2024H2
+/nike-acg-ultrafly-trail,200,,2026-04-25,,Cut in half: Nike ACG Ultrafly Trail Review (2026) | RunRepeat,Nike,acg-ultrafly-trail,acg-ultrafly-trail,,2026-04-25,review_published,A_new_model,2026-04,2026H1
+/asics-superblast-3,200,,2026-03-18,,Cut in half: ASICS Superblast 3 Review (2026) | RunRepeat,ASICS,superblast-3,superblast,3.0,2026-03-18,review_published,B_new_version,2026-03,2026H1
+/hoka-arahi-8,200,,2025-09-11,,Cut in half: HOKA Arahi 8 Review (2025) | RunRepeat,Hoka,arahi-8,arahi,8.0,2025-09-11,review_published,B_new_version,2025-09,2025H2
+/puma-fast-r-nitro-elite-3,200,Jun 2025,2025-11-08,,Cut in half: PUMA Fast-R Nitro Elite 3 Review (2025) | RunRepeat,Puma,fast-r-nitro-elite-3,fast-r-nitro-elite,3.0,2025-06-01,release_date_field,B_new_version,2025-06,2025H1
+/new-balance-fresh-foam-x-880-v-15,200,,2025-03-13,,Cut in half: New Balance Fresh Foam X 880 v15 Review (2025) | RunRepeat,New Balance,fresh-foam-x-880-v-15,fresh-foam-x-880,15.0,2025-03-13,review_published,B_new_version,2025-03,2025H1
+/new-balance-fuel-cell-rebel-v-5,200,,2025-07-16,,Cut in half: New Balance FuelCell Rebel v5 Review (2025) | RunRepeat,New Balance,fuel-cell-rebel-v-5,fuel-cell-rebel,5.0,2025-07-16,review_published,B_new_version,2025-07,2025H2
+/asics-novablast-6,200,Jul 2026,2026-07-19,,Cut in half: ASICS Novablast 6 Review (2026) | RunRepeat,ASICS,novablast-6,novablast,6.0,2026-07-01,release_date_field,B_new_version,2026-07,2026H2
+/saucony-endorphin-pro-4,200,,2024-03-13,,Cut in half: Saucony Endorphin Pro 4 Review | RunRepeat,Saucony,endorphin-pro-4,endorphin-pro,4.0,2024-03-13,review_published,B_new_version,2024-03,2024H1
+/nike-zoom-fly-6,200,,2025-01-15,,Cut in half: Nike Zoom Fly 6 Review (2025) | RunRepeat,Nike,zoom-fly-6,zoom-fly,6.0,2025-01-15,review_published,B_new_version,2025-01,2025H1
+/nike-revolution-8,200,,2025-09-24,,Cut in half: Nike Revolution 8 Review (2025) | RunRepeat,Nike,revolution-8,revolution,8.0,2025-09-24,review_published,B_new_version,2025-09,2025H2
+/hoka-skyward-x,200,,2024-08-06,,Cut in half: HOKA Skyward X Review | RunRepeat,Hoka,skyward-x,skyward-x,,2024-08-06,review_published,A_new_model,2024-08,2024H2
+/asics-gt-2000-14,200,,2025-09-18,,Cut in half: ASICS GT 2000 14 Review (2025) | RunRepeat,ASICS,gt-2000-14,gt-2000,14.0,2025-09-18,review_published,B_new_version,2025-09,2025H2
+/saucony-endorphin-elite-2,200,,2025-07-21,,Cut in half: Saucony Endorphin Elite 2 Review (2025) | RunRepeat,Saucony,endorphin-elite-2,endorphin-elite,2.0,2025-07-21,review_published,B_new_version,2025-07,2025H2
+/asics-superblast-2,200,Jul 2024,2024-07-23,,Cut in half: ASICS Superblast 2 Review | RunRepeat,ASICS,superblast-2,superblast,2.0,2024-07-01,release_date_field,B_new_version,2024-07,2024H2
+/new-balance-fresh-foam-x-1080-v14,200,,2025-01-17,,Cut in half: New Balance Fresh Foam X 1080 v14 Review (2025) | RunRepeat,New Balance,fresh-foam-x-1080-v14,fresh-foam-x-1080,14.0,2025-01-17,review_published,B_new_version,2025-01,2025H1
+/altra-torin-8,200,,2025-04-23,,Cut in half: Altra Torin 8 Review (2025) | RunRepeat,Altra,torin-8,torin,8.0,2025-04-23,review_published,B_new_version,2025-04,2025H1
+/nike-streakfly-2,200,,2025-04-21,,Cut in half: Nike Streakfly 2 Review (2025) | RunRepeat,Nike,streakfly-2,streakfly,2.0,2025-04-21,review_published,B_new_version,2025-04,2025H1
+/salomon-genesis,200,,2024-04-05,,Cut in half: Salomon Genesis Review | RunRepeat,Salomon,genesis,genesis,,2024-04-05,review_published,A_new_model,2024-04,2024H1
+/new-balance-fresh-foam-x-hierro-v9,200,,2025-04-01,,Cut in half: New Balance Fresh Foam X Hierro v9 Review (2025) | RunRepeat,New Balance,fresh-foam-x-hierro-v9,fresh-foam-x-hierro,9.0,2025-04-01,review_published,B_new_version,2025-04,2025H1
+/adidas-ultraboost-5-x,200,,2025-01-22,,Cut in half: adidas Ultraboost 5X Review (2025) | RunRepeat,adidas,ultraboost-5-x,ultraboost-5-x,,2025-01-22,review_published,A_new_model,2025-01,2025H1
+/hoka-tecton-x-3,200,,2025-02-21,,Cut in half: HOKA Tecton X 3 Review (2025) | RunRepeat,Hoka,tecton-x-3,tecton-x,3.0,2025-02-21,review_published,B_new_version,2025-02,2025H1
+/on-cloudmonster-2,200,,2024-03-20,,Cut in half: On Cloudmonster 2 Review | RunRepeat,On,cloudmonster-2,cloudmonster,2.0,2024-03-20,review_published,B_new_version,2024-03,2024H1
+/saucony-ride-19,200,Jan 2026,2026-02-02,,Cut in half: Saucony Ride 19 Review (2026) | RunRepeat,Saucony,ride-19,ride,19.0,2026-01-01,release_date_field,B_new_version,2026-01,2026H1
+/nike-acg-zegama-trail,200,Apr 2026,2026-10-07,,Cut in half: Nike ACG Zegama Trail Review (2026) | RunRepeat,Nike,acg-zegama-trail,acg-zegama-trail,,2026-04-01,release_date_field,A_new_model,2026-04,2026H1
+/saucony-hurricane-25,200,,2025-10-31,,Cut in half: Saucony Hurricane 25 Review (2025) | RunRepeat,Saucony,hurricane-25,hurricane,25.0,2025-10-31,review_published,B_new_version,2025-10,2025H2
+/hoka-clifton-9,200,,2023-10-24,,Cut in half: HOKA Clifton 9 Review | RunRepeat,Hoka,clifton-9,clifton,9.0,2023-10-24,review_published,B_new_version,2023-10,2023H2
+/asics-megablast,200,,2025-10-19,,Cut in half: ASICS Megablast Review (2025) | RunRepeat,ASICS,megablast,megablast,,2025-10-19,review_published,A_new_model,2025-10,2025H2
+/hoka-challenger-8,200,,2025-10-27,,Cut in half: HOKA Challenger 8 Review (2025) | RunRepeat,Hoka,challenger-8,challenger,8.0,2025-10-27,review_published,B_new_version,2025-10,2025H2
+/adidas-adizero-boston-13,200,,2025-06-04,,Cut in half: adidas Adizero Boston 13 Review (2025) | RunRepeat,adidas,adizero-boston-13,adizero-boston,13.0,2025-06-04,review_published,B_new_version,2025-06,2025H1
+/new-balance-1080-v-15,200,Jan 2026,2026-02-04,,Cut in half: New Balance 1080 v15 Review (2026) | RunRepeat,New Balance,1080-v-15,1080,15.0,2026-01-01,release_date_field,B_new_version,2026-01,2026H1
+/mizuno-neo-zen,200,,2025-05-12,,Cut in half: Mizuno Neo Zen Review (2025) | RunRepeat,Mizuno,neo-zen,neo-zen,,2025-05-12,review_published,A_new_model,2025-05,2025H1
+/nike-zoom-x-vaporfly-next-3,200,,2023-11-27,,Cut in half: Nike Vaporfly 3 Review | RunRepeat,Nike,zoom-x-vaporfly-next-3,zoom-x-vaporfly-next,3.0,2023-11-27,review_published,B_new_version,2023-11,2023H2
+/mizuno-wave-rider-29,200,,2025-11-14,,Cut in half: Mizuno Wave Rider 29 Review (2025) | RunRepeat,Mizuno,wave-rider-29,wave-rider,29.0,2025-11-14,review_published,B_new_version,2025-11,2025H2
+/altra-escalante-4,200,,2024-05-28,,Cut in half: Altra Escalante 4 Review | RunRepeat,Altra,escalante-4,escalante,4.0,2024-05-28,review_published,B_new_version,2024-05,2024H1
+/new-balance-fresh-foam-x-more-v5,200,,2024-08-28,,Cut in half: New Balance Fresh Foam X More v5 Review | RunRepeat,New Balance,fresh-foam-x-more-v5,fresh-foam-x-more,5.0,2024-08-28,review_published,B_new_version,2024-08,2024H2
+/brooks-ghost-18,200,Jun 2026,2026-06-07,,Cut in half: Brooks Ghost 18 Review (2026) | RunRepeat,Brooks,ghost-18,ghost,18.0,2026-06-01,release_date_field,B_new_version,2026-06,2026H1
+/brooks-glycerin-23,200,Feb 2026,2026-05-04,,Cut in half: Brooks Glycerin 23 Review (2026) | RunRepeat,Brooks,glycerin-23,glycerin,23.0,2026-02-01,release_date_field,B_new_version,2026-02,2026H1
+/on-cloudmonster-3,200,Mar 2026,2026-03-30,,Cut in half: On Cloudmonster 3 Review (2026) | RunRepeat,On,cloudmonster-3,cloudmonster,3.0,2026-03-01,release_date_field,B_new_version,2026-03,2026H1
+/adidas-supernova-rise-2,200,,2025-04-02,,Cut in half: adidas Supernova Rise 2 Review (2025) | RunRepeat,adidas,supernova-rise-2,supernova-rise,2.0,2025-04-02,review_published,B_new_version,2025-04,2025H1
+/hoka-gaviota-5,200,,2023-09-10,,Cut in half: HOKA Gaviota 5 Review | RunRepeat,Hoka,gaviota-5,gaviota,5.0,2023-09-10,review_published,B_new_version,2023-09,2023H2
+/puma-deviate-nitro-3,200,,2024-07-27,,Cut in half: PUMA Deviate Nitro 3 Review | RunRepeat,Puma,deviate-nitro-3,deviate-nitro,3.0,2024-07-27,review_published,B_new_version,2024-07,2024H2
+/nike-zegama-2,200,,2024-06-26,,Cut in half: Nike Zegama 2 Review | RunRepeat,Nike,zegama-2,zegama,2.0,2024-06-26,review_published,B_new_version,2024-06,2024H1
+/hoka-clifton-9-gtx,200,,2023-12-30,,Cut in half: HOKA Clifton 9 GTX Review | RunRepeat,Hoka,clifton-9-gtx,clifton,9.0,2023-12-30,review_published,B_new_version,2023-12,2023H2
+/hoka-clifton-11,200,,2026-08-24,,Cut in half: HOKA Clifton 11 Review (2026) | RunRepeat,Hoka,clifton-11,clifton,11.0,2026-08-24,review_published,B_new_version,2026-08,2026H2
+/adidas-supernova-rise,200,,2024-03-22,,Cut in half: adidas Supernova Rise Review | RunRepeat,adidas,supernova-rise,supernova-rise,,2024-03-22,review_published,A_new_model,2024-03,2024H1
+/asics-noosa-tri-16,200,,2024-08-05,,Cut in half: ASICS Noosa Tri 16 Review | RunRepeat,ASICS,noosa-tri-16,noosa-tri,16.0,2024-08-05,review_published,B_new_version,2024-08,2024H2
+/adidas-adizero-boston-12,200,Jun 2023,2023-07-12,,Cut in half: adidas Adizero Boston 12 Review | RunRepeat,adidas,adizero-boston-12,adizero-boston,12.0,2023-06-01,release_date_field,B_new_version,2023-06,2023H1
+/altra-olympus-6,200,Jul 2024,2024-09-11,,Cut in half: Altra Olympus 6 Review | RunRepeat,Altra,olympus-6,olympus,6.0,2024-07-01,release_date_field,B_new_version,2024-07,2024H2
+/new-balance-fresh-foam-arishi-v4,200,,2023-11-01,,Cut in half: New Balance Fresh Foam Arishi v4 Review | RunRepeat,New Balance,fresh-foam-arishi-v4,fresh-foam-arishi,4.0,2023-11-01,review_published,B_new_version,2023-11,2023H2
+/new-balance-fresh-foam-x-860-v14,200,,2024-10-18,,Cut in half: New Balance Fresh Foam X 860 v14 Review | RunRepeat,New Balance,fresh-foam-x-860-v14,fresh-foam-x-860,14.0,2024-10-18,review_published,B_new_version,2024-10,2024H2
+/salomon-aero-glide-4-grvl,200,,2026-05-27,,Cut in half: Salomon Aero Glide 4 GRVL Review (2026) | RunRepeat,Salomon,aero-glide-4-grvl,aero-glide-4-grvl,,2026-05-27,review_published,A_new_model,2026-05,2026H1
+/adidas-adizero-sl2,200,Jun 2024,2024-09-03,,Cut in half: adidas Adizero SL2 Review | RunRepeat,adidas,adizero-sl2,adizero-sl2,,2024-06-01,release_date_field,A_new_model,2024-06,2024H1
+/nike-quest-6,200,,2025-12-05,,Cut in half: Nike Quest 6 Review (2025) | RunRepeat,Nike,quest-6,quest,6.0,2025-12-05,review_published,B_new_version,2025-12,2025H2
+/nike-downshifter-14,200,,2026-05-07,,Cut in half: Nike Downshifter 14 Review (2026) | RunRepeat,Nike,downshifter-14,downshifter,14.0,2026-05-07,review_published,B_new_version,2026-05,2026H1
+/mizuno-neo-vista-2,200,,2025-07-23,,Cut in half: Mizuno Neo Vista 2 Review (2025) | RunRepeat,Mizuno,neo-vista-2,neo-vista,2.0,2025-07-23,review_published,B_new_version,2025-07,2025H2
+/brooks-glycerin-max,200,,2024-11-14,,Cut in half: Brooks Glycerin Max Review | RunRepeat,Brooks,glycerin-max,glycerin-max,,2024-11-14,review_published,A_new_model,2024-11,2024H2
+/nike-pegasus-plus,200,,2024-10-15,,Cut in half: Nike Pegasus Plus Review | RunRepeat,Nike,pegasus-plus,pegasus-plus,,2024-10-15,review_published,A_new_model,2024-10,2024H2
+/brooks-glycerin-22,200,,2025-03-20,,Cut in half: Brooks Glycerin 22 Review (2025) | RunRepeat,Brooks,glycerin-22,glycerin,22.0,2025-03-20,review_published,B_new_version,2025-03,2025H1
+/hoka-arahi-7,200,,2024-03-18,,Cut in half: HOKA Arahi 7 Review | RunRepeat,Hoka,arahi-7,arahi,7.0,2024-03-18,review_published,B_new_version,2024-03,2024H1
+/altra-lone-peak-9,200,,2025-03-25,,Cut in half: Altra Lone Peak 9 Review (2025) | RunRepeat,Altra,lone-peak-9,lone-peak,9.0,2025-03-25,review_published,B_new_version,2025-03,2025H1
+/saucony-triumph-24,200,,2026-09-20,,Cut in half: Saucony Triumph 24 Review (2026) | RunRepeat,Saucony,triumph-24,triumph,24.0,2026-09-20,review_published,B_new_version,2026-09,2026H2
+/brooks-glycerin-flex,200,,2026-05-16,,Cut in half: Brooks Glycerin Flex Review (2026) | RunRepeat,Brooks,glycerin-flex,glycerin-flex,,2026-05-16,review_published,A_new_model,2026-05,2026H1
+/mizuno-wave-rebellion-pro-3,200,,2025-12-11,,Cut in half: Mizuno Wave Rebellion Pro 3 Review (2025) | RunRepeat,Mizuno,wave-rebellion-pro-3,wave-rebellion-pro,3.0,2025-12-11,review_published,B_new_version,2025-12,2025H2
+/new-balance-fresh-foam-x-vongo-v-6,200,,2024-06-04,,Cut in half: New Balance Fresh Foam X Vongo v6 Review | RunRepeat,New Balance,fresh-foam-x-vongo-v-6,fresh-foam-x-vongo,6.0,2024-06-04,review_published,B_new_version,2024-06,2024H1
+/saucony-tempus-2,200,Oct 2024,2025-12-19,,Cut in half: Saucony Tempus 2 Review (2025) | RunRepeat,Saucony,tempus-2,tempus,2.0,2024-10-01,release_date_field,B_new_version,2024-10,2024H2
+/asics-gel-nimbus-28,200,Dec 2025,2025-12-18,,Cut in half: ASICS Gel Nimbus 28 Review (2025) | RunRepeat,ASICS,gel-nimbus-28,gel-nimbus,28.0,2025-12-01,release_date_field,B_new_version,2025-12,2025H2
+/nike-acg-pegasus-trail,200,Apr 2026,2026-05-05,,Cut in half: Nike ACG Pegasus Trail Review (2026) | RunRepeat,Nike,acg-pegasus-trail,acg-pegasus-trail,,2026-04-01,release_date_field,A_new_model,2026-04,2026H1
+/asics-metaspeed-sky-tokyo,200,,2025-08-30,,Cut in half: ASICS Metaspeed Sky Tokyo Review (2025) | RunRepeat,ASICS,metaspeed-sky-tokyo,metaspeed-sky-tokyo,,2025-08-30,review_published,A_new_model,2025-08,2025H2
+/altra-paradigm-8,200,,2025-12-12,,Cut in half: Altra Paradigm 8 Review (2025) | RunRepeat,Altra,paradigm-8,paradigm,8.0,2025-12-12,review_published,B_new_version,2025-12,2025H2
+/skechers-aero-burst,200,,2025-09-25,,Cut in half: Skechers Aero Burst Review (2025) | RunRepeat,Skechers,aero-burst,aero-burst,,2025-09-25,review_published,A_new_model,2025-09,2025H2
+/adidas-adizero-prime-x-2-strung,200,,2024-07-04,,Cut in half: adidas Adizero Prime X 2 Strung Review | RunRepeat,adidas,adizero-prime-x-2-strung,adizero-prime-x-2-strung,,2024-07-04,review_published,A_new_model,2024-07,2024H2
+/saucony-endorphin-azura,200,,2026-03-08,,Cut in half: Saucony Endorphin Azura Review (2026) | RunRepeat,Saucony,endorphin-azura,endorphin-azura,,2026-03-08,review_published,A_new_model,2026-03,2026H1
+/saucony-guide-19,200,Dec 2025,2026-05-25,,Cut in half: Saucony Guide 19 Review (2026) | RunRepeat,Saucony,guide-19,guide,19.0,2025-12-01,release_date_field,B_new_version,2025-12,2025H2
+/hoka-speedgoat-6,200,,2024-06-27,,Cut in half: HOKA Speedgoat 6 Review | RunRepeat,Hoka,speedgoat-6,speedgoat,6.0,2024-06-27,review_published,B_new_version,2024-06,2024H1
+/new-balance-fuel-cell-super-comp-pacer-v-2,200,,2025-01-30,,Cut in half: New Balance FuelCell SuperComp Pacer v2 Review (2025) | RunRepeat,New Balance,fuel-cell-super-comp-pacer-v-2,fuel-cell-super-comp-pacer,2.0,2025-01-30,review_published,B_new_version,2025-01,2025H1
+/asics-gt-2000-15,200,,2026-09-17,,Cut in half: ASICS GT 2000 15 Review (2026) | RunRepeat,ASICS,gt-2000-15,gt-2000,15.0,2026-09-17,review_published,B_new_version,2026-09,2026H2
+/asics-gel-kayano-33,200,May 2026,2026-07-03,,Cut in half: ASICS Gel Kayano 33 Review (2026) | RunRepeat,ASICS,gel-kayano-33,gel-kayano,33.0,2026-05-01,release_date_field,B_new_version,2026-05,2026H1
+/on-cloudsurfer-next,200,,2024-10-26,,Cut in half: On Cloudsurfer Next Review | RunRepeat,On,cloudsurfer-next,cloudsurfer-next,,2024-10-26,review_published,A_new_model,2024-10,2024H2
+/adidas-adizero-prime-x-3-strung,200,,2025-07-20,,Cut in half: adidas Adizero Prime X3 STRUNG Review (2025) | RunRepeat,adidas,adizero-prime-x-3-strung,adizero-prime-x-3-strung,,2025-07-20,review_published,A_new_model,2025-07,2025H2
+/saucony-endorphin-pro-5,200,,2026-03-28,,Cut in half: Saucony Endorphin Pro 5 Review (2026) | RunRepeat,Saucony,endorphin-pro-5,endorphin-pro,5.0,2026-03-28,review_published,B_new_version,2026-03,2026H1
+/brooks-ghost-amp,200,Jul 2026,2026-09-05,,Cut in half: Brooks Ghost Amp Review (2026) | RunRepeat,Brooks,ghost-amp,ghost-amp,,2026-07-01,release_date_field,A_new_model,2026-07,2026H2
+/hoka-skyflow,200,,2024-08-29,,Cut in half: HOKA Skyflow Review | RunRepeat,Hoka,skyflow,skyflow,,2024-08-29,review_published,A_new_model,2024-08,2024H2
+/on-cloudmonster,200,Mar 2022,2023-10-25,,Cut in half: On Cloudmonster Review | RunRepeat,On,cloudmonster,cloudmonster,,2022-03-01,release_date_field,A_new_model,2022-03,2022H1
+/altra-experience-flow-2,200,,2025-11-01,,Cut in half: Altra Experience Flow 2 Review (2025) | RunRepeat,Altra,experience-flow-2,experience-flow,2.0,2025-11-01,review_published,B_new_version,2025-11,2025H2
+/altra-escalante-5,200,Jul 2026,2026-08-25,,Cut in half: Altra Escalante 5 Review (2026) | RunRepeat,Altra,escalante-5,escalante,5.0,2026-07-01,release_date_field,B_new_version,2026-07,2026H2
+/adidas-terrex-agravic-speed-ultra,200,,2025-02-23,,Cut in half: adidas Terrex Agravic Speed Ultra Review (2025) | RunRepeat,adidas,terrex-agravic-speed-ultra,terrex-agravic-speed-ultra,,2025-02-23,review_published,A_new_model,2025-02,2025H1
+/new-balance-super-comp-rebel,200,Aug 2026,2026-08-29,,Cut in half: New Balance SuperComp Rebel Review (2026) | RunRepeat,New Balance,super-comp-rebel,super-comp-rebel,,2026-08-01,release_date_field,A_new_model,2026-08,2026H2
+/saucony-ride-18,200,,2025-03-21,,Cut in half: Saucony Ride 18 Review (2025) | RunRepeat,Saucony,ride-18,ride,18.0,2025-03-21,review_published,B_new_version,2025-03,2025H1
+/adidas-hyperboost-edge,200,,2026-03-05,,Cut in half: adidas Hyperboost Edge Review (2026) | RunRepeat,adidas,hyperboost-edge,hyperboost-edge,,2026-03-05,review_published,A_new_model,2026-03,2026H1
+/brooks-hyperion-elite-5,200,Jul 2025,2025-11-06,,Cut in half: Brooks Hyperion Elite 5 Review (2025) | RunRepeat,Brooks,hyperion-elite-5,hyperion-elite,5.0,2025-07-01,release_date_field,B_new_version,2025-07,2025H2
+/teva-aventrail,200,,2026-06-24,,Cut in half: Teva Aventrail Review (2026) | RunRepeat,Other,teva-aventrail,teva-aventrail,,2026-06-24,review_published,A_new_model,2026-06,2026H1
+/nike-pegasus-plus-2,200,Aug 2026,2026-10-12,,Cut in half: Nike Pegasus Plus 2 Review (2026) | RunRepeat,Nike,pegasus-plus-2,pegasus-plus,2.0,2026-08-01,release_date_field,B_new_version,2026-08,2026H2
+/hoka-speedgoat-6-gtx,200,,2025-02-25,,Cut in half: HOKA Speedgoat 6 GTX Review (2025) | RunRepeat,Hoka,speedgoat-6-gtx,speedgoat,6.0,2025-02-25,review_published,B_new_version,2025-02,2025H1
+/hoka-bondi-8,200,,2023-10-24,,Cut in half: HOKA Bondi 8 Review | RunRepeat,Hoka,bondi-8,bondi,8.0,2023-10-24,review_published,B_new_version,2023-10,2023H2
+/brooks-ghost-max-2,200,,2024-11-02,,Cut in half: Brooks Ghost Max 2 Review | RunRepeat,Brooks,ghost-max-2,ghost-max,2.0,2024-11-02,review_published,B_new_version,2024-11,2024H2
+/on-cloudsurfer-2,200,,2025-06-03,,Cut in half: On Cloudsurfer 2 Review (2025) | RunRepeat,On,cloudsurfer-2,cloudsurfer,2.0,2025-06-03,review_published,B_new_version,2025-06,2025H1
+/altra-fwd-via-2,200,,2026-03-16,,Cut in half: Altra FWD VIA 2 Review (2026) | RunRepeat,Altra,fwd-via-2,fwd-via,2.0,2026-03-16,review_published,B_new_version,2026-03,2026H1
+/puma-deviate-nitro-elite-4,200,Feb 2026,2026-05-15,,Cut in half: PUMA Deviate Nitro Elite 4 Review (2026) | RunRepeat,Puma,deviate-nitro-elite-4,deviate-nitro-elite,4.0,2026-02-01,release_date_field,B_new_version,2026-02,2026H1
+/on-cloudsurfer-max,200,,2025-10-29,,Cut in half: On Cloudsurfer Max Review (2025) | RunRepeat,On,cloudsurfer-max,cloudsurfer-max,,2025-10-29,review_published,A_new_model,2025-10,2025H2
+/puma-deviate-pure-nitro,200,Jun 2026,2026-09-21,,Cut in half: PUMA Deviate Pure Nitro Review (2026) | RunRepeat,Puma,deviate-pure-nitro,deviate-pure-nitro,,2026-06-01,release_date_field,A_new_model,2026-06,2026H1
+/new-balance-fresh-foam-x-860-v-15,200,,2026-06-19,,Cut in half: New Balance Fresh Foam X 860 v15 Review (2026) | RunRepeat,New Balance,fresh-foam-x-860-v-15,fresh-foam-x-860,15.0,2026-06-19,review_published,B_new_version,2026-06,2026H1
+/salomon-aero-glide-4,200,Feb 2026,2026-05-26,,Cut in half: Salomon Aero Glide 4 Review (2026) | RunRepeat,Salomon,aero-glide-4,aero-glide,4.0,2026-02-01,release_date_field,B_new_version,2026-02,2026H1
+/nike-wildhorse-10,200,,2025-08-04,,Cut in half: Nike Wildhorse 10 Review (2025) | RunRepeat,Nike,wildhorse-10,wildhorse,10.0,2025-08-04,review_published,B_new_version,2025-08,2025H2
+/hoka-clifton-pro,200,Jul 2026,2026-09-03,,Cut in half: HOKA Clifton PRO Review (2026) | RunRepeat,Hoka,clifton-pro,clifton-pro,,2026-07-01,release_date_field,A_new_model,2026-07,2026H2
+/adidas-duramo-speed-2,200,,2026-02-19,,Cut in half: adidas Duramo Speed 2 Review (2026) | RunRepeat,adidas,duramo-speed-2,duramo-speed,2.0,2026-02-19,review_published,B_new_version,2026-02,2026H1
+/adidas-adizero-adios-pro-evo-2,200,,2025-12-03,,Cut in half: adidas Adizero Adios Pro Evo 2 Review (2025) | RunRepeat,adidas,adizero-adios-pro-evo-2,adizero-adios-pro-evo,2.0,2025-12-03,review_published,B_new_version,2025-12,2025H2
+/merrell-agility-peak-5,200,,2024-01-05,,Cut in half: Merrell Agility Peak 5 Review | RunRepeat,Other,merrell-agility-peak-5,merrell-agility-peak,5.0,2024-01-05,review_published,B_new_version,2024-01,2024H1
+/puma-velocity-nitro-5,200,Jul 2026,2026-09-25,,Cut in half: PUMA Velocity Nitro 5 Review (2026) | RunRepeat,Puma,velocity-nitro-5,velocity-nitro,5.0,2026-07-01,release_date_field,B_new_version,2026-07,2026H2
+/salomon-speedcross-6,200,Sep 2022,2023-12-04,,Cut in half: Salomon Speedcross 6 Review | RunRepeat,Salomon,speedcross-6,speedcross,6.0,2022-09-01,release_date_field,B_new_version,2022-09,2022H2
+/asics-gel-cumulus-27,200,,2025-05-05,,Cut in half: ASICS Gel Cumulus 27 Review (2025) | RunRepeat,ASICS,gel-cumulus-27,gel-cumulus,27.0,2025-05-05,review_published,B_new_version,2025-05,2025H1
+/new-balance-fresh-foam-x-880-v-14,200,,2024-10-17,,Cut in half: New Balance Fresh Foam X 880 v14 Review | RunRepeat,New Balance,fresh-foam-x-880-v-14,fresh-foam-x-880,14.0,2024-10-17,review_published,B_new_version,2024-10,2024H2
+/puma-magmax-nitro,200,,2024-10-09,,Cut in half: PUMA MagMax Nitro Review | RunRepeat,Puma,magmax-nitro,magmax-nitro,,2024-10-09,review_published,A_new_model,2024-10,2024H2
+/adidas-hyperboost-run,200,,2026-07-21,,Cut in half: adidas Hyperboost Run Review (2026) | RunRepeat,adidas,hyperboost-run,hyperboost-run,,2026-07-21,review_published,A_new_model,2026-07,2026H2
+/new-balance-ellipse,200,Mar 2026,2026-06-19,,Cut in half: New Balance Ellipse Review (2026) | RunRepeat,New Balance,ellipse,ellipse,,2026-03-01,release_date_field,A_new_model,2026-03,2026H1
+/altra-torin-9,200,,2026-09-23,,Cut in half: Altra Torin 9 Review (2026) | RunRepeat,Altra,torin-9,torin,9.0,2026-09-23,review_published,B_new_version,2026-09,2026H2
+/on-cloudrunner-3,200,,2026-06-01,,Cut in half: On Cloudrunner 3 Review (2026) | RunRepeat,On,cloudrunner-3,cloudrunner,3.0,2026-06-01,review_published,B_new_version,2026-06,2026H1
+/brooks-adrenaline-gts-24,200,,2025-03-19,,Cut in half: Brooks Adrenaline GTS 24 Review (2025) | RunRepeat,Brooks,adrenaline-gts-24,adrenaline-gts,24.0,2025-03-19,review_published,B_new_version,2025-03,2025H1
+/brooks-glycerin-gts-21,200,,2024-05-09,,Cut in half: Brooks Glycerin GTS 21 Review | RunRepeat,Brooks,glycerin-gts-21,glycerin-gts,21.0,2024-05-09,review_published,B_new_version,2024-05,2024H1
+/saucony-endorphin-elite-3,200,Jun 2026,2026-07-20,,Cut in half: Saucony Endorphin Elite 3 Review (2026) | RunRepeat,Saucony,endorphin-elite-3,endorphin-elite,3.0,2026-06-01,release_date_field,B_new_version,2026-06,2026H1
+/brooks-hyperion-elite-6,200,,2026-10-13,,Cut in half: Brooks Hyperion Elite 6 Review (2026) | RunRepeat,Brooks,hyperion-elite-6,hyperion-elite,6.0,2026-10-13,review_published,B_new_version,2026-10,2026H2
+/asics-gel-pulse-17,200,,2026-07-28,,Cut in half: ASICS Gel Pulse 17 Review (2026) | RunRepeat,ASICS,gel-pulse-17,gel-pulse,17.0,2026-07-28,review_published,B_new_version,2026-07,2026H2
+/adidas-terrex-agravic-speed-ultra-2,200,,2026-07-09,,Cut in half: adidas Terrex Agravic Speed Ultra 2 Review (2026) | RunRepeat,adidas,terrex-agravic-speed-ultra-2,terrex-agravic-speed-ultra,2.0,2026-07-09,review_published,B_new_version,2026-07,2026H2
+/mizuno-wave-inspire-22,200,,2026-04-03,,Cut in half: Mizuno Wave Inspire 22 Review (2026) | RunRepeat,Mizuno,wave-inspire-22,wave-inspire,22.0,2026-04-03,review_published,B_new_version,2026-04,2026H1
+/on-cloudmonster-3-hyper,200,Mar 2026,2026-03-31,,Cut in half: On Cloudmonster 3 Hyper Review (2026) | RunRepeat,On,cloudmonster-3-hyper,cloudmonster-3-hyper,,2026-03-01,release_date_field,A_new_model,2026-03,2026H1
+/asics-metaspeed-edge-tokyo,200,,2025-09-02,,Cut in half: ASICS Metaspeed Edge Tokyo Review (2025) | RunRepeat,ASICS,metaspeed-edge-tokyo,metaspeed-edge-tokyo,,2025-09-02,review_published,A_new_model,2025-09,2025H2
+/saucony-hurricane-24,200,,2024-08-29,,Cut in half: Saucony Hurricane 24 Review | RunRepeat,Saucony,hurricane-24,hurricane,24.0,2024-08-29,review_published,B_new_version,2024-08,2024H2
+/puma-deviate-nitro-4,200,Feb 2026,2026-05-21,,Cut in half: PUMA Deviate Nitro 4 Review (2026) | RunRepeat,Puma,deviate-nitro-4,deviate-nitro,4.0,2026-02-01,release_date_field,B_new_version,2026-02,2026H1
+/puma-magnify-nitro-3,200,,2025-12-10,,Cut in half: PUMA Magnify Nitro 3 Review (2025) | RunRepeat,Puma,magnify-nitro-3,magnify-nitro,3.0,2025-12-10,review_published,B_new_version,2025-12,2025H2
+/hoka-rocket-x-3,200,,2025-09-22,,Cut in half: HOKA Rocket X 3 Review (2025) | RunRepeat,Hoka,rocket-x-3,rocket-x,3.0,2025-09-22,review_published,B_new_version,2025-09,2025H2
+/adidas-supernova-rise-3-adaptive,200,,2026-08-22,,Cut in half: adidas Supernova Rise 3 Adaptive Review (2026) | RunRepeat,adidas,supernova-rise-3-adaptive,supernova-rise-3-adaptive,,2026-08-22,review_published,A_new_model,2026-08,2026H2
+/on-cloudboom-strike,200,,2025-08-12,,Cut in half: On Cloudboom Strike Review (2025) | RunRepeat,On,cloudboom-strike,cloudboom-strike,,2025-08-12,review_published,A_new_model,2025-08,2025H2
+/topo-ultrafly-6,200,,2026-08-02,,Cut in half: Topo Ultrafly 6 Review (2026) | RunRepeat,Other,topo-ultrafly-6,topo-ultrafly,6.0,2026-08-02,review_published,B_new_version,2026-08,2026H2
+/salomon-xa-pro-3d-v9-gtx,200,,2024-02-10,,Cut in half: Salomon XA Pro 3D v9 GTX Review | RunRepeat,Salomon,xa-pro-3d-v9-gtx,xa-pro-3d,9.0,2024-02-10,review_published,B_new_version,2024-02,2024H1
+/asics-gel-excite-11,200,,2025-12-21,,Cut in half: ASICS Gel Excite 11 Review (2025) | RunRepeat,ASICS,gel-excite-11,gel-excite,11.0,2025-12-21,review_published,B_new_version,2025-12,2025H2
+/saucony-guide-18,200,,2025-03-12,,Cut in half: Saucony Guide 18 Review (2025) | RunRepeat,Saucony,guide-18,guide,18.0,2025-03-12,review_published,B_new_version,2025-03,2025H1
+/hoka-rincon-4,200,,2024-08-08,,Cut in half: HOKA Rincon 4 Review | RunRepeat,Hoka,rincon-4,rincon,4.0,2024-08-08,review_published,B_new_version,2024-08,2024H2
+/new-balance-fuel-cell-super-comp-elite-v-4,200,,2024-03-14,,Cut in half: New Balance FuelCell SuperComp Elite v4 Review | RunRepeat,New Balance,fuel-cell-super-comp-elite-v-4,fuel-cell-super-comp-elite,4.0,2024-03-14,review_published,B_new_version,2024-03,2024H1
+/nike-journey-run,200,,2024-10-25,,Cut in half: Nike Journey Run Review | RunRepeat,Nike,journey-run,journey-run,,2024-10-25,review_published,A_new_model,2024-10,2024H2
+/hoka-gaviota-6,200,,2026-03-12,,Cut in half: HOKA Gaviota 6 Review (2026) | RunRepeat,Hoka,gaviota-6,gaviota,6.0,2026-03-12,review_published,B_new_version,2026-03,2026H1
+/puma-foreverrun-nitro-2,200,,2025-08-23,,Cut in half: PUMA ForeverRun Nitro 2 Review (2025) | RunRepeat,Puma,foreverrun-nitro-2,foreverrun-nitro,2.0,2025-08-23,review_published,B_new_version,2025-08,2025H2
+/adidas-adizero-adios-pro-3,200,Jun 2022,2023-07-31,,Cut in half: adidas Adizero Adios Pro 3 Review | RunRepeat,adidas,adizero-adios-pro-3,adizero-adios-pro,3.0,2022-06-01,release_date_field,B_new_version,2022-06,2022H1
+/puma-deviate-nitro-2,200,,2022-10-13,,Cut in half: PUMA Deviate Nitro 2 Review | RunRepeat,Puma,deviate-nitro-2,deviate-nitro,2.0,2022-10-13,review_published,B_new_version,2022-10,2022H2
+/nike-pegasus-trail-5,200,,2024-06-28,,Cut in half: Nike Pegasus Trail 5 Review | RunRepeat,Nike,pegasus-trail-5,pegasus-trail,5.0,2024-06-28,review_published,B_new_version,2024-06,2024H1
+/asics-gel-cumulus-28,200,,2026-05-07,,Cut in half: ASICS Gel Cumulus 28 Review (2026) | RunRepeat,ASICS,gel-cumulus-28,gel-cumulus,28.0,2026-05-07,review_published,B_new_version,2026-05,2026H1
+/adidas-supernova-prima,200,,2024-10-27,,Cut in half: adidas Supernova Prima Review | RunRepeat,adidas,supernova-prima,supernova-prima,,2024-10-27,review_published,A_new_model,2024-10,2024H2
+/brooks-revel-8,200,,2025-12-07,,Cut in half: Brooks Revel 8 Review (2025) | RunRepeat,Brooks,revel-8,revel,8.0,2025-12-07,review_published,B_new_version,2025-12,2025H2
+/brooks-ghost-max-4,200,Aug 2026,2026-07-22,,Cut in half: Brooks Ghost Max 4 Review (2026) | RunRepeat,Brooks,ghost-max-4,ghost-max,4.0,2026-08-01,release_date_field,B_new_version,2026-08,2026H2
+/brooks-cascadia-19,200,,2025-11-12,,Cut in half: Brooks Cascadia 19 Review (2025) | RunRepeat,Brooks,cascadia-19,cascadia,19.0,2025-11-12,review_published,B_new_version,2025-11,2025H2
+/nike-structure-25,200,,2024-02-26,,Cut in half: Nike Structure 25 Review | RunRepeat,Nike,structure-25,structure,25.0,2024-02-26,review_published,B_new_version,2024-02,2024H1
+/on-cloudswift-4,200,,2025-08-18,,Cut in half: On Cloudswift 4 Review (2025) | RunRepeat,On,cloudswift-4,cloudswift,4.0,2025-08-18,review_published,B_new_version,2025-08,2025H2
+/asics-sonicblast,200,,2025-10-22,,Cut in half: ASICS Sonicblast Review (2025) | RunRepeat,ASICS,sonicblast,sonicblast,,2025-10-22,review_published,A_new_model,2025-10,2025H2
+/altra-experience-wild-2,200,,2025-11-16,,Cut in half: Altra Experience Wild 2 Review (2025) | RunRepeat,Altra,experience-wild-2,experience-wild,2.0,2025-11-16,review_published,B_new_version,2025-11,2025H2
+/altra-timp-6,200,,2026-07-10,,Cut in half: Altra Timp 6 Review (2026) | RunRepeat,Altra,timp-6,timp,6.0,2026-07-10,review_published,B_new_version,2026-07,2026H2
+/asics-gel-venture-11,200,Jan 2026,2026-07-30,,Cut in half: ASICS Gel Venture 11 Review (2026) | RunRepeat,ASICS,gel-venture-11,gel-venture,11.0,2026-01-01,release_date_field,B_new_version,2026-01,2026H1
+/adidas-supernova-prima-2,200,Jan 2026,2026-03-20,,Cut in half: adidas Supernova Prima 2 Review (2026) | RunRepeat,adidas,supernova-prima-2,supernova-prima,2.0,2026-01-01,release_date_field,B_new_version,2026-01,2026H1
+/nike-zoom-x-invincible-run-flyknit-3,200,,2023-02-16,,Cut in half: Nike Invincible 3 Review | RunRepeat,Nike,zoom-x-invincible-run-flyknit-3,zoom-x-invincible-run-flyknit,3.0,2023-02-16,review_published,B_new_version,2023-02,2023H1
+/nike-flex-experience-run-12,200,,2024-02-09,,Cut in half: Nike Flex Experience Run 12 Review | RunRepeat,Nike,flex-experience-run-12,flex-experience-run,12.0,2024-02-09,review_published,B_new_version,2024-02,2024H1
+/asics-versablast-4,200,,2025-05-20,,Cut in half: ASICS Versablast 4 Review (2025) | RunRepeat,ASICS,versablast-4,versablast,4.0,2025-05-20,review_published,B_new_version,2025-05,2025H1
+/hoka-stinson-7,200,Aug 2023,2023-09-11,,Cut in half: HOKA Stinson 7 Review | RunRepeat,Hoka,stinson-7,stinson,7.0,2023-08-01,release_date_field,B_new_version,2023-08,2023H2
+/adidas-adizero-evo-sl-atr,200,,2026-02-05,,Cut in half: adidas Adizero EVO SL ATR Review (2026) | RunRepeat,adidas,adizero-evo-sl-atr,adizero-evo-sl-atr,,2026-02-05,review_published,A_new_model,2026-02,2026H1
+/puma-velocity-nitro-3,200,,2024-03-24,,Cut in half: PUMA Velocity Nitro 3 Review | RunRepeat,Puma,velocity-nitro-3,velocity-nitro,3.0,2024-03-24,review_published,B_new_version,2024-03,2024H1
+/saucony-xodus-ultra-4,200,,2025-11-15,,Cut in half: Saucony Xodus Ultra 4 Review (2025) | RunRepeat,Saucony,xodus-ultra-4,xodus-ultra,4.0,2025-11-15,review_published,B_new_version,2025-11,2025H2
+/new-balance-fresh-foam-more-v-4,200,,2022-09-24,,Cut in half: New Balance Fresh Foam X More v4 Review | RunRepeat,New Balance,fresh-foam-more-v-4,fresh-foam-more,4.0,2022-09-24,review_published,B_new_version,2022-09,2022H2
+/brooks-ghost-trail,200,,2026-05-24,,Cut in half: Brooks Ghost Trail Review (2026) | RunRepeat,Brooks,ghost-trail,ghost-trail,,2026-05-24,review_published,A_new_model,2026-05,2026H1
+/topo-athletic-atmos,200,,2025-02-05,,Cut in half: Topo Atmos Review (2025) | RunRepeat,Topo,atmos,atmos,,2025-02-05,review_published,A_new_model,2025-02,2025H1
+/brooks-hyperion-max-4,200,Jul 2026,2026-07-24,,Cut in half: Brooks Hyperion Max 4 Review (2026) | RunRepeat,Brooks,hyperion-max-4,hyperion-max,4.0,2026-07-01,release_date_field,B_new_version,2026-07,2026H2
+/saucony-hurricane-26,200,,2026-09-07,,Cut in half: Saucony Hurricane 26 Review (2026) | RunRepeat,Saucony,hurricane-26,hurricane,26.0,2026-09-07,review_published,B_new_version,2026-09,2026H2
+/topo-athletic-specter-2,200,,2026-01-16,,Cut in half: Topo Specter 2 Review (2026) | RunRepeat,Topo,specter-2,specter,2.0,2026-01-16,review_published,B_new_version,2026-01,2026H1
+/saucony-peregrine-16,200,,2026-06-09,,Cut in half: Saucony Peregrine 16 Review (2026) | RunRepeat,Saucony,peregrine-16,peregrine,16.0,2026-06-09,review_published,B_new_version,2026-06,2026H1
+/saucony-endorphin-speed-3,200,,2023-10-26,,Cut in half: Saucony Endorphin Speed 3 Review | RunRepeat,Saucony,endorphin-speed-3,endorphin-speed,3.0,2023-10-26,review_published,B_new_version,2023-10,2023H2
+/brooks-glycerin-20,200,Jul 2022,2023-10-25,,Cut in half: Brooks Glycerin 20 Review | RunRepeat,Brooks,glycerin-20,glycerin,20.0,2022-07-01,release_date_field,B_new_version,2022-07,2022H2
+/n-normal-kjerag,200,,2024-11-12,,Cut in half: NNormal Kjerag Review | RunRepeat,Other,n-normal-kjerag,n-normal-kjerag,,2024-11-12,review_published,A_new_model,2024-11,2024H2
+/asics-gt-2000-13,200,,2024-10-04,,Cut in half: ASICS GT 2000 13 Review | RunRepeat,ASICS,gt-2000-13,gt-2000,13.0,2024-10-04,review_published,B_new_version,2024-10,2024H2
+/asics-trabuco-max-4,200,,2025-09-26,,Cut in half: ASICS Trabuco Max 4 Review (2025) | RunRepeat,ASICS,trabuco-max-4,trabuco-max,4.0,2025-09-26,review_published,B_new_version,2025-09,2025H2
+/on-cloudultra-pro,200,Jun 2025,2026-08-05,,Cut in half: On Cloudultra Pro Review (2026) | RunRepeat,On,cloudultra-pro,cloudultra-pro,,2025-06-01,release_date_field,A_new_model,2025-06,2025H1
+/nike-pegasus-trail-5-gtx,200,,2024-12-14,,Cut in half: Nike Pegasus Trail 5 GTX Review | RunRepeat,Nike,pegasus-trail-5-gtx,pegasus-trail,5.0,2024-12-14,review_published,B_new_version,2024-12,2024H2
+/nike-vomero-17,200,,2024-02-06,,Cut in half: Nike Vomero 17 Review | RunRepeat,Nike,vomero-17,vomero,17.0,2024-02-06,review_published,B_new_version,2024-02,2024H1
+/nike-react-infinity-run-flyknit-3,200,Apr 2022,2022-05-05,,Cut in half: Nike React Infinity Run Flyknit 3 Review | RunRepeat,Nike,react-infinity-run-flyknit-3,react-infinity-run-flyknit,3.0,2022-04-01,release_date_field,B_new_version,2022-04,2022H1
+/new-balance-fuelcell-propel-v5,200,,2024-09-08,,Cut in half: New Balance FuelCell Propel v5 Review | RunRepeat,New Balance,fuelcell-propel-v5,fuelcell-propel,5.0,2024-09-08,review_published,B_new_version,2024-09,2024H2
+/saucony-ride-17,200,,2024-02-18,,Cut in half: Saucony Ride 17 Review | RunRepeat,Saucony,ride-17,ride,17.0,2024-02-18,review_published,B_new_version,2024-02,2024H1
+/on-cloudrunner-2,200,,2024-06-23,,Cut in half: On Cloudrunner 2 Review | RunRepeat,On,cloudrunner-2,cloudrunner,2.0,2024-06-23,review_published,B_new_version,2024-06,2024H1
+/altra-experience-flow-3,200,,2026-05-05,,Cut in half: Altra Experience Flow 3 Review (2026) | RunRepeat,Altra,experience-flow-3,experience-flow,3.0,2026-05-05,review_published,B_new_version,2026-05,2026H1
+/nike-downshifter-13,200,,2024-08-15,,Cut in half: Nike Downshifter 13 Review | RunRepeat,Nike,downshifter-13,downshifter,13.0,2024-08-15,review_published,B_new_version,2024-08,2024H2
+/diadora-cellula,200,,2025-08-11,,Cut in half: Diadora Cellula Review (2025) | RunRepeat,Other,diadora-cellula,diadora-cellula,,2025-08-11,review_published,A_new_model,2025-08,2025H2
+/on-cloudboom-max,200,,2026-01-14,,Cut in half: On Cloudboom Max Review (2026) | RunRepeat,On,cloudboom-max,cloudboom-max,,2026-01-14,review_published,A_new_model,2026-01,2026H1
+/hoka-skyward-x-2,200,,2026-07-06,,Cut in half: HOKA Skyward X 2 Review (2026) | RunRepeat,Hoka,skyward-x-2,skyward-x,2.0,2026-07-06,review_published,B_new_version,2026-07,2026H2
+/hoka-rocket-x-2,200,Mar 2023,2023-09-27,,Cut in half: HOKA Rocket X 2 Review | RunRepeat,Hoka,rocket-x-2,rocket-x,2.0,2023-03-01,release_date_field,B_new_version,2023-03,2023H1
+/brooks-launch-12,200,,2026-06-02,,Cut in half: Brooks Launch 12 Review (2026) | RunRepeat,Brooks,launch-12,launch,12.0,2026-06-02,review_published,B_new_version,2026-06,2026H1
+/on-cloudmonster-hyper,200,,2024-05-27,,Cut in half: On Cloudmonster Hyper Review | RunRepeat,On,cloudmonster-hyper,cloudmonster-hyper,,2024-05-27,review_published,A_new_model,2024-05,2024H1
+/diadora-atomo-star,200,,2025-08-10,,Cut in half: Diadora Atomo Star Review (2025) | RunRepeat,Other,diadora-atomo-star,diadora-atomo-star,,2025-08-10,review_published,A_new_model,2025-08,2025H2
+/adidas-ultraboost-5,200,,2024-08-11,,Cut in half: adidas Ultraboost 5 Review | RunRepeat,adidas,ultraboost-5,ultraboost,5.0,2024-08-11,review_published,B_new_version,2024-08,2024H2
+/keen-seek,200,,2025-10-17,,Cut in half: KEEN Seek Review (2025) | RunRepeat,Other,keen-seek,keen-seek,,2025-10-17,review_published,A_new_model,2025-10,2025H2
+/brooks-cascadia-20,200,Jul 2026,2026-07-26,,Cut in half: Brooks Cascadia 20 Review (2026) | RunRepeat,Brooks,cascadia-20,cascadia,20.0,2026-07-01,release_date_field,B_new_version,2026-07,2026H2
+/brooks-ghost-max,200,,2024-01-15,,Cut in half: Brooks Ghost Max Review | RunRepeat,Brooks,ghost-max,ghost-max,,2024-01-15,review_published,A_new_model,2024-01,2024H1
+/nike-pegasus-40,200,Apr 2023,2023-10-25,,Cut in half: Nike Pegasus 40 Review | RunRepeat,Nike,pegasus-40,pegasus,40.0,2023-04-01,release_date_field,B_new_version,2023-04,2023H1
+/mount-to-coast-m-1,200,Aug 2026,2026-08-11,,Cut in half: Mount to Coast M1 Review (2026) | RunRepeat,Other,mount-to-coast-m-1,mount-to-coast-m,1.0,2026-08-01,release_date_field,A_new_model,2026-08,2026H2
+/topo-phantom-4,200,,2026-02-28,,Cut in half: Topo Phantom 4 Review (2026) | RunRepeat,Other,topo-phantom-4,topo-phantom,4.0,2026-02-28,review_published,B_new_version,2026-02,2026H1
+/asics-trabuco-14,200,,2026-03-14,,Cut in half: ASICS Trabuco 14 Review (2026) | RunRepeat,ASICS,trabuco-14,trabuco,14.0,2026-03-14,review_published,B_new_version,2026-03,2026H1
+/adidas-supernova-solution,200,,2024-12-17,,Cut in half: adidas Supernova Solution Review | RunRepeat,adidas,supernova-solution,supernova-solution,,2024-12-17,review_published,A_new_model,2024-12,2024H2
+/adidas-adizero-adios-pro-5,200,Sep 2026,2026-10-06,,Cut in half: adidas Adizero Adios Pro 5 Review (2026) | RunRepeat,adidas,adizero-adios-pro-5,adizero-adios-pro,5.0,2026-09-01,release_date_field,B_new_version,2026-09,2026H2
+/skechers-aero-tempo,200,May 2025,2026-01-27,,Cut in half: Skechers Aero Tempo Review (2026) | RunRepeat,Skechers,aero-tempo,aero-tempo,,2025-05-01,release_date_field,A_new_model,2025-05,2025H1
+/salomon-aero-glide-3,200,,2025-06-01,,Cut in half: Salomon Aero Glide 3 Review (2025) | RunRepeat,Salomon,aero-glide-3,aero-glide,3.0,2025-06-01,review_published,B_new_version,2025-06,2025H1
+/on-cloudflyer-5,200,,2024-10-31,,Cut in half: On Cloudflyer 5 Review | RunRepeat,On,cloudflyer-5,cloudflyer,5.0,2024-10-31,review_published,B_new_version,2024-10,2024H2
+/saucony-peregrine-15,200,,2025-08-06,,Cut in half: Saucony Peregrine 15 Review (2025) | RunRepeat,Saucony,peregrine-15,peregrine,15.0,2025-08-06,review_published,B_new_version,2025-08,2025H2
+/asics-novablast-4,200,,2023-12-25,,Cut in half: ASICS Novablast 4 Review | RunRepeat,ASICS,novablast-4,novablast,4.0,2023-12-25,review_published,B_new_version,2023-12,2023H2
+/nike-winflo-11,200,,2024-06-21,,Cut in half: Nike Winflo 11 Review | RunRepeat,Nike,winflo-11,winflo,11.0,2024-06-21,review_published,B_new_version,2024-06,2024H1
+/adidas-terrex-agravic-speed,200,Feb 2017,2026-06-04,,Cut in half: adidas Terrex Agravic Speed Review (2026) | RunRepeat,adidas,terrex-agravic-speed,terrex-agravic-speed,,2017-02-01,release_date_field,A_new_model,2017-02,2017H1
+/new-balance-fresh-foam-x-kaiha-road,200,,2023-10-31,,Cut in half: New Balance Fresh Foam X Kaiha Road Review | RunRepeat,New Balance,fresh-foam-x-kaiha-road,fresh-foam-x-kaiha-road,,2023-10-31,review_published,A_new_model,2023-10,2023H2
+/nike-zoom-x-vaporfly-next-2,200,,2021-03-13,,Cut in half: Nike ZoomX Vaporfly NEXT% 2 Review | RunRepeat,Nike,zoom-x-vaporfly-next-2,zoom-x-vaporfly-next,2.0,2021-03-13,review_published,B_new_version,2021-03,2021H1
+/brooks-glycerin-21,200,,2024-05-09,,Cut in half: Brooks Glycerin 21 Review | RunRepeat,Brooks,glycerin-21,glycerin,21.0,2024-05-09,review_published,B_new_version,2024-05,2024H1
+/topo-cyclone-3,200,,2026-07-29,,Cut in half: Topo Cyclone 3 Review (2026) | RunRepeat,Other,topo-cyclone-3,topo-cyclone,3.0,2026-07-29,review_published,B_new_version,2026-07,2026H2
+/asics-gt-1000-14,200,,2025-08-05,,Cut in half: ASICS GT 1000 14 Review (2025) | RunRepeat,ASICS,gt-1000-14,gt-1000,14.0,2025-08-05,review_published,B_new_version,2025-08,2025H2
+/altra-escalante-racer-2,200,,2024-05-31,,Cut in half: Altra Escalante Racer 2 Review | RunRepeat,Altra,escalante-racer-2,escalante-racer,2.0,2024-05-31,review_published,B_new_version,2024-05,2024H1
+/hoka-rocket-x-trail,200,,2026-10-08,,Cut in half: HOKA Rocket X Trail Review (2026) | RunRepeat,Hoka,rocket-x-trail,rocket-x-trail,,2026-10-08,review_published,A_new_model,2026-10,2026H2
+/adidas-ultraboost-light,200,,2023-08-10,,Cut in half: adidas Ultraboost Light Review | RunRepeat,adidas,ultraboost-light,ultraboost-light,,2023-08-10,review_published,A_new_model,2023-08,2023H2
+/vivobarefoot-primus-trail-iii-all-weather-fg,200,,2026-09-08,,Cut in half: Vivobarefoot Primus Trail III All Weather FG Review (2026) | RunRepeat,Other,vivobarefoot-primus-trail-iii-all-weather-fg,vivobarefoot-primus-trail-iii-all-weather-fg,,2026-09-08,review_published,A_new_model,2026-09,2026H2
+/merrell-agility-peak-6,200,Feb 2026,2026-02-05,,Cut in half: Merrell Agility Peak 6 Review (2026) | RunRepeat,Other,merrell-agility-peak-6,merrell-agility-peak,6.0,2026-02-01,release_date_field,B_new_version,2026-02,2026H1
+/asics-gel-kayano-31,200,,2024-07-05,,Cut in half: ASICS Gel Kayano 31 Review | RunRepeat,ASICS,gel-kayano-31,gel-kayano,31.0,2024-07-05,review_published,B_new_version,2024-07,2024H2
+/altra-fwd-via,200,,2025-08-13,,Cut in half: Altra FWD VIA Review (2025) | RunRepeat,Altra,fwd-via,fwd-via,,2025-08-13,review_published,A_new_model,2025-08,2025H2
+/saucony-endorphin-trainer,200,,2025-05-08,,Cut in half: Saucony Endorphin Trainer Review (2025) | RunRepeat,Saucony,endorphin-trainer,endorphin-trainer,,2025-05-08,review_published,A_new_model,2025-05,2025H1
+/hoka-mach-x-3,200,,2025-10-21,,Cut in half: HOKA Mach X 3 Review (2025) | RunRepeat,Hoka,mach-x-3,mach-x,3.0,2025-10-21,review_published,B_new_version,2025-10,2025H2
+/altra-experience-flow,200,,2024-08-13,,Cut in half: Altra Experience Flow Review | RunRepeat,Altra,experience-flow,experience-flow,,2024-08-13,review_published,A_new_model,2024-08,2024H2
+/nike-quest-5,200,,2022-11-21,,Cut in half: Nike Quest 5 Review | RunRepeat,Nike,quest-5,quest,5.0,2022-11-21,review_published,B_new_version,2022-11,2022H2
+/altra-paradigm-7,200,,2023-10-05,,Cut in half: Altra Paradigm 7 Review | RunRepeat,Altra,paradigm-7,paradigm,7.0,2023-10-05,review_published,B_new_version,2023-10,2023H2
+/new-balance-fresh-foam-x-880-v14-gtx,200,,2025-04-06,,Cut in half: New Balance Fresh Foam X 880 v14 GTX Review (2025) | RunRepeat,New Balance,fresh-foam-x-880-v14-gtx,fresh-foam-x-880,14.0,2025-04-06,review_published,B_new_version,2025-04,2025H1
+/altra-timp-5,200,,2024-04-04,,Cut in half: Altra Timp 5 Review | RunRepeat,Altra,timp-5,timp,5.0,2024-04-04,review_published,B_new_version,2024-04,2024H1
+/adidas-adizero-takumi-sen-11,200,,2026-01-22,,Cut in half: adidas Adizero Takumi Sen 11 Review (2026) | RunRepeat,adidas,adizero-takumi-sen-11,adizero-takumi-sen,11.0,2026-01-22,review_published,B_new_version,2026-01,2026H1
+/asics-gt-2000-12,200,,2024-01-16,,Cut in half: ASICS GT 2000 12 Review | RunRepeat,ASICS,gt-2000-12,gt-2000,12.0,2024-01-16,review_published,B_new_version,2024-01,2024H1
+/skechers-aero-razor,200,,2026-07-13,,Cut in half: Skechers Aero Razor Review (2026) | RunRepeat,Skechers,aero-razor,aero-razor,,2026-07-13,review_published,A_new_model,2026-07,2026H2
+/salomon-aero-blaze-3-grvl,200,,2026-08-18,,Cut in half: Salomon Aero Blaze 3 GRVL Review (2026) | RunRepeat,Salomon,aero-blaze-3-grvl,aero-blaze-3-grvl,,2026-08-18,review_published,A_new_model,2026-08,2026H2
+/brooks-cascadia-elite,200,Mar 2026,2026-05-24,,Cut in half: Brooks Cascadia Elite Review (2026) | RunRepeat,Brooks,cascadia-elite,cascadia-elite,,2026-03-01,release_date_field,A_new_model,2026-03,2026H1
+/saucony-triumph-21,200,,2023-09-25,,Cut in half: Saucony Triumph 21 Review | RunRepeat,Saucony,triumph-21,triumph,21.0,2023-09-25,review_published,B_new_version,2023-09,2023H2
+/new-balance-super-comp-elite-v-6,200,Aug 2026,2026-08-22,,Cut in half: New Balance SuperComp Elite v6 Review (2026) | RunRepeat,New Balance,super-comp-elite-v-6,super-comp-elite,6.0,2026-08-01,release_date_field,B_new_version,2026-08,2026H2
+/mizuno-wave-rebellion-flash-2,200,,2025-03-01,,Cut in half: Mizuno Wave Rebellion Flash 2 Review (2025) | RunRepeat,Mizuno,wave-rebellion-flash-2,wave-rebellion-flash,2.0,2025-03-01,review_published,B_new_version,2025-03,2025H1
+/saucony-triumph-22,200,,2024-07-02,,Cut in half: Saucony Triumph 22 Review | RunRepeat,Saucony,triumph-22,triumph,22.0,2024-07-02,review_published,B_new_version,2024-07,2024H2
+/puma-deviate-nitro-elite,200,Apr 2021,2023-06-26,,Cut in half: PUMA Deviate Nitro Elite Review | RunRepeat,Puma,deviate-nitro-elite,deviate-nitro-elite,,2021-04-01,release_date_field,A_new_model,2021-04,2021H1
+/asics-glideride-max,200,,2025-01-30,,Cut in half: ASICS Glideride Max Review (2025) | RunRepeat,ASICS,glideride-max,glideride-max,,2025-01-30,review_published,A_new_model,2025-01,2025H1
+/merrell-nova-3,200,,2023-12-11,,Cut in half: Merrell Nova 3 Review | RunRepeat,Other,merrell-nova-3,merrell-nova,3.0,2023-12-11,review_published,B_new_version,2023-12,2023H2
+/altra-torin-7,200,,2023-09-11,,Cut in half: Altra Torin 7 Review | RunRepeat,Altra,torin-7,torin,7.0,2023-09-11,review_published,B_new_version,2023-09,2023H2
+/new-balance-fresh-foam-x-hierro-v-8,200,,2024-05-29,,Cut in half: New Balance Fresh Foam X Hierro v8 Review | RunRepeat,New Balance,fresh-foam-x-hierro-v-8,fresh-foam-x-hierro,8.0,2024-05-29,review_published,B_new_version,2024-05,2024H1
+/brooks-hyperion-max,200,,2023-10-23,,Cut in half: Brooks Hyperion Max Review | RunRepeat,Brooks,hyperion-max,hyperion-max,,2023-10-23,review_published,A_new_model,2023-10,2023H2
+/mount-to-coast-h-1,200,,2026-03-12,,Cut in half: Mount to Coast H1 Review (2026) | RunRepeat,Other,mount-to-coast-h-1,mount-to-coast-h,1.0,2026-03-12,review_published,A_new_model,2026-03,2026H1
+/adidas-supernova-solution-3,200,,2026-03-21,,Cut in half: adidas Supernova Solution 3 Review (2026) | RunRepeat,adidas,supernova-solution-3,supernova-solution,3.0,2026-03-21,review_published,B_new_version,2026-03,2026H1
+/altra-experience-form,200,,2024-10-30,,Cut in half: Altra Experience Form Review | RunRepeat,Altra,experience-form,experience-form,,2024-10-30,review_published,A_new_model,2024-10,2024H2
+/brooks-glycerin-stealthfit-21,200,,2024-05-11,,Cut in half: Brooks Glycerin StealthFit 21 Review | RunRepeat,Brooks,glycerin-stealthfit-21,glycerin-stealthfit,21.0,2024-05-11,review_published,B_new_version,2024-05,2024H1
+/nike-kiger-10,200,,2025-11-20,,Cut in half: Nike Kiger 10 Review (2025) | RunRepeat,Nike,kiger-10,kiger,10.0,2025-11-20,review_published,B_new_version,2025-11,2025H2
+/adidas-ultraboost-22,200,Dec 2021,2021-12-20,,Cut in half: adidas Ultraboost 22 Review | RunRepeat,adidas,ultraboost-22,ultraboost,22.0,2021-12-01,release_date_field,B_new_version,2021-12,2021H2
+/under-armour-infinite-pro,200,,2025-09-30,,Cut in half: Under Armour Infinite Pro Review (2025) | RunRepeat,Under Armour,infinite-pro,infinite-pro,,2025-09-30,review_published,A_new_model,2025-09,2025H2
+/la-sportiva-prodigio-pro,200,Mar 2025,2026-03-17,,Cut in half: La Sportiva Prodigio Pro Review (2026) | RunRepeat,Other,la-sportiva-prodigio-pro,la-sportiva-prodigio-pro,,2025-03-01,release_date_field,A_new_model,2025-03,2025H1
+/asics-dynablast-5,200,,2025-08-16,,Cut in half: ASICS Dynablast 5 Review (2025) | RunRepeat,ASICS,dynablast-5,dynablast,5.0,2025-08-16,review_published,B_new_version,2025-08,2025H2
+/altra-olympus-275,200,,2025-12-24,,Cut in half: Altra Olympus 275 Review (2025) | RunRepeat,Altra,olympus-275,olympus,275.0,2025-12-24,review_published,B_new_version,2025-12,2025H2
+/adidas-adizero-adios-9,200,,2025-05-13,,Cut in half: adidas Adizero Adios 9 Review (2025) | RunRepeat,adidas,adizero-adios-9,adizero-adios,9.0,2025-05-13,review_published,B_new_version,2025-05,2025H1
+/hoka-mafate-5,200,,2025-10-25,,Cut in half: HOKA Mafate 5 Review (2025) | RunRepeat,Hoka,mafate-5,mafate,5.0,2025-10-25,review_published,B_new_version,2025-10,2025H2
+/puma-velocity-nitro-2,200,Mar 2022,2022-02-09,,Cut in half: PUMA Velocity Nitro 2 Review | RunRepeat,Puma,velocity-nitro-2,velocity-nitro,2.0,2022-03-01,release_date_field,B_new_version,2022-03,2022H1
+/puma-mag-max-nitro-2,200,Dec 2025,2026-03-11,,Cut in half: PUMA MagMax Nitro 2 Review (2026) | RunRepeat,Puma,mag-max-nitro-2,mag-max-nitro,2.0,2025-12-01,release_date_field,B_new_version,2025-12,2025H2
+/hoka-stinson-8,200,,2026-09-28,,Cut in half: HOKA Stinson 8 Review (2026) | RunRepeat,Hoka,stinson-8,stinson,8.0,2026-09-28,review_published,B_new_version,2026-09,2026H2
+/adidas-terrex-agravic-sl,200,Jun 2026,2026-08-11,,Cut in half: adidas Terrex Agravic SL Review (2026) | RunRepeat,adidas,terrex-agravic-sl,terrex-agravic-sl,,2026-06-01,release_date_field,A_new_model,2026-06,2026H1
+/mizuno-neo-vista-3,200,,2026-07-22,,Cut in half: Mizuno Neo Vista 3 Review (2026) | RunRepeat,Mizuno,neo-vista-3,neo-vista,3.0,2026-07-22,review_published,B_new_version,2026-07,2026H2
+/on-cloudsurfer-trail-2,200,,2026-01-21,,Cut in half: On Cloudsurfer Trail 2 Review (2026) | RunRepeat,On,cloudsurfer-trail-2,cloudsurfer-trail,2.0,2026-01-21,review_published,B_new_version,2026-01,2026H1
+/mizuno-wave-sky-9,200,Jul 2025,2026-01-21,,Cut in half: Mizuno Wave Sky 9 Review (2026) | RunRepeat,Mizuno,wave-sky-9,wave-sky,9.0,2025-07-01,release_date_field,B_new_version,2025-07,2025H2
+/puma-deviate-nitro-elite-3,200,,2024-10-08,,Cut in half: PUMA Deviate Nitro Elite 3 Review | RunRepeat,Puma,deviate-nitro-elite-3,deviate-nitro-elite,3.0,2024-10-08,review_published,B_new_version,2024-10,2024H2
+/mizuno-wave-rider-30,200,Jun 2026,2026-09-24,,Cut in half: Mizuno Wave Rider 30 Review (2026) | RunRepeat,Mizuno,wave-rider-30,wave-rider,30.0,2026-06-01,release_date_field,B_new_version,2026-06,2026H1
+/saucony-kinvara-15,200,,2024-09-06,,Cut in half: Saucony Kinvara 15 Review | RunRepeat,Saucony,kinvara-15,kinvara,15.0,2024-09-06,review_published,B_new_version,2024-09,2024H2
+/teva-hurricane-trailsetter,200,,2026-04-01,,Cut in half: Teva Hurricane Trailsetter Review (2026) | RunRepeat,Other,teva-hurricane-trailsetter,teva-hurricane-trailsetter,,2026-04-01,review_published,A_new_model,2026-04,2026H1
+/asics-metaspeed-ray,200,,2025-09-22,,Cut in half: ASICS Metaspeed Ray Review (2025) | RunRepeat,ASICS,metaspeed-ray,metaspeed-ray,,2025-09-22,review_published,A_new_model,2025-09,2025H2
+/asics-gel-cumulus-26,200,,2024-04-25,,Cut in half: ASICS Gel Cumulus 26 Review | RunRepeat,ASICS,gel-cumulus-26,gel-cumulus,26.0,2024-04-25,review_published,B_new_version,2024-04,2024H1
+/brooks-hyperion-3,200,,2025-12-08,,Cut in half: Brooks Hyperion 3 Review (2025) | RunRepeat,Brooks,hyperion-3,hyperion,3.0,2025-12-08,review_published,B_new_version,2025-12,2025H2
+/topo-ultrafly-5,200,,2026-01-17,,Cut in half: Topo Ultrafly 5 Review (2026) | RunRepeat,Other,topo-ultrafly-5,topo-ultrafly,5.0,2026-01-17,review_published,B_new_version,2026-01,2026H1
+/on-cloudstratus-3,200,,2023-10-02,,Cut in half: On Cloudstratus 3 Review | RunRepeat,On,cloudstratus-3,cloudstratus,3.0,2023-10-02,review_published,B_new_version,2023-10,2023H2
+/saucony-xodus-ultra-3,200,,2024-08-15,,Cut in half: Saucony Xodus Ultra 3 Review | RunRepeat,Saucony,xodus-ultra-3,xodus-ultra,3.0,2024-08-15,review_published,B_new_version,2024-08,2024H2
+/hoka-cielo-x1,200,,2024-03-21,,Cut in half: HOKA Cielo X1 Review | RunRepeat,Hoka,cielo-x1,cielo-x1,,2024-03-21,review_published,A_new_model,2024-03,2024H1
+/hoka-arahi-9,200,,2026-09-18,,Cut in half: HOKA Arahi 9 Review (2026) | RunRepeat,Hoka,arahi-9,arahi,9.0,2026-09-18,review_published,B_new_version,2026-09,2026H2
+/nike-air-zoom-pegasus-39,200,,2022-05-17,,Cut in half: Nike Air Zoom Pegasus 39 Review | RunRepeat,Nike,air-zoom-pegasus-39,air-zoom-pegasus,39.0,2022-05-17,review_published,B_new_version,2022-05,2022H1
+/under-armour-charged-assert-10,200,,2023-07-19,,Cut in half: Under Armour Charged Assert 10 Review | RunRepeat,Under Armour,charged-assert-10,charged-assert,10.0,2023-07-19,review_published,B_new_version,2023-07,2023H2
+/topo-ultraventure-4,200,,2025-08-06,,Cut in half: Topo Ultraventure 4 Review (2025) | RunRepeat,Other,topo-ultraventure-4,topo-ultraventure,4.0,2025-08-06,review_published,B_new_version,2025-08,2025H2
+/asics-gel-nimbus-26,200,,2024-02-16,,Cut in half: ASICS Gel Nimbus 26 Review | RunRepeat,ASICS,gel-nimbus-26,gel-nimbus,26.0,2024-02-16,review_published,B_new_version,2024-02,2024H1
+/altra-vanish-carbon-2,200,,2024-08-14,,Cut in half: Altra Vanish Carbon 2 Review | RunRepeat,Altra,vanish-carbon-2,vanish-carbon,2.0,2024-08-14,review_published,B_new_version,2024-08,2024H2
+/hoka-mach-x-2,200,,2025-01-21,,Cut in half: HOKA Mach X 2 Review (2025) | RunRepeat,Hoka,mach-x-2,mach-x,2.0,2025-01-21,review_published,B_new_version,2025-01,2025H1
+/topo-athletic-phantom-3,200,,2025-01-31,,Cut in half: Topo Phantom 3 Review (2025) | RunRepeat,Topo,phantom-3,phantom,3.0,2025-01-31,review_published,B_new_version,2025-01,2025H1
+/new-balance-fresh-foam-x-1080-v-12,200,Apr 2022,2022-04-04,,Cut in half: New Balance Fresh Foam X 1080 v12 Review | RunRepeat,New Balance,fresh-foam-x-1080-v-12,fresh-foam-x-1080,12.0,2022-04-01,release_date_field,B_new_version,2022-04,2022H1
+/asics-gt-1000-15,200,Jun 2026,2026-07-15,,Cut in half: ASICS GT 1000 15 Review (2026) | RunRepeat,ASICS,gt-1000-15,gt-1000,15.0,2026-06-01,release_date_field,B_new_version,2026-06,2026H1
+/reebok-floatzig-1,200,,2024-11-15,,Cut in half: Reebok FloatZig 1 Review | RunRepeat,Reebok,floatzig-1,floatzig,1.0,2024-11-15,review_published,A_new_model,2024-11,2024H2
+/adidas-supernova-solution-2,200,,2026-02-09,,Cut in half: adidas Supernova Solution 2 Review (2026) | RunRepeat,adidas,supernova-solution-2,supernova-solution,2.0,2026-02-09,review_published,B_new_version,2026-02,2026H1
+/brooks-revel-max,200,,2026-09-15,,Cut in half: Brooks Revel Max Review (2026) | RunRepeat,Brooks,revel-max,revel-max,,2026-09-15,review_published,A_new_model,2026-09,2026H2
+/on-cloudvista-2,200,,2024-12-12,,Cut in half: On Cloudvista 2 Review | RunRepeat,On,cloudvista-2,cloudvista,2.0,2024-12-12,review_published,B_new_version,2024-12,2024H2
+/xero-shoes-prio,200,,2025-06-05,,Cut in half: Xero Shoes Prio Review (2025) | RunRepeat,Other,xero-shoes-prio,xero-shoes-prio,,2025-06-05,review_published,A_new_model,2025-06,2025H1
+/mount-to-coast-c-1,200,Apr 2026,2026-04-18,,Cut in half: Mount to Coast C1 Review (2026) | RunRepeat,Other,mount-to-coast-c-1,mount-to-coast-c,1.0,2026-04-01,release_date_field,A_new_model,2026-04,2026H1
+/adidas-supernova-prima-3,200,Jul 2026,2026-08-02,,Cut in half: adidas Supernova Prima 3 Review (2026) | RunRepeat,adidas,supernova-prima-3,supernova-prima,3.0,2026-07-01,release_date_field,B_new_version,2026-07,2026H2
+/topo-atmos-2,200,Dec 2025,2026-07-30,,Cut in half: Topo Atmos 2 Review (2026) | RunRepeat,Other,topo-atmos-2,topo-atmos,2.0,2025-12-01,release_date_field,B_new_version,2025-12,2025H2
+/saucony-endorphin-speed-4,200,,2024-03-13,,Cut in half: Saucony Endorphin Speed 4 Review | RunRepeat,Saucony,endorphin-speed-4,endorphin-speed,4.0,2024-03-13,review_published,B_new_version,2024-03,2024H1
+/nike-winflo-10,200,,2023-09-29,,Cut in half: Nike Winflo 10 Review | RunRepeat,Nike,winflo-10,winflo,10.0,2023-09-29,review_published,B_new_version,2023-09,2023H2
+/hoka-solimar,200,,2022-11-17,,Cut in half: HOKA Solimar Review | RunRepeat,Hoka,solimar,solimar,,2022-11-17,review_published,A_new_model,2022-11,2022H2
+/saucony-peregrine-13,200,Feb 2023,2023-03-20,,Cut in half: Saucony Peregrine 13 Review | RunRepeat,Saucony,peregrine-13,peregrine,13.0,2023-02-01,release_date_field,B_new_version,2023-02,2023H1
+/brooks-glycerin-gts-22,200,,2025-03-27,,Cut in half: Brooks Glycerin GTS 22 Review (2025) | RunRepeat,Brooks,glycerin-gts-22,glycerin-gts,22.0,2025-03-27,review_published,B_new_version,2025-03,2025H1
+/puma-forever-run-nitro,200,,2024-09-15,,Cut in half: PUMA ForeverRun Nitro Review | RunRepeat,Puma,forever-run-nitro,forever-run-nitro,,2024-09-15,review_published,A_new_model,2024-09,2024H2
+/saucony-kinvara-14,200,,2023-02-09,,Cut in half: Saucony Kinvara 14 Review | RunRepeat,Saucony,kinvara-14,kinvara,14.0,2023-02-09,review_published,B_new_version,2023-02,2023H1
+/brooks-revel-9,200,,2026-09-14,,Cut in half: Brooks Revel 9 Review (2026) | RunRepeat,Brooks,revel-9,revel,9.0,2026-09-14,review_published,B_new_version,2026-09,2026H2
+/saucony-kinvara-16,200,,2026-01-12,,Cut in half: Saucony Kinvara 16 Review (2026) | RunRepeat,Saucony,kinvara-16,kinvara,16.0,2026-01-12,review_published,B_new_version,2026-01,2026H1
+/mizuno-wave-rebellion-flash-3,200,Sep 2025,2026-02-04,,Cut in half: Mizuno Wave Rebellion Flash 3 Review (2026) | RunRepeat,Mizuno,wave-rebellion-flash-3,wave-rebellion-flash,3.0,2025-09-01,release_date_field,B_new_version,2025-09,2025H2
+/topo-athletic-traverse,200,,2025-03-05,,Cut in half: Topo Traverse Review (2025) | RunRepeat,Topo,traverse,traverse,,2025-03-05,review_published,A_new_model,2025-03,2025H1
+/adidas-pureboost-5,200,,2025-05-11,,Cut in half: adidas Pureboost 5 Review (2025) | RunRepeat,adidas,pureboost-5,pureboost,5.0,2025-05-11,review_published,B_new_version,2025-05,2025H1
+/adidas-duramo-10,200,Jan 2022,2022-04-16,,Cut in half: adidas Duramo 10 Review | RunRepeat,adidas,duramo-10,duramo,10.0,2022-01-01,release_date_field,B_new_version,2022-01,2022H1
+/salomon-ultra-glide-4,200,,2026-05-31,,Cut in half: Salomon Ultra Glide 4 Review (2026) | RunRepeat,Salomon,ultra-glide-4,ultra-glide,4.0,2026-05-31,review_published,B_new_version,2026-05,2026H1
+/diadora-frequenza-2,200,,2025-12-29,,Cut in half: Diadora Frequenza 2 Review (2025) | RunRepeat,Other,diadora-frequenza-2,diadora-frequenza,2.0,2025-12-29,review_published,B_new_version,2025-12,2025H2
+/asics-magic-speed-5,200,Jan 2026,2026-02-07,,Cut in half: ASICS Magic Speed 5 Review (2026) | RunRepeat,ASICS,magic-speed-5,magic-speed,5.0,2026-01-01,release_date_field,B_new_version,2026-01,2026H1
+/new-balance-fresh-foam-roav-v2,200,,2022-10-05,,Cut in half: New Balance Fresh Foam Roav V2 Review | RunRepeat,New Balance,fresh-foam-roav-v2,fresh-foam-roav,2.0,2022-10-05,review_published,B_new_version,2022-10,2022H2
+/asics-metafuji-trail-2,200,Jul 2026,2026-10-03,,Cut in half: ASICS Metafuji Trail 2 Review (2026) | RunRepeat,ASICS,metafuji-trail-2,metafuji-trail,2.0,2026-07-01,release_date_field,B_new_version,2026-07,2026H2
+/salomon-speedcross-6-gtx,200,,2023-12-12,,Cut in half: Salomon Speedcross 6 GTX Review | RunRepeat,Salomon,speedcross-6-gtx,speedcross,6.0,2023-12-12,review_published,B_new_version,2023-12,2023H2
+/topo-vista,200,Jun 2026,2026-08-13,,Cut in half: Topo Vista Review (2026) | RunRepeat,Other,topo-vista,topo-vista,,2026-06-01,release_date_field,A_new_model,2026-06,2026H1
+/adidas-galaxy-7,200,,2026-04-04,,Cut in half: adidas Galaxy 7 Review (2026) | RunRepeat,adidas,galaxy-7,galaxy,7.0,2026-04-04,review_published,B_new_version,2026-04,2026H1
+/asics-gel-contend-9,200,,2024-09-21,,Cut in half: ASICS Gel Contend 9 Review | RunRepeat,ASICS,gel-contend-9,gel-contend,9.0,2024-09-21,review_published,B_new_version,2024-09,2024H2
+/altra-experience-flow-st,200,Feb 2026,2026-09-09,,Cut in half: Altra Experience Flow ST Review (2026) | RunRepeat,Altra,experience-flow-st,experience-flow-st,,2026-02-01,release_date_field,A_new_model,2026-02,2026H1
+/saucony-endorphin-speed-2,200,Jun 2021,2021-05-25,,Cut in half: Saucony Endorphin Speed 2 Review | RunRepeat,Saucony,endorphin-speed-2,endorphin-speed,2.0,2021-06-01,release_date_field,B_new_version,2021-06,2021H1
+/adidas-adistar-3,200,,2024-08-28,,Cut in half: adidas Adistar 3 Review | RunRepeat,adidas,adistar-3,adistar,3.0,2024-08-28,review_published,B_new_version,2024-08,2024H2
+/nike-pegasus-easyon,200,,2024-11-17,,Cut in half: Nike Pegasus EasyOn Review | RunRepeat,Nike,pegasus-easyon,pegasus-easyon,,2024-11-17,review_published,A_new_model,2024-11,2024H2
+/mizuno-neo-vista,200,,2024-10-03,,Cut in half: Mizuno Neo Vista Review | RunRepeat,Mizuno,neo-vista,neo-vista,,2024-10-03,review_published,A_new_model,2024-10,2024H2
+/new-balance-fresh-foam-x-1080-v-13,200,,2024-01-23,,Cut in half: New Balance Fresh Foam X 1080 v13 Review | RunRepeat,New Balance,fresh-foam-x-1080-v-13,fresh-foam-x-1080,13.0,2024-01-23,review_published,B_new_version,2024-01,2024H1
+/mizuno-neo-zen-2,200,Feb 2026,2026-03-04,,Cut in half: Mizuno Neo Zen 2 Review (2026) | RunRepeat,Mizuno,neo-zen-2,neo-zen,2.0,2026-02-01,release_date_field,B_new_version,2026-02,2026H1
+/altra-via-olympus-2,200,,2024-04-02,,Cut in half: Altra VIA Olympus 2 Review | RunRepeat,Altra,via-olympus-2,via-olympus,2.0,2024-04-02,review_published,B_new_version,2024-04,2024H1
+/mizuno-wave-inspire-21,200,,2025-06-05,,Cut in half: Mizuno Wave Inspire 21 Review (2025) | RunRepeat,Mizuno,wave-inspire-21,wave-inspire,21.0,2025-06-05,review_published,B_new_version,2025-06,2025H1
+/mizuno-wave-sky-8,200,,2024-09-17,,Cut in half: Mizuno Wave Sky 8 Review | RunRepeat,Mizuno,wave-sky-8,wave-sky,8.0,2024-09-17,review_published,B_new_version,2024-09,2024H2
+/inov-8-trailfly-max,200,,2025-11-06,,Cut in half: Inov8 Trailfly Max Review (2025) | RunRepeat,Other,inov-8-trailfly-max,inov-8-trailfly-max,,2025-11-06,review_published,A_new_model,2025-11,2025H2
+/adidas-terrex-agravic-tt,200,,2026-03-26,,Cut in half: adidas Terrex Agravic TT Review (2026) | RunRepeat,adidas,terrex-agravic-tt,terrex-agravic-tt,,2026-03-26,review_published,A_new_model,2026-03,2026H1
+/nike-vomero-18-gtx,200,Oct 2025,2026-08-11,,Cut in half: Nike Vomero 18 GTX Review (2026) | RunRepeat,Nike,vomero-18-gtx,vomero,18.0,2025-10-01,release_date_field,B_new_version,2025-10,2025H2
+/adidas-adizero-sl,200,,2023-10-04,,Cut in half: adidas Adizero SL Review | RunRepeat,adidas,adizero-sl,adizero-sl,,2023-10-04,review_published,A_new_model,2023-10,2023H2
+/new-balance-minimus-trail,200,,2025-09-27,,Cut in half: New Balance Minimus Trail Review (2025) | RunRepeat,New Balance,minimus-trail,minimus-trail,,2025-09-27,review_published,A_new_model,2025-09,2025H2
+/brooks-hyperion-max-2,200,,2024-08-12,,Cut in half: Brooks Hyperion Max 2 Review | RunRepeat,Brooks,hyperion-max-2,hyperion-max,2.0,2024-08-12,review_published,B_new_version,2024-08,2024H2
+/merrell-nova-4,200,Mar 2025,2025-11-19,,Cut in half: Merrell Nova 4 Review (2025) | RunRepeat,Other,merrell-nova-4,merrell-nova,4.0,2025-03-01,release_date_field,B_new_version,2025-03,2025H1
+/asics-superblast,200,,2023-09-21,,Cut in half: ASICS Superblast Review | RunRepeat,ASICS,superblast,superblast,,2023-09-21,review_published,A_new_model,2023-09,2023H2
+/brooks-ghost-17-gtx,200,,2026-03-05,,Cut in half: Brooks Ghost 17 GTX Review (2026) | RunRepeat,Brooks,ghost-17-gtx,ghost,17.0,2026-03-05,review_published,B_new_version,2026-03,2026H1
+/saucony-peregrine-14,200,,2024-03-31,,Cut in half: Saucony Peregrine 14 Review | RunRepeat,Saucony,peregrine-14,peregrine,14.0,2024-03-31,review_published,B_new_version,2024-03,2024H1
+/asics-metaspeed-sky-paris,200,Mar 2024,2024-07-25,,Cut in half: ASICS Metaspeed Sky Paris Review | RunRepeat,ASICS,metaspeed-sky-paris,metaspeed-sky-paris,,2024-03-01,release_date_field,A_new_model,2024-03,2024H1
+/la-sportiva-prodigio-2,200,,2026-10-12,,Cut in half: La Sportiva Prodigio 2 Review (2026) | RunRepeat,Other,la-sportiva-prodigio-2,la-sportiva-prodigio,2.0,2026-10-12,review_published,B_new_version,2026-10,2026H2
+/adidas-runfalcon-5,200,,2024-11-28,,Cut in half: adidas Runfalcon 5 Review | RunRepeat,adidas,runfalcon-5,runfalcon,5.0,2024-11-28,review_published,B_new_version,2024-11,2024H2
+/nike-pegasus-41-gtx,200,,2024-11-21,,Cut in half: Nike Pegasus 41 GTX Review | RunRepeat,Nike,pegasus-41-gtx,pegasus,41.0,2024-11-21,review_published,B_new_version,2024-11,2024H2
+/hoka-transport-x,200,,2023-10-03,,Cut in half: HOKA Transport X Review | RunRepeat,Hoka,transport-x,transport-x,,2023-10-03,review_published,A_new_model,2023-10,2023H2
+/salomon-aero-glide-3-grvl,200,Apr 2025,2026-09-18,,Cut in half: Salomon Aero Glide 3 GRVL Review (2026) | RunRepeat,Salomon,aero-glide-3-grvl,aero-glide-3-grvl,,2025-04-01,release_date_field,A_new_model,2025-04,2025H1
+/hoka-challenger-7,200,Dec 2022,2022-12-28,,Cut in half: HOKA Challenger 7 Review | RunRepeat,Hoka,challenger-7,challenger,7.0,2022-12-01,release_date_field,B_new_version,2022-12,2022H2
+/puma-magnify-nitro-2,200,,2024-01-19,,Cut in half: PUMA Magnify Nitro 2 Review | RunRepeat,Puma,magnify-nitro-2,magnify-nitro,2.0,2024-01-19,review_published,B_new_version,2024-01,2024H1
+/on-cloudultra-3,200,Jul 2025,2026-08-16,,Cut in half: On Cloudultra 3 Review (2026) | RunRepeat,On,cloudultra-3,cloudultra,3.0,2025-07-01,release_date_field,B_new_version,2025-07,2025H2
+/adidas-response-2,200,,2026-08-19,,Cut in half: adidas Response 2 Review (2026) | RunRepeat,adidas,response-2,response,2.0,2026-08-19,review_published,B_new_version,2026-08,2026H2
+/topo-terraventure-5,200,Feb 2026,2026-08-14,,Cut in half: Topo Terraventure 5 Review (2026) | RunRepeat,Other,topo-terraventure-5,topo-terraventure,5.0,2026-02-01,release_date_field,B_new_version,2026-02,2026H1
+/adidas-ultrabounce,200,,2023-10-02,,Cut in half: adidas Ultrabounce Review | RunRepeat,adidas,ultrabounce,ultrabounce,,2023-10-02,review_published,A_new_model,2023-10,2023H2
+/adidas-galaxy-8,200,,2026-08-11,,Cut in half: adidas Galaxy 8 Review (2026) | RunRepeat,adidas,galaxy-8,galaxy,8.0,2026-08-11,review_published,B_new_version,2026-08,2026H2
+/brooks-hyperion-2,200,,2024-11-04,,Cut in half: Brooks Hyperion 2 Review | RunRepeat,Brooks,hyperion-2,hyperion,2.0,2024-11-04,review_published,B_new_version,2024-11,2024H2
+/new-balance-tektrel,200,,2024-08-19,,Cut in half: New Balance Tektrel Review | RunRepeat,New Balance,tektrel,tektrel,,2024-08-19,review_published,A_new_model,2024-08,2024H2
+/asics-gel-pulse-16,200,,2025-12-22,,Cut in half: ASICS Gel Pulse 16 Review (2025) | RunRepeat,ASICS,gel-pulse-16,gel-pulse,16.0,2025-12-22,review_published,B_new_version,2025-12,2025H2
+/nike-revolution-7,200,,2024-02-07,,Cut in half: Nike Revolution 7 Review | RunRepeat,Nike,revolution-7,revolution,7.0,2024-02-07,review_published,B_new_version,2024-02,2024H1
+/new-balance-fuelcell-rebel-v4,200,,2024-04-18,,Cut in half: New Balance FuelCell Rebel v4 Review | RunRepeat,New Balance,fuelcell-rebel-v4,fuelcell-rebel,4.0,2024-04-18,review_published,B_new_version,2024-04,2024H1
+/adidas-terrex-agravic-4,200,Feb 2026,2026-03-24,,Cut in half: adidas Terrex Agravic 4 Review (2026) | RunRepeat,adidas,terrex-agravic-4,terrex-agravic,4.0,2026-02-01,release_date_field,B_new_version,2026-02,2026H1
+/hoka-mafate-x,200,,2025-11-18,,Cut in half: HOKA Mafate X Review (2025) | RunRepeat,Hoka,mafate-x,mafate-x,,2025-11-18,review_published,A_new_model,2025-11,2025H2
+/on-cloudeclipse,200,,2023-12-26,,Cut in half: On Cloudeclipse Review | RunRepeat,On,cloudeclipse,cloudeclipse,,2023-12-26,review_published,A_new_model,2023-12,2023H2
+/la-sportiva-prodigio-max,200,,2025-12-27,,Cut in half: La Sportiva Prodigio Max Review (2025) | RunRepeat,Other,la-sportiva-prodigio-max,la-sportiva-prodigio-max,,2025-12-27,review_published,A_new_model,2025-12,2025H2
+/altra-mont-blanc-carbon,200,,2024-05-01,,Cut in half: Altra Mont Blanc Carbon Review | RunRepeat,Altra,mont-blanc-carbon,mont-blanc-carbon,,2024-05-01,review_published,A_new_model,2024-05,2024H1
+/mizuno-wave-rider-27,200,,2023-10-26,,Cut in half: Mizuno Wave Rider 27 Review | RunRepeat,Mizuno,wave-rider-27,wave-rider,27.0,2023-10-26,review_published,B_new_version,2023-10,2023H2
+/brooks-ghost-15,200,Nov 2022,2023-06-30,,Cut in half: Brooks Ghost 15 Review | RunRepeat,Brooks,ghost-15,ghost,15.0,2022-11-01,release_date_field,B_new_version,2022-11,2022H2
+/xero-shoes-hfs-ii,200,,2024-12-03,,Cut in half: Xero Shoes HFS II Review | RunRepeat,Other,xero-shoes-hfs-ii,xero-shoes-hfs-ii,,2024-12-03,review_published,A_new_model,2024-12,2024H2
+/asics-metaspeed-sky-plus,200,Jun 2022,2022-06-30,,Cut in half: ASICS Metaspeed Sky+ Review | RunRepeat,ASICS,metaspeed-sky-plus,metaspeed-sky-plus,,2022-06-01,release_date_field,A_new_model,2022-06,2022H1
+/merrell-morphlite,200,,2024-11-29,,Cut in half: Merrell Morphlite Review | RunRepeat,Other,merrell-morphlite,merrell-morphlite,,2024-11-29,review_published,A_new_model,2024-11,2024H2
+/brooks-caldera-7,200,,2024-05-15,,Cut in half: Brooks Caldera 7 Review | RunRepeat,Brooks,caldera-7,caldera,7.0,2024-05-15,review_published,B_new_version,2024-05,2024H1
+/altra-experience-wild,200,,2025-02-28,,Cut in half: Altra Experience Wild Review (2025) | RunRepeat,Altra,experience-wild,experience-wild,,2025-02-28,review_published,A_new_model,2025-02,2025H1
+/asics-glideride-max-2,200,Dec 2025,2026-03-02,,Cut in half: ASICS Glideride Max 2 Review (2026) | RunRepeat,ASICS,glideride-max-2,glideride-max,2.0,2025-12-01,release_date_field,B_new_version,2025-12,2025H2
+/nike-infinityrn-4,200,,2023-09-22,,Cut in half: Nike InfinityRN 4 Review | RunRepeat,Nike,infinityrn-4,infinityrn,4.0,2023-09-22,review_published,B_new_version,2023-09,2023H2
+/new-balance-fresh-foam-x-balos,200,,2025-01-27,,Cut in half: New Balance Fresh Foam X Balos Review (2025) | RunRepeat,New Balance,fresh-foam-x-balos,fresh-foam-x-balos,,2025-01-27,review_published,A_new_model,2025-01,2025H1
+/nike-ultrafly,200,,2023-11-30,,Cut in half: Nike Ultrafly Review | RunRepeat,Nike,ultrafly,ultrafly,,2023-11-30,review_published,A_new_model,2023-11,2023H2
+/on-cloudmonster-void,200,,2026-02-13,,Cut in half: On Cloudmonster Void Review (2026) | RunRepeat,On,cloudmonster-void,cloudmonster-void,,2026-02-13,review_published,A_new_model,2026-02,2026H1
+/brooks-catamount-3,200,,2024-05-17,,Cut in half: Brooks Catamount 3 Review | RunRepeat,Brooks,catamount-3,catamount,3.0,2024-05-17,review_published,B_new_version,2024-05,2024H1
+/on-cloudstratus,200,Jun 2019,2023-08-03,,Cut in half: On Cloudstratus Review | RunRepeat,On,cloudstratus,cloudstratus,,2019-06-01,release_date_field,A_new_model,2019-06,2019H1
+/anta-zone-2-90,200,,2026-07-08,,Cut in half: ANTA Zone 2 90 Review (2026) | RunRepeat,Anta,zone-2-90,zone-2,90.0,2026-07-08,review_published,B_new_version,2026-07,2026H2
+/adidas-ultrarun-5,200,,2025-06-09,,Cut in half: adidas Ultrarun 5 Review (2025) | RunRepeat,adidas,ultrarun-5,ultrarun,5.0,2025-06-09,review_published,B_new_version,2025-06,2025H1
+/merrell-trail-glove-7,200,,2023-12-22,,Cut in half: Merrell Trail Glove 7 Review | RunRepeat,Other,merrell-trail-glove-7,merrell-trail-glove,7.0,2023-12-22,review_published,B_new_version,2023-12,2023H2
+/brooks-addiction-gts-15,200,Sep 2021,2024-05-19,,Cut in half: Brooks Addiction GTS 15 Review | RunRepeat,Brooks,addiction-gts-15,addiction-gts,15.0,2021-09-01,release_date_field,B_new_version,2021-09,2021H2
+/brooks-beast-gts-24,200,,2024-11-10,,Cut in half: Brooks Beast GTS 24 Review | RunRepeat,Brooks,beast-gts-24,beast-gts,24.0,2024-11-10,review_published,B_new_version,2024-11,2024H2
+/under-armour-infinite-elite,200,,2025-03-09,,Cut in half: Under Armour Infinite Elite Review (2025) | RunRepeat,Under Armour,infinite-elite,infinite-elite,,2025-03-09,review_published,A_new_model,2025-03,2025H1
+/nike-air-zoom-alphafly-next-2,200,Jun 2022,2022-09-02,,Cut in half: Nike Alphafly 2 Review | RunRepeat,Nike,air-zoom-alphafly-next-2,air-zoom-alphafly-next,2.0,2022-06-01,release_date_field,B_new_version,2022-06,2022H1
+/asics-gel-kayano-29,200,,2022-08-10,,Cut in half: ASICS Gel Kayano 29 Review | RunRepeat,ASICS,gel-kayano-29,gel-kayano,29.0,2022-08-10,review_published,B_new_version,2022-08,2022H2
+/under-armour-infinite-elite-2,200,,2025-08-07,,Cut in half: Under Armour Infinite Elite 2 Review (2025) | RunRepeat,Under Armour,infinite-elite-2,infinite-elite,2.0,2025-08-07,review_published,B_new_version,2025-08,2025H2
+/on-cloudswift-3,200,Mar 2023,2023-05-21,,Cut in half: On Cloudswift 3 Review | RunRepeat,On,cloudswift-3,cloudswift,3.0,2023-03-01,release_date_field,B_new_version,2023-03,2023H1
+/hoka-speedgoat-5,200,Mar 2022,2022-02-09,,Cut in half: HOKA Speedgoat 5 Review | RunRepeat,Hoka,speedgoat-5,speedgoat,5.0,2022-03-01,release_date_field,B_new_version,2022-03,2022H1
+/la-sportiva-prodigio,200,,2024-06-04,,Cut in half: La Sportiva Prodigio Review | RunRepeat,Other,la-sportiva-prodigio,la-sportiva-prodigio,,2024-06-04,review_published,A_new_model,2024-06,2024H1
+/adidas-duramo-speed,200,,2024-05-15,,Cut in half: adidas Duramo Speed Review | RunRepeat,adidas,duramo-speed,duramo-speed,,2024-05-15,review_published,A_new_model,2024-05,2024H1
+/nike-downshifter-12,200,,2022-11-11,,Cut in half: Nike Downshifter 12 Review | RunRepeat,Nike,downshifter-12,downshifter,12.0,2022-11-11,review_published,B_new_version,2022-11,2022H2
+/nike-zoom-x-streakfly,200,Feb 2022,2022-03-18,,Cut in half: Nike ZoomX Streakfly Review | RunRepeat,Nike,zoom-x-streakfly,zoom-x-streakfly,,2022-02-01,release_date_field,A_new_model,2022-02,2022H1
+/nike-react-pegasus-trail-4,200,Jun 2022,2023-10-26,,Cut in half: Nike Pegasus Trail 4 Review | RunRepeat,Nike,react-pegasus-trail-4,react-pegasus-trail,4.0,2022-06-01,release_date_field,B_new_version,2022-06,2022H1
+/adidas-terrex-speed-ultra,200,,2021-05-17,,Cut in half: adidas Terrex Speed Ultra Review | RunRepeat,adidas,terrex-speed-ultra,terrex-speed-ultra,,2021-05-17,review_published,A_new_model,2021-05,2021H1
+/brooks-revel-7,200,,2024-07-31,,Cut in half: Brooks Revel 7 Review | RunRepeat,Brooks,revel-7,revel,7.0,2024-07-31,review_published,B_new_version,2024-07,2024H2
+/inov8-trailfly,200,,2024-05-02,,Cut in half: Inov8 Trailfly Review | RunRepeat,Other,inov8-trailfly,inov8-trailfly,,2024-05-02,review_published,A_new_model,2024-05,2024H1
+/new-balance-fresh-foam-680-v8,200,,2024-08-17,,Cut in half: New Balance Fresh Foam 680 v8 Review | RunRepeat,New Balance,fresh-foam-680-v8,fresh-foam-680,8.0,2024-08-17,review_published,B_new_version,2024-08,2024H2
+/asics-gel-excite-10,200,,2023-11-13,,Cut in half: ASICS Gel Excite 10 Review | RunRepeat,ASICS,gel-excite-10,gel-excite,10.0,2023-11-13,review_published,B_new_version,2023-11,2023H2
+/mizuno-wave-rebellion,200,Sep 2021,2023-07-25,,Cut in half: Mizuno Wave Rebellion Review | RunRepeat,Mizuno,wave-rebellion,wave-rebellion,,2021-09-01,release_date_field,A_new_model,2021-09,2021H2
+/new-balance-fresh-foam-hierro-v-7,200,,2022-07-29,,Cut in half: New Balance Fresh Foam X Hierro v7 Review | RunRepeat,New Balance,fresh-foam-hierro-v-7,fresh-foam-hierro,7.0,2022-07-29,review_published,B_new_version,2022-07,2022H2
+/nike-free-rn-nn,200,,2024-02-26,,Cut in half: Nike Free RN NN Review | RunRepeat,Nike,free-rn-nn,free-rn-nn,,2024-02-26,review_published,A_new_model,2024-02,2024H1
+/altra-lone-peak-7,200,,2023-01-29,,Cut in half: Altra Lone Peak 7 Review | RunRepeat,Altra,lone-peak-7,lone-peak,7.0,2023-01-29,review_published,B_new_version,2023-01,2023H1
+/brooks-hyperion-tempo,200,,2023-12-28,,Cut in half: Brooks Hyperion Tempo Review | RunRepeat,Brooks,hyperion-tempo,hyperion-tempo,,2023-12-28,review_published,A_new_model,2023-12,2023H2
+/brooks-hyperion-elite-4,200,,2024-05-09,,Cut in half: Brooks Hyperion Elite 4 Review | RunRepeat,Brooks,hyperion-elite-4,hyperion-elite,4.0,2024-05-09,review_published,B_new_version,2024-05,2024H1
+/altra-provision-8,200,,2024-09-09,,Cut in half: Altra Provision 8 Review | RunRepeat,Altra,provision-8,provision,8.0,2024-09-09,review_published,B_new_version,2024-09,2024H2
+/new-balance-fresh-foam-x-evoz-v3,200,,2025-01-23,,Cut in half: New Balance Fresh Foam X Evoz v3 Review (2025) | RunRepeat,New Balance,fresh-foam-x-evoz-v3,fresh-foam-x-evoz,3.0,2025-01-23,review_published,B_new_version,2025-01,2025H1
+/asics-magic-speed-4,200,,2024-08-01,,Cut in half: ASICS Magic Speed 4 Review | RunRepeat,ASICS,magic-speed-4,magic-speed,4.0,2024-08-01,review_published,B_new_version,2024-08,2024H2
+/adidas-adistar-4,200,,2026-03-23,,Cut in half: adidas Adistar 4 Review (2026) | RunRepeat,adidas,adistar-4,adistar,4.0,2026-03-23,review_published,B_new_version,2026-03,2026H1
+/altra-superior-7,200,,2026-01-18,,Cut in half: Altra Superior 7 Review (2026) | RunRepeat,Altra,superior-7,superior,7.0,2026-01-18,review_published,B_new_version,2026-01,2026H1
+/diadora-mythos-blushield-volo-5,200,,2025-12-31,,Cut in half: Diadora Mythos Blushield Volo 5 Review (2025) | RunRepeat,Other,diadora-mythos-blushield-volo-5,diadora-mythos-blushield-volo,5.0,2025-12-31,review_published,B_new_version,2025-12,2025H2
+/kuru-atom-2,200,,2025-09-29,,Cut in half: KURU Atom 2 Review (2025) | RunRepeat,Other,kuru-atom-2,kuru-atom,2.0,2025-09-29,review_published,B_new_version,2025-09,2025H2
+/on-cloudflow-5,200,,2026-02-08,,Cut in half: On Cloudflow 5 Review (2026) | RunRepeat,On,cloudflow-5,cloudflow,5.0,2026-02-08,review_published,B_new_version,2026-02,2026H1
+/adidas-ultra-boost,200,Feb 2015,2023-07-05,,Cut in half: adidas Ultraboost 1.0 Review | RunRepeat,adidas,ultra-boost,ultra-boost,,2015-02-01,release_date_field,A_new_model,2015-02,2015H1
+/new-balance-fuel-cell-rebel-v-3,200,,2022-09-22,,Cut in half: New Balance FuelCell Rebel v3 Review | RunRepeat,New Balance,fuel-cell-rebel-v-3,fuel-cell-rebel,3.0,2022-09-22,review_published,B_new_version,2022-09,2022H2
+/salomon-thundercross,200,,2023-12-21,,Cut in half: Salomon Thundercross Review | RunRepeat,Salomon,thundercross,thundercross,,2023-12-21,review_published,A_new_model,2023-12,2023H2
+/inov-8-roadfly,200,,2024-11-30,,Cut in half: Inov8 Roadfly Review | RunRepeat,Other,inov-8-roadfly,inov-8-roadfly,,2024-11-30,review_published,A_new_model,2024-11,2024H2
+/hoka-mach-x,200,,2023-09-05,,Cut in half: HOKA Mach X Review | RunRepeat,Hoka,mach-x,mach-x,,2023-09-05,review_published,A_new_model,2023-09,2023H2
+/saucony-peregrine-12,200,Feb 2022,2022-02-02,,Cut in half: Saucony Peregrine 12 Review | RunRepeat,Saucony,peregrine-12,peregrine,12.0,2022-02-01,release_date_field,B_new_version,2022-02,2022H1
+/under-armour-surge-4,200,,2025-09-30,,Cut in half: Under Armour Surge 4 Review (2025) | RunRepeat,Under Armour,surge-4,surge,4.0,2025-09-30,review_published,B_new_version,2025-09,2025H2
+/saucony-guide-16,200,Feb 2023,2023-03-20,,Cut in half: Saucony Guide 16 Review | RunRepeat,Saucony,guide-16,guide,16.0,2023-02-01,release_date_field,B_new_version,2023-02,2023H1
+/salomon-sense-ride-5,200,Jan 2023,2023-03-24,,Cut in half: Salomon Sense Ride 5 Review | RunRepeat,Salomon,sense-ride-5,sense-ride,5.0,2023-01-01,release_date_field,B_new_version,2023-01,2023H1
+/adidas-questar-3,200,,2025-06-10,,Cut in half: adidas Questar 3 Review (2025) | RunRepeat,adidas,questar-3,questar,3.0,2025-06-10,review_published,B_new_version,2025-06,2025H1
+/inov-8-trailtalon,200,,2025-04-08,,Cut in half: Inov8 Trailtalon Review (2025) | RunRepeat,Other,inov-8-trailtalon,inov-8-trailtalon,,2025-04-08,review_published,A_new_model,2025-04,2025H1
+/saucony-axon-2,200,Apr 2022,2022-05-04,,Cut in half: Saucony Axon 2 Review | RunRepeat,Saucony,axon-2,axon,2.0,2022-04-01,release_date_field,B_new_version,2022-04,2022H1
+/new-balance-fresh-foam-x-more-trail-v3,200,,2023-06-08,,Cut in half: New Balance Fresh Foam X More Trail v3 Review | RunRepeat,New Balance,fresh-foam-x-more-trail-v3,fresh-foam-x-more-trail,3.0,2023-06-08,review_published,B_new_version,2023-06,2023H1
+/inov-8-trailfly-zero,200,,2025-11-10,,Cut in half: Inov8 Trailfly Zero Review (2025) | RunRepeat,Other,inov-8-trailfly-zero,inov-8-trailfly-zero,,2025-11-10,review_published,A_new_model,2025-11,2025H2
+/la-sportiva-mutant,200,,2024-03-13,,Cut in half: La Sportiva Mutant Review | RunRepeat,Other,la-sportiva-mutant,la-sportiva-mutant,,2024-03-13,review_published,A_new_model,2024-03,2024H1
+/asics-gel-kayano-30,200,,2023-09-06,,Cut in half: ASICS Gel Kayano 30 Review | RunRepeat,ASICS,gel-kayano-30,gel-kayano,30.0,2023-09-06,review_published,B_new_version,2023-09,2023H2
+/new-balance-fuelcell-propel-v4,200,Mar 2023,2023-11-01,,Cut in half: New Balance FuelCell Propel v4 Review | RunRepeat,New Balance,fuelcell-propel-v4,fuelcell-propel,4.0,2023-03-01,release_date_field,B_new_version,2023-03,2023H1
+/saucony-guide-17,200,,2024-03-27,,Cut in half: Saucony Guide 17 Review | RunRepeat,Saucony,guide-17,guide,17.0,2024-03-27,review_published,B_new_version,2024-03,2024H1
+/hoka-zinal-2,200,,2023-09-13,,Cut in half: HOKA Zinal 2 Review | RunRepeat,Hoka,zinal-2,zinal,2.0,2023-09-13,review_published,B_new_version,2023-09,2023H2
+/under-armour-hovr-sonic-6,200,,2025-03-08,,Cut in half: Under Armour HOVR Sonic 6 Review (2025) | RunRepeat,Under Armour,hovr-sonic-6,hovr-sonic,6.0,2025-03-08,review_published,B_new_version,2025-03,2025H1
+/new-balance-fresh-foam-x-evoz-v-4,200,,2025-05-21,,Cut in half: New Balance Fresh Foam X Evoz v4 Review (2025) | RunRepeat,New Balance,fresh-foam-x-evoz-v-4,fresh-foam-x-evoz,4.0,2025-05-21,review_published,B_new_version,2025-05,2025H1
+/brooks-cascadia-17,200,,2023-08-31,,Cut in half: Brooks Cascadia 17 Review | RunRepeat,Brooks,cascadia-17,cascadia,17.0,2023-08-31,review_published,B_new_version,2023-08,2023H2
+/new-balance-fresh-foam-x-tempo-v-2,200,Apr 2022,2025-02-12,,Cut in half: New Balance Fresh Foam X Tempo v2 Review (2025) | RunRepeat,New Balance,fresh-foam-x-tempo-v-2,fresh-foam-x-tempo,2.0,2022-04-01,release_date_field,B_new_version,2022-04,2022H1
+/adidas-adizero-takumi-sen-10,200,,2024-06-20,,Cut in half: adidas Adizero Takumi Sen 10 Review | RunRepeat,adidas,adizero-takumi-sen-10,adizero-takumi-sen,10.0,2024-06-20,review_published,B_new_version,2024-06,2024H1
+/asics-gel-pulse-15,200,,2024-07-22,,Cut in half: ASICS Gel Pulse 15 Review | RunRepeat,ASICS,gel-pulse-15,gel-pulse,15.0,2024-07-22,review_published,B_new_version,2024-07,2024H2
+/hoka-kawana-2,200,,2024-04-16,,Cut in half: HOKA Kawana 2 Review | RunRepeat,Hoka,kawana-2,kawana,2.0,2024-04-16,review_published,B_new_version,2024-04,2024H1
+/kiprun-kipsummit-max,200,,2026-04-26,,Cut in half: KIPRUN Kipsummit Max Review (2026) | RunRepeat,Other,kiprun-kipsummit-max,kiprun-kipsummit-max,,2026-04-26,review_published,A_new_model,2026-04,2026H1
+/topo-athletic-ultraventure-3,200,Nov 2022,2025-02-16,,Cut in half: Topo Ultraventure 3 Review (2025) | RunRepeat,Topo,ultraventure-3,ultraventure,3.0,2022-11-01,release_date_field,B_new_version,2022-11,2022H2
+/on-cloudflyer-4,200,,2023-07-28,,Cut in half: On Cloudflyer 4 Review | RunRepeat,On,cloudflyer-4,cloudflyer,4.0,2023-07-28,review_published,B_new_version,2023-07,2023H2
+/brooks-launch-10,200,,2023-08-09,,Cut in half: Brooks Launch 10 Review | RunRepeat,Brooks,launch-10,launch,10.0,2023-08-09,review_published,B_new_version,2023-08,2023H2
+/salomon-s-lab-phantasm-2,200,Oct 2023,2025-11-11,,Cut in half: Salomon S&#x2F;Lab Phantasm 2 Review (2025) | RunRepeat,Salomon,s-lab-phantasm-2,s-lab-phantasm,2.0,2023-10-01,release_date_field,B_new_version,2023-10,2023H2
+/hoka-cielo-x-1-3-0,200,,2026-03-05,,Cut in half: HOKA Cielo X1 3.0 Review (2026) | RunRepeat,Hoka,cielo-x-1-3-0,cielo-x-1-3,0.0,2026-03-05,review_published,A_new_model,2026-03,2026H1
+/asics-gel-venture-10,200,,2025-08-01,,Cut in half: ASICS Gel Venture 10 Review (2025) | RunRepeat,ASICS,gel-venture-10,gel-venture,10.0,2025-08-01,review_published,B_new_version,2025-08,2025H2
+/reebok-zig-dynamica-5,200,,2025-10-01,,Cut in half: Reebok Zig Dynamica 5 Review (2025) | RunRepeat,Reebok,zig-dynamica-5,zig-dynamica,5.0,2025-10-01,review_published,B_new_version,2025-10,2025H2
+/brooks-hyperion,200,,2023-09-06,,Cut in half: Brooks Hyperion Review | RunRepeat,Brooks,hyperion,hyperion,,2023-09-06,review_published,A_new_model,2023-09,2023H2
+/altra-escalante-3,200,,2022-06-14,,Cut in half: Altra Escalante 3 Review | RunRepeat,Altra,escalante-3,escalante,3.0,2022-06-14,review_published,B_new_version,2022-06,2022H1
+/on-cloudboom-echo-3,200,,2023-10-30,,Cut in half: On Cloudboom Echo 3 Review | RunRepeat,On,cloudboom-echo-3,cloudboom-echo,3.0,2023-10-30,review_published,B_new_version,2023-10,2023H2
+/nike-react-pegasus-trail-4-gtx,200,Dec 2022,2024-01-02,,Cut in half: Nike Pegasus Trail 4 GTX Review | RunRepeat,Nike,react-pegasus-trail-4-gtx,react-pegasus-trail,4.0,2022-12-01,release_date_field,B_new_version,2022-12,2022H2
+/merrell-vapor-glove-6,200,Feb 2023,2023-12-24,,Cut in half: Merrell Vapor Glove 6 Review | RunRepeat,Other,merrell-vapor-glove-6,merrell-vapor-glove,6.0,2023-02-01,release_date_field,B_new_version,2023-02,2023H1
+/salomon-ultra-flow,200,,2025-08-09,,Cut in half: Salomon Ultra Flow Review (2025) | RunRepeat,Salomon,ultra-flow,ultra-flow,,2025-08-09,review_published,A_new_model,2025-08,2025H2
+/scarpa-spin-planet,200,,2024-09-26,,Cut in half: Scarpa Spin Planet Review | RunRepeat,Other,scarpa-spin-planet,scarpa-spin-planet,,2024-09-26,review_published,A_new_model,2024-09,2024H2
+/on-cloudultra-2,200,,2024-01-09,,Cut in half: On Cloudultra 2 Review | RunRepeat,On,cloudultra-2,cloudultra,2.0,2024-01-09,review_published,B_new_version,2024-01,2024H1
+/saucony-axon-3,200,Feb 2023,2024-01-18,,Cut in half: Saucony Axon 3 Review | RunRepeat,Saucony,axon-3,axon,3.0,2023-02-01,release_date_field,B_new_version,2023-02,2023H1
+/inov-8-trail-fly-speed-v-2,200,Dec 2025,2026-09-02,,Cut in half: Inov8 Trailfly Speed v2 Review (2026) | RunRepeat,Other,inov-8-trail-fly-speed-v-2,inov-8-trail-fly-speed,2.0,2025-12-01,release_date_field,B_new_version,2025-12,2025H2
+/adidas-runfalcon-3,200,,2023-07-16,,Cut in half: adidas Runfalcon 3 Review | RunRepeat,adidas,runfalcon-3,runfalcon,3.0,2023-07-16,review_published,B_new_version,2023-07,2023H2
+/on-cloudflow-4-0,200,,2023-11-06,,Cut in half: On Cloudflow 4 Review | RunRepeat,On,cloudflow-4-0,cloudflow-4,0.0,2023-11-06,review_published,A_new_model,2023-11,2023H2
+/on-cloudsurfer-trail,200,,2024-06-30,,Cut in half: On Cloudsurfer Trail Review | RunRepeat,On,cloudsurfer-trail,cloudsurfer-trail,,2024-06-30,review_published,A_new_model,2024-06,2024H1
+/hoka-speedgoat-5-gtx,200,,2023-12-16,,Cut in half: HOKA Speedgoat 5 GTX Review | RunRepeat,Hoka,speedgoat-5-gtx,speedgoat,5.0,2023-12-16,review_published,B_new_version,2023-12,2023H2
+/brooks-adrenaline-gts-22,200,Dec 2021,2023-09-29,,Cut in half: Brooks Adrenaline GTS 22 Review | RunRepeat,Brooks,adrenaline-gts-22,adrenaline-gts,22.0,2021-12-01,release_date_field,B_new_version,2021-12,2021H2
+/hoka-challenger-7-gtx,200,Feb 2023,2024-01-03,,Cut in half: HOKA Challenger 7 GTX Review | RunRepeat,Hoka,challenger-7-gtx,challenger,7.0,2023-02-01,release_date_field,B_new_version,2023-02,2023H1
+/merrell-mtl-speed-arc-peak,200,Jul 2026,2026-08-12,,Cut in half: Merrell MTL SpeedArc Peak Review (2026) | RunRepeat,Other,merrell-mtl-speed-arc-peak,merrell-mtl-speed-arc-peak,,2026-07-01,release_date_field,A_new_model,2026-07,2026H2
+/asics-gel-trabuco-13,200,,2025-02-19,,Cut in half: ASICS Gel Trabuco 13 Review (2025) | RunRepeat,ASICS,gel-trabuco-13,gel-trabuco,13.0,2025-02-19,review_published,B_new_version,2025-02,2025H1
+/under-armour-charged-pursuit-3,200,,2024-12-09,,Cut in half: Under Armour Charged Pursuit 3 Review | RunRepeat,Under Armour,charged-pursuit-3,charged-pursuit,3.0,2024-12-09,review_published,B_new_version,2024-12,2024H2
+/adidas-adizero-adios-pro-evo-3,200,,2026-04-23,,Cut in half: adidas Adizero Adios Pro Evo 3 Review (2026) | RunRepeat,adidas,adizero-adios-pro-evo-3,adizero-adios-pro-evo,3.0,2026-04-23,review_published,B_new_version,2026-04,2026H1
+/brooks-ghost-14,200,Jul 2021,2021-07-06,,Cut in half: Brooks Ghost 14 Review | RunRepeat,Brooks,ghost-14,ghost,14.0,2021-07-01,release_date_field,B_new_version,2021-07,2021H2
+/merrell-antora-3,200,,2025-06-06,,Cut in half: Merrell Antora 3 Review (2025) | RunRepeat,Other,merrell-antora-3,merrell-antora,3.0,2025-06-06,review_published,B_new_version,2025-06,2025H1
+/saucony-endorphin-trail,200,,2021-05-27,,Cut in half: Saucony Endorphin Trail Review | RunRepeat,Saucony,endorphin-trail,endorphin-trail,,2021-05-27,review_published,A_new_model,2021-05,2021H1
+/new-balance-fresh-foam-x-garoe-v-2,200,,2025-11-21,,Cut in half: New Balance Fresh Foam X Garoe v2 Review (2025) | RunRepeat,New Balance,fresh-foam-x-garoe-v-2,fresh-foam-x-garoe,2.0,2025-11-21,review_published,B_new_version,2025-11,2025H2
+/adidas-pureboost-23,200,,2023-11-03,,Cut in half: adidas Pureboost 23 Review | RunRepeat,adidas,pureboost-23,pureboost,23.0,2023-11-03,review_published,B_new_version,2023-11,2023H2
+/under-armour-slipspeed-mega,200,,2025-03-16,,Cut in half: Under Armour SlipSpeed Mega Review (2025) | RunRepeat,Under Armour,slipspeed-mega,slipspeed-mega,,2025-03-16,review_published,A_new_model,2025-03,2025H1
+/xero-shoes-mesa-summit,200,Aug 2026,2026-08-26,,Cut in half: Xero Shoes Mesa Summit Review (2026) | RunRepeat,Other,xero-shoes-mesa-summit,xero-shoes-mesa-summit,,2026-08-01,release_date_field,A_new_model,2026-08,2026H2
+/topo-athletic-cyclone-2,200,,2025-02-02,,Cut in half: Topo Cyclone 2 Review (2025) | RunRepeat,Topo,cyclone-2,cyclone,2.0,2025-02-02,review_published,B_new_version,2025-02,2025H1
+/saucony-omni-22,200,,2025-09-05,,Cut in half: Saucony Omni 22 Review (2025) | RunRepeat,Saucony,omni-22,omni,22.0,2025-09-05,review_published,B_new_version,2025-09,2025H2
+/asics-gel-cumulus-25,200,,2023-05-21,,Cut in half: ASICS Gel Cumulus 25 Review | RunRepeat,ASICS,gel-cumulus-25,gel-cumulus,25.0,2023-05-21,review_published,B_new_version,2023-05,2023H1
+/saucony-endorphin-shift-3,200,Oct 2022,2022-09-30,,Cut in half: Saucony Endorphin Shift 3 Review | RunRepeat,Saucony,endorphin-shift-3,endorphin-shift,3.0,2022-10-01,release_date_field,B_new_version,2022-10,2022H2
+/adidas-adizero-adios-8,200,Jun 2023,2023-07-24,,Cut in half: adidas Adizero Adios 8 Review | RunRepeat,adidas,adizero-adios-8,adizero-adios,8.0,2023-06-01,release_date_field,B_new_version,2023-06,2023H1
+/on-cloudvista,200,,2023-07-24,,Cut in half: On Cloudvista Review | RunRepeat,On,cloudvista,cloudvista,,2023-07-24,review_published,A_new_model,2023-07,2023H2
+/nike-juniper-trail-2-gtx,200,,2024-04-01,,Cut in half: Nike Juniper Trail 2 GTX Review | RunRepeat,Nike,juniper-trail-2-gtx,juniper-trail,2.0,2024-04-01,review_published,B_new_version,2024-04,2024H1
+/altra-olympus-5,200,Jul 2022,2022-08-21,,Cut in half: Altra Olympus 5 Review | RunRepeat,Altra,olympus-5,olympus,5.0,2022-07-01,release_date_field,B_new_version,2022-07,2022H2
+/on-cloud-x,200,Nov 2017,2023-08-04,,Cut in half: On Cloud X Review | RunRepeat,On,cloud-x,cloud-x,,2017-11-01,release_date_field,A_new_model,2017-11,2017H2
+/saucony-freedom-4,200,Mar 2021,2021-03-02,,Cut in half: Saucony Freedom 4 Review | RunRepeat,Saucony,freedom-4,freedom,4.0,2021-03-01,release_date_field,B_new_version,2021-03,2021H1
+/new-balance-510-v-6,200,,2024-03-11,,Cut in half: New Balance 510 v6 Review | RunRepeat,New Balance,510-v-6,510,6.0,2024-03-11,review_published,B_new_version,2024-03,2024H1
+/hoka-mach-5,200,,2023-10-25,,Cut in half: HOKA Mach 5 Review | RunRepeat,Hoka,mach-5,mach,5.0,2023-10-25,review_published,B_new_version,2023-10,2023H2
+/asics-gel-nimbus-25,200,,2023-10-09,,Cut in half: ASICS Gel Nimbus 25 Review | RunRepeat,ASICS,gel-nimbus-25,gel-nimbus,25.0,2023-10-09,review_published,B_new_version,2023-10,2023H2
+/brooks-adrenaline-gts-23,200,,2023-08-08,,Cut in half: Brooks Adrenaline GTS 23 Review | RunRepeat,Brooks,adrenaline-gts-23,adrenaline-gts,23.0,2023-08-08,review_published,B_new_version,2023-08,2023H2
+/altra-rivera-4,200,,2024-04-08,,Cut in half: Altra Rivera 4 Review | RunRepeat,Altra,rivera-4,rivera,4.0,2024-04-08,review_published,B_new_version,2024-04,2024H1
+/adidas-solarboost-5,200,,2024-05-03,,Cut in half: adidas Solarboost 5 Review | RunRepeat,adidas,solarboost-5,solarboost,5.0,2024-05-03,review_published,B_new_version,2024-05,2024H1
+/inov-8-trailfly-v-2,200,,2026-09-01,,Cut in half: Inov8 Trailfly v2 Review (2026) | RunRepeat,Other,inov-8-trailfly-v-2,inov-8-trailfly,2.0,2026-09-01,review_published,B_new_version,2026-09,2026H2
+/brooks-cascadia-18,200,,2024-11-07,,Cut in half: Brooks Cascadia 18 Review | RunRepeat,Brooks,cascadia-18,cascadia,18.0,2024-11-07,review_published,B_new_version,2024-11,2024H2
+/hylo-athletics-axis,200,Feb 2026,2026-02-06,,Cut in half: Hylo Axis Review (2026) | RunRepeat,Other,hylo-athletics-axis,hylo-athletics-axis,,2026-02-01,release_date_field,A_new_model,2026-02,2026H1
+/kuru-triple-max-ion,200,,2025-09-19,,Cut in half: KURU Triple Max Ion Review (2025) | RunRepeat,Other,kuru-triple-max-ion,kuru-triple-max-ion,,2025-09-19,review_published,A_new_model,2025-09,2025H2
+/new-balance-dynasoft-nitrel-v6,200,,2024-09-19,,Cut in half: New Balance DynaSoft Nitrel v6 Review | RunRepeat,New Balance,dynasoft-nitrel-v6,dynasoft-nitrel,6.0,2024-09-19,review_published,B_new_version,2024-09,2024H2
+/salomon-aero-glide-2,200,,2024-09-24,,Cut in half: Salomon Aero Glide 2 Review | RunRepeat,Salomon,aero-glide-2,aero-glide,2.0,2024-09-24,review_published,B_new_version,2024-09,2024H2
+/brooks-caldera-8,200,Jan 2025,2025-11-13,,Cut in half: Brooks Caldera 8 Review (2025) | RunRepeat,Brooks,caldera-8,caldera,8.0,2025-01-01,release_date_field,B_new_version,2025-01,2025H1
+/new-balance-fuel-cell-super-comp-trail,200,,2025-03-10,,Cut in half: New Balance FuelCell SuperComp Trail Review (2025) | RunRepeat,New Balance,fuel-cell-super-comp-trail,fuel-cell-super-comp-trail,,2025-03-10,review_published,A_new_model,2025-03,2025H1
+/asics-gt-1000-12,200,,2023-09-12,,Cut in half: ASICS GT 1000 12 Review | RunRepeat,ASICS,gt-1000-12,gt-1000,12.0,2023-09-12,review_published,B_new_version,2023-09,2023H2
+/asics-gt-2000-11,200,Dec 2022,2023-02-09,,Cut in half: ASICS GT 2000 11 Review | RunRepeat,ASICS,gt-2000-11,gt-2000,11.0,2022-12-01,release_date_field,B_new_version,2022-12,2022H2
+/saucony-endorphin-edge,200,Aug 2022,2022-07-29,,Cut in half: Saucony Endorphin Edge Review | RunRepeat,Saucony,endorphin-edge,endorphin-edge,,2022-08-01,release_date_field,A_new_model,2022-08,2022H2
+/kiprun-kipstorm-elite,200,,2026-06-05,,Cut in half: KIPRUN Kipstorm Elite Review (2026) | RunRepeat,Other,kiprun-kipstorm-elite,kiprun-kipstorm-elite,,2026-06-05,review_published,A_new_model,2026-06,2026H1
+/hoka-rincon-3,200,,2023-11-20,,Cut in half: HOKA Rincon 3 Review | RunRepeat,Hoka,rincon-3,rincon,3.0,2023-11-20,review_published,B_new_version,2023-11,2023H2
+/asics-metafuji-trail,200,,2025-10-12,,Cut in half: ASICS Metafuji Trail Review (2025) | RunRepeat,ASICS,metafuji-trail,metafuji-trail,,2025-10-12,review_published,A_new_model,2025-10,2025H2
+/salomon-s-lab-ultra-glide,200,,2025-10-16,,Cut in half: Salomon S&#x2F;Lab Ultra Glide Review (2025) | RunRepeat,Salomon,s-lab-ultra-glide,s-lab-ultra-glide,,2025-10-16,review_published,A_new_model,2025-10,2025H2
+/saucony-triumph-20,200,,2022-01-31,,Cut in half: Saucony Triumph 20 Review | RunRepeat,Saucony,triumph-20,triumph,20.0,2022-01-31,review_published,B_new_version,2022-01,2022H1
+/allbirds-tree-dasher-2-0,200,,2024-01-10,,Cut in half: Allbirds Tree Dasher 2 Review | RunRepeat,Other,allbirds-tree-dasher-2-0,allbirds-tree-dasher-2,0.0,2024-01-10,review_published,A_new_model,2024-01,2024H1
+/allbirds-tree-flyer-2,200,,2024-03-11,,Cut in half: Allbirds Tree Flyer 2 Review | RunRepeat,Other,allbirds-tree-flyer-2,allbirds-tree-flyer,2.0,2024-03-11,review_published,B_new_version,2024-03,2024H1
+/merrell-moab-flight,200,,2025-03-06,,Cut in half: Merrell Moab Flight Review (2025) | RunRepeat,Other,merrell-moab-flight,merrell-moab-flight,,2025-03-06,review_published,A_new_model,2025-03,2025H1
+/nike-juniper-trail-2,200,,2023-12-01,,Cut in half: Nike Juniper Trail 2 Review | RunRepeat,Nike,juniper-trail-2,juniper-trail,2.0,2023-12-01,review_published,B_new_version,2023-12,2023H2
+/nike-wildhorse-8,200,,2023-03-24,,Cut in half: Nike Wildhorse 8 Review | RunRepeat,Nike,wildhorse-8,wildhorse,8.0,2023-03-24,review_published,B_new_version,2023-03,2023H1
+/merrell-agility-peak-5-gtx,200,,2024-12-16,,Cut in half: Merrell Agility Peak 5 GTX Review | RunRepeat,Other,merrell-agility-peak-5-gtx,merrell-agility-peak,5.0,2024-12-16,review_published,B_new_version,2024-12,2024H2
+/nike-interact-run,200,,2024-08-19,,Cut in half: Nike Interact Run Review | RunRepeat,Nike,interact-run,interact-run,,2024-08-19,review_published,A_new_model,2024-08,2024H2
+/on-cloudsurfer-7,200,Mar 2023,2023-08-10,,Cut in half: On Cloudsurfer 7 Review | RunRepeat,On,cloudsurfer-7,cloudsurfer,7.0,2023-03-01,release_date_field,B_new_version,2023-03,2023H1
+/xero-shoes-scrambler-low,200,,2024-12-08,,Cut in half: Xero Shoes Scrambler Low Review | RunRepeat,Other,xero-shoes-scrambler-low,xero-shoes-scrambler-low,,2024-12-08,review_published,A_new_model,2024-12,2024H2
+/on-cloudrunner-2-waterproof,200,,2024-11-22,,Cut in half: On Cloudrunner 2 Waterproof Review | RunRepeat,On,cloudrunner-2-waterproof,cloudrunner-2-waterproof,,2024-11-22,review_published,A_new_model,2024-11,2024H2
+/nike-react-miler-3,200,Mar 2022,2022-08-07,,Cut in half: Nike React Miler 3 Review | RunRepeat,Nike,react-miler-3,react-miler,3.0,2022-03-01,release_date_field,B_new_version,2022-03,2022H1
+/salomon-s-lab-spectur,200,,2025-11-12,,Cut in half: Salomon S&#x2F;Lab Spectur Review (2025) | RunRepeat,Salomon,s-lab-spectur,s-lab-spectur,,2025-11-12,review_published,A_new_model,2025-11,2025H2
+/vibram-five-fingers-v-run,200,,2026-06-06,,Cut in half: Vibram FiveFingers V-Run Review (2026) | RunRepeat,Other,vibram-five-fingers-v-run,vibram-five-fingers-v-run,,2026-06-06,review_published,A_new_model,2026-06,2026H1
+/mizuno-wave-inspire-20,200,,2024-02-26,,Cut in half: Mizuno Wave Inspire 20 Review | RunRepeat,Mizuno,wave-inspire-20,wave-inspire,20.0,2024-02-26,review_published,B_new_version,2024-02,2024H1
+/under-armour-hovr-phantom-3,200,,2023-08-07,,Cut in half: Under Armour HOVR Phantom 3 Review | RunRepeat,Under Armour,hovr-phantom-3,hovr-phantom,3.0,2023-08-07,review_published,B_new_version,2023-08,2023H2
+/nike-run-swift-2,200,,2021-10-07,,Cut in half: Nike Run Swift 2 Review | RunRepeat,Nike,run-swift-2,run-swift,2.0,2021-10-07,review_published,B_new_version,2021-10,2021H2
+/asics-noosa-tri-15,200,,2023-10-27,,Cut in half: ASICS Noosa Tri 15 Review | RunRepeat,ASICS,noosa-tri-15,noosa-tri,15.0,2023-10-27,review_published,B_new_version,2023-10,2023H2
+/brooks-catamount-4,200,Feb 2026,2026-08-07,,Cut in half: Brooks Catamount 4 Review (2026) | RunRepeat,Brooks,catamount-4,catamount,4.0,2026-02-01,release_date_field,B_new_version,2026-02,2026H1
+/under-armour-charged-assert-9,200,,2023-07-17,,Cut in half: Under Armour Charged Assert 9 Review | RunRepeat,Under Armour,charged-assert-9,charged-assert,9.0,2023-07-17,review_published,B_new_version,2023-07,2023H2
+/kailas-fuga-ex-3,200,,2025-09-28,,Cut in half: Kailas Fuga EX 3 Review (2025) | RunRepeat,Other,kailas-fuga-ex-3,kailas-fuga-ex,3.0,2025-09-28,review_published,B_new_version,2025-09,2025H2
+/mizuno-wave-horizon-7,200,,2024-12-18,,Cut in half: Mizuno Wave Horizon 7 Review | RunRepeat,Mizuno,wave-horizon-7,wave-horizon,7.0,2024-12-18,review_published,B_new_version,2024-12,2024H2
+/adidas-racer-tr21,200,,2023-07-24,,Cut in half: adidas Racer TR21 Review | RunRepeat,adidas,racer-tr21,racer-tr21,,2023-07-24,review_published,A_new_model,2023-07,2023H2
+/asics-gt-1000-13,200,,2024-07-08,,Cut in half: ASICS GT 1000 13 Review | RunRepeat,ASICS,gt-1000-13,gt-1000,13.0,2024-07-08,review_published,B_new_version,2024-07,2024H2
+/mizuno-wave-rider-28,200,,2025-03-14,,Cut in half: Mizuno Wave Rider 28 Review (2025) | RunRepeat,Mizuno,wave-rider-28,wave-rider,28.0,2025-03-14,review_published,B_new_version,2025-03,2025H1
+/topo-st-5,200,,2025-12-16,,Cut in half: Topo ST-5 Review (2025) | RunRepeat,Other,topo-st-5,topo-st,5.0,2025-12-16,review_published,B_new_version,2025-12,2025H2
+/nike-free-run-50,200,Jun 2021,2021-06-17,,Cut in half: Nike Free Run 5.0 Review | RunRepeat,Nike,free-run-50,free-run,50.0,2021-06-01,release_date_field,B_new_version,2021-06,2021H1
+/the-north-face-vectiv-enduris-3,200,,2025-03-05,,Cut in half: The North Face Vectiv Enduris 3 Review (2025) | RunRepeat,Other,the-north-face-vectiv-enduris-3,the-north-face-vectiv-enduris,3.0,2025-03-05,review_published,B_new_version,2025-03,2025H1
+/xero-shoes-speed-force-ii,200,,2024-12-04,,Cut in half: Xero Shoes Speed Force II Review | RunRepeat,Other,xero-shoes-speed-force-ii,xero-shoes-speed-force-ii,,2024-12-04,review_published,A_new_model,2024-12,2024H2
+/brooks-hyperion-elite-4-pb,200,,2025-04-30,,Cut in half: Brooks Hyperion Elite 4 PB Review (2025) | RunRepeat,Brooks,hyperion-elite-4-pb,hyperion-elite-4-pb,,2025-04-30,review_published,A_new_model,2025-04,2025H1
+/lems-zenspeed,200,,2026-10-06,,Cut in half: Lems ZENSPEED+ Review (2026) | RunRepeat,Other,lems-zenspeed,lems-zenspeed,,2026-10-06,review_published,A_new_model,2026-10,2026H2
+/asics-dynablast-4,200,,2024-04-15,,Cut in half: ASICS Dynablast 4 Review | RunRepeat,ASICS,dynablast-4,dynablast,4.0,2024-04-15,review_published,B_new_version,2024-04,2024H1
+/salomon-s-lab-pulsar-4,200,,2025-10-16,,Cut in half: Salomon S&#x2F;Lab Pulsar 4 Review (2025) | RunRepeat,Salomon,s-lab-pulsar-4,s-lab-pulsar,4.0,2025-10-16,review_published,B_new_version,2025-10,2025H2
+/new-balance-mt-10,200,,2025-04-04,,Cut in half: New Balance MT10 Review (2025) | RunRepeat,New Balance,mt-10,mt,10.0,2025-04-04,review_published,B_new_version,2025-04,2025H1
+/asics-s-4-yogiri,200,,2025-12-14,,Cut in half: ASICS S4+ Yogiri Review (2025) | RunRepeat,ASICS,s-4-yogiri,s-4-yogiri,,2025-12-14,review_published,A_new_model,2025-12,2025H2
+/asics-gel-excite-trail-2,200,,2024-12-06,,Cut in half: ASICS Gel Excite Trail 2 Review | RunRepeat,ASICS,gel-excite-trail-2,gel-excite-trail,2.0,2024-12-06,review_published,B_new_version,2024-12,2024H2
+/lems-zenspeed-lite,200,,2026-10-06,,Cut in half: Lems ZENSPEED Lite Review (2026) | RunRepeat,Other,lems-zenspeed-lite,lems-zenspeed-lite,,2026-10-06,review_published,A_new_model,2026-10,2026H2
+/brooks-divide-5-gtx,200,,2025-11-23,,Cut in half: Brooks Divide 5 GTX Review (2025) | RunRepeat,Brooks,divide-5-gtx,divide,5.0,2025-11-23,review_published,B_new_version,2025-11,2025H2
+/hoka-mafate-speed-4,200,Aug 2022,2023-12-08,,Cut in half: HOKA Mafate Speed 4 Review | RunRepeat,Hoka,mafate-speed-4,mafate-speed,4.0,2022-08-01,release_date_field,B_new_version,2022-08,2022H2
+/altra-outroad-3,200,,2024-11-16,,Cut in half: Altra Outroad 3 Review | RunRepeat,Altra,outroad-3,outroad,3.0,2024-11-16,review_published,B_new_version,2024-11,2024H2
+/asics-gel-contend-8,200,Oct 2022,2023-02-09,,Cut in half: ASICS Gel Contend 8 Review | RunRepeat,ASICS,gel-contend-8,gel-contend,8.0,2022-10-01,release_date_field,B_new_version,2022-10,2022H2
+/hoka-carbon-x-3,200,Apr 2022,2023-10-26,,Cut in half: HOKA Carbon X 3 Review | RunRepeat,Hoka,carbon-x-3,carbon-x,3.0,2022-04-01,release_date_field,B_new_version,2022-04,2022H1
+/adidas-questar,200,,2022-04-03,,Cut in half: adidas Questar Review | RunRepeat,adidas,questar,questar,,2022-04-03,review_published,A_new_model,2022-04,2022H1
+/xero-shoes-mesa-trail-wp,200,,2024-12-08,,Cut in half: Xero Shoes Mesa Trail WP Review | RunRepeat,Other,xero-shoes-mesa-trail-wp,xero-shoes-mesa-trail-wp,,2024-12-08,review_published,A_new_model,2024-12,2024H2
+/salomon-aero-glide,200,Mar 2023,2024-04-29,,Cut in half: Salomon Aero Glide Review | RunRepeat,Salomon,aero-glide,aero-glide,,2023-03-01,release_date_field,A_new_model,2023-03,2023H1
+/salomon-spectur-2,200,,2025-11-11,,Cut in half: Salomon Spectur 2 Review (2025) | RunRepeat,Salomon,spectur-2,spectur,2.0,2025-11-11,review_published,B_new_version,2025-11,2025H2
+/on-cloud-waterproof,200,,2023-08-01,,Cut in half: On Cloud Waterproof Review | RunRepeat,On,cloud-waterproof,cloud-waterproof,,2023-08-01,review_published,A_new_model,2023-08,2023H2
+/nike-terra-kiger-9,200,,2023-07-04,,Cut in half: Nike Terra Kiger 9 Review | RunRepeat,Nike,terra-kiger-9,terra-kiger,9.0,2023-07-04,review_published,B_new_version,2023-07,2023H2
+/adidas-adistar-byd,200,,2026-03-22,,Cut in half: adidas Adistar BYD Review (2026) | RunRepeat,adidas,adistar-byd,adistar-byd,,2026-03-22,review_published,A_new_model,2026-03,2026H1
+/asics-gel-excite-9,200,,2022-05-14,,Cut in half: ASICS Gel Excite 9 Review | RunRepeat,ASICS,gel-excite-9,gel-excite,9.0,2022-05-14,review_published,B_new_version,2022-05,2022H1
+/adidas-runfalcon,200,,2019-02-14,,Cut in half: adidas Runfalcon Review | RunRepeat,adidas,runfalcon,runfalcon,,2019-02-14,review_published,A_new_model,2019-02,2019H1
+/nike-winflo-11-gtx,200,,2024-11-24,,Cut in half: Nike Winflo 11 GTX Review | RunRepeat,Nike,winflo-11-gtx,winflo,11.0,2024-11-24,review_published,B_new_version,2024-11,2024H2
+/adidas-alpha-bounce,200,,2023-09-21,,Cut in half: adidas Alphabounce+ Review | RunRepeat,adidas,alpha-bounce,alpha-bounce,,2023-09-21,review_published,A_new_model,2023-09,2023H2
+/skechers-go-run-ride-11,200,,2024-01-22,,Cut in half: Skechers GO RUN Ride 11 Review | RunRepeat,Skechers,go-run-ride-11,go-run-ride,11.0,2024-01-22,review_published,B_new_version,2024-01,2024H1
+/nike-juniper-trail,200,Aug 2020,2020-08-24,,Cut in half: Nike Juniper Trail Review | RunRepeat,Nike,juniper-trail,juniper-trail,,2020-08-01,release_date_field,A_new_model,2020-08,2020H2
+/asics-jolt-4,200,,2024-01-29,,Cut in half: ASICS Jolt 4 Review | RunRepeat,ASICS,jolt-4,jolt,4.0,2024-01-29,review_published,B_new_version,2024-01,2024H1
+/hoka-cielo-x-1-2-0,200,,2025-05-19,,Cut in half: HOKA Cielo X1 2.0 Review (2025) | RunRepeat,Hoka,cielo-x-1-2-0,cielo-x-1-2,0.0,2025-05-19,review_published,A_new_model,2025-05,2025H1
+/asics-gel-venture-9,200,,2023-06-26,,Cut in half: ASICS Gel Venture 9 Review | RunRepeat,ASICS,gel-venture-9,gel-venture,9.0,2023-06-26,review_published,B_new_version,2023-06,2023H1
+/reebok-lite-3,200,,2022-06-12,,Cut in half: Reebok Lite 3 Review | RunRepeat,Reebok,lite-3,lite,3.0,2022-06-12,review_published,B_new_version,2022-06,2022H1
+/k-swiss-shad-x,200,,2026-06-30,,Cut in half: K-Swiss Shadx Review (2026) | RunRepeat,Other,k-swiss-shad-x,k-swiss-shad-x,,2026-06-30,review_published,A_new_model,2026-06,2026H1
+/puma-fast-r-nitro-elite-2,200,,2024-04-17,,Cut in half: PUMA Fast-R Nitro Elite 2 Review | RunRepeat,Puma,fast-r-nitro-elite-2,fast-r-nitro-elite,2.0,2024-04-17,review_published,B_new_version,2024-04,2024H1
+/icebug-jarv-rb-9-x,200,,2025-12-04,,Cut in half: Icebug Järv RB9X Review (2025) | RunRepeat,Other,icebug-jarv-rb-9-x,icebug-jarv-rb-9-x,,2025-12-04,review_published,A_new_model,2025-12,2025H2
+/on-light-spray-cloudboom-strike-2,200,,2026-09-11,,Cut in half: On LightSpray Cloudboom Strike 2 Review (2026) | RunRepeat,On,light-spray-cloudboom-strike-2,light-spray-cloudboom-strike,2.0,2026-09-11,review_published,B_new_version,2026-09,2026H2
+/saucony-tempus,200,Jun 2022,2022-06-30,,Cut in half: Saucony Tempus Review | RunRepeat,Saucony,tempus,tempus,,2022-06-01,release_date_field,A_new_model,2022-06,2022H1
+/asics-novablast-3,200,,2023-10-26,,Cut in half: ASICS Novablast 3 Review | RunRepeat,ASICS,novablast-3,novablast,3.0,2023-10-26,review_published,B_new_version,2023-10,2023H2
+/asics-gel-trabuco-12,200,,2024-07-10,,Cut in half: ASICS Gel Trabuco 12 Review | RunRepeat,ASICS,gel-trabuco-12,gel-trabuco,12.0,2024-07-10,review_published,B_new_version,2024-07,2024H2
+/saucony-endorphin-elite,200,Feb 2023,2023-09-26,,Cut in half: Saucony Endorphin Elite Review | RunRepeat,Saucony,endorphin-elite,endorphin-elite,,2023-02-01,release_date_field,A_new_model,2023-02,2023H1
+/asics-trabuco-max-3,200,,2024-03-30,,Cut in half: ASICS Trabuco Max 3 Review | RunRepeat,ASICS,trabuco-max-3,trabuco-max,3.0,2024-03-30,review_published,B_new_version,2024-03,2024H1
+/anta-mach-6-pro,200,Jan 2026,2026-07-08,,Cut in half: ANTA Mach 6 Pro Review (2026) | RunRepeat,Anta,mach-6-pro,mach,6.0,2026-01-01,release_date_field,B_new_version,2026-01,2026H1
+/puma-deviate-nitro,200,,2021-02-25,,Cut in half: PUMA Deviate Nitro Review | RunRepeat,Puma,deviate-nitro,deviate-nitro,,2021-02-25,review_published,A_new_model,2021-02,2021H1
+/new-balance-fuel-cell-super-comp-trainer-v-2,200,,2023-11-13,,Cut in half: New Balance FuelCell SuperComp Trainer v2 Review | RunRepeat,New Balance,fuel-cell-super-comp-trainer-v-2,fuel-cell-super-comp-trainer,2.0,2023-11-13,review_published,B_new_version,2023-11,2023H2
+/asics-magic-speed-3,200,,2023-12-29,,Cut in half: ASICS Magic Speed 3 Review | RunRepeat,ASICS,magic-speed-3,magic-speed,3.0,2023-12-29,review_published,B_new_version,2023-12,2023H2
+/mizuno-wave-rebellion-pro-2,200,,2024-03-26,,Cut in half: Mizuno Wave Rebellion Pro 2 Review | RunRepeat,Mizuno,wave-rebellion-pro-2,wave-rebellion-pro,2.0,2024-03-26,review_published,B_new_version,2024-03,2024H1
+/asics-trabuco-max-2,200,,2024-01-31,,Cut in half: ASICS Trabuco Max 2 Review | RunRepeat,ASICS,trabuco-max-2,trabuco-max,2.0,2024-01-31,review_published,B_new_version,2024-01,2024H1
+/salomon-ultra-glide-2,200,Feb 2023,2023-03-24,,Cut in half: Salomon Ultra Glide 2 Review | RunRepeat,Salomon,ultra-glide-2,ultra-glide,2.0,2023-02-01,release_date_field,B_new_version,2023-02,2023H1
+/brooks-hyperion-gts-2,200,,2025-06-01,,Cut in half: Brooks Hyperion GTS 2 Review (2025) | RunRepeat,Brooks,hyperion-gts-2,hyperion-gts,2.0,2025-06-01,review_published,B_new_version,2025-06,2025H1
+/asics-noosa-tri-14,200,May 2021,2022-08-03,,Cut in half: ASICS Noosa Tri 14 Review | RunRepeat,ASICS,noosa-tri-14,noosa-tri,14.0,2021-05-01,release_date_field,B_new_version,2021-05,2021H1
+/skechers-go-run-max-road-6,200,,2024-11-27,,Cut in half: Skechers GO RUN Max Road 6 Review | RunRepeat,Skechers,go-run-max-road-6,go-run-max-road,6.0,2024-11-27,review_published,B_new_version,2024-11,2024H2
+/brooks-glycerin-gts-20,200,Jul 2022,2023-08-07,,Cut in half: Brooks Glycerin GTS 20 Review | RunRepeat,Brooks,glycerin-gts-20,glycerin-gts,20.0,2022-07-01,release_date_field,B_new_version,2022-07,2022H2
+/altra-via-olympus,200,,2022-12-07,,Cut in half: Altra VIA Olympus Review | RunRepeat,Altra,via-olympus,via-olympus,,2022-12-07,review_published,A_new_model,2022-12,2022H2
+/asics-gel-venture-8,200,,2023-08-28,,Cut in half: ASICS Gel Venture 8 Review | RunRepeat,ASICS,gel-venture-8,gel-venture,8.0,2023-08-28,review_published,B_new_version,2023-08,2023H2
+/topo-athletic-mtn-racer-3,200,,2025-03-03,,Cut in half: Topo MTN Racer 3 Review (2025) | RunRepeat,Topo,mtn-racer-3,mtn-racer,3.0,2025-03-03,review_published,B_new_version,2025-03,2025H1
+/altra-escalante-racer,200,Sep 2018,2024-04-18,,Cut in half: Altra Escalante Racer Review | RunRepeat,Altra,escalante-racer,escalante-racer,,2018-09-01,release_date_field,A_new_model,2018-09,2018H2
+/saucony-endorphin-rift,200,,2024-01-22,,Cut in half: Saucony Endorphin Rift Review | RunRepeat,Saucony,endorphin-rift,endorphin-rift,,2024-01-22,review_published,A_new_model,2024-01,2024H1
+/diadora-gara-carbon,200,,2025-12-23,,Cut in half: Diadora Gara Carbon Review (2025) | RunRepeat,Other,diadora-gara-carbon,diadora-gara-carbon,,2025-12-23,review_published,A_new_model,2025-12,2025H2
+/hiracer-hiwings-pro,200,,2026-09-16,,Cut in half: HIRACER HIWINGS PRO Review (2026) | RunRepeat,Other,hiracer-hiwings-pro,hiracer-hiwings-pro,,2026-09-16,review_published,A_new_model,2026-09,2026H2
+/kailas-fuga-ex-pro,200,,2025-09-29,,Cut in half: Kailas Fuga EX Pro Review (2025) | RunRepeat,Other,kailas-fuga-ex-pro,kailas-fuga-ex-pro,,2025-09-29,review_published,A_new_model,2025-09,2025H2
+/altra-superior-6,200,,2024-01-30,,Cut in half: Altra Superior 6 Review | RunRepeat,Altra,superior-6,superior,6.0,2024-01-30,review_published,B_new_version,2024-01,2024H1
+/saucony-sinister,200,Apr 2023,2024-01-17,,Cut in half: Saucony Sinister Review | RunRepeat,Saucony,sinister,sinister,,2023-04-01,release_date_field,A_new_model,2023-04,2023H1
+/brooks-levitate-stealthfit-6,200,,2023-11-06,,Cut in half: Brooks Levitate Stealthfit 6 Review | RunRepeat,Brooks,levitate-stealthfit-6,levitate-stealthfit,6.0,2023-11-06,review_published,B_new_version,2023-11,2023H2
+/asics-gel-kinsei-max,200,,2025-04-03,,Cut in half: ASICS Gel Kinsei Max Review (2025) | RunRepeat,ASICS,gel-kinsei-max,gel-kinsei-max,,2025-04-03,review_published,A_new_model,2025-04,2025H1
+/hoka-torrent-3,200,,2023-12-18,,Cut in half: HOKA Torrent 3 Review | RunRepeat,Hoka,torrent-3,torrent,3.0,2023-12-18,review_published,B_new_version,2023-12,2023H2
+/salomon-slab-ultra,200,,2025-10-14,,Cut in half: Salomon S&#x2F;Lab Ultra Review (2025) | RunRepeat,Salomon,slab-ultra,slab-ultra,,2025-10-14,review_published,A_new_model,2025-10,2025H2
+/adidas-fluidflow-20,200,,2023-07-24,,Cut in half: adidas Fluidflow 2.0 Review | RunRepeat,adidas,fluidflow-20,fluidflow,20.0,2023-07-24,review_published,B_new_version,2023-07,2023H2
+/allswifit-active-5-k,200,,2026-04-14,,Cut in half: ALLSWIFIT Active5K Review (2026) | RunRepeat,Other,allswifit-active-5-k,allswifit-active-5-k,,2026-04-14,review_published,A_new_model,2026-04,2026H1
+/nike-revolution-7-easyon,200,,2024-11-17,,Cut in half: Nike Revolution 7 EasyOn Review | RunRepeat,Nike,revolution-7-easyon,revolution-7-easyon,,2024-11-17,review_published,A_new_model,2024-11,2024H2
+/tyr-maverick-v-1-runner,200,,2025-10-14,,Cut in half: TYR Maverick V1 Runner Review (2025) | RunRepeat,Other,tyr-maverick-v-1-runner,tyr-maverick-v-1-runner,,2025-10-14,review_published,A_new_model,2025-10,2025H2
+/ardiles-runergize,200,,2026-06-27,,Cut in half: Ardiles Runergize Review (2026) | RunRepeat,Other,ardiles-runergize,ardiles-runergize,,2026-06-27,review_published,A_new_model,2026-06,2026H1
+/allswifit-active-rise,200,,2026-08-21,,Cut in half: ALLSWIFIT ActiveRise+ Review (2026) | RunRepeat,Other,allswifit-active-rise,allswifit-active-rise,,2026-08-21,review_published,A_new_model,2026-08,2026H2
+/ortuseight-solar-2-0,200,,2026-05-07,,Cut in half: Ortuseight Solar 2.0 Review (2026) | RunRepeat,Other,ortuseight-solar-2-0,ortuseight-solar-2,0.0,2026-05-07,review_published,A_new_model,2026-05,2026H1
+/skechers-max-cushioning-elite-2-0,200,,2024-12-19,,Cut in half: Skechers Max Cushioning Elite 2.0 Review | RunRepeat,Skechers,max-cushioning-elite-2-0,max-cushioning-elite-2,0.0,2024-12-19,review_published,A_new_model,2024-12,2024H2
+/darimati-br-001,200,,2026-02-27,,Cut in half: Darimati BR-001 Review (2026) | RunRepeat,Other,darimati-br-001,darimati-br,1.0,2026-02-27,review_published,A_new_model,2026-02,2026H1

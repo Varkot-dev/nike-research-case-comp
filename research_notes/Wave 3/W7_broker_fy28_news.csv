@@ -1,0 +1,10 @@
+note_date,firm,item,value_usd_per_share,source_and_quote,tag
+2026-04-01,Bank of America (Hutchinson),FY28 EPS,2.00 (from 3.26),"sgbonline.com article dated 2026-04-01, quote: her EPS estimates were slashed to $1.60 from $2.40 for FY27 and to $2.00 from $3.26 for FY28",OPENED
+2026-04-01,Needham (Nikic),FY28 EPS,2.02 (from 2.07),same sgbonline article,OPENED
+2026-08-04,JPMorgan (Boss),FY28 EPS,"1.72, about 20% below the Street","finance.yahoo.com article dated 2026-08-04 (pre-print; Oct 2 note cut PT to 33, new EPS not found)",OPENED
+2026-09-25,Needham,FY28 EPS,1.80 (from 2.00),tradingpedia.com 2026-09-25: Needham trimmed its fiscal 2027 EPS forecast to $1.64 from $1.74 and its fiscal 2028 projection to $1.80 from $2.00 (NOTE: conflicts with Apr 1 figures of 1.66 / 2.02 for the same firm; 2.00 may be an interim revision),OPENED
+2026-09-25,Bank of America (Hutchinson),FY28 EPS change,-12%; level 1.87 per one secondary search snippet,"stocktwits/The Fly 2026-09-25: lowered FY27 and FY28 EPS by 11% and 12%; FY27 now 14% below Visible Alpha consensus. 1.87 level SNIPPET only, does not reconcile with 2.00 x 0.88 = 1.76",OPENED (pct) / SNIPPET (level)
+2026-10-02,Bank of America (Hutchinson),FY28 EPS change,-22%; level DERIVED 1.37 to 1.46,stocktwits 2026-10-02: cut FY27 and FY28 EPS by 21% and 22%. DERIVED: 1.76 x 0.78 = 1.37 or 1.87 x 0.78 = 1.46 depending on base,OPENED (pct) / DERIVED
+2026-10-06,Berenberg (Anderson),FY27 EPS 1.08; FY28 EPS change -46%,FY28 level not published in free sources,"parameter.io 2026-10-06: Berenberg projects fiscal 2027 EPS of $1.08; EPS cuts of 38%, 46%, 34%; Teleborsa 2026-10-06 13:48 reads the three as 2027, 2028, 2029 respectively",OPENED
+2026-09,Stifel,FY27 and FY28 EPS,-0.20 each,"search-engine summary, pre-print, source page not opened",SNIPPET
+2026-10-02,Wells Fargo (Boruchow),Street EPS,about -25% cut to Street EPS (year not stated),"search-engine summary, source page not opened",SNIPPET

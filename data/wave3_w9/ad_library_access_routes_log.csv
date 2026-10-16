@@ -1,0 +1,23 @@
+target,route,date_tried,result,detail,tag
+Google Ads Transparency Center,adstransparency.google.com home via curl,2026-10-16,BLOCKED,302 to google.com/sorry (captcha interstitial). Not bypassed per rules,OPENED
+Google Ads Transparency Center,public RPC SearchSuggestions and SearchCreatives (same endpoints as the web app; no login),2026-10-16,BLOCKED,HTTP 429 on first call for both; earlier session (2026-10-14) got suggestions only and then 429 for >1h,OPENED
+Google Ads Transparency Center,WebFetch of advertiser page AR16735076323512287233,2026-10-16,PARTIAL,returns only navigation shell (JS app); no counts,OPENED
+Google Ads Transparency Center,earlier-session suggestion buckets (data/hunt/marketing_athletes/raw/google_ads/suggest_*.json),2026-10-14,WORKED_PARTIAL,lifetime creative-count buckets per advertiser entity (see google_ads_lifetime_creative_buckets_2026-10-14.csv),OPENED
+Google Ads Transparency Center,BigQuery public dataset bigquery-public-data.google_ads_transparency_center via preconfigured bq CLI,2026-10-16,BLOCKED,Invalid Credentials (no login attempted),OPENED
+Meta Ad Library,facebook.com/ads/library page and /report via curl,2026-10-16,BLOCKED,HTTP 403 JavaScript challenge page; not bypassed,OPENED
+Meta Ad Library,Graph API ads_archive without token,2026-10-16,BLOCKED,OAuthException code 1 (token required; not created),OPENED
+Meta Ad Library,web search for third party counts (AdClarity Pathmatics Sensor Tower),2026-10-16,PARTIAL,only Digiday July 2026 AdClarity statement: Nike cut Meta and TikTok in May to June 2026; adidas raised paid social,SNIPPET
+TikTok Ad Library (EU DSA),library.tiktok.com/ads page,2026-10-16,PARTIAL,200 but JS app; endpoint names found in bundle (/api/v1/search) but POST returned 421 system busy (signature-protected); not pursued,OPENED
+LinkedIn Ad Library,linkedin.com/ad-library/search?accountOwner=Nike,2026-10-16,BLOCKED,HTTP 403 Cloudflare block; not bypassed,OPENED
+iSpot.tv,brand pages (public),2026-10-16,WORKED_PARTIAL,30-day airings and spend rank for 8 brands; dollar spend masked,OPENED
+iSpot.tv,individual ad pages,2026-10-16,PARTIAL,airings, first/last airing and spend locked behind lead form; only publish date visible,OPENED
+iSpot.tv,Wayback Machine snapshots for history,2026-10-16,BLOCKED,connection reset via proxy (also 2026-10-14),OPENED
+Common Crawl index,index.commoncrawl.org for archived iSpot pages,2026-10-16,BLOCKED,connection reset,OPENED
+Press coverage of iSpot and AdClarity,mediapost.com 2026-07-02; digiday.com 2026-07-10,2026-10-16,WORKED,World Cup window figures for Nike and adidas,OPENED
+Meta Ad Library,WebFetch tool on ads/library search URL,2026-10-16,BLOCKED,HTTP 403,OPENED
+Meta Ad Library,ads/library/report (country report) via curl,2026-10-16,BLOCKED,HTTP 403 JavaScript challenge,OPENED
+LinkedIn Ad Library,WebFetch tool on ad-library/search,2026-10-16,BLOCKED,HTTP 403,OPENED
+TikTok Ad Library,WebFetch on library.tiktok.com/ads?region=DE&adv_name=nike,2026-10-16,BLOCKED,JS app returns empty content,OPENED
+Google Ads Transparency Center,advertiser page with region=DE via curl,2026-10-16,BLOCKED,HTTP 429 interstitial,OPENED
+Google Transparency Report political ads home,curl,2026-10-16,BLOCKED,HTTP 429,OPENED
+iSpot history via archive.org availability API,api returns snapshot URL (example 2025-08-04 for ispot.tv/brands/Atg/nike) but fetching web.archive.org content is reset by proxy,2026-10-16,PARTIAL,snapshot exists; content unreachable. A human browser could read the 2025-08-04 page to get a prior 30-day airing count,OPENED

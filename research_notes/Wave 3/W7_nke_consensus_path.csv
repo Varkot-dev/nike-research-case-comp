@@ -1,0 +1,21 @@
+date_of_value_approx,ticker,fiscal_year,consensus_eps_usd,source
+2026-07-15,NKE,FY27,1.73093,"Yahoo epsTrend 90daysAgo in Oct 13 pull (scratchpad qs_NKE_1014.json, OPENED)"
+2026-07-15,NKE,FY28,2.26662,same
+2026-07-18,NKE,FY27,1.72641,"Yahoo epsTrend 90daysAgo, Oct 16 pull"
+2026-07-18,NKE,FY28,2.23894,same
+2026-08-14,NKE,FY27,1.72383,Oct 13 pull 60daysAgo
+2026-08-14,NKE,FY28,2.23778,same
+2026-08-17,NKE,FY27,1.72383,Oct 16 pull 60daysAgo
+2026-08-17,NKE,FY28,2.23778,same
+2026-09-13,NKE,FY27,1.7122,Oct 13 pull 30daysAgo
+2026-09-13,NKE,FY28,2.22078,same
+2026-09-16,NKE,FY27,1.70317,Oct 16 pull 30daysAgo
+2026-09-16,NKE,FY28,2.20157,same
+2026-10-06,NKE,FY27,1.35606,Oct 13 pull 7daysAgo
+2026-10-06,NKE,FY28,1.78023,same
+2026-10-09,NKE,FY27,1.28907,Oct 16 pull 7daysAgo
+2026-10-09,NKE,FY28,1.65264,same
+2026-10-13,NKE,FY27,1.28806,Oct 13/14 pull current
+2026-10-13,NKE,FY28,1.64603,same
+2026-10-16,NKE,FY27,1.27631,Oct 16 pull current
+2026-10-16,NKE,FY28,1.61659,same

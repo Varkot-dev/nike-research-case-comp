@@ -1,0 +1,1437 @@
+month,source,brand,class_,rows_all,rows_adult,rows_womens,new_model_debuts,basis,tag
+2026-10,Nice Kicks upcoming calendar (snapshot 2026-10-16),Jordan,B_perf_version,1,1,0,0,announced release date,OPENED
+2026-10,Nice Kicks upcoming calendar (snapshot 2026-10-16),Jordan,C_retro_classic,5,5,0,0,announced release date,OPENED
+2026-10,Nice Kicks upcoming calendar (snapshot 2026-10-16),Jordan,D_collab,1,1,0,0,announced release date,OPENED
+2026-10,Nice Kicks upcoming calendar (snapshot 2026-10-16),Jordan,U_unmatched,1,1,0,0,announced release date,OPENED
+2026-10,Nice Kicks upcoming calendar (snapshot 2026-10-16),New Balance,B_perf_version,2,2,0,0,announced release date,OPENED
+2026-10,Nice Kicks upcoming calendar (snapshot 2026-10-16),Nike,B_perf_version,5,5,0,0,announced release date,OPENED
+2026-10,Nice Kicks upcoming calendar (snapshot 2026-10-16),Nike,C_retro_classic,6,6,0,0,announced release date,OPENED
+2026-10,Nice Kicks upcoming calendar (snapshot 2026-10-16),Nike,D_collab,2,2,0,0,announced release date,OPENED
+2026-10,Nice Kicks upcoming calendar (snapshot 2026-10-16),Nike,U_unmatched,1,1,0,0,announced release date,OPENED
+2026-10,Nice Kicks upcoming calendar (snapshot 2026-10-16),adidas,B_perf_version,2,2,0,0,announced release date,OPENED
+2026-10,Nice Kicks upcoming calendar (snapshot 2026-10-16),adidas,D_collab,10,10,0,0,announced release date,OPENED
+2026-11,Nice Kicks upcoming calendar (snapshot 2026-10-16),Jordan,B_perf_version,1,1,0,0,announced release date,OPENED
+2026-11,Nice Kicks upcoming calendar (snapshot 2026-10-16),Jordan,C_retro_classic,14,12,0,0,announced release date,OPENED
+2026-11,Nice Kicks upcoming calendar (snapshot 2026-10-16),Jordan,U_unmatched,3,3,0,0,announced release date,OPENED
+2026-11,Nice Kicks upcoming calendar (snapshot 2026-10-16),Nike,A_new_model,3,3,0,0,announced release date,OPENED
+2026-11,Nice Kicks upcoming calendar (snapshot 2026-10-16),Nike,B_perf_version,2,2,0,0,announced release date,OPENED
+2026-11,Nice Kicks upcoming calendar (snapshot 2026-10-16),Nike,C_retro_classic,3,3,0,0,announced release date,OPENED
+2026-11,Nice Kicks upcoming calendar (snapshot 2026-10-16),Nike,D_collab,2,2,0,0,announced release date,OPENED
+2026-11,Nice Kicks upcoming calendar (snapshot 2026-10-16),Nike,U_unmatched,1,1,0,0,announced release date,OPENED
+2026-12,Nice Kicks upcoming calendar (snapshot 2026-10-16),Jordan,C_retro_classic,5,5,0,0,announced release date,OPENED
+2026-12,Nice Kicks upcoming calendar (snapshot 2026-10-16),Nike,A_new_model,2,2,0,0,announced release date,OPENED
+2027-01,Nice Kicks upcoming calendar (snapshot 2026-10-16),Jordan,C_retro_classic,3,3,0,0,announced release date,OPENED
+2027-02,Nice Kicks upcoming calendar (snapshot 2026-10-16),Jordan,C_retro_classic,2,2,0,0,announced release date,OPENED
+2027-03,Nice Kicks upcoming calendar (snapshot 2026-10-16),Jordan,C_retro_classic,2,2,0,0,announced release date,OPENED
+2027-04,Nice Kicks upcoming calendar (snapshot 2026-10-16),Jordan,C_retro_classic,3,3,0,0,announced release date,OPENED
+2027-05,Nice Kicks upcoming calendar (snapshot 2026-10-16),Jordan,C_retro_classic,2,2,0,0,announced release date,OPENED
+2027-06,Nice Kicks upcoming calendar (snapshot 2026-10-16),Jordan,C_retro_classic,2,2,0,0,announced release date,OPENED
+2027-06,Nice Kicks upcoming calendar (snapshot 2026-10-16),Jordan,D_collab,2,2,0,0,announced release date,OPENED
+2023-02,RunRepeat running catalog,Hoka,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-02,RunRepeat running catalog,Nike,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-03,RunRepeat running catalog,Hoka,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-03,RunRepeat running catalog,New Balance,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-03,RunRepeat running catalog,Nike,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-03,RunRepeat running catalog,On,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2023-04,RunRepeat running catalog,Nike,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-05,RunRepeat running catalog,ASICS,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-06,RunRepeat running catalog,ASICS,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-06,RunRepeat running catalog,New Balance,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-06,RunRepeat running catalog,adidas,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2023-07,RunRepeat running catalog,Nike,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-07,RunRepeat running catalog,On,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-07,RunRepeat running catalog,On,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-07,RunRepeat running catalog,adidas,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-07,RunRepeat running catalog,adidas,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2023-08,RunRepeat running catalog,ASICS,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-08,RunRepeat running catalog,Hoka,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-08,RunRepeat running catalog,On,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-08,RunRepeat running catalog,adidas,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-09,RunRepeat running catalog,ASICS,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-09,RunRepeat running catalog,ASICS,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2023-09,RunRepeat running catalog,Hoka,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-09,RunRepeat running catalog,Hoka,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2023-09,RunRepeat running catalog,Nike,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2023-09,RunRepeat running catalog,adidas,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-10,RunRepeat running catalog,ASICS,B_new_version,3,3,0,3,release-date field if present else review-published date,OPENED
+2023-10,RunRepeat running catalog,Hoka,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-10,RunRepeat running catalog,Hoka,B_new_version,3,3,0,3,release-date field if present else review-published date,OPENED
+2023-10,RunRepeat running catalog,New Balance,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-10,RunRepeat running catalog,On,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2023-10,RunRepeat running catalog,adidas,A_new_model,2,2,0,2,release-date field if present else review-published date,OPENED
+2023-11,RunRepeat running catalog,ASICS,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-11,RunRepeat running catalog,Hoka,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-11,RunRepeat running catalog,New Balance,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2023-11,RunRepeat running catalog,Nike,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-11,RunRepeat running catalog,Nike,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-11,RunRepeat running catalog,On,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-11,RunRepeat running catalog,adidas,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-12,RunRepeat running catalog,ASICS,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2023-12,RunRepeat running catalog,Hoka,B_new_version,3,3,0,3,release-date field if present else review-published date,OPENED
+2023-12,RunRepeat running catalog,Nike,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-12,RunRepeat running catalog,On,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-01,RunRepeat running catalog,ASICS,B_new_version,3,3,0,3,release-date field if present else review-published date,OPENED
+2024-01,RunRepeat running catalog,New Balance,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-01,RunRepeat running catalog,On,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-02,RunRepeat running catalog,ASICS,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-02,RunRepeat running catalog,Nike,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-02,RunRepeat running catalog,Nike,B_new_version,5,5,0,5,release-date field if present else review-published date,OPENED
+2024-03,RunRepeat running catalog,ASICS,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-03,RunRepeat running catalog,ASICS,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-03,RunRepeat running catalog,Hoka,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-03,RunRepeat running catalog,Hoka,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-03,RunRepeat running catalog,New Balance,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2024-03,RunRepeat running catalog,On,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-03,RunRepeat running catalog,adidas,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-04,RunRepeat running catalog,ASICS,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2024-04,RunRepeat running catalog,Hoka,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2024-04,RunRepeat running catalog,New Balance,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-04,RunRepeat running catalog,Nike,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-05,RunRepeat running catalog,New Balance,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-05,RunRepeat running catalog,On,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-05,RunRepeat running catalog,adidas,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-05,RunRepeat running catalog,adidas,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-06,RunRepeat running catalog,Hoka,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-06,RunRepeat running catalog,New Balance,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-06,RunRepeat running catalog,Nike,B_new_version,4,4,0,4,release-date field if present else review-published date,OPENED
+2024-06,RunRepeat running catalog,On,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-06,RunRepeat running catalog,On,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-06,RunRepeat running catalog,adidas,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-06,RunRepeat running catalog,adidas,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-07,RunRepeat running catalog,ASICS,B_new_version,5,5,0,5,release-date field if present else review-published date,OPENED
+2024-07,RunRepeat running catalog,adidas,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-08,RunRepeat running catalog,ASICS,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2024-08,RunRepeat running catalog,Hoka,A_new_model,2,2,0,2,release-date field if present else review-published date,OPENED
+2024-08,RunRepeat running catalog,Hoka,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-08,RunRepeat running catalog,New Balance,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-08,RunRepeat running catalog,New Balance,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2024-08,RunRepeat running catalog,Nike,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-08,RunRepeat running catalog,Nike,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-08,RunRepeat running catalog,adidas,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2024-09,RunRepeat running catalog,ASICS,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-09,RunRepeat running catalog,New Balance,B_new_version,3,3,0,3,release-date field if present else review-published date,OPENED
+2024-10,RunRepeat running catalog,ASICS,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-10,RunRepeat running catalog,New Balance,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2024-10,RunRepeat running catalog,Nike,A_new_model,2,2,0,2,release-date field if present else review-published date,OPENED
+2024-10,RunRepeat running catalog,On,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-10,RunRepeat running catalog,On,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-10,RunRepeat running catalog,adidas,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-11,RunRepeat running catalog,Nike,A_new_model,2,2,0,2,release-date field if present else review-published date,OPENED
+2024-11,RunRepeat running catalog,Nike,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2024-11,RunRepeat running catalog,On,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-11,RunRepeat running catalog,adidas,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-11,RunRepeat running catalog,adidas,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-12,RunRepeat running catalog,ASICS,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2024-12,RunRepeat running catalog,Nike,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-12,RunRepeat running catalog,On,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2024-12,RunRepeat running catalog,adidas,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-01,RunRepeat running catalog,ASICS,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-01,RunRepeat running catalog,Hoka,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-01,RunRepeat running catalog,New Balance,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-01,RunRepeat running catalog,New Balance,B_new_version,3,3,0,3,release-date field if present else review-published date,OPENED
+2025-01,RunRepeat running catalog,Nike,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-01,RunRepeat running catalog,adidas,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-01,RunRepeat running catalog,adidas,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-02,RunRepeat running catalog,ASICS,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2025-02,RunRepeat running catalog,Hoka,B_new_version,3,3,0,3,release-date field if present else review-published date,OPENED
+2025-02,RunRepeat running catalog,adidas,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-03,RunRepeat running catalog,New Balance,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-03,RunRepeat running catalog,New Balance,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-04,RunRepeat running catalog,ASICS,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-04,RunRepeat running catalog,Hoka,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-04,RunRepeat running catalog,New Balance,B_new_version,3,3,0,3,release-date field if present else review-published date,OPENED
+2025-04,RunRepeat running catalog,Nike,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2025-04,RunRepeat running catalog,adidas,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-05,RunRepeat running catalog,ASICS,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2025-05,RunRepeat running catalog,Hoka,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-05,RunRepeat running catalog,New Balance,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-05,RunRepeat running catalog,Nike,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-05,RunRepeat running catalog,Nike,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-05,RunRepeat running catalog,adidas,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2025-06,RunRepeat running catalog,On,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-06,RunRepeat running catalog,On,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-06,RunRepeat running catalog,adidas,B_new_version,3,3,0,3,release-date field if present else review-published date,OPENED
+2025-07,RunRepeat running catalog,ASICS,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-07,RunRepeat running catalog,New Balance,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-07,RunRepeat running catalog,On,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-07,RunRepeat running catalog,adidas,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-08,RunRepeat running catalog,ASICS,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-08,RunRepeat running catalog,ASICS,B_new_version,3,3,0,3,release-date field if present else review-published date,OPENED
+2025-08,RunRepeat running catalog,Nike,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-08,RunRepeat running catalog,On,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-08,RunRepeat running catalog,On,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-09,RunRepeat running catalog,ASICS,A_new_model,2,2,0,2,release-date field if present else review-published date,OPENED
+2025-09,RunRepeat running catalog,ASICS,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2025-09,RunRepeat running catalog,Hoka,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2025-09,RunRepeat running catalog,New Balance,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-09,RunRepeat running catalog,New Balance,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-09,RunRepeat running catalog,Nike,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-09,RunRepeat running catalog,Nike,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2025-10,RunRepeat running catalog,ASICS,A_new_model,3,3,0,3,release-date field if present else review-published date,OPENED
+2025-10,RunRepeat running catalog,Hoka,B_new_version,3,3,0,3,release-date field if present else review-published date,OPENED
+2025-10,RunRepeat running catalog,New Balance,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-10,RunRepeat running catalog,Nike,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-10,RunRepeat running catalog,Nike,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-10,RunRepeat running catalog,On,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-11,RunRepeat running catalog,Hoka,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-11,RunRepeat running catalog,New Balance,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-11,RunRepeat running catalog,Nike,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-12,RunRepeat running catalog,ASICS,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-12,RunRepeat running catalog,ASICS,B_new_version,4,4,0,4,release-date field if present else review-published date,OPENED
+2025-12,RunRepeat running catalog,Nike,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2025-12,RunRepeat running catalog,adidas,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-01,RunRepeat running catalog,ASICS,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2026-01,RunRepeat running catalog,New Balance,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-01,RunRepeat running catalog,On,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-01,RunRepeat running catalog,On,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-01,RunRepeat running catalog,adidas,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2026-02,RunRepeat running catalog,Hoka,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-02,RunRepeat running catalog,New Balance,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-02,RunRepeat running catalog,On,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-02,RunRepeat running catalog,On,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-02,RunRepeat running catalog,adidas,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-02,RunRepeat running catalog,adidas,B_new_version,4,4,0,4,release-date field if present else review-published date,OPENED
+2026-03,RunRepeat running catalog,ASICS,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2026-03,RunRepeat running catalog,Hoka,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-03,RunRepeat running catalog,Hoka,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2026-03,RunRepeat running catalog,New Balance,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-03,RunRepeat running catalog,Nike,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-03,RunRepeat running catalog,Nike,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-03,RunRepeat running catalog,On,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-03,RunRepeat running catalog,On,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-03,RunRepeat running catalog,adidas,A_new_model,3,3,0,3,release-date field if present else review-published date,OPENED
+2026-03,RunRepeat running catalog,adidas,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2026-04,RunRepeat running catalog,Nike,A_new_model,3,3,0,3,release-date field if present else review-published date,OPENED
+2026-04,RunRepeat running catalog,Nike,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-04,RunRepeat running catalog,adidas,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2026-05,RunRepeat running catalog,ASICS,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2026-05,RunRepeat running catalog,Nike,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-06,RunRepeat running catalog,ASICS,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-06,RunRepeat running catalog,New Balance,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-06,RunRepeat running catalog,On,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-06,RunRepeat running catalog,adidas,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-07,RunRepeat running catalog,ASICS,B_new_version,3,3,0,3,release-date field if present else review-published date,OPENED
+2026-07,RunRepeat running catalog,Hoka,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-07,RunRepeat running catalog,Hoka,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-07,RunRepeat running catalog,adidas,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-07,RunRepeat running catalog,adidas,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2026-08,RunRepeat running catalog,Hoka,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-08,RunRepeat running catalog,New Balance,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-08,RunRepeat running catalog,New Balance,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-08,RunRepeat running catalog,Nike,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-08,RunRepeat running catalog,adidas,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-08,RunRepeat running catalog,adidas,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2026-09,RunRepeat running catalog,ASICS,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-09,RunRepeat running catalog,Hoka,B_new_version,2,2,0,2,release-date field if present else review-published date,OPENED
+2026-09,RunRepeat running catalog,On,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-09,RunRepeat running catalog,adidas,B_new_version,1,1,0,1,release-date field if present else review-published date,OPENED
+2026-10,RunRepeat running catalog,Hoka,A_new_model,1,1,0,1,release-date field if present else review-published date,OPENED
+2023-01,SBD calendar (main+Jordan page),Jordan,C_retro_classic,10,7,1,0,release date (announced if >=2026-10),OPENED
+2023-01,SBD calendar (main+Jordan page),Nike,B_perf_version,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-01,SBD calendar (main+Jordan page),Nike,C_retro_classic,8,8,1,0,release date (announced if >=2026-10),OPENED
+2023-01,SBD calendar (main+Jordan page),Nike,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2023-01,SBD calendar (main+Jordan page),adidas,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2023-02,SBD calendar (main+Jordan page),Jordan,C_retro_classic,11,11,3,0,release date (announced if >=2026-10),OPENED
+2023-02,SBD calendar (main+Jordan page),Jordan,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2023-02,SBD calendar (main+Jordan page),Nike,B_perf_version,2,2,0,0,release date (announced if >=2026-10),OPENED
+2023-02,SBD calendar (main+Jordan page),Nike,C_retro_classic,20,20,3,0,release date (announced if >=2026-10),OPENED
+2023-02,SBD calendar (main+Jordan page),Nike,D_collab,6,6,0,0,release date (announced if >=2026-10),OPENED
+2023-02,SBD calendar (main+Jordan page),adidas,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-03,SBD calendar (main+Jordan page),Jordan,C_retro_classic,7,7,2,0,release date (announced if >=2026-10),OPENED
+2023-03,SBD calendar (main+Jordan page),Jordan,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2023-03,SBD calendar (main+Jordan page),New Balance,C_retro_classic,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-03,SBD calendar (main+Jordan page),New Balance,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-03,SBD calendar (main+Jordan page),Nike,A_new_model,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-03,SBD calendar (main+Jordan page),Nike,B_perf_version,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-03,SBD calendar (main+Jordan page),Nike,C_retro_classic,20,19,4,0,release date (announced if >=2026-10),OPENED
+2023-03,SBD calendar (main+Jordan page),Nike,D_collab,8,8,0,0,release date (announced if >=2026-10),OPENED
+2023-03,SBD calendar (main+Jordan page),Nike,U_unmatched,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-03,SBD calendar (main+Jordan page),adidas,B_perf_version,2,2,0,0,release date (announced if >=2026-10),OPENED
+2023-03,SBD calendar (main+Jordan page),adidas,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2023-04,SBD calendar (main+Jordan page),Jordan,A_new_model,2,2,0,1,release date (announced if >=2026-10),OPENED
+2023-04,SBD calendar (main+Jordan page),Jordan,C_retro_classic,7,6,0,0,release date (announced if >=2026-10),OPENED
+2023-04,SBD calendar (main+Jordan page),Jordan,D_collab,1,1,1,0,release date (announced if >=2026-10),OPENED
+2023-04,SBD calendar (main+Jordan page),Jordan,U_unmatched,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-04,SBD calendar (main+Jordan page),New Balance,C_retro_classic,8,8,2,0,release date (announced if >=2026-10),OPENED
+2023-04,SBD calendar (main+Jordan page),New Balance,D_collab,3,3,0,0,release date (announced if >=2026-10),OPENED
+2023-04,SBD calendar (main+Jordan page),Nike,A_new_model,1,1,0,1,release date (announced if >=2026-10),OPENED
+2023-04,SBD calendar (main+Jordan page),Nike,B_perf_version,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-04,SBD calendar (main+Jordan page),Nike,C_retro_classic,24,23,6,0,release date (announced if >=2026-10),OPENED
+2023-04,SBD calendar (main+Jordan page),Nike,D_collab,8,8,0,0,release date (announced if >=2026-10),OPENED
+2023-04,SBD calendar (main+Jordan page),adidas,C_retro_classic,2,2,0,0,release date (announced if >=2026-10),OPENED
+2023-04,SBD calendar (main+Jordan page),adidas,D_collab,3,3,0,0,release date (announced if >=2026-10),OPENED
+2023-05,SBD calendar (main+Jordan page),Jordan,A_new_model,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-05,SBD calendar (main+Jordan page),Jordan,C_retro_classic,16,16,3,0,release date (announced if >=2026-10),OPENED
+2023-05,SBD calendar (main+Jordan page),New Balance,B_perf_version,1,1,0,1,release date (announced if >=2026-10),OPENED
+2023-05,SBD calendar (main+Jordan page),New Balance,C_retro_classic,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-05,SBD calendar (main+Jordan page),New Balance,D_collab,4,4,0,0,release date (announced if >=2026-10),OPENED
+2023-05,SBD calendar (main+Jordan page),Nike,A_new_model,3,2,0,0,release date (announced if >=2026-10),OPENED
+2023-05,SBD calendar (main+Jordan page),Nike,B_perf_version,2,1,0,0,release date (announced if >=2026-10),OPENED
+2023-05,SBD calendar (main+Jordan page),Nike,C_retro_classic,19,18,4,0,release date (announced if >=2026-10),OPENED
+2023-05,SBD calendar (main+Jordan page),Nike,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-05,SBD calendar (main+Jordan page),Nike,U_unmatched,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-05,SBD calendar (main+Jordan page),adidas,D_collab,7,7,0,0,release date (announced if >=2026-10),OPENED
+2023-06,SBD calendar (main+Jordan page),Jordan,A_new_model,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-06,SBD calendar (main+Jordan page),Jordan,C_retro_classic,8,7,2,0,release date (announced if >=2026-10),OPENED
+2023-06,SBD calendar (main+Jordan page),Jordan,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-07,SBD calendar (main+Jordan page),Jordan,A_new_model,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-07,SBD calendar (main+Jordan page),Jordan,B_perf_version,3,3,0,1,release date (announced if >=2026-10),OPENED
+2023-07,SBD calendar (main+Jordan page),Jordan,C_retro_classic,9,8,2,0,release date (announced if >=2026-10),OPENED
+2023-07,SBD calendar (main+Jordan page),New Balance,C_retro_classic,5,5,0,0,release date (announced if >=2026-10),OPENED
+2023-07,SBD calendar (main+Jordan page),New Balance,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2023-07,SBD calendar (main+Jordan page),Nike,A_new_model,2,2,0,0,release date (announced if >=2026-10),OPENED
+2023-07,SBD calendar (main+Jordan page),Nike,C_retro_classic,16,16,3,0,release date (announced if >=2026-10),OPENED
+2023-07,SBD calendar (main+Jordan page),Nike,D_collab,3,3,0,0,release date (announced if >=2026-10),OPENED
+2023-07,SBD calendar (main+Jordan page),adidas,D_collab,4,4,0,0,release date (announced if >=2026-10),OPENED
+2023-08,SBD calendar (main+Jordan page),Jordan,A_new_model,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-08,SBD calendar (main+Jordan page),Jordan,B_perf_version,2,2,0,1,release date (announced if >=2026-10),OPENED
+2023-08,SBD calendar (main+Jordan page),Jordan,C_retro_classic,12,12,4,0,release date (announced if >=2026-10),OPENED
+2023-08,SBD calendar (main+Jordan page),Jordan,D_collab,3,3,0,0,release date (announced if >=2026-10),OPENED
+2023-08,SBD calendar (main+Jordan page),New Balance,C_retro_classic,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-08,SBD calendar (main+Jordan page),New Balance,D_collab,3,3,0,0,release date (announced if >=2026-10),OPENED
+2023-08,SBD calendar (main+Jordan page),Nike,A_new_model,3,2,0,0,release date (announced if >=2026-10),OPENED
+2023-08,SBD calendar (main+Jordan page),Nike,B_perf_version,1,0,0,0,release date (announced if >=2026-10),OPENED
+2023-08,SBD calendar (main+Jordan page),Nike,C_retro_classic,27,27,5,0,release date (announced if >=2026-10),OPENED
+2023-08,SBD calendar (main+Jordan page),Nike,D_collab,8,8,0,0,release date (announced if >=2026-10),OPENED
+2023-08,SBD calendar (main+Jordan page),adidas,B_perf_version,3,3,0,2,release date (announced if >=2026-10),OPENED
+2023-08,SBD calendar (main+Jordan page),adidas,C_retro_classic,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-09,SBD calendar (main+Jordan page),ASICS,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-09,SBD calendar (main+Jordan page),Jordan,B_perf_version,2,2,1,0,release date (announced if >=2026-10),OPENED
+2023-09,SBD calendar (main+Jordan page),Jordan,C_retro_classic,11,10,3,0,release date (announced if >=2026-10),OPENED
+2023-09,SBD calendar (main+Jordan page),Jordan,D_collab,3,3,0,0,release date (announced if >=2026-10),OPENED
+2023-09,SBD calendar (main+Jordan page),New Balance,C_retro_classic,7,7,0,0,release date (announced if >=2026-10),OPENED
+2023-09,SBD calendar (main+Jordan page),New Balance,D_collab,3,3,0,0,release date (announced if >=2026-10),OPENED
+2023-09,SBD calendar (main+Jordan page),Nike,A_new_model,3,3,0,2,release date (announced if >=2026-10),OPENED
+2023-09,SBD calendar (main+Jordan page),Nike,B_perf_version,1,1,0,1,release date (announced if >=2026-10),OPENED
+2023-09,SBD calendar (main+Jordan page),Nike,C_retro_classic,11,11,1,0,release date (announced if >=2026-10),OPENED
+2023-09,SBD calendar (main+Jordan page),Nike,D_collab,8,8,0,0,release date (announced if >=2026-10),OPENED
+2023-09,SBD calendar (main+Jordan page),adidas,B_perf_version,1,1,0,1,release date (announced if >=2026-10),OPENED
+2023-09,SBD calendar (main+Jordan page),adidas,C_retro_classic,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-09,SBD calendar (main+Jordan page),adidas,D_collab,3,3,0,0,release date (announced if >=2026-10),OPENED
+2023-10,SBD calendar (main+Jordan page),Jordan,A_new_model,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-10,SBD calendar (main+Jordan page),Jordan,B_perf_version,3,3,0,1,release date (announced if >=2026-10),OPENED
+2023-10,SBD calendar (main+Jordan page),Jordan,C_retro_classic,10,8,1,0,release date (announced if >=2026-10),OPENED
+2023-10,SBD calendar (main+Jordan page),Jordan,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-10,SBD calendar (main+Jordan page),New Balance,B_perf_version,2,2,0,1,release date (announced if >=2026-10),OPENED
+2023-10,SBD calendar (main+Jordan page),New Balance,C_retro_classic,4,4,0,0,release date (announced if >=2026-10),OPENED
+2023-10,SBD calendar (main+Jordan page),New Balance,D_collab,4,4,0,0,release date (announced if >=2026-10),OPENED
+2023-10,SBD calendar (main+Jordan page),Nike,A_new_model,5,5,0,0,release date (announced if >=2026-10),OPENED
+2023-10,SBD calendar (main+Jordan page),Nike,B_perf_version,3,3,0,1,release date (announced if >=2026-10),OPENED
+2023-10,SBD calendar (main+Jordan page),Nike,C_retro_classic,25,25,2,0,release date (announced if >=2026-10),OPENED
+2023-10,SBD calendar (main+Jordan page),Nike,D_collab,8,8,0,0,release date (announced if >=2026-10),OPENED
+2023-10,SBD calendar (main+Jordan page),Nike,U_unmatched,4,4,0,0,release date (announced if >=2026-10),OPENED
+2023-10,SBD calendar (main+Jordan page),adidas,B_perf_version,6,6,0,2,release date (announced if >=2026-10),OPENED
+2023-10,SBD calendar (main+Jordan page),adidas,D_collab,11,11,0,0,release date (announced if >=2026-10),OPENED
+2023-11,SBD calendar (main+Jordan page),Jordan,A_new_model,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-11,SBD calendar (main+Jordan page),Jordan,B_perf_version,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-11,SBD calendar (main+Jordan page),Jordan,C_retro_classic,12,12,5,0,release date (announced if >=2026-10),OPENED
+2023-11,SBD calendar (main+Jordan page),Jordan,D_collab,2,2,1,0,release date (announced if >=2026-10),OPENED
+2023-11,SBD calendar (main+Jordan page),New Balance,C_retro_classic,4,4,0,0,release date (announced if >=2026-10),OPENED
+2023-11,SBD calendar (main+Jordan page),New Balance,D_collab,2,1,0,0,release date (announced if >=2026-10),OPENED
+2023-11,SBD calendar (main+Jordan page),Nike,B_perf_version,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-11,SBD calendar (main+Jordan page),Nike,C_retro_classic,22,22,3,0,release date (announced if >=2026-10),OPENED
+2023-11,SBD calendar (main+Jordan page),Nike,D_collab,8,8,0,0,release date (announced if >=2026-10),OPENED
+2023-11,SBD calendar (main+Jordan page),Nike,U_unmatched,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-11,SBD calendar (main+Jordan page),adidas,C_retro_classic,2,2,0,0,release date (announced if >=2026-10),OPENED
+2023-11,SBD calendar (main+Jordan page),adidas,D_collab,10,10,0,0,release date (announced if >=2026-10),OPENED
+2023-12,SBD calendar (main+Jordan page),ASICS,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2023-12,SBD calendar (main+Jordan page),Jordan,A_new_model,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-12,SBD calendar (main+Jordan page),Jordan,B_perf_version,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-12,SBD calendar (main+Jordan page),Jordan,C_retro_classic,8,8,1,0,release date (announced if >=2026-10),OPENED
+2023-12,SBD calendar (main+Jordan page),Jordan,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-12,SBD calendar (main+Jordan page),New Balance,C_retro_classic,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-12,SBD calendar (main+Jordan page),New Balance,D_collab,3,3,0,0,release date (announced if >=2026-10),OPENED
+2023-12,SBD calendar (main+Jordan page),Nike,A_new_model,4,4,0,2,release date (announced if >=2026-10),OPENED
+2023-12,SBD calendar (main+Jordan page),Nike,B_perf_version,4,3,0,1,release date (announced if >=2026-10),OPENED
+2023-12,SBD calendar (main+Jordan page),Nike,C_retro_classic,21,21,1,0,release date (announced if >=2026-10),OPENED
+2023-12,SBD calendar (main+Jordan page),Nike,D_collab,15,15,0,0,release date (announced if >=2026-10),OPENED
+2023-12,SBD calendar (main+Jordan page),Nike,U_unmatched,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-12,SBD calendar (main+Jordan page),adidas,B_perf_version,2,2,0,1,release date (announced if >=2026-10),OPENED
+2023-12,SBD calendar (main+Jordan page),adidas,D_collab,6,6,0,0,release date (announced if >=2026-10),OPENED
+2024-01,SBD calendar (main+Jordan page),Jordan,A_new_model,1,1,0,0,release date (announced if >=2026-10),OPENED
+2024-01,SBD calendar (main+Jordan page),Jordan,B_perf_version,4,4,0,0,release date (announced if >=2026-10),OPENED
+2024-01,SBD calendar (main+Jordan page),Jordan,C_retro_classic,12,10,2,0,release date (announced if >=2026-10),OPENED
+2024-01,SBD calendar (main+Jordan page),New Balance,B_perf_version,1,1,0,0,release date (announced if >=2026-10),OPENED
+2024-01,SBD calendar (main+Jordan page),New Balance,C_retro_classic,3,3,0,0,release date (announced if >=2026-10),OPENED
+2024-01,SBD calendar (main+Jordan page),Nike,A_new_model,1,1,0,0,release date (announced if >=2026-10),OPENED
+2024-01,SBD calendar (main+Jordan page),Nike,B_perf_version,2,2,0,1,release date (announced if >=2026-10),OPENED
+2024-01,SBD calendar (main+Jordan page),Nike,C_retro_classic,9,9,6,0,release date (announced if >=2026-10),OPENED
+2024-01,SBD calendar (main+Jordan page),Nike,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2024-01,SBD calendar (main+Jordan page),Nike,U_unmatched,1,1,0,0,release date (announced if >=2026-10),OPENED
+2024-01,SBD calendar (main+Jordan page),adidas,B_perf_version,1,1,0,0,release date (announced if >=2026-10),OPENED
+2024-02,SBD calendar (main+Jordan page),Jordan,B_perf_version,5,5,0,1,release date (announced if >=2026-10),OPENED
+2024-02,SBD calendar (main+Jordan page),Jordan,C_retro_classic,8,7,2,0,release date (announced if >=2026-10),OPENED
+2024-02,SBD calendar (main+Jordan page),New Balance,B_perf_version,4,4,0,2,release date (announced if >=2026-10),OPENED
+2024-02,SBD calendar (main+Jordan page),New Balance,C_retro_classic,2,2,0,0,release date (announced if >=2026-10),OPENED
+2024-02,SBD calendar (main+Jordan page),New Balance,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2024-02,SBD calendar (main+Jordan page),Nike,A_new_model,6,6,0,2,release date (announced if >=2026-10),OPENED
+2024-02,SBD calendar (main+Jordan page),Nike,B_perf_version,10,7,0,4,release date (announced if >=2026-10),OPENED
+2024-02,SBD calendar (main+Jordan page),Nike,C_retro_classic,19,19,1,0,release date (announced if >=2026-10),OPENED
+2024-02,SBD calendar (main+Jordan page),Nike,D_collab,3,3,0,0,release date (announced if >=2026-10),OPENED
+2024-02,SBD calendar (main+Jordan page),adidas,B_perf_version,3,3,0,2,release date (announced if >=2026-10),OPENED
+2024-02,SBD calendar (main+Jordan page),adidas,C_retro_classic,2,2,0,0,release date (announced if >=2026-10),OPENED
+2024-02,SBD calendar (main+Jordan page),adidas,D_collab,4,4,0,0,release date (announced if >=2026-10),OPENED
+2024-03,SBD calendar (main+Jordan page),Jordan,C_retro_classic,10,9,3,0,release date (announced if >=2026-10),OPENED
+2024-03,SBD calendar (main+Jordan page),Jordan,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2024-03,SBD calendar (main+Jordan page),New Balance,C_retro_classic,3,3,0,0,release date (announced if >=2026-10),OPENED
+2024-03,SBD calendar (main+Jordan page),New Balance,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2024-03,SBD calendar (main+Jordan page),Nike,A_new_model,7,7,0,1,release date (announced if >=2026-10),OPENED
+2024-03,SBD calendar (main+Jordan page),Nike,B_perf_version,2,2,0,0,release date (announced if >=2026-10),OPENED
+2024-03,SBD calendar (main+Jordan page),Nike,C_retro_classic,10,10,4,0,release date (announced if >=2026-10),OPENED
+2024-03,SBD calendar (main+Jordan page),Nike,D_collab,3,3,0,0,release date (announced if >=2026-10),OPENED
+2024-03,SBD calendar (main+Jordan page),Nike,U_unmatched,1,1,0,0,release date (announced if >=2026-10),OPENED
+2024-03,SBD calendar (main+Jordan page),adidas,B_perf_version,3,3,0,1,release date (announced if >=2026-10),OPENED
+2024-03,SBD calendar (main+Jordan page),adidas,C_retro_classic,4,4,0,0,release date (announced if >=2026-10),OPENED
+2024-03,SBD calendar (main+Jordan page),adidas,D_collab,3,3,0,0,release date (announced if >=2026-10),OPENED
+2024-04,SBD calendar (main+Jordan page),Jordan,B_perf_version,2,2,0,0,release date (announced if >=2026-10),OPENED
+2024-04,SBD calendar (main+Jordan page),Jordan,C_retro_classic,9,8,2,0,release date (announced if >=2026-10),OPENED
+2024-04,SBD calendar (main+Jordan page),Jordan,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2024-04,SBD calendar (main+Jordan page),New Balance,B_perf_version,2,2,0,1,release date (announced if >=2026-10),OPENED
+2024-04,SBD calendar (main+Jordan page),New Balance,C_retro_classic,3,3,0,0,release date (announced if >=2026-10),OPENED
+2024-04,SBD calendar (main+Jordan page),New Balance,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2024-04,SBD calendar (main+Jordan page),Nike,A_new_model,8,8,0,0,release date (announced if >=2026-10),OPENED
+2024-04,SBD calendar (main+Jordan page),Nike,B_perf_version,1,1,0,0,release date (announced if >=2026-10),OPENED
+2024-04,SBD calendar (main+Jordan page),Nike,C_retro_classic,15,15,0,0,release date (announced if >=2026-10),OPENED
+2024-04,SBD calendar (main+Jordan page),Nike,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2024-04,SBD calendar (main+Jordan page),adidas,B_perf_version,2,2,0,0,release date (announced if >=2026-10),OPENED
+2024-04,SBD calendar (main+Jordan page),adidas,C_retro_classic,1,1,0,0,release date (announced if >=2026-10),OPENED
+2024-04,SBD calendar (main+Jordan page),adidas,D_collab,4,4,0,0,release date (announced if >=2026-10),OPENED
+2024-05,SBD calendar (main+Jordan page),ASICS,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2024-05,SBD calendar (main+Jordan page),Jordan,B_perf_version,3,3,0,0,release date (announced if >=2026-10),OPENED
+2024-05,SBD calendar (main+Jordan page),Jordan,C_retro_classic,6,6,1,0,release date (announced if >=2026-10),OPENED
+2024-05,SBD calendar (main+Jordan page),Jordan,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2024-05,SBD calendar (main+Jordan page),New Balance,B_perf_version,1,1,0,0,release date (announced if >=2026-10),OPENED
+2024-05,SBD calendar (main+Jordan page),New Balance,C_retro_classic,2,2,0,0,release date (announced if >=2026-10),OPENED
+2024-05,SBD calendar (main+Jordan page),New Balance,D_collab,4,4,0,0,release date (announced if >=2026-10),OPENED
+2024-05,SBD calendar (main+Jordan page),Nike,A_new_model,2,1,0,0,release date (announced if >=2026-10),OPENED
+2024-05,SBD calendar (main+Jordan page),Nike,B_perf_version,6,4,0,1,release date (announced if >=2026-10),OPENED
+2024-05,SBD calendar (main+Jordan page),Nike,C_retro_classic,13,13,2,0,release date (announced if >=2026-10),OPENED
+2024-05,SBD calendar (main+Jordan page),Nike,D_collab,12,12,0,0,release date (announced if >=2026-10),OPENED
+2024-05,SBD calendar (main+Jordan page),adidas,D_collab,10,10,0,0,release date (announced if >=2026-10),OPENED
+2024-06,SBD calendar (main+Jordan page),ASICS,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2024-06,SBD calendar (main+Jordan page),Jordan,B_perf_version,1,1,0,0,release date (announced if >=2026-10),OPENED
+2024-06,SBD calendar (main+Jordan page),Jordan,C_retro_classic,11,10,2,0,release date (announced if >=2026-10),OPENED
+2024-06,SBD calendar (main+Jordan page),Jordan,D_collab,1,1,1,0,release date (announced if >=2026-10),OPENED
+2024-06,SBD calendar (main+Jordan page),New Balance,C_retro_classic,4,4,0,0,release date (announced if >=2026-10),OPENED
+2024-06,SBD calendar (main+Jordan page),New Balance,D_collab,6,6,0,0,release date (announced if >=2026-10),OPENED
+2024-06,SBD calendar (main+Jordan page),Nike,A_new_model,2,2,0,1,release date (announced if >=2026-10),OPENED
+2024-06,SBD calendar (main+Jordan page),Nike,B_perf_version,2,2,0,2,release date (announced if >=2026-10),OPENED
+2024-06,SBD calendar (main+Jordan page),Nike,C_retro_classic,7,7,0,0,release date (announced if >=2026-10),OPENED
+2024-06,SBD calendar (main+Jordan page),Nike,D_collab,12,12,0,0,release date (announced if >=2026-10),OPENED
+2024-06,SBD calendar (main+Jordan page),adidas,B_perf_version,1,1,0,1,release date (announced if >=2026-10),OPENED
+2024-06,SBD calendar (main+Jordan page),adidas,D_collab,3,3,0,0,release date (announced if >=2026-10),OPENED
+2024-07,SBD calendar (main+Jordan page),ASICS,C_retro_classic,3,3,0,0,release date (announced if >=2026-10),OPENED
+2024-07,SBD calendar (main+Jordan page),ASICS,D_collab,3,3,0,0,release date (announced if >=2026-10),OPENED
+2024-07,SBD calendar (main+Jordan page),Jordan,B_perf_version,3,3,0,2,release date (announced if >=2026-10),OPENED
+2024-07,SBD calendar (main+Jordan page),Jordan,C_retro_classic,4,4,1,0,release date (announced if >=2026-10),OPENED
+2024-07,SBD calendar (main+Jordan page),Jordan,D_collab,3,3,0,0,release date (announced if >=2026-10),OPENED
+2024-07,SBD calendar (main+Jordan page),New Balance,C_retro_classic,5,5,0,0,release date (announced if >=2026-10),OPENED
+2024-07,SBD calendar (main+Jordan page),New Balance,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2024-07,SBD calendar (main+Jordan page),Nike,A_new_model,5,5,0,1,release date (announced if >=2026-10),OPENED
+2024-07,SBD calendar (main+Jordan page),Nike,B_perf_version,1,1,0,0,release date (announced if >=2026-10),OPENED
+2024-07,SBD calendar (main+Jordan page),Nike,C_retro_classic,10,10,0,0,release date (announced if >=2026-10),OPENED
+2024-07,SBD calendar (main+Jordan page),Nike,D_collab,5,5,0,0,release date (announced if >=2026-10),OPENED
+2024-07,SBD calendar (main+Jordan page),adidas,B_perf_version,2,2,0,0,release date (announced if >=2026-10),OPENED
+2024-07,SBD calendar (main+Jordan page),adidas,C_retro_classic,1,1,0,0,release date (announced if >=2026-10),OPENED
+2024-07,SBD calendar (main+Jordan page),adidas,D_collab,5,5,0,0,release date (announced if >=2026-10),OPENED
+2024-08,SBD calendar (main+Jordan page),Jordan,B_perf_version,1,1,0,0,release date (announced if >=2026-10),OPENED
+2024-08,SBD calendar (main+Jordan page),Jordan,C_retro_classic,13,12,4,0,release date (announced if >=2026-10),OPENED
+2024-08,SBD calendar (main+Jordan page),Jordan,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2024-08,SBD calendar (main+Jordan page),New Balance,B_perf_version,3,3,0,2,release date (announced if >=2026-10),OPENED
+2024-08,SBD calendar (main+Jordan page),New Balance,C_retro_classic,6,6,0,0,release date (announced if >=2026-10),OPENED
+2024-08,SBD calendar (main+Jordan page),New Balance,D_collab,3,3,0,0,release date (announced if >=2026-10),OPENED
+2024-08,SBD calendar (main+Jordan page),Nike,A_new_model,4,4,0,1,release date (announced if >=2026-10),OPENED
+2024-08,SBD calendar (main+Jordan page),Nike,B_perf_version,2,2,0,1,release date (announced if >=2026-10),OPENED
+2024-08,SBD calendar (main+Jordan page),Nike,C_retro_classic,14,12,2,0,release date (announced if >=2026-10),OPENED
+2024-08,SBD calendar (main+Jordan page),Nike,D_collab,6,6,0,0,release date (announced if >=2026-10),OPENED
+2024-08,SBD calendar (main+Jordan page),Nike,U_unmatched,2,2,0,0,release date (announced if >=2026-10),OPENED
+2024-08,SBD calendar (main+Jordan page),adidas,B_perf_version,3,3,0,2,release date (announced if >=2026-10),OPENED
+2024-08,SBD calendar (main+Jordan page),adidas,C_retro_classic,1,1,0,0,release date (announced if >=2026-10),OPENED
+2024-08,SBD calendar (main+Jordan page),adidas,D_collab,5,5,0,0,release date (announced if >=2026-10),OPENED
+2024-08,SBD calendar (main+Jordan page),adidas,U_unmatched,2,2,0,0,release date (announced if >=2026-10),OPENED
+2024-09,SBD calendar (main+Jordan page),ASICS,D_collab,3,3,0,0,release date (announced if >=2026-10),OPENED
+2024-09,SBD calendar (main+Jordan page),Jordan,C_retro_classic,6,5,0,0,release date (announced if >=2026-10),OPENED
+2024-09,SBD calendar (main+Jordan page),Jordan,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2024-09,SBD calendar (main+Jordan page),New Balance,B_perf_version,2,2,0,1,release date (announced if >=2026-10),OPENED
+2024-09,SBD calendar (main+Jordan page),New Balance,C_retro_classic,3,3,0,0,release date (announced if >=2026-10),OPENED
+2024-09,SBD calendar (main+Jordan page),Nike,A_new_model,3,3,0,0,release date (announced if >=2026-10),OPENED
+2024-09,SBD calendar (main+Jordan page),Nike,B_perf_version,3,3,0,2,release date (announced if >=2026-10),OPENED
+2024-09,SBD calendar (main+Jordan page),Nike,C_retro_classic,16,16,0,0,release date (announced if >=2026-10),OPENED
+2024-09,SBD calendar (main+Jordan page),Nike,D_collab,5,5,0,0,release date (announced if >=2026-10),OPENED
+2024-09,SBD calendar (main+Jordan page),adidas,B_perf_version,4,4,0,2,release date (announced if >=2026-10),OPENED
+2024-09,SBD calendar (main+Jordan page),adidas,D_collab,5,5,0,0,release date (announced if >=2026-10),OPENED
+2024-10,SBD calendar (main+Jordan page),Jordan,B_perf_version,2,2,0,1,release date (announced if >=2026-10),OPENED
+2024-10,SBD calendar (main+Jordan page),Jordan,C_retro_classic,5,4,2,0,release date (announced if >=2026-10),OPENED
+2024-10,SBD calendar (main+Jordan page),Jordan,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2024-10,SBD calendar (main+Jordan page),New Balance,B_perf_version,1,1,0,0,release date (announced if >=2026-10),OPENED
+2024-10,SBD calendar (main+Jordan page),New Balance,C_retro_classic,1,1,0,0,release date (announced if >=2026-10),OPENED
+2024-10,SBD calendar (main+Jordan page),New Balance,D_collab,4,4,0,0,release date (announced if >=2026-10),OPENED
+2024-10,SBD calendar (main+Jordan page),Nike,A_new_model,5,5,0,0,release date (announced if >=2026-10),OPENED
+2024-10,SBD calendar (main+Jordan page),Nike,B_perf_version,4,4,0,0,release date (announced if >=2026-10),OPENED
+2024-10,SBD calendar (main+Jordan page),Nike,C_retro_classic,13,13,0,0,release date (announced if >=2026-10),OPENED
+2024-10,SBD calendar (main+Jordan page),Nike,D_collab,5,5,0,0,release date (announced if >=2026-10),OPENED
+2024-10,SBD calendar (main+Jordan page),Nike,U_unmatched,1,1,0,0,release date (announced if >=2026-10),OPENED
+2024-10,SBD calendar (main+Jordan page),adidas,B_perf_version,4,4,0,1,release date (announced if >=2026-10),OPENED
+2024-10,SBD calendar (main+Jordan page),adidas,D_collab,6,6,0,0,release date (announced if >=2026-10),OPENED
+2024-10,SBD calendar (main+Jordan page),adidas,U_unmatched,3,3,0,0,release date (announced if >=2026-10),OPENED
+2024-11,SBD calendar (main+Jordan page),Jordan,B_perf_version,1,1,0,1,release date (announced if >=2026-10),OPENED
+2024-11,SBD calendar (main+Jordan page),Jordan,C_retro_classic,7,6,1,0,release date (announced if >=2026-10),OPENED
+2024-11,SBD calendar (main+Jordan page),Jordan,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2024-11,SBD calendar (main+Jordan page),New Balance,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2024-11,SBD calendar (main+Jordan page),Nike,A_new_model,3,3,0,0,release date (announced if >=2026-10),OPENED
+2024-11,SBD calendar (main+Jordan page),Nike,B_perf_version,4,4,0,0,release date (announced if >=2026-10),OPENED
+2024-11,SBD calendar (main+Jordan page),Nike,C_retro_classic,12,12,0,0,release date (announced if >=2026-10),OPENED
+2024-11,SBD calendar (main+Jordan page),Nike,D_collab,5,5,0,0,release date (announced if >=2026-10),OPENED
+2024-11,SBD calendar (main+Jordan page),Nike,U_unmatched,1,1,0,0,release date (announced if >=2026-10),OPENED
+2024-11,SBD calendar (main+Jordan page),adidas,B_perf_version,2,2,0,0,release date (announced if >=2026-10),OPENED
+2024-11,SBD calendar (main+Jordan page),adidas,D_collab,14,14,0,0,release date (announced if >=2026-10),OPENED
+2024-12,SBD calendar (main+Jordan page),ASICS,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2024-12,SBD calendar (main+Jordan page),Jordan,C_retro_classic,4,4,1,0,release date (announced if >=2026-10),OPENED
+2024-12,SBD calendar (main+Jordan page),Jordan,D_collab,3,3,1,0,release date (announced if >=2026-10),OPENED
+2024-12,SBD calendar (main+Jordan page),New Balance,C_retro_classic,3,3,0,0,release date (announced if >=2026-10),OPENED
+2024-12,SBD calendar (main+Jordan page),Nike,A_new_model,1,1,0,0,release date (announced if >=2026-10),OPENED
+2024-12,SBD calendar (main+Jordan page),Nike,B_perf_version,6,6,0,0,release date (announced if >=2026-10),OPENED
+2024-12,SBD calendar (main+Jordan page),Nike,C_retro_classic,9,9,0,0,release date (announced if >=2026-10),OPENED
+2024-12,SBD calendar (main+Jordan page),Nike,D_collab,20,19,0,0,release date (announced if >=2026-10),OPENED
+2024-12,SBD calendar (main+Jordan page),adidas,B_perf_version,1,1,0,0,release date (announced if >=2026-10),OPENED
+2024-12,SBD calendar (main+Jordan page),adidas,D_collab,3,3,0,0,release date (announced if >=2026-10),OPENED
+2025-01,SBD calendar (main+Jordan page),Jordan,B_perf_version,1,1,0,0,release date (announced if >=2026-10),OPENED
+2025-01,SBD calendar (main+Jordan page),Jordan,C_retro_classic,6,6,2,0,release date (announced if >=2026-10),OPENED
+2025-01,SBD calendar (main+Jordan page),New Balance,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2025-01,SBD calendar (main+Jordan page),Nike,A_new_model,7,7,1,1,release date (announced if >=2026-10),OPENED
+2025-01,SBD calendar (main+Jordan page),Nike,B_perf_version,4,4,0,0,release date (announced if >=2026-10),OPENED
+2025-01,SBD calendar (main+Jordan page),Nike,C_retro_classic,11,10,0,0,release date (announced if >=2026-10),OPENED
+2025-01,SBD calendar (main+Jordan page),Nike,D_collab,3,3,0,0,release date (announced if >=2026-10),OPENED
+2025-01,SBD calendar (main+Jordan page),adidas,B_perf_version,2,2,0,1,release date (announced if >=2026-10),OPENED
+2025-02,SBD calendar (main+Jordan page),ASICS,C_retro_classic,2,2,0,0,release date (announced if >=2026-10),OPENED
+2025-02,SBD calendar (main+Jordan page),ASICS,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2025-02,SBD calendar (main+Jordan page),Jordan,B_perf_version,2,2,0,0,release date (announced if >=2026-10),OPENED
+2025-02,SBD calendar (main+Jordan page),Jordan,C_retro_classic,7,7,2,0,release date (announced if >=2026-10),OPENED
+2025-02,SBD calendar (main+Jordan page),Jordan,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2025-02,SBD calendar (main+Jordan page),New Balance,B_perf_version,1,1,0,0,release date (announced if >=2026-10),OPENED
+2025-02,SBD calendar (main+Jordan page),New Balance,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2025-02,SBD calendar (main+Jordan page),Nike,A_new_model,3,3,0,1,release date (announced if >=2026-10),OPENED
+2025-02,SBD calendar (main+Jordan page),Nike,B_perf_version,9,9,0,1,release date (announced if >=2026-10),OPENED
+2025-02,SBD calendar (main+Jordan page),Nike,C_retro_classic,13,13,0,0,release date (announced if >=2026-10),OPENED
+2025-02,SBD calendar (main+Jordan page),Nike,D_collab,3,3,0,0,release date (announced if >=2026-10),OPENED
+2025-02,SBD calendar (main+Jordan page),adidas,B_perf_version,5,5,0,0,release date (announced if >=2026-10),OPENED
+2025-03,SBD calendar (main+Jordan page),ASICS,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2025-03,SBD calendar (main+Jordan page),Jordan,B_perf_version,1,1,0,1,release date (announced if >=2026-10),OPENED
+2025-03,SBD calendar (main+Jordan page),Jordan,C_retro_classic,5,4,1,0,release date (announced if >=2026-10),OPENED
+2025-03,SBD calendar (main+Jordan page),Jordan,D_collab,4,4,0,0,release date (announced if >=2026-10),OPENED
+2025-03,SBD calendar (main+Jordan page),New Balance,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2025-03,SBD calendar (main+Jordan page),Nike,A_new_model,2,2,0,0,release date (announced if >=2026-10),OPENED
+2025-03,SBD calendar (main+Jordan page),Nike,B_perf_version,2,2,0,1,release date (announced if >=2026-10),OPENED
+2025-03,SBD calendar (main+Jordan page),Nike,C_retro_classic,6,6,0,0,release date (announced if >=2026-10),OPENED
+2025-03,SBD calendar (main+Jordan page),Nike,D_collab,9,9,0,0,release date (announced if >=2026-10),OPENED
+2025-03,SBD calendar (main+Jordan page),adidas,B_perf_version,2,2,0,2,release date (announced if >=2026-10),OPENED
+2025-03,SBD calendar (main+Jordan page),adidas,D_collab,3,3,0,0,release date (announced if >=2026-10),OPENED
+2025-03,SBD calendar (main+Jordan page),adidas,U_unmatched,2,2,0,0,release date (announced if >=2026-10),OPENED
+2025-04,SBD calendar (main+Jordan page),Jordan,B_perf_version,3,3,0,1,release date (announced if >=2026-10),OPENED
+2025-04,SBD calendar (main+Jordan page),Jordan,C_retro_classic,5,5,2,0,release date (announced if >=2026-10),OPENED
+2025-04,SBD calendar (main+Jordan page),Jordan,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2025-04,SBD calendar (main+Jordan page),Jordan,U_unmatched,1,1,0,0,release date (announced if >=2026-10),OPENED
+2025-04,SBD calendar (main+Jordan page),New Balance,B_perf_version,1,1,0,0,release date (announced if >=2026-10),OPENED
+2025-04,SBD calendar (main+Jordan page),New Balance,C_retro_classic,4,4,0,0,release date (announced if >=2026-10),OPENED
+2025-04,SBD calendar (main+Jordan page),New Balance,D_collab,3,3,0,0,release date (announced if >=2026-10),OPENED
+2025-04,SBD calendar (main+Jordan page),Nike,A_new_model,5,5,3,2,release date (announced if >=2026-10),OPENED
+2025-04,SBD calendar (main+Jordan page),Nike,B_perf_version,5,5,0,1,release date (announced if >=2026-10),OPENED
+2025-04,SBD calendar (main+Jordan page),Nike,C_retro_classic,14,14,0,0,release date (announced if >=2026-10),OPENED
+2025-04,SBD calendar (main+Jordan page),Nike,D_collab,9,9,0,0,release date (announced if >=2026-10),OPENED
+2025-04,SBD calendar (main+Jordan page),adidas,B_perf_version,2,2,0,0,release date (announced if >=2026-10),OPENED
+2025-04,SBD calendar (main+Jordan page),adidas,D_collab,6,6,0,0,release date (announced if >=2026-10),OPENED
+2025-05,SBD calendar (main+Jordan page),Jordan,B_perf_version,1,1,0,0,release date (announced if >=2026-10),OPENED
+2025-05,SBD calendar (main+Jordan page),Jordan,C_retro_classic,8,7,2,0,release date (announced if >=2026-10),OPENED
+2025-05,SBD calendar (main+Jordan page),Jordan,D_collab,1,1,1,0,release date (announced if >=2026-10),OPENED
+2025-05,SBD calendar (main+Jordan page),New Balance,C_retro_classic,4,4,0,0,release date (announced if >=2026-10),OPENED
+2025-05,SBD calendar (main+Jordan page),New Balance,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2025-05,SBD calendar (main+Jordan page),Nike,A_new_model,6,6,1,1,release date (announced if >=2026-10),OPENED
+2025-05,SBD calendar (main+Jordan page),Nike,B_perf_version,7,7,0,0,release date (announced if >=2026-10),OPENED
+2025-05,SBD calendar (main+Jordan page),Nike,C_retro_classic,19,18,1,0,release date (announced if >=2026-10),OPENED
+2025-05,SBD calendar (main+Jordan page),Nike,D_collab,9,9,0,0,release date (announced if >=2026-10),OPENED
+2025-05,SBD calendar (main+Jordan page),adidas,B_perf_version,3,3,0,0,release date (announced if >=2026-10),OPENED
+2025-05,SBD calendar (main+Jordan page),adidas,C_retro_classic,1,1,0,0,release date (announced if >=2026-10),OPENED
+2025-05,SBD calendar (main+Jordan page),adidas,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2025-06,SBD calendar (main+Jordan page),Jordan,C_retro_classic,6,5,2,0,release date (announced if >=2026-10),OPENED
+2025-06,SBD calendar (main+Jordan page),New Balance,C_retro_classic,3,3,0,0,release date (announced if >=2026-10),OPENED
+2025-06,SBD calendar (main+Jordan page),Nike,A_new_model,2,2,0,0,release date (announced if >=2026-10),OPENED
+2025-06,SBD calendar (main+Jordan page),Nike,B_perf_version,1,1,0,0,release date (announced if >=2026-10),OPENED
+2025-06,SBD calendar (main+Jordan page),Nike,C_retro_classic,11,11,0,0,release date (announced if >=2026-10),OPENED
+2025-06,SBD calendar (main+Jordan page),Nike,D_collab,11,11,0,0,release date (announced if >=2026-10),OPENED
+2025-06,SBD calendar (main+Jordan page),adidas,B_perf_version,1,1,0,0,release date (announced if >=2026-10),OPENED
+2025-06,SBD calendar (main+Jordan page),adidas,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2025-07,SBD calendar (main+Jordan page),New Balance,D_collab,4,4,0,0,release date (announced if >=2026-10),OPENED
+2025-07,SBD calendar (main+Jordan page),Nike,A_new_model,9,8,2,1,release date (announced if >=2026-10),OPENED
+2025-07,SBD calendar (main+Jordan page),Nike,B_perf_version,6,6,0,3,release date (announced if >=2026-10),OPENED
+2025-07,SBD calendar (main+Jordan page),Nike,C_retro_classic,4,4,0,0,release date (announced if >=2026-10),OPENED
+2025-07,SBD calendar (main+Jordan page),Nike,D_collab,11,11,0,0,release date (announced if >=2026-10),OPENED
+2025-07,SBD calendar (main+Jordan page),adidas,B_perf_version,4,4,0,2,release date (announced if >=2026-10),OPENED
+2025-07,SBD calendar (main+Jordan page),adidas,D_collab,3,3,0,0,release date (announced if >=2026-10),OPENED
+2025-08,SBD calendar (main+Jordan page),Jordan,B_perf_version,1,1,0,1,release date (announced if >=2026-10),OPENED
+2025-08,SBD calendar (main+Jordan page),Jordan,C_retro_classic,6,5,1,0,release date (announced if >=2026-10),OPENED
+2025-08,SBD calendar (main+Jordan page),Jordan,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2025-08,SBD calendar (main+Jordan page),New Balance,D_collab,3,3,0,0,release date (announced if >=2026-10),OPENED
+2025-08,SBD calendar (main+Jordan page),Nike,A_new_model,4,4,1,0,release date (announced if >=2026-10),OPENED
+2025-08,SBD calendar (main+Jordan page),Nike,B_perf_version,7,7,0,0,release date (announced if >=2026-10),OPENED
+2025-08,SBD calendar (main+Jordan page),Nike,C_retro_classic,15,15,0,0,release date (announced if >=2026-10),OPENED
+2025-08,SBD calendar (main+Jordan page),Nike,D_collab,4,3,0,0,release date (announced if >=2026-10),OPENED
+2025-08,SBD calendar (main+Jordan page),adidas,B_perf_version,2,2,0,0,release date (announced if >=2026-10),OPENED
+2025-08,SBD calendar (main+Jordan page),adidas,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2025-09,SBD calendar (main+Jordan page),Jordan,B_perf_version,1,1,0,0,release date (announced if >=2026-10),OPENED
+2025-09,SBD calendar (main+Jordan page),Jordan,C_retro_classic,6,6,1,0,release date (announced if >=2026-10),OPENED
+2025-09,SBD calendar (main+Jordan page),Nike,A_new_model,2,2,0,0,release date (announced if >=2026-10),OPENED
+2025-09,SBD calendar (main+Jordan page),Nike,B_perf_version,2,2,0,0,release date (announced if >=2026-10),OPENED
+2025-09,SBD calendar (main+Jordan page),Nike,C_retro_classic,10,10,1,0,release date (announced if >=2026-10),OPENED
+2025-09,SBD calendar (main+Jordan page),Nike,D_collab,12,11,2,0,release date (announced if >=2026-10),OPENED
+2025-09,SBD calendar (main+Jordan page),adidas,B_perf_version,1,1,0,0,release date (announced if >=2026-10),OPENED
+2025-09,SBD calendar (main+Jordan page),adidas,D_collab,7,7,0,0,release date (announced if >=2026-10),OPENED
+2025-10,SBD calendar (main+Jordan page),Jordan,B_perf_version,2,2,0,1,release date (announced if >=2026-10),OPENED
+2025-10,SBD calendar (main+Jordan page),Jordan,C_retro_classic,5,4,1,0,release date (announced if >=2026-10),OPENED
+2025-10,SBD calendar (main+Jordan page),Jordan,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2025-10,SBD calendar (main+Jordan page),Jordan,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2025-10,SBD calendar (main+Jordan page),New Balance,C_retro_classic,5,5,0,0,release date (announced if >=2026-10),OPENED
+2025-10,SBD calendar (main+Jordan page),New Balance,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2025-10,SBD calendar (main+Jordan page),Nike,A_new_model,7,7,0,2,release date (announced if >=2026-10),OPENED
+2025-10,SBD calendar (main+Jordan page),Nike,B_perf_version,10,10,0,1,release date (announced if >=2026-10),OPENED
+2025-10,SBD calendar (main+Jordan page),Nike,C_retro_classic,14,14,1,0,release date (announced if >=2026-10),OPENED
+2025-10,SBD calendar (main+Jordan page),Nike,D_collab,9,9,0,0,release date (announced if >=2026-10),OPENED
+2025-10,SBD calendar (main+Jordan page),adidas,B_perf_version,3,3,0,1,release date (announced if >=2026-10),OPENED
+2025-10,SBD calendar (main+Jordan page),adidas,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2025-11,SBD calendar (main+Jordan page),Jordan,B_perf_version,2,2,0,0,release date (announced if >=2026-10),OPENED
+2025-11,SBD calendar (main+Jordan page),Jordan,C_retro_classic,13,11,3,0,release date (announced if >=2026-10),OPENED
+2025-11,SBD calendar (main+Jordan page),Jordan,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2025-11,SBD calendar (main+Jordan page),New Balance,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2025-11,SBD calendar (main+Jordan page),Nike,A_new_model,3,3,0,0,release date (announced if >=2026-10),OPENED
+2025-11,SBD calendar (main+Jordan page),Nike,B_perf_version,6,6,0,0,release date (announced if >=2026-10),OPENED
+2025-11,SBD calendar (main+Jordan page),Nike,C_retro_classic,12,12,0,0,release date (announced if >=2026-10),OPENED
+2025-11,SBD calendar (main+Jordan page),Nike,D_collab,7,7,0,0,release date (announced if >=2026-10),OPENED
+2025-11,SBD calendar (main+Jordan page),adidas,B_perf_version,2,2,0,0,release date (announced if >=2026-10),OPENED
+2025-12,SBD calendar (main+Jordan page),Jordan,A_new_model,2,2,0,1,release date (announced if >=2026-10),OPENED
+2025-12,SBD calendar (main+Jordan page),Jordan,B_perf_version,1,1,0,0,release date (announced if >=2026-10),OPENED
+2025-12,SBD calendar (main+Jordan page),Jordan,C_retro_classic,4,4,0,0,release date (announced if >=2026-10),OPENED
+2025-12,SBD calendar (main+Jordan page),Jordan,D_collab,5,5,0,0,release date (announced if >=2026-10),OPENED
+2025-12,SBD calendar (main+Jordan page),New Balance,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2025-12,SBD calendar (main+Jordan page),Nike,A_new_model,8,8,2,1,release date (announced if >=2026-10),OPENED
+2025-12,SBD calendar (main+Jordan page),Nike,B_perf_version,10,10,0,0,release date (announced if >=2026-10),OPENED
+2025-12,SBD calendar (main+Jordan page),Nike,C_retro_classic,11,11,0,0,release date (announced if >=2026-10),OPENED
+2025-12,SBD calendar (main+Jordan page),Nike,D_collab,17,17,1,0,release date (announced if >=2026-10),OPENED
+2025-12,SBD calendar (main+Jordan page),adidas,B_perf_version,3,3,0,0,release date (announced if >=2026-10),OPENED
+2026-01,SBD calendar (main+Jordan page),Jordan,B_perf_version,3,3,0,1,release date (announced if >=2026-10),OPENED
+2026-01,SBD calendar (main+Jordan page),Jordan,C_retro_classic,5,4,0,0,release date (announced if >=2026-10),OPENED
+2026-01,SBD calendar (main+Jordan page),Nike,A_new_model,6,5,1,2,release date (announced if >=2026-10),OPENED
+2026-01,SBD calendar (main+Jordan page),Nike,B_perf_version,8,8,0,1,release date (announced if >=2026-10),OPENED
+2026-01,SBD calendar (main+Jordan page),Nike,C_retro_classic,6,6,0,0,release date (announced if >=2026-10),OPENED
+2026-01,SBD calendar (main+Jordan page),Nike,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2026-01,SBD calendar (main+Jordan page),adidas,B_perf_version,2,2,0,0,release date (announced if >=2026-10),OPENED
+2026-01,SBD calendar (main+Jordan page),adidas,D_collab,3,3,0,0,release date (announced if >=2026-10),OPENED
+2026-02,SBD calendar (main+Jordan page),Jordan,C_retro_classic,9,9,3,0,release date (announced if >=2026-10),OPENED
+2026-02,SBD calendar (main+Jordan page),Jordan,D_collab,7,7,0,0,release date (announced if >=2026-10),OPENED
+2026-02,SBD calendar (main+Jordan page),Nike,A_new_model,6,6,0,2,release date (announced if >=2026-10),OPENED
+2026-02,SBD calendar (main+Jordan page),Nike,B_perf_version,18,18,0,1,release date (announced if >=2026-10),OPENED
+2026-02,SBD calendar (main+Jordan page),Nike,C_retro_classic,18,18,0,0,release date (announced if >=2026-10),OPENED
+2026-02,SBD calendar (main+Jordan page),Nike,D_collab,9,9,0,0,release date (announced if >=2026-10),OPENED
+2026-02,SBD calendar (main+Jordan page),adidas,B_perf_version,6,6,0,2,release date (announced if >=2026-10),OPENED
+2026-02,SBD calendar (main+Jordan page),adidas,D_collab,5,5,0,0,release date (announced if >=2026-10),OPENED
+2026-03,SBD calendar (main+Jordan page),Jordan,C_retro_classic,7,7,1,0,release date (announced if >=2026-10),OPENED
+2026-03,SBD calendar (main+Jordan page),Jordan,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2026-03,SBD calendar (main+Jordan page),Nike,A_new_model,4,4,1,2,release date (announced if >=2026-10),OPENED
+2026-03,SBD calendar (main+Jordan page),Nike,B_perf_version,8,8,0,0,release date (announced if >=2026-10),OPENED
+2026-03,SBD calendar (main+Jordan page),Nike,C_retro_classic,17,17,0,0,release date (announced if >=2026-10),OPENED
+2026-03,SBD calendar (main+Jordan page),Nike,D_collab,16,15,1,0,release date (announced if >=2026-10),OPENED
+2026-03,SBD calendar (main+Jordan page),adidas,B_perf_version,4,4,0,1,release date (announced if >=2026-10),OPENED
+2026-03,SBD calendar (main+Jordan page),adidas,D_collab,5,5,0,0,release date (announced if >=2026-10),OPENED
+2026-04,SBD calendar (main+Jordan page),Jordan,A_new_model,1,1,0,0,release date (announced if >=2026-10),OPENED
+2026-04,SBD calendar (main+Jordan page),Jordan,C_retro_classic,7,6,2,0,release date (announced if >=2026-10),OPENED
+2026-04,SBD calendar (main+Jordan page),Jordan,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2026-04,SBD calendar (main+Jordan page),New Balance,C_retro_classic,2,2,0,0,release date (announced if >=2026-10),OPENED
+2026-04,SBD calendar (main+Jordan page),New Balance,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2026-04,SBD calendar (main+Jordan page),Nike,A_new_model,6,6,0,1,release date (announced if >=2026-10),OPENED
+2026-04,SBD calendar (main+Jordan page),Nike,B_perf_version,6,6,0,0,release date (announced if >=2026-10),OPENED
+2026-04,SBD calendar (main+Jordan page),Nike,C_retro_classic,17,17,0,0,release date (announced if >=2026-10),OPENED
+2026-04,SBD calendar (main+Jordan page),Nike,D_collab,10,10,0,0,release date (announced if >=2026-10),OPENED
+2026-04,SBD calendar (main+Jordan page),adidas,B_perf_version,5,5,0,0,release date (announced if >=2026-10),OPENED
+2026-04,SBD calendar (main+Jordan page),adidas,D_collab,5,5,0,0,release date (announced if >=2026-10),OPENED
+2026-05,SBD calendar (main+Jordan page),Jordan,C_retro_classic,8,7,1,0,release date (announced if >=2026-10),OPENED
+2026-05,SBD calendar (main+Jordan page),Jordan,D_collab,3,3,0,0,release date (announced if >=2026-10),OPENED
+2026-05,SBD calendar (main+Jordan page),Nike,A_new_model,4,4,0,0,release date (announced if >=2026-10),OPENED
+2026-05,SBD calendar (main+Jordan page),Nike,B_perf_version,15,15,0,2,release date (announced if >=2026-10),OPENED
+2026-05,SBD calendar (main+Jordan page),Nike,C_retro_classic,14,14,0,0,release date (announced if >=2026-10),OPENED
+2026-05,SBD calendar (main+Jordan page),Nike,D_collab,4,4,0,0,release date (announced if >=2026-10),OPENED
+2026-05,SBD calendar (main+Jordan page),adidas,B_perf_version,1,1,0,0,release date (announced if >=2026-10),OPENED
+2026-05,SBD calendar (main+Jordan page),adidas,D_collab,3,3,0,0,release date (announced if >=2026-10),OPENED
+2026-06,SBD calendar (main+Jordan page),Jordan,C_retro_classic,4,4,0,0,release date (announced if >=2026-10),OPENED
+2026-06,SBD calendar (main+Jordan page),Nike,B_perf_version,5,5,0,0,release date (announced if >=2026-10),OPENED
+2026-06,SBD calendar (main+Jordan page),Nike,C_retro_classic,17,17,2,0,release date (announced if >=2026-10),OPENED
+2026-06,SBD calendar (main+Jordan page),Nike,D_collab,7,7,0,0,release date (announced if >=2026-10),OPENED
+2026-06,SBD calendar (main+Jordan page),adidas,D_collab,3,3,0,0,release date (announced if >=2026-10),OPENED
+2026-07,SBD calendar (main+Jordan page),Jordan,C_retro_classic,6,5,1,0,release date (announced if >=2026-10),OPENED
+2026-07,SBD calendar (main+Jordan page),Nike,A_new_model,5,5,2,0,release date (announced if >=2026-10),OPENED
+2026-07,SBD calendar (main+Jordan page),Nike,B_perf_version,12,12,0,1,release date (announced if >=2026-10),OPENED
+2026-07,SBD calendar (main+Jordan page),Nike,C_retro_classic,11,11,0,0,release date (announced if >=2026-10),OPENED
+2026-07,SBD calendar (main+Jordan page),Nike,D_collab,5,5,0,0,release date (announced if >=2026-10),OPENED
+2026-07,SBD calendar (main+Jordan page),adidas,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2026-07,SBD calendar (main+Jordan page),adidas,U_unmatched,1,1,0,0,release date (announced if >=2026-10),OPENED
+2026-08,SBD calendar (main+Jordan page),Jordan,C_retro_classic,11,10,1,0,release date (announced if >=2026-10),OPENED
+2026-08,SBD calendar (main+Jordan page),Jordan,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2026-08,SBD calendar (main+Jordan page),New Balance,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2026-08,SBD calendar (main+Jordan page),New Balance,U_unmatched,1,1,0,0,release date (announced if >=2026-10),OPENED
+2026-08,SBD calendar (main+Jordan page),Nike,A_new_model,2,2,0,1,release date (announced if >=2026-10),OPENED
+2026-08,SBD calendar (main+Jordan page),Nike,B_perf_version,12,12,0,2,release date (announced if >=2026-10),OPENED
+2026-08,SBD calendar (main+Jordan page),Nike,C_retro_classic,15,15,0,0,release date (announced if >=2026-10),OPENED
+2026-08,SBD calendar (main+Jordan page),Nike,D_collab,11,11,0,0,release date (announced if >=2026-10),OPENED
+2026-08,SBD calendar (main+Jordan page),adidas,D_collab,4,4,0,0,release date (announced if >=2026-10),OPENED
+2026-09,SBD calendar (main+Jordan page),Jordan,A_new_model,1,1,0,0,release date (announced if >=2026-10),OPENED
+2026-09,SBD calendar (main+Jordan page),Jordan,C_retro_classic,9,9,3,0,release date (announced if >=2026-10),OPENED
+2026-09,SBD calendar (main+Jordan page),Jordan,D_collab,4,4,1,0,release date (announced if >=2026-10),OPENED
+2026-09,SBD calendar (main+Jordan page),New Balance,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2026-09,SBD calendar (main+Jordan page),Nike,A_new_model,4,4,1,0,release date (announced if >=2026-10),OPENED
+2026-09,SBD calendar (main+Jordan page),Nike,B_perf_version,8,8,0,0,release date (announced if >=2026-10),OPENED
+2026-09,SBD calendar (main+Jordan page),Nike,C_retro_classic,10,9,0,0,release date (announced if >=2026-10),OPENED
+2026-09,SBD calendar (main+Jordan page),Nike,D_collab,8,8,0,0,release date (announced if >=2026-10),OPENED
+2026-09,SBD calendar (main+Jordan page),Nike,U_unmatched,1,1,0,0,release date (announced if >=2026-10),OPENED
+2026-09,SBD calendar (main+Jordan page),adidas,B_perf_version,1,1,0,1,release date (announced if >=2026-10),OPENED
+2026-09,SBD calendar (main+Jordan page),adidas,D_collab,8,8,0,0,release date (announced if >=2026-10),OPENED
+2026-10,SBD calendar (main+Jordan page),Jordan,A_new_model,1,1,0,0,release date (announced if >=2026-10),OPENED
+2026-10,SBD calendar (main+Jordan page),Jordan,B_perf_version,2,2,0,2,release date (announced if >=2026-10),OPENED
+2026-10,SBD calendar (main+Jordan page),Jordan,C_retro_classic,11,10,1,0,release date (announced if >=2026-10),OPENED
+2026-10,SBD calendar (main+Jordan page),Jordan,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2026-10,SBD calendar (main+Jordan page),New Balance,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2026-10,SBD calendar (main+Jordan page),Nike,A_new_model,4,4,0,1,release date (announced if >=2026-10),OPENED
+2026-10,SBD calendar (main+Jordan page),Nike,B_perf_version,8,8,0,0,release date (announced if >=2026-10),OPENED
+2026-10,SBD calendar (main+Jordan page),Nike,C_retro_classic,17,17,0,0,release date (announced if >=2026-10),OPENED
+2026-10,SBD calendar (main+Jordan page),Nike,D_collab,4,4,0,0,release date (announced if >=2026-10),OPENED
+2026-10,SBD calendar (main+Jordan page),adidas,B_perf_version,1,1,0,0,release date (announced if >=2026-10),OPENED
+2026-10,SBD calendar (main+Jordan page),adidas,D_collab,4,4,0,0,release date (announced if >=2026-10),OPENED
+2026-11,SBD calendar (main+Jordan page),Jordan,C_retro_classic,9,7,1,0,release date (announced if >=2026-10),OPENED
+2026-11,SBD calendar (main+Jordan page),Nike,A_new_model,1,1,0,1,release date (announced if >=2026-10),OPENED
+2026-11,SBD calendar (main+Jordan page),Nike,B_perf_version,3,3,0,1,release date (announced if >=2026-10),OPENED
+2026-11,SBD calendar (main+Jordan page),Nike,C_retro_classic,6,6,0,0,release date (announced if >=2026-10),OPENED
+2026-11,SBD calendar (main+Jordan page),Nike,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2026-11,SBD calendar (main+Jordan page),Nike,U_unmatched,1,1,0,0,release date (announced if >=2026-10),OPENED
+2026-11,SBD calendar (main+Jordan page),adidas,B_perf_version,1,1,0,0,release date (announced if >=2026-10),OPENED
+2026-12,SBD calendar (main+Jordan page),Jordan,C_retro_classic,6,6,0,0,release date (announced if >=2026-10),OPENED
+2026-12,SBD calendar (main+Jordan page),Jordan,D_collab,1,1,1,0,release date (announced if >=2026-10),OPENED
+2026-12,SBD calendar (main+Jordan page),Nike,A_new_model,1,1,0,0,release date (announced if >=2026-10),OPENED
+2026-12,SBD calendar (main+Jordan page),Nike,B_perf_version,1,1,0,0,release date (announced if >=2026-10),OPENED
+2026-12,SBD calendar (main+Jordan page),Nike,C_retro_classic,3,3,0,0,release date (announced if >=2026-10),OPENED
+2026-12,SBD calendar (main+Jordan page),Nike,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2026-12,SBD calendar (main+Jordan page),Nike,U_unmatched,1,1,0,0,release date (announced if >=2026-10),OPENED
+2026-12,SBD calendar (main+Jordan page),adidas,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2027-01,SBD calendar (main+Jordan page),Jordan,C_retro_classic,6,6,1,0,release date (announced if >=2026-10),OPENED
+2027-01,SBD calendar (main+Jordan page),Nike,A_new_model,2,2,0,0,release date (announced if >=2026-10),OPENED
+2027-01,SBD calendar (main+Jordan page),Nike,C_retro_classic,1,1,0,0,release date (announced if >=2026-10),OPENED
+2027-02,SBD calendar (main+Jordan page),Jordan,C_retro_classic,8,8,0,0,release date (announced if >=2026-10),OPENED
+2027-02,SBD calendar (main+Jordan page),Jordan,D_collab,2,2,0,0,release date (announced if >=2026-10),OPENED
+2027-02,SBD calendar (main+Jordan page),Nike,A_new_model,1,1,0,0,release date (announced if >=2026-10),OPENED
+2027-02,SBD calendar (main+Jordan page),Nike,C_retro_classic,4,4,0,0,release date (announced if >=2026-10),OPENED
+2027-03,SBD calendar (main+Jordan page),Jordan,C_retro_classic,6,6,1,0,release date (announced if >=2026-10),OPENED
+2027-03,SBD calendar (main+Jordan page),Nike,A_new_model,1,1,0,0,release date (announced if >=2026-10),OPENED
+2027-04,SBD calendar (main+Jordan page),Jordan,C_retro_classic,7,7,1,0,release date (announced if >=2026-10),OPENED
+2027-05,SBD calendar (main+Jordan page),Jordan,C_retro_classic,6,6,0,0,release date (announced if >=2026-10),OPENED
+2027-06,SBD calendar (main+Jordan page),Jordan,C_retro_classic,6,6,0,0,release date (announced if >=2026-10),OPENED
+2027-06,SBD calendar (main+Jordan page),Jordan,D_collab,1,1,0,0,release date (announced if >=2026-10),OPENED
+2023-01,SoleRetriever release-date news articles (sitemap slugs),ASICS,C_retro_classic,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-01,SoleRetriever release-date news articles (sitemap slugs),ASICS,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-01,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-01,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-01,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,26,26,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-01,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-01,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,20,20,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-01,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-01,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-01,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,105,105,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-01,SoleRetriever release-date news articles (sitemap slugs),Nike,D_collab,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-01,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-01,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-01,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,17,17,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-01,SoleRetriever release-date news articles (sitemap slugs),adidas,D_collab,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-01,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-02,SoleRetriever release-date news articles (sitemap slugs),ASICS,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-02,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-02,SoleRetriever release-date news articles (sitemap slugs),Jordan,A_new_model,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-02,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-02,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,20,20,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-02,SoleRetriever release-date news articles (sitemap slugs),Jordan,D_collab,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-02,SoleRetriever release-date news articles (sitemap slugs),New Balance,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-02,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,24,24,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-02,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-02,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,8,8,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-02,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,7,7,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-02,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,88,88,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-02,SoleRetriever release-date news articles (sitemap slugs),Nike,D_collab,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-02,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-02,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-02,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,12,12,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-02,SoleRetriever release-date news articles (sitemap slugs),adidas,D_collab,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-02,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-03,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-03,SoleRetriever release-date news articles (sitemap slugs),Jordan,A_new_model,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-03,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-03,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,15,15,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-03,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-03,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,18,18,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-03,SoleRetriever release-date news articles (sitemap slugs),New Balance,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-03,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-03,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-03,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,7,7,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-03,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,76,76,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-03,SoleRetriever release-date news articles (sitemap slugs),Nike,D_collab,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-03,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,9,9,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-03,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,15,15,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-03,SoleRetriever release-date news articles (sitemap slugs),adidas,D_collab,7,7,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-03,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-04,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-04,SoleRetriever release-date news articles (sitemap slugs),Jordan,A_new_model,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-04,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-04,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,25,25,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-04,SoleRetriever release-date news articles (sitemap slugs),Jordan,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-04,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,7,7,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-04,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,12,12,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-04,SoleRetriever release-date news articles (sitemap slugs),New Balance,D_collab,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-04,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,9,9,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-04,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,7,7,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-04,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-04,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,63,63,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-04,SoleRetriever release-date news articles (sitemap slugs),Nike,D_collab,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-04,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-04,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-04,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,11,11,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-04,SoleRetriever release-date news articles (sitemap slugs),adidas,D_collab,7,7,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-04,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,7,7,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-05,SoleRetriever release-date news articles (sitemap slugs),Jordan,A_new_model,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-05,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-05,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,21,21,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-05,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,7,7,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-05,SoleRetriever release-date news articles (sitemap slugs),New Balance,B_perf_version,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-05,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,14,14,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-05,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-05,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-05,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-05,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,53,53,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-05,SoleRetriever release-date news articles (sitemap slugs),Nike,D_collab,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-05,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-05,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,30,30,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-05,SoleRetriever release-date news articles (sitemap slugs),adidas,D_collab,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-05,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,11,11,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-06,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-06,SoleRetriever release-date news articles (sitemap slugs),Jordan,A_new_model,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-06,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-06,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,14,14,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-06,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,7,7,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-06,SoleRetriever release-date news articles (sitemap slugs),New Balance,B_perf_version,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-06,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,26,26,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-06,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,8,8,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-06,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-06,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,9,9,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-06,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,44,44,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-06,SoleRetriever release-date news articles (sitemap slugs),Nike,D_collab,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-06,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,7,7,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-06,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-06,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,20,20,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-06,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,7,7,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-07,SoleRetriever release-date news articles (sitemap slugs),ASICS,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-07,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-07,SoleRetriever release-date news articles (sitemap slugs),Jordan,A_new_model,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-07,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-07,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,29,29,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-07,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-07,SoleRetriever release-date news articles (sitemap slugs),New Balance,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-07,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,36,36,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-07,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-07,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-07,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,10,10,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-07,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,68,68,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-07,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-07,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-07,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,15,15,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-07,SoleRetriever release-date news articles (sitemap slugs),adidas,D_collab,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-07,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-08,SoleRetriever release-date news articles (sitemap slugs),ASICS,C_retro_classic,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-08,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-08,SoleRetriever release-date news articles (sitemap slugs),Jordan,A_new_model,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-08,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-08,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,25,25,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-08,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-08,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,11,11,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-08,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-08,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,11,11,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-08,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,12,12,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-08,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,71,71,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-08,SoleRetriever release-date news articles (sitemap slugs),Nike,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-08,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,11,11,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-08,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-08,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,23,23,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-08,SoleRetriever release-date news articles (sitemap slugs),adidas,D_collab,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-08,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,7,7,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-09,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,7,7,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-09,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-09,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,24,24,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-09,SoleRetriever release-date news articles (sitemap slugs),Jordan,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-09,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-09,SoleRetriever release-date news articles (sitemap slugs),New Balance,B_perf_version,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-09,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,19,19,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-09,SoleRetriever release-date news articles (sitemap slugs),New Balance,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-09,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-09,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,8,8,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-09,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,12,12,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-09,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,43,43,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-09,SoleRetriever release-date news articles (sitemap slugs),Nike,D_collab,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-09,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-09,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-09,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,10,10,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-09,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,8,8,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-10,SoleRetriever release-date news articles (sitemap slugs),ASICS,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-10,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-10,SoleRetriever release-date news articles (sitemap slugs),Jordan,A_new_model,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-10,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-10,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,22,22,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-10,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-10,SoleRetriever release-date news articles (sitemap slugs),New Balance,B_perf_version,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-10,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,18,18,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-10,SoleRetriever release-date news articles (sitemap slugs),New Balance,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-10,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-10,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,9,9,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-10,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,7,7,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-10,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,67,67,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-10,SoleRetriever release-date news articles (sitemap slugs),Nike,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-10,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,7,7,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-10,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,12,12,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-10,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,21,21,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-10,SoleRetriever release-date news articles (sitemap slugs),adidas,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-10,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,10,10,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-11,SoleRetriever release-date news articles (sitemap slugs),ASICS,C_retro_classic,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-11,SoleRetriever release-date news articles (sitemap slugs),ASICS,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-11,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-11,SoleRetriever release-date news articles (sitemap slugs),Jordan,A_new_model,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-11,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-11,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-11,SoleRetriever release-date news articles (sitemap slugs),Jordan,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-11,SoleRetriever release-date news articles (sitemap slugs),New Balance,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-11,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,17,17,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-11,SoleRetriever release-date news articles (sitemap slugs),New Balance,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-11,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-11,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-11,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,10,10,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-11,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,57,57,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-11,SoleRetriever release-date news articles (sitemap slugs),Nike,D_collab,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-11,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-11,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,8,8,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-11,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,23,23,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-11,SoleRetriever release-date news articles (sitemap slugs),adidas,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-11,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-12,SoleRetriever release-date news articles (sitemap slugs),ASICS,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-12,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-12,SoleRetriever release-date news articles (sitemap slugs),Jordan,A_new_model,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-12,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,7,7,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-12,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,21,21,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-12,SoleRetriever release-date news articles (sitemap slugs),Jordan,D_collab,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-12,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-12,SoleRetriever release-date news articles (sitemap slugs),New Balance,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-12,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,12,12,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-12,SoleRetriever release-date news articles (sitemap slugs),New Balance,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-12,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-12,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,8,8,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-12,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,9,9,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-12,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,50,50,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-12,SoleRetriever release-date news articles (sitemap slugs),Nike,D_collab,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-12,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-12,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-12,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,8,8,0,0,"article lastmod (announcement month, not release month)",OPENED
+2023-12,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,9,9,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-01,SoleRetriever release-date news articles (sitemap slugs),ASICS,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-01,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-01,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-01,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,24,24,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-01,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-01,SoleRetriever release-date news articles (sitemap slugs),New Balance,B_perf_version,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-01,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-01,SoleRetriever release-date news articles (sitemap slugs),New Balance,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-01,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-01,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,10,10,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-01,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-01,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,68,68,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-01,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-01,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,8,8,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-01,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,13,13,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-01,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-02,SoleRetriever release-date news articles (sitemap slugs),ASICS,C_retro_classic,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-02,SoleRetriever release-date news articles (sitemap slugs),ASICS,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-02,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-02,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,8,8,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-02,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,17,17,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-02,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-02,SoleRetriever release-date news articles (sitemap slugs),New Balance,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-02,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,11,11,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-02,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-02,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-02,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-02,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,43,43,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-02,SoleRetriever release-date news articles (sitemap slugs),Nike,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-02,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,7,7,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-02,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-02,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,16,16,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-02,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-03,SoleRetriever release-date news articles (sitemap slugs),ASICS,C_retro_classic,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-03,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-03,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-03,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,19,19,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-03,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-03,SoleRetriever release-date news articles (sitemap slugs),New Balance,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-03,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,17,17,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-03,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-03,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,11,11,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-03,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-03,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,39,39,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-03,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-03,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-03,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,12,12,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-03,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,10,10,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-04,SoleRetriever release-date news articles (sitemap slugs),ASICS,B_perf_version,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-04,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-04,SoleRetriever release-date news articles (sitemap slugs),Jordan,A_new_model,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-04,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-04,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,15,15,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-04,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-04,SoleRetriever release-date news articles (sitemap slugs),New Balance,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-04,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,16,16,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-04,SoleRetriever release-date news articles (sitemap slugs),New Balance,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-04,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-04,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,9,9,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-04,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,10,10,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-04,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,44,44,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-04,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-04,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-04,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-04,SoleRetriever release-date news articles (sitemap slugs),adidas,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-04,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,9,9,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-05,SoleRetriever release-date news articles (sitemap slugs),ASICS,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-05,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-05,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-05,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,20,20,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-05,SoleRetriever release-date news articles (sitemap slugs),Jordan,D_collab,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-05,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-05,SoleRetriever release-date news articles (sitemap slugs),New Balance,B_perf_version,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-05,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,8,8,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-05,SoleRetriever release-date news articles (sitemap slugs),New Balance,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-05,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-05,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-05,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,12,12,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-05,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,36,36,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-05,SoleRetriever release-date news articles (sitemap slugs),Nike,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-05,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-05,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-05,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,19,19,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-05,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-06,SoleRetriever release-date news articles (sitemap slugs),ASICS,C_retro_classic,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-06,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-06,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-06,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,19,19,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-06,SoleRetriever release-date news articles (sitemap slugs),New Balance,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-06,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,13,13,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-06,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-06,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-06,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,9,9,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-06,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,35,35,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-06,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-06,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,8,8,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-06,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,8,8,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-06,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-07,SoleRetriever release-date news articles (sitemap slugs),ASICS,C_retro_classic,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-07,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,8,8,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-07,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-07,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,20,20,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-07,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-07,SoleRetriever release-date news articles (sitemap slugs),New Balance,B_perf_version,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-07,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,21,21,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-07,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-07,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,8,8,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-07,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-07,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,30,30,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-07,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,8,8,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-07,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-07,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,12,12,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-07,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-08,SoleRetriever release-date news articles (sitemap slugs),ASICS,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-08,SoleRetriever release-date news articles (sitemap slugs),ASICS,C_retro_classic,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-08,SoleRetriever release-date news articles (sitemap slugs),ASICS,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-08,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,10,10,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-08,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-08,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,23,23,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-08,SoleRetriever release-date news articles (sitemap slugs),Jordan,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-08,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-08,SoleRetriever release-date news articles (sitemap slugs),New Balance,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-08,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,21,21,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-08,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,7,7,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-08,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,9,9,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-08,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,27,27,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-08,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-08,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,20,20,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-08,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-09,SoleRetriever release-date news articles (sitemap slugs),ASICS,C_retro_classic,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-09,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-09,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-09,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,22,22,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-09,SoleRetriever release-date news articles (sitemap slugs),Jordan,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-09,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-09,SoleRetriever release-date news articles (sitemap slugs),New Balance,B_perf_version,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-09,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-09,SoleRetriever release-date news articles (sitemap slugs),New Balance,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-09,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-09,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-09,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,8,8,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-09,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,37,37,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-09,SoleRetriever release-date news articles (sitemap slugs),Nike,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-09,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,13,13,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-09,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,21,21,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-09,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,28,28,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-09,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,8,8,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-10,SoleRetriever release-date news articles (sitemap slugs),ASICS,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-10,SoleRetriever release-date news articles (sitemap slugs),ASICS,C_retro_classic,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-10,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,13,13,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-10,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-10,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,12,12,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-10,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-10,SoleRetriever release-date news articles (sitemap slugs),New Balance,B_perf_version,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-10,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,18,18,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-10,SoleRetriever release-date news articles (sitemap slugs),New Balance,D_collab,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-10,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,10,10,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-10,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-10,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,9,9,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-10,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,41,41,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-10,SoleRetriever release-date news articles (sitemap slugs),Nike,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-10,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-10,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,9,9,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-10,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,24,24,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-10,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,10,10,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-11,SoleRetriever release-date news articles (sitemap slugs),ASICS,C_retro_classic,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-11,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,7,7,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-11,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-11,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,10,10,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-11,SoleRetriever release-date news articles (sitemap slugs),New Balance,B_perf_version,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-11,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,12,12,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-11,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-11,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,8,8,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-11,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,10,10,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-11,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,37,37,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-11,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-11,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-11,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,13,13,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-11,SoleRetriever release-date news articles (sitemap slugs),adidas,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-11,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,9,9,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-12,SoleRetriever release-date news articles (sitemap slugs),ASICS,C_retro_classic,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-12,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-12,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-12,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-12,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-12,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-12,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-12,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,8,8,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-12,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-12,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,7,7,0,0,"article lastmod (announcement month, not release month)",OPENED
+2024-12,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-01,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-01,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-01,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-01,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-01,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-01,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-01,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-01,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-01,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-01,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-01,SoleRetriever release-date news articles (sitemap slugs),adidas,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-01,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-02,SoleRetriever release-date news articles (sitemap slugs),ASICS,C_retro_classic,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-02,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-02,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-02,SoleRetriever release-date news articles (sitemap slugs),Jordan,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-02,SoleRetriever release-date news articles (sitemap slugs),New Balance,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-02,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-02,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-02,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-02,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-02,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-02,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-02,SoleRetriever release-date news articles (sitemap slugs),adidas,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-02,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-03,SoleRetriever release-date news articles (sitemap slugs),ASICS,C_retro_classic,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-03,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-03,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-03,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,7,7,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-03,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-03,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-03,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-03,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-03,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-03,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,9,9,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-03,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-03,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-03,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-04,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-04,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,7,7,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-04,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-04,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-04,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-04,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-04,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,8,8,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-04,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-04,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-04,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,7,7,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-04,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-05,SoleRetriever release-date news articles (sitemap slugs),ASICS,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-05,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-05,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,7,7,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-05,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-05,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-05,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-05,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,7,7,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-05,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,7,7,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-05,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-05,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-05,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-06,SoleRetriever release-date news articles (sitemap slugs),ASICS,B_perf_version,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-06,SoleRetriever release-date news articles (sitemap slugs),ASICS,C_retro_classic,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-06,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-06,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-06,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-06,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-06,SoleRetriever release-date news articles (sitemap slugs),New Balance,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-06,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-06,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-06,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-06,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-06,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,11,11,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-06,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-06,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-06,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-06,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-07,SoleRetriever release-date news articles (sitemap slugs),ASICS,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-07,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-07,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-07,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-07,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-07,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-07,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-07,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-07,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-07,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,9,9,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-07,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-07,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-07,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-07,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-08,SoleRetriever release-date news articles (sitemap slugs),ASICS,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-08,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-08,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-08,SoleRetriever release-date news articles (sitemap slugs),New Balance,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-08,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-08,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-08,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-08,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-08,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-08,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-08,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-08,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,8,8,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-08,SoleRetriever release-date news articles (sitemap slugs),adidas,D_collab,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-08,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-09,SoleRetriever release-date news articles (sitemap slugs),ASICS,C_retro_classic,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-09,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-09,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-09,SoleRetriever release-date news articles (sitemap slugs),New Balance,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-09,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-09,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-09,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,12,12,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-09,SoleRetriever release-date news articles (sitemap slugs),Nike,D_collab,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-09,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-09,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-09,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-09,SoleRetriever release-date news articles (sitemap slugs),adidas,D_collab,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-09,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-10,SoleRetriever release-date news articles (sitemap slugs),ASICS,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-10,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-10,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-10,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-10,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-10,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-10,SoleRetriever release-date news articles (sitemap slugs),New Balance,D_collab,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-10,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-10,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-10,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,12,12,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-10,SoleRetriever release-date news articles (sitemap slugs),Nike,D_collab,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-10,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-10,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-10,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,9,9,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-10,SoleRetriever release-date news articles (sitemap slugs),adidas,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-10,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,10,10,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-11,SoleRetriever release-date news articles (sitemap slugs),ASICS,B_perf_version,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-11,SoleRetriever release-date news articles (sitemap slugs),ASICS,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-11,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-11,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-11,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,10,10,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-11,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-11,SoleRetriever release-date news articles (sitemap slugs),New Balance,B_perf_version,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-11,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-11,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-11,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-11,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,9,9,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-11,SoleRetriever release-date news articles (sitemap slugs),Nike,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-11,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-11,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-11,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-11,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-12,SoleRetriever release-date news articles (sitemap slugs),ASICS,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-12,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-12,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-12,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-12,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-12,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-12,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-12,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,11,11,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-12,SoleRetriever release-date news articles (sitemap slugs),Nike,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-12,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-12,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-12,SoleRetriever release-date news articles (sitemap slugs),adidas,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2025-12,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-01,SoleRetriever release-date news articles (sitemap slugs),ASICS,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-01,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-01,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-01,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,9,9,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-01,SoleRetriever release-date news articles (sitemap slugs),Jordan,D_collab,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-01,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-01,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-01,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-01,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,7,7,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-01,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-01,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-01,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-01,SoleRetriever release-date news articles (sitemap slugs),adidas,D_collab,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-01,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-02,SoleRetriever release-date news articles (sitemap slugs),ASICS,C_retro_classic,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-02,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-02,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-02,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,9,9,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-02,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-02,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-02,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-02,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-02,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,9,9,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-02,SoleRetriever release-date news articles (sitemap slugs),Nike,D_collab,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-02,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,8,8,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-02,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-02,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-02,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-03,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,8,8,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-03,SoleRetriever release-date news articles (sitemap slugs),Jordan,A_new_model,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-03,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,11,11,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-03,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-03,SoleRetriever release-date news articles (sitemap slugs),New Balance,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-03,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-03,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,9,9,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-03,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-03,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,26,26,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-03,SoleRetriever release-date news articles (sitemap slugs),Nike,D_collab,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-03,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-03,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-03,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-03,SoleRetriever release-date news articles (sitemap slugs),adidas,D_collab,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-03,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,9,9,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-04,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-04,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,8,8,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-04,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-04,SoleRetriever release-date news articles (sitemap slugs),New Balance,B_perf_version,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-04,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-04,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-04,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-04,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,11,11,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-04,SoleRetriever release-date news articles (sitemap slugs),Nike,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-04,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-04,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-04,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-04,SoleRetriever release-date news articles (sitemap slugs),adidas,D_collab,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-04,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,13,13,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-05,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-05,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,9,9,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-05,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-05,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-05,SoleRetriever release-date news articles (sitemap slugs),New Balance,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-05,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-05,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-05,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-05,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-05,SoleRetriever release-date news articles (sitemap slugs),Nike,D_collab,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-05,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,7,7,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-05,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-05,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-05,SoleRetriever release-date news articles (sitemap slugs),adidas,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-05,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-06,SoleRetriever release-date news articles (sitemap slugs),ASICS,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-06,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-06,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-06,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-06,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-06,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-06,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-06,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-06,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,9,9,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-06,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-06,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-06,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-06,SoleRetriever release-date news articles (sitemap slugs),adidas,D_collab,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-06,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-07,SoleRetriever release-date news articles (sitemap slugs),ASICS,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-07,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-07,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-07,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,7,7,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-07,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-07,SoleRetriever release-date news articles (sitemap slugs),New Balance,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-07,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-07,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-07,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-07,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,15,15,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-07,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,8,8,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-07,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-07,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-07,SoleRetriever release-date news articles (sitemap slugs),adidas,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-07,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-08,SoleRetriever release-date news articles (sitemap slugs),ASICS,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-08,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-08,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,12,12,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-08,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-08,SoleRetriever release-date news articles (sitemap slugs),New Balance,D_collab,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-08,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-08,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-08,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-08,SoleRetriever release-date news articles (sitemap slugs),Nike,D_collab,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-08,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-08,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-08,SoleRetriever release-date news articles (sitemap slugs),adidas,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-08,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-09,SoleRetriever release-date news articles (sitemap slugs),ASICS,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-09,SoleRetriever release-date news articles (sitemap slugs),ASICS,D_collab,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-09,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-09,SoleRetriever release-date news articles (sitemap slugs),Jordan,B_perf_version,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-09,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,12,12,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-09,SoleRetriever release-date news articles (sitemap slugs),Jordan,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-09,SoleRetriever release-date news articles (sitemap slugs),Jordan,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-09,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-09,SoleRetriever release-date news articles (sitemap slugs),New Balance,D_collab,6,6,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-09,SoleRetriever release-date news articles (sitemap slugs),New Balance,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-09,SoleRetriever release-date news articles (sitemap slugs),Nike,A_new_model,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-09,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-09,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,8,8,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-09,SoleRetriever release-date news articles (sitemap slugs),Nike,D_collab,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-09,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-09,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-09,SoleRetriever release-date news articles (sitemap slugs),adidas,C_retro_classic,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-09,SoleRetriever release-date news articles (sitemap slugs),adidas,D_collab,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-09,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-10,SoleRetriever release-date news articles (sitemap slugs),ASICS,U_unmatched,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-10,SoleRetriever release-date news articles (sitemap slugs),Jordan,C_retro_classic,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-10,SoleRetriever release-date news articles (sitemap slugs),Jordan,D_collab,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-10,SoleRetriever release-date news articles (sitemap slugs),New Balance,C_retro_classic,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-10,SoleRetriever release-date news articles (sitemap slugs),Nike,B_perf_version,3,3,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-10,SoleRetriever release-date news articles (sitemap slugs),Nike,C_retro_classic,5,5,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-10,SoleRetriever release-date news articles (sitemap slugs),Nike,D_collab,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-10,SoleRetriever release-date news articles (sitemap slugs),Nike,U_unmatched,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-10,SoleRetriever release-date news articles (sitemap slugs),adidas,B_perf_version,4,4,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-10,SoleRetriever release-date news articles (sitemap slugs),adidas,D_collab,2,2,0,0,"article lastmod (announcement month, not release month)",OPENED
+2026-10,SoleRetriever release-date news articles (sitemap slugs),adidas,U_unmatched,1,1,0,0,"article lastmod (announcement month, not release month)",OPENED

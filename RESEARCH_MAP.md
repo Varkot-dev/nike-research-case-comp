@@ -102,6 +102,20 @@ On the default branch: franchise oversupply, DTC and wholesale, the execution vs
 
 ## In progress
 
+### Wave 3 hunt (DONE Oct 16, 2026, Academic research session; outputs in `research_notes/Wave 3/`, start with `00_WAVE3_SYNTHESIS.md`; no smoking gun; Street FY28 now near our bear case, margin argument leads)
+| # | Question | Planned output |
+|---|---|---|
+| W1 | Management's own internal targets: 2026 proxy PSU and PSP goals (FY27 to FY29 revenue, EPS, EBIT), retention award terms, the Mar 2026 $1B 364-day facility terms and covenants | `W1_internal_targets.md` |
+| W2 | CFO Denton's investor-day playbook at Lowe's and CVS: targets set, dated or not, met or missed, stock reaction | `W2_denton_playbook.md` |
+| W3 | Supplier order-book guidance for 2027: Feng Tay, Pou Chen, Yue Yuen, Lai Yih, Eclat, Makalot, Shenzhou, Changshin investor conferences (Chinese, Korean) | `W3_supplier_order_guidance.md` |
+| W4 | Supplier labor cuts in local-language press: Vietnam, Indonesia, Cambodia, India Nike-supplier layoffs and hiring 2025 to 2026 | `W4_supplier_labor.md` |
+| W5 | China real-time nowcast: Pou Sheng monthly revenue and Topsports quarterly operational updates through Sep 2026 into Nike Q2 FY27 | `W5_china_nowcast.md` |
+| W6 | Wholesale customers' Nike purchase share over time: Foot Locker, DICK'S, JD Sports, Academy, Hibbett, Genesco, Snipes, Zalando, Intersport | `W6_customer_purchase_share.md` |
+| W7 | Consensus revision dynamics: FY27 and FY28 EPS revision path and breadth since Jun 2026, per-broker actions, price targets | `W7_revision_dynamics.md` |
+| W8 | Product newness count: Nike, Jordan and peer launch calendars 2023 to 2026 by franchise; share of new vs retro | `W8_launch_newness.md` |
+| W9 | Demand creation spend from ad transparency: Google Ads Transparency Center, Meta Ad Library, YouTube, TV ad trackers for Nike vs peers | `W9_ad_spend.md` |
+
+
 ### Niche-source hunt (DONE Oct 15, 2026, Academic research session; outputs in `research_notes/Niche sources/`, start with `00_NICHE_SYNTHESIS.md`; no smoking gun, base-rate margin argument is the lead)
 | # | Question | Planned output |
 |---|---|---|

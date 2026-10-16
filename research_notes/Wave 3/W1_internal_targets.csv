@@ -1,0 +1,45 @@
+section,item,period_or_date,threshold,target,maximum,actual_or_value,unit,payout_or_note,source,printed_page,tag
+PSP,Adjusted Revenue (50% weight),FY2024,51199,53894,56588,51656,USD m,earnout 37% (proxy text); my interpolation 37.7%,2024 DEF 14A,33-34,OPENED (goal bar image read)
+PSP,Adjusted EBIT (50% weight),FY2024,6414,7127,8196,7062,USD m,earnout 93%; PSP payout 65%,2024 DEF 14A,33-34,OPENED (goal bar image read)
+PSP,Adjusted Revenue,FY2025,47309,49799,52289,46350,USD m,earnout 0%,2025 DEF 14A,31,OPENED (goal bar image read)
+PSP,Adjusted EBIT,FY2025,5430,6034,6939,3523,USD m,earnout 0%; PSP payout 0%,2025 DEF 14A,31,OPENED (goal bar image read)
+PSP,Adjusted Revenue,FY2026,44214,46541,48868,45809,USD m,earnout 76% (my interpolation 76.4%),2026 DEF 14A,30-31,OPENED (image and alt text)
+PSP,Adjusted EBIT,FY2026,2890,3211,3693,3334,USD m,earnout 125% (my interpolation 125.5%); calculated 101%; negative discretion to 74%,2026 DEF 14A,30-31,OPENED (image and alt text)
+PSP,Adjusted Revenue and Adjusted EBIT goals,FY2027,not disclosed,not disclosed,not disclosed,,,"disclosed only after period; FY24, FY25, FY26 goals first appeared in the proxy filed Jul 2024, Jul 2025, Jul 2026 (about 14 to 22 months after goal set)",2026 DEF 14A,30,OPENED
+PSP derived,Target EBIT margin (target EBIT / target revenue),FY2024,,13.22,,13.67,percent,actual adjusted margin = actual adj EBIT / actual adj revenue,computed from rows above,,DERIVED
+PSP derived,Target EBIT margin,FY2025,,12.12,,7.60,percent,target missed by 452 bps,computed from rows above,,DERIVED
+PSP derived,Target EBIT margin,FY2026,,6.90,,7.28,percent,target beaten by 38 bps,computed from rows above,,DERIVED
+PSP derived,Actual vs target EBIT,FY2024,,,,-0.9,percent,,computed,,DERIVED
+PSP derived,Actual vs target EBIT,FY2025,,,,-41.6,percent,35.1% below threshold,computed,,DERIVED
+PSP derived,Actual vs target EBIT,FY2026,,,,3.8,percent,,computed,,DERIVED
+PSP derived,Actual vs target revenue,FY2024,,,,-4.2,percent,,computed,,DERIVED
+PSP derived,Actual vs target revenue,FY2025,,,,-6.9,percent,,computed,,DERIVED
+PSP derived,Actual vs target revenue,FY2026,,,,-1.6,percent,,computed,,DERIVED
+PSU,Relative TSR FY2025-27 (Sep 1 2024 to Aug 31 2027),FY25-27,25th pct,55th pct,85th pct,,percentile,payout 25% / 100% / 200%; cap 100% if absolute TSR negative; People & Planet modifier +/-20 pts,2025 DEF 14A,32-33,OPENED (image read)
+PSU,Relative TSR FY2024-26,FY24-26,,,,1st percentile,percentile,payout 0%,2026 DEF 14A,33,OPENED
+PSU,Adjusted Revenue (50%) and Adjusted EPS (50%) annual growth rates with rTSR modifier 75% / none / 125%,FY26-28,not disclosed,not disclosed,not disclosed,,,"disclosed after Aug 2028 certification; payout 0-200%; vests Sep 1 2028",2026 DEF 14A,32-33,OPENED
+PSU,FY27-29 cycle metrics and goals,FY27-29,not disclosed,not disclosed,not disclosed,,,"no 8-K, proxy or 10-Q disclosure found as of Oct 16 2026 (grant date Sep 1 2026; Form 4s show RSU and option only)",Form 4s filed Sep 3 2026; Q1 FY27 10-Q,,OPENED
+Retention,Hill Dec 10 2025 retention award,vests Dec 10 2027,,15000000,,234119,USD target; units at target,50% service; 50% FY27 Adjusted Operating Margin Growth (bps above FY26 EBIT margin): 0% below target 100% at target 200% at max; numeric goal not disclosed,2026 DEF 14A,34 and 42-43,OPENED
+Retention,Non-CEO NEO retention awards (Friend Alagirisamy Heinle Leinwand),vests Dec 10 2027,,4000000,,62432,USD target each; units at target,same terms as Hill; 31216 units service half each,2026 DEF 14A,34 and 42,OPENED
+Retention,Denton Performance Cash Award,vests Dec 10 2027,100%,4000000,200%,,USD target,payout 100% to 200% of target on FY27 EBIT margin growth in bps; floor is 100% so no zero; clawback if resigns within 2 years,8-K Item 5.02 filed Jun 23 2026,Item 5.02,OPENED
+Retention,Friend Sep 18 2024 retention award,vests Sep 18 2026,,4000000,,,USD target,50% service; 50% needs 30-day average price of $100.00 (stock about $39 on Sep 1 2026),2025 DEF 14A,35,OPENED
+New hire,Denton offer letter,Jun 16 2026,,,,1450000,USD base salary,"target bonus 120%; annual LTI $11.5M (50% PSU 25% options 25% RSU); $7.25M new hire cash; $4.0M performance cash award",8-K Item 5.02 filed Jun 23 2026 (acc 0000320187-26-000070),Item 5.02,OPENED
+New hire,Ewing CCO,started Sep 7 2026,,,,,,"no 8-K Item 5.02, no 10-Q exhibit, no Form 3 found; terms not disclosed anywhere I could open",Nike release Aug 27 2026; EDGAR index Oct 16 2026,,OPENED (absence)
+Retention derived,Hill performance half at risk,FY27,,7500000,,,USD target value,0% if FY27 margin growth below target,computed from 15000000 / 2,,DERIVED
+Guidance,FY27 adjusted diluted EPS guide,FY27,1.15,1.25,1.35,,USD,excludes about 0.15 of Pace restructuring; revenue down high single digits; EBIT down by greater percent than revenue,Q1 FY27 8-K Ex 99.1 p. 2; Q1 FY27 call,,OPENED
+Guidance derived,FY27 adjusted EBIT margin implied,FY27,5.21,5.67,6.13,,percent,"assumptions: 1485m shares, 25% tax, net interest income 55, revenue -8% from 46398 = 42686",computed,,DERIVED
+Guidance derived,FY27 margin change vs FY26 reported 8.30%,FY27,-329,-263,-201,,bps,reported base includes 986 IEEPA recovery,computed,,DERIVED
+Guidance derived,FY27 margin change vs FY26 ex IEEPA benefit 6.17%,FY27,-116,-50,11,,bps,,computed,,DERIVED
+Guidance derived,FY27 margin change vs FY26 ex IEEPA and ex severance 7.00%,FY27,-199,-133,-72,,bps,,computed,,DERIVED
+Guidance derived,FY27 margin change vs FY26 PSP adjusted 7.28%,FY27,-227,-161,-99,,bps,,computed,,DERIVED
+Consensus derived,FY27 consensus EPS 1.29 to EBIT,FY27,,2499,,,USD m,margin 5.85% at 42686 revenue,computed,,DERIVED
+Consensus derived,FY28 consensus EPS 1.646 to EBIT,FY28,,3219,,,USD m,margin 7.18% to 7.78% across revenue -3% to +5% vs FY27; 25% tax; 1492m shares,computed,,DERIVED
+Consensus derived,Revenue needed for FY28 consensus EBIT to equal an 11% / 14% margin,FY28,,29268,22996,,USD m,vs 42686 FY27 central; shows 11% to 14% is not in consensus horizon,computed,,DERIVED
+Pace,Cumulative savings through FY2031 (before reinvestment and charges),FY27-31,,2500,,,USD m,"majority realized FY29 and FY30, full realization into FY31 (call); phasing by year not disclosed",Q1 FY27 8-K Item 2.05; Q1 FY27 10-Q p. 20; call Oct 1 2026,,OPENED
+Pace,Pre-tax charges,FY27-31,,1000,,300,USD m,about 300 in FY27; plus 300 severance in FY26 plan (FY26 10-K p. 30 shows 385 recognized),Q1 FY27 8-K Item 2.05,,OPENED
+Pace derived,Average annual savings if spread evenly FY27-31,FY27-31,,500,,,USD m per year,about 1.2% of FY27 central revenue per year; not a Nike figure,computed,,DERIVED
+Credit,364-day facility Mar 6 2026,matures Mar 5 2027,,1000,1500,,USD m,"SOFR + 59.5 bps flat, no 10 bps adjustment; fee 3 bps; no ratings grid; no financial covenants; MAC condition to borrow",8-K Mar 9 2026 and Ex 10.1 sec 1 and 6,Item 1.01,OPENED
+Credit,364-day facility Mar 7 2025 (replaced),matured Mar 6 2026,,1000,1500,,USD m,"SOFR + 10 bps + grid: Level I 35.75, II 48.0, III 58.5, IV 69.0; fee 1.75/2/4/6 bps",Ex 10.2 8-K Mar 10 2025,,OPENED
+Credit,Five year facility Mar 7 2025,matures Mar 7 2030,,2000,3000,,USD m,"SOFR + 10 bps + grid: Level I 34.5, II 46.0, III 57.5, IV 68.0; fee 3/4/5/7 bps; Level III is A+/A1; Level IV is below A+/A1",Ex 10.1 8-K Mar 10 2025,,OPENED
+Credit,Financial covenants all facilities,,,,,none,,"covenants: liens, merger, asset sale, sanctions, anti-corruption; change in control and judgments over 200 USD m are events of default",8-K Mar 9 2026; Ex 10.1 sec 6 and 7,,OPENED
+Credit derived,Cost of S&P cut to A on Oct 5 2026 (secondary source) on 5yr line,FY27,,0.4,,,USD m per year,"undrawn fee 5 to 7 bps on 2000; drawn margin +10.5 bps; 364-day line fixed so unchanged",computed,,DERIVED
