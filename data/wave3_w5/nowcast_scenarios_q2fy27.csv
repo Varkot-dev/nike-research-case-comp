@@ -2,4 +2,5 @@ scenario,ps_total_yoy,implied_nike_sellthrough,gap,online_cut_pts,wholesale_cc,d
 A_bull_partner_data_only,-4,-16.2,0,0,-16.2,-9,-12.9,1308,-8.1,DERIVED; see W5 note section 6 for every assumption
 B_base_partner_data_only,-8,-23.9,-2.1,0,-26.0,-15,-20.9,1187,-16.6,DERIVED; see W5 note section 6 for every assumption
 C_base_plus_online_cut,-8,-23.9,-2.1,-5,-31.0,-15,-23.6,1146,-19.4,DERIVED; see W5 note section 6 for every assumption
+E_central_C_with_direct_at_-22,-8,-23.9,-2.1,-5,-31.0,-22,-26.9,1098,-22.8,DERIVED; see W5 note section 6 for every assumption
 D_bear_PS_runrate_plus_cut,-12,-31.6,-4.6,-10,-46.2,-22,-35.1,975,-31.5,DERIVED; see W5 note section 6 for every assumption

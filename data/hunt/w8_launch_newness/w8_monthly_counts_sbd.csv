@@ -1,0 +1,645 @@
+month,src,b,cls,rows_all,rows_adult,rows_wmns,debuts,source,status
+2023-01,SBD_jordan,Jordan,C_retro_classic,10,7,1,0,SBD,realized_or_scheduled
+2023-01,SBD_main,Converse,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2023-01,SBD_main,Nike,B_perf_version,1,1,0,0,SBD,realized_or_scheduled
+2023-01,SBD_main,Nike,C_retro_classic,8,8,1,0,SBD,realized_or_scheduled
+2023-01,SBD_main,Nike,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2023-01,SBD_main,Puma,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2023-01,SBD_main,adidas,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2023-02,SBD_jordan,Jordan,C_retro_classic,11,11,3,0,SBD,realized_or_scheduled
+2023-02,SBD_jordan,Jordan,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2023-02,SBD_main,Nike,B_perf_version,2,2,0,0,SBD,realized_or_scheduled
+2023-02,SBD_main,Nike,C_retro_classic,20,20,3,0,SBD,realized_or_scheduled
+2023-02,SBD_main,Nike,D_collab,6,6,0,0,SBD,realized_or_scheduled
+2023-02,SBD_main,Other,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2023-02,SBD_main,Puma,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2023-02,SBD_main,Puma,U_unmatched,2,2,0,0,SBD,realized_or_scheduled
+2023-02,SBD_main,Reebok,U_unmatched,3,3,0,0,SBD,realized_or_scheduled
+2023-02,SBD_main,Under Armour,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2023-02,SBD_main,adidas,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2023-03,SBD_jordan,Jordan,C_retro_classic,7,7,2,0,SBD,realized_or_scheduled
+2023-03,SBD_jordan,Jordan,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2023-03,SBD_main,Converse,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2023-03,SBD_main,New Balance,C_retro_classic,1,1,0,0,SBD,realized_or_scheduled
+2023-03,SBD_main,New Balance,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2023-03,SBD_main,Nike,A_new_model,1,1,0,0,SBD,realized_or_scheduled
+2023-03,SBD_main,Nike,B_perf_version,1,1,0,0,SBD,realized_or_scheduled
+2023-03,SBD_main,Nike,C_retro_classic,20,19,4,0,SBD,realized_or_scheduled
+2023-03,SBD_main,Nike,D_collab,8,8,0,0,SBD,realized_or_scheduled
+2023-03,SBD_main,Nike,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2023-03,SBD_main,Other,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2023-03,SBD_main,Puma,U_unmatched,2,2,0,0,SBD,realized_or_scheduled
+2023-03,SBD_main,Reebok,B_perf_version,1,1,0,0,SBD,realized_or_scheduled
+2023-03,SBD_main,Reebok,U_unmatched,8,8,0,0,SBD,realized_or_scheduled
+2023-03,SBD_main,adidas,B_perf_version,2,2,0,0,SBD,realized_or_scheduled
+2023-03,SBD_main,adidas,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2023-04,SBD_jordan,Jordan,A_new_model,2,2,0,1,SBD,realized_or_scheduled
+2023-04,SBD_jordan,Jordan,C_retro_classic,7,6,0,0,SBD,realized_or_scheduled
+2023-04,SBD_jordan,Jordan,D_collab,1,1,1,0,SBD,realized_or_scheduled
+2023-04,SBD_main,Converse,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2023-04,SBD_main,Jordan,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2023-04,SBD_main,New Balance,C_retro_classic,8,8,2,0,SBD,realized_or_scheduled
+2023-04,SBD_main,New Balance,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2023-04,SBD_main,Nike,A_new_model,1,1,0,1,SBD,realized_or_scheduled
+2023-04,SBD_main,Nike,B_perf_version,1,1,0,0,SBD,realized_or_scheduled
+2023-04,SBD_main,Nike,C_retro_classic,24,23,6,0,SBD,realized_or_scheduled
+2023-04,SBD_main,Nike,D_collab,8,8,0,0,SBD,realized_or_scheduled
+2023-04,SBD_main,Puma,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2023-04,SBD_main,Reebok,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2023-04,SBD_main,Reebok,U_unmatched,2,2,0,0,SBD,realized_or_scheduled
+2023-04,SBD_main,adidas,C_retro_classic,2,2,0,0,SBD,realized_or_scheduled
+2023-04,SBD_main,adidas,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2023-05,SBD_jordan,Jordan,A_new_model,1,1,0,0,SBD,realized_or_scheduled
+2023-05,SBD_jordan,Jordan,C_retro_classic,16,16,3,0,SBD,realized_or_scheduled
+2023-05,SBD_main,Converse,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2023-05,SBD_main,New Balance,B_perf_version,1,1,0,1,SBD,realized_or_scheduled
+2023-05,SBD_main,New Balance,C_retro_classic,1,1,0,0,SBD,realized_or_scheduled
+2023-05,SBD_main,New Balance,D_collab,4,4,0,0,SBD,realized_or_scheduled
+2023-05,SBD_main,Nike,A_new_model,3,2,0,0,SBD,realized_or_scheduled
+2023-05,SBD_main,Nike,B_perf_version,2,1,0,0,SBD,realized_or_scheduled
+2023-05,SBD_main,Nike,C_retro_classic,19,18,4,0,SBD,realized_or_scheduled
+2023-05,SBD_main,Nike,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2023-05,SBD_main,Nike,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2023-05,SBD_main,Other,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2023-05,SBD_main,Puma,U_unmatched,2,2,0,0,SBD,realized_or_scheduled
+2023-05,SBD_main,Reebok,U_unmatched,3,3,0,0,SBD,realized_or_scheduled
+2023-05,SBD_main,adidas,D_collab,7,7,0,0,SBD,realized_or_scheduled
+2023-06,SBD_jordan,Jordan,A_new_model,1,1,0,0,SBD,realized_or_scheduled
+2023-06,SBD_jordan,Jordan,C_retro_classic,8,7,2,0,SBD,realized_or_scheduled
+2023-06,SBD_jordan,Jordan,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2023-07,SBD_jordan,Jordan,A_new_model,1,1,0,0,SBD,realized_or_scheduled
+2023-07,SBD_jordan,Jordan,B_perf_version,3,3,0,1,SBD,realized_or_scheduled
+2023-07,SBD_jordan,Jordan,C_retro_classic,9,8,2,0,SBD,realized_or_scheduled
+2023-07,SBD_jordan,Other,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2023-07,SBD_main,Converse,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2023-07,SBD_main,New Balance,C_retro_classic,5,5,0,0,SBD,realized_or_scheduled
+2023-07,SBD_main,New Balance,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2023-07,SBD_main,Nike,A_new_model,2,2,0,0,SBD,realized_or_scheduled
+2023-07,SBD_main,Nike,C_retro_classic,16,16,3,0,SBD,realized_or_scheduled
+2023-07,SBD_main,Nike,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2023-07,SBD_main,adidas,D_collab,4,4,0,0,SBD,realized_or_scheduled
+2023-08,SBD_jordan,Jordan,A_new_model,1,1,0,0,SBD,realized_or_scheduled
+2023-08,SBD_jordan,Jordan,B_perf_version,2,2,0,1,SBD,realized_or_scheduled
+2023-08,SBD_jordan,Jordan,C_retro_classic,12,12,4,0,SBD,realized_or_scheduled
+2023-08,SBD_jordan,Jordan,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2023-08,SBD_main,New Balance,C_retro_classic,1,1,0,0,SBD,realized_or_scheduled
+2023-08,SBD_main,New Balance,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2023-08,SBD_main,Nike,A_new_model,3,2,0,0,SBD,realized_or_scheduled
+2023-08,SBD_main,Nike,B_perf_version,1,0,0,0,SBD,realized_or_scheduled
+2023-08,SBD_main,Nike,C_retro_classic,27,27,5,0,SBD,realized_or_scheduled
+2023-08,SBD_main,Nike,D_collab,8,8,0,0,SBD,realized_or_scheduled
+2023-08,SBD_main,Puma,U_unmatched,2,2,0,0,SBD,realized_or_scheduled
+2023-08,SBD_main,Reebok,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2023-08,SBD_main,adidas,B_perf_version,3,3,0,2,SBD,realized_or_scheduled
+2023-08,SBD_main,adidas,C_retro_classic,1,1,0,0,SBD,realized_or_scheduled
+2023-09,SBD_jordan,Jordan,B_perf_version,2,2,1,0,SBD,realized_or_scheduled
+2023-09,SBD_jordan,Jordan,C_retro_classic,11,10,3,0,SBD,realized_or_scheduled
+2023-09,SBD_jordan,Jordan,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2023-09,SBD_main,ASICS,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2023-09,SBD_main,Converse,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2023-09,SBD_main,New Balance,C_retro_classic,7,7,0,0,SBD,realized_or_scheduled
+2023-09,SBD_main,New Balance,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2023-09,SBD_main,Nike,A_new_model,3,3,0,2,SBD,realized_or_scheduled
+2023-09,SBD_main,Nike,B_perf_version,1,1,0,1,SBD,realized_or_scheduled
+2023-09,SBD_main,Nike,C_retro_classic,11,11,1,0,SBD,realized_or_scheduled
+2023-09,SBD_main,Nike,D_collab,8,8,0,0,SBD,realized_or_scheduled
+2023-09,SBD_main,Puma,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2023-09,SBD_main,Puma,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2023-09,SBD_main,Reebok,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2023-09,SBD_main,adidas,B_perf_version,1,1,0,1,SBD,realized_or_scheduled
+2023-09,SBD_main,adidas,C_retro_classic,1,1,0,0,SBD,realized_or_scheduled
+2023-09,SBD_main,adidas,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2023-10,SBD_jordan,Jordan,A_new_model,1,1,0,0,SBD,realized_or_scheduled
+2023-10,SBD_jordan,Jordan,B_perf_version,3,3,0,1,SBD,realized_or_scheduled
+2023-10,SBD_jordan,Jordan,C_retro_classic,10,8,1,0,SBD,realized_or_scheduled
+2023-10,SBD_jordan,Jordan,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2023-10,SBD_main,New Balance,B_perf_version,2,2,0,1,SBD,realized_or_scheduled
+2023-10,SBD_main,New Balance,C_retro_classic,4,4,0,0,SBD,realized_or_scheduled
+2023-10,SBD_main,New Balance,D_collab,4,4,0,0,SBD,realized_or_scheduled
+2023-10,SBD_main,Nike,A_new_model,5,5,0,0,SBD,realized_or_scheduled
+2023-10,SBD_main,Nike,B_perf_version,3,3,0,1,SBD,realized_or_scheduled
+2023-10,SBD_main,Nike,C_retro_classic,25,25,2,0,SBD,realized_or_scheduled
+2023-10,SBD_main,Nike,D_collab,8,8,0,0,SBD,realized_or_scheduled
+2023-10,SBD_main,Nike,U_unmatched,4,4,0,0,SBD,realized_or_scheduled
+2023-10,SBD_main,Puma,B_perf_version,1,1,0,1,SBD,realized_or_scheduled
+2023-10,SBD_main,Reebok,U_unmatched,3,3,0,0,SBD,realized_or_scheduled
+2023-10,SBD_main,Under Armour,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2023-10,SBD_main,adidas,B_perf_version,6,6,0,2,SBD,realized_or_scheduled
+2023-10,SBD_main,adidas,D_collab,11,11,0,0,SBD,realized_or_scheduled
+2023-11,SBD_jordan,Jordan,A_new_model,1,1,0,0,SBD,realized_or_scheduled
+2023-11,SBD_jordan,Jordan,B_perf_version,1,1,0,0,SBD,realized_or_scheduled
+2023-11,SBD_jordan,Jordan,C_retro_classic,12,12,5,0,SBD,realized_or_scheduled
+2023-11,SBD_jordan,Jordan,D_collab,2,2,1,0,SBD,realized_or_scheduled
+2023-11,SBD_main,Converse,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2023-11,SBD_main,New Balance,C_retro_classic,4,4,0,0,SBD,realized_or_scheduled
+2023-11,SBD_main,New Balance,D_collab,2,1,0,0,SBD,realized_or_scheduled
+2023-11,SBD_main,Nike,B_perf_version,1,1,0,0,SBD,realized_or_scheduled
+2023-11,SBD_main,Nike,C_retro_classic,22,22,3,0,SBD,realized_or_scheduled
+2023-11,SBD_main,Nike,D_collab,8,8,0,0,SBD,realized_or_scheduled
+2023-11,SBD_main,Nike,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2023-11,SBD_main,Puma,U_unmatched,2,2,0,0,SBD,realized_or_scheduled
+2023-11,SBD_main,Reebok,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2023-11,SBD_main,Reebok,U_unmatched,4,4,0,0,SBD,realized_or_scheduled
+2023-11,SBD_main,Under Armour,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2023-11,SBD_main,adidas,C_retro_classic,2,2,0,0,SBD,realized_or_scheduled
+2023-11,SBD_main,adidas,D_collab,10,10,0,0,SBD,realized_or_scheduled
+2023-12,SBD_jordan,Jordan,A_new_model,1,1,0,0,SBD,realized_or_scheduled
+2023-12,SBD_jordan,Jordan,B_perf_version,1,1,0,0,SBD,realized_or_scheduled
+2023-12,SBD_jordan,Jordan,C_retro_classic,8,8,1,0,SBD,realized_or_scheduled
+2023-12,SBD_jordan,Jordan,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2023-12,SBD_main,ASICS,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2023-12,SBD_main,New Balance,C_retro_classic,1,1,0,0,SBD,realized_or_scheduled
+2023-12,SBD_main,New Balance,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2023-12,SBD_main,Nike,A_new_model,4,4,0,2,SBD,realized_or_scheduled
+2023-12,SBD_main,Nike,B_perf_version,4,3,0,1,SBD,realized_or_scheduled
+2023-12,SBD_main,Nike,C_retro_classic,21,21,1,0,SBD,realized_or_scheduled
+2023-12,SBD_main,Nike,D_collab,15,15,0,0,SBD,realized_or_scheduled
+2023-12,SBD_main,Nike,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2023-12,SBD_main,Other,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2023-12,SBD_main,Puma,B_perf_version,1,1,0,0,SBD,realized_or_scheduled
+2023-12,SBD_main,Puma,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2023-12,SBD_main,Puma,U_unmatched,2,2,0,0,SBD,realized_or_scheduled
+2023-12,SBD_main,Reebok,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2023-12,SBD_main,Reebok,U_unmatched,2,2,0,0,SBD,realized_or_scheduled
+2023-12,SBD_main,Saucony,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2023-12,SBD_main,adidas,B_perf_version,2,2,0,1,SBD,realized_or_scheduled
+2023-12,SBD_main,adidas,D_collab,6,6,0,0,SBD,realized_or_scheduled
+2024-01,SBD_jordan,Jordan,A_new_model,1,1,0,0,SBD,realized_or_scheduled
+2024-01,SBD_jordan,Jordan,B_perf_version,4,4,0,0,SBD,realized_or_scheduled
+2024-01,SBD_jordan,Jordan,C_retro_classic,12,10,2,0,SBD,realized_or_scheduled
+2024-01,SBD_main,New Balance,B_perf_version,1,1,0,0,SBD,realized_or_scheduled
+2024-01,SBD_main,New Balance,C_retro_classic,3,3,0,0,SBD,realized_or_scheduled
+2024-01,SBD_main,Nike,A_new_model,1,1,0,0,SBD,realized_or_scheduled
+2024-01,SBD_main,Nike,B_perf_version,2,2,0,1,SBD,realized_or_scheduled
+2024-01,SBD_main,Nike,C_retro_classic,9,9,6,0,SBD,realized_or_scheduled
+2024-01,SBD_main,Nike,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2024-01,SBD_main,Nike,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2024-01,SBD_main,Puma,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2024-01,SBD_main,Reebok,U_unmatched,3,3,0,0,SBD,realized_or_scheduled
+2024-01,SBD_main,adidas,B_perf_version,1,1,0,0,SBD,realized_or_scheduled
+2024-02,SBD_jordan,Jordan,B_perf_version,5,5,0,1,SBD,realized_or_scheduled
+2024-02,SBD_jordan,Jordan,C_retro_classic,8,7,2,0,SBD,realized_or_scheduled
+2024-02,SBD_main,New Balance,B_perf_version,4,4,0,2,SBD,realized_or_scheduled
+2024-02,SBD_main,New Balance,C_retro_classic,2,2,0,0,SBD,realized_or_scheduled
+2024-02,SBD_main,New Balance,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2024-02,SBD_main,Nike,A_new_model,6,6,0,2,SBD,realized_or_scheduled
+2024-02,SBD_main,Nike,B_perf_version,10,7,0,4,SBD,realized_or_scheduled
+2024-02,SBD_main,Nike,C_retro_classic,19,19,1,0,SBD,realized_or_scheduled
+2024-02,SBD_main,Nike,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2024-02,SBD_main,Puma,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2024-02,SBD_main,Puma,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2024-02,SBD_main,Reebok,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2024-02,SBD_main,Reebok,U_unmatched,2,2,0,0,SBD,realized_or_scheduled
+2024-02,SBD_main,adidas,B_perf_version,3,3,0,2,SBD,realized_or_scheduled
+2024-02,SBD_main,adidas,C_retro_classic,2,2,0,0,SBD,realized_or_scheduled
+2024-02,SBD_main,adidas,D_collab,4,4,0,0,SBD,realized_or_scheduled
+2024-03,SBD_jordan,Jordan,C_retro_classic,10,9,3,0,SBD,realized_or_scheduled
+2024-03,SBD_jordan,Jordan,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2024-03,SBD_main,Converse,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2024-03,SBD_main,New Balance,C_retro_classic,3,3,0,0,SBD,realized_or_scheduled
+2024-03,SBD_main,New Balance,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2024-03,SBD_main,Nike,A_new_model,7,7,0,1,SBD,realized_or_scheduled
+2024-03,SBD_main,Nike,B_perf_version,2,2,0,0,SBD,realized_or_scheduled
+2024-03,SBD_main,Nike,C_retro_classic,10,10,4,0,SBD,realized_or_scheduled
+2024-03,SBD_main,Nike,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2024-03,SBD_main,Nike,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2024-03,SBD_main,Other,U_unmatched,2,2,0,0,SBD,realized_or_scheduled
+2024-03,SBD_main,Puma,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2024-03,SBD_main,Reebok,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2024-03,SBD_main,adidas,B_perf_version,3,3,0,1,SBD,realized_or_scheduled
+2024-03,SBD_main,adidas,C_retro_classic,4,4,0,0,SBD,realized_or_scheduled
+2024-03,SBD_main,adidas,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2024-04,SBD_jordan,Jordan,B_perf_version,2,2,0,0,SBD,realized_or_scheduled
+2024-04,SBD_jordan,Jordan,C_retro_classic,9,8,2,0,SBD,realized_or_scheduled
+2024-04,SBD_jordan,Jordan,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2024-04,SBD_main,Converse,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2024-04,SBD_main,New Balance,B_perf_version,2,2,0,1,SBD,realized_or_scheduled
+2024-04,SBD_main,New Balance,C_retro_classic,3,3,0,0,SBD,realized_or_scheduled
+2024-04,SBD_main,New Balance,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2024-04,SBD_main,Nike,A_new_model,8,8,0,0,SBD,realized_or_scheduled
+2024-04,SBD_main,Nike,B_perf_version,1,1,0,0,SBD,realized_or_scheduled
+2024-04,SBD_main,Nike,C_retro_classic,15,15,0,0,SBD,realized_or_scheduled
+2024-04,SBD_main,Nike,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2024-04,SBD_main,Puma,B_perf_version,1,1,0,1,SBD,realized_or_scheduled
+2024-04,SBD_main,Puma,D_collab,4,4,0,0,SBD,realized_or_scheduled
+2024-04,SBD_main,Reebok,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2024-04,SBD_main,Reebok,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2024-04,SBD_main,adidas,B_perf_version,2,2,0,0,SBD,realized_or_scheduled
+2024-04,SBD_main,adidas,C_retro_classic,1,1,0,0,SBD,realized_or_scheduled
+2024-04,SBD_main,adidas,D_collab,4,4,0,0,SBD,realized_or_scheduled
+2024-05,SBD_jordan,Jordan,B_perf_version,3,3,0,0,SBD,realized_or_scheduled
+2024-05,SBD_jordan,Jordan,C_retro_classic,6,6,1,0,SBD,realized_or_scheduled
+2024-05,SBD_jordan,Jordan,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2024-05,SBD_main,ASICS,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2024-05,SBD_main,New Balance,B_perf_version,1,1,0,0,SBD,realized_or_scheduled
+2024-05,SBD_main,New Balance,C_retro_classic,2,2,0,0,SBD,realized_or_scheduled
+2024-05,SBD_main,New Balance,D_collab,4,4,0,0,SBD,realized_or_scheduled
+2024-05,SBD_main,Nike,A_new_model,2,1,0,0,SBD,realized_or_scheduled
+2024-05,SBD_main,Nike,B_perf_version,6,4,0,1,SBD,realized_or_scheduled
+2024-05,SBD_main,Nike,C_retro_classic,13,13,2,0,SBD,realized_or_scheduled
+2024-05,SBD_main,Nike,D_collab,12,12,0,0,SBD,realized_or_scheduled
+2024-05,SBD_main,Puma,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2024-05,SBD_main,Puma,U_unmatched,3,3,0,0,SBD,realized_or_scheduled
+2024-05,SBD_main,Reebok,D_collab,4,4,0,0,SBD,realized_or_scheduled
+2024-05,SBD_main,Reebok,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2024-05,SBD_main,adidas,D_collab,10,10,0,0,SBD,realized_or_scheduled
+2024-06,SBD_jordan,Jordan,B_perf_version,1,1,0,0,SBD,realized_or_scheduled
+2024-06,SBD_jordan,Jordan,C_retro_classic,11,10,2,0,SBD,realized_or_scheduled
+2024-06,SBD_jordan,Jordan,D_collab,1,1,1,0,SBD,realized_or_scheduled
+2024-06,SBD_main,ASICS,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2024-06,SBD_main,Converse,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2024-06,SBD_main,New Balance,C_retro_classic,4,4,0,0,SBD,realized_or_scheduled
+2024-06,SBD_main,New Balance,D_collab,6,6,0,0,SBD,realized_or_scheduled
+2024-06,SBD_main,Nike,A_new_model,2,2,0,1,SBD,realized_or_scheduled
+2024-06,SBD_main,Nike,B_perf_version,2,2,0,2,SBD,realized_or_scheduled
+2024-06,SBD_main,Nike,C_retro_classic,7,7,0,0,SBD,realized_or_scheduled
+2024-06,SBD_main,Nike,D_collab,12,12,0,0,SBD,realized_or_scheduled
+2024-06,SBD_main,Puma,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2024-06,SBD_main,Reebok,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2024-06,SBD_main,adidas,B_perf_version,1,1,0,1,SBD,realized_or_scheduled
+2024-06,SBD_main,adidas,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2024-07,SBD_jordan,Jordan,B_perf_version,3,3,0,2,SBD,realized_or_scheduled
+2024-07,SBD_jordan,Jordan,C_retro_classic,4,4,1,0,SBD,realized_or_scheduled
+2024-07,SBD_jordan,Jordan,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2024-07,SBD_main,ASICS,C_retro_classic,3,3,0,0,SBD,realized_or_scheduled
+2024-07,SBD_main,ASICS,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2024-07,SBD_main,New Balance,C_retro_classic,5,5,0,0,SBD,realized_or_scheduled
+2024-07,SBD_main,New Balance,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2024-07,SBD_main,Nike,A_new_model,5,5,0,1,SBD,realized_or_scheduled
+2024-07,SBD_main,Nike,B_perf_version,1,1,0,0,SBD,realized_or_scheduled
+2024-07,SBD_main,Nike,C_retro_classic,10,10,0,0,SBD,realized_or_scheduled
+2024-07,SBD_main,Nike,D_collab,5,5,0,0,SBD,realized_or_scheduled
+2024-07,SBD_main,Other,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2024-07,SBD_main,Puma,D_collab,4,4,0,0,SBD,realized_or_scheduled
+2024-07,SBD_main,Puma,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2024-07,SBD_main,Reebok,D_collab,5,5,0,0,SBD,realized_or_scheduled
+2024-07,SBD_main,adidas,B_perf_version,2,2,0,0,SBD,realized_or_scheduled
+2024-07,SBD_main,adidas,C_retro_classic,1,1,0,0,SBD,realized_or_scheduled
+2024-07,SBD_main,adidas,D_collab,5,5,0,0,SBD,realized_or_scheduled
+2024-08,SBD_jordan,Jordan,B_perf_version,1,1,0,0,SBD,realized_or_scheduled
+2024-08,SBD_jordan,Jordan,C_retro_classic,13,12,4,0,SBD,realized_or_scheduled
+2024-08,SBD_jordan,Jordan,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2024-08,SBD_main,Converse,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2024-08,SBD_main,New Balance,B_perf_version,3,3,0,2,SBD,realized_or_scheduled
+2024-08,SBD_main,New Balance,C_retro_classic,6,6,0,0,SBD,realized_or_scheduled
+2024-08,SBD_main,New Balance,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2024-08,SBD_main,Nike,A_new_model,4,4,0,1,SBD,realized_or_scheduled
+2024-08,SBD_main,Nike,B_perf_version,2,2,0,1,SBD,realized_or_scheduled
+2024-08,SBD_main,Nike,C_retro_classic,14,12,2,0,SBD,realized_or_scheduled
+2024-08,SBD_main,Nike,D_collab,6,6,0,0,SBD,realized_or_scheduled
+2024-08,SBD_main,Nike,U_unmatched,2,2,0,0,SBD,realized_or_scheduled
+2024-08,SBD_main,Puma,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2024-08,SBD_main,Reebok,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2024-08,SBD_main,Reebok,U_unmatched,3,3,0,0,SBD,realized_or_scheduled
+2024-08,SBD_main,adidas,B_perf_version,3,3,0,2,SBD,realized_or_scheduled
+2024-08,SBD_main,adidas,C_retro_classic,1,1,0,0,SBD,realized_or_scheduled
+2024-08,SBD_main,adidas,D_collab,5,5,0,0,SBD,realized_or_scheduled
+2024-08,SBD_main,adidas,U_unmatched,2,2,0,0,SBD,realized_or_scheduled
+2024-09,SBD_jordan,Jordan,C_retro_classic,6,5,0,0,SBD,realized_or_scheduled
+2024-09,SBD_jordan,Jordan,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2024-09,SBD_main,ASICS,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2024-09,SBD_main,New Balance,B_perf_version,2,2,0,1,SBD,realized_or_scheduled
+2024-09,SBD_main,New Balance,C_retro_classic,3,3,0,0,SBD,realized_or_scheduled
+2024-09,SBD_main,Nike,A_new_model,3,3,0,0,SBD,realized_or_scheduled
+2024-09,SBD_main,Nike,B_perf_version,3,3,0,2,SBD,realized_or_scheduled
+2024-09,SBD_main,Nike,C_retro_classic,16,16,0,0,SBD,realized_or_scheduled
+2024-09,SBD_main,Nike,D_collab,5,5,0,0,SBD,realized_or_scheduled
+2024-09,SBD_main,Puma,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2024-09,SBD_main,Puma,U_unmatched,3,3,0,0,SBD,realized_or_scheduled
+2024-09,SBD_main,Reebok,D_collab,4,4,0,0,SBD,realized_or_scheduled
+2024-09,SBD_main,adidas,B_perf_version,4,4,0,2,SBD,realized_or_scheduled
+2024-09,SBD_main,adidas,D_collab,5,5,0,0,SBD,realized_or_scheduled
+2024-10,SBD_jordan,Jordan,B_perf_version,2,2,0,1,SBD,realized_or_scheduled
+2024-10,SBD_jordan,Jordan,C_retro_classic,5,4,2,0,SBD,realized_or_scheduled
+2024-10,SBD_jordan,Jordan,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2024-10,SBD_main,Converse,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2024-10,SBD_main,New Balance,B_perf_version,1,1,0,0,SBD,realized_or_scheduled
+2024-10,SBD_main,New Balance,C_retro_classic,1,1,0,0,SBD,realized_or_scheduled
+2024-10,SBD_main,New Balance,D_collab,4,4,0,0,SBD,realized_or_scheduled
+2024-10,SBD_main,Nike,A_new_model,5,5,0,0,SBD,realized_or_scheduled
+2024-10,SBD_main,Nike,B_perf_version,4,4,0,0,SBD,realized_or_scheduled
+2024-10,SBD_main,Nike,C_retro_classic,13,13,0,0,SBD,realized_or_scheduled
+2024-10,SBD_main,Nike,D_collab,5,5,0,0,SBD,realized_or_scheduled
+2024-10,SBD_main,Nike,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2024-10,SBD_main,Puma,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2024-10,SBD_main,Puma,U_unmatched,2,2,0,0,SBD,realized_or_scheduled
+2024-10,SBD_main,Reebok,D_collab,5,5,0,0,SBD,realized_or_scheduled
+2024-10,SBD_main,adidas,B_perf_version,4,4,0,1,SBD,realized_or_scheduled
+2024-10,SBD_main,adidas,D_collab,6,6,0,0,SBD,realized_or_scheduled
+2024-10,SBD_main,adidas,U_unmatched,3,3,0,0,SBD,realized_or_scheduled
+2024-11,SBD_jordan,Jordan,C_retro_classic,7,6,1,0,SBD,realized_or_scheduled
+2024-11,SBD_jordan,Jordan,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2024-11,SBD_main,Jordan,B_perf_version,1,1,0,1,SBD,realized_or_scheduled
+2024-11,SBD_main,New Balance,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2024-11,SBD_main,Nike,A_new_model,3,3,0,0,SBD,realized_or_scheduled
+2024-11,SBD_main,Nike,B_perf_version,4,4,0,0,SBD,realized_or_scheduled
+2024-11,SBD_main,Nike,C_retro_classic,12,12,0,0,SBD,realized_or_scheduled
+2024-11,SBD_main,Nike,D_collab,5,5,0,0,SBD,realized_or_scheduled
+2024-11,SBD_main,Nike,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2024-11,SBD_main,Puma,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2024-11,SBD_main,Puma,U_unmatched,2,2,0,0,SBD,realized_or_scheduled
+2024-11,SBD_main,adidas,B_perf_version,2,2,0,0,SBD,realized_or_scheduled
+2024-11,SBD_main,adidas,D_collab,14,14,0,0,SBD,realized_or_scheduled
+2024-12,SBD_jordan,Jordan,C_retro_classic,4,4,1,0,SBD,realized_or_scheduled
+2024-12,SBD_jordan,Jordan,D_collab,3,3,1,0,SBD,realized_or_scheduled
+2024-12,SBD_main,ASICS,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2024-12,SBD_main,Converse,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2024-12,SBD_main,New Balance,C_retro_classic,3,3,0,0,SBD,realized_or_scheduled
+2024-12,SBD_main,Nike,A_new_model,1,1,0,0,SBD,realized_or_scheduled
+2024-12,SBD_main,Nike,B_perf_version,6,6,0,0,SBD,realized_or_scheduled
+2024-12,SBD_main,Nike,C_retro_classic,9,9,0,0,SBD,realized_or_scheduled
+2024-12,SBD_main,Nike,D_collab,20,19,0,0,SBD,realized_or_scheduled
+2024-12,SBD_main,Puma,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2024-12,SBD_main,Reebok,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2024-12,SBD_main,Under Armour,B_perf_version,2,2,0,1,SBD,realized_or_scheduled
+2024-12,SBD_main,adidas,B_perf_version,1,1,0,0,SBD,realized_or_scheduled
+2024-12,SBD_main,adidas,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2025-01,SBD_jordan,Jordan,B_perf_version,1,1,0,0,SBD,realized_or_scheduled
+2025-01,SBD_jordan,Jordan,C_retro_classic,6,6,2,0,SBD,realized_or_scheduled
+2025-01,SBD_main,New Balance,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2025-01,SBD_main,Nike,A_new_model,7,7,1,1,SBD,realized_or_scheduled
+2025-01,SBD_main,Nike,B_perf_version,4,4,0,0,SBD,realized_or_scheduled
+2025-01,SBD_main,Nike,C_retro_classic,11,10,0,0,SBD,realized_or_scheduled
+2025-01,SBD_main,Nike,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2025-01,SBD_main,Puma,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2025-01,SBD_main,Puma,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2025-01,SBD_main,Reebok,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2025-01,SBD_main,Under Armour,B_perf_version,1,1,0,0,SBD,realized_or_scheduled
+2025-01,SBD_main,adidas,B_perf_version,2,2,0,1,SBD,realized_or_scheduled
+2025-02,SBD_jordan,Jordan,B_perf_version,2,2,0,0,SBD,realized_or_scheduled
+2025-02,SBD_jordan,Jordan,C_retro_classic,7,7,2,0,SBD,realized_or_scheduled
+2025-02,SBD_jordan,Jordan,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2025-02,SBD_main,ASICS,C_retro_classic,2,2,0,0,SBD,realized_or_scheduled
+2025-02,SBD_main,ASICS,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2025-02,SBD_main,New Balance,B_perf_version,1,1,0,0,SBD,realized_or_scheduled
+2025-02,SBD_main,New Balance,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2025-02,SBD_main,Nike,A_new_model,3,3,0,1,SBD,realized_or_scheduled
+2025-02,SBD_main,Nike,B_perf_version,9,9,0,1,SBD,realized_or_scheduled
+2025-02,SBD_main,Nike,C_retro_classic,13,13,0,0,SBD,realized_or_scheduled
+2025-02,SBD_main,Nike,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2025-02,SBD_main,Puma,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2025-02,SBD_main,Reebok,U_unmatched,2,2,0,0,SBD,realized_or_scheduled
+2025-02,SBD_main,adidas,B_perf_version,5,5,0,0,SBD,realized_or_scheduled
+2025-03,SBD_jordan,Jordan,B_perf_version,1,1,0,1,SBD,realized_or_scheduled
+2025-03,SBD_jordan,Jordan,C_retro_classic,5,4,1,0,SBD,realized_or_scheduled
+2025-03,SBD_jordan,Jordan,D_collab,4,4,0,0,SBD,realized_or_scheduled
+2025-03,SBD_main,ASICS,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2025-03,SBD_main,New Balance,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2025-03,SBD_main,Nike,A_new_model,2,2,0,0,SBD,realized_or_scheduled
+2025-03,SBD_main,Nike,B_perf_version,2,2,0,1,SBD,realized_or_scheduled
+2025-03,SBD_main,Nike,C_retro_classic,6,6,0,0,SBD,realized_or_scheduled
+2025-03,SBD_main,Nike,D_collab,9,9,0,0,SBD,realized_or_scheduled
+2025-03,SBD_main,Puma,U_unmatched,2,2,0,0,SBD,realized_or_scheduled
+2025-03,SBD_main,Reebok,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2025-03,SBD_main,adidas,B_perf_version,2,2,0,2,SBD,realized_or_scheduled
+2025-03,SBD_main,adidas,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2025-03,SBD_main,adidas,U_unmatched,2,2,0,0,SBD,realized_or_scheduled
+2025-04,SBD_jordan,Jordan,B_perf_version,3,3,0,1,SBD,realized_or_scheduled
+2025-04,SBD_jordan,Jordan,C_retro_classic,5,5,2,0,SBD,realized_or_scheduled
+2025-04,SBD_jordan,Jordan,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2025-04,SBD_jordan,Jordan,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2025-04,SBD_main,Converse,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2025-04,SBD_main,New Balance,B_perf_version,1,1,0,0,SBD,realized_or_scheduled
+2025-04,SBD_main,New Balance,C_retro_classic,4,4,0,0,SBD,realized_or_scheduled
+2025-04,SBD_main,New Balance,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2025-04,SBD_main,Nike,A_new_model,5,5,3,2,SBD,realized_or_scheduled
+2025-04,SBD_main,Nike,B_perf_version,5,5,0,1,SBD,realized_or_scheduled
+2025-04,SBD_main,Nike,C_retro_classic,14,14,0,0,SBD,realized_or_scheduled
+2025-04,SBD_main,Nike,D_collab,9,9,0,0,SBD,realized_or_scheduled
+2025-04,SBD_main,Puma,U_unmatched,2,2,0,0,SBD,realized_or_scheduled
+2025-04,SBD_main,Reebok,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2025-04,SBD_main,adidas,B_perf_version,2,2,0,0,SBD,realized_or_scheduled
+2025-04,SBD_main,adidas,D_collab,6,6,0,0,SBD,realized_or_scheduled
+2025-05,SBD_jordan,Jordan,B_perf_version,1,1,0,0,SBD,realized_or_scheduled
+2025-05,SBD_jordan,Jordan,C_retro_classic,8,7,2,0,SBD,realized_or_scheduled
+2025-05,SBD_jordan,Jordan,D_collab,1,1,1,0,SBD,realized_or_scheduled
+2025-05,SBD_main,Converse,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2025-05,SBD_main,New Balance,C_retro_classic,4,4,0,0,SBD,realized_or_scheduled
+2025-05,SBD_main,New Balance,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2025-05,SBD_main,Nike,A_new_model,6,6,1,1,SBD,realized_or_scheduled
+2025-05,SBD_main,Nike,B_perf_version,7,7,0,0,SBD,realized_or_scheduled
+2025-05,SBD_main,Nike,C_retro_classic,19,18,1,0,SBD,realized_or_scheduled
+2025-05,SBD_main,Nike,D_collab,9,9,0,0,SBD,realized_or_scheduled
+2025-05,SBD_main,Puma,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2025-05,SBD_main,Reebok,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2025-05,SBD_main,Reebok,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2025-05,SBD_main,adidas,B_perf_version,3,3,0,0,SBD,realized_or_scheduled
+2025-05,SBD_main,adidas,C_retro_classic,1,1,0,0,SBD,realized_or_scheduled
+2025-05,SBD_main,adidas,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2025-06,SBD_jordan,Jordan,C_retro_classic,6,5,2,0,SBD,realized_or_scheduled
+2025-06,SBD_main,New Balance,C_retro_classic,3,3,0,0,SBD,realized_or_scheduled
+2025-06,SBD_main,Nike,A_new_model,2,2,0,0,SBD,realized_or_scheduled
+2025-06,SBD_main,Nike,B_perf_version,1,1,0,0,SBD,realized_or_scheduled
+2025-06,SBD_main,Nike,C_retro_classic,11,11,0,0,SBD,realized_or_scheduled
+2025-06,SBD_main,Nike,D_collab,11,11,0,0,SBD,realized_or_scheduled
+2025-06,SBD_main,Reebok,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2025-06,SBD_main,adidas,B_perf_version,1,1,0,0,SBD,realized_or_scheduled
+2025-06,SBD_main,adidas,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2025-07,SBD_main,New Balance,D_collab,4,4,0,0,SBD,realized_or_scheduled
+2025-07,SBD_main,Nike,A_new_model,9,8,2,1,SBD,realized_or_scheduled
+2025-07,SBD_main,Nike,B_perf_version,6,6,0,3,SBD,realized_or_scheduled
+2025-07,SBD_main,Nike,C_retro_classic,4,4,0,0,SBD,realized_or_scheduled
+2025-07,SBD_main,Nike,D_collab,11,11,0,0,SBD,realized_or_scheduled
+2025-07,SBD_main,adidas,B_perf_version,4,4,0,2,SBD,realized_or_scheduled
+2025-07,SBD_main,adidas,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2025-08,SBD_jordan,Jordan,B_perf_version,1,1,0,1,SBD,realized_or_scheduled
+2025-08,SBD_jordan,Jordan,C_retro_classic,6,5,1,0,SBD,realized_or_scheduled
+2025-08,SBD_jordan,Jordan,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2025-08,SBD_main,New Balance,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2025-08,SBD_main,Nike,A_new_model,4,4,1,0,SBD,realized_or_scheduled
+2025-08,SBD_main,Nike,B_perf_version,7,7,0,0,SBD,realized_or_scheduled
+2025-08,SBD_main,Nike,C_retro_classic,15,15,0,0,SBD,realized_or_scheduled
+2025-08,SBD_main,Nike,D_collab,4,3,0,0,SBD,realized_or_scheduled
+2025-08,SBD_main,adidas,B_perf_version,2,2,0,0,SBD,realized_or_scheduled
+2025-08,SBD_main,adidas,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2025-09,SBD_jordan,Jordan,B_perf_version,1,1,0,0,SBD,realized_or_scheduled
+2025-09,SBD_jordan,Jordan,C_retro_classic,6,6,1,0,SBD,realized_or_scheduled
+2025-09,SBD_main,Converse,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2025-09,SBD_main,Nike,A_new_model,2,2,0,0,SBD,realized_or_scheduled
+2025-09,SBD_main,Nike,B_perf_version,2,2,0,0,SBD,realized_or_scheduled
+2025-09,SBD_main,Nike,C_retro_classic,10,10,1,0,SBD,realized_or_scheduled
+2025-09,SBD_main,Nike,D_collab,12,11,2,0,SBD,realized_or_scheduled
+2025-09,SBD_main,Puma,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2025-09,SBD_main,Reebok,U_unmatched,3,3,0,0,SBD,realized_or_scheduled
+2025-09,SBD_main,adidas,B_perf_version,1,1,0,0,SBD,realized_or_scheduled
+2025-09,SBD_main,adidas,D_collab,7,7,0,0,SBD,realized_or_scheduled
+2025-10,SBD_jordan,Jordan,B_perf_version,2,2,0,1,SBD,realized_or_scheduled
+2025-10,SBD_jordan,Jordan,C_retro_classic,5,4,1,0,SBD,realized_or_scheduled
+2025-10,SBD_jordan,Jordan,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2025-10,SBD_main,Converse,U_unmatched,3,3,0,0,SBD,realized_or_scheduled
+2025-10,SBD_main,Jordan,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2025-10,SBD_main,New Balance,C_retro_classic,5,5,0,0,SBD,realized_or_scheduled
+2025-10,SBD_main,New Balance,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2025-10,SBD_main,Nike,A_new_model,7,7,0,2,SBD,realized_or_scheduled
+2025-10,SBD_main,Nike,B_perf_version,10,10,0,1,SBD,realized_or_scheduled
+2025-10,SBD_main,Nike,C_retro_classic,14,14,1,0,SBD,realized_or_scheduled
+2025-10,SBD_main,Nike,D_collab,9,9,0,0,SBD,realized_or_scheduled
+2025-10,SBD_main,Puma,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2025-10,SBD_main,adidas,B_perf_version,3,3,0,1,SBD,realized_or_scheduled
+2025-10,SBD_main,adidas,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2025-11,SBD_jordan,Jordan,B_perf_version,2,2,0,0,SBD,realized_or_scheduled
+2025-11,SBD_jordan,Jordan,C_retro_classic,13,11,3,0,SBD,realized_or_scheduled
+2025-11,SBD_jordan,Jordan,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2025-11,SBD_main,New Balance,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2025-11,SBD_main,Nike,A_new_model,3,3,0,0,SBD,realized_or_scheduled
+2025-11,SBD_main,Nike,B_perf_version,6,6,0,0,SBD,realized_or_scheduled
+2025-11,SBD_main,Nike,C_retro_classic,12,12,0,0,SBD,realized_or_scheduled
+2025-11,SBD_main,Nike,D_collab,7,7,0,0,SBD,realized_or_scheduled
+2025-11,SBD_main,Puma,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2025-11,SBD_main,Reebok,U_unmatched,2,2,0,0,SBD,realized_or_scheduled
+2025-11,SBD_main,adidas,B_perf_version,2,2,0,0,SBD,realized_or_scheduled
+2025-12,SBD_jordan,Jordan,A_new_model,2,2,0,1,SBD,realized_or_scheduled
+2025-12,SBD_jordan,Jordan,B_perf_version,1,1,0,0,SBD,realized_or_scheduled
+2025-12,SBD_jordan,Jordan,C_retro_classic,4,4,0,0,SBD,realized_or_scheduled
+2025-12,SBD_jordan,Jordan,D_collab,5,5,0,0,SBD,realized_or_scheduled
+2025-12,SBD_main,Converse,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2025-12,SBD_main,Converse,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2025-12,SBD_main,New Balance,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2025-12,SBD_main,Nike,A_new_model,8,8,2,1,SBD,realized_or_scheduled
+2025-12,SBD_main,Nike,B_perf_version,10,10,0,0,SBD,realized_or_scheduled
+2025-12,SBD_main,Nike,C_retro_classic,11,11,0,0,SBD,realized_or_scheduled
+2025-12,SBD_main,Nike,D_collab,17,17,1,0,SBD,realized_or_scheduled
+2025-12,SBD_main,Other,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2025-12,SBD_main,adidas,B_perf_version,3,3,0,0,SBD,realized_or_scheduled
+2026-01,SBD_jordan,Jordan,B_perf_version,3,3,0,1,SBD,realized_or_scheduled
+2026-01,SBD_jordan,Jordan,C_retro_classic,5,4,0,0,SBD,realized_or_scheduled
+2026-01,SBD_main,Converse,U_unmatched,2,2,0,0,SBD,realized_or_scheduled
+2026-01,SBD_main,Nike,A_new_model,6,5,1,2,SBD,realized_or_scheduled
+2026-01,SBD_main,Nike,B_perf_version,8,8,0,1,SBD,realized_or_scheduled
+2026-01,SBD_main,Nike,C_retro_classic,6,6,0,0,SBD,realized_or_scheduled
+2026-01,SBD_main,Nike,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2026-01,SBD_main,Reebok,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2026-01,SBD_main,adidas,B_perf_version,2,2,0,0,SBD,realized_or_scheduled
+2026-01,SBD_main,adidas,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2026-02,SBD_jordan,Jordan,C_retro_classic,9,9,3,0,SBD,realized_or_scheduled
+2026-02,SBD_jordan,Jordan,D_collab,7,7,0,0,SBD,realized_or_scheduled
+2026-02,SBD_main,Converse,B_perf_version,1,1,0,1,SBD,realized_or_scheduled
+2026-02,SBD_main,Nike,A_new_model,6,6,0,2,SBD,realized_or_scheduled
+2026-02,SBD_main,Nike,B_perf_version,18,18,0,1,SBD,realized_or_scheduled
+2026-02,SBD_main,Nike,C_retro_classic,18,18,0,0,SBD,realized_or_scheduled
+2026-02,SBD_main,Nike,D_collab,9,9,0,0,SBD,realized_or_scheduled
+2026-02,SBD_main,Other,U_unmatched,2,2,0,0,SBD,realized_or_scheduled
+2026-02,SBD_main,Reebok,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2026-02,SBD_main,adidas,B_perf_version,6,6,0,2,SBD,realized_or_scheduled
+2026-02,SBD_main,adidas,D_collab,5,5,0,0,SBD,realized_or_scheduled
+2026-03,SBD_jordan,Jordan,C_retro_classic,7,7,1,0,SBD,realized_or_scheduled
+2026-03,SBD_jordan,Jordan,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2026-03,SBD_main,Converse,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2026-03,SBD_main,Nike,A_new_model,4,4,1,2,SBD,realized_or_scheduled
+2026-03,SBD_main,Nike,B_perf_version,8,8,0,0,SBD,realized_or_scheduled
+2026-03,SBD_main,Nike,C_retro_classic,17,17,0,0,SBD,realized_or_scheduled
+2026-03,SBD_main,Nike,D_collab,16,15,1,0,SBD,realized_or_scheduled
+2026-03,SBD_main,Other,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2026-03,SBD_main,Reebok,U_unmatched,2,2,0,0,SBD,realized_or_scheduled
+2026-03,SBD_main,adidas,B_perf_version,4,4,0,1,SBD,realized_or_scheduled
+2026-03,SBD_main,adidas,D_collab,5,5,0,0,SBD,realized_or_scheduled
+2026-04,SBD_jordan,Jordan,A_new_model,1,1,0,0,SBD,realized_or_scheduled
+2026-04,SBD_jordan,Jordan,C_retro_classic,7,6,2,0,SBD,realized_or_scheduled
+2026-04,SBD_jordan,Jordan,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2026-04,SBD_main,New Balance,C_retro_classic,2,2,0,0,SBD,realized_or_scheduled
+2026-04,SBD_main,New Balance,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2026-04,SBD_main,Nike,A_new_model,6,6,0,1,SBD,realized_or_scheduled
+2026-04,SBD_main,Nike,B_perf_version,6,6,0,0,SBD,realized_or_scheduled
+2026-04,SBD_main,Nike,C_retro_classic,17,17,0,0,SBD,realized_or_scheduled
+2026-04,SBD_main,Nike,D_collab,10,10,0,0,SBD,realized_or_scheduled
+2026-04,SBD_main,Other,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2026-04,SBD_main,Reebok,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2026-04,SBD_main,Vans,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2026-04,SBD_main,adidas,B_perf_version,5,5,0,0,SBD,realized_or_scheduled
+2026-04,SBD_main,adidas,D_collab,5,5,0,0,SBD,realized_or_scheduled
+2026-05,SBD_jordan,Jordan,C_retro_classic,8,7,1,0,SBD,realized_or_scheduled
+2026-05,SBD_jordan,Jordan,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2026-05,SBD_main,Nike,A_new_model,4,4,0,0,SBD,realized_or_scheduled
+2026-05,SBD_main,Nike,B_perf_version,15,15,0,2,SBD,realized_or_scheduled
+2026-05,SBD_main,Nike,C_retro_classic,14,14,0,0,SBD,realized_or_scheduled
+2026-05,SBD_main,Nike,D_collab,4,4,0,0,SBD,realized_or_scheduled
+2026-05,SBD_main,Puma,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2026-05,SBD_main,Reebok,U_unmatched,3,3,0,0,SBD,realized_or_scheduled
+2026-05,SBD_main,adidas,B_perf_version,1,1,0,0,SBD,realized_or_scheduled
+2026-05,SBD_main,adidas,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2026-06,SBD_jordan,Jordan,C_retro_classic,4,4,0,0,SBD,realized_or_scheduled
+2026-06,SBD_main,Nike,B_perf_version,5,5,0,0,SBD,realized_or_scheduled
+2026-06,SBD_main,Nike,C_retro_classic,17,17,2,0,SBD,realized_or_scheduled
+2026-06,SBD_main,Nike,D_collab,7,7,0,0,SBD,realized_or_scheduled
+2026-06,SBD_main,Reebok,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2026-06,SBD_main,Vans,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2026-06,SBD_main,adidas,D_collab,3,3,0,0,SBD,realized_or_scheduled
+2026-07,SBD_jordan,Jordan,C_retro_classic,6,5,1,0,SBD,realized_or_scheduled
+2026-07,SBD_main,Converse,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2026-07,SBD_main,Nike,A_new_model,5,5,2,0,SBD,realized_or_scheduled
+2026-07,SBD_main,Nike,B_perf_version,12,12,0,1,SBD,realized_or_scheduled
+2026-07,SBD_main,Nike,C_retro_classic,11,11,0,0,SBD,realized_or_scheduled
+2026-07,SBD_main,Nike,D_collab,5,5,0,0,SBD,realized_or_scheduled
+2026-07,SBD_main,Reebok,B_perf_version,1,1,0,1,SBD,realized_or_scheduled
+2026-07,SBD_main,adidas,D_collab,2,2,0,0,SBD,realized_or_scheduled
+2026-07,SBD_main,adidas,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2026-08,SBD_jordan,Jordan,C_retro_classic,11,10,1,0,SBD,realized_or_scheduled
+2026-08,SBD_jordan,Jordan,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2026-08,SBD_main,New Balance,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2026-08,SBD_main,New Balance,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2026-08,SBD_main,Nike,A_new_model,2,2,0,1,SBD,realized_or_scheduled
+2026-08,SBD_main,Nike,B_perf_version,12,12,0,2,SBD,realized_or_scheduled
+2026-08,SBD_main,Nike,C_retro_classic,15,15,0,0,SBD,realized_or_scheduled
+2026-08,SBD_main,Nike,D_collab,11,11,0,0,SBD,realized_or_scheduled
+2026-08,SBD_main,Reebok,U_unmatched,4,4,0,0,SBD,realized_or_scheduled
+2026-08,SBD_main,adidas,D_collab,4,4,0,0,SBD,realized_or_scheduled
+2026-09,SBD_jordan,Jordan,A_new_model,1,1,0,0,SBD,realized_or_scheduled
+2026-09,SBD_jordan,Jordan,C_retro_classic,9,9,3,0,SBD,realized_or_scheduled
+2026-09,SBD_jordan,Jordan,D_collab,4,4,1,0,SBD,realized_or_scheduled
+2026-09,SBD_main,Converse,U_unmatched,2,2,0,0,SBD,realized_or_scheduled
+2026-09,SBD_main,New Balance,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2026-09,SBD_main,Nike,A_new_model,4,4,1,0,SBD,realized_or_scheduled
+2026-09,SBD_main,Nike,B_perf_version,8,8,0,0,SBD,realized_or_scheduled
+2026-09,SBD_main,Nike,C_retro_classic,10,9,0,0,SBD,realized_or_scheduled
+2026-09,SBD_main,Nike,D_collab,8,8,0,0,SBD,realized_or_scheduled
+2026-09,SBD_main,Nike,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2026-09,SBD_main,Reebok,D_collab,1,1,0,0,SBD,realized_or_scheduled
+2026-09,SBD_main,Vans,U_unmatched,1,1,0,0,SBD,realized_or_scheduled
+2026-09,SBD_main,adidas,B_perf_version,1,1,0,1,SBD,realized_or_scheduled
+2026-09,SBD_main,adidas,D_collab,8,8,0,0,SBD,realized_or_scheduled
+2026-10,SBD_jordan,Jordan,A_new_model,1,1,0,0,SBD,announced_forward
+2026-10,SBD_jordan,Jordan,B_perf_version,2,2,0,2,SBD,announced_forward
+2026-10,SBD_jordan,Jordan,C_retro_classic,11,10,1,0,SBD,announced_forward
+2026-10,SBD_jordan,Jordan,D_collab,1,1,0,0,SBD,announced_forward
+2026-10,SBD_main,New Balance,D_collab,1,1,0,0,SBD,announced_forward
+2026-10,SBD_main,Nike,A_new_model,4,4,0,1,SBD,announced_forward
+2026-10,SBD_main,Nike,B_perf_version,8,8,0,0,SBD,announced_forward
+2026-10,SBD_main,Nike,C_retro_classic,17,17,0,0,SBD,announced_forward
+2026-10,SBD_main,Nike,D_collab,4,4,0,0,SBD,announced_forward
+2026-10,SBD_main,Puma,U_unmatched,1,1,0,0,SBD,announced_forward
+2026-10,SBD_main,Reebok,D_collab,1,1,0,0,SBD,announced_forward
+2026-10,SBD_main,Reebok,U_unmatched,1,1,0,0,SBD,announced_forward
+2026-10,SBD_main,Vans,D_collab,1,1,0,0,SBD,announced_forward
+2026-10,SBD_main,Vans,U_unmatched,1,1,0,0,SBD,announced_forward
+2026-10,SBD_main,adidas,B_perf_version,1,1,0,0,SBD,announced_forward
+2026-10,SBD_main,adidas,D_collab,4,4,0,0,SBD,announced_forward
+2026-11,SBD_jordan,Jordan,C_retro_classic,9,7,1,0,SBD,announced_forward
+2026-11,SBD_main,Nike,A_new_model,1,1,0,1,SBD,announced_forward
+2026-11,SBD_main,Nike,B_perf_version,3,3,0,1,SBD,announced_forward
+2026-11,SBD_main,Nike,C_retro_classic,6,6,0,0,SBD,announced_forward
+2026-11,SBD_main,Nike,D_collab,1,1,0,0,SBD,announced_forward
+2026-11,SBD_main,Nike,U_unmatched,1,1,0,0,SBD,announced_forward
+2026-11,SBD_main,Vans,U_unmatched,3,3,0,0,SBD,announced_forward
+2026-11,SBD_main,adidas,B_perf_version,1,1,0,0,SBD,announced_forward
+2026-12,SBD_jordan,Jordan,C_retro_classic,6,6,0,0,SBD,announced_forward
+2026-12,SBD_jordan,Jordan,D_collab,1,1,1,0,SBD,announced_forward
+2026-12,SBD_main,Nike,A_new_model,1,1,0,0,SBD,announced_forward
+2026-12,SBD_main,Nike,B_perf_version,1,1,0,0,SBD,announced_forward
+2026-12,SBD_main,Nike,C_retro_classic,3,3,0,0,SBD,announced_forward
+2026-12,SBD_main,Nike,D_collab,1,1,0,0,SBD,announced_forward
+2026-12,SBD_main,Nike,U_unmatched,1,1,0,0,SBD,announced_forward
+2026-12,SBD_main,Vans,U_unmatched,1,1,0,0,SBD,announced_forward
+2026-12,SBD_main,adidas,D_collab,2,2,0,0,SBD,announced_forward
+2027-01,SBD_jordan,Jordan,C_retro_classic,6,6,1,0,SBD,announced_forward
+2027-01,SBD_main,Nike,A_new_model,2,2,0,0,SBD,announced_forward
+2027-01,SBD_main,Nike,C_retro_classic,1,1,0,0,SBD,announced_forward
+2027-02,SBD_jordan,Jordan,C_retro_classic,8,8,0,0,SBD,announced_forward
+2027-02,SBD_jordan,Jordan,D_collab,2,2,0,0,SBD,announced_forward
+2027-02,SBD_main,Nike,A_new_model,1,1,0,0,SBD,announced_forward
+2027-02,SBD_main,Nike,C_retro_classic,4,4,0,0,SBD,announced_forward
+2027-03,SBD_jordan,Jordan,C_retro_classic,6,6,1,0,SBD,announced_forward
+2027-03,SBD_main,Nike,A_new_model,1,1,0,0,SBD,announced_forward
+2027-04,SBD_jordan,Jordan,C_retro_classic,7,7,1,0,SBD,announced_forward
+2027-05,SBD_jordan,Jordan,C_retro_classic,6,6,0,0,SBD,announced_forward
+2027-06,SBD_jordan,Jordan,C_retro_classic,6,6,0,0,SBD,announced_forward
+2027-06,SBD_jordan,Jordan,D_collab,1,1,0,0,SBD,announced_forward

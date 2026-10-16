@@ -57,6 +57,7 @@ sc={
  'A_bull_partner_data_only':scen(-4,0,0,-9),
  'B_base_partner_data_only':scen(-8,round(mg,1),0,-15),
  'C_base_plus_online_cut':scen(-8,round(mg,1),-5,-15),
+ 'E_central_C_with_direct_at_-22':scen(-8,round(mg,1),-5,-22),
  'D_bear_PS_runrate_plus_cut':scen(-12,round(mg-sdg,1),-10,-22),
 }
 for k,v in sc.items(): print(k,v)

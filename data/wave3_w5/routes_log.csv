@@ -1,0 +1,27 @@
+target,route,result,detail
+Pou Sheng monthly revenue,HKEXnews title search stockId 23491 (MONTHLY REVENUE ANNOUNCEMENT),WORKED,58 filings Dec 2021 to Sep 2026 parsed; Sep 2026 doc 2026101200300
+Pou Chen mfg vs retail split,Taiwan MOPS t05st10_ifrs,BLOCKED,"Returns 'for security reasons this page can not be accessed' to scripted requests"
+Pou Chen mfg vs retail split,TWSE openapi t187ap05_L,BLOCKED,Same security page
+Pou Chen mfg vs retail split,pouchen.com monthly sales pages 2026 and 2025,PARTIAL,Consolidated NT$ total only (Sep 2026 NT$21.40bn); no segment split
+Pou Chen mfg vs retail split,yueyuen.com,BLOCKED,HTTP 403
+Pou Chen mfg vs retail split,HKEXnews Yue Yuen (stockId 1172) monthly revenue announcements,WORKED,46 filings Jan 2023 to Sep 2026 give manufacturing YoY and Pou Sheng YoY separately; Sep 2026 doc 2026101200384
+Pou Sheng Nike share,Pou Sheng AR2025 (2026042100610),WORKED,Largest supplier 55% of purchases (Nike by inference; Nike not named); online Nike 15% of FY25 revenue (2026072200197)
+Topsports Q2 FY27 operating update (Jun to Aug 2026),HKEXnews title search stockId 1000010460 to 2026-10-16,NOT YET PUBLISHED,Latest is board notice 2026101200757: interim results board meeting 2026-10-28
+Topsports Q2 FY27 update,Chinese web search (gelonghui/10jqka/cnyes),PARTIAL,CICC note 2026-06-26 quotes management: sales from June weaker than the Mar-May low-teens decline
+Topsports Q2 FY27 update,topsports.com.hk,BLOCKED,Connection timed out
+Topsports Q2 FY27 update,Prior-year release pattern (Oct 22 2025 doc 2025102200844),INFERENCE,Next update expected about Oct 21 to 22
+ANTA Li-Ning Xtep Q3 2026 updates,HKEXnews title search to 2026-10-16,NOT YET PUBLISHED,Latest are Q2 updates of 2026-07-15 to 07-17; prior-year Q3 dates were Oct 17 (Xtep) to Oct 27 (Anta)
+ANTA Li-Ning Xtep Q3 2026 updates,Chinese web search,NOT FOUND,No Q3 figures indexed
+361 Q3 2026,HKEX 2026101400065,WORKED,Core +mid single digit; kids +mid single digit; e-commerce +mid-to-high single digit
+NBS Sep 2026 retail sales,stats.gov.cn English press release index,NOT YET PUBLISHED,Latest retail release is Jan-Aug 2026 (2026-09-16)
+NBS Sep 2026,stats.gov.cn release calendar URL,BLOCKED,HTTP 404
+NBS Sep 2026,Prior-year pattern (Sep 2025 data released 2025-10-22),INFERENCE,Expect about Oct 19 to 22
+NBS Jun-Aug 2026 categories,stats.gov.cn English monthly releases,WORKED,18 releases parsed (Mar 2025 to Aug 2026) into nbs_monthly.csv
+HK C&SD,censtatd api get.php?id=620-67002 and 620-67003 full_series=1,WORKED,Footwear and wearing apparel value and volume to Aug 2026; param-based API call returns 403 so full_series used
+HK C&SD,census table 620-67001,PARTIAL,Total only
+Macau,Web search of DSEC Q2 2026 retail,SNIPPET,Adults clothing -2.7% YoY Q2 2026 (Trading Economics via search); DSEC page not opened; Macau immaterial to Nike
+Consensus Nike Greater China Q2 FY27,Web search x3 (Zacks/S&P/Benzinga),NOT FOUND,No Q2 FY27 China consensus indexed; Zacks GC previews found are stale (Q4 FY25)
+Consensus,S&P Global Market Intelligence preview page,BLOCKED,HTTP 403; snippet gave pre-Q1 GC consensus -12.6% to about $1.3bn and GC EBIT about $310m
+Consensus,roic.ai and fxstreet articles,BLOCKED,HTTP 403
+Consensus,sec.gov via WebFetch for Q1 FY27 10-Q,WORKED,GC revenue 1180 vs 1512 (-22% reported -26% cc); wholesale 644 vs 893; direct 536 vs 619
+FX,api.frankfurter.dev CNY monthly means,WORKED,Jun-Aug 2025 avg 7.176 and Jun-Aug 2026 6.763; Sep 2026 6.709
