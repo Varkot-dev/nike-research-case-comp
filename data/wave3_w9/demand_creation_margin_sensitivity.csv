@@ -1,0 +1,9 @@
+basis,counterfactual,actual_dc_m,cf_dc_m,ebit_uplift_m,actual_ebit_m,cf_ebit_m,ebit_margin_actual_pct,ebit_margin_cf_pct,ebit_uplift_pct,tag
+TTM to Q1FY27 (Q2FY26..Q1FY27),FY2019 ratio 9.60%,4818,4406,412,3853,4265,8.4,9.29,10.7,DERIVED; ebit_total from nike_filing_facts.csv
+TTM to Q1FY27 (Q2FY26..Q1FY27),FY2017-19 avg 9.71%,4818,4456,362,3853,4215,8.4,9.18,9.4,DERIVED; ebit_total from nike_filing_facts.csv
+TTM to Q1FY27 (Q2FY26..Q1FY27),FY2024 ratio 8.34%,4818,3827,991,3853,4844,8.4,10.55,25.7,DERIVED; ebit_total from nike_filing_facts.csv
+TTM to Q1FY27 (Q2FY26..Q1FY27),FY2022 8.24%,4818,3781,1037,3853,4890,8.4,10.65,26.9,DERIVED; ebit_total from nike_filing_facts.csv
+TTM to Q1FY27 (Q2FY26..Q1FY27),FY2021 6.99%,4818,3208,1610,3853,5463,8.4,11.9,41.8,DERIVED; ebit_total from nike_filing_facts.csv
+"TTM revenue 45,891",100 bp of revenue,,,459,,,,1.0,11.9,DERIVED: 1% x revenue; share of TTM EBIT
+"FY2026 revenue 46,398",100 bp of revenue,,,464,,,,1.0,12.0,DERIVED: 1% x revenue; share of TTM EBIT
+"FY2027 revenue if -8% (illustrative, guide is down high single digits)",100 bp of revenue,,,427,,,,1.0,11.1,DERIVED: 1% x revenue; share of TTM EBIT

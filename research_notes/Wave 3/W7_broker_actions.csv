@@ -1,0 +1,112 @@
+date,firm,from_grade,to_grade,action,pt_action,price_target,prior_target,source,tag,pulled
+2026-10-14,Berenberg Bank,,Sell,reiterated,,27.5,,"TipRanks forecast page (WebFetch summary, fetched 2026-10-16); reiteration dates differ from Yahoo",OPENED,2026-10-16
+2026-10-13,UBS,,Hold,reiterated,,,,"TipRanks forecast page (WebFetch summary, fetched 2026-10-16); reiteration dates differ from Yahoo",OPENED,2026-10-16
+2026-10-09,Deutsche Bank,,Hold,reiterated,,33,37,"MarketBeat price-target page (WebFetch summary; page refreshed Fri 2026-10-09 12:38 ET, fetched 2026-10-16); not in Yahoo list",OPENED,2026-10-16
+2026-10-09,Bank of America Securities,,Sell,reiterated,,24,,"TipRanks forecast page (WebFetch summary, fetched 2026-10-16); reiteration dates differ from Yahoo",OPENED,2026-10-16
+2026-10-09,Bernstein (Aneesha Sherman),,Buy,reiterated,,45,,"TipRanks forecast page (WebFetch summary, fetched 2026-10-16); reiteration dates differ from Yahoo",OPENED,2026-10-16
+2026-10-06,Weiss Ratings,Sell (D+),Sell (D),downgrade,,,,"MarketBeat price-target page (WebFetch summary; page refreshed Fri 2026-10-09 12:38 ET, fetched 2026-10-16); not in Yahoo list",OPENED,2026-10-16
+2026-10-06,Berenberg Bank,Hold,Sell,downgrade,Lowers,27.5,49,"MarketBeat price-target page (WebFetch summary; page refreshed Fri 2026-10-09 12:38 ET, fetched 2026-10-16); not in Yahoo list",OPENED,2026-10-16
+2026-10-06,Telsey Advisory,,Hold,reiterated,,35,,"TipRanks forecast page (WebFetch summary, fetched 2026-10-16); reiteration dates differ from Yahoo",OPENED,2026-10-16
+2026-10-05,Barclays,Overweight,Overweight,main,Lowers,37.0,48.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-10-05,Stifel Nicolaus,,Hold,reiterated,,36,,"TipRanks forecast page (WebFetch summary, fetched 2026-10-16); reiteration dates differ from Yahoo",OPENED,2026-10-16
+2026-10-02,Freedom Broker,Sell,Buy,up,Lowers,51.0,54.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-10-02,UBS,Neutral,Neutral,main,Lowers,34.0,42.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-10-02,Telsey Advisory Group,Market Perform,Market Perform,main,Lowers,35.0,44.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-10-02,Citigroup,Neutral,Neutral,main,Lowers,32.0,39.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-10-02,Morgan Stanley,Underweight,Underweight,main,Lowers,27.0,31.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-10-02,BNP Paribas,Underperform,Underperform,reit,Lowers,19.0,23.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-10-02,Goldman Sachs,Neutral,Neutral,main,Lowers,30.0,38.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-10-02,JP Morgan,Underweight,Underweight,main,Lowers,33.0,40.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-10-02,Truist Securities,Hold,Hold,main,Lowers,29.0,42.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-10-02,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,30.0,40.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-10-02,Piper Sandler,Neutral,Neutral,main,Lowers,28.0,38.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-10-02,RBC Capital,Sector Perform,Sector Perform,reit,Maintains,40.0,40.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-10-02,Evercore ISI Group,In-Line,In-Line,main,Lowers,28.0,34.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-10-02,Guggenheim,Buy,Buy,main,Lowers,50.0,60.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-10-02,StoneX,Hold,Hold,reit,,,,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-10-02,Needham,Hold,Hold,reit,,,,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-10-02,Baird,Neutral,Neutral,main,Lowers,36.0,44.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-10-02,Stifel,Hold,Hold,main,Lowers,36.0,40.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-10-02,B of A Securities,Underperform,Underperform,main,Lowers,24.0,30.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-10-02,BTIG,Buy,Buy,main,Lowers,50.0,55.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-10-02,Sanford C. Bernstein,,Outperform,reiterated,,45,,"MarketBeat price-target page (WebFetch summary; page refreshed Fri 2026-10-09 12:38 ET, fetched 2026-10-16); not in Yahoo list",OPENED,2026-10-16
+2026-10-02,KeyCorp,,Sector Weight,reiterated,,,,"MarketBeat price-target page (WebFetch summary; page refreshed Fri 2026-10-09 12:38 ET, fetched 2026-10-16); not in Yahoo list",OPENED,2026-10-16
+2026-10-02,BMO Capital Markets,,Underperform,reiterated,,25,,"MarketBeat price-target page (WebFetch summary; page refreshed Fri 2026-10-09 12:38 ET, fetched 2026-10-16); not in Yahoo list",OPENED,2026-10-16
+2026-10-02,Jefferies,,,set target,,60,,"MarketBeat price-target page (WebFetch summary; page refreshed Fri 2026-10-09 12:38 ET, fetched 2026-10-16); not in Yahoo list",OPENED,2026-10-16
+2026-10-02,DZ Bank,Strong-Buy,Strong Sell,downgrade,,,,"MarketBeat price-target page (WebFetch summary; page refreshed Fri 2026-10-09 12:38 ET, fetched 2026-10-16); not in Yahoo list",OPENED,2026-10-16
+2026-10-02,Williams Trading,Strong-Buy,Hold,downgrade,,30,,"MarketBeat price-target page (WebFetch summary; page refreshed Fri 2026-10-09 12:38 ET, fetched 2026-10-16); not in Yahoo list",OPENED,2026-10-16
+2026-10-01,Zacks Research,Hold,Strong Sell,downgrade,,,,"MarketBeat price-target page (WebFetch summary; page refreshed Fri 2026-10-09 12:38 ET, fetched 2026-10-16); not in Yahoo list",OPENED,2026-10-16
+2026-09-29,RBC Capital,Sector Perform,Sector Perform,main,Lowers,40.0,45.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-09-29,Raymond James,,Market Perform,reiterated,,,,"MarketBeat price-target page (WebFetch summary; page refreshed Fri 2026-10-09 12:38 ET, fetched 2026-10-16); not in Yahoo list",OPENED,2026-10-16
+2026-09-28,Deutsche Bank,Hold,Hold,main,Lowers,37.0,45.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-09-28,Piper Sandler,Neutral,Neutral,main,Lowers,38.0,45.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-09-28,Evercore ISI Group,In-Line,In-Line,main,Lowers,34.0,46.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-09-28,HSBC,Hold,Hold,lower target,Lowers,40,48,"MarketBeat price-target page (WebFetch summary; page refreshed Fri 2026-10-09 12:38 ET, fetched 2026-10-16); not in Yahoo list",OPENED,2026-10-16
+2026-09-25,B of A Securities,Neutral,Underperform,down,Lowers,30.0,47.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-09-23,Oppenheimer,Outperform,Outperform,main,Lowers,52.0,60.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-09-23,Barclays,Overweight,Overweight,main,Lowers,48.0,52.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-09-23,BTIG,Buy,Buy,reit,Maintains,55.0,55.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-09-22,StoneX,,Hold,init,,,,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-09-22,Benchmark,,Hold,upgrade,,,,"MarketBeat price-target page (WebFetch summary; page refreshed Fri 2026-10-09 12:38 ET, fetched 2026-10-16); not in Yahoo list",OPENED,2026-10-16
+2026-09-21,Stifel,Hold,Hold,main,Lowers,40.0,45.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-09-17,UBS,Neutral,Neutral,main,Lowers,42.0,48.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-09-15,Telsey Advisory Group,Market Perform,Market Perform,main,Lowers,44.0,47.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-09-14,Baird,Outperform,Neutral,down,Lowers,44.0,70.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-09-14,Citigroup,Neutral,Neutral,main,Lowers,39.0,45.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-09-09,BMO Capital,,Underperform,init,Announces,30.0,,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-08-26,Truist Securities,Buy,Hold,down,Lowers,42.0,47.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-08-25,RBC Capital,Sector Perform,Sector Perform,reit,Maintains,45.0,45.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-08-04,JP Morgan,Neutral,Underweight,down,Lowers,40.0,47.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-07-01,Jefferies,Buy,Buy,main,Lowers,75.0,90.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-07-01,UBS,Neutral,Neutral,main,Lowers,48.0,50.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-07-01,Telsey Advisory Group,Market Perform,Market Perform,main,Lowers,47.0,55.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-07-01,Baird,Outperform,Outperform,reit,Maintains,70.0,70.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-07-01,BNP Paribas,Underperform,Underperform,reit,Maintains,23.0,23.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-07-01,Bernstein,Outperform,Outperform,main,Lowers,72.0,80.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-07-01,Citigroup,Neutral,Neutral,main,Lowers,45.0,47.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-07-01,Guggenheim,Buy,Buy,main,Lowers,60.0,74.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-07-01,Stifel,Hold,Hold,main,Lowers,45.0,50.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-07-01,BTIG,Buy,Buy,reit,Maintains,55.0,55.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-07-01,Piper Sandler,Neutral,Neutral,main,Lowers,45.0,50.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-07-01,Barclays,Overweight,Overweight,main,Lowers,52.0,67.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-07-01,B of A Securities,Neutral,Neutral,main,Lowers,47.0,55.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-07-01,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,40.0,45.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-06-29,JP Morgan,Neutral,Neutral,main,Lowers,47.0,52.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-06-26,Deutsche Bank,Hold,Hold,main,Lowers,43.0,51.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-06-26,Oppenheimer,Outperform,Outperform,main,Lowers,60.0,120.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-06-26,Keybanc,Overweight,Sector Weight,down,,,,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-06-25,BTIG,Buy,Buy,main,Lowers,55.0,75.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-06-23,BNP Paribas,Underperform,Underperform,reit,Maintains,23.0,23.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-06-23,Goldman Sachs,Neutral,Neutral,main,Lowers,46.0,52.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-06-23,Evercore ISI Group,Outperform,In-Line,down,Lowers,46.0,57.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-06-10,UBS,Neutral,Neutral,main,Lowers,50.0,54.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-06-10,Citigroup,Neutral,Neutral,main,Lowers,47.0,53.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-06-10,RBC Capital,Outperform,Sector Perform,down,Lowers,50.0,70.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-05-08,Wells Fargo,Overweight,Equal-Weight,down,Lowers,45.0,55.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-04-13,HSBC,Buy,Hold,down,Lowers,48.0,90.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-04-10,Piper Sandler,Overweight,Neutral,down,Lowers,50.0,60.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-04-02,Goldman Sachs,Buy,Neutral,down,Lowers,52.0,76.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-04-01,Citigroup,Neutral,Neutral,main,Lowers,53.0,65.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-04-01,Jefferies,Buy,Buy,main,Lowers,90.0,110.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-04-01,JP Morgan,Overweight,Neutral,down,Announces,52.0,,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-04-01,UBS,Neutral,Neutral,main,Lowers,54.0,58.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-04-01,Barclays,Overweight,Overweight,main,Lowers,67.0,73.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-04-01,BNP Paribas,Underperform,Underperform,main,Lowers,23.0,35.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-04-01,Piper Sandler,Overweight,Overweight,main,Lowers,60.0,75.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-04-01,Evercore ISI Group,Outperform,Outperform,main,Lowers,57.0,69.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-04-01,Wells Fargo,Overweight,Overweight,main,Lowers,55.0,65.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-04-01,Truist Securities,Buy,Buy,main,Lowers,57.0,69.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-04-01,Telsey Advisory Group,Market Perform,Market Perform,main,Lowers,55.0,65.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-04-01,Guggenheim,Buy,Buy,main,Lowers,74.0,77.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-04-01,B of A Securities,Buy,Neutral,down,Lowers,55.0,73.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-04-01,BTIG,Buy,Buy,main,Lowers,75.0,90.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-03-25,Telsey Advisory Group,Market Perform,Market Perform,main,Lowers,65.0,72.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-03-23,Deutsche Bank,Hold,Hold,main,Lowers,54.0,67.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-03-19,UBS,Neutral,Neutral,main,Lowers,58.0,62.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-03-19,BTIG,Buy,Buy,main,Lowers,90.0,100.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-03-11,Barclays,Equal-Weight,Overweight,up,Raises,73.0,64.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-03-05,RBC Capital,Outperform,Outperform,reit,Maintains,78.0,78.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-01-27,BTIG,Buy,Buy,reit,Maintains,100.0,100.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-01-22,Keybanc,Overweight,Overweight,main,Lowers,75.0,90.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-01-08,Needham,Buy,Hold,down,,,,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z
+2026-01-06,RBC Capital,Outperform,Outperform,main,Lowers,78.0,85.0,Yahoo upgradeDowngradeHistory,OPENED,2026-10-16T16:38Z

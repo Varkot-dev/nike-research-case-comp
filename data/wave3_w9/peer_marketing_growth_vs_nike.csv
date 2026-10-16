@@ -1,0 +1,36 @@
+company,period,marketing_m,pct_rev,mkt_growth_pct,rev_growth_pct,intensity_chg_bp,currency,tag
+adidas,2023,2528.0,11.8,-8.5,-4.8,-47,EUR,DERIVED from data/marketing/peer_marketing_intensity.csv
+adidas,2024,2841.0,12.0,12.4,10.5,20,EUR,DERIVED from data/marketing/peer_marketing_intensity.csv
+adidas,2025,3079.0,12.41,8.4,4.8,41,EUR,DERIVED from data/marketing/peer_marketing_intensity.csv
+Under Armour,CY2016,477.5,9.9,14.3,21.7,-64,USD,DERIVED from data/marketing/peer_marketing_intensity.csv
+Under Armour,CY2017,565.1,11.36,18.3,3.1,146,USD,DERIVED from data/marketing/peer_marketing_intensity.csv
+Under Armour,CY2018,543.8,10.47,-3.8,4.4,-89,USD,DERIVED from data/marketing/peer_marketing_intensity.csv
+Under Armour,CY2019,578.9,10.99,6.5,1.4,52,USD,DERIVED from data/marketing/peer_marketing_intensity.csv
+Under Armour,CY2020,550.4,12.3,-4.9,-15.0,131,USD,DERIVED from data/marketing/peer_marketing_intensity.csv
+Under Armour,CY2021,649.2,11.42,18.0,27.0,-88,USD,DERIVED from data/marketing/peer_marketing_intensity.csv
+Under Armour,FY2023(Mar23),620.3,10.51,-4.5,3.9,-91,USD,DERIVED from data/marketing/peer_marketing_intensity.csv
+Under Armour,FY2024(Mar24),568.5,9.97,-8.4,-3.4,-54,USD,DERIVED from data/marketing/peer_marketing_intensity.csv
+Under Armour,FY2025(Mar25),549.9,10.65,-3.3,-9.4,68,USD,DERIVED from data/marketing/peer_marketing_intensity.csv
+Under Armour,FY2026(Mar26),502.3,10.11,-8.7,-3.8,-54,USD,DERIVED from data/marketing/peer_marketing_intensity.csv
+Deckers (HOKA+UGG),FY2018(Mar18),111.7,5.87,1.9,6.3,-25,USD,DERIVED from data/marketing/peer_marketing_intensity.csv
+Deckers (HOKA+UGG),FY2019(Mar19),118.3,5.86,5.9,6.2,-1,USD,DERIVED from data/marketing/peer_marketing_intensity.csv
+Deckers (HOKA+UGG),FY2020(Mar20),144.9,6.79,22.5,5.6,93,USD,DERIVED from data/marketing/peer_marketing_intensity.csv
+Deckers (HOKA+UGG),FY2021(Mar21),188.3,7.4,30.0,19.4,61,USD,DERIVED from data/marketing/peer_marketing_intensity.csv
+Deckers (HOKA+UGG),FY2022(Mar22),255.9,8.12,35.9,23.8,72,USD,DERIVED from data/marketing/peer_marketing_intensity.csv
+Deckers (HOKA+UGG),FY2023(Mar23),271.1,7.47,5.9,15.1,-65,USD,DERIVED from data/marketing/peer_marketing_intensity.csv
+Deckers (HOKA+UGG),FY2024(Mar24),348.9,8.14,28.7,18.2,67,USD,DERIVED from data/marketing/peer_marketing_intensity.csv
+Deckers (HOKA+UGG),FY2025(Mar25),432.2,8.67,23.9,16.3,53,USD,DERIVED from data/marketing/peer_marketing_intensity.csv
+Deckers (HOKA+UGG),FY2026(Mar26),495.8,9.06,14.7,9.8,39,USD,DERIVED from data/marketing/peer_marketing_intensity.csv
+lululemon,FY2021(Jan22),297.5,4.75,37.7,42.1,-16,USD,DERIVED from data/marketing/peer_marketing_intensity.csv
+lululemon,FY2022(Jan23),328.6,4.05,10.5,29.6,-70,USD,DERIVED from data/marketing/peer_marketing_intensity.csv
+lululemon,FY2023(Jan24),429.7,4.47,30.8,18.6,42,USD,DERIVED from data/marketing/peer_marketing_intensity.csv
+lululemon,FY2024(Feb25),541.5,5.11,26.0,10.1,64,USD,DERIVED from data/marketing/peer_marketing_intensity.csv
+lululemon,FY2025(Feb26),617.5,5.56,14.0,4.9,45,USD,DERIVED from data/marketing/peer_marketing_intensity.csv
+On Holding,2022,130.2,10.65,29.6,68.7,-322,CHF,DERIVED from data/marketing/peer_marketing_intensity.csv
+On Holding,2023,195.8,10.93,50.4,46.6,28,CHF,DERIVED from data/marketing/peer_marketing_intensity.csv
+On Holding,2024,276.6,11.93,41.3,29.4,100,CHF,DERIVED from data/marketing/peer_marketing_intensity.csv
+On Holding,2025,376.5,12.49,36.1,30.0,56,CHF,DERIVED from data/marketing/peer_marketing_intensity.csv
+Nike,FY2023,4060.0,7.93,5.5,9.6,-32,USD,DERIVED from nike_filing_facts.csv
+Nike,FY2024,4285.0,8.34,5.5,0.3,42,USD,DERIVED from nike_filing_facts.csv
+Nike,FY2025,4689.0,10.13,9.4,-9.8,178,USD,DERIVED from nike_filing_facts.csv
+Nike,FY2026,4754.0,10.25,1.4,0.2,12,USD,DERIVED from nike_filing_facts.csv

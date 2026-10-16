@@ -1,0 +1,15 @@
+brand,ispot_url,window,total_creatives_catalog,national_airings_30d,spend_rank,airing_rank,national_tv_spend_usd,tag,note
+Nike,https://www.ispot.tv/brands/Atg/nike,2026-09-16 to 2026-10-16,351,282,738,1154,MASKED,OPENED,spend shown as $000000 placeholder (gated)
+adidas,https://www.ispot.tv/brands/dMQ/adidas,2026-09-16 to 2026-10-16,159,18,1797,2538,MASKED,OPENED,
+New Balance,https://www.ispot.tv/brands/AnU/new-balance,2026-09-16 to 2026-10-16,60,536,296,910,MASKED,OPENED,
+Skechers,https://www.ispot.tv/brands/dvA/skechers,2026-09-16 to 2026-10-16,455,4327,243,176,MASKED,OPENED,
+Under Armour,https://www.ispot.tv/brands/d0L/under-armour,2026-09-16 to 2026-10-16,93,10,1041,2872,MASKED,OPENED,
+Brooks Running,https://www.ispot.tv/brands/Zl3/brooks-running,2026-09-16 to 2026-10-16,23,76,849,1701,MASKED,OPENED,
+HOKA,https://www.ispot.tv/brands/t7D/hoka-one-one,2026-09-16 to 2026-10-16,5,6,3365,3135,MASKED,OPENED,
+lululemon,https://www.ispot.tv/brands/nFP/lululemon,2026-09-16 to 2026-10-16,13,3,2680,3468,MASKED,OPENED,
+Jordan,https://www.ispot.tv/brands/I0g/jordan,2026-09-16 to 2026-10-16,58,MASKED,MASKED,MASKED,MASKED,OPENED,airings/rank placeholder 0000 (page shows only creatives)
+ASICS,https://www.ispot.tv/brands/73B/asics,2026-09-16 to 2026-10-16,30,MASKED,MASKED,MASKED,MASKED,OPENED,airings/rank masked
+PUMA,https://www.ispot.tv/brands/ISO/puma,2026-09-16 to 2026-10-16,53,MASKED,MASKED,MASKED,MASKED,OPENED,airings/rank masked
+Converse,https://www.ispot.tv/brands/dEK/converse,2026-09-16 to 2026-10-16,3,MASKED,MASKED,MASKED,MASKED,OPENED,
+On (On Running),not found on iSpot search (queries: on, on running, on holding),,,,,,NOT_FOUND,OPENED,no iSpot brand page found
+Top spender benchmark (week to 2026-10-16 fetch),https://www.ispot.tv/ad/top-spenders,7 days,,5106 (Progressive),,,"$12,612,229 (Progressive, #1)",OPENED,benchmark: #1 TV spender in the week
