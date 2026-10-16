@@ -14,3 +14,10 @@ iSpot.tv,individual ad pages,2026-10-16,PARTIAL,airings, first/last airing and s
 iSpot.tv,Wayback Machine snapshots for history,2026-10-16,BLOCKED,connection reset via proxy (also 2026-10-14),OPENED
 Common Crawl index,index.commoncrawl.org for archived iSpot pages,2026-10-16,BLOCKED,connection reset,OPENED
 Press coverage of iSpot and AdClarity,mediapost.com 2026-07-02; digiday.com 2026-07-10,2026-10-16,WORKED,World Cup window figures for Nike and adidas,OPENED
+Meta Ad Library,WebFetch tool on ads/library search URL,2026-10-16,BLOCKED,HTTP 403,OPENED
+Meta Ad Library,ads/library/report (country report) via curl,2026-10-16,BLOCKED,HTTP 403 JavaScript challenge,OPENED
+LinkedIn Ad Library,WebFetch tool on ad-library/search,2026-10-16,BLOCKED,HTTP 403,OPENED
+TikTok Ad Library,WebFetch on library.tiktok.com/ads?region=DE&adv_name=nike,2026-10-16,BLOCKED,JS app returns empty content,OPENED
+Google Ads Transparency Center,advertiser page with region=DE via curl,2026-10-16,BLOCKED,HTTP 429 interstitial,OPENED
+Google Transparency Report political ads home,curl,2026-10-16,BLOCKED,HTTP 429,OPENED
+iSpot history via archive.org availability API,api returns snapshot URL (example 2025-08-04 for ispot.tv/brands/Atg/nike) but fetching web.archive.org content is reset by proxy,2026-10-16,PARTIAL,snapshot exists; content unreachable. A human browser could read the 2025-08-04 page to get a prior 30-day airing count,OPENED
