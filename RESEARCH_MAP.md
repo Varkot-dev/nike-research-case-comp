@@ -102,7 +102,7 @@ On the default branch: franchise oversupply, DTC and wholesale, the execution vs
 
 ## In progress
 
-### Wave 3 hunt (claimed Oct 16, 2026 by the Academic research session, `claude/stoic-shannon-dmkmyu`; outputs in `research_notes/Wave 3/`)
+### Wave 3 hunt (DONE Oct 16, 2026, Academic research session; outputs in `research_notes/Wave 3/`, start with `00_WAVE3_SYNTHESIS.md`; no smoking gun; Street FY28 now near our bear case, margin argument leads)
 | # | Question | Planned output |
 |---|---|---|
 | W1 | Management's own internal targets: 2026 proxy PSU and PSP goals (FY27 to FY29 revenue, EPS, EBIT), retention award terms, the Mar 2026 $1B 364-day facility terms and covenants | `W1_internal_targets.md` |
