@@ -1,0 +1,29 @@
+topic,route,result
+Vietnam layoffs 2024 to Oct 2026,"Web search, Vietnamese terms (cat giam lao dong, Pouyuen, Dong Nai, Binh Duong, Long An)","Partial: returned only the 2022 to 2023 cycle (Pouyuen 6,000 cut, Huê Phong 2,200, An Giang Samho 5,300)"
+Vietnam layoffs,"Web search, English terms (Vietnam footwear workers layoffs 2026)",Partial: 2023 stories only
+Vietnam layoffs,"LEFASO statements search (2026 orders, workers)","Partial: capacity 1.3 to 1.4B pairs, about 1.5M workers (undated), no 2026 layoff statement"
+Vietnam layoffs,"Factory-name searches: Tae Kwang Vina, Changshin, Freetrend, Hwaseung","Partial: recruitment pages only, no layoff or order news"
+Vietnam layoffs,Direct site search VnExpress (timkiem.vnexpress.net),Worked but empty: no results for 'giay cat giam lao dong'
+Vietnam layoffs,Direct site search Tuoi Tre (keyword pouyuen),"Worked: returned the Jan 2024 Tet bonus article (37,000 workers) and 2020 shutdown only"
+Vietnam layoffs,Direct site search Lao Dong,Blocked/empty (177 bytes)
+Vietnam labor level,"Pouyuen headcount via Tet bonus articles 2024, 2025, 2026 and May 2026 event","Worked: 37,000 to 39,500 to 41,000 to 40,800"
+Vietnam labor level,Dong Nai provincial recruitment outlook,"Worked (SNIPPET): demand 173,000 in 2026; Pou Phong hiring 3,000 (OPENED)"
+Vietnam official,GSO/NSO footwear production index: nso.gov.vn IIP pages,Partial: pages show 2022 data; Excel attachment not reachable
+Vietnam official,gso.gov.vn (proxy),Blocked: connect_rejected by egress proxy
+Vietnam official,NSO Q2 2026 and Q1 2026 manufacturing business survey PDFs,"Worked: leather and related sub-industry employment, orders, capacity"
+Vietnam official,"NSO Q3 2025, Q4 2025, Q1 2026 survey tables for leather row",Partial: Q4 2025 workbook has no 2-digit rows; Q1 2026 table PDF URL guessed 404; Q1 2026 narrative opened
+Indonesia layoffs,"Web search Indonesian terms (PHK pabrik sepatu Nike Tangerang, Aprisindo, Nikomas, Chang Shin, Panarub, Tah Sung Hung)","Worked: Adis, Victory Chingluh x2, Feng Tay Bandung, Nikomas"
+Indonesia layoffs,"Open CNBC Indonesia, detikFinance, Kompas, Kontan pages with curl and WebFetch","Worked for 4 outlets; Bisnis.com and Tirto returned 403 on both tools, content taken from search summaries only"
+Indonesia layoffs,BHRRC (business-humanrights.org) tracker pages,"Worked: confirms 2,804 Victory Chingluh, Nike response dated 2025-11-20 (text not retrieved)"
+Indonesia layoffs,ProPublica investigation (3 Mar 2026),"Worked: 280,000 Nike Indonesian supplier workers, -36k/+112k reallocation"
+Indonesia layoffs,"Tag pages on Kompas, detik, CNBC Indonesia for 'pabrik sepatu'","Worked: surfaced the Kompas 2,200 count; detik tag only a Mojokerto fire (Sep 2026)"
+Indonesia official,"BPS website (bps.go.id statistics-table, pressrelease)",Blocked: HTTP 403
+Indonesia official,"BPS data via Kontan, CNBC Indonesia, Katadata, Kemenperin IKI","Worked: GDP value-added growth, Feb 2026 employment, IKI August 2026"
+Indonesia official,Kemnaker layoff statistics by sector,"Partial: totals by province only, no footwear split"
+Cambodia,Web search Cambodia footwear layoffs and Nike suppliers 2026,"Partial: LeCrown (VF brands), sector exports; no Nike footwear supplier event"
+India,"Web search Tamil Nadu footwear (Hong Fu, Pou Chen High Glory, Feng Tay)","Partial: plans only, no start-up or hiring confirmation; Nike map shows Feng Tay India 21,807 to 28,261 workers"
+China,"Web search English and Chinese (Dongguan, Putian, Yue Yuen China, Huajian)",Blocked/empty: no 2024 to 2026 factory-level events; structural data only from Nike map and Yue Yuen country mix (9 percent of pairs)
+China,"Putian local press (Putian Daily), Chinese-language labor portals",Not reachable through the search tool; not tried by direct fetch
+Taiwan suppliers,"SGB Executive monthly notes, CTEE (Commercial Times) pages","Worked: Yue Yuen and Feng Tay monthly, headcount statement"
+Nike map,Compare FY21 third-party copy to Oct 14 2026 bundle at supplier-group level (repo files),Worked: group tally in W4_map_group_tally.csv
+Archives,web.archive.org / Wayback for any of the above,Blocked: connection error (same as G3 log)
