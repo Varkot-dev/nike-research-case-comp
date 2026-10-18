@@ -1,0 +1,12 @@
+slug,company,raw_name,state,city,notice_date,layoff_date,workers
+foot-locker,Foot Locker,"Foot Locker Corporate Services, Inc.",WI,Oshkosh,2023-01-23,2023-04-25,97.0
+lululemon,Lululemon,lululemon usa inc. - New York City Region,NY,New York,2023-09-27,2023-12-27,119.0
+lululemon,lululemon usa inc.,lululemon usa inc.,NY,New York,2023-09-27,2023-12-27,119.0
+lululemon,lululemon usa inc.,lululemon usa inc.,NY,New York,2023-10-02,2023-12-27,119.0
+lululemon,lululemon usa inc.,lululemon usa inc.,WA,Sumner,2024-04-18,2024-06-21,128.0
+nike,Nike,"NIKE, Inc.",OR,Beaverton,2024-04-19,2024-06-28,740.0
+converse,"Converse, Inc.","Converse, Inc.",CA,Ontario,2024-09-16,2024-11-15,31.0
+converse,"Converse, Inc.","Converse, Inc.",CA,Ontario,2024-09-16,2024-11-15,46.0
+nike,Nike,"NIKE Retail Services, Inc.",NY,New York,2025-10-31,2026-01-31,87.0
+nike,"NIKE Retail Services, Inc","NIKE Retail Services, Inc",MS,"Byhalia, Marshall County",2026-01-26,2026-04-03,193.0
+nike,Nike,"NIKE Retail Services, Inc.",TN,Shelby County,2026-01-27,,583.0

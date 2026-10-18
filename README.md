@@ -55,6 +55,30 @@
 
 ---
 
+## 4A. Is the plan working? Execution speed from alternative data
+
+We tracked 17 free alternative-data indicators across Nike's plan pillars (each with a baseline, the latest reading and the pace per quarter). The indicators were rebuilt from Common Crawl and Wayback captures, the Nike store locator, HKEX partner filings, retailer earnings calls and job postings.
+
+**What Nike controls directly is moving fast:**
+- Air Force 1 products on nike.com fell from 172 to 53 (2023H1 to 2026H1), and Dunk from 69 to 31.
+- Nike-owned in-line stores fell from 135 to 96 (Feb 2025 to Oct 2026).
+- Doors at Nike's two largest China partners fell from 8,468 to 7,322 in 18 months.
+- Sales roles rose from 7% to 16% of corporate job postings.
+
+**The market's response is flat or moving the wrong way:**
+- nike.com product pages showing a discount rose from 22.6% to 36.0% (Q3 2024 vs Q3 2026).
+- The nike.com sale page grew from 3,927 to 4,831 products.
+- Nike and Jordan's share of Foot Locker sale items is unchanged at about 37%.
+- Nike's share of Running Warehouse road-running styles slipped from 10.4% to 9.6%.
+
+**Counterpoint for Q&A:** DICK'S management's tone on Nike turned more positive, with no negative sentences across six calls.
+
+Management's promise record under Hill: 4 of 8 resolved promises kept or beaten, with 5 pending (2 at risk).
+
+Read the per-table caveats first: most sources are page samples, not full counts. (`research_notes/23_execution_speed_altdata.md`; Excel workbook `data/execution_speed/nike_execution_speed.xlsx`)
+
+---
+
 ## 5. Claims we checked and dropped or corrected
 
 | Claim that appeared earlier | What the checking found |
@@ -103,6 +127,8 @@
 | `research_notes/Niche sources/00_NICHE_SYNTHESIS.md` | Nine unusual sources (base rates, Nike history, China festivals, race shoe counts, options, subsidiaries) |
 | `research_notes/Wave 3/00_WAVE3_SYNTHESIS.md` | Management targets, suppliers, China nowcast, retailers, consensus, launches, ads |
 | `research_notes/Deep dives Oct 14/00_SYNTHESIS.md` | FY28 bridge, North America, Europe and Converse, long case and judge Q&A, valuation, dividend, Investor Day study |
+| `research_notes/23_execution_speed_altdata.md` | Execution speed: 17 alternative-data indicators by plan pillar, with an Excel workbook in `data/execution_speed/` |
+| `research_notes/22_margin_by_business_and_mix.md` | Margin by channel, region, product and Jordan, with revenue mix; wholesale about 31% to 37% vs Direct about 59% to 63% gross margin |
 | `research_notes/Long or short cruxes/00_SCOREBOARD.md` | The original eight long vs short questions and grades |
 | `RESEARCH_MAP.md` | Register of every research topic, owner and output file |
 | `REPORT.md` | Full report: financials, charts, leadership, valuation |

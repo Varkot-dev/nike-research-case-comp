@@ -1,0 +1,28 @@
+promise_id,era,topic,target,made_in,times_reaffirmed,times_pushed,times_cut,outcome,score
+D01,Donahoe,inventory,end of Q2 FY21 (Nov 2020),Q1FY21,0,0,0,Achieved on time per Q2 FY21 call.,kept
+D02,Donahoe,revenue,"FY22 revenue growth low double digits, above $50B",Q4FY21,0,0,1,"FY22 revenue $46,710M, +5% (FY22 10-K p. 56). Cut was blamed on Vietnam factory closures.",missed
+D03,Donahoe,gross_margin,FY22 gross margin +125 to 150 bp,Q4FY21,0,0,0,"FY22 gross margin 46.0% vs 44.8%, +120 bp (FY22 10-K p. 31; FY21 10-K p. 31): below the raised 'at least 150 bp'.",missed
+D04,Donahoe,long_term_revenue,FY22 to FY25 revenue growth high single to low double digits on average,Q4FY21,5,0,0,"FY21 to FY25 revenue CAGR +1.0% ($44,538M to $46,309M; FY21 10-K p. 57, FY25 10-K p. 32; my arithmetic).",missed
+D05,Donahoe,long_term_gross_margin,gross margin in the high 40s by FY25,Q4FY21,1,0,0,FY25 gross margin 42.7% (FY25 10-K p. 32).,missed
+D06,Donahoe,long_term_ebit,EBIT margin high teens by FY25,Q4FY21,2,0,0,FY25 EBIT margin 8.2% (Q4 FY25 release p. 6).,missed
+D07,Donahoe,china,Greater China low-to-mid-teens growth over the long term,Q4FY21,0,0,0,"Greater China revenue $8,290M (FY21) to $5,847M (FY26), about -7% a year (FY21 10-K p. 36, FY26 10-K p. 36; my arithmetic).",missed
+D08,Donahoe,gross_margin,FY23 gross margin flat to -50 bp,Q4FY22,0,0,2,"FY23 gross margin 43.5% vs 46.0%, -250 bp (FY23 10-K p. 31).",missed
+D09,Donahoe,revenue,FY23 revenue growth low double digits currency-neutral,Q4FY22,0,0,0,FY23 currency-neutral revenue +16% (Q4 FY23 release p. 4).,beat
+D10,Donahoe,inventory,healthy pull market by end of Q2 FY23 (Nov 2022),Q4FY22,2,1,0,Reached about two quarters late (end of FY23 instead of end of Q2 FY23).,kept_late
+D11,Donahoe,revenue,FY24 revenue growth mid single digits,Q4FY23,1,0,1,"FY24 revenue $51,362M vs $51,217M, +0.3% (FY24 10-K p. 57; FY23 10-K p. 31).",missed
+D12,Donahoe,gross_margin,FY24 gross margin +140 to 160 bp,Q4FY23,1,0,1,"FY24 gross margin 44.6% vs 43.5%, +110 bp (FY24 10-K p. 33).",missed
+D13,Donahoe,revenue,"FY25 revenue and earnings growth, margins expanding",Q3FY24,0,0,1,FY25 revenue -10% (Q4 FY25 release p. 1); diluted EPS $2.16 vs $3.73 (FY25 10-K p. 56; FY24 10-K p. 57); EBIT margin 8.2% vs 12.7%.,missed
+X01,Donahoe,investor_day,"Investor Day with 5-year algorithm, late 2024",Q3FY24,2,1,0,"Postponed about two years; now scheduled Nov 16 to 17, 2026.",pending
+H01,Hill,trough,Q4 FY25 is the worst quarter; headwinds moderate after,Q3FY25,0,0,0,"Q4 FY25 revenue -12%, gross margin -440 bp; then Q1 FY26 +1%/-320 bp, Q2 FY26 +1%/-300 bp, Q3 FY26 0%/-130 bp (10-Qs and releases; my arithmetic).",kept
+H02,Hill,clean_marketplace,healthy and clean marketplace by end of 1H FY26 (Nov 2025),Q3FY25,2,3,0,"Declared done for North America and EMEA in Dec 2025, reversed for EMEA three months later and for North America sportswear in Oct 2026; supply cuts now run into FY28.",missed
+H03,Hill,win_now_completion,Win Now actions finished by end of calendar 2026,Q3FY26,1,0,0,'Win Now' is not mentioned once in the Q1 FY27 call (0 vs 16 to 24 mentions a call before); replaced by the Pace program with savings mostly in FY29 to FY30.,pending_at_risk
+H04,Hill,wholesale,wholesale returns to modest growth in FY26,Q1FY26,0,0,0,"FY26 wholesale $27,453M vs $25,883M, +6.1% (FY26 10-K p. 32; FY25 10-K p. 33; my arithmetic).",beat
+H05,Hill,direct,NIKE Direct does not return to growth in FY26,Q1FY26,0,0,0,"FY26 NIKE Direct $17,720M vs $18,783M, -5.7% (FY26 10-K p. 32; FY25 10-K p. 33).",kept
+H06,Hill,revenue,Q4 FY26 to Q2 FY27 revenue down low single digits,Q3FY26,0,0,2,"Q4 FY26 -1%, Q1 FY27 -4% so far; window cut once, then full-year FY27 set at a high single digit decline, which implies a weaker second half.",missed
+H07,Hill,gross_margin,gross margin expansion from Q2 FY27,Q3FY26,0,0,1,"Q1 FY27 gross margin 42.8% vs 42.2%, +60 bp (Q1 FY27 10-Q p. 22). FY27 gross margin no longer guided.",partly
+H08,Hill,earnings,earnings flattish Q4 FY26 to Q2 FY27,Q3FY26,1,0,0,"Q1 FY27 diluted EPS $0.48 vs $0.49 (Q1 FY27 10-Q p. 1); Q2 FY27 reported about Dec 17, 2026.",pending
+H09,Hill,tariff,Q1 FY27 last quarter of material tariff headwind,Q3FY26,0,0,0,The word 'tariff' does not appear in the Q1 FY27 call; Q1 gross margin rose 60 bp.,pending
+H10,Hill,fy28_benefits,restructuring benefits start FY27 and build through FY28,Q3FY26,0,1,0,The new Pace program puts most of its $2.5B savings in FY29 to FY30; the FY27 to FY28 benefit language was not repeated.,pending_at_risk
+H11,Hill,margin_ambition,return to double-digit EBIT margins (no date),Q4FY25,4,0,1,Never dated in six calls. FY26 EBIT margin 8.3% (FY26 10-K p. 31); FY27 guided lower.,pending
+H12,Hill,classics,classics down more than $4B from peak by end of FY26,Q2FY26,1,0,0,Management-reported; not separately disclosed in filings.,kept
+H13,Hill,china,China recovery (never dated),Q4FY25,2,0,1,"Greater China revenue $1,180M in Q1 FY27, -22% vs $1,512M (Q1 FY27 10-Q p. 25; Q1 FY26 release p. 4; my arithmetic). No recovery date has ever been given.",missed
