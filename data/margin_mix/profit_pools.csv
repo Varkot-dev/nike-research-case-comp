@@ -1,0 +1,36 @@
+period,cut,item,revenue_usd_m,rev_share,margin_pct,margin_type,profit_share,basis
+FY2024,region,north_america,21396.0,0.4166,27.2,segment EBIT,0.4195,reported; shares DERIVED
+FY2024,region,emea,13607.0,0.2649,24.9,segment EBIT,0.2441,reported; shares DERIVED
+FY2024,region,greater_china,7545.0,0.1469,30.6,segment EBIT,0.1664,reported; shares DERIVED
+FY2024,region,apla,6729.0,0.131,28.0,segment EBIT,0.1358,reported; shares DERIVED
+FY2024,region,converse,2082.0,0.0405,22.8,segment EBIT,0.0342,reported; shares DERIVED
+FY2026,region,north_america,20511.0,0.4426,26.2,segment EBIT,0.5132,reported; shares DERIVED
+FY2026,region,emea,12572.0,0.2713,19.2,segment EBIT,0.2307,reported; shares DERIVED
+FY2026,region,greater_china,5847.0,0.1262,21.9,segment EBIT,0.122,reported; shares DERIVED
+FY2026,region,apla,6243.0,0.1347,22.2,segment EBIT,0.1324,reported; shares DERIVED
+FY2026,region,converse,1174.0,0.0253,1.5,segment EBIT,0.0017,reported; shares DERIVED
+FY2026 ex tariff recovery,region,north_america,20511.0,0.4426,21.5,segment EBIT,0.4648,DERIVED
+FY2026 ex tariff recovery,region,emea,12572.0,0.2713,19.2,segment EBIT,0.2547,DERIVED
+FY2026 ex tariff recovery,region,greater_china,5847.0,0.1262,21.9,segment EBIT,0.1347,DERIVED
+FY2026 ex tariff recovery,region,apla,6243.0,0.1347,22.2,segment EBIT,0.1462,DERIVED
+FY2026 ex tariff recovery,region,converse,1174.0,0.0253,-0.3,segment EBIT,-0.0003,DERIVED
+FY2024,product (gap x0),footwear,33427.0,0.6783,44.2,gross (ESTIMATE),0.6783,"revenue reported; margins ASSUMED from Puma gaps, calibrated to NIKE Brand GM"
+FY2024,product (gap x0),apparel,13775.0,0.2795,44.2,gross (ESTIMATE),0.2795,"revenue reported; margins ASSUMED from Puma gaps, calibrated to NIKE Brand GM"
+FY2024,product (gap x0),equipment,2075.0,0.0421,44.2,gross (ESTIMATE),0.0421,"revenue reported; margins ASSUMED from Puma gaps, calibrated to NIKE Brand GM"
+FY2024,product (gap x1),footwear,33427.0,0.6783,43.7,gross (ESTIMATE),0.6703,"revenue reported; margins ASSUMED from Puma gaps, calibrated to NIKE Brand GM"
+FY2024,product (gap x1),apparel,13775.0,0.2795,45.4,gross (ESTIMATE),0.287,"revenue reported; margins ASSUMED from Puma gaps, calibrated to NIKE Brand GM"
+FY2024,product (gap x1),equipment,2075.0,0.0421,44.9,gross (ESTIMATE),0.0428,"revenue reported; margins ASSUMED from Puma gaps, calibrated to NIKE Brand GM"
+FY2024,product (gap x3),footwear,33427.0,0.6783,42.7,gross (ESTIMATE),0.6542,"revenue reported; margins ASSUMED from Puma gaps, calibrated to NIKE Brand GM"
+FY2024,product (gap x3),apparel,13775.0,0.2795,47.8,gross (ESTIMATE),0.3018,"revenue reported; margins ASSUMED from Puma gaps, calibrated to NIKE Brand GM"
+FY2024,product (gap x3),equipment,2075.0,0.0421,46.3,gross (ESTIMATE),0.044,"revenue reported; margins ASSUMED from Puma gaps, calibrated to NIKE Brand GM"
+FY2026,product (gap x0),footwear,29525.0,0.6536,42.9,gross (ESTIMATE),0.6536,"revenue reported; margins ASSUMED from Puma gaps, calibrated to NIKE Brand GM"
+FY2026,product (gap x0),apparel,13449.0,0.2977,42.9,gross (ESTIMATE),0.2977,"revenue reported; margins ASSUMED from Puma gaps, calibrated to NIKE Brand GM"
+FY2026,product (gap x0),equipment,2199.0,0.0487,42.9,gross (ESTIMATE),0.0487,"revenue reported; margins ASSUMED from Puma gaps, calibrated to NIKE Brand GM"
+FY2026,product (gap x1),footwear,29525.0,0.6536,42.4,gross (ESTIMATE),0.645,"revenue reported; margins ASSUMED from Puma gaps, calibrated to NIKE Brand GM"
+FY2026,product (gap x1),apparel,13449.0,0.2977,44.1,gross (ESTIMATE),0.3056,"revenue reported; margins ASSUMED from Puma gaps, calibrated to NIKE Brand GM"
+FY2026,product (gap x1),equipment,2199.0,0.0487,43.6,gross (ESTIMATE),0.0494,"revenue reported; margins ASSUMED from Puma gaps, calibrated to NIKE Brand GM"
+FY2026,product (gap x3),footwear,29525.0,0.6536,41.2,gross (ESTIMATE),0.6278,"revenue reported; margins ASSUMED from Puma gaps, calibrated to NIKE Brand GM"
+FY2026,product (gap x3),apparel,13449.0,0.2977,46.3,gross (ESTIMATE),0.3213,"revenue reported; margins ASSUMED from Puma gaps, calibrated to NIKE Brand GM"
+FY2026,product (gap x3),equipment,2199.0,0.0487,44.8,gross (ESTIMATE),0.0508,"revenue reported; margins ASSUMED from Puma gaps, calibrated to NIKE Brand GM"
+FY2023,jordan,jordan_direct_share_est,8460.0,0.5493,46.2,"gross, channel-mix only (ESTIMATE)",,DERIVED: (reported 8460 - WE 6589) / (1 - 1/1.674); brand Direct share 0.438
+FY2024,jordan,jordan_direct_share_est,8701.0,0.4979,45.9,"gross, channel-mix only (ESTIMATE)",,DERIVED: (reported 8701 - WE 6988) / (1 - 1/1.654); brand Direct share 0.437
