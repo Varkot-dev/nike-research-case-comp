@@ -2,6 +2,19 @@
 
 **Status as of October 18, 2026.** Submission is Nov 1, finals are Nov 19, and Nike's Investor Day is Nov 16 to 17. No financial model has been built yet. Everything below comes from filings, free data and labelled team arithmetic. Every number in this README links to a note that carries its source, and every note says which claims were opened at the source (OPENED), seen only in a search summary (SNIPPET), or computed by us (DERIVED).
 
+**Where everything is.** The current version of the whole project, including this README, is on the **`main`** branch: https://github.com/Varkot-dev/nike-research-case-comp (the page GitHub opens by default). The branches named `claude/...` are working branches used by individual research sessions; they are not where the latest version lives. Folders:
+
+| Folder or file | What is in it |
+|---|---|
+| `README.md` | This summary of the pitch |
+| `REPORT.md` | Full report |
+| `research_notes/` | Every research note (numbered notes `01` to `23`, plus folders by research wave) |
+| `data/` | All data, one folder per topic, each with its own README. Excel workbooks: `data/execution_speed/nike_execution_speed.xlsx`, `data/valuation/jordan_valuation.xlsx` |
+| `scripts/` | The code that rebuilds the data tables and charts |
+| `charts/` | Chart images used in the report |
+| `slides/` | The pitch deck (`slides/pptx/Nike Short Thesis.pptx`) |
+| `RESEARCH_MAP.md` | Who researched what, and where each output is |
+
 ---
 
 ## 1. The call in one paragraph

@@ -7,7 +7,7 @@
 ## Protocol (every session, every time)
 
 1. **Before researching anything**, read this file. If the question is listed under *Done* or *In progress*, do not research it again. Build on the existing note instead, and say which note you are extending.
-2. **To start new research**, add a row under *In progress* (topic, the exact question, your session and branch, planned output path) and get that row onto the default branch (`claude/wonderful-franklin-u31n4e`) in a small PR **before** launching agents. If another session already claimed the topic, pick something else or coordinate.
+2. **To start new research**, add a row under *In progress* (topic, the exact question, your session and branch, planned output path) and get that row onto the default branch (`main`) in a small PR **before** launching agents. If another session already claimed the topic, pick something else or coordinate.
 3. **When you finish**, move the row to *Done*, add the output file paths and a one-line result, and merge through a PR.
 4. **Boundaries matter.** If your question touches a topic another session owns, state the overlap in your note and cite their file rather than redoing it.
 5. Keep entries short. The notes hold the detail.
