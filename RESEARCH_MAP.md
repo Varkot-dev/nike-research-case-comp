@@ -35,6 +35,7 @@
 | Revenue streams; Jordan thesis and valuation | `research_notes/11` to `13`, `research_notes/jordan_extracts/` | Revenue streams session |
 | Profit bridge and thesis scorecard | `research_notes/14_profit_bridge_and_thesis_scorecard.md` | SEC filings session |
 | Margin by business part and revenue mix: exact wholesale vs Direct gross margin split (FY19 to FY24), product margins from PUMA disclosures, Jordan Direct share, FY24 to FY26 mix bridge | `research_notes/22_margin_by_business_and_mix.md`, `data/margin_mix/`, `scripts/margin_mix/` | Margin mix session (Oct 18) |
+| Execution speed from alternative data: 17 indicators across 10 plan pillars, Excel workbook | `research_notes/23_execution_speed_altdata.md`, `data/execution_speed/`, `scripts/execution_speed/` | Margin mix session (Oct 18) |
 | Excel modeling skill; Jordan valuation workbook | `.claude/skills/excel-modeling/`, `data/valuation/jordan_valuation.xlsx`, `scripts/jordan_valuation_xlsx.py` | Excel session |
 
 ### Thesis tests (`research_notes/thesis_tests/`)
